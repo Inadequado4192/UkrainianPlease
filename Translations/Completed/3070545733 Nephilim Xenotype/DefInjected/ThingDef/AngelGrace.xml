@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GS_Grace.label>Янгольська благодать</GS_Grace.label>
+  <GS_Grace.description>Маленька пляшечка, що містить туманоподібну речовину, отриману в результаті очищення порошкоподібного галюциногену. При прийомі всередину викликає короткочасний стан абсолютного спокою та загостреного сприйняття, завдяки чому світ здається кришталево чистим, а будь-яке завдання - легким.</GS_Grace.description>
+  <GS_Grace.ingestible.ingestCommandString>Вдихати {0}</GS_Grace.ingestible.ingestCommandString>
+  <GS_Grace.ingestible.ingestReportString>Вдихає {0}.</GS_Grace.ingestible.ingestReportString>
+
+
+</LanguageData>

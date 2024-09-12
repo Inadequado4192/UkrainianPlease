@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFE_DrugCabinet.label>столик для препаратів</VFE_DrugCabinet.label>
+  <VFE_DrugCabinet.description>Підвищує швидкість роботи при розміщенні поруч з нарколабораторією. До однієї нарколабораторії можна під'єднати до двух столиків для препаратів.</VFE_DrugCabinet.description>
+
+  <VFE_MachiningCabinet.label>верстатна шафа</VFE_MachiningCabinet.label>
+  <VFE_MachiningCabinet.description>Підвищує швидкість роботи при розміщенні біля верстату. До одного верстату можна під'єднати до двух верстатних шаф.</VFE_MachiningCabinet.description>
+
+  <VFE_SmithyCabinet.label>ковальська шафа</VFE_SmithyCabinet.label>
+  <VFE_SmithyCabinet.description>Підвищує швидкість роботи при розміщенні біля кузні. До однієї кузні можна під'єднати до двух ковальських шаф.</VFE_SmithyCabinet.description>
+
+  <VFE_KitchenSinkCabinet.label>кухонна мийка</VFE_KitchenSinkCabinet.label>
+  <VFE_KitchenSinkCabinet.description>Підвищує швидкість роботи при розміщенні поблизу кухонної плити.</VFE_KitchenSinkCabinet.description>
+
+  <VFE_TailorCabinet.label>кравецька шафа</VFE_TailorCabinet.label>
+  <VFE_TailorCabinet.description>Підвищує швидкість роботи при розміщенні поблизу столу кравця. До одного столу кравця можна під'єднати до двух кравецьких шаф.</VFE_TailorCabinet.description>
+
+  <VFE_FabricationCabinet.label>виробнича шафа</VFE_FabricationCabinet.label>
+  <VFE_FabricationCabinet.description>Підвищує швидкість роботи при розміщенні поблизу верстату для виробництва. До одного верстату для виробництва можна під'єднати до двух виробничих шаф.</VFE_FabricationCabinet.description>
+
+  <VFE_TableMachiningLarge.label>великий верстат</VFE_TableMachiningLarge.label>
+  <VFE_TableMachiningLarge.description>Верстат, оснащений сучасними інструментами та достатньою кількістю місця, щоб створювати технологічні дива з простих матеріалів за коротший час. Споживає енергію.</VFE_TableMachiningLarge.description>
+
+  <VFE_TableSmithyLarge.label>велика електрична кузня</VFE_TableSmithyLarge.label>
+  <VFE_TableSmithyLarge.description>Робочий центр з електричним приводом для кування немеханічної зброї та інструментів. Споживає багато енергії.</VFE_TableSmithyLarge.description>
+
+  <VFE_TableStoveLarge.label>велика електроплита</VFE_TableStoveLarge.label>
+  <VFE_TableStoveLarge.description>Виробнича піч великого розміру, а також з декількома духовими шафами для приготування їжі значно швидше.</VFE_TableStoveLarge.description>
+
+  <VFE_TableTailorLarge.label>великий стіл кравця</VFE_TableTailorLarge.label>
+  <VFE_TableTailorLarge.description>Великий виробничий стіл з різними інструментами для дизайнерів та швейною машиною для швидкого пошиття одягу. Може працювати без електрики зі швидкістю 33% від звичайної.</VFE_TableTailorLarge.description>
+
+  <VFE_ComponentFabricationBench.label>монтажний стіл</VFE_ComponentFabricationBench.label>
+  <VFE_ComponentFabricationBench.description>Робочий стіл, оснащений сучасними інструментами для виробництва компонентів.</VFE_ComponentFabricationBench.description>
+
+  <VFE_TableButcherElectric.label>електричний стіл м'ясника</VFE_TableButcherElectric.label>
+  <VFE_TableButcherElectric.description>Моторизований стіл з дисковою пилою, для швидкого розділення мертвих істот на шматки сирого м'яса. Споживає багато енергії.</VFE_TableButcherElectric.description>
+
+  <VFE_TableDrugLabElectric.label>електрична нарколабораторія</VFE_TableDrugLabElectric.label>
+  <VFE_TableDrugLabElectric.description>Удосконалений верстат, оснащений контейнерами, нагрівачами та вимірювальними приладами для більш ефективного виробництва різних лікарських засобів. Споживає багато енергії.</VFE_TableDrugLabElectric.description>
+
+  <VFE_FueledSmelter.label>дров'яна плавильня</VFE_FueledSmelter.label>
+  <VFE_FueledSmelter.description>Плавильна станція, що працює на дровах. Виплавляє придатний для використання метал зі шматків шлаку та інших змішаних металів.</VFE_FueledSmelter.description>
+
+  <VFE_TableStonecutterElectric.label>електричний стіл каменяра</VFE_TableStonecutterElectric.label>
+  <VFE_TableStonecutterElectric.description>Удосконалений верстат з електричними пилками, тримачами та конвеєром для обробки кам'яних уламків на придатні для використання блоки за коротший час. Споживає багато енергії.</VFE_TableStonecutterElectric.description>
+</LanguageData>

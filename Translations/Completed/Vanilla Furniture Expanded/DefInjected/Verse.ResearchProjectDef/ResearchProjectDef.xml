@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <MF_BasicFurniture.label>прості меблі</MF_BasicFurniture.label>
+  <MF_BasicFurniture.description>Будуйте прості меблі, такі як прості ліжка, маленькі столи, табурети, лавки тощо.</MF_BasicFurniture.description>
+
+  <MF_RoyalFurniture.label>розкішні меблі</MF_RoyalFurniture.label>
+  <MF_RoyalFurniture.description>Будуйте розкішні меблі, орієнтовані на естетику та красу, а не на практичність, які зазвичай можна побачити лише в будинках заможної еліти. Включаючи королівські ліжка, стільці, столи та крісла.</MF_RoyalFurniture.description>
+
+  <MF_ModernFurniture.label>сучасні меблі</MF_ModernFurniture.label>
+  <MF_ModernFurniture.description>Навчіться створювати сучасні меблі, в яких практичність переважає над красою: столи для рулетки, гардероби, дошки для дартсу, боксерські груші та ергономічні ліжка.</MF_ModernFurniture.description>
+
+  <MF_WasteDisposal.label>утилізація відходів</MF_WasteDisposal.label>
+  <MF_WasteDisposal.description>Навчіться будувати малі та великі смітники – об'єкти, які повільно очищають середовище, в якому перебувають.</MF_WasteDisposal.description>
+
+  <TubeTelevision.label>базова електроніка</TubeTelevision.label>
+  <TubeTelevision.description>Створюйте базові електронні розваги, такі як лампові телевізори, промислові радіоприймачі, аркадні автомати тощо.</TubeTelevision.description>
+  
+  <FlatscreenTelevision.label>просунута електроніка</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>Створюйте складні електронні розваги, такі як телевізори з високою роздільною здатністю, LW-радіо тощо.</FlatscreenTelevision.description>
+</LanguageData>

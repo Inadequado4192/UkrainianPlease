@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Death Rattle</name>
+        <id>2879582925</id>
+        <packageId>trojan.deathrattle</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>tyulen</nickname>
+            <steamId>76561198374567982</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3051623903</sourceTranslationId>
+    <lastUpdate>2024-04-12T09:07:25.000Z</lastUpdate>
+</TranslationDetails>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood vomit -->
+  <AG_BloodVomit.label>кривава блювота</AG_BloodVomit.label>
+  <!-- EN: Carriers of this gene will violently vomit blood instead of normal vomit. This will cause internal bleeding every time they vomit, causing cuts and bruises over their whole body. -->
+  <AG_BloodVomit.description>Носії цього гена будуть бурхливо блювати кров'ю замість звичайної блювоти. Це спричиняє внутрішню кровотечу при кожному блюванні, що призводить до порізів та синців по всьому тілу.</AG_BloodVomit.description>
+  <!-- EN: bloody -->
+  <AG_BloodVomit.symbolPack.prefixSymbols.0.symbol>кривавий</AG_BloodVomit.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hemo -->
+  <AG_BloodVomit.symbolPack.prefixSymbols.1.symbol>гемо</AG_BloodVomit.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: bloodpuker -->
+  <AG_BloodVomit.symbolPack.wholeNameSymbols.0.symbol>кровопивця</AG_BloodVomit.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: chemfuel vomit -->
+  <AG_ChemfuelVomit.label>хімпаливна блювота</AG_ChemfuelVomit.label>
+  <!-- EN: Carriers of this gene have a chemfuel powered metabolism, and as such will vomit chemfuel. This vomit is flammable. -->
+  <AG_ChemfuelVomit.description>Носії цього гена мають метаболізм, що працює на хімічному паливі, і тому будуть блювати хімічним паливом. Ця блювота легкозаймиста.</AG_ChemfuelVomit.description>
+  <!-- EN: chem -->
+  <AG_ChemfuelVomit.symbolPack.prefixSymbols.0.symbol>хімічний</AG_ChemfuelVomit.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: explo -->
+  <AG_ChemfuelVomit.symbolPack.prefixSymbols.1.symbol>експло</AG_ChemfuelVomit.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: boom -->
+  <AG_ChemfuelVomit.symbolPack.prefixSymbols.2.symbol>бум</AG_ChemfuelVomit.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: chempuker -->
+  <AG_ChemfuelVomit.symbolPack.wholeNameSymbols.0.symbol>хімічний</AG_ChemfuelVomit.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: rat vomit -->
+  <AG_RatVomit.label>щуряча блювота</AG_RatVomit.label>
+  <!-- EN: Carriers of this gene will vomit clumps of mechanites that coalesce into pseudo-organic rats. This is such an incredibly cruel and disgusting thing that it's not clear if it's the result of a genetic experiment gone horribly wrong, or just a macabre prank by a truly unethical geneticist. -->
+  <AG_RatVomit.description>Носії цього гена будуть блювати грудками механітів, які зливаються в псевдоорганічних щурів. Це настільки неймовірно жорстока і огидна річ, що незрозуміло, чи це результат генетичного експерименту, який пішов жахливо не так, чи просто моторошний вибрик справді неетичного генетика.</AG_RatVomit.description>
+  <!-- EN: This is understandably pretty traumatizing... -->
+  <AG_RatVomit.customEffectDescriptions.0>Це, звісно, досить травматично...</AG_RatVomit.customEffectDescriptions.0>
+  <!-- EN: ratty -->
+  <AG_RatVomit.symbolPack.prefixSymbols.0.symbol>щурячі</AG_RatVomit.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ratpuker -->
+  <AG_RatVomit.symbolPack.wholeNameSymbols.0.symbol>щуряча</AG_RatVomit.symbolPack.wholeNameSymbols.0.symbol>
+  
+</LanguageData>

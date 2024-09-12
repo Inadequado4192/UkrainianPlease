@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--make simple cocktail-->
+  <VBE_MakeCocktailSimple.label>змішати звичайний коктейль</VBE_MakeCocktailSimple.label>
+  <!--Make a simple cocktail quickly mixed from a duo of ingredients.-->
+  <VBE_MakeCocktailSimple.description>Змішати звичайний коктейль, швидко змішаний з пари інгредієнтів.</VBE_MakeCocktailSimple.description>
+  <!--Making simple cocktail.-->
+  <VBE_MakeCocktailSimple.jobString>Змішує звичайний коктейль.</VBE_MakeCocktailSimple.jobString>
+  
+  <!--make fine cocktail-->
+  <VBE_MakeCocktailFine.label>змішати вишуканий коктейль</VBE_MakeCocktailFine.label>
+  <!--Make a fine cocktail, mixed precisely from multiple ingredients.-->
+  <VBE_MakeCocktailFine.description>Змішати вишуканий та складний коктейль, змішаний з кількох, ретельно відібраних, інгредієнтів.</VBE_MakeCocktailFine.description>
+  <!--Making fine cocktail.-->
+  <VBE_MakeCocktailFine.jobString>Змішує вишуканий коктейль.</VBE_MakeCocktailFine.jobString>
+  
+  <!--make lavish cocktail-->
+  <VBE_MakeCocktailLavish.label>змішати розкішний коктейль</VBE_MakeCocktailLavish.label>
+  <!--Make a lavish cocktail, mixed from a wide variety of ingredients and chilled to perfection before meticulously shaken and served.-->
+  <VBE_MakeCocktailLavish.description>Змішати втілений шедевр барменського мистецтва, цей коктейль був змішаний з найрізноманітніших інгредієнтів і охолоджений до ідеального стану, а потім ретельно збовтаний і поданий до столу.</VBE_MakeCocktailLavish.description>
+  <!--Making lavish cocktail.-->
+  <VBE_MakeCocktailLavish.jobString>Змішує розкішний коктейль.</VBE_MakeCocktailLavish.jobString>
+  
+  <!--make coffee-->
+  <VBE_MakeCoffee.label>зробити каву</VBE_MakeCoffee.label>
+  <!--Make a warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma.-->
+  <VBE_MakeCoffee.description>Зробити теплий, гіркуватий напій, який зазвичай доповнюють молоком і цукром. Улюбленець студентів та офісних працівників по всій галактиці завдяки високому вмісту кофеїну та приємному аромату.</VBE_MakeCoffee.description>
+  <!--Making coffee.-->
+  <VBE_MakeCoffee.jobString>Робить каву.</VBE_MakeCoffee.jobString>
+  
+  <!--make energy drink-->
+  <VBE_MakeEnergyDrink.label>зробити енергетик</VBE_MakeEnergyDrink.label>
+  <!--Make a sour and fizzy drink finished off with a hint of bitterness. The combination of sugar and caffeine means a burst of energy upfront, but with a crash later. Notable aftertaste of radiation.-->
+  <VBE_MakeEnergyDrink.description>Зробити кислувато-шипучий напій з легким присмаком гіркоти. Поєднання цукру та кофеїну означає приплив енергії спочатку, але з виснаженням згодом. Помітний післясмак радіації.</VBE_MakeEnergyDrink.description>
+  <!--Making energy drink.-->
+  <VBE_MakeEnergyDrink.jobString>Робить енергетик.</VBE_MakeEnergyDrink.jobString>
+  
+  <!--mix fruit juice-->
+  <VBE_MixJuice.label>змішати фруктовий сік</VBE_MixJuice.label>
+  <!--Mix a simple fruit juice made from a few fruits.-->
+  <VBE_MixJuice.description>змішати звичайний фруктовий сік із кількох фруктів.</VBE_MixJuice.description>
+  <!--Mixing fruit juice.-->
+  <VBE_MixJuice.jobString>Змішує фруктовий сік.</VBE_MixJuice.jobString>
+  
+  <!--make soda syrup-->
+  <VBE_MakeSodaSyrup.label>зробити сироп для газованки</VBE_MakeSodaSyrup.label>
+  <!--Make soda syrup by mixing natural fruit juice with high fructose corn syrup.-->
+  <VBE_MakeSodaSyrup.description>Зробити сироп для газованки, змішавши натуральний фруктовий сік із кукурудзяним сиропом з високим вмістом фруктози.</VBE_MakeSodaSyrup.description>
+  <!--Making soda syrup.-->
+  <VBE_MakeSodaSyrup.jobString>Робить сироп для газованки.</VBE_MakeSodaSyrup.jobString>
+  
+  <!--make ambrosia mush-->
+  <VBE_AmbrosiaMush.label>зробити амброзієву суміш</VBE_AmbrosiaMush.label>
+  <!--Make sliced and pressed ambrosia, can be left alone to ripen into must to be further distilled into an extremely fine liquor.-->
+  <VBE_AmbrosiaMush.description>Зробити нарізану і віджату амброзію, котру залишають у спокої, щоб вона перетворилася на сусло для подальшої дистиляції в надзвичайно вишуканий лікер.</VBE_AmbrosiaMush.description>
+  <!--Making ambrosia mush.-->
+  <VBE_AmbrosiaMush.jobString>Робить амброзієву суміш.</VBE_AmbrosiaMush.jobString>
+  
+  <!--make tequila must from agave-->
+  <VBE_MakeTequilaMust.label>зварити сусло для текіли з агави</VBE_MakeTequilaMust.label>
+  <!--Make a thin mixture of juiced agave sap and insect meat starter, ready to be cut and fermented in a barrel.-->
+  <VBE_MakeTequilaMust.description>Зварити рідку суміш соку агави та закваски з комашиного м'яса. Готова до нарізки та бродіння в бочці.</VBE_MakeTequilaMust.description>
+  <!--Making tequila must.-->
+  <VBE_MakeTequilaMust.jobString>Варить сусло для текіли.</VBE_MakeTequilaMust.jobString>
+  
+  <!--make whiskey mash-->
+  <VBE_MakeWhiskeyMash.label>зробити суміш для віскі</VBE_MakeWhiskeyMash.label>
+  <!--Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged.-->
+  <VBE_MakeWhiskeyMash.description>Зробити крохмалисту і здебільшого рідку суміш із розкиданими по ній шматочками м'якоті. Готова до витримки.</VBE_MakeWhiskeyMash.description>
+  <!--Making whiskey mash.-->
+  <VBE_MakeWhiskeyMash.jobString>Робить суміш для віскі.</VBE_MakeWhiskeyMash.jobString>
+  
+  <!--make vodka mash-->
+  <VBE_MakeVodkaMash.label>зробити суміш для горілки</VBE_MakeVodkaMash.label>
+  <!--Make a thick, starchy mash of raw potatoes and a starter, ready to be fermented.-->
+  <VBE_MakeVodkaMash.description>Зробити густу, крохмалисту суміш сирої картоплі та закваски, готова до бродіння.</VBE_MakeVodkaMash.description>
+  <!--Making vodka mash.-->
+  <VBE_MakeVodkaMash.jobString>Робить суміш для горілки.</VBE_MakeVodkaMash.jobString>
+  
+  <!--make gin mush-->
+  <VBE_MakeGinMush.label>зробити суміш для джину</VBE_MakeGinMush.label>
+  <!--Make a clear but cloudy mixture of juiced berries and miscellaneous grain, ready to be fermented.-->
+  <VBE_MakeGinMush.description>Зробити прозора, але каламутна суміш соковитих ягід і різних зерен, готова до бродіння.</VBE_MakeGinMush.description>
+  <!--Making gin mush.-->
+  <VBE_MakeGinMush.jobString>Робить суміш для джину.</VBE_MakeGinMush.jobString>
+  
+  <!--make cigarettes-->
+  <VBE_MakeCigarettes.label>скрутити цигарки</VBE_MakeCigarettes.label>
+  <!--Make a small, rolled paper tube stuffed loosely with tobacco leaves.-->
+  <VBE_MakeCigarettes.description>Скрутити невелику трубочку зі згорнутого паперу, нещільно набивши її тютюновим листям.</VBE_MakeCigarettes.description>
+  <!--Making cigarettes.-->
+  <VBE_MakeCigarettes.jobString>Скручує цигарки.</VBE_MakeCigarettes.jobString>
+  
+  <!--make cigars-->
+  <VBE_MakeCigars.label>скрутити сигари</VBE_MakeCigars.label>
+  <!--Make a fat, dried tobacco leaf stuffed to the brim with more tobacco leaves and a gold foil wrap around it.-->
+  <VBE_MakeCigars.description>Скрутити товстий, висушений тютюновий лист, вщерть набитий іншим тютюновим листям і обгорнутий золотою фольгою.</VBE_MakeCigars.description>
+  <!--Making cigars.-->
+  <VBE_MakeCigars.jobString>Скручує сигари.</VBE_MakeCigars.jobString>
+  
+  <!--make tea-->
+  <VBE_MakeTea.label>зробити чай</VBE_MakeTea.label>
+  <!--Make a pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water.-->
+  <VBE_MakeTea.description>Зробити приємний, ароматний напій, який готується шляхом заварювання пакетика чайного листя в окропі.</VBE_MakeTea.description>
+  <!--Making tea.-->
+  <VBE_MakeTea.jobString>Робить чай.</VBE_MakeTea.jobString>
+</LanguageData>

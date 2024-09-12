@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: germline implantation coma -->
+  <AG_EndoimplantationComa.label>імплантаційна кома зародкової лінії</AG_EndoimplantationComa.label>
+  <!-- EN: An new germline was implanted in this person by force. This will keep them in a coma for 4 days. -->
+  <AG_EndoimplantationComa.description>Цій людині насильно імплантували нову зародкову лінію. Це триматиме її в комі протягом 4 днів.</AG_EndoimplantationComa.description>
+  
+  <!-- EN: gene tampering coma -->
+  <AG_GeneRemovalComa.label>кома від генної модифікації</AG_GeneRemovalComa.label>
+  <!-- EN: The genes of this person were artificailly tampered with. This is greatly taxing on the organism and it will put them into a coma for 3 days. -->
+  <AG_GeneRemovalComa.description>Гени цієї людини були штучно змінені. Це дуже навантажує організм і введе його в кому на 3 дні.</AG_GeneRemovalComa.description>
+  
+  <!-- EN: unstable mind -->
+  <AG_UnstableMind.label>нестабільна психіка</AG_UnstableMind.label>
+  <!-- EN: Mental instability that makes this person prone to mental breaks, and greatly increases their psychic sensitivity. -->
+  <AG_UnstableMind.description>Психічна нестабільність, що робить цю людину схильною до психічних зривів і значно підвищує її пси-чутливість.</AG_UnstableMind.description>
+  
+  <!-- EN: forceful implantation coma -->
+  <AG_XenogerminationComa.label>примусова імплантаційна кома</AG_XenogerminationComa.label>
+  <!-- EN: A xenogerm was implanted in this person by force. This will keep them in a coma for 4 days. -->
+  <AG_XenogerminationComa.description>Цій людині насильно імплантували ксенозародок. Це змусить її перебувати в комі протягом 4 днів.</AG_XenogerminationComa.description>
+  
+</LanguageData>

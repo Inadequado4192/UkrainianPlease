@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuestDiplomacy.label>покращити стосунки</GuestDiplomacy.label>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] провів дипломатичну розмову з [RECIPIENT_nameDef] про [TalkTopicLight].</GuestDiplomacy.logRulesInitiator.rulesStrings.0>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] обговорив політичну релевантність [subject] з [RECIPIENT_nameDef].</GuestDiplomacy.logRulesInitiator.rulesStrings.1>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef] [PersonalCharacteristic].</GuestDiplomacy.logRulesInitiator.rulesStrings.2>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef] фракцію</GuestDiplomacy.logRulesInitiator.rulesStrings.3>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] [complimented] відносини з [RECIPIENT_factionName].</GuestDiplomacy.logRulesInitiator.rulesStrings.4>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] висловив повагу [RECIPIENT_nameDef] [PersonFamily].</GuestDiplomacy.logRulesInitiator.rulesStrings.5>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] намагався зв'язатися з [RECIPIENT_nameDef] щодо їхньої спільної [opinion].</GuestDiplomacy.logRulesInitiator.rulesStrings.6>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.7>думка->підтримка [ConceptPositive]</GuestDiplomacy.logRulesInitiator.rulesStrings.7>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.8>думка->відраза до [ConceptNegative]</GuestDiplomacy.logRulesInitiator.rulesStrings.8>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.9>думка->страх перед [ConceptNegative]</GuestDiplomacy.logRulesInitiator.rulesStrings.9>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.10>думка->думка про [ConceptAny]</GuestDiplomacy.logRulesInitiator.rulesStrings.10>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.11>opinion->longing for [ConceptPositive]</GuestDiplomacy.logRulesInitiator.rulesStrings.11>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.12>похвалив->похвалив</GuestDiplomacy.logRulesInitiator.rulesStrings.12>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.13>похвалив -> порекомендував</GuestDiplomacy.logRulesInitiator.rulesStrings.13>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.14>зробив комплімент->похвалив</GuestDiplomacy.logRulesInitiator.rulesStrings.14>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.15>зробив комплімент->поаплодував</GuestDiplomacy.logRulesInitiator.rulesStrings.15>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.16>зробив комплімент->привітав</GuestDiplomacy.logRulesInitiator.rulesStrings.16>
+
+  <CharmGuestAttempt.label>Спроба зачарування</CharmGuestAttempt.label>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [saidwords] [RECIPIENT_nameDef].</CharmGuestAttempt.logRulesInitiator.rulesStrings.0>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] розповів [RECIPIENT_nameDef] про всі [ConceptPositive] у [INITIATOR_factionName].</CharmGuestAttempt.logRulesInitiator.rulesStrings.1>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] розповів [RECIPIENT_nameDef] [adjwords] про інших колоністів.</CharmGuestAttempt.logRulesInitiator.rulesStrings.2>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] представив [RECIPIENT_nameDef] іншому колоністу.</CharmGuestAttempt.logRulesInitiator.rulesStrings.3>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.4>saidwords->said [adjwords] слова до</CharmGuestAttempt.logRulesInitiator.rulesStrings.4>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.5>saidwords->expressed [ConceptPositive] towards</CharmGuestAttempt.logRulesInitiator.rulesStrings.5>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.6>saidwords->made [adjwords] жести в напрямку</CharmGuestAttempt.logRulesInitiator.rulesStrings.6>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.7>adjwords->інтригуюче</CharmGuestAttempt.logRulesInitiator.rulesStrings.7>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.8>adjwords->kind</CharmGuestAttempt.logRulesInitiator.rulesStrings.8>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.9>adjwords->запрошення</CharmGuestAttempt.logRulesInitiator.rulesStrings.9>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.10>adjwords-> дружньо</CharmGuestAttempt.logRulesInitiator.rulesStrings.10>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.11>adjwords-> чарівно</CharmGuestAttempt.logRulesInitiator.rulesStrings.11>
+
+  <ScroungeFoodAttempt.label>шукати їжу</ScroungeFoodAttempt.label>
+  <ScroungeFoodAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] попросив [RECIPIENT_nameDef] трохи їжі.</ScroungeFoodAttempt.logRulesInitiator.rulesStrings.0>
+  <ScroungeFoodAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] попросив [RECIPIENT_nameDef] поїсти.</ScroungeFoodAttempt.logRulesInitiator.rulesStrings.1>
+  <ScroungeFoodAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] з тугою дивився на їжу [RECIPIENT_nameDef].</ScroungeFoodAttempt.logRulesInitiator.rulesStrings.2>
+
+
+</LanguageData>

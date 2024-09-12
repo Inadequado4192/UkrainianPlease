@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clawed hands -->
+  <AG_ClawedHands.label>пазуристі руки</AG_ClawedHands.label>
+  <!-- EN: Carriers of this gene have clawed hands ending in viciously sharpened nails. This reduces manipulation, but gives them a melee combat bonus. -->
+  <AG_ClawedHands.description>Носії цього гена мають пазуристі руки, що закінчуються жорстоко заточеними нігтями. Це ускладнює маніпуляції, але дає їм бонус у ближньому бою.</AG_ClawedHands.description>
+  
+</LanguageData>

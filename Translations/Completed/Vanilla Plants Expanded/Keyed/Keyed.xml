@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Plums drying-->
+  <VCE_PlumsDrying>Сушка слив</VCE_PlumsDrying>
+  <!--These plums are frozen and will not dry into prunes-->
+  <VCE_PlumsCurrentlyFrozen>Ці сливи заморожені і не висохнуть на чорнослив</VCE_PlumsCurrentlyFrozen>
+  <!--These plums are refrigerated and will not dry into prunes as fast as they could (dries in {0})-->
+  <VCE_PlumsCurrentlyRefrigerated>Ці сливи в занадто холодному середовищі і не висохнуть на чорнослив так швидко, як могли б (досушаться за {0})</VCE_PlumsCurrentlyRefrigerated>
+  <!--These plums are drying into prunes correctly (dries in {0})-->
+  <VCE_PlumsDryingCorrectly>Ці сливи сушаться в чорнослив правильно (досушаться за {0})</VCE_PlumsDryingCorrectly>
+</LanguageData>

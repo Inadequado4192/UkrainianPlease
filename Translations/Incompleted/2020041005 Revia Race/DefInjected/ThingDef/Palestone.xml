@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: palestone -->
+  <ReviaRacePalestone.label>блідокамінь</ReviaRacePalestone.label>
+  <!-- EN: A lesser blessing given by the Revian pantheon. Supposedly confers divine favour on the user. -->
+  <ReviaRacePalestone.description>Менше благословення, яке давав ревійський пантеон. Вважається, що дарує користувачеві божественну прихильність.</ReviaRacePalestone.description>
+  <!-- EN: Make offering -->
+  <ReviaRacePalestone.comps.CompUsable.useLabel>Зробити пожертву</ReviaRacePalestone.comps.CompUsable.useLabel>
+  
+</LanguageData>

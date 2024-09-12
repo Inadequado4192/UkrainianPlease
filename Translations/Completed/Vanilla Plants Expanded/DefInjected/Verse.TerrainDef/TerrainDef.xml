@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--tilled soil-->
+  <VCE_TilledSoil.label>ораний ґрунт</VCE_TilledSoil.label>
+  <!--Tillage is the agricultural preparation of soil by mechanical agitation of various types, increasing terrain fertility. Tilling soil can only be done on normal soil (not rich soil). When a plant is harvested on a plowed soil, the floor becomes a normal soil again and needs to be plowed again manually.-->
+  <VCE_TilledSoil.description>Орання ґрунту - це сільськогосподарська підготовка ґрунту шляхом механічного впливу різного типу, що сприяє підвищенню родючості ґрунту. Обробіток ґрунту можна проводити лише на нормальному ґрунті (не родючому). Коли на зораному ґрунті збирають урожай, земля знову стає звичайною, і її потрібно знову переорювати вручну.</VCE_TilledSoil.description>
+  <!--tilling soil.-->
+  <VCE_TilledSoil.modExtensions.0.constructionSkillRequirement.reportStringOverride>оре ґрунт.</VCE_TilledSoil.modExtensions.0.constructionSkillRequirement.reportStringOverride>
+  <!--dirt-->
+  <VCE_TilledSoil.tools.dirt.label>бруд</VCE_TilledSoil.tools.dirt.label>
+</LanguageData>

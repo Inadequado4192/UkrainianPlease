@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [ShootingTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [ShootingTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ShootingTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Shooting.rulePack.rulesStrings>
+  
+  <VSIE_Teaching_Melee.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [MeleeTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [MeleeTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MeleeTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Melee.rulePack.rulesStrings>
+  
+  <VSIE_Teaching_Construction.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [ConstructionTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [ConstructionTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ConstructionTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Construction.rulePack.rulesStrings>
+  
+  <VSIE_Teaching_Mining.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [MiningTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [MiningTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MiningTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Mining.rulePack.rulesStrings>
+
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [CookingTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [CookingTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [CookingTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Cooking.rulePack.rulesStrings>
+  
+  <VSIE_Teaching_Animals.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [AnimalsTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [AnimalsTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [AnimalsTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Animals.rulePack.rulesStrings>
+
+  <VSIE_Teaching_Plants.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [GrowingTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [GrowingTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [GrowingTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Plants.rulePack.rulesStrings>
+
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [CraftingTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [CraftingTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [CraftingTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Crafting.rulePack.rulesStrings>
+  
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [MedicalTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [MedicalTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MedicalTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Medicine.rulePack.rulesStrings>
+  
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [ArtTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [ArtTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ArtTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Artistic.rulePack.rulesStrings>
+
+  <VSIE_Teaching_Social.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [SocialTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [SocialTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [SocialTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Social.rulePack.rulesStrings>
+
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] [IntellectualTopic].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] [IntellectualTopic] до [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [IntellectualTopic] до [RECIPIENT_nameDef].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали про</li>
+	  <li>talkedabout_1->поділилися кількома словами про</li>
+	  <li>talkedabout_1->говорили про</li>
+	  <li>talkedabout_1->теревенили про</li>
+	  <li>talkedabout_1->розмовляли про</li>
+	  <li>talkedabout_1->жартували про</li>
+	  <li>talkedabout_1->шуткували про</li>
+	  
+	  <li>talkedabout_2(p=4)->розповіда{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами про</li>
+	  <li>talkedabout_2->розказува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->виклада{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->чита{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла} про</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла} про</li>
+	  
+	  <li>commentedabout->дещо розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} про</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження про</li>
+	  <li>commentedabout->прокоментува{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт про</li>
+  </VSIE_Teaching_Intellectual.rulePack.rulesStrings>
+</LanguageData>

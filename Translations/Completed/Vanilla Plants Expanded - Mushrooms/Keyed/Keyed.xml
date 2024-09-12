@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Mushroom Growing Zone-->
+  <VPE_MushroomGrowingZone>Зона вирощування грибів</VPE_MushroomGrowingZone>
+  <!--Create a zone where your colonists will try to grow mushrooms. Bear in mind that terrain will still need the fertility required by the mushroom to be sown.-->
+  <VPE_MushroomGrowingZoneDesc>Створює зону, на якій ваші колоністи вирощуватимуть гриби. Майте на увазі, що ґрунт все одно потребуватиме родючості, необхідної для посіву грибів.</VPE_MushroomGrowingZoneDesc>
+</LanguageData>

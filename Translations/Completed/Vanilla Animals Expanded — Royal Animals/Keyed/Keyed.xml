@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Primary Role-->
+  <VAERoy_PrimaryRole>Основна роль</VAERoy_PrimaryRole>
+  <!--Secondary Role-->
+  <VAERoy_SecondaryRole>Вторинна роль</VAERoy_SecondaryRole>
+  
+  <!--Combat-->
+  <VAERoy_Combat>Бій</VAERoy_Combat>
+  <!--Combat animals are specialized in melee combat. These animals have high attack damage, good resistance, high health, or other abilities that allow them to survive in the front lines.\n\nThis animal gets greatly increased melee attacks as it ages.-->
+  <VAERoy_CombatDescInc>Бойові тварини спеціалізуються на ближньому бою. Ці тварини мають високий урон від атаки, хорошу стійкість, міцне здоров'я або інші здібності, які дозволяють їм виживати на передовій.\n\nУ цієї тварини з віком значно збільшується сила атак ближнього бою.</VAERoy_CombatDescInc>
+  <!--Combat animals are specialized in melee combat. These animals have high attack damage, good resistance, high health, or other abilities that allow them to survive in the front lines.-->
+  <VAERoy_CombatDesc>Бойові тварини спеціалізуються на ближньому бою. Ці тварини мають високий урон від атаки, хорошу стійкість, міцне здоров'я або інші здібності, які дозволяють їм виживати на передовій.</VAERoy_CombatDesc>
+
+  <!--Egg Layer-->
+  <VAERoy_EggLayer>Відкладання Яєць</VAERoy_EggLayer>
+  <!--This animal lays eggs-->
+  <VAERoy_EggLayerDesc>Ця тварина відкладає яйця</VAERoy_EggLayerDesc>
+
+  <!--Utility-->
+  <VAERoy_Utility>Корисність</VAERoy_Utility>
+  
+  <!--Utility – Mood-->
+  <VAERoy_UtilityMood>Корисність – Настрій</VAERoy_UtilityMood>
+  <!--This animal is not suited for combat, being quite physically weak. It will however increase the mood of your colonists.-->
+  <VAERoy_UtilityMoodDesc>Ця тварина не пристосована для бою, оскільки є досить слабкою фізично. Однак вона підвищить настрій ваших колоністів.</VAERoy_UtilityMoodDesc>
+  
+  <!--Utility – Social-->
+  <VAERoy_UtilitySocial>Корисність – Соціалізація</VAERoy_UtilitySocial>
+  <!--This animal is not suited for combat. It will instead engage your colonists in conversation, increasing their social recreation as well as giving them small amounts of experience in random skills.-->
+  <VAERoy_UtilitySocialDesc>Ця тварина не пристосована для бою. Замість цього вона буде залучати ваших колоністів до розмови, збільшуючи їхній соціальний відпочинок, а також даючи їм невелику кількість досвіду у випадкових навичках.</VAERoy_UtilitySocialDesc>
+
+  <!--Utility – Heat Disipation-->
+  <VAERoy_UtilityHeat>Корисність – Зменшення Нервової Напруги</VAERoy_UtilityHeat>
+  <!--This animal is not suited for combat, being quite physically weak. It will however increase the neural heat disipation of a bonded colonist.-->
+  <VAERoy_UtilityHeatDisipationDesc>Ця тварина не придатна для бою, оскільки є досить слабкою фізично. Однак вона допоможе зменшувати нервову напругу колоніста, до якого вона прив'язана.</VAERoy_UtilityHeatDisipationDesc>
+
+  <!--Utility – Psychic-->
+  <VAERoy_UtilityPsychic>Корисність – Психіка</VAERoy_UtilityPsychic>
+  <!--This animal is not suited for combat, being quite physically weak. It will however nuzzle your colonists periodically to increase their psychic sensitivity.-->
+  <VAERoy_UtilityPsychicDesc>Ця тварина не придатна для бою, оскільки є досить слабкою фізично. Однак вона періодично пеститиме ваших колоністів, щоб підвищити їхню психічну чутливість.</VAERoy_UtilityPsychicDesc>
+
+  <!--Utility – Crowd Control-->
+  <VAERoy_UtilityCrowd>Корисність – Контроль Натовпу</VAERoy_UtilityCrowd>
+  <!--This animal is weak, but it has psychic abilities that can help with crowd control and survivavility.-->
+  <VAERoy_UtilityCrowdDesc>Ця тварина слабка, але має екстрасенсорні здібності, які можуть допомогти в управлінні натовпом і виживанні.</VAERoy_UtilityCrowdDesc>
+
+  <!--Utility – Food-->
+  <VAERoy_UtilityFood>Корисність – Їжа</VAERoy_UtilityFood>
+  <!--This is a farm animal that produces specialized meat.-->
+  <VAERoy_UtilityFoodDesc>Це сільськогосподарська тварина, яка виробляє спеціалізоване м'ясо.</VAERoy_UtilityFoodDesc>
+
+  <!--Utility – Building-->
+  <VAERoy_UtilityBuilding>Корисність – Будівництво</VAERoy_UtilityBuilding>
+  <!--This animal is not suited for combat, being quite physically weak. It will however build nests that act as a very beautiful animal sleeping spot.-->
+  <VAERoy_UtilityBuildingDesc>Ця тварина не пристосована до бою, оскільки є досить слабкою фізично. Однак вона будує гнізда, які слугують дуже гарним місцем для сну.</VAERoy_UtilityBuildingDesc>
+</LanguageData>

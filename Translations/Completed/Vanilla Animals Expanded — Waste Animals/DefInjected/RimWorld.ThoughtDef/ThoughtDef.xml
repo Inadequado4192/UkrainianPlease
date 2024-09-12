@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--ate toxic meat-->
+  <VAEWaste_AteToxicMeatDirect.stages.ate_toxic_meat.label>{PAWN_gender ? з'їв : з'їла} отруйне м'ясо</VAEWaste_AteToxicMeatDirect.stages.ate_toxic_meat.label>
+  <!--I ate some toxic meat. It was, possibly, the most disgusting thing I've ever tasted.-->
+  <VAEWaste_AteToxicMeatDirect.stages.ate_toxic_meat.description>Я {PAWN_gender ? з'їв : з'їла} токсичне м'ясо. Це було, мабуть, найогидніше, що я коли-небудь {PAWN_gender ? куштував : куштувала}.</VAEWaste_AteToxicMeatDirect.stages.ate_toxic_meat.description>
+  
+  <!--ate cooked toxic meat-->
+  <VAEWaste_AteToxicMeatAsIngredient.stages.ate_cooked_toxic_meat.label>{PAWN_gender ? з'їв : з'їла} приготоване токсичне м'ясо</VAEWaste_AteToxicMeatAsIngredient.stages.ate_cooked_toxic_meat.label>
+  <!--I ate a meal cooked from toxic meat. The seasoning partly covered the taste, but it still tasted quite poisonous.-->
+  <VAEWaste_AteToxicMeatAsIngredient.stages.ate_cooked_toxic_meat.description>Я {PAWN_gender ? з'їв : з'їла} страву, приготовану з токсичного м'яса. Приправа частково перекрила смак, але він все одно був досить їдким.</VAEWaste_AteToxicMeatAsIngredient.stages.ate_cooked_toxic_meat.description>
+</LanguageData>

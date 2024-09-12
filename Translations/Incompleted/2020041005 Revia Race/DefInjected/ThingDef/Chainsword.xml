@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shredder -->
+  <ReviaChainSword.label>подрібнювач</ReviaChainSword.label>
+  <!-- EN: A weaponised chainsaw with hardened plasteel teeth. The teeth are angled outwards to maximise wound size. -->
+  <ReviaChainSword.description>Збройна бензопила з зубцями із загартованої сталі. Зубці нахилені назовні, щоб збільшити розмір рани.</ReviaChainSword.description>
+  <!-- EN: handle -->
+  <ReviaChainSword.tools.handle.label>руків'я</ReviaChainSword.tools.handle.label>
+  <!-- EN: teeth -->
+  <ReviaChainSword.tools.teeth.label>зубці</ReviaChainSword.tools.teeth.label>
+  
+</LanguageData>

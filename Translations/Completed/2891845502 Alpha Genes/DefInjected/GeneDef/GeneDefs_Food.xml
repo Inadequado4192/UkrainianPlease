@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corpse feeding -->
+  <AG_CorpseFeeding.label>годування трупами</AG_CorpseFeeding.label>
+  <!-- EN: Carriers of this gene constantly secrete a foul-smelling, corrosive gas that produces an uncomfortable, itchy sensation in living beings. This gas is mostly harmless, unless it comes into contact with decaying organic matter: it greatly accelerates corpse rotting, liberating a black putrid liquid known as "purge fluid" or corpse bile. The carrier is fed through the skin by contacting the liquid sludge, although they can also feed on other organic matter if needed. -->
+  <AG_CorpseFeeding.description>Носії цього гена постійно виділяють їдкий газ зі смердючим запахом, який викликає у живих істот неприємне свербіння. Цей газ здебільшого нешкідливий, якщо тільки він не контактує з органічними речовинами, що розкладаються: він значно прискорює гниття трупів, вивільняючи чорну гнильну рідину, відому як "рідина очищення" або трупна жовч. Переносники живляться через шкіру, контактуючи з рідким мулом, хоча вони також можуть харчуватися іншими органічними речовинами, якщо це необхідно.</AG_CorpseFeeding.description>
+  <!-- EN: Can feed by standing next to corpses and rotting them. Doesn't provide lung rot immunity on its own. -->
+  <AG_CorpseFeeding.customEffectDescriptions.0>Може харчуватися, стоячи поруч з трупами і розкладаючи їх. Самостійно не забезпечує імунітет проти легеневої гнилі.</AG_CorpseFeeding.customEffectDescriptions.0>
+  <!-- EN: helix -->
+  <AG_CorpseFeeding.symbolPack.prefixSymbols.0.symbol>спіральний</AG_CorpseFeeding.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: rot -->
+  <AG_CorpseFeeding.symbolPack.prefixSymbols.1.symbol>гниль</AG_CorpseFeeding.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: carrion -->
+  <AG_CorpseFeeding.symbolPack.prefixSymbols.2.symbol>падаль</AG_CorpseFeeding.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: efficient mandibles -->
+  <AG_EfficientMandibles.label>ефективні щелепи</AG_EfficientMandibles.label>
+  <!-- EN: Carriers of this gene have strong, capable teeth, and they have little difficulty tearing into hard to chew foods. -->
+  <AG_EfficientMandibles.description>Носії цього гена мають міцні зуби, і вони майже без зусиль пережовують тверді продукти для жування.</AG_EfficientMandibles.description>
+  
+  <!-- EN: frail stomach -->
+  <AG_FrailStomach.label>слабкий шлунок</AG_FrailStomach.label>
+  <!-- EN: Carriers of this gene have a very weak stomach and will suffer more often from food poisoning. -->
+  <AG_FrailStomach.description>Носії цього гена мають дуже слабкий шлунок і частіше страждають від харчових отруєнь.</AG_FrailStomach.description>
+  <!-- EN: weak -->
+  <AG_FrailStomach.symbolPack.prefixSymbols.0.symbol>слабкий</AG_FrailStomach.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: queasy -->
+  <AG_FrailStomach.symbolPack.prefixSymbols.1.symbol>нудотний</AG_FrailStomach.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sick -->
+  <AG_FrailStomach.symbolPack.prefixSymbols.2.symbol>хворий</AG_FrailStomach.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: light sustenance -->
+  <AG_LightSustenance.label>легке харчування</AG_LightSustenance.label>
+  <!-- EN: Carriers of this gene have chlorophyll pigments in their skin that allows them to absorb nutrients from sunlight, eliminating almost entirely their need to eat, but requiring them to be constantly exposed to light for sustenance. -->
+  <AG_LightSustenance.description>Носії цього гена мають пігменти хлорофілу в шкірі, що дозволяє їм поглинати поживні речовини з сонячного світла, майже повністю усуваючи їхню потребу в їжі, але вимагаючи постійного перебування на світлі для підтримки життєдіяльності.</AG_LightSustenance.description>
+  <!-- EN: Can feed by standing in sunlight. A prolonged lack of sunlight will kill the carrier. -->
+  <AG_LightSustenance.customEffectDescriptions.0>Може харчуватися, стоячи на сонячному світлі. Тривала відсутність сонячного світла вб'є носія.</AG_LightSustenance.customEffectDescriptions.0>
+  <!-- EN: Artificial light of sufficient strength will also do the trick. -->
+  <AG_LightSustenance.customEffectDescriptions.1>Штучне світло достатньої сили також зробить свою справу.</AG_LightSustenance.customEffectDescriptions.1>
+  <!-- EN: photo -->
+  <AG_LightSustenance.symbolPack.prefixSymbols.0.symbol>фото</AG_LightSustenance.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: plant -->
+  <AG_LightSustenance.symbolPack.prefixSymbols.1.symbol>рослина</AG_LightSustenance.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: chloro -->
+  <AG_LightSustenance.symbolPack.prefixSymbols.2.symbol>хлор</AG_LightSustenance.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: survival instinct, high -->
+  <AG_SurvivalInstinct_High.label>інстинкт виживання, високий</AG_SurvivalInstinct_High.label>
+  <!-- EN: Carriers of this gene have a strong survival instinct, intuitively knowing where to find the best forage and living off the land. -->
+  <AG_SurvivalInstinct_High.description>Носії цього гена мають сильний інстинкт виживання, інтуїтивно знають, де знайти найкращий корм, і живуть за рахунок землі.</AG_SurvivalInstinct_High.description>
+  
+  <!-- EN: survival instinct, low -->
+  <AG_SurvivalInstinct_Low.label>інстинкт виживання, низький</AG_SurvivalInstinct_Low.label>
+  <!-- EN: Carriers of this gene have a weak survival instinct, feeling quite out of their element when having to forage for food. -->
+  <AG_SurvivalInstinct_Low.description>Носії цього гена мають слабкий інстинкт виживання, відчуваючи себе не в своїй тарілці, коли їм доводиться добувати їжу.</AG_SurvivalInstinct_Low.description>
+  
+  <!-- EN: table resistance -->
+  <AG_TableResistance.label>опір до столів</AG_TableResistance.label>
+  <!-- EN: Carriers of this gene have developed a GIGANTIC mental fortitude and are capable of withstanding the greatest torture of all time: eating without a table. -->
+  <AG_TableResistance.description>Носії цього гена розвинули ВЕЛИЧЕЗНУ психічну стійкість і здатні витримати найбільші тортури всіх часів: їсти без столу.</AG_TableResistance.description>
+  <!-- EN: stander -->
+  <AG_TableResistance.symbolPack.prefixSymbols.0.symbol>підставка</AG_TableResistance.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: unkneeler -->
+  <AG_TableResistance.symbolPack.prefixSymbols.1.symbol>розчепірювач</AG_TableResistance.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: table-less -->
+  <AG_TableResistance.symbolPack.prefixSymbols.2.symbol>без столу</AG_TableResistance.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: underdeveloped teeth -->
+  <AG_UnderdevelopedTeeth.label>недорозвинені зуби</AG_UnderdevelopedTeeth.label>
+  <!-- EN: Carriers of this gene have very weak, underdeveloped teeth, finding eating to be a chore. -->
+  <AG_UnderdevelopedTeeth.description>Носії цього гена мають дуже слабкі, недорозвинені зуби, для них прийом їжі - це рутинна робота.</AG_UnderdevelopedTeeth.description>
+  
+</LanguageData>

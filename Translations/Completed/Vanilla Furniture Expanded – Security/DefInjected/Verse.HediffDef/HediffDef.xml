@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFES_Stab.label>скабка</VFES_Stab.label>
+  <VFES_Stab.description>Колота рана.</VFES_Stab.description>
+  <VFES_Stab.comps.HediffComp_GetsPermanent.permanentLabel>шрам від скабки</VFES_Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!--Cut off-->
+  <VFES_Stab.injuryProps.destroyedLabel>Відрізано</VFES_Stab.injuryProps.destroyedLabel>
+  <!--Cut out-->
+  <VFES_Stab.injuryProps.destroyedOutLabel>Вирізано</VFES_Stab.injuryProps.destroyedOutLabel>
+  <VFES_Stab.labelNoun>колота рана</VFES_Stab.labelNoun>
+  <!--{0} in the {1}-->
+  <VFES_Stab.labelNounPretty>{0} в {1}</VFES_Stab.labelNounPretty>
+  
+  <VFES_Dazzled.label>засліплення</VFES_Dazzled.label>
+  <VFES_Dazzled.description>Значне погіршення зору внаслідок надмірного впливу світла.</VFES_Dazzled.description>
+  <VFES_Dazzled.labelNoun>засліпленне око</VFES_Dazzled.labelNoun>
+</LanguageData>

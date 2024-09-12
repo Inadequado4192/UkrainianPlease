@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Filth_LWD_Planks.label>дерев'яні уламки</Filth_LWD_Planks.label>
+  <Filth_LWD_Planks.description>Шматки пошкодженної дерев'яної стіни.</Filth_LWD_Planks.description>
+
+  <Filth_LWD_Bricks.label>кам'яні уламки</Filth_LWD_Bricks.label>
+  <Filth_LWD_Bricks.description>Шматки пошкодженної кам'яної стіни.</Filth_LWD_Bricks.description>
+
+  <Filth_LWD_Smooth.label>уламки</Filth_LWD_Smooth.label>
+  <Filth_LWD_Smooth.description>Шматки пошкодженної стіни.</Filth_LWD_Smooth.description>
+
+
+</LanguageData>

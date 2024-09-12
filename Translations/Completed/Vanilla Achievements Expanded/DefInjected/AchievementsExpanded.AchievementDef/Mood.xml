@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <aHappyEnding.label>Щасливий Кінець</aHappyEnding.label>
+  <aHappyEnding.description>Мати середній настрій в колонії щонайменше 90%</aHappyEnding.description>
+  
+  <areYouNotEntertained.label>Вам Не Весело?</areYouNotEntertained.label>
+  <areYouNotEntertained.description>Мають середній настрій в колонії не вище 5%</areYouNotEntertained.description>
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_CremateFuneralOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_CremateFuneralOutcome.description>
+  <AM_CremateFuneralOutcome.outcomeChances.0.label>Жахливо</AM_CremateFuneralOutcome.outcomeChances.0.label>
+  <AM_CremateFuneralOutcome.outcomeChances.0.description> {0} пройшло жахливо! Промова була нудною, а в крематорії було недостатньо спекотно.</AM_CremateFuneralOutcome.outcomeChances.0.description>
+  <AM_CremateFuneralOutcome.outcomeChances.1.label>Нудно</AM_CremateFuneralOutcome.outcomeChances.1.label>
+  <AM_CremateFuneralOutcome.outcomeChances.1.description> {0} пройшло нудно. Промова була довгою і не вшанувала загиблого.</AM_CremateFuneralOutcome.outcomeChances.1.description>
+  <AM_CremateFuneralOutcome.outcomeChances.2.label>Добре</AM_CremateFuneralOutcome.outcomeChances.2.label>
+  <AM_CremateFuneralOutcome.outcomeChances.2.description> {0} пройшло добре. Заключні слова спікера надали шлях для кожного, щоб рухатися далі.</AM_CremateFuneralOutcome.outcomeChances.2.description>
+  <AM_CremateFuneralOutcome.outcomeChances.3.label>Неймовірно</AM_CremateFuneralOutcome.outcomeChances.3.label>
+  <AM_CremateFuneralOutcome.outcomeChances.3.description> {0} пройшло неймовірно. Промова була захоплюючою та щирою, і всі розійшлися, зосереджені на хороших спогадах.</AM_CremateFuneralOutcome.outcomeChances.3.description>
+  <AM_CremateFuneralOutcome.comps.0.label>присутній моральний орієнтир</AM_CremateFuneralOutcome.comps.0.label>
+  <AM_CremateFuneralOutcome.comps.1.label>кількість учасників</AM_CremateFuneralOutcome.comps.1.label>
+  <AM_CremateFuneralOutcome.comps.2.label>Митець</AM_CremateFuneralOutcome.comps.2.label>
+
+
+</LanguageData>

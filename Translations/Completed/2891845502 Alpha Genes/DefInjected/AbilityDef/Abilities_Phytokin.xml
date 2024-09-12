@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ocular conversion -->
+  <AG_OcularConversionAlphaAnimals.label>окулярна конверсія</AG_OcularConversionAlphaAnimals.label>
+  <!-- EN: Converts flora in an area into ocular versions. -->
+  <AG_OcularConversionAlphaAnimals.description>Перетворює флору на місцевості в окулярну версію</AG_OcularConversionAlphaAnimals.description>
+  
+  <!-- EN: ocular conversion -->
+  <AG_OcularConversionAlphaBiomes.label>окулярна конверсія</AG_OcularConversionAlphaBiomes.label>
+  <!-- EN: Converts flora in an area into ocular versions. -->
+  <AG_OcularConversionAlphaBiomes.description>Перетворює флору на місцевості в окулярну версію</AG_OcularConversionAlphaBiomes.description>
+  
+  <!-- EN: strike eyes -->
+  <VRE_StrikeEyes.label>вражати очі</VRE_StrikeEyes.label>
+  <!-- EN: Psychically causes the vitreous humour inside the target's eyes to heat to a boiling point, destroying them and leaving the poor victim forever blind. -->
+  <VRE_StrikeEyes.description>Психологічно змушує склоподібне тіло всередині очей жертви нагріватися до точки кипіння, руйнуючи їх і залишаючи бідолашну жертву назавжди сліпою.</VRE_StrikeEyes.description>
+  
+  <!-- EN: summon ocular slinger -->
+  <VRE_SummonOcularSlinger.label>викликати окулярного стропальщика</VRE_SummonOcularSlinger.label>
+  <!-- EN: Summons an ocular slinger under the control of the caster. This animal is a permanent colony animal, and can be drafted. A new scorpion can be summoned if the previous one is killed. -->
+  <VRE_SummonOcularSlinger.description>Викликає окулярного слінгера під контролем заклинателя. Ця тварина є постійною твариною колонії і може бути призвана. Нового скорпіона можна викликати, якщо попереднього вбито.</VRE_SummonOcularSlinger.description>
+  
+</LanguageData>

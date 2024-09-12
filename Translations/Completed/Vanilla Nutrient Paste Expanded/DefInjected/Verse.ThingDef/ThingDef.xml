@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VNPE_Filth_Paste.label>поживний мул</VNPE_Filth_Paste.label>
+  <VNPE_Filth_Paste.description>Калюжа поживної пасти.</VNPE_Filth_Paste.description>
+  <VNPE_NutrientPastePipe.label>труба поживної пасти</VNPE_NutrientPastePipe.label>
+  <VNPE_NutrientPastePipe.description>Легкі сталеві труби для транспортування мулу, відомого як поживна паста з подрібнювачів та чанів для зберігання до дозаторів.</VNPE_NutrientPastePipe.description>
+  <VNPE_UndergroundNutrientPastePipe.label>підземна труба поживної пасти</VNPE_UndergroundNutrientPastePipe.label>
+  <VNPE_UndergroundNutrientPastePipe.description>Підземні сталеві труби для транспортування мулу, відомого як поживна паста з подрібнювачів та чанів для зберігання до дозаторів.</VNPE_UndergroundNutrientPastePipe.description>
+  <VNPE_NutrientPasteValve.label>клапан поживної пасти</VNPE_NutrientPasteValve.label>
+  <VNPE_NutrientPasteValve.description>Вмикає/вимикає подачу поживної пасти.</VNPE_NutrientPasteValve.description>
+  <VNPE_NutrientPasteGrinder.label>подрібнювач поживної пасти</VNPE_NutrientPasteGrinder.label>
+  <VNPE_NutrientPasteGrinder.description>Машина, яка синтезує їстівну поживну пасту з органічних сировин, розміщеної в сусідніх воронках. Вона споживає менше інгредієнтів та часу, ніж будь-який інший метод виробництва їжі, але ніхто не любить їсти поживну пасту. Приймає сиру їжу, але не грубі рослини, як сіно. Вона фактично не дозує поживну пасту, але дозволяє перекачувати її у чани та дозатори в мережі.</VNPE_NutrientPasteGrinder.description>
+  <VNPE_NutrientPasteTap.label>кран для поживної пасти</VNPE_NutrientPasteTap.label>
+  <VNPE_NutrientPasteTap.description>Басейноподібне сховище з краном, призначене для роздачі поживної пасти. Може використовуватися колоністами та в'язнями. Випущена поживна може зіпсуватися.</VNPE_NutrientPasteTap.description>
+  <VNPE_NutrientPasteFeeder.label>годівниця</VNPE_NutrientPasteFeeder.label>
+  <VNPE_NutrientPasteFeeder.description>Невеликий вихід труби, який дозволяє колоністам та громадянам брати порцію поживної пасти.</VNPE_NutrientPasteFeeder.description>
+  <VNPE_NutrientPasteDripper.label>Крапельниця поживної пасти</VNPE_NutrientPasteDripper.label>
+  <VNPE_NutrientPasteDripper.description>Пристрій для ліжка, який годує людину, що лежить в ліжку, коли вони голодні, за умови, що крапельниця з поживною пастою з'єднана з чаном. Вона має бути розміщена безпосередньо біля узголів'я ліжка. Розміщення більш ніж однієї крапельниці ПП біля одного ліжка не матиме ефекту.</VNPE_NutrientPasteDripper.description>
+  <VNPE_NutrientPasteVat.label>чан поживної пасти</VNPE_NutrientPasteVat.label>
+  <VNPE_NutrientPasteVat.description>Великий резервуар, який може зберігати до 75 страв з поживної пасти. Створює великий безлад при знищенні.</VNPE_NutrientPasteVat.description>
+</LanguageData>

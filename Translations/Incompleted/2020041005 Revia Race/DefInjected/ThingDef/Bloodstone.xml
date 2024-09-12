@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bloodstone -->
+  <ReviaRaceBloodstone.label>кривавий камінь</ReviaRaceBloodstone.label>
+  <!-- EN: A blessing given by the Revian pantheon. Supposedly confers divine favour on the user. -->
+  <ReviaRaceBloodstone.description>Благословення, яке дарує ревійський пантеон. Вважається, що дарує користувачеві божественну прихильність.</ReviaRaceBloodstone.description>
+  <!-- EN: Make offering -->
+  <ReviaRaceBloodstone.comps.CompUsable.useLabel>Зробити пожертву</ReviaRaceBloodstone.comps.CompUsable.useLabel>
+  
+</LanguageData>

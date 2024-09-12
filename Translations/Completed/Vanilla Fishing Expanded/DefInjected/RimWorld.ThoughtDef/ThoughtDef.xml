@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--relaxing fishing session-->
+  <VCEF_FishingThought.stages.relaxing_fishing_session.label>розслабляюча риболовля</VCEF_FishingThought.stages.relaxing_fishing_session.label>
+  <!--Nothing better to relax than fishing-->
+  <VCEF_FishingThought.stages.relaxing_fishing_session.description>Немає нічого кращого для відпочинку, ніж риболовля</VCEF_FishingThought.stages.relaxing_fishing_session.description>
+</LanguageData>

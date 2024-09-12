@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: major summoning: {0} -->
+  <AlphaGenes_AnimalSumMajor.label>великий виклик: {0}</AlphaGenes_AnimalSumMajor.label>
+  <!-- EN: The carrier can summon a {0}. -->
+  <AlphaGenes_AnimalSumMajor.description>Носій може викликати {0}.</AlphaGenes_AnimalSumMajor.description>
+  
+  <!-- EN: minor summoning: {0} -->
+  <AlphaGenes_AnimalSumMinor.label>незначний виклик: {0}</AlphaGenes_AnimalSumMinor.label>
+  <!-- EN: The carrier can summon a {0}. -->
+  <AlphaGenes_AnimalSumMinor.description>Носій може викликати {0}.</AlphaGenes_AnimalSumMinor.description>
+  
+  <!-- EN: summoning: {0} -->
+  <AlphaGenes_AnimalSummon.label>виклик: {0}</AlphaGenes_AnimalSummon.label>
+  <!-- EN: The carrier can summon a {0}. -->
+  <AlphaGenes_AnimalSummon.description>Носій може викликати {0}.</AlphaGenes_AnimalSummon.description>
+  
+</LanguageData>

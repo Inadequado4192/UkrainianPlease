@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CharmGuest.reportString>Намагається вербувати TargetA.</CharmGuest.reportString>
+  <GuestImproveRelationship.reportString>Намагається налагодити стосунки з фракцією TargetA.</GuestImproveRelationship.reportString>
+  <BuyItem.reportString>Перевірка TargetA.</BuyItem.reportString>
+  <BrowseItems.reportString>Перегляд товарів.</BrowseItems.reportString>
+  <ClaimGuestBed.reportString>Займає ліжко.</ClaimGuestBed.reportString>
+  <VendingMachine_EmptyVendingMachine.reportString>Спустошує торговий автомат.</VendingMachine_EmptyVendingMachine.reportString>
+  <ScroungeFood.reportString>Добуваю їжу в TargetA.</ScroungeFood.reportString>
+  <SwipeFood.reportString>Забираю їжу з TargetA.</SwipeFood.reportString>
+
+
+</LanguageData>

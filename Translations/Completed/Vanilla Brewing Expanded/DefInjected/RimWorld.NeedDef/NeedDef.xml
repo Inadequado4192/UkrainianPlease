@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--caffeine-->
+  <VBE_Chemical_Caffeine.label>кофеїн</VBE_Chemical_Caffeine.label>
+  <!--Because of a caffeine addiction, this person needs to regularly consume caffeine to avoid withdrawal symptoms.-->
+  <VBE_Chemical_Caffeine.description>Кофеїнова залежність примушує цю людину до регулярного вживання кофеїну, щоб уникнути абстиненції (синдрому відміни).</VBE_Chemical_Caffeine.description>
+  
+  <!--tobacco-->
+  <VBE_Chemical_Tobacco.label>нікотин</VBE_Chemical_Tobacco.label>
+  <!--Because of a tobacco dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms.-->
+  <VBE_Chemical_Tobacco.description>Тютюнова залежність примушує цю людину до регулярного вживання тютюну, щоб уникнути абстиненції (синдрому відміни).</VBE_Chemical_Tobacco.description>
+</LanguageData>

@@ -1,0 +1,2894 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VTE_FactionSiegePlan.rulePack.rulesStrings>
+	  <li>root->[gov] [plan] низки осадних операцій і почали накопичувати боєприпаси та зброю.</li>
+	  <li>root->[gov] [plan] [war] та буде накопичувати боєприпаси та зброю.</li>
+	  <li>root->[gov] [plan] закупівлі надлишкової зброї та мінометних снарядів.[maybe_end]</li>
+	  <li>root->[gov] [plan] облоги рейдерської застави. Очікується ведення інтенсивних бойових дій.</li>
+	  
+	  <li>gov(p=2)->[FACTION_name]</li>
+	  <li>gov->Уряд [FACTION_name]</li>
+	  <li>gov->Влада [FACTION_name]</li>
+	  <li>gov->Керівництво [FACTION_name]</li>
+	  
+	  <li>plan->готується до</li>
+	  <li>plan->підготовляється до</li>
+	  <li>plan->збирається до проведення</li>
+	  <li>plan->планує проведення</li>
+	  
+	  <li>war->війни</li>
+	  <li>war->бойових дій</li>
+	  <li>war->конфлікту</li>
+	  <li>war->воєнної операції</li>
+	  <li>war->прикордонної сутички</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+  </VTE_FactionSiegePlan.rulePack.rulesStrings>
+  
+  <VTE_FactionInfestationLoot.rulePack.rulesStrings>
+	  <li>root->[gov_1] із інсектоїдним зараженням і вирішили продати надлишки желе.[maybe_end]</li>
+	  <li>root->[gov_2] печери інсектоїдів і тепер вони продаватимуть желе на ринку.[maybe_end]</li>
+	  <li>root->[gov_3] великою партією інсектоїдного желе і планують його продати.[maybe_end]</li>
+	  <li>root->[gov_4] про інсектоїдне зараження. На поточний момент ситуація стабілізована, та сховища ломляться під надлишку добутого желе.</li>
+	  
+	  <li>gov_1(p=2)->[FACTION_name] нарешті розібралися</li>
+	  <li>gov_1->Уряд [FACTION_name] нарешті розібрався</li>
+	  <li>gov_1->Влада [FACTION_name] нарешті розібралася</li>
+	  <li>gov_1->Керівництво [FACTION_name] нарешті розібралось</li>
+
+	  <li>gov_2(p=2)->[FACTION_name] розграбували</li>
+	  <li>gov_2->За [order] уряду [FACTION_name], було розграбовано</li>
+	  <li>gov_2->За [order] влади [FACTION_name], було розграбовано</li>
+	  <li>gov_2->За [order] керівництва [FACTION_name], було розграбовано</li>
+	  
+	  <li>order->наказом</li>
+	  <li>order->розпорядженням</li>
+	  <li>order->рішенням</li>
+	  <li>order->директивою №[Digit][Digit][Digit]</li>
+
+	  <li>gov_3(p=2)->[FACTION_name] заволоділи</li>
+	  <li>gov_3->Уряд [FACTION_name] заволодів</li>
+	  <li>gov_3->Влада [FACTION_name] заволоділа</li>
+	  <li>gov_3->Керівництво [FACTION_name] заволоділо</li>
+
+	  <li>gov_4(p=2)->В [FACTION_name] повідомили</li>
+	  <li>gov_4->Уряд [FACTION_name] повідомив</li>
+	  <li>gov_4->Влада [FACTION_name] повідомила</li>
+	  <li>gov_4->Керівництво [FACTION_name] повідомило</li>
+	  <li>gov_4->Незалежні журналісти [FACTION_name] повідомили</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+  </VTE_FactionInfestationLoot.rulePack.rulesStrings>
+  
+  <VTE_SettlementGotPlague.rulePack.rulesStrings>
+	  <li>root->[gov] повідомляє про спалах [virus]. Почалася ажіотажна закупівля [med].[maybe_end]</li>
+	  <li>root->[gov] відновлює поселення після рейду. Планується закупівля великої партії [med].[maybe_end]</li>
+	  <li>root->[gov] гостро потребує [med] для населення, а це означає, що ціна на них зросте.</li>
+	  <li>root->[gov] повідомляє про виявлення невідомої хвороби. На фоні соціальної паніки розпочалась панічна закупівля [med].[maybe_end]</li>
+	  
+	  <li>gov(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov->Влада [SETTLEMENT_label]</li>
+	  <li>gov->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>virus->чуми</li>
+	  <li>virus->туберкульозу</li>
+	  <li>virus->малярії</li>
+	  <li>virus->холери</li>
+	  <li>virus->віспи</li>
+	  <li>virus->гарячки</li>
+	  <li>virus->тифу</li>
+	  <li>virus->краснухи</li>
+	  <li>virus->дифтерії</li>
+	  <li>virus->сифілісу</li>
+	  <li>virus->сказу</li>
+	  
+	  <li>med->ліків</li>
+	  <li>med->медикаментів</li>
+	  <li>med->лікарських засобів</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+  </VTE_SettlementGotPlague.rulePack.rulesStrings>
+  
+  <VTE_SettlementPrisonBreak.rulePack.rulesStrings>
+      <li>root->[gov] [rep] про [situation]. [speaker] [police] [promise] посилити [sec].</li>
+	  <li>root->[gov_1] накопичує зброю.[maybe_end]</li>
+	  <li>root->[gov_1] планує забезпечити всіх правоохоронців новою зброєю.</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>situation->втечу з в'язниці</li>
+	  <li>situation->вибух у в'язниці</li>
+	  <li>situation->зникнення заручників з ізолятора</li>
+	  <li>situation->втрату контролю над в'язнями</li>
+	  
+	  <li>speaker->Мовник</li>
+	  <li>speaker->Спікер</li>
+	  <li>speaker->Речник</li>
+	  <li>speaker->Представник</li>
+	  
+	  <li>police->поліції</li>
+	  <li>police->поліцейського відділу</li>
+	  <li>police->правоохоронних сил</li>
+	  
+	  <li>promise->обіцяє</li>
+	  <li>promise->зобов’язався</li>
+	  <li>promise->пообіцяв</li>
+	  <li>promise->заявив, що вони планують</li>
+	  
+	  <li>sec->охорону</li>
+	  <li>sec->заходи безпеки</li>
+	  <li>sec->нагляд</li>
+	  <li>sec->контроль</li>
+
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+  </VTE_SettlementPrisonBreak.rulePack.rulesStrings>
+  
+  <VTE_SettlementGotRaided.rulePack.rulesStrings>
+	  <li>root->[gov] [rep] про [raid] на поселення. Наразі триває [materials_for_reconst].</li>
+	  <li>root->[gov] [rep] про [disaster] в поселенні[maybe_cont]. Наразі планується [materials_for_reconst].</li>
+	  <li>root->[gov] планують [recover_acc] поселення, але для цього їм знадобляться будівельні матеріали.[maybe_end]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>raid->наліт</li>
+	  <li>raid->напад</li>
+	  <li>raid->наскок</li>
+	  <li>raid->рейд</li>
+	  
+	  <li>disaster->стихійне лихо</li>
+	  <li>disaster->землетрус</li>
+	  <li>disaster->пожежу</li>
+	  <li>disaster->повінь</li>
+	  <li>disaster->обвал</li>
+	  <li>disaster->сель</li>
+	  <li>disaster->лавину</li>
+	  
+	  <li>maybe_cont(p=3)-></li>
+	  <li>maybe_cont->. Наслідки оцінюються як катастрофічні</li>
+	  <li>maybe_cont->. Внаслідок цього більша частина нас. пункту була зруйнована</li>
+	  <li>maybe_cont->. Наслідки руйнівні</li>
+	  
+	  <li>materials_for_reconst(p=3)->[recover_nom]</li>
+	  <li>materials_for_reconst->закупівля будівельних матеріалів для [recover_gen]</li>
+	  <li>materials_for_reconst->придбання будівельних матеріалів для [recover_gen]</li>
+	  <li>materials_for_reconst->купування будівельних матеріалів для [recover_gen]</li>
+	  <li>materials_for_reconst->закупка будівельних матеріалів для [recover_gen]</li>
+	  
+	  <li>recover_nom->відновлення</li>
+	  <li>recover_nom->відбудова</li>
+	  <li>recover_nom->поновлення</li>
+	  <li>recover_nom->реконструкція</li>
+
+	  <li>recover_gen->відновлення</li>
+	  <li>recover_gen->відбудови</li>
+	  <li>recover_gen->поновлення</li>
+	  <li>recover_gen->реконструкції</li>
+	  
+	  <li>recover_acc->відновлення</li>
+	  <li>recover_acc->відбудову</li>
+	  <li>recover_acc->поновлення</li>
+	  <li>recover_acc->реконструкцію</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+  </VTE_SettlementGotRaided.rulePack.rulesStrings>
+  
+  <VTE_SettlementPlagueDealtWith.rulePack.rulesStrings>
+	  <li>root->[gov] [rep], що впоралися з їхнім спалахом [virus] і тепер продають надлишки [med].[maybe_end]</li>
+	  <li>root->[gov] планують розпродати надлишки [med].[maybe_end]</li>
+	  <li>root->[gov] [rep], що їм більше не потрібні їхні запаси [med].[maybe_end]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>virus->чуми</li>
+	  <li>virus->туберкульозу</li>
+	  <li>virus->малярії</li>
+	  <li>virus->холери</li>
+	  <li>virus->віспи</li>
+	  <li>virus->гарячки</li>
+	  <li>virus->тифу</li>
+	  <li>virus->краснухи</li>
+	  <li>virus->дифтерії</li>
+	  <li>virus->сифілісу</li>
+	  <li>virus->сказу</li>	  
+	  	  
+	  <li>med->ліків</li>
+	  <li>med->медикаментів</li>
+	  <li>med->лікарських засобів</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+  </VTE_SettlementPlagueDealtWith.rulePack.rulesStrings>
+  
+  <VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings>
+	  <li>root->[gov] [rep] про невдалу спробу [situation]. Вони [sell] надлишок зброї та броні.[maybe_end]</li>
+	  <li>root->[gov] вирішили не воювати[peace_maybe]. Вони [sell] своєї зброї та броні.[maybe_end]</li>
+	  <li>root->[gov] [sell] своєї старої зброї та броні.[maybe_end]</li>
+
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>situation->втечі з в'язниці</li>
+	  <li>situation->вибуху у в'язниці</li>
+	  <li>situation->втечі заручників з ізолятора</li>
+	  <li>situation->бунту у в'язниці</li>
+	  
+	  <li>sell->продають</li>
+	  <li>sell->розпродають</li>
+	  <li>sell->збуваються</li>
+	  
+	  <li>peace_maybe(p=3)-></li>
+	  <li>peace_maybe->, через виток інформації про війну до медіа</li>
+	  <li>peace_maybe->, через початок внутрішніх заворушень</li>
+	  <li>peace_maybe->, через економічну кризу на фоні підготовки до війни</li>
+	  <li>peace_maybe->, через сум'яття гендиректорів ВПК</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+  </VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings>
+  
+  <VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [raid] на поселення. Наразі [raiders] [sell] накрадене.[maybe_end]</li>
+	  <li>root->[form], що вони назбирали багато корисного мотлоху і незабаром вони заполонять їм ринок.[maybe_end]</li>
+	  <li>root->[form] про нещодавній успішний [raid]. Наразі вони [sell] награбоване.[maybe_end]</li>
+	  <li>root->[form], що вони планують [sell_1] свої запаси.[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>raid->наліт</li>
+	  <li>raid->напад</li>
+	  <li>raid->наскок</li>
+	  <li>raid->рейд</li>
+	  
+	  <li>raiders->рейдери</li>
+	  <li>raiders->мародери</li>
+	  <li>raiders->грабіжники</li>
+	  <li>raiders->бандити</li>
+	  
+	  <li>sell->продають</li>
+	  <li>sell->розпродають</li>
+	  <li>sell->збувають</li>
+	  
+	  <li>sell_1->продати</li>
+	  <li>sell_1->розпродати</li>
+	  <li>sell_1->збути</li>
+	  <li>sell_1->спустошити</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+  </VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings>
+  
+  <VTE_SettlementCombatEmergency.rulePack.rulesStrings>
+	  <li>root->[form] про закупівлю великої кількості [mun] через надзвичайну ситуацію.[maybe_end]</li>
+	  <li>root->[form] про [plan] [war] і закупівлю великих обсягів [mun].[maybe_end]</li>
+	  <li>root->[form] про потребу у великій кількості [mun] досить терміново.</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>mun(p=2)->зброї</li>
+	  <li>mun->озброєння</li>
+	  <li>mun->воєнних припасів</li>
+	  <li>mun->воєнної муніції</li>
+	  
+	  <li>plan->приготування до</li>
+	  <li>plan->підготовку до</li>
+	  <li>plan->наміри проведення</li>
+	  <li>plan->планування</li>
+	  
+	  <li>war->війни</li>
+	  <li>war->бойових дій</li>
+	  <li>war->конфлікту</li>
+	  <li>war->воєнної операції</li>
+	  <li>war->прикордонної сутички</li>
+  </VTE_SettlementCombatEmergency.rulePack.rulesStrings>
+  
+  <VTE_SettlementManhunterMeat.rulePack.rulesStrings>
+	  <li>root->[form] про наміри [sell_1] велику кількість м'яса, здобутого від [group] скажених [animal].[maybe_end]</li>
+	  <li>root->[form] про дуже вдале полювання. Наразі вони [sell] надлишки м'яса.[maybe_end]</li>
+	  <li>root->[form], що вони [sell] надлишки м'яса зі складу.[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продають</li>
+	  <li>sell->розпродають</li>
+	  <li>sell->збувають</li>
+	  <li>sell->планують продати</li>
+	  
+	  <li>sell_1->продати</li>
+	  <li>sell_1->розпродати</li>
+	  <li>sell_1->збути</li>
+	  
+	  <li>group->угрупування</li>
+	  <li>group->зграї</li>
+	  <li>group->стада</li>
+	  <li>group->групи</li>
+	  <li>group->гурту</li>
+	  <li>group->групи</li>
+	  <li>group->орди</li>
+	  <li>group->зграйки</li>
+	  
+	  <li>animal(p=2)->тварин</li>
+	  <li>animal->акул</li>
+	  <li>animal->альпак</li>
+	  <li>animal->алігаторів</li>
+	  <li>animal->антилоп</li>
+	  <li>animal->ардварків</li>
+	  <li>animal->бабуїнів</li>
+	  <li>animal->баранів</li>
+	  <li>animal->барракуд</li>
+	  <li>animal->бджол</li>
+	  <li>animal->бобрів</li>
+	  <li>animal->богомолів</li>
+	  <li>animal->борсуків</li>
+	  <li>animal->броненосців</li>
+	  <li>animal->буйволів</li>
+	  <li>animal->бумщурів</li>
+	  <li>animal->бізонів</li>
+	  <li>animal->білих ведмідів</li>
+	  <li>animal->білок</li>
+	  <li>animal->ведмідів</li>
+	  <li>animal->верблюдів</li>
+	  <li>animal->видр</li>
+	  <li>animal->вовків</li>
+	  <li>animal->вомбатів</li>
+	  <li>animal->воронів</li>
+	  <li>animal->восьминігів</li>
+	  <li>animal->вугрів</li>
+	  <li>animal->волів</li>
+	  <li>animal->віслюків</li>
+	  <li>animal->гадюк</li>
+	  <li>animal->газелей</li>
+	  <li>animal->гепардів</li>
+	  <li>animal->голубів</li>
+	  <li>animal->горилл</li>
+	  <li>animal->горобців</li>
+	  <li>animal->гусениць</li>
+	  <li>animal->гусок</li>
+	  <li>animal->гіпопотамів</li>
+	  <li>animal->гієн</li>
+	  <li>animal->дельфінів</li>
+	  <li>animal->дикобразів</li>
+	  <li>animal->динозаврів</li>
+	  <li>animal->довгоп'ятів</li>
+	  <li>animal->дятлів</li>
+	  <li>animal->ему</li>
+	  <li>animal->жаб</li>
+	  <li>animal->жирафів</li>
+	  <li>animal->журавлів</li>
+	  <li>animal->зайців</li>
+	  <li>animal->зебр</li>
+	  <li>animal->землерийок</li>
+	  <li>animal->змій</li>
+	  <li>animal->зябликів</li>
+	  <li>animal->кабанів</li>
+	  <li>animal->кажанів</li>
+	  <li>animal->кальмарів</li>
+	  <li>animal->качок</li>
+	  <li>animal->кенгуру</li>
+	  <li>animal->китів</li>
+	  <li>animal->коал</li>
+	  <li>animal->кобр</li>
+	  <li>animal->кіз</li>
+	  <li>animal->койотів</li>
+	  <li>animal->колібрі</li>
+	  <li>animal->крабів</li>
+	  <li>animal->крокодилів</li>
+	  <li>animal->кроликів</li>
+	  <li>animal->курчат</li>
+	  <li>animal->куріпок</li>
+	  <li>animal->конів</li>
+	  <li>animal->котів</li>
+	  <li>animal->лам</li>
+	  <li>animal->ламантинів</li>
+	  <li>animal->ласок</li>
+	  <li>animal->лебедів</li>
+	  <li>animal->левів</li>
+	  <li>animal->лелек</li>
+	  <li>animal->лемурів</li>
+	  <li>animal->леопардів</li>
+	  <li>animal->лисів</li>
+	  <li>animal->лобстерів</li>
+	  <li>animal->лосей</li>
+	  <li>animal->лугових собачок</li>
+	  <li>animal->мавп</li>
+	  <li>animal->мангустів</li>
+	  <li>animal->мандрилів</li>
+	  <li>animal->мегаскарабеїв</li>
+	  <li>animal->мишей</li>
+	  <li>animal->молюсків</li>
+	  <li>animal->моржів</li>
+	  <li>animal->морських корів</li>
+	  <li>animal->морських свинок</li>
+	  <li>animal->морських коників</li>
+	  <li>animal->морських левів</li>
+	  <li>animal->москітів</li>
+	  <li>animal->мошок</li>
+	  <li>animal->мулів</li>
+	  <li>animal->мурах</li>
+	  <li>animal->мурахоїдів</li>
+	  <li>animal->муффало</li>
+	  <li>animal->нарвалів</li>
+	  <li>animal->норок</li>
+	  <li>animal->носорогів</li>
+	  <li>animal->оленів</li>
+	  <li>animal->опосумів</li>
+	  <li>animal->орлів</li>
+	  <li>animal->ос</li>
+	  <li>animal->осликів</li>
+	  <li>animal->павуків</li>
+	  <li>animal->панд</li>
+	  <li>animal->пантер</li>
+	  <li>animal->папуг</li>
+	  <li>animal->пеліканів</li>
+	  <li>animal->перепілок</li>
+	  <li>animal->полівок</li>
+	  <li>animal->поросят</li>
+	  <li>animal->північних оленів</li>
+	  <li>animal->пінгвінів</li>
+	  <li>animal->піщанок</li>
+	  <li>animal->равликів</li>
+	  <li>animal->росомах</li>
+	  <li>animal->саламандр</li>
+	  <li>animal->сардин</li>
+	  <li>animal->скатів</li>
+	  <li>animal->скорпіонів</li>
+	  <li>animal->скунсів</li>
+	  <li>animal->слонів</li>
+	  <li>animal->собак</li>
+	  <li>animal->сов</li>
+	  <li>animal->сойок</li>
+	  <li>animal->соколів</li>
+	  <li>animal->сорок</li>
+	  <li>animal->стерв'ятників</li>
+	  <li>animal->страусів</li>
+	  <li>animal->сурикатів</li>
+	  <li>animal->тарганів</li>
+	  <li>animal->термітів</li>
+	  <li>animal->тетеруків</li>
+	  <li>animal->тигрів</li>
+	  <li>animal->тритонів</li>
+	  <li>animal->тхорів</li>
+	  <li>animal->тюленів</li>
+	  <li>animal->устриць</li>
+	  <li>animal->фазанів</li>
+	  <li>animal->фламінго</li>
+	  <li>animal->хижаків</li>
+	  <li>animal->хом'ячків</li>
+	  <li>animal->хробаків</li>
+	  <li>animal->черепах</li>
+	  <li>animal->шакалів</li>
+	  <li>animal->шершенів</li>
+	  <li>animal->щурів</li>
+	  <li>animal->ягуарів</li>
+	  <li>animal->яків</li>
+	  <li>animal->яструбів</li>
+	  <li>animal->єнотів</li>
+	  <li>animal->ігуан</li>
+	  <li>animal->індичок</li>
+	  <li>animal->їжаків</li>
+</VTE_SettlementManhunterMeat.rulePack.rulesStrings>
+  
+  <VTE_SettlementZzzt.rulePack.rulesStrings>
+	  <li>root->[form] про [incident] в поселенні, і тепер планують [buy] для [recover_acc] постраждалих будівель.[maybe_end]</li>
+	  <li>root->[form] про [incident] і потребу в будівельних матеріалах для [recover_acc].</li>
+	  <li>root->[form] про плани розширення, але для цього їм прийдеться [buy].[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>recover_acc->відновлення</li>
+	  <li>recover_acc->відбудови</li>
+	  <li>recover_acc->поновлення</li>
+	  <li>recover_acc->реконструкції</li>
+	  
+	  <li>buy->закупити будівельні матеріали</li>
+	  <li>buy->придбати будівельні матеріали</li>
+	  <li>buy->купити будівельні матеріали</li>
+	  
+	  <li>incident->збої електропостачання</li>
+	  <li>incident->вибух газу</li>
+	  <li>incident->витік газу на пром комплексі</li>
+	  <li>incident->саботаж на фабриці піротехніки</li>
+  </VTE_SettlementZzzt.rulePack.rulesStrings>
+  
+  <VTE_SettlementAlphabeavers.rulePack.rulesStrings>
+	  <li>root->[form] про боротьбу [with_group] альфабобрів. Вони вирішили «задобрити» тварин великою партією деревини.</li>
+	  <li>root->[form], що у них закінчилася деревина на складах. В поселенні планують [buy] її.[maybe_end]</li>
+	  <li>root->[form] про нестачу деревини. В поселенні планують [buy] її.[maybe_end]</li>
+	  <li>root->[form] про потребу своїх будівельників у великій кількості деревини для завершення їхнього проєкту.</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>with_group->з угрупуванням</li>
+	  <li>with_group->зі зграєю</li>
+	  <li>with_group->із стадом</li>
+	  <li>with_group->з групою</li>
+	  <li>with_group->з гуртом</li>
+	  <li>with_group->із групою</li>
+	  <li>with_group->з ордою</li>
+	  <li>with_group->зі зграйкою</li>
+	  
+	  <li>buy->закуповувати</li>
+	  <li>buy->набувати</li>
+	  <li>buy->купувати</li>
+	  <li>buy->скуповувати</li>
+	  <li>buy->придбавати</li>
+  </VTE_SettlementAlphabeavers.rulePack.rulesStrings>
+  
+  <VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings>
+	  <li>root->[form], що вони позбулися [group] альфабобрів, яка їм заважала, і тепер хочуть [sell] надлишки деревини.[maybe_end]</li>
+	  <li>root->[form] про [sell_1] надлишок деревини.[maybe_end]</li>
+	  <li>root->[form], що в поселенні вирубали велику ділянку лісу з наміром [sell] деревину.[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>group->угрупування</li>
+	  <li>group->зграї</li>
+	  <li>group->стада</li>
+	  <li>group->групи</li>
+	  <li>group->гурту</li>
+	  <li>group->групи</li>
+	  <li>group->орди</li>
+	  <li>group->зграйки</li>
+	  
+	  <li>sell->продати</li>
+	  <li>sell->розпродати</li>
+	  <li>sell->збути</li>
+	  
+	  <li>sell_1->продаж</li>
+	  <li>sell_1->розпродаж</li>
+	  <li>sell_1->збування</li>
+  </VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings>
+  
+  <VTE_SettlementBlight.rulePack.rulesStrings>
+	  <li>root->[form] про спалах жахливого епідемічного вірусу. Населення скуповує велику кількість [supply] для майбутнього карантину.[maybe_end]</li>
+	  <li>root->[form] про [incident] на складі [supply].</li>
+	  <li>root->[form], що вони планують [buy] велику кількість [supply].[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>supply->продовольства</li>
+	  <li>supply->провізії</li>
+	  <li>supply->провіянту</li>
+	  <li>supply->продуктів харчування</li>
+	  
+	  <li>incident->пожежу</li>
+	  <li>incident->вибух</li>
+	  <li>incident->саботаж</li>
+	  
+	  <li>buy->закупити</li>
+	  <li>buy->набути</li>
+	  <li>buy->купити</li>
+	  <li>buy->скупити</li>
+	  <li>buy->придбати</li>
+  </VTE_SettlementBlight.rulePack.rulesStrings>
+  
+  <VTE_SettlementBigHarvest.rulePack.rulesStrings>
+	  <li>root->[form], що їх фермери зібрали[adj_maybe] врожай і тепер [sell] [sell_obj].[maybe_end]</li>
+	  <li>root->[form] про плани [sell_1] велику кількість [supply].[maybe_end]</li>
+	  <li>root->У рамках збору нового врожаю, аграрії [SETTLEMENT_label] зібрали майже [Digit][Digit],[Digit] [size] врожаю і тепер планують [sell_1] [sell_obj].[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>supply->продовольства</li>
+	  <li>supply->провізії</li>
+	  <li>supply->провіянту</li>
+	  <li>supply->продуктів харчування</li>
+	  
+	  <li>adj_maybe(p=10)-></li>
+	  <li>adj_maybe-> дивовижний</li>
+	  <li>adj_maybe-> винятковий</li>
+	  <li>adj_maybe-> непомірний</li>
+	  <li>adj_maybe-> надмірний</li>
+	  <li>adj_maybe-> надзвичайний</li>
+	  <li>adj_maybe-> безпрецедентний</li>
+	  <li>adj_maybe-> фантастичний</li>
+	  <li>adj_maybe-> феномельнальний</li>
+	  <li>adj_maybe-> незрівнянний</li>
+	  <li>adj_maybe-> вдалий</li>
+	  
+	  <li>sell->продають</li>
+	  <li>sell->розпродають</li>
+	  <li>sell->збувають</li>
+	  
+	  <li>sell_obj->свої надлишкові запаси</li>
+	  <li>sell_obj->надлишки</li>
+	  <li>sell_obj->залишок запасів</li>
+	  <li>sell_obj->лишок запасів</li>
+	  
+	  <li>sell_1->продати</li>
+	  <li>sell_1->розпродати</li>
+	  <li>sell_1->збути</li>
+	  
+	  <li>size->тонн</li>
+	  <li>size->тисяч тонн</li>
+	  <li>size->млн тонн</li>
+  </VTE_SettlementBigHarvest.rulePack.rulesStrings>
+  
+  <VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings>
+	  <li>root->[form], що їх сили оборони розібралися із кораблями-дефоліаторами і про плани [sell] надлишок пласталі.[maybe_end]</li>
+	  <li>root->[form] про видобуток великої кількості пласталі та планують її [sell_1].[maybe_end]</li>
+	  <li>root->[form], що планують [sell_1] невикористану пласталь.[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продажі</li>
+	  <li>sell->розпродажі</li>
+	  <li>sell->збування</li>
+	  
+	  <li>sell_1->продати</li>
+	  <li>sell_1->розпродати</li>
+	  <li>sell_1->збути</li>
+  </VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings>
+  
+  <VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings>
+	  <li>root->[form] про рішення модернізувати свою оборону [moder]. Вони планують [buy] велику партію пласталі.[maybe_end]</li>
+	  <li>root->[form] про завершення голосування за реструктуризацію [defense]. Для оснащення нових [soldier] вони планують [buy] велику партію пласталі.[maybe_end]</li>
+	  <li>root->[form], що поселенню потрібна пласталь і вони планують [buy] її великими партіями.[maybe_end]</li>
+	  <li>root->[form] про уведення у дію рішення "[decision]" і тепер планують [buy] сталі, пласталі та компонентів.[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупити</li>
+	  <li>buy->набути</li>
+	  <li>buy->купити</li>
+	  <li>buy->скупити</li>
+	  <li>buy->придбати</li>
+	  
+	  <li>moder->новими комплектами силової броні</li>
+	  <li>moder->новим озброєнням</li>
+	  <li>moder->новою зброєю</li>
+	  
+	  <li>defense->своєї оборони</li>
+	  <li>defense->свого захисту</li>
+	  <li>defense->своїх збройних сил</li>
+	  <li>defense->своєї прикордонної служби</li>
+	  <li>defense->своєї служби безпеки</li>
+	  
+	  <li>soldier->солдатів</li>
+	  <li>soldier->бійців</li>
+	  <li>soldier->воїнів</li>
+	  <li>soldier->піхотинців</li>
+	  <li>soldier->ратників</li>
+	  <li>soldier->вояк</li>
+	  <li>soldier->дружинників</li>
+	  
+	  <li>decision->Про Удосконалення оборони</li>
+	  <li>decision->Про Стратегію воєнної безпеки</li>
+	  <li>decision->Про Модернізацію ЗС</li>
+	  <li>decision->Про Стратегію захисту</li>
+	  <li>decision->Про Службу безпеки</li>
+  </VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings>
+  
+  <VTE_SettlementColdSnap.rulePack.rulesStrings>
+	  <li>root->[form], що їхне поселення вразила проказа, яка знищила запаси [supply].</li>
+	  <li>root->[form] про [disaster_adj] ситуацію з [supply_1].</li>
+	  <li>root->[form] про [buy] [supply] у великих обсягах.[maybe_end]</li>
+	  <li>root->[form], що поселення знаходиться перед[famine_adj_maybe] загрозою голоду.</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+	  
+	  <li>supply->продовольства</li>
+	  <li>supply->провізії</li>
+	  <li>supply->провіянту</li>
+	  <li>supply->продуктів харчування</li>
+	  
+	  <li>disaster_adj->катастрофічну</li>
+	  <li>disaster_adj->трагічну</li>
+	  <li>disaster_adj->безнадійну</li>
+	  <li>disaster_adj->тяжку</li>
+	  <li>disaster_adj->жахливу</li>
+	  <li>disaster_adj->безвихідну</li>
+	  <li>disaster_adj->безнадійну</li>
+
+	  <li>famine_adj_maybe(p=5)-></li>
+	  <li>famine_adj_maybe-> безпрецедентною</li>
+	  <li>famine_adj_maybe-> небаченою</li>
+	  <li>famine_adj_maybe-> незнаною</li>
+	  <li>famine_adj_maybe-> небувалою</li>
+	  
+	  <li>supply_1->продовольством</li>
+	  <li>supply_1->провізією</li>
+	  <li>supply_1->провіянтом</li>
+	  <li>supply_1->продуктами харчування</li>
+  </VTE_SettlementColdSnap.rulePack.rulesStrings>
+  
+  <VTE_SettlementHeatWave.rulePack.rulesStrings>
+	  <li>root->[form] про аномальну спеку. Було прийнято рішення [sell] [supply_until].[maybe_end]</li>
+	  <li>root->[form] про поломку їхньої морозильної камери, і що вони вирішили [sell] [supply_until].[maybe_end]</li>
+	  <li>root->[form], що вони планують [sell] [their_supply].[maybe_end]</li>
+
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продати</li>
+	  <li>sell->розпродати</li>
+	  <li>sell->збути</li>
+	  
+	  <li>their_supply->своє продовольство</li>
+	  <li>their_supply->свою провізію</li>
+	  <li>their_supply->свій провіянт</li>
+	  <li>their_supply->свої продукти харчування</li>
+	  <li>their_supply->свою їжу</li>
+	  
+	  <li>supply_until->продовольство [until_it]</li>
+	  <li>supply_until->провізію [until_female]</li>
+	  <li>supply_until->провіянт [until_male]</li>
+	  <li>supply_until->продукти харчування [until_plu]</li>
+	  <li>supply_until->їжу [until_female]</li>
+	  
+	  <li>until_male->поки він не зіпсувався</li>
+	  <li>until_male->поки він не згнив</li>
+	  <li>until_male->поки він не спортився</li>
+	  <li>until_male->допоки він не зіпсувався</li>
+	  <li>until_male->допоки він не згнив</li>
+	  <li>until_male->допоки він не спортився</li>
+	  <li>until_male->до того, як він зіпсується</li>
+	  <li>until_male->до того, як він згниє</li>
+	  <li>until_male->до того, як він спортиться</li>
+
+	  <li>until_female->поки вона не зіпсувалася</li>
+	  <li>until_female->поки вона не згнила</li>
+	  <li>until_female->поки вона не спортилася</li>
+	  <li>until_female->допоки вона не зіпсувалася</li>
+	  <li>until_female->допоки вона не згнила</li>
+	  <li>until_female->допоки вона не спортилася</li>
+	  <li>until_female->до того, як вона зіпсується</li>
+	  <li>until_female->до того, як вона згниє</li>
+	  <li>until_female->до того, як вона спортиться</li>
+
+	  <li>until_it->поки воно не зіпсувалося</li>
+	  <li>until_it->поки воно не згнило</li>
+	  <li>until_it->поки воно не спортилося</li>
+	  <li>until_it->допоки воно не зіпсувалося</li>
+	  <li>until_it->допоки воно не згнило</li>
+	  <li>until_it->допоки воно не спортилося</li>
+	  <li>until_it->до того, як воно зіпсується</li>
+	  <li>until_it->до того, як воно згниє</li>
+	  <li>until_it->до того, як воно спортиться</li>
+
+	  <li>until_plu->поки вони не зіпсувалися</li>
+	  <li>until_plu->поки вони не згнили</li>
+	  <li>until_plu->поки вони не спортилися</li>
+	  <li>until_plu->допоки вони не зіпсувалися</li>
+	  <li>until_plu->допоки вони не згнили</li>
+	  <li>until_plu->допоки вони не спортилися</li>
+	  <li>until_plu->до того, як вони зіпсуються</li>
+	  <li>until_plu->до того, як вони згниють</li>
+	  <li>until_plu->до того, як вони спортяться</li>
+  </VTE_SettlementHeatWave.rulePack.rulesStrings>
+  
+  <VTE_SettlementTextilePurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великої кількості [fabrics_gen].[maybe_end]</li>
+	  <li>root->[form] про плани забезпечити своїх кравців великою кількістю [fabrics_gen].</li>
+	  <li>root->[form], що вони [buy_1] [fabrics_acc] у великих обсягах.[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+
+	  <li>buy_1->закуповують</li>
+	  <li>buy_1->набувають</li>
+	  <li>buy_1->купують</li>
+	  <li>buy_1->скуповують</li>
+	  <li>buy_1->придбають</li>
+	  
+	  <li>fabrics_gen(p=3)->текстилю</li>
+	  <li>fabrics_gen(p=3)->тканини</li>
+	  <li>fabrics_gen->ткання</li>
+	  <li>fabrics_gen->трикотажу</li>
+	  <li>fabrics_gen->краму</li>
+	  <li>fabrics_gen->тканки</li>
+
+	  <li>fabrics_acc(p=3)->текстиль</li>
+	  <li>fabrics_acc(p=3)->тканину</li>
+	  <li>fabrics_acc->ткання</li>
+	  <li>fabrics_acc->трикотаж</li>
+	  <li>fabrics_acc->крам</li>
+	  <li>fabrics_acc->тканку</li>
+  </VTE_SettlementTextilePurchase.rulePack.rulesStrings>
+  
+  <VTE_SettlementLeatherPurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великого обсягу шкіри.[maybe_end]</li>
+	  <li>root->[form] про [buy] шкіри у великих обсягах.[maybe_end]</li>
+	  <li>root->[form], що вони вирішили [buy_1] велику кількість [adj_maybe] шкір.[maybe_end]</li>
+	  <li>root->[form] про появу [new_fashion] на шкіру серед [people].</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+
+	  <li>buy_1->зкупити</li>
+	  <li>buy_1->набути</li>
+	  <li>buy_1->купити</li>
+	  <li>buy_1->скупити</li>
+	  <li>buy_1->придбати</li>
+	  
+	  <li>new_fashion->нової моди</li>
+	  <li>new_fashion->нової тенденції</li>
+	  <li>new_fashion->нового тренду</li>
+	  <li>new_fashion->нового стилю</li>
+	  <li>new_fashion->нового фасону</li>
+	  
+	  <li>people->мешканців</li>
+	  <li>people->населення</li>
+	  <li>people->жителів</li>
+	  
+	  <li>adj_maybe(p=5)-></li>
+	  <li>adj_maybe-> різноманітних</li>
+	  <li>adj_maybe-> багатоманітних</li>
+	  <li>adj_maybe-> різних</li>
+	  <li>adj_maybe-> розмаїтих</li>
+  </VTE_SettlementLeatherPurchase.rulePack.rulesStrings>
+  
+  <VTE_SettlementWoolsPurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великої кількості[adj_maybe] вовни.[maybe_end]</li>
+	  <li>root->[form] про нестачу вовни в поселенні.</li>
+	  <li>root->[form] про спалах чуми серед [livestock].</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+	  
+	  <li>adj_maybe(p=5)-></li>
+	  <li>adj_maybe-> різноманітної</li>
+	  <li>adj_maybe-> багатоманітної</li>
+	  <li>adj_maybe-> різної</li>
+	  <li>adj_maybe-> розмаїтої</li>
+
+	  <li>livestock->худоби</li>
+	  <li>livestock->худобини</li>
+	  <li>livestock->скоту</li>
+	  <li>livestock->скотини</li>
+	  <li>livestock->овець</li>
+  </VTE_SettlementWoolsPurchase.rulePack.rulesStrings>
+  
+  <VTE_SettlementDrugsPurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великої кількості наркотиків.[maybe_end]</li>
+	  <li>root->[form] про [decision] про легалізацію [drug_type] наркотиків.</li>
+	  <li>root->[gov] [concerned] зростаючою популярністю [drug_type] наркотиків серед [people].</li>
+	  <li>root->[gov_1] [propaganda] використання [drug_type] наркотиків серед [people].</li>
+	  <li>root->[form] про «накриття» чергового наркокортелю. [people_upper] в паніці [buy_1] залишки товару.[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+
+	  <li>buy_1->закупають</li>
+	  <li>buy_1->набувають</li>
+	  <li>buy_1->купують</li>
+	  <li>buy_1->скуповують</li>
+	  
+	  <li>decision->прийняття рішення</li>
+	  <li>decision->ухвалення рішення</li>
+	  <li>decision->закінчення голосування №[Digit][Digit][Digit]</li>
+	  
+	  <li>drug_type->легких</li>
+	  <li>drug_type->тяжких</li>
+	  <li>drug_type->всіх видів</li>
+	  <li>drug_type->не-синтетичних</li>
+
+	  <li>concerned->занепокоєні</li>
+	  <li>concerned->стурбовані</li>
+	  <li>concerned->збентежені</li>
+	  <li>concerned->стривожені</li>
+	  <li>concerned->схвильовані</li>
+
+	  <li>propaganda->пропагандує</li>
+	  <li>propaganda->агітує</li>
+	  <li>propaganda->закликає до</li>
+	  <li>propaganda->спонукає до</li>
+	  
+	  <li>people->мешканців</li>
+	  <li>people->населення</li>
+	  <li>people->жителів</li>
+
+	  <li>people_upper->Мешканці</li>
+	  <li>people_upper->Населення</li>
+	  <li>people_upper->Жителі</li>
+  </VTE_SettlementDrugsPurchase.rulePack.rulesStrings>
+  
+  <VTE_SettlementStoneBlocksPurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великої кількості кам'яних блоків.[maybe_end]</li>
+	  <li>root->[form] про початок [build] [building].</li>
+	  <li>root->[form], що вони планують [buy] кам'яних блоків для [build] [building].[maybe_end]</li>
+	  <li>root->[form] про [incident] в одній з головних шахт поселення.</li>
+	  <li>root->[gov] не бажають [negotiations] зі страйкуючими шахтарями.</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+	  
+	  <li>build->відновлення</li>
+	  <li>build->відбудови</li>
+	  <li>build->поновлення</li>
+	  <li>build->реконструкції</li>
+	  <li>build->будування</li>
+	  <li>build->спорудження</li>
+	  <li>build->зведення</li>
+	  <li>build->будівництва</li>
+
+	  <li>building->зовнішньої кам'яної стіни</li>
+	  <li>building->пам'ятника на головній площі</li>
+	  <li>building->доріг</li>
+	  <li>building->храму</li>
+	  <li>building->релігіозних пам'ятників</li>
+
+	  <li>incident->обвал</li>
+	  <li>incident->витічку газу</li>
+	  <li>incident->інсектоїдне зараження</li>
+	  <li>incident->початок страйку</li>
+	  <li>incident->затоплення</li>
+
+	  <li>negotiations->іти на компроміси</li>
+	  <li>negotiations->іти на поступки</li>
+	  <li>negotiations->вести переговори</li>
+	  <li>negotiations->домовлятися</li>
+  </VTE_SettlementStoneBlocksPurchase.rulePack.rulesStrings>
+  
+  <VTE_SettlementTechprintsPurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великої кількості [blueprint].[maybe_end]</li>
+	  <li>root->[form] про [want_to] прискорити свій технологічний прогрес.</li>
+	  <li>root->[gov] [concerned] [low] темпами досліджень. Для компенсації цього вони пропонують [buy] [blueprint] у сусідів.[maybe_end]</li>
+	  <li>root->[gov] ухвалили рішення "[decision]", згідно якого планується [buy_1] [blueprint].[maybe_end]</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+	  
+	  <li>buy_1->активна закупівля</li>
+	  <li>buy_1->активне набуття</li>
+	  <li>buy_1->активна купівля</li>
+	  <li>buy_1->активна скупівля</li>
+	  <li>buy_1->активне придбання</li>
+
+	  <li>blueprint->техпринтів</li>
+	  <li>blueprint->креслень</li>
+
+	  <li>want_to->наміри</li>
+	  <li>want_to->задум</li>
+	  <li>want_to->плани</li>
+	  <li>want_to->бажання</li>
+	  <li>want_to->своє прагнення</li>
+	  
+	  <li>concerned->занепокоєні</li>
+	  <li>concerned->стурбовані</li>
+	  <li>concerned->збентежені</li>
+	  <li>concerned->стривожені</li>
+	  <li>concerned->схвильовані</li>
+
+	  <li>low->низькими</li>
+	  <li>low->недостатніми</li>
+	  <li>low->малими</li>
+	  <li>low->мізерними</li>
+	  <li>low->жалюгідними</li>
+
+	  <li>decision->Про Дослідження</li>
+	  <li>decision->Про Науковий прорив</li>
+	  <li>decision->Про Створення наукових центрів</li>
+	  <li>decision->Про Центри досліджень</li>
+	  <li>decision->Про Науковий корпус</li>
+  </VTE_SettlementTechprintsPurchase.rulePack.rulesStrings>
+  
+  <VTE_SettlementBodyPartsPurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великої кількості органів.[maybe_end]</li>
+	  <li>root->[gov] проголосували за відміну [ban] на [buy] органів.</li>
+	  <li>root->[form], що внаслідок [incident] в медичному центрі всі їхні запаси органів для трансплантації зпортились.</li>
+	  <li>root->[form] про рішення [buy_1] великої партії органів для лікування ветеранів.[maybe_end]</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+
+	  <li>buy_1->закупівлі</li>
+	  <li>buy_1->набуття</li>
+	  <li>buy_1->купівлі</li>
+	  <li>buy_1->скупівлі</li>
+	  <li>buy_1->придбання</li>
+
+	  <li>ban->мораторію</li>
+	  <li>ban->заборони</li>
+	  <li>ban->ембарго</li>
+
+	  <li>incident->короткого замикання</li>
+	  <li>incident->збоїв електропостачання</li>
+	  <li>incident->пожежі</li>
+  </VTE_SettlementBodyPartsPurchase.rulePack.rulesStrings>
+
+  <VTE_SettlementWeaponsMeleePurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великої кількості зброї ближнього бою.[maybe_end]</li>
+	  <li>root->[gov] [legalize] підпільні бої.</li>
+	  <li>root->[form] про [inc_violance] [in_settle]. Вони [recommend] носити зброю ближнього бою для [self_defense].[maybe_end]</li>
+	  <li>root->[gov] прийняли рішення "[decision]" та планують [buy_1] зброю ближнього бою для новобранців.[maybe_end]</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+
+	  <li>buy_1->закупити</li>
+	  <li>buy_1->набути</li>
+	  <li>buy_1->купити</li>
+	  <li>buy_1->скупити</li>
+	  <li>buy_1->придбати</li>
+
+	  <li>inc_violance->зростаючу жорстокість</li>
+	  <li>inc_violance->зростаюче насильство</li>
+	  <li>inc_violance->зростаюче насилля</li>
+
+	  <li>in_settle->на вулицях</li>
+	  <li>in_settle->в поселенні</li>
+	  <li>in_settle->в місті</li>
+	  <li>in_settle->в колонії</li>
+
+	  <li>self_defense->самооборони</li>
+	  <li>self_defense->самозахисту</li>
+	  <li>self_defense->самоохорони</li>
+
+	  <li>recommend->рекомендують</li>
+	  <li>recommend->радять</li>
+	  <li>recommend->пропонують</li>
+
+	  <li>legalize->легалізували</li>
+	  <li>legalize->узаконили</li>
+
+	  <li>decision->Про Легіонерів</li>
+	  <li>decision->Про Ударні підрозділи</li>
+	  <li>decision->Про Посилення частин катафрактаріїв</li>
+  </VTE_SettlementWeaponsMeleePurchase.rulePack.rulesStrings>
+
+  <VTE_SettlementWeaponsRangedPurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великої кількості зброї дальнього бою.</li>
+	  <li>root->[gov] [legalize] носіння зброї дальнього бою.</li>
+	  <li>root->[form] про [inc_violance] [in_settle]. Вони [recommend] носити зброю дальнього бою для [self_defense].[maybe_end]</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+	  
+	  <li>legalize->легалізували</li>
+	  <li>legalize->узаконили</li>
+	  <li>legalize->зняли мораторій з</li>
+	  
+	  <li>inc_violance->зростаючу жорстокість</li>
+	  <li>inc_violance->зростаюче насильство</li>
+	  <li>inc_violance->зростаюче насилля</li>
+
+	  <li>in_settle->на вулицях</li>
+	  <li>in_settle->в поселенні</li>
+	  <li>in_settle->в місті</li>
+	  <li>in_settle->в колонії</li>
+	  
+	  <li>self_defense->самооборони</li>
+	  <li>self_defense->самозахисту</li>
+	  <li>self_defense->самоохорони</li>
+  </VTE_SettlementWeaponsRangedPurchase.rulePack.rulesStrings>
+
+  <VTE_SettlementApparelPurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великої кількості [apparel].[maybe_end]</li>
+	  <li>root->[form] про закриття [last_manufacture] [apparel].</li>
+	  <li>root->[form] про пожежу на складі [apparel].</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+
+	  <li>last_manufacture->останньої мануфактури</li>
+	  <li>last_manufacture->останнього виробництва</li>
+	  <li>last_manufacture->останньої фабрики</li>
+	  <li>last_manufacture->останнього заводу</li>
+
+	  <li>apparel->одягу</li>
+	  <li>apparel->вбрання</li>
+	  <li>apparel->одежи</li>
+  </VTE_SettlementApparelPurchase.rulePack.rulesStrings>
+
+  <VTE_SettlementArmorPurchase.rulePack.rulesStrings>
+	  <li>root->[form] про [buy] великої кількості броні.[maybe_end]</li>
+	  <li>root->[gov] планують [modernize] захисне спорядження сил оборони.</li>
+	  <li>root->[form] про рішення [modernize_1] захисного спорядження сил оборони.</li>
+
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни зростуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни піднімуться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни збільшаться.</li>
+	  <li>maybe_end-> Припускається, що ціни підскочать.</li>
+	  <li>maybe_end-> Звісно, що ціни виростуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни підвищаться.</li>
+	  
+	  <li>buy->закупівлю</li>
+	  <li>buy->набуття</li>
+	  <li>buy->купівлю</li>
+	  <li>buy->скупівлю</li>
+	  <li>buy->придбання</li>
+
+	  <li>modernize->модернізувати</li>
+	  <li>modernize->оновити</li>
+	  <li>modernize->усучаснити</li>
+	  <li>modernize->обновити</li>
+
+	  <li>modernize_1->модернізації</li>
+	  <li>modernize_1->оновлення</li>
+	  <li>modernize_1->усучаснення</li>
+	  <li>modernize_1->обновлення</li>
+  </VTE_SettlementArmorPurchase.rulePack.rulesStrings>
+
+  <VTE_SettlementTextileSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великої кількості [fabrics_gen].[maybe_end]</li>
+	  <li>root->[form] про неможливість забезпечити своїх кравців необхідною кількістю [fabrics_gen].</li>
+	  <li>root->[form], що вони [sell_1] [fabrics_acc] у великих обсягах.[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+
+	  <li>sell_1->продають</li>
+	  <li>sell_1->розпродають</li>
+	  <li>sell_1->збувають</li>
+	  
+	  <li>fabrics_gen(p=3)->текстилю</li>
+	  <li>fabrics_gen(p=3)->тканини</li>
+	  <li>fabrics_gen->ткання</li>
+	  <li>fabrics_gen->трикотажу</li>
+	  <li>fabrics_gen->краму</li>
+	  <li>fabrics_gen->тканки</li>
+
+	  <li>fabrics_acc(p=3)->текстиль</li>
+	  <li>fabrics_acc(p=3)->тканину</li>
+	  <li>fabrics_acc->ткання</li>
+	  <li>fabrics_acc->трикотаж</li>
+	  <li>fabrics_acc->крам</li>
+	  <li>fabrics_acc->тканку</li>
+  </VTE_SettlementTextileSellOff.rulePack.rulesStrings>
+  
+  <VTE_SettlementLeatherSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великого обсягу шкіри.[maybe_end]</li>
+	  <li>root->[form] про [sell] шкіри у великих обсягах.[maybe_end]</li>
+	  <li>root->[form], що вони вирішили [sell_1] велику кількість [adj_maybe] шкір.[maybe_end]</li>
+	  <li>root->[form] про кінець [old_fashion] на шкіру серед [people].</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+
+	  <li>sell_1->продати</li>
+	  <li>sell_1->розпродати</li>
+	  <li>sell_1->збути</li>
+	  
+	  <li>old_fashion->моди</li>
+	  <li>old_fashion->тенденції</li>
+	  <li>old_fashion->тренду</li>
+	  <li>old_fashion->стилю</li>
+	  <li>old_fashion->фасону</li>
+	  
+	  <li>people->мешканців</li>
+	  <li>people->населення</li>
+	  <li>people->жителів</li>
+	  
+	  <li>adj_maybe(p=5)-></li>
+	  <li>adj_maybe-> різноманітних</li>
+	  <li>adj_maybe-> багатоманітних</li>
+	  <li>adj_maybe-> різних</li>
+	  <li>adj_maybe-> розмаїтих</li>
+  </VTE_SettlementLeatherSellOff.rulePack.rulesStrings>
+  
+  <VTE_SettlementWoolsSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великої кількості[adj_maybe] вовни.[maybe_end]</li>
+	  <li>root->[form] про надлишок вовни в поселенні.</li>
+	  <li>root->[form] про кінець спалаху чуми серед [livestock].</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+	  
+	  <li>adj_maybe(p=5)-></li>
+	  <li>adj_maybe-> різноманітної</li>
+	  <li>adj_maybe-> багатоманітної</li>
+	  <li>adj_maybe-> різної</li>
+	  <li>adj_maybe-> розмаїтої</li>
+
+	  <li>livestock->худоби</li>
+	  <li>livestock->худобини</li>
+	  <li>livestock->скоту</li>
+	  <li>livestock->скотини</li>
+	  <li>livestock->овець</li>
+  </VTE_SettlementWoolsSellOff.rulePack.rulesStrings>
+  
+  <VTE_SettlementDrugsSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великої кількості наркотиків.[maybe_end]</li>
+	  <li>root->[form] про [decision] про заборону та [sell] [drug_type] наркотиків.[maybe_end]</li>
+	  <li>root->[form] про початок виробництва [drug_type] наркотиків в промислових масштабах та тепер [sell_1] їх в інші поселення.[maybe_end]</li>
+	  
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+
+	  <li>sell_1->продають</li>
+	  <li>sell_1->розпродають</li>
+	  <li>sell_1->збувають</li>
+	  
+	  <li>decision->прийняття рішення</li>
+	  <li>decision->ухвалення рішення</li>
+	  <li>decision->закінчення голосування №[Digit][Digit][Digit]</li>
+	  
+	  <li>drug_type->легких</li>
+	  <li>drug_type->тяжких</li>
+	  <li>drug_type->всіх видів</li>
+	  <li>drug_type->не-синтетичних</li>
+
+	  <li>people_upper->Мешканці</li>
+	  <li>people_upper->Населення</li>
+	  <li>people_upper->Жителі</li>
+  </VTE_SettlementDrugsSellOff.rulePack.rulesStrings>
+  
+  <VTE_SettlementStoneBlocksSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великої кількості кам'яних блоків.[maybe_end]</li>
+	  <li>root->[form] про кінець [build] [building].</li>
+	  <li>root->[form], що вони планують налагодити [sell] кам'яних блоків.[maybe_end]</li>
+	  <li>root->[form] про стабілізацію критичної ситуації в шахтах поселення.</li>
+	  <li>root->[form] про кінець страйку шахтарів.</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+	  
+	  <li>build->відновлення</li>
+	  <li>build->відбудови</li>
+	  <li>build->поновлення</li>
+	  <li>build->реконструкції</li>
+	  <li>build->будування</li>
+	  <li>build->спорудження</li>
+	  <li>build->зведення</li>
+	  <li>build->будівництва</li>
+
+	  <li>building->зовнішньої кам'яної стіни</li>
+	  <li>building->пам'ятника на головній площі</li>
+	  <li>building->доріг</li>
+	  <li>building->храму</li>
+	  <li>building->релігіозних пам'ятників</li>
+  </VTE_SettlementStoneBlocksSellOff.rulePack.rulesStrings>
+  
+  <VTE_SettlementTechprintsSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великої кількості [blueprint].[maybe_end]</li>
+	  <li>root->[form] про черговий технологічний прорив. [blueprint_upper] [sell_1] всім бажаючим.[maybe_end]</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+
+	  <li>sell_1->продають</li>
+	  <li>sell_1->розпродають</li>
+	  <li>sell_1->збувають</li>
+
+	  <li>blueprint->техпринтів</li>
+	  <li>blueprint->креслень</li>
+
+	  <li>blueprint_upper->Техпринти</li>
+	  <li>blueprint_upper->Креслення</li>
+  </VTE_SettlementTechprintsSellOff.rulePack.rulesStrings>
+  
+  <VTE_SettlementBodyPartsSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великої кількості органів.[maybe_end]</li>
+	  <li>root->[gov] проголосували за [ban] на [sell] органів.</li>
+	  <li>root->[form], що внаслідок [incident] у поселення «з'явився» надлишок органів, які планують пустити на [sell].[maybe_end]</li>
+	  <li>root->[form] про рішення [sell_1] великої партії органів.[maybe_end]</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+
+	  <li>sell_1->продажу</li>
+	  <li>sell_1->розпродажу</li>
+	  <li>sell_1->збуття</li>
+
+	  <li>ban->накладення мораторію</li>
+	  <li>ban->заборону</li>
+	  <li>ban->накладення ембарго</li>
+
+	  <li>incident->нещодавнього рейду</li>
+	  <li>incident->критичного перенаселення</li>
+	  <li>incident->забиття в'язниць</li>
+  </VTE_SettlementBodyPartsSellOff.rulePack.rulesStrings>
+
+  <VTE_SettlementWeaponsMeleeSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великої кількості зброї ближнього бою.[maybe_end]</li>
+	  <li>root->[gov] [ban] підпільні бої.</li>
+	  <li>root->[form] про [dec_violance] [in_settle]. Жителі [sell_1] зброю ближнього бою для [self_defense].[maybe_end]</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+
+	  <li>sell_1->продають</li>
+	  <li>sell_1->розпродають</li>
+	  <li>sell_1->збувають</li>
+
+	  <li>dec_violance->зменшення жорстокості</li>
+	  <li>dec_violance->спад насильства</li>
+	  <li>dec_violance->зниження насилля</li>
+
+	  <li>in_settle->на вулицях</li>
+	  <li>in_settle->в поселенні</li>
+	  <li>in_settle->в місті</li>
+	  <li>in_settle->в колонії</li>
+
+	  <li>self_defense->самооборони</li>
+	  <li>self_defense->самозахисту</li>
+	  <li>self_defense->самоохорони</li>
+
+	  <li>recommend->рекомендують</li>
+	  <li>recommend->радять</li>
+	  <li>recommend->пропонують</li>
+
+	  <li>ban->заборонили</li>
+	  <li>ban->наклали мораторій на</li>
+  </VTE_SettlementWeaponsMeleeSellOff.rulePack.rulesStrings>
+
+  <VTE_SettlementWeaponsRangedSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великої кількості зброї дальнього бою.</li>
+	  <li>root->[gov] [ban] носіння зброї дальнього бою.</li>
+	  <li>root->[form] про [dec_violance] [in_settle]. Жителі [sell_1] зброю ближнього бою для [self_defense].[maybe_end]</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+
+	  <li>sell->продають</li>
+	  <li>sell->розпродають</li>
+	  <li>sell->збувають</li>
+	  
+	  <li>ban->заборонили</li>
+	  <li>ban->наклали мораторій на</li>
+	  
+	  <li>dec_violance->зменшення жорстокості</li>
+	  <li>dec_violance->спад насильства</li>
+	  <li>dec_violance->зниження насилля</li>
+
+	  <li>in_settle->на вулицях</li>
+	  <li>in_settle->в поселенні</li>
+	  <li>in_settle->в місті</li>
+	  <li>in_settle->в колонії</li>
+	  
+	  <li>self_defense->самооборони</li>
+	  <li>self_defense->самозахисту</li>
+	  <li>self_defense->самоохорони</li>
+  </VTE_SettlementWeaponsRangedSellOff.rulePack.rulesStrings>
+
+  <VTE_SettlementApparelSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великої кількості [apparel].[maybe_end]</li>
+	  <li>root->[form] про відкриття низки нових [manufactures] [apparel].</li>
+	
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+
+	  <li>manufactures->мануфактур</li>
+	  <li>manufactures->виробничих підприємств</li>
+	  <li>manufactures->фабрик</li>
+	  <li>manufactures->заводі</li>
+
+	  <li>apparel->одягу</li>
+	  <li>apparel->вбрання</li>
+	  <li>apparel->одежи</li>
+  </VTE_SettlementApparelSellOff.rulePack.rulesStrings>
+
+  <VTE_SettlementArmorSellOff.rulePack.rulesStrings>
+	  <li>root->[form] про [sell] великої кількості броні.[maybe_end]</li>
+	  <li>root->[form] про [sell] захисного спорядження у великих обсягах.[maybe_end]</li>
+
+	  <li>form->[gov] [rep]</li>
+	  <li>form->[gov_1] [rep_1]</li>
+	  
+	  <li>gov(p=2)->В [SETTLEMENT_label]</li>
+	  <li>gov->В муніципалітеті [SETTLEMENT_label]</li>
+	  <li>gov->Представники влади [SETTLEMENT_label]</li>
+	  <li>gov->В керівництві [SETTLEMENT_label]</li>
+	  <li>gov->В місцевій адміністрації [SETTLEMENT_label]</li>
+	  <li>gov->Представники місцевої адміністрації [SETTLEMENT_label]</li>
+	  
+	  <li>gov_1(p=2)->[SETTLEMENT_label]</li>
+	  <li>gov_1->Муніципалітет [SETTLEMENT_label]</li>
+	  <li>gov_1->Влада [SETTLEMENT_label]</li>
+	  <li>gov_1->Керівництво [SETTLEMENT_label]</li>
+	  <li>gov_1->Місцева адміністрація [SETTLEMENT_label]</li>
+	  
+	  <li>rep->доповіли</li>
+	  <li>rep->повідомили</li>
+	  <li>rep->сповістили</li>
+	  <li>rep->доклали</li>
+	  <li>rep->звітували</li>
+	  <li>rep->заявили</li>
+	  <li>rep->розповіли</li>
+	  
+	  <li>rep_1->доповідає</li>
+	  <li>rep_1->повідомляє</li>
+	  <li>rep_1->сповіщає</li>
+	  <li>rep_1->докладає</li>
+	  <li>rep_1->звітує</li>
+	  <li>rep_1->заявляє</li>
+	  <li>rep_1->розповідає</li>
+	  
+	  <li>maybe_end(p=5)-></li>
+	  <li>maybe_end-> Очікується, що ціни впадуть.</li>
+	  <li>maybe_end-> Передбачається, що ціни зменшаться.</li>
+	  <li>maybe_end-> Прогнозується, що ціни знизяться.</li>
+	  <li>maybe_end-> Припускається, що ціни знизяться.</li>
+	  <li>maybe_end-> Звісно, що ціни впадуть.</li>
+	  <li>maybe_end-> Неминуче, що ціни зменшаться.</li>
+	  
+	  <li>sell->продаж</li>
+	  <li>sell->розпродаж</li>
+	  <li>sell->збуття</li>
+  </VTE_SettlementArmorSellOff.rulePack.rulesStrings>
+
+  <VTE_CompanyGrowth.rulePack.rulesStrings>
+	<li>root->[COMPANY] повідомили про стабільне зростання. Ціна акцій зростатиме в довгостроковій перспективі.</li>
+  </VTE_CompanyGrowth.rulePack.rulesStrings>
+
+  <VTE_NewShipPurchased.rulePack.rulesStrings>
+	<li>root->[COMPANY] придбали новий низькоорбітальний торговий корабель. Ціна акцій має зрости в довгостроковій перспективі.</li>
+  </VTE_NewShipPurchased.rulePack.rulesStrings>
+	
+  <VTE_CompanyDecline.rulePack.rulesStrings>
+	<li>root->[COMPANY] повідомила про скорочення бюджету. Ціна акцій знизиться в довгостроковій перспективі.</li>
+  </VTE_CompanyDecline.rulePack.rulesStrings>
+
+  <VTE_ShipCrashed.rulePack.rulesStrings>
+	<li>root->[COMPANY] повідомила, що один з її кораблів зазнав аварії. Ціна акцій повинна впасти.</li>
+  </VTE_ShipCrashed.rulePack.rulesStrings>
+  
+  <VTE_FearOfBankruptcy.rulePack.rulesStrings>
+	<li>root->За чутками, [COMPANY] оголошує про банкрутство. Ціна акцій може або рухнути, або злетіти до небес.</li>
+  </VTE_FearOfBankruptcy.rulePack.rulesStrings>
+  
+  <VTE_MediocreEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала посередній звіт про прибутки. Очікується, що ціна акцій буде коливатися.</li>
+  </VTE_MediocreEarnings.rulePack.rulesStrings>
+  
+  <VTE_DecentEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала пристойний звіт про прибутки. Очікується, що ціна акцій піде трохи вгору.</li>
+  </VTE_DecentEarnings.rulePack.rulesStrings>
+  
+  <VTE_GoodEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала хороший звіт про прибутки. Очікується, що ціна акцій трохи зросте.</li>
+  </VTE_GoodEarnings.rulePack.rulesStrings>
+  
+  <VTE_GreatEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала чудовий звіт про прибутки. Очікується, що ціна акцій піде вгору.</li>
+  </VTE_GreatEarnings.rulePack.rulesStrings>
+  
+  <VTE_ExcellentEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала пречудовий звіт про прибутки. Очікується, що ціна підскочить вгору.</li>
+  </VTE_ExcellentEarnings.rulePack.rulesStrings>
+  
+  <VTE_OutstandingEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала надзвичайний звіт про прибутки. Очікується, що ціна злетить до небес.</li>
+  </VTE_OutstandingEarnings.rulePack.rulesStrings>
+  
+  <VTE_BelowAverageEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала звіт про прибутки нижче середнього. Очікується незначне зниження ціни.</li>
+  </VTE_BelowAverageEarnings.rulePack.rulesStrings>
+  
+  <VTE_SubParEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала звіт про незадовільні прибутки. Очікується незначне зниження ціни.</li>
+  </VTE_SubParEarnings.rulePack.rulesStrings>
+  
+  <VTE_BadEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала звіт про низькі прибутки. Очікується зниження ціни.</li>
+  </VTE_BadEarnings.rulePack.rulesStrings>
+  
+  <VTE_VeryBadEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала звіт про дуже низькі прибутки. Очікується різке падіння ціни.</li>
+  </VTE_VeryBadEarnings.rulePack.rulesStrings>
+  
+  <VTE_TerribleEarnings.rulePack.rulesStrings>
+	<li>root->[COMPANY] опублікувала звіт про жахливі прибутки. Очікується, що ціна впаде.</li>
+  </VTE_TerribleEarnings.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awaiting sacrifice. -->
+  <ReviaRaceSacrificedPrisonerWait.reportString>в очікуванні жертвоприношення.</ReviaRaceSacrificedPrisonerWait.reportString>
+  
+  <!-- EN: sacrificing prisoner. -->
+  <ReviaRaceSacrificingPrisoner.reportString>принесення в жертву в'язня.</ReviaRaceSacrificingPrisoner.reportString>
+  
+</LanguageData>

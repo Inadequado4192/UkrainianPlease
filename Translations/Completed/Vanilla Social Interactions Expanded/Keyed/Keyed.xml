@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VSIE.WorkFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} попрацювати.</VSIE.WorkFrenzyBeginLetterContinue>
+  <VSIE.GoFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} доєднатися до каравану і вирушити у подорож світом.</VSIE.GoFrenzyBeginLetterContinue>
+  <VSIE.ShootingFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} піти на полювання.</VSIE.ShootingFrenzyBeginLetterContinue>
+  <VSIE.InspiredTradeBeginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би: ла б} укласти торгову угоду.</VSIE.InspiredTradeBeginLetterContinue>
+  <VSIE.InspiredRecruitmentBeginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} завербувати в'язня.</VSIE.InspiredRecruitmentBeginLetterContinue>
+  <VSIE.InspiredTamingBeginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} спробувати приручити тварину.</VSIE.InspiredTamingBeginLetterContinue>
+  <VSIE.InspiredSurgeryBeginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} провести операцію.</VSIE.InspiredSurgeryBeginLetterContinue>
+  <VSIE.InspiredCreativityBeginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} створити шедевр або легендарну річ.</VSIE.InspiredCreativityBeginLetterContinue>
+  <VSIE.TraitChangeTitle>{PAWN_nameDef} отрима{PAWN_gender ? в : ла} рису характеру – {0}</VSIE.TraitChangeTitle>
+  <VSIE.TraitChangePrisonerRecruited>Коли ви рекрутували {PAWN_nameDef}, виявилось, що {PAWN_pronoun} має рису характеру – {0}.\n\n{1}</VSIE.TraitChangePrisonerRecruited>
+  <VSIE.TraitChangePawnResurrected>Коли {PAWN_nameDef} {PAWN_gender ? помер : померла} та поверну{PAWN_gender ? вся : лася} до життя, {PAWN_pronoun} помітив, що тепер має нову рису характеру – {0}.\n\n{1}</VSIE.TraitChangePawnResurrected>
+  <VSIE.TraitChangePawnHasCatatonicBreakdown>Коли {PAWN_nameDef} перен{PAWN_gender ? іс : есла} катаконію, {PAWN_pronoun} отрима{PAWN_gender ? в : ла} нову рису характеру – {0}.\n\n{1}</VSIE.TraitChangePawnHasCatatonicBreakdown>
+  <VSIE.TraitChangeFamilyMemberDied>Після того, як {PAWN_nameDef} втрати{PAWN_gender ? в : ла} члена своєї сім'ї, {PAWN_pronoun} отрима{PAWN_gender ? в : ла} нову рису характеру – {0}.\n\n{1}</VSIE.TraitChangeFamilyMemberDied>
+  <VSIE.CatarhisAfterMentalBreak>Критичний нервовий зрив {PAWN_nameDef} спричинив незворотну зміну {PAWN_possessive} особистості. {PAWN_pronoun} отрима{PAWN_gender ? в : ла} нову рису характеру – {0}.\n\n{1}</VSIE.CatarhisAfterMentalBreak>
+  <VSIE.RecoveredAfterDeadlyDisease>Час, який {PAWN_nameDef} пров{PAWN_gender ? ів : ела} у боротьбі зі смертельною хворобою, був достатнім для саморефлексії, тому {PAWN_pronoun} отрима{PAWN_gender ? в : ла} нову рису характеру – {0}.\n\n{1}</VSIE.RecoveredAfterDeadlyDisease>
+  <VSIE.BirthdayEvent>{PAWN_nameDef} замисли{PAWN_gender ? вся : лася} над собою у свій день народження, що призвело до отримання нової риси характеру – {0}.\n\n{1}</VSIE.BirthdayEvent>
+  <VSIE.BestowingCeremony>Можливо, найважливіший момент у житті {PAWN_nameDef} - церемонія вручення - змінив {PAWN_gender ? його : їй} характер, додаючи рису – {0}.\n\n{1}</VSIE.BestowingCeremony>
+  <VSIE.ToughtRaidEvent>Після нещодавніх подій та важкого рейду, з яким зіткнулось поселення, {PAWN_nameDef} замисли{PAWN_gender ? вся : лася} над собою та набув нову рису характеру – {0}.\n\n{1}</VSIE.ToughtRaidEvent>
+  <VSIE.Discord>Розгорілася групова побутова бійка.</VSIE.Discord>
+  <VSIE.OneNightStandTitle>Інтрижка</VSIE.OneNightStandTitle>
+  <VSIE.OneNightStandText>{INITIATOR_nameDef} вступає в "інтрижку" з {PARTNER_nameDef}. Хоча обидва поселенця отримують всі переваги звичайного кохання, вони не є парою.</VSIE.OneNightStandText>
+  
+  <VSIE.EnableMemories>Увімкнути механіку спогадів</VSIE.EnableMemories>
+  <VSIE.EnableInspirations>Увімкнути зміну механіки натхнень</VSIE.EnableInspirations>
+  <VSIE.EnableAspirations>Увімкнути механіку прагнень</VSIE.EnableAspirations>
+  <VSIE.EnableObtainingNewTraits>Увімкнути механіку отримання нових рис характеру</VSIE.EnableObtainingNewTraits>
+  <VSIE.EnableVenting>Увімкнути механіку виговорення</VSIE.EnableVenting>
+  <VSIE.EnableBestFriend>Увімкнути механіку найліпших друзів</VSIE.EnableBestFriend>
+  <VSIE.EnableTeaching>Увімкнути механіку навчання</VSIE.EnableTeaching>
+  <VSIE.EnableManyHandsMakeLightWork>Увімкнути механіку "більше рук – менше роботи"</VSIE.EnableManyHandsMakeLightWork>
+  <VSIE.EnableDiscord>Увімкнути механіку розбрату</VSIE.EnableDiscord>
+  <VSIE.EnableGroupActivities>Увімкнути механіку групових заходів</VSIE.EnableGroupActivities>
+  <VSIE.EnableDating>Увімкнути механіку побачень</VSIE.EnableDating>
+  <VSIE.EnableUnitedWeStand>Увімкнути механіку "сильніші разом"</VSIE.EnableUnitedWeStand>
+  <VSIE.EnableSocialEnvironmentThoughts>Увімкнути механіку репутації</VSIE.EnableSocialEnvironmentThoughts>
+  <VSIE.EnableOneNightStand>Увімкнути механіку сексу на одну ніч</VSIE.EnableOneNightStand>
+</LanguageData>

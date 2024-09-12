@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <mercenary.label>Найманець</mercenary.label>
+  <mercenary.description>Виконати 5 будь-яких квестів</mercenary.description>
+  
+  <ambassadorOfPeace.label>Посол Миру</ambassadorOfPeace.label>
+  <ambassadorOfPeace.description>Завершити 3 квеста мирних переговорів</ambassadorOfPeace.description>
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VOE_TravellingArtilleryStrike.label>Артилерійські снаряди</VOE_TravellingArtilleryStrike.label>
+  <VOE_TravellingArtilleryStrike.description>Артилерійські снаряди в польоті.</VOE_TravellingArtilleryStrike.description>
+  <VOE_AmbushedRaid.label>Засідка</VOE_AmbushedRaid.label>
+  <VOE_AmbushedRaid.description>Битва, розпочата в результаті успішної засідки.</VOE_AmbushedRaid.description>>
+  <Outpost_Farming.label>Фермерська застава</Outpost_Farming.label>
+  <Outpost_Farming.description>Розміщує тимчасову, автономно керовану, заставу, яка спеціалізується на посіві та збиранні рослинності, що легко вирощується, не може бути розміщена в пустелях. Після того, як буде зібрано достатню кількість врожаю, його буде доставлено до основного поселення.</Outpost_Farming.description>
+  <Outpost_Farming.modExtensions.0.ChooseDesc>Обрати, що саме буде вирощувати застава</Outpost_Farming.modExtensions.0.ChooseDesc>
+  <Outpost_Farming.modExtensions.0.ChooseLabel>Обрати посів</Outpost_Farming.modExtensions.0.ChooseLabel>
+  <Outpost_Artillery.label>Артилерійська застава</Outpost_Artillery.label>
+  <Outpost_Artillery.description>Розміщує тимчасову, автономно керовану, заставу, яка спеціалізується на забезпеченні точкової оборони прилеглих населених пунктів за допомогою артилерійських ударів. Кожному поселенцю буде доручено обслуговування та використання міномета. Після залпу треба один день на перезарядку.</Outpost_Artillery.description>
+  <Outpost_Defensive.label>Оборонна застава</Outpost_Defensive.label>
+  <Outpost_Defensive.description>Розміщує тимчасову, автономно керовану, заставу, яка спеціалізується на перехопленні ворожих набігів на основне поселення. Перемога в невеликій сутичці на заставі може значно зменшити розмір ворожого набігу на поселення. Крім того, оборонні застави можуть бути призначені для відправки десантних капсул до основного поселення, у випадку неочікуванної атаки.</Outpost_Defensive.description>
+  <Outpost_Drilling.label>Бурова застава</Outpost_Drilling.label>
+  <Outpost_Drilling.description>Розміщує тимчасову, автономно керовану, заставу, яка спеціалізується на пошуку та видобутку підземних запасів хімпалива. Після того, як буде зібрано достатню його кількість, його буде доставлено до основного поселення.</Outpost_Drilling.description>
+  <Outpost_Encampment.label>Табір</Outpost_Encampment.label>
+  <Outpost_Encampment.description>Розміщує тимчасову, автономно керовану, заставу, яка слугує місцем відпочинку для караванів. Під час таборування всі поселенці отримують їжу та відпочинок, а також час для лікування поранень.</Outpost_Encampment.description>
+  <Outpost_Hunting.label>Мисливська застава</Outpost_Hunting.label>
+  <Outpost_Hunting.description>Розміщує тимчасову, автономно керовану, заставу, яка спеціалізується на полюванні та вбивстві диких тварин. Після того, як буде зібрано достатню м'яса та шкіри - їх буде доставлено до основного поселення.</Outpost_Hunting.description>
+  <Outpost_Hunting.modExtensions.0.ChooseDesc>Обрати цільову тварину для полювання</Outpost_Hunting.modExtensions.0.ChooseDesc>
+  <Outpost_Hunting.modExtensions.0.ChooseLabel>Полювати: {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
+  <Outpost_Logging.label>Лісозаготівельна застава</Outpost_Logging.label>
+  <Outpost_Logging.description>Розміщує тимчасову, автономно керовану, заставу, яка спеціалізується на зборі деревини з лісів у цих районах, не може бути розміщена в пустелях. Щойно буде зібрано достатню кількість деревини, її буде доставлено до основного поселення.</Outpost_Logging.description>
+  <Outpost_Mining.label>Шахтерська застава</Outpost_Mining.label>
+  <Outpost_Mining.description>Розміщує тимчасову, автономно керовану, заставу, яка спеціалізується на зборі та обробці каменю або металів, можна розміщувати тільки на пагорбах або в горах. Щойно буде зібрано достатню кількість копалин, їх буде доставлено до основного поселення.</Outpost_Mining.description>
+  <Outpost_Mining.modExtensions.0.ChooseDesc>Обрати цільовий матеріал для видобутку.</Outpost_Mining.modExtensions.0.ChooseDesc>
+  <Outpost_Mining.modExtensions.0.ChooseLabel>Добувається: {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
+  <Outpost_Production.label>Виробнича застава</Outpost_Production.label>
+  <Outpost_Production.description>Розміщує тимчасову, автономно керовану, заставу, яка спеціалізується на виробництві та виготовленні механічних та електронних компонентів. Щойно буде виготовлено достатню кількість компонентів, їх буде доставлено до основного поселення.</Outpost_Production.description>
+  <Outpost_Production.modExtensions.0.ChooseDesc>Обрати спосіб виробництва: простий чи передовий</Outpost_Production.modExtensions.0.ChooseDesc>
+  <Outpost_Production.modExtensions.0.ChooseLabel>Вибрати продукт</Outpost_Production.modExtensions.0.ChooseLabel>
+  <Outpost_Scavenging.label>Пошукова застава</Outpost_Scavenging.label>
+  <Outpost_Scavenging.description>Розміщує тимчасову, автономно керовану, заставу, яка спеціалізується на розвідці прилеглих немаркованих поселень і збиранні здобичі, що міститься в них. Щойно буде знайдено достатню кількість цікавинок, їх буде доставлено до основного поселення.</Outpost_Scavenging.description>
+  <Outpost_Science.label>Дослідницька застава</Outpost_Science.label>
+  <Outpost_Science.description>Розміщує тимчасову, автономно керовану, заставу, яка спеціалізується на дослідженнях та аналізі. Будь-яка отримана інформація буде спільною для всієї фракції.</Outpost_Science.description>
+  <Outpost_Town.label>Містечко</Outpost_Town.label>
+  <Outpost_Town.description>Розміщує тимчасове автономне містечко, покликане надавати гостинність як мандрівникам, так і торговцям. Якщо відвідувач знайде своє житло приємним, він буде запрошений приєднатися до міста як постійний житель. Містечко може бути зведене лише за умови, що 3 вже існуючих поселення знаходяться в межах 10 тайлів.</Outpost_Town.description>
+  <Outpost_Trading.label>Торгівельна застава</Outpost_Trading.label>
+  <Outpost_Trading.description>Розміщує тимчасову, автономно керовану, заставу, що спеціалізується на продажі та обміні з мандрівниками, караванами та аборигенами в обмін на срібло. Щойно достатню кількість срібла буде наторговано, його буде доставлено до основного поселення.</Outpost_Trading.description>
+</LanguageData>

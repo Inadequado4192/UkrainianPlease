@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deafness -->
+  <AG_Deafness.label>глухота</AG_Deafness.label>
+  <!-- EN: This person has a complete lack of hearing. -->
+  <AG_Deafness.description>Ця людина повністю не чує.</AG_Deafness.description>
+  
+  <!-- EN: lethal instability -->
+  <AG_LethalInstability.label>смертельна нестабільність</AG_LethalInstability.label>
+  <!-- EN: This person needs considerably less metabolic energy to stay alive, at the cost of outrageously-reduced stability in their cell-replication machinery, and a very, VERY limited lifespan that can't be expanded in any way. -->
+  <AG_LethalInstability.description>Цій людині потрібно значно менше метаболічної енергії, щоб залишатися живою, за рахунок обурливо зниженої стабільності механізму реплікації клітин і дуже, ДУЖЕ обмеженої тривалості життя, яку ніяк не можна подовжити.</AG_LethalInstability.description>
+  
+  <!-- EN: near blindness -->
+  <AG_NearBlindness.label>майже сліпота</AG_NearBlindness.label>
+  <!-- EN: This person has almost completely useless eyes, with close to total blindness. -->
+  <AG_NearBlindness.description>У цієї людини майже повністю непридатні очі, майже до повної сліпоти.</AG_NearBlindness.description>
+  
+  <!-- EN: passive regenerator -->
+  <AG_PassiveRegenerator.label>пасивний регенератор</AG_PassiveRegenerator.label>
+  <!-- EN: This person constantly releases an invisible cloud of specialized mechanites that periodically tend to the wounds of nearby people and animals, regenerating them without any need for rest. -->
+  <AG_PassiveRegenerator.description>Ця людина постійно випускає невидиму хмару спеціалізованих механітів, які періодично прикладаються до ран людей і тварин, що знаходяться поруч, регенеруючи їх без потреби у відпочинку.</AG_PassiveRegenerator.description>
+  
+  <!-- EN: regeneration -->
+  <AG_Regeneration.label>регенерація</AG_Regeneration.label>
+  <!-- EN: This person has a distributed network of specialized mechanites on their bloodstream that periodically tend to internal wounds, regenerating them without any need for rest. -->
+  <AG_Regeneration.description>У крові цієї людини є розподілена мережа спеціалізованих механітів, які періодично обробляють внутрішні рани, регенеруючи їх без потреби у відпочинку.</AG_Regeneration.description>
+  
+  <!-- EN: regeneration, minor -->
+  <AG_RegenerationMinor.label>регенерація, незначна</AG_RegenerationMinor.label>
+  <!-- EN: This person has a faint distributed network of specialized mechanites on their bloodstream that periodically tend to internal wounds, regenerating them without any need for rest. -->
+  <AG_RegenerationMinor.description>У крові цієї людини є слабка розподілена мережа спеціалізованих механітів, які періодично обробляють внутрішні рани, регенеруючи їх без потреби у відпочинку.</AG_RegenerationMinor.description>
+  
+  <!-- EN: teratogenesis -->
+  <AG_Teratogenesis.label>тератогенез</AG_Teratogenesis.label>
+  <!-- EN: The genes of this person constantly generate tumors all over their body. They are not immune to dead from these tumors.\n\nA new carcinoma will be generated every 42000 to 72000 ticks (0.7 to 1.2 days), and no more than ten carcinomas may be present at the same time on the body. -->
+  <AG_Teratogenesis.description>Гени цієї людини постійно генерують пухлини по всьому тілу. Вони не застраховані від смерті від цих пухлин.\n\nНова карцинома буде генеруватися кожні 42000-72000 тіків (0,7-1,2 дні), і не більше десяти карцином можуть бути присутніми одночасно на тілі.</AG_Teratogenesis.description>
+  
+  <!-- EN: unstable mutation -->
+  <AG_UnstableMutation.label>нестабільна мутація</AG_UnstableMutation.label>
+  <!-- EN: Forces an unstable mutation on this person. This mutation will activate a new random gene for 12 hours. After that period passes, the gene will deactivate. -->
+  <AG_UnstableMutation.description>Викликає нестабільну мутацію у цієї людини. Ця мутація активує новий випадковий ген на 12 годин. Після закінчення цього періоду ген деактивується.</AG_UnstableMutation.description>
+  
+  <!-- EN: unstable mutation, catastrophic -->
+  <AG_UnstableMutationCatastrophic.label>нестабільна мутація, катастрофічна</AG_UnstableMutationCatastrophic.label>
+  <!-- EN: Forces an uncontrollable and unstable mutation on this person every day. This mutation will activate ten new random genes for a whole day. Next day, the genes will deactivate and ten new ones will take their place. -->
+  <AG_UnstableMutationCatastrophic.description>Щодня викликає неконтрольовану і нестабільну мутацію в цій людині. Ця мутація активує десять нових випадкових генів на цілий день. Наступного дня ці гени деактивуються, а на їхньому місці з'являться десять нових.</AG_UnstableMutationCatastrophic.description>
+  
+  <!-- EN: unstable mutation, major -->
+  <AG_UnstableMutationMajor.label>нестабільна мутація, серйозна</AG_UnstableMutationMajor.label>
+  <!-- EN: Forces an uncontrollable and unstable mutation on this person every day. This mutation will activate two new random genes for a whole day. Next day, the genes will deactivate and two new ones will take their place. -->
+  <AG_UnstableMutationMajor.description>Щодня викликає неконтрольовану і нестабільну мутацію в цій людині. Ця мутація активує два нових випадкових гени на цілий день. Наступного дня ці гени деактивуються, а на їхньому місці з'являться два нових.</AG_UnstableMutationMajor.description>
+  
+</LanguageData>

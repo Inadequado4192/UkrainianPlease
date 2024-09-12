@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shell_MechVirus.label>снаряд з протимех. вірусом</Shell_MechVirus.label>
+  <Shell_MechVirus.description>Наномашини, заповнені оболонкою, призначені для того, щоб зачепитися за системи механоїдів і вивести їх з ладу. Це відбувається в кілька етапів: спочатку механоїд заражається, а потім кожні кілька секунд вірус має шанс
+		проявити якийсь ефект або повністю зникнути. Цей ефект може бути різним, це залежить від того, як механоїд реагує на наномашини</Shell_MechVirus.description>
+
+  <Bullet_Shell_MechVirus.label>снаряд з протимех. вірусом</Bullet_Shell_MechVirus.label>
+
+  <Shell_GasAntiBug.label>снаряд з протижук. газом</Shell_GasAntiBug.label>
+  <Shell_GasAntiBug.description>Снаряд, наповнений газом для знищення інсектоїдів. Може використовуватися з мінометів. Задушує комах, викликаючи у них сонливість. Може викликати кому і є потенційно смертельним.</Shell_GasAntiBug.description>
+
+  <Bullet_Shell_GasAntiBug.label>снаряд з протижук. газом</Bullet_Shell_GasAntiBug.label>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--The Pestigator refuses to be tamed!-->
+  <VAEWaste_PestigatorNotTameable>Пестигатор не піддається прирученню!</VAEWaste_PestigatorNotTameable>
+  
+  <!--The Toxbear is too maddened to be tamed!-->
+  <VAEWaste_ToxbearNotTameable>Токсамідь занадто оскаженілий для приручення!</VAEWaste_ToxbearNotTameable>
+  
+  <!--The Pestigator rips out {0}'s {1} with its enormous jaws!-->
+  <VAEWaste_PestigatorRips>Пестигатор відриває з {0} {1} своїми величезними щелепами!</VAEWaste_PestigatorRips>
+  
+  <!--{0} wander in-->
+  <VAEWaste_WasteAnimalsWanderInLabel>мутовані тварини</VAEWaste_WasteAnimalsWanderInLabel>
+  <!--A group of {0} have wandered into the area.\n\nThey have been attracted by the local pollution. Their arrival might endanger the local ecosystem. You can clean up the pollution in your local area to prevent waste animals from wandering in again.-->
+  <VAEWaste_WasteAnimalsWanderInText>Група виду '{0}' заблукала у цій місцевості.\n\nЇх привабило місцеве забруднення. Їхня поява може загрожувати місцевій екосистемі. Ви можете очистити місцевість від забруднення, щоб запобігти повторному приходу мутованих тварин.</VAEWaste_WasteAnimalsWanderInText>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bloodsucker distrust -->
+  <AG_BloodsuckerDistrust.label>недовіра кровопивці</AG_BloodsuckerDistrust.label>
+  <!-- EN: The carrier of this gene have an innate distrust for Sanguophages of a different xenotype than theirs. -->
+  <AG_BloodsuckerDistrust.description>Носій цього гена має вроджену недовіру до сангвініків з іншим ксенотипом, ніж у нього.</AG_BloodsuckerDistrust.description>
+  <!-- EN: Any person carrying the Hemogenic gene that isn't of the same xenotype as the carrier of this gene will get a -100 opinion penalty. -->
+  <AG_BloodsuckerDistrust.customEffectDescriptions.0>Будь-яка людина-носій гемогенного гена, яка не має такого ж ксенотипу, як носій цього гена, отримає штраф у розмірі -100 балів.</AG_BloodsuckerDistrust.customEffectDescriptions.0>
+  
+</LanguageData>

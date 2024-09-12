@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--espresso machine-->
+  <VBE_EspressoMachineBuilding.label>кавоварка</VBE_EspressoMachineBuilding.label>
+  <!--An espresso machine brews coffee by forcing pressurized water near boiling point through a "puck" of ground coffee and a filter in order to produce a thick, concentrated coffee called espresso. This particular machine also has the possibility of brewing tea using a separate system.-->
+  <VBE_EspressoMachineBuilding.description>Кавоварка готує каву, пропускаючи воду під тиском при температурі, близькій до точки кипіння, через "шайбу" меленої кави і фільтр. Ця кавоварка також має можливість заварювання чаю за допомогою окремої системи.</VBE_EspressoMachineBuilding.description>
+  
+  <!--black tea-->
+  <VBE_BlackTea.label>чорний чай</VBE_BlackTea.label>
+  <!--A particularly bitter tea cut with creamy milk, wakes one up and helps cure ailments.-->
+  <VBE_BlackTea.description>Особливо гіркий чай з вершковим молоком пробуджує і допомагає вилікувати недуги.</VBE_BlackTea.description>
+  <!--Drink {0}-->
+  <VBE_BlackTea.ingestible.ingestCommandString>Випити {0}</VBE_BlackTea.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_BlackTea.ingestible.ingestReportString>П'є {0}.</VBE_BlackTea.ingestible.ingestReportString>
+  
+  <!--cannibal coffee-->
+  <VBE_CannibalCoffee.label>канібальська кава</VBE_CannibalCoffee.label>
+  <!--For a very particular… refined coffee drinker.-->
+  <VBE_CannibalCoffee.description>Для особливого... вишуканого кавомана.</VBE_CannibalCoffee.description>
+  <!--Drink {0}-->
+  <VBE_CannibalCoffee.ingestible.ingestCommandString>Випити {0}</VBE_CannibalCoffee.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_CannibalCoffee.ingestible.ingestReportString>П'є {0}.</VBE_CannibalCoffee.ingestible.ingestReportString>
+  
+  <!--irish coffee-->
+  <VBE_IrishCoffee.label>кава по-ірландськи</VBE_IrishCoffee.label>
+  <!--Whiskey and coffee blended thoroughly before forming a head and being topped with a spoonful of whipped cream. Perfect for those who just got out of bed and are already wanting to go back to it.-->
+  <VBE_IrishCoffee.description>Віскі та кава ретельно змішуються перед тим, як прикрасити напій зверху збитими вершками. Ідеальний напій для тих, хто щойно встав з ліжка і вже хоче повернутися до нього.</VBE_IrishCoffee.description>
+  <!--Drink {0}-->
+  <VBE_IrishCoffee.ingestible.ingestCommandString>Випити {0}</VBE_IrishCoffee.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_IrishCoffee.ingestible.ingestReportString>П'є {0}.</VBE_IrishCoffee.ingestible.ingestReportString>
+  
+  <!--kombucha tea-->
+  <VBE_Kombucha.label>комбуча</VBE_Kombucha.label>
+  <!--A sugary tea left out to ferment, after fermenting the end product is a sweet and sour, sometimes even naturally fizzy drink known as kombucha. Praised for health benefits, though some remain skeptical. Kombucha acts as a home remedy against the flu, reducing its severity by 5%.-->
+  <VBE_Kombucha.description>Цукристий чай, залишений для бродіння, після ферментації кінцевим продуктом є кисло-солодкий, іноді навіть натурально шипучий напій, відомий як чайний гриб, або комбуча. Його хвалять за користь для здоров'я, хоча дехто ставиться до нього скептично. Комбуча діє як домашній засіб проти грипу, зменшуючи його тяжкість на 5%.</VBE_Kombucha.description>
+  <!--Drink {0}-->
+  <VBE_Kombucha.ingestible.ingestCommandString>Випити {0}</VBE_Kombucha.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_Kombucha.ingestible.ingestReportString>П'є {0}.</VBE_Kombucha.ingestible.ingestReportString>
+  
+  <!--latte coffee-->
+  <VBE_LatteCoffee.label>лате</VBE_LatteCoffee.label>
+  <!--Potent espresso mixed with fresh milk to help ease bitterness before pouring and serving. Lattes have a reputation of being particularly meant for “sophisticated” individuals.-->
+  <VBE_LatteCoffee.description>Міцний еспресо, змішаний зі свіжим молоком, щоб пом'якшити гіркоту перед розливанням і подачею. Лате має репутацію напою для "витончених" людей.</VBE_LatteCoffee.description>
+  <!--Drink {0}-->
+  <VBE_LatteCoffee.ingestible.ingestCommandString>Випити {0}</VBE_LatteCoffee.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_LatteCoffee.ingestible.ingestReportString>П'є {0}.</VBE_LatteCoffee.ingestible.ingestReportString>
+  
+  <!--mocha coffee-->
+  <VBE_MochaCoffee.label>мокачино</VBE_MochaCoffee.label>
+  <!--Coffee mixed with sweet and luxurious chocolate, very fun to drink. Those of snobbish persuasion would argue mocha is more of a dessert than an actual coffee drink.-->
+  <VBE_MochaCoffee.description>Кава, змішана із солодким і розкішним шоколадом, дуже приємна на смак. Сноби стверджують, що мокачино – це скоріше десерт, ніж справжня кава.</VBE_MochaCoffee.description>
+  <!--Drink {0}-->
+  <VBE_MochaCoffee.ingestible.ingestCommandString>Випити {0}</VBE_MochaCoffee.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_MochaCoffee.ingestible.ingestReportString>П'є {0}.</VBE_MochaCoffee.ingestible.ingestReportString>
+  
+  <!--pumpkin spice coffee-->
+  <VBE_PumpkinCoffee.label>гарбузова кава зі спеціями</VBE_PumpkinCoffee.label>
+  <!--Cheap, mass produced generic coffee seeped in an array of spices, oddly excluding any actual pumpkin. Thousands of years ago, this type of coffee was stereotypically consumed by red-haired hipsters with man buns.-->
+  <VBE_PumpkinCoffee.description>Дешева кава загального вжитку, просочена безліччю спецій, дивним чином за винятком власне гарбуза. Тисячі років тому таку каву стереотипно пили рудоволосі гіпстери.</VBE_PumpkinCoffee.description>
+  <!--Drink {0}-->
+  <VBE_PumpkinCoffee.ingestible.ingestCommandString>Випити {0}</VBE_PumpkinCoffee.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_PumpkinCoffee.ingestible.ingestReportString>П'є {0}.</VBE_PumpkinCoffee.ingestible.ingestReportString>
+  
+  <!--yuenyeung-->
+  <VBE_Yuenyeung.label>юаньян</VBE_Yuenyeung.label>
+  <!--A mixture of coffee and tea. Tea and coffee drinkers respectively set their differences aside while concocting this unholy amalgamation. It is usually served cold, but whether it’s served hot or cold it’s equally confusing to the imbiber.-->
+  <VBE_Yuenyeung.description>Суміш кави та чаю. Любителі чаю та кави, відповідно, відкидають свої розбіжності, готуючи цей нечестивий напій. Зазвичай його подають холодним, але незалежно від того, гарячим чи холодним він подається, він однаково збиває з пантелику поціновувачів кави та чаю.</VBE_Yuenyeung.description>
+  <!--Drink {0}-->
+  <VBE_Yuenyeung.ingestible.ingestCommandString>Випити {0}</VBE_Yuenyeung.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_Yuenyeung.ingestible.ingestReportString>П'є {0}.</VBE_Yuenyeung.ingestible.ingestReportString>
+</LanguageData>

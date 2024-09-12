@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- Misc - CaravanMap -->
+    <MFI_HerdMigration_Ambush.label>Міграція стада</MFI_HerdMigration_Ambush.label>
+    <MFI_HerdMigration_Ambush.letterText>Група з {0} перетинає територію.\n\nЧас полювання.</MFI_HerdMigration_Ambush.letterText>
+    <MFI_HerdMigration_Ambush.letterLabel>Міграція тварин: {0}</MFI_HerdMigration_Ambush.letterLabel>
+
+    <!-- Misc - Map -->
+    <MFI_ReverseTradeRequest.label>Запит на торгівлю</MFI_ReverseTradeRequest.label>
+    <MFI_ReverseTradeRequest.letterLabel>Запит на торгівлю</MFI_ReverseTradeRequest.letterLabel>
+    <MFI_PirateExtortion.label>Шахрайський викуп</MFI_PirateExtortion.label>
+    <MFI_PirateExtortion.letterLabel>Вимога плати від піратів</MFI_PirateExtortion.letterLabel>
+    <MFI_WoundedCombatants.label>Поранені бійці</MFI_WoundedCombatants.label>
+
+    <!-- Misc - World -->
+    <MFI_RoadWorks.label>Ремонт доріг</MFI_RoadWorks.label>
+    <MFI_DiplomaticMarriage.label>Дипломатичне весілля</MFI_DiplomaticMarriage.label>
+    <MFI_DiplomaticMarriage.letterLabel>Дипломатичне весілля</MFI_DiplomaticMarriage.letterLabel>
+    <MFI_MysticalShaman.label>Містичний шаман</MFI_MysticalShaman.label>
+    <MFI_MysticalShaman.letterLabel>Містичний шаман</MFI_MysticalShaman.letterLabel>
+    <MFI_SettlementBaseAttack.label>Атака на базу фракції</MFI_SettlementBaseAttack.label>
+
+    <!-- Quests - World -->
+    <MFI_BumperCropRequest.label>Запит на урожай</MFI_BumperCropRequest.label>
+    <MFI_Quest_PeaceTalks.label>Наближається війна?</MFI_Quest_PeaceTalks.label>
+    <MFI_Quest_PeaceTalks.letterText>Ви отримали повідомлення від [PAWN_nameDef], {0} з {1}. Їхній союз останнім часом мав дипломатичні проблеми з іншою фракцією і звертається до вас із закликом посереднічати між ними і {2}. Вони вибрали нейтральне недалеке місце і запрошують вас прибути на переговори.\n\nЦе може бути чудова можливість покращити взаємини з їхньою фракцією, але будьте обережні - поганий переговірник може завдати більше шкоди, ніж користі і навіть розгнівати їх.\n\nПропозиція діятиме протягом {3} днів, після чого [PAWN_nameDef] боїться найгіршого.</MFI_Quest_PeaceTalks.letterText>
+    <MFI_Quest_PeaceTalks.letterLabel>Фракційний конфлікт</MFI_Quest_PeaceTalks.letterLabel>
+    <MFI_AnnualExpo.label>Щорічна виставка</MFI_AnnualExpo.label>
+    <MFI_AnnualExpo.letterLabel>Щорічна виставка</MFI_AnnualExpo.letterLabel>
+
+    <!-- Threat - World -->
+    <MFI_QuestSpreadingPirateCamp.label>Поширення піратського табору</MFI_QuestSpreadingPirateCamp.label>
+    <MFI_QuestSpreadingPirateCamp.letterText>{0}, {1} з {2}, відчуває потребу вислати нам насмішливе повідомлення.\n\nВони заявляють, що створили ще один табір.</MFI_QuestSpreadingPirateCamp.letterText>
+    <MFI_QuestSpreadingPirateCamp.letterLabel>Поширення бандитів</MFI_QuestSpreadingPirateCamp.letterLabel>
+</LanguageData>

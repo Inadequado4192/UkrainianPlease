@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: No prisoners to be sacrificed. -->
+  <ReviaRaceSacrificePrisonerNone>Немає в'язнів, яких можна пожертвувати.</ReviaRaceSacrificePrisonerNone>
+  <!-- EN: Sacrifice {0} -->
+  <ReviaRaceSacrificePrisonerName>Пожертвувати {0}</ReviaRaceSacrificePrisonerName>
+  <!-- EN: {0}'s offering was accepted, but deemed insufficient. The blood god demands more blood. -->
+  <ReviaRaceSacrificeRejected>Пропозицію {0} прийнято, але вона вважається недостатньою. Кров'яний бог вимагає більше крові.</ReviaRaceSacrificeRejected>
+  <!-- EN: An additional {0} {1}s were demanded -->
+  <ReviaRaceBloodStuffCountDemand>Додатково було вимагано {0} {1}(ів)</ReviaRaceBloodStuffCountDemand>
+  <!-- EN: {0} {1}(s) were consumed in {2}'s offering. -->
+  <ReviaRaceBloodStuffCountConsumed>{0} {1}(ів) було пожертвувано в пропозиції {2}.</ReviaRaceBloodStuffCountConsumed>
+  <!-- EN: The sacrifice was found worthy, and {0} has grown stronger. -->
+  <ReviaRaceSacrificeSuccess>Жертва виявилася достойною, і {0} став сильнішим.</ReviaRaceSacrificeSuccess>
+  <!-- EN: {0} offers some {1}s to the blood god. -->
+  <ReviaRaceOfferingStart>{0} пропонує деякі {1}(і) богу крові.</ReviaRaceOfferingStart>
+  <!-- EN: The blood god spurns the unitiated's plea. -->
+  <ReviaRaceOfferingInvalidPawn>Бог крові зневажає заклик неініційованого.</ReviaRaceOfferingInvalidPawn>
+  <!-- EN: {0} is already at the height of {1} power! -->
+  <ReviaRaceOfferingMaxLevel>{0} вже досяг вершини сили {1}!</ReviaRaceOfferingMaxLevel>
+  <!-- EN: Revia Race -->
+  <ReviaRaceModName>Раса Ревії</ReviaRaceModName>
+  <!-- EN: Sacrifice Options -->
+  <ReviaRaceSettingsSacrificeCostHeader>Параметри жертвоприношень</ReviaRaceSettingsSacrificeCostHeader>
+  <!-- EN: Base bloodstone cost per level -->
+  <ReviaRaceSettingsSacrificeCostBase>Базова вартість кровних каменів за рівень</ReviaRaceSettingsSacrificeCostBase>
+  <!-- EN: Cost growth factor -->
+  <ReviaRaceSettingsSacrificeCostGrowthFactor>Коефіцієнт зростання вартості</ReviaRaceSettingsSacrificeCostGrowthFactor>
+  <!-- EN: Cost growth start tier -->
+  <ReviaRaceSettingsSacrificeCostGrowthStartTier>Початковий рівень зростання вартості</ReviaRaceSettingsSacrificeCostGrowthStartTier>
+  <!-- EN: Cost growth mode -->
+  <ReviaRaceSettingsSacrificeCostGrowthMode>Режим зростання вартості</ReviaRaceSettingsSacrificeCostGrowthMode>
+  <!-- EN: Assign random Soul Reap tier on spawn -->
+  <ReviaRaceSettingsEnableRandomSoulReapTier>Випадково визначати рівень душевної жатви під час появи</ReviaRaceSettingsEnableRandomSoulReapTier>
+  <!-- EN: Strip corpses on sacrifice -->
+  <ReviaRaceSettingsEnableStripOnSacrifice>Вимкнути обробку трупів під час жертвоприношення</ReviaRaceSettingsEnableStripOnSacrifice>
+  <!-- EN: Enable bloodthirst need -->
+  <ReviaRaceSettingsEnableBloodthirstNeed>Увімкнути потребу в кровожадності</ReviaRaceSettingsEnableBloodthirstNeed>
+  <!-- EN: Number of days for bloodthirst to fully empty -->
+  <ReviaRaceSettingsBloodthirstDaysToEmpty>Кількість днів для повного спадання кровожадності</ReviaRaceSettingsBloodthirstDaysToEmpty>
+  <!-- EN: Bloodstone costs with current settings: {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7} -->
+  <ReviaRaceSettingsSacrificeCostGreater>Вартість кровних каменів з поточними налаштуваннями: {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}</ReviaRaceSettingsSacrificeCostGreater>
+  <!-- EN: Palestone costs with current settings: {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7} -->
+  <ReviaRaceSettingsSacrificeCostLesser>Вартість блідокаменів з поточними налаштуваннями: {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}</ReviaRaceSettingsSacrificeCostLesser>
+  <!-- EN: Soul Reap level on spawn -->
+  <ReviaRaceSettingsSoulReapSpawnFixed>Рівень душевної жатви при появі</ReviaRaceSettingsSoulReapSpawnFixed>
+  <!-- EN: Randomise Soul Reap level based on pawn age -->
+  <ReviaRaceSettingsSoulReapSpawnAgeCurve>Випадково визначати рівень душевної жатви залежно від віку павука</ReviaRaceSettingsSoulReapSpawnAgeCurve>
+  <!-- EN: Possible Soul Reap levels on spawn -->
+  <ReviaRaceSettingsSoulReapSpawnRange>Можливі рівні душевної жатви при появі</ReviaRaceSettingsSoulReapSpawnRange>
+  <!-- EN: Can only sanctify melee weapons. -->
+  <ReviaRaceSanctifyNonMeleeWeapon>Можна освятити тільки ближньої бойової зброї.</ReviaRaceSanctifyNonMeleeWeapon>
+  <!-- EN: The rune does not respond in the hands of infidels. -->
+  <ReviaRaceSanctifyNonReviaNonSkarnite>Руні не відповідає в руках невірних.</ReviaRaceSanctifyNonReviaNonSkarnite>
+  <!-- EN: The weapon is already blessed with a bloodthirsty spirit. -->
+  <ReviaRaceSanctifyAlreadySanctified>Зброя вже благословлена кровожадним духом.</ReviaRaceSanctifyAlreadySanctified>
+  <!-- EN: A bloodthirsty spirit inhabits this weapon, granting the faithful of Skarne health in exchange for spilled blood. -->
+  <ReviaRaceSanctifyDescPart>Кровожадний дух перебуває в цій зброї, надаючи послідовникам Скарне здоров'я в обмін на пролиту кров.</ReviaRaceSanctifyDescPart>
+  <!-- EN: Linear -->
+  <Linear>Лінійний</Linear>
+  <!-- EN: Quadratic -->
+  <Quadratic>Квадратичний</Quadratic>
+  <!-- EN: Exponential -->
+  <Exponential>Експоненційний</Exponential>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_RelicDestructionOutcome.description>If the relic destruction ritual goes well (positive outcome) it will provide a mood bonus. A negative outcome will cause a mood penalty. In any case, the relic will be destroyed and all followers of the same ideo will get a permanent stat bonus.</AM_RelicDestructionOutcome.description>
+  <AM_RelicDestructionOutcome.outcomeChances.0.label>Boring</AM_RelicDestructionOutcome.outcomeChances.0.label>
+  <AM_RelicDestructionOutcome.outcomeChances.0.description>The {0} was a bit boring, but we got rid of an obscene idol, and that will only make our beliefs stronger.</AM_RelicDestructionOutcome.outcomeChances.0.description>
+  <AM_RelicDestructionOutcome.outcomeChances.1.label>Entertaining</AM_RelicDestructionOutcome.outcomeChances.1.label>
+  <AM_RelicDestructionOutcome.outcomeChances.1.description>The {0} was entertaining. We got rid of an obscene idol, and that will only make our beliefs stronger.</AM_RelicDestructionOutcome.outcomeChances.1.description>
+  <AM_RelicDestructionOutcome.comps.0.label>room impressiveness</AM_RelicDestructionOutcome.comps.0.label>
+  <AM_RelicDestructionOutcome.comps.1.label>кількість учасників</AM_RelicDestructionOutcome.comps.1.label>
+  <AM_RelicDestructionOutcome.comps.2.label>{PAWN_labelShort}'s social impact</AM_RelicDestructionOutcome.comps.2.label>
+
+
+</LanguageData>

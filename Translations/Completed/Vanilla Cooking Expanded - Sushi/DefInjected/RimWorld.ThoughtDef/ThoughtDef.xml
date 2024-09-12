@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--consumed soy sauce-->
+  <VCE_ConsumedSoySauce.stages.consumed_soy_sauce.label>вжи{PAWN_gender ? в : ла} соєвий соус</VCE_ConsumedSoySauce.stages.consumed_soy_sauce.label>
+  <!--Saltiness, moderate umami, sweet taste, and a very slight bitterness. Perfection.-->
+  <VCE_ConsumedSoySauce.stages.consumed_soy_sauce.description>Солонуватість, помірна умамі, солодкий смак і дуже легка гірчинка. Досконалість.</VCE_ConsumedSoySauce.stages.consumed_soy_sauce.description>
+  
+  <!--breath of the dragon-->
+  <VCE_ConsumedWasabi.stages.breath_of_the_dragon.label>подих дракона</VCE_ConsumedWasabi.stages.breath_of_the_dragon.label>
+  <!--My whole nose burns! Please give me more.-->
+  <VCE_ConsumedWasabi.stages.breath_of_the_dragon.description>У мене в носі все горить! Хочу добавки.</VCE_ConsumedWasabi.stages.breath_of_the_dragon.description>
+  
+  <!--ate simple sushi-->
+  <VCE_AteSimpleSushi.stages.ate_simple_sushi.label>з'ї{PAWN_gender ? в : ла} звичайні суші</VCE_AteSimpleSushi.stages.ate_simple_sushi.label>
+  <!--Even the most basic sushi is a delicacy.-->
+  <VCE_AteSimpleSushi.stages.ate_simple_sushi.description>Навіть найпростіші суші – це делікатес.</VCE_AteSimpleSushi.stages.ate_simple_sushi.description>
+  
+  <!--ate fine sushi-->
+  <VCE_AteFineSushi.stages.ate_fine_sushi.label>з'ї{PAWN_gender ? в : ла} вишукані суші</VCE_AteFineSushi.stages.ate_fine_sushi.label>
+  <!--I ate a very fine sushi with some vegetables. Super tasty.-->
+  <VCE_AteFineSushi.stages.ate_fine_sushi.description>Я {PAWN_gender ? їв : їла} дуже смачні суші з овочами. Дуже смачно.</VCE_AteFineSushi.stages.ate_fine_sushi.description>
+  
+  <!--ate lavish sushi-->
+  <VCE_AteLavishSushi.stages.ate_lavish_sushi.label>з'ї{PAWN_gender ? в : ла} розкішні суші</VCE_AteLavishSushi.stages.ate_lavish_sushi.label>
+  <!--I ate an incredible sushi dish. Delicious!-->
+  <VCE_AteLavishSushi.stages.ate_lavish_sushi.description>Я з'ї{PAWN_gender ? з'їв : з'їла} неймовірні суші. Дуже смачно!</VCE_AteLavishSushi.stages.ate_lavish_sushi.description>
+  
+  <!--ate gourmet sushi-->
+  <VCE_AteGourmetSushi.stages.ate_gourmet_sushi.label>з'ї{PAWN_gender ? в : ла} гурманські суші</VCE_AteGourmetSushi.stages.ate_gourmet_sushi.label>
+  <!--That... that was out of this world. The fish slices melted in my mouth. Just incredible.-->
+  <VCE_AteGourmetSushi.stages.ate_gourmet_sushi.description>Це... це було щось неземне. Шматочки риби танули у мене в роті. Просто неймовірно.</VCE_AteGourmetSushi.stages.ate_gourmet_sushi.description>
+  
+  <!--ate deep fried sushi-->
+  <VCE_AteFriedSushi.stages.ate_deep_fried_sushi.label>з'ї{PAWN_gender ? в : ла} суші у фритюрі</VCE_AteFriedSushi.stages.ate_deep_fried_sushi.label>
+  <!--Greasy food. So delicious.-->
+  <VCE_AteFriedSushi.stages.ate_deep_fried_sushi.description>Жирна їжа. Така смачна.</VCE_AteFriedSushi.stages.ate_deep_fried_sushi.description>
+</LanguageData>

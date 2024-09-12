@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--food condiments-->
+  <VCE_CondimentsResearch.label>приправи</VCE_CondimentsResearch.label>
+  <!--A condiment is a spice, sauce, or preparation that is added to food, either after or during cooking, to impart a specific flavor, to enhance the flavor, or to complement the dish. All condiments are created at the condiment prep table.-->
+  <VCE_CondimentsResearch.description>Приправа – це спеція, соус або препарат, який додають до їжі після або під час приготування, щоб надати їй специфічного аромату, підсилити смак або доповнити страву. Всі приправи створюються на столі для приготування приправ.</VCE_CondimentsResearch.description>
+  
+  <!--soup cooking-->
+  <VCE_SoupCooking.label>супи</VCE_SoupCooking.label>
+  <!--Soup is a primarily liquid food, generally served warm or hot, that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted. This research also gives access to the electric pot necessary to cook soups.-->
+  <VCE_SoupCooking.description>Суп – це переважно рідка їжа, яку зазвичай подають теплою або гарячою. Готується шляхом поєднання інгредієнтів м'яса або овочів з бульйоном або водою. Гарячі супи додатково характеризуються кип'ятінням твердих інгредієнтів у рідині в каструлі до повного вилучення ароматів. Це дослідження також дає доступ до термопота, необхідного для приготування супів.</VCE_SoupCooking.description>
+  
+  <!--grilling-->
+  <VCE_Grilling.label>гриль</VCE_Grilling.label>
+  <!--Grilling is a form of cooking that involves dry heat applied to the surface of food, commonly from above, below or from the side. Grilling usually involves a significant amount of direct, radiant heat, and tends to be used for cooking meat and vegetables quickly. This research gives access to the grill.-->
+  <VCE_Grilling.description>Гриль – це форма приготування їжі, яка передбачає сухе нагрівання поверхні продуктів, зазвичай зверху, знизу або збоку. Гриль зазвичай передбачає значну кількість прямого, променистого тепла, і використовується для швидкого приготування м'яса та овочів. Це дослідження дає доступ до грилю.</VCE_Grilling.description>
+  
+  <!--deep frying-->
+  <VCE_DeepFrying.label>фритюр</VCE_DeepFrying.label>
+  <!--Deep frying (also referred to as deep fat frying) is a cooking method in which food is submerged in hot fat, most commonly oil, as opposed to the shallow oil used in conventional frying done in a frying pan. This research gives access to the deep fryer.-->
+  <VCE_DeepFrying.description>Смаження у фритюрі – це метод приготування їжі, при якому продукти занурюються в гарячий жир, найчастіше в олію, на відміну від звичайного смаження на сковорідці, яке відбувається неглибоко. Це дослідження відкриває доступ до фритюрниці.</VCE_DeepFrying.description>
+  
+  <!--canning-->
+  <VCE_Canning.label>консервація</VCE_Canning.label>
+  <!--Canning is a method of preserving food in which the food contents are processed and sealed in an airtight container (jars like Mason jars, and steel and tin cans). Canning provides a shelf life of several years. A freeze-dried canned product, such as canned dried lentils, could last as long as 30 years in an edible state. This research gives access to the canning machine.-->
+  <VCE_Canning.description>Консервування – це спосіб збереження продуктів харчування, при якому вміст харчових продуктів обробляється і герметично закривається в герметичній тарі (сталевих і жерстяних банках). Консервування забезпечує термін зберігання в кілька років. Консервований продукт сублімаційного сушіння, наприклад, консервована сушена сочевиця, може зберігатися в їстівному стані до 30 років. Це дослідження відкриває доступ до консервної машини.</VCE_Canning.description>
+  
+  <!--cheese making-->
+  <VCE_CheeseMaking.label>сироваріння</VCE_CheeseMaking.label>
+  <!--Cheesemaking (or caseiculture) is the craft of making cheese. The production of cheese, like many other food preservation processes, allows the nutritional and economic value of milk to be preserved in concentrated form. Cheesemaking allows the production of the cheese with diverse flavors and consistencies. This research gives access to the cheese press.-->
+  <VCE_CheeseMaking.description>Сироваріння – це ремесло виготовлення сиру. Виробництво сиру, як і багато інших процесів консервування харчових продуктів, дозволяє зберегти поживну та економічну цінність молока в концентрованому вигляді. Сироваріння дозволяє виробляти сири з різноманітними смаками та консистенцією. Це дослідження відкриває доступ до преса для сиру.</VCE_CheeseMaking.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: breaking down. -->
+    <ContaminationJobBreakdown.reportString>ламає.</ContaminationJobBreakdown.reportString>
+    <!-- EN: stopping for a while to rest. -->
+    <ContaminationJobForceRest.reportString>зупинився на деякий час для відпочинку.</ContaminationJobForceRest.reportString>
+    <!-- EN: hallucinating an imaginary enemy. -->
+    <ContaminationJobHallucination.reportString>галюцинації уявного ворога.</ContaminationJobHallucination.reportString>
+    <!-- EN: hoarding. -->
+    <ContaminationJobHoard.reportString>накопичує.</ContaminationJobHoard.reportString>
+    <!-- EN: mimicing. -->
+    <ContaminationJobMimic.reportString>мімікрує.</ContaminationJobMimic.reportString>
+    <!-- EN: sleepwalking. -->
+    <ContaminationJobSleepwalk.reportString>лунатизм.</ContaminationJobSleepwalk.reportString>
+    <!-- EN: double tapping TargetA. -->
+    <DoubleTap.reportString>подвійне натискання TargetA. (?)</DoubleTap.reportString>
+    <!-- EN: extracting zombie serum from TargetA. -->
+    <ExtractZombieSerum.reportString>видобуває сироватку зомбі з TargetA.</ExtractZombieSerum.reportString>
+    <!-- EN: replacing broken components in TargetA. -->
+    <FixBrokenChainsaw.reportString>заміна непрацюючих компонентів в TargetA.</FixBrokenChainsaw.reportString>
+    <!-- EN: roping TargetA. -->
+    <RopeZombie.reportString>затягує мотузку на TargetA. (?)</RopeZombie.reportString>
+    <!-- EN: sabotaging. -->
+    <Sabotage.reportString>саботує.</Sabotage.reportString>
+    <!-- EN: spitting. -->
+    <Spitter.reportString>плює.</Spitter.reportString>
+    <!-- EN: stumbling. -->
+    <Stumble.reportString>спотикається.</Stumble.reportString>
+    <!-- EN: starting zombie zapper. -->
+    <ZapZombies.reportString>починає зомбі-зарядку.</ZapZombies.reportString>
+</LanguageData>

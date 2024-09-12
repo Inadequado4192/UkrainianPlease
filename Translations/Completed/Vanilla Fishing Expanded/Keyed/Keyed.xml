@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Fishing Zone-->
+  <VCEF_FishingGrowingZone>Зона риболовлі</VCEF_FishingGrowingZone>
+  <!--Create a zone where your colonists will try to fish-->
+  <VCEF_FishingGrowingZoneDesc>Створює зону, де ваші колоністи намагатимуться ловити рибу</VCEF_FishingGrowingZoneDesc>
+  
+  <!--Choose catch-->
+  <VCEF_ChooseFish>Обрати улов</VCEF_ChooseFish>
+  <!--Choose prefered fish size to catch from those inhabiting this biome. Smaller fish take less time but are less nutritive, while larger fish take longer and are more nutritive. Medium fish are balanced between the two extremes. There is always a chance to catch some different fish or special items-->
+  <VCEF_ChooseFishDesc>Виберіть бажаний розмір риби, яку ви хочете зловити, з тих, що мешкають у цьому біомі. Вилов дрібної риби займає менше часу, але вона менш поживна, тоді як велика риба ловиться довше і є більш поживною. Середня риба збалансована між цими двома крайнощами. Завжди є шанс зловити якусь іншу рибу або особливі предмети</VCEF_ChooseFishDesc>
+  
+  <!--Catch Small Fish-->
+  <VCEF_ChooseFishSmallLabel>Ловити дрібну рибу</VCEF_ChooseFishSmallLabel>
+  <!--Catch Medium Fish-->
+  <VCEF_ChooseFishMediumLabel>Ловити середню рибу</VCEF_ChooseFishMediumLabel>
+  <!--Catch Large Fish-->
+  <VCEF_ChooseFishLargeLabel>Ловити велику рибу</VCEF_ChooseFishLargeLabel>
+  
+  <!--Allow Fishing-->
+  <VCEF_CommandAllowFishing>Дозволити риболовлю</VCEF_CommandAllowFishing>
+  <!--Allow fishing to take place in this fishing zone-->
+  <VCEF_CommandAllowFishingDesc>Дозволити ловити рибу в цій рибальській зоні</VCEF_CommandAllowFishingDesc>
+  
+  <!--This zone of size {0} is set to catch fish of size-->
+  <VCEF_ZoneSetTo>Ця зона, за площею {0}, призначена для вилову риби розміром</VCEF_ZoneSetTo>
+  <!--Fish in this zone: -->
+  <VCEF_FishesInThisZone>Риба в цій зоні: </VCEF_FishesInThisZone>
+  <!--Oceanic fishing zone: -->
+  <VCEF_IsZoneOceanZone>Зона океанічного рибальства: </VCEF_IsZoneOceanZone>
+  <!--Yes-->
+  <VCEF_Yes>Так</VCEF_Yes>
+  <!--No-->
+  <VCEF_No>Ні</VCEF_No>
+  
+  <!--This zone is too small (size {0}). Fishing zones need to be at least {1} tiles to be valid (this calculation is made every few seconds: unpause to update).-->
+  <VCEF_ZoneTooSmall>Ця зона занадто мала (розмір {0}). Рибальські зони повинні мати площу принаймні {1}, щоб бути робочими (цей розрахунок робиться кожні кілька секунд: зніміть павзу, щоб оновити).</VCEF_ZoneTooSmall>
+  
+  <!--No fish to catch in this biome (this could happen with modded biomes, ask the owner to add support! Or perhaps you are in a lifeless biome)-->
+  <VCEF_NoFish>У цьому біому нема риби (це може статися з модифікованими біомами, попросіть власника мода додати підтримку! Або, можливо, ви перебуваєте в мертову біомі)</VCEF_NoFish>
+  
+  <!--While fishing, {0} has caught something special: {1}-->
+  <VCEF_CaughtSpecial>Під час риболовлі {0} спіймав дещо особливе: {1}</VCEF_CaughtSpecial>
+  
+  <!--Minimum Fishing Zone size-->
+  <VCEF_minimumZoneSize>Мінімальний розмір зони риболовлі</VCEF_minimumZoneSize>
+  <!--Minimum Fishing Zone size, default is 25 tiles-->
+  <VCEF_minimumZoneSizeTooltip>Мінімальний розмір зони риболовлі, за замовчуванням – 25 тайлів</VCEF_minimumZoneSizeTooltip>
+  
+  <!--Base Fishing Duration in ticks-->
+  <VCEF_smallFishDurationFactor>Базова тривалість риболовлі в тіках</VCEF_smallFishDurationFactor>
+  <!--Base Fishing Duration in ticks. Default is 4500 for small fish. Medium fish take double this time, while large fish take three times as much. Decreasing this increases food yield per day, and viceversa.-->
+  <VCEF_smallFishDurationFactorTooltip>Базова тривалість риболовлі в тиках. За замовчуванням 4500 для дрібної риби. Середня риба потребує вдвічі більше часу, а велика – втричі більше. Зменшення цього параметра збільшує кількість їжі на день, і навпаки.</VCEF_smallFishDurationFactorTooltip>
+  
+  <!--Chance to get an special item instead of fish-->
+  <VCEF_chanceForSpecials>Шанс отримати замість риби особливий предмет</VCEF_chanceForSpecials>
+  <!--Chance to get an special item instead of fish. Default is 1% per fishing operation.-->
+  <VCEF_chanceForSpecialsTooltip>Шанс отримати особливий предмет замість риби. За замовчуванням – 1% за кожну риболовлю.</VCEF_chanceForSpecialsTooltip>
+  
+  <!--Minimum map temperature for reduced fish yield-->
+  <VCEF_minMapTempForLowFish>Мінімальна температура карти для зниження вилову риби</VCEF_minMapTempForLowFish>
+  <!--Minimum map temperature for reduced fish yield. Below this temperature fish yield will be greatly reduced. Default is 0ºC.-->
+  <VCEF_minMapTempForLowFishTooltip>Мінімальна температура на карті для зменшення вилову риби. Нижче цієї температури вилов риби значно зменшиться. За замовчуванням 0ºC.</VCEF_minMapTempForLowFishTooltip>
+  
+  <!--Maximum map temperature for reduced fish yield-->
+  <VCEF_maxMapTempForLowFish>Максимальна температура карти для зниження вилову риби</VCEF_maxMapTempForLowFish>
+  <!--Maximum map temperature for reduced fish yield. Above this temperature fish yield will be greatly reduced. Default is 50ºC.-->
+  <VCEF_maxMapTempForLowFishTooltip>Максимальна температура на карті для зменшення вилову риби. Вище цієї температури вилов риби буде значно зменшений. За замовчуванням 50ºC.</VCEF_maxMapTempForLowFishTooltip>
+  
+  <!--Fisher drops fish on the ground instead of hauling to stockpiles-->
+  <VCEF_dropFish>Рибалка скидає рибу на землю замість того, щоб тягнути її до сховища</VCEF_dropFish>
+  
+  <!--This fishing zone is too polluted to fish-->
+  <VCEF_TooPolluted>Ця рибальська зона занадто забруднена для риболовлі</VCEF_TooPolluted>
+</LanguageData>

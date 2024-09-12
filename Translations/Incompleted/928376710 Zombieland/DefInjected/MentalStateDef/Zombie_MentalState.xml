@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: breaking down -->
+    <ContaminationStateBreakdown.label>ламає</ContaminationStateBreakdown.label>
+    <!-- EN: Mental state: Breakdown -->
+    <ContaminationStateBreakdown.baseInspectLine>Психічний стан: Зрив</ContaminationStateBreakdown.baseInspectLine>
+    <!-- EN: {0} has started to break down. -->
+    <ContaminationStateBreakdown.beginLetter>{0} входить у стан емоційної нестабільності.</ContaminationStateBreakdown.beginLetter>
+    <!-- EN: breaking -->
+    <ContaminationStateBreakdown.beginLetterLabel>зрив</ContaminationStateBreakdown.beginLetterLabel>
+    <!-- EN: {0} is no longer in a breakdown. -->
+    <ContaminationStateBreakdown.recoveryMessage>{0} більше не перебуває в стані емоційного зриву.</ContaminationStateBreakdown.recoveryMessage>
+    <!-- EN: resting -->
+    <ContaminationStateForceRest.label>відпочиває</ContaminationStateForceRest.label>
+    <!-- EN: Mental state: Resting -->
+    <ContaminationStateForceRest.baseInspectLine>Психічний стан: Відпочинок</ContaminationStateForceRest.baseInspectLine>
+    <!-- EN: {0} needs some rest. -->
+    <ContaminationStateForceRest.beginLetter>{0} потребує відпочинку.</ContaminationStateForceRest.beginLetter>
+    <!-- EN: resting -->
+    <ContaminationStateForceRest.beginLetterLabel>відпочиває</ContaminationStateForceRest.beginLetterLabel>
+    <!-- EN: {0} no longer needs resting. -->
+    <ContaminationStateForceRest.recoveryMessage>{0} більше не потребує відпочинку.</ContaminationStateForceRest.recoveryMessage>
+    <!-- EN: hallucinating -->
+    <ContaminationStateHallucination.label>галюцинації</ContaminationStateHallucination.label>
+    <!-- EN: Mental state: Hallucinating -->
+    <ContaminationStateHallucination.baseInspectLine>Психічний стан: Галюцинації</ContaminationStateHallucination.baseInspectLine>
+    <!-- EN: {0} has started to hallucinate and flees confused. -->
+    <ContaminationStateHallucination.beginLetter>У {0} почались галюцинації, і (0_gender ? він : вона) втікає в розпачі.</ContaminationStateHallucination.beginLetter>
+    <!-- EN: hallucination -->
+    <ContaminationStateHallucination.beginLetterLabel>галюцинації</ContaminationStateHallucination.beginLetterLabel>
+    <!-- EN: {0} is no longer hallucinating. -->
+    <ContaminationStateHallucination.recoveryMessage>{0} більше не переживає галюцинацій.</ContaminationStateHallucination.recoveryMessage>
+    <!-- EN: hallucinating -->
+    <ContaminationStateHoarding.label>галюцинації</ContaminationStateHoarding.label>
+    <!-- EN: Mental state: Hoarding -->
+    <ContaminationStateHoarding.baseInspectLine>Психічний стан: Накопичення</ContaminationStateHoarding.baseInspectLine>
+    <!-- EN: {0} has started to hoard. -->
+    <ContaminationStateHoarding.beginLetter>{0} {0_gender ? розпочав: розпочала} накопичувати.</ContaminationStateHoarding.beginLetter>
+    <!-- EN: hoarding -->
+    <ContaminationStateHoarding.beginLetterLabel>накопичує</ContaminationStateHoarding.beginLetterLabel>
+    <!-- EN: {0} is no longer hoarding. -->
+    <ContaminationStateHoarding.recoveryMessage>{0} більше не накопичує.</ContaminationStateHoarding.recoveryMessage>
+    <!-- EN: mimicing -->
+    <ContaminationStateMimicing.label>мімікрує</ContaminationStateMimicing.label>
+    <!-- EN: Mental state: Mimicing zombies -->
+    <ContaminationStateMimicing.baseInspectLine>Психічний стан: Мімікрія зомбі</ContaminationStateMimicing.baseInspectLine>
+    <!-- EN: {0} has started to mimic zombies. -->
+    <ContaminationStateMimicing.beginLetter>{0} {0_gender ? почав : почала} мімікрувати під зомбі.</ContaminationStateMimicing.beginLetter>
+    <!-- EN: mimicing -->
+    <ContaminationStateMimicing.beginLetterLabel>мімікрує</ContaminationStateMimicing.beginLetterLabel>
+    <!-- EN: {0} is no longer mimicing zombies. -->
+    <ContaminationStateMimicing.recoveryMessage>{0} більше не мімікрує під зомбі.</ContaminationStateMimicing.recoveryMessage>
+    <!-- EN: hallucinating -->
+    <ContaminationStateSleepwalking.label>галюцинації</ContaminationStateSleepwalking.label>
+    <!-- EN: Mental state: Sleepwalking -->
+    <ContaminationStateSleepwalking.baseInspectLine>Психічний стан: Лунатизм</ContaminationStateSleepwalking.baseInspectLine>
+    <!-- EN: {0} has started to sleepwalk. -->
+    <ContaminationStateSleepwalking.beginLetter>{0} {0_gender ? почав : почала} ходити уві сні.</ContaminationStateSleepwalking.beginLetter>
+    <!-- EN: sleepwalking -->
+    <ContaminationStateSleepwalking.beginLetterLabel>лунатизм</ContaminationStateSleepwalking.beginLetterLabel>
+    <!-- EN: {0} is no longer sleepwalking. -->
+    <ContaminationStateSleepwalking.recoveryMessage>{0} більше не ходить уві сні.</ContaminationStateSleepwalking.recoveryMessage>
+</LanguageData>

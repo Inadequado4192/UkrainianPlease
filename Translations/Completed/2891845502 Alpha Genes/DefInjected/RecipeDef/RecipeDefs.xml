@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: remove parasitic implantation -->
+  <AG_RemoveImplantation.label>видалити паразитарну імплантацію</AG_RemoveImplantation.label>
+  <!-- EN: Remove a parasitic implantation. -->
+  <AG_RemoveImplantation.description>Видалення паразитарної імплантації.</AG_RemoveImplantation.description>
+  <!-- EN: Removing parasitic implantation. -->
+  <AG_RemoveImplantation.jobString>Видаляє паразитарну імплантацію.</AG_RemoveImplantation.jobString>
+  <!-- EN: {0} has successfully removed {1}'s parasitic implantation. -->
+  <AG_RemoveImplantation.successfullyRemovedHediffMessage>{0} успішно видалив паразитарну імплантацію в {1}.</AG_RemoveImplantation.successfullyRemovedHediffMessage>
+  
+</LanguageData>

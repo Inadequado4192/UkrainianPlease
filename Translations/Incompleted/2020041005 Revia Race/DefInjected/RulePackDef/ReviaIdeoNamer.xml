@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_ideoName->[creed] of the [colour] [icon]</li>
+    <li>r_ideoAdjective->Skarnic</li>
+    <li>r_memberName->Skarnite</li>
+    <li>r_memberName->Skarnist</li>
+    <li>hyphenPrefix->[globalHyphenPrefix]</li>
+    <li>globalHyphenPrefix->neo</li>
+    <li>globalHyphenPrefix->archaeo</li>
+    <li>creed->doctrine</li>
+    <li>creed->creed</li>
+    <li>creed->devotees</li>
+    <li>creed->way</li>
+    <li>creed->path</li>
+    <li>creed->disciples</li>
+    <li>creed->orthodoxy</li>
+    <li>creed->hierarchy</li>
+    <li>creed->covenant</li>
+    <li>colour->crimson</li>
+    <li>colour->vermillion</li>
+    <li>colour->obsidian</li>
+    <li>colour->incarnadine</li>
+    <li>colour->scarlet</li>
+    <li>icon->throne</li>
+    <li>icon->flame</li>
+    <li>icon->skull</li>
+    <li>icon->rose</li>
+    <li>icon->thorns</li>
+    <li>icon->shards</li>
+    <li>icon->sun</li>
+    <li>icon->moon</li>
+  -->
+  <ReviaHighIdeoNamer.rulePack.rulesStrings>
+    <li>r_ideoName->[creed] в [colour1] [icon1]</li>
+    <li>r_ideoName->[creed] в [colour2] [icon2]</li>
+    <li>r_ideoName->[creed] в [colour3] [icon3]</li>
+    <li>r_ideoAdjective->Скарніч</li>
+    <li>r_memberName->Скарніт</li>
+    <li>r_memberName->Скарніст</li>
+    <li>hyphenPrefix->[globalHyphenPrefix]</li>
+    <li>globalHyphenPrefix->нео</li>
+    <li>globalHyphenPrefix->архео</li>
+    <li>creed->доктрина</li>
+    <li>creed->віра</li>
+    <li>creed->відданість</li>
+    <li>creed->шлях</li>
+    <li>creed->вчення</li>
+    <li>creed->православ'я</li>
+    <li>creed->ієрархія</li>
+    <li>creed->угода</li>
+    <li>colour1->багряний</li>
+    <li>colour1->темний</li>
+    <li>colour1->обсидіановий</li>
+    <li>colour1->прозорий</li>
+    <li>colour1->червоний</li>
+    <li>colour2->багряні</li>
+    <li>colour2->темні</li>
+    <li>colour2->обсидіанові</li>
+    <li>colour2->прозорі</li>
+    <li>colour2->червоні</li>
+    <li>colour3->багряна</li>
+    <li>colour3->темна</li>
+    <li>colour3->обсидіанова</li>
+    <li>colour3->прозора</li>
+    <li>colour3->червона</li>
+    <li>icon1->трон</li>
+    <li>icon1->вогонь</li>
+    <li>icon1->череп</li>
+    <li>icon1->місяць</li>
+    <li>icon1->океан</li>
+    <li>icon2->шипи</li>
+    <li>icon2->уламки</li>
+    <li>icon2->камені</li>
+    <li>icon3->роза</li>
+    <li>icon3->півонія</li>
+    <li>icon3->камелія</li>
+    <li>icon3->жасмин</li>
+    <li>icon3->дамаська троянда</li>
+  </ReviaHighIdeoNamer.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_ideoName->[creed] of [barbaricNoun]</li>
+    <li>r_ideoName->[creed] of [deity]</li>
+    <li>r_ideoAdjective->Skarnic</li>
+    <li>r_memberName->Skarnite</li>
+    <li>r_memberName->Skarnist</li>
+    <li>hyphenPrefix->[globalHyphenPrefix]</li>
+    <li>globalHyphenPrefix->neo</li>
+    <li>globalHyphenPrefix->archaeo</li>
+    <li>globalHyphenPrefix->anarcho</li>
+    <li>barbaricNoun->blood</li>
+    <li>barbaricNoun->gore</li>
+    <li>barbaricNoun->devastation</li>
+    <li>barbaricNoun->annihilation</li>
+    <li>barbaricNoun->destruction</li>
+    <li>barbaricNoun->the Apocalypse</li>
+    <li>barbaricNoun->bloodshed</li>
+    <li>creed->way</li>
+    <li>creed->path</li>
+    <li>creed->zealots</li>
+    <li>deity->the Bloody Mistress</li>
+    <li>deity->the Great Devourer</li>
+    <li>deity->the Scourge</li>
+    <li>deity->the Bringer of End Times</li>
+    <li>deity->She Who Thirsts</li>
+    <li>deity->the Bloody Goddess</li>
+    <li>deity->the World-Eater</li>
+    <li>deity->the Crimson Moon</li>
+    <li>deity->the Bloodbringer</li>
+  -->
+  <ReviaRaiderIdeoNamer.rulePack.rulesStrings>
+    <li>r_ideoName->[creed] [barbaricNoun]</li>
+    <li>r_ideoName->[creed] [deity]</li>
+    <li>r_ideoAdjective->Скарніч</li>
+    <li>r_memberName->Скарніт</li>
+    <li>r_memberName->Скарніст</li>
+    <li>hyphenPrefix->[globalHyphenPrefix]</li>
+    <li>globalHyphenPrefix->нео</li>
+    <li>globalHyphenPrefix->архео</li>
+    <li>globalHyphenPrefix->анархо</li>
+    <li>barbaricNoun->крові</li>
+    <li>barbaricNoun->жаху</li>
+    <li>barbaricNoun->розрухи</li>
+    <li>barbaricNoun->знищення</li>
+    <li>barbaricNoun->руйнування</li>
+    <li>barbaricNoun->Апокаліпсису</li>
+    <li>barbaricNoun->кровопролиття</li>
+    <li>creed->шлях</li>
+    <li>creed->зелоти</li>
+    <li>deity->Кривавої Володарки</li>
+    <li>deity->Великого Пожирателя</li>
+    <li>deity->Лиха</li>
+    <li>deity->Вісника кінця світу</li>
+    <li>deity->Тієї, що жадає</li>
+    <li>deity->Богині Крові</li>
+    <li>deity->Пожирача світу</li>
+    <li>deity->Багряного Місяця</li>
+    <li>deity->Кровопивці</li>
+  </ReviaRaiderIdeoNamer.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: frog voice -->
+  <AG_FrogVoice.label>жаб'ячий голос</AG_FrogVoice.label>
+  <!-- EN: Carriers have a croaking voice similar to that of a frog. -->
+  <AG_FrogVoice.description>Носії мають квакаючий голос, схожий на жаб'ячий.</AG_FrogVoice.description>
+  
+  <!-- EN: growling voice -->
+  <AG_GrowlingVoice.label>гарчащий голос</AG_GrowlingVoice.label>
+  <!-- EN: Carriers have a growling and snarling voice with fearsome animalistic undertones. -->
+  <AG_GrowlingVoice.description>Носії мають гарчащий і рикаючий голос із страхітливими анімалістичними відтінками.</AG_GrowlingVoice.description>
+  
+  <!-- EN: guttural voice -->
+  <AG_GutturalVoice.label>гортанний голос</AG_GutturalVoice.label>
+  <!-- EN: Carriers have a guttural, harsh voice produced mostly on the throat. -->
+  <AG_GutturalVoice.description>Носії мають гортанний, різкий голос, що виробляється переважно на горлі.</AG_GutturalVoice.description>
+  
+  <!-- EN: hiveling voice -->
+  <AG_HivelingVoice.label>хрипкий голос</AG_HivelingVoice.label>
+  <!-- EN: Carriers have high pitched insectoid voices. -->
+  <AG_HivelingVoice.description>Носії мають високі інсектоїдні голоси.</AG_HivelingVoice.description>
+  
+  <!-- EN: rock voice -->
+  <AG_RockVoice.label>кам'яний голос</AG_RockVoice.label>
+  <!-- EN: Carriers have a rumbling, metallic voice that sounds like two stones scratching against each other. -->
+  <AG_RockVoice.description>Носії мають гуркітливий, металевий голос, який звучить так, ніби два камені дряпаються один об одного.</AG_RockVoice.description>
+  
+  <!-- EN: slug voice -->
+  <AG_SlugVoice.label>голос слимака</AG_SlugVoice.label>
+  <!-- EN: Carriers have a gurgling, squishing voice. -->
+  <AG_SlugVoice.description>Носії мають булькаючий, хлюпаючий голос.</AG_SlugVoice.description>
+  
+</LanguageData>

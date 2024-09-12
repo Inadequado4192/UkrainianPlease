@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	<!--psychic nuzzle-->
+	<VAERoy_PeacockInteraction.label>психічне пещення</VAERoy_PeacockInteraction.label>
+	
+	<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
+		<!--r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].-->
+		<li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+		<!--r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].-->
+		<li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] {INITIATOR_gender ? потерся : потерлася} своїм носиком об [rubbedpart] [RECIPIENT_nameDef].</li>
+		
+		<!--nuzzled(p=2)->psychically nuzzled-->
+		<li>nuzzled(p=2)->психічно {INITIATOR_gender ? пестив : пестила}</li>
+		<!--nuzzled->psychically snuggled up to-->
+		<li>nuzzled->психічно {INITIATOR_gender ? притулився : притулилась} до</li>
+		
+		<!--nuzzleadverb(p=4)->-->
+		<li>nuzzleadverb(p=4)-></li>
+		<!--nuzzleadverb->gently-->
+		<li>nuzzleadverb->обережно</li>
+		<!--nuzzleadverb->encouragingly-->
+		<li>nuzzleadverb->обнадійливо</li>
+		<!--nuzzleadverb->happily-->
+		<li>nuzzleadverb->з радістю</li>
+		<!--nuzzleadverb->softly-->
+		<li>nuzzleadverb->м'яко</li>
+		<!--nuzzleadverb->supportively-->
+		<li>nuzzleadverb->прихильно</li>
+		<!--nuzzleadverb->lightly-->
+		<li>nuzzleadverb->злегка</li>
+		<!--nuzzleadverb->warmly-->
+		<li>nuzzleadverb->щиро</li>
+		<!--nuzzleadverb->plaintively-->
+		<li>nuzzleadverb->жалібно</li>
+		<!--nuzzleadverb->lovingly-->
+		<li>nuzzleadverb->любовно</li>
+		<!--nuzzleadverb->affectionately-->
+		<li>nuzzleadverb->ніжно</li>
+		<li>nuzzleadverb->ласкаво</li>
+		
+		<!--rubbedpart->leg-->
+		<li>rubbedpart->ногу</li>
+		<!--rubbedpart->knee-->
+		<li>rubbedpart->коліно</li>
+		<!--rubbedpart->foot-->
+		<li>rubbedpart->ступню</li>
+		<!--rubbedpart->elbow-->
+		<li>rubbedpart->лікоть</li>
+		<!--rubbedpart->hip-->
+		<li>rubbedpart->стегно</li>
+		<!--rubbedpart->shoulder-->
+		<li>rubbedpart->плечо</li>
+		<!--rubbedpart->hand-->
+		<li>rubbedpart->долонь</li>
+		<!--rubbedpart->side-->
+		<li>rubbedpart->бік</li>
+		<!--rubbedpart->arm-->
+		<li>rubbedpart->руку</li>
+	</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
+	
+
+	<!--tutoring-->
+	<VAERoy_OrangutanInteraction.label>викладання</VAERoy_OrangutanInteraction.label>
+
+	<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
+		<!--r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].-->
+		<li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
+		<!--r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].-->
+		<li>r_logentry->[INITIATOR_nameDef] [talkedabout1] [RECIPIENT_nameDef] про [animalthings].</li>
+		<!--r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].-->
+		<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] [RECIPIENT_nameDef].</li>
+		
+		<!--talkedabout(p=4)->chatted about-->
+		<li>talkedabout(p=4)->базікали про</li>
+		<!--talkedabout->shared a word about-->
+		<li>talkedabout->ділилися думками про</li>
+		<!--talkedabout->spoke about-->
+		<li>talkedabout->говорили про</li>
+		<!--talkedabout->gabbed about-->
+		<li>talkedabout->теревенили про</li>
+		<!--talkedabout->talked about-->
+		<li>talkedabout->балакали про</li>
+		<!--talkedabout->mumbled about-->
+		<li>talkedabout->бурмотіли про</li>
+		<!--talkedabout->quipped about-->
+		<li>talkedabout->жартували про</li>
+	
+		<!--talkedabout(p=4)->chatted about-->
+		<li>talkedabout1(p=4)->{INITIATOR_gender ? базікав : базікала} з</li>
+		<!--talkedabout->shared a word about-->
+		<li>talkedabout1->{INITIATOR_gender ? обмінявся : обмінялась} думками з</li>
+		<!--talkedabout->spoke about-->
+		<li>talkedabout1->{INITIATOR_gender ? розповідав : розповідала}</li>
+		<!--talkedabout->gabbed about-->
+		<li>talkedabout1->{INITIATOR_gender ? казав : казала}</li>
+		<!--talkedabout->talked about-->
+		<li>talkedabout1->{INITIATOR_gender ? говорив : говорила} з</li>
+		<!--talkedabout->mumbled about-->
+		<li>talkedabout1->{INITIATOR_gender ? пробурмотів : пробурмотіла}</li>
+		<!--talkedabout->quipped about-->
+		<li>talkedabout1->{INITIATOR_gender ? жартував : жартувала} з</li>
+		
+		<!--commentedabout->said something about-->
+		<li>commentedabout->{INITIATOR_gender ? сказав : сказала} щось про</li>
+		<!--commentedabout->made a comment about-->
+		<li>commentedabout->{INITIATOR_gender ? зробив : зробила} зауваження щодо</li>
+		<!--commentedabout->commented about-->
+		<li>commentedabout->{INITIATOR_gender ? прокоментував : прокоментувала}</li>
+		<!--commentedabout->mused about-->
+		<li>commentedabout->{INITIATOR_gender ? розповідав : розповідала} про</li>
+		
+		<!--animalthings->the comparison of paternalistic societies with other social aspects and matters-->
+		<li>animalthings->порівняння патерналістських суспільств з іншими соціальними аспектами та питаннями</li>
+		<!--animalthings->the origin of or linguistic analysis of the term paragliding-->
+		<li>animalthings->походження або лінгвістичний аналіз терміну "парапланеризм"</li>
+		<!--animalthings->how other cultures or nations view hard work-->
+		<li>animalthings->ставлення до важкої праці в інших культурах та націях</li>
+		<!--animalthings->the personal and professional analysis and impact of mathematics-->
+		<li>animalthings->особистий та професійний аналіз і вплив математики</li>
+		<!--animalthings->poetry related to prepackaged snacks-->
+		<li>animalthings->поезію, пов'язану з упакованими снеками</li>
+		<!--animalthings->outdated opinions about ethnic violence-->
+		<li>animalthings->застарілі погляди на етнічне насильство</li>
+		<!--animalthings->a journalistic WHERE analysis of self-deportation immigration policy: where it happened - places, countries, or regions involved or affected-->
+		<li>animalthings->журналістський аналіз імміграційної політики щодо самодепортації: де це сталося – місця, країни чи регіони, які були задіяні або постраждали від неї</li>
+		<!--animalthings->countries with highest consumption of cauliflower-->
+		<li>animalthings->країни з найбільшим споживанням цвітної капусти</li>
+		<!--animalthings->expert opinions about sexual orientation-->
+		<li>animalthings->думки експертів про сексуальну орієнтацію</li>
+		<!--animalthings->what is unique about bread-->
+		<li>animalthings->унікальність хліба</li>
+		<!--animalthings->the ethics of laser eye surgery-->
+		<li>animalthings->етичність лазерної хірургії ока</li>
+		<!--animalthings->the religious, theological, spiritual, and moral analysis of decision making-->
+		<li>animalthings->релігійний, богословський, духовний та моральний аналіз прийняття рішень</li>
+		<!--animalthings->why phone tapping matters-->
+		<li>animalthings->важливість прослуховування телефонних розмов</li>
+		<!--animalthings->an embarrassing experience involving positive attitude-->
+		<li>animalthings->сором'язливий досвід, який передбачає позитивне ставлення</li>
+		<!--animalthings->a comparison of different types of cocktails-->
+		<li>animalthings->порівняння різних видів коктейлів</li>
+		<!--animalthings->the comparison of wearing your heart on your sleeve with other habits-->
+		<li>animalthings->порівняння татуювання метеликів на тілі з іншими способами самовираження</li>
+		<!--animalthings->the best experts' opinions on inner city poverty in the world-->
+		<li>animalthings->думки найкращих експертів про бідність у містах світу</li>
+		<!--animalthings->excerpts from books or articles related to glass etching-->
+		<li>animalthings->уривки з книг або статей, пов'язаних із гравіюванням на склі</li>
+		<!--animalthings->the negative effects of preferential treatment-->
+		<li>animalthings->негативні наслідки пільгового режиму</li>
+	</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
+</LanguageData>

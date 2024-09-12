@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name->The [Gore] [groupendevil]</li>
+    <li>r_name->The [ColorBadass] [groupendevil]</li>
+    <li>r_name->The [ConceptBadass] [groupendevil]</li>
+    <li>groupendevil->Devourers</li>
+    <li>groupendevil->Purgers</li>
+    <li>groupendevil->Marauders</li>
+    <li>groupendevil->Zealots</li>
+  -->
+  <NamerFactionReviaMarauder.rulePack.rulesStrings>
+    <li>r_name->[groupendevil] [Gore]</li>
+    <li>r_name->[groupendevil] [ColorBadass]</li>
+    <li>r_name->[groupendevil] [ConceptBadass]</li>
+    <li>groupendevil->Пожирачі</li>
+    <li>groupendevil->Чистильники</li>
+    <li>groupendevil->Мародери</li>
+    <li>groupendevil->Зелоти</li>
+  </NamerFactionReviaMarauder.rulePack.rulesStrings>
+  
+</LanguageData>

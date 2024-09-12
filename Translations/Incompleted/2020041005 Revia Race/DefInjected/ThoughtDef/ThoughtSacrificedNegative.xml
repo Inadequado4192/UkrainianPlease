@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Sacrificed corpse -->
+  <ReviaRaceThoughtSacrificedNegative.stages.Sacrificed_corpse.label>Жертвоприношення трупа</ReviaRaceThoughtSacrificedNegative.stages.Sacrificed_corpse.label>
+  <!-- EN: One of our colonists sacrificed a corpse to the blood god. This is disturbing. -->
+  <ReviaRaceThoughtSacrificedNegative.stages.Sacrificed_corpse.description>Один з наших колоністів приніс у жертву богу крові труп. Це тривожно.</ReviaRaceThoughtSacrificedNegative.stages.Sacrificed_corpse.description>
+  
+</LanguageData>

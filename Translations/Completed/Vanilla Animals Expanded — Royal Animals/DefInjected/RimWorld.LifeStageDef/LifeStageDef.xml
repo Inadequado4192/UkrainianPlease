@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--baby-->
+  <VAERoy_AnimalBaby.label>дитинча</VAERoy_AnimalBaby.label>
+  <!--juvenile-->
+  <VAERoy_AnimalJuvenile.label>молодий</VAERoy_AnimalJuvenile.label>
+  <!--adult-->
+  <VAERoy_AnimalAdult.label>дорослий</VAERoy_AnimalAdult.label>
+  <!--mature-->
+  <VAERoy_AnimalAdultIntermediate.label>зрілий</VAERoy_AnimalAdultIntermediate.label>
+  <!--colossal-->
+  <VAERoy_AnimalAdultMax.label>колосальний</VAERoy_AnimalAdultMax.label>
+</LanguageData>

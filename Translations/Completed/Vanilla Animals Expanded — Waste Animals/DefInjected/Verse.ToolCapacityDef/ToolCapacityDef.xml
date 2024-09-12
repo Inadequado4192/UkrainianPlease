@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--toxic sting-->
+  <VAEWaste_Sting.label>удар отруйним жалом</VAEWaste_Sting.label>
+  <!--toxflu bite-->
+  <VAEWaste_FluBite.label>заражений укус</VAEWaste_FluBite.label>
+  <!--ripping bite-->
+  <VAEWaste_RippingBite.label>рваний укус</VAEWaste_RippingBite.label>
+  <!--toxflu claws-->
+  <VAEWaste_FluClaws.label>заражений поріз</VAEWaste_FluClaws.label>
+</LanguageData>

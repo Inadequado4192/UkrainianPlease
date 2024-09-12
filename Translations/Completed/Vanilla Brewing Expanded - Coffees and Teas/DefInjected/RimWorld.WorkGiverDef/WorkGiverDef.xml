@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--brew at espresso machine-->
+  <VBE_DoBillsEspressoMachine.label>заварювати в кавоварці</VBE_DoBillsEspressoMachine.label>
+  <!--brew at-->
+  <VBE_DoBillsEspressoMachine.gerund>заварювати в</VBE_DoBillsEspressoMachine.gerund>
+  <!--brew-->
+  <VBE_DoBillsEspressoMachine.verb>заварювати в</VBE_DoBillsEspressoMachine.verb>
+</LanguageData>

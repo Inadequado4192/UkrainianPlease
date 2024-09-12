@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sculptures -->
+
+  <AM_Pyramid.label>піраміда</AM_Pyramid.label>
+  <AM_Pyramid.description>Гігантська кам'яна споруда, зовнішні поверхні якої мають трикутну форму і сходяться до єдиної сходинки вгорі.</AM_Pyramid.description>
+  <AM_Pyramid_Blueprint_Install.label>піраміда (креслення)</AM_Pyramid_Blueprint_Install.label>
+
+  <AM_GrandGate.label>головна брама</AM_GrandGate.label>
+  <AM_GrandGate.description>Величезний вхід для кеметичного міста.</AM_GrandGate.description>
+  <AM_GrandGate_Blueprint.label>головна брама (креслення)</AM_GrandGate_Blueprint.label>
+  <AM_GrandGate_Blueprint_Install.label>головна брама (креслення)</AM_GrandGate_Blueprint_Install.label>
+  <AM_GrandGate_Frame.label>головна брама (будується)</AM_GrandGate_Frame.label>
+  <AM_GrandGate_Frame.description>Величезний вхід для кеметичного міста.</AM_GrandGate_Frame.description>
+
+  <AM_FuturisticObelisk.label>футуристичний обеліск</AM_FuturisticObelisk.label>
+  <AM_FuturisticObelisk.description>Величезний металевий обеліск.</AM_FuturisticObelisk.description>
+  <AM_FuturisticObelisk_Blueprint.label>футуристичний обеліск (креслення)</AM_FuturisticObelisk_Blueprint.label>
+  <AM_FuturisticObelisk_Blueprint_Install.label>футуристичний обеліск (креслення)</AM_FuturisticObelisk_Blueprint_Install.label>
+  <AM_FuturisticObelisk_Frame.label>футуристичний обеліск(будується)</AM_FuturisticObelisk_Frame.label>
+  <AM_FuturisticObelisk_Frame.description>Величезний металевий обеліск</AM_FuturisticObelisk_Frame.description>
+
+  <AM_FuturisticStele.label>футуристична стела</AM_FuturisticStele.label>
+  <AM_FuturisticStele.description>Величезна металева стела.</AM_FuturisticStele.description>
+  <AM_FuturisticStele_Blueprint.label>футуристична стела (креслення)</AM_FuturisticStele_Blueprint.label>
+  <AM_FuturisticStele_Blueprint_Install.label>футуристична стела (креслення)</AM_FuturisticStele_Blueprint_Install.label>
+  <AM_FuturisticStele_Frame.label>футуристична стела (будується)</AM_FuturisticStele_Frame.label>
+  <AM_FuturisticStele_Frame.description>Величезна металева стела.</AM_FuturisticStele_Frame.description>
+
+  <AM_FuturisticPyramid.label>велика футуристична піраміда</AM_FuturisticPyramid.label>
+  <AM_FuturisticPyramid.description>Справді колосальна металева конструкція, зовнішні поверхні якої мають трикутну форму і сходяться до єдиної сходинки вгорі.</AM_FuturisticPyramid.description>
+  <AM_FuturisticPyramid_Blueprint.label>велика футуристична піраміда (креслення)</AM_FuturisticPyramid_Blueprint.label>
+  <AM_FuturisticPyramid_Blueprint_Install.label>велика футуристична піраміда (креслення)</AM_FuturisticPyramid_Blueprint_Install.label>
+  <AM_FuturisticPyramid_Frame.label>велика футуристична піраміда (будується)</AM_FuturisticPyramid_Frame.label>
+  <AM_FuturisticPyramid_Frame.description>Справді колосальна металева конструкція, зовнішні поверхні якої мають трикутну форму і сходяться до єдиної сходинки вгорі</AM_FuturisticPyramid_Frame.description>
+
+  <AM_GreatPyramid.label>велика піраміда</AM_GreatPyramid.label>
+  <AM_GreatPyramid.description>Справді колосальна кам'яна споруда, зовнішні поверхні якої мають трикутну форму і сходяться до єдиної сходинки вгорі.</AM_GreatPyramid.description>
+  <AM_GreatPyramid_Blueprint.label>велика піраміда (креслення)</AM_GreatPyramid_Blueprint.label>
+  <AM_GreatPyramid_Blueprint_Install.label>велика піраміда (креслення)</AM_GreatPyramid_Blueprint_Install.label>
+  <AM_GreatPyramid_Frame.label>велика піраміда(будується)</AM_GreatPyramid_Frame.label>
+  <AM_GreatPyramid_Frame.description>Справді колосальна кам'яна споруда, зовнішні поверхні якої мають трикутну форму і сходяться до єдиної сходинки вгорі.</AM_GreatPyramid_Frame.description>
+
+  <AM_Sphynx.label>сфінкс</AM_Sphynx.label>
+  <AM_Sphynx.description>Справді колосальна статуя сфінкса, міфічної істоти з головою людини і тілом лева.</AM_Sphynx.description>
+  <AM_Sphynx_Blueprint.label>сфінкс (креслення)</AM_Sphynx_Blueprint.label>
+  <AM_Sphynx_Blueprint_Install.label>сфінкс (креслення)</AM_Sphynx_Blueprint_Install.label>
+  <AM_Sphynx_Frame.label>сфінкс (будується)</AM_Sphynx_Frame.label>
+  <AM_Sphynx_Frame.description>Справді колосальна статуя сфінкса, міфічної істоти з головою людини і тілом лева.</AM_Sphynx_Frame.description>
+
+  <AM_Megalith.label>мегаліт</AM_Megalith.label>
+  <AM_Megalith.description>Великий камінь, який використовувався для побудови доісторичної споруди або пам'ятника, окремо або разом з іншими каменями, часто обтесаний у певних формах для спеціальних цілей.</AM_Megalith.description>
+  <AM_Megalith_Blueprint.label>мегаліт (креслення)</AM_Megalith_Blueprint.label>
+  <AM_Megalith_Blueprint_Install.label>мегаліт (креслення)</AM_Megalith_Blueprint_Install.label>
+  <AM_Megalith_Frame.label>мегаліт (будується)</AM_Megalith_Frame.label>
+  <AM_Megalith_Frame.description>Великий камінь, який використовувався для побудови доісторичної споруди або пам'ятника, окремо або разом з іншими каменями, часто обтесаний у певних формах для спеціальних цілей.</AM_Megalith_Frame.description>
+
+
+</LanguageData>

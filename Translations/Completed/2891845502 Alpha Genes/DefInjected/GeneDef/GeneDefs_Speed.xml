@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: armoured speed -->
+  <AG_ArmouredSpeed.label>броньована швидкість</AG_ArmouredSpeed.label>
+  <!-- EN: Carriers of this gene move faster while wearing heavy armor. -->
+  <AG_ArmouredSpeed.description>Носії цього гена швидше рухаються у важких обладунках.</AG_ArmouredSpeed.description>
+  
+  <!-- EN: thermal speed -->
+  <AG_SpeedByTemperature.label>теплова швидкість</AG_SpeedByTemperature.label>
+  <!-- EN: Carriers of this gene move fast at high temperatures, at the cost of getting much more tired. Low temperatures will reduce their metabolism, making them slower, but also making them spend less energy staying awake. -->
+  <AG_SpeedByTemperature.description>Носії цього гена швидко рухаються при високих температурах, але при цьому набагато більше втомлюються. Низькі температури знижують їхній метаболізм, роблячи його повільнішим, але також змушуючи їх витрачати менше енергії на те, щоб залишатися бадьорими.</AG_SpeedByTemperature.description>
+  
+  <!-- EN: water striding -->
+  <AG_WaterStriding.label>ходіння по воді</AG_WaterStriding.label>
+  <!-- EN: Carriers of this gene move without movement penalties through water. They will ignore terrain movement costs when moving through watery terrains. -->
+  <AG_WaterStriding.description>Носії цього гена пересуваються по воді без штрафів за пересування. Вони ігноруватимуть витрати на пересування місцевістю, коли пересуваються водною місцевістю.</AG_WaterStriding.description>
+  
+</LanguageData>

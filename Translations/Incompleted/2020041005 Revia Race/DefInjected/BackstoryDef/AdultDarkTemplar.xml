@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] is a part of the higher echelons of the dark god's priesthood. Skilled with blades as much as [PAWN_pronoun] is with [PAWN_possessive] wits, [PAWN_pronoun] is as equally charismatic as [PAWN_pronoun] is dangerous. -->
+  <ReviaRaceBackstoryAdultDarkTemplar.baseDesc>[PAWN_nameDef] - частина вищих ешелонів темного жерців бога. Вправний з мечами, так само, як і з розумом, [PAWN_pronoun] так само {PAWN_gender ? харизматичний : харизматична}, як {PAWN_gender ? небезпечний : небезпечна}.</ReviaRaceBackstoryAdultDarkTemplar.baseDesc>
+  <!-- EN: Revian Dark Templar -->
+  <ReviaRaceBackstoryAdultDarkTemplar.title>Ревійський Темний Тамплієр</ReviaRaceBackstoryAdultDarkTemplar.title>
+  <!-- EN: Templar -->
+  <ReviaRaceBackstoryAdultDarkTemplar.titleShort>Тамплієр</ReviaRaceBackstoryAdultDarkTemplar.titleShort>
+  
+</LanguageData>

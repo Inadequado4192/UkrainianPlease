@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--venomous bite-->
+  <AEXP_GilaToxicBuildUp.label>отруйний укус</AEXP_GilaToxicBuildUp.label>
+  <!--{0} has been bitten to death.-->
+  <AEXP_GilaToxicBuildUp.deathMessage>{0} загинув від отруйного укусу.</AEXP_GilaToxicBuildUp.deathMessage>
+  
+  <!--venomous bite-->
+  <AEXP_RattleSnakeToxicBuildUp.label>отруйний укус</AEXP_RattleSnakeToxicBuildUp.label>
+  <!--{0} has been bitten to death.-->
+  <AEXP_RattleSnakeToxicBuildUp.deathMessage>{0} загинув від отруйного укусу.</AEXP_RattleSnakeToxicBuildUp.deathMessage>
+  
+  <!--venomous bite-->
+  <AEXP_MegascorpionToxicBuildUp.label>отруйний укус</AEXP_MegascorpionToxicBuildUp.label>
+  <!--{0} has been stung to death.-->
+  <AEXP_MegascorpionToxicBuildUp.deathMessage>{0} загинув від отруйного укусу.</AEXP_MegascorpionToxicBuildUp.deathMessage>
+</LanguageData>

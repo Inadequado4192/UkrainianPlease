@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_deityType->[reviaDeity] of [memeConcept]</li>
+    <li>reviaDeity->goddess</li>
+    <li>reviaDeity->divine rose</li>
+    <li>reviaDeity->rose</li>
+    <li>reviaDeity->mistress</li>
+    <li>reviaDeity->maiden</li>
+  -->
+  <ReviaHighNamerDeityType.rulePack.rulesStrings>
+    <li>r_deityType->[reviaDeity] з [memeConcept]</li>
+    <li>reviaDeity->богиня</li>
+    <li>reviaDeity->божественна троянда</li>
+    <li>reviaDeity->роза</li>
+    <li>reviaDeity->господарка</li>
+    <li>reviaDeity->дівиця</li>
+  </ReviaHighNamerDeityType.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityType->[reviaDeity] of [memeConcept]</li>
+    <li>reviaDeity->goddess</li>
+    <li>reviaDeity->scourge</li>
+    <li>reviaDeity->harbinger</li>
+    <li>reviaDeity->purveyor</li>
+  -->
+  <ReviaRaiderNamerDeityType.rulePack.rulesStrings>
+    <li>r_deityType->[reviaDeity] з [memeConcept]</li>
+    <li>reviaDeity->богиня</li>
+    <li>reviaDeity->лихо</li>
+    <li>reviaDeity->провісник</li>
+    <li>reviaDeity->постачальник</li>
+  </ReviaRaiderNamerDeityType.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BreadMoAM_AutomaticDrillingRig.label>Автоматична бурова установка</BreadMoAM_AutomaticDrillingRig.label>
+  <BreadMoAM_AutomaticDrillingRig.description>Проста автоматична система буріння, створена для автоматизованого видобутку руди. Видобуває руду 24/7 за умови належного живлення та розміщення на плитці з виявленим родовищем руди.</BreadMoAM_AutomaticDrillingRig.description>
+  <BreadMoAM_AutomaticDrillingRig_Blueprint.label>Автоматична бурова установка (креслення)</BreadMoAM_AutomaticDrillingRig_Blueprint.label>
+  <BreadMoAM_AutomaticDrillingRig_Blueprint_Install.label>Автоматична бурова установка (креслення)</BreadMoAM_AutomaticDrillingRig_Blueprint_Install.label>
+  <BreadMoAM_AutomaticDrillingRig_Frame.label>Автоматична бурова установка (будується)</BreadMoAM_AutomaticDrillingRig_Frame.label>
+  <BreadMoAM_AutomaticDrillingRig_Frame.description>Проста автоматична система буріння, створена для автоматизованого видобутку руди. Видобуває руду 24/7 за умови належного живлення та розміщення на плитці з виявленим родовищем руди.</BreadMoAM_AutomaticDrillingRig_Frame.description>
+
+
+</LanguageData>

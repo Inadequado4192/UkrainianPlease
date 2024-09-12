@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BreadMoAM_AncientTunnelBoringMachine.label>Древній тунельний комбайн</BreadMoAM_AncientTunnelBoringMachine.label>
+  <BreadMoAM_AncientTunnelBoringMachine.description>Іржаві залишки стародавнього тунелепрохідницького комбайна. Жахливо виглядаючий ззовні, більше схожий на піщаного черв'яка, він використовувався для проходки тунелів у горах під час будівництва. У ті часи кожен рух цього монстра змушував землю здригатися, наче від штучного землетрусу, а його вражаючий копальний диск з легкістю проходив крізь будь-який матеріал. Однак зараз його основні компоненти проржавіли та вивітрілися, і він не може функціонувати. Його знищення може дати деякі корисні ресурси.</BreadMoAM_AncientTunnelBoringMachine.description>
+  <BreadMoAM_AncientTunnelBoringMachine_Blueprint_Install.label>Древній тунельний комбайн (креслення)</BreadMoAM_AncientTunnelBoringMachine_Blueprint_Install.label>
+
+  <BreadMoAM_AncientElectricalEquipment.label>Древні електроприлади</BreadMoAM_AncientElectricalEquipment.label>
+  <BreadMoAM_AncientElectricalEquipment.description>Проіржавілі електричні прилади, що колись використовувалися у стародавніх тунелепрохідницьких комбайнах. Колись вони могли перетворювати електрику на гідравлічну енергію, приводячи в рух бурового монстра одним натисканням вимикача. Однак, оскільки основні компоненти постраждали від атмосферних впливів, вони зараз не можуть функціонувати.</BreadMoAM_AncientElectricalEquipment.description>
+  <BreadMoAM_AncientElectricalEquipment_Blueprint_Install.label>Древні електроприлади (креслення)</BreadMoAM_AncientElectricalEquipment_Blueprint_Install.label>
+
+  <BreadMoAM_AncientMineralConveyor.label>Древній конвеєр для мінералів</BreadMoAM_AncientMineralConveyor.label>
+  <BreadMoAM_AncientMineralConveyor.description>Древній пошматований конвеєр, що колись використовувався для транспортування мінералів до збагачувальних машин чи інших місць, де їх можна було б використовувати. Його основні компоненти проржавіли та вивітрилися, і зараз він не функціонує. Його знищення може дати деякі корисні ресурси..</BreadMoAM_AncientMineralConveyor.description>
+  <BreadMoAM_AncientMineralConveyor_Blueprint_Install.label>Древній конвеєр для мінералів (креслення)</BreadMoAM_AncientMineralConveyor_Blueprint_Install.label>
+
+  <BreadMoAM_AncientTunnelStructuralSupport_a.label>Древня структурна опора</BreadMoAM_AncientTunnelStructuralSupport_a.label>
+  <BreadMoAM_AncientTunnelStructuralSupport_a.description>Фрагмент старовинної тунельної опори, що використовувалася для підтримки тунелів під час будівництва, компактна, з коридором для легкого доступу робітників зверху. Більша частина каркасу проржавіла і зараз він не може нічого тримати. Його руйнування може дати деякі корисні ресурси.</BreadMoAM_AncientTunnelStructuralSupport_a.description>
+  <BreadMoAM_AncientTunnelStructuralSupport_a_Blueprint_Install.label>Древня структурна опора (креслення)</BreadMoAM_AncientTunnelStructuralSupport_a_Blueprint_Install.label>
+
+  <BreadMoAM_AncientTunnelStructuralSupport_b.label>Древня структурна опора</BreadMoAM_AncientTunnelStructuralSupport_b.label>
+  <BreadMoAM_AncientTunnelStructuralSupport_b.description>Фрагмент старовинної тунельної опори, що використовувалася для підтримки тунелів під час будівництва, компактна, з коридором для легкого доступу робітників зверху. Більша частина каркасу проржавіла і зараз він не може нічого тримати. Його руйнування може дати деякі корисні ресурси.</BreadMoAM_AncientTunnelStructuralSupport_b.description>
+  <BreadMoAM_AncientTunnelStructuralSupport_b_Blueprint_Install.label>Древня структурна опора (креслення)</BreadMoAM_AncientTunnelStructuralSupport_b_Blueprint_Install.label>
+
+  <BreadMoAM_AncientTunnelStructuralSupport_c.label>Древня структурна опора</BreadMoAM_AncientTunnelStructuralSupport_c.label>
+  <BreadMoAM_AncientTunnelStructuralSupport_c.description>Фрагмент старовинної тунельної опори, що використовувалася для підтримки тунелів під час будівництва, компактна, з коридором для легкого доступу робітників зверху. Більша частина каркасу проржавіла і зараз він не може нічого тримати. Його руйнування може дати деякі корисні ресурси.</BreadMoAM_AncientTunnelStructuralSupport_c.description>
+  <BreadMoAM_AncientTunnelStructuralSupport_c_Blueprint_Install.label>Древня структурна опора(креслення)</BreadMoAM_AncientTunnelStructuralSupport_c_Blueprint_Install.label>
+
+  <BreadMoAM_AncientMineralExports.label>Древній мінеральний відвід</BreadMoAM_AncientMineralExports.label>
+  <BreadMoAM_AncientMineralExports.description>Фрагмент древнього мінерального колектора. Його основні компоненти проржавіли та вивітрилися, і зараз він просто не функціонує. Його знищення може дати деякі корисні ресурси.</BreadMoAM_AncientMineralExports.description>
+  <BreadMoAM_AncientMineralExports_Blueprint_Install.label>Древній мінеральний відвід (креслення)</BreadMoAM_AncientMineralExports_Blueprint_Install.label>
+
+
+</LanguageData>

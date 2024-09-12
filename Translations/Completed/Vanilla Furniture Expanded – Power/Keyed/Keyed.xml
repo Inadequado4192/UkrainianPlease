@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VPE_PipesNotConnected>Труби не підключені до генератора або баків</VPE_PipesNotConnected>
+  <VPE_PipeConnectedRateStored>Газова мережа – надлишок/зберігається: {0} мл / {1} мл-д</VPE_PipeConnectedRateStored>
+  <VPE_LiquidTankStored>Збережено газу</VPE_LiquidTankStored>
+  <VPE_LiquidTankEfficiency>Ефективність бака</VPE_LiquidTankEfficiency>
+  <VPE_TankLeakage>Мінімальне витікання герметика</VPE_TankLeakage>
+  <VPE_NutrientNeeded>Споживання газу</VPE_NutrientNeeded>
+  <VPE_LiquidOutput>Видобуток газу</VPE_LiquidOutput>
+  <VPE_MustPlaceOnGasGeyser>Ця будівля повинна бути розміщена на газовому гейзері</VPE_MustPlaceOnGasGeyser>
+  <VPE_PlugHole>Засипати</VPE_PlugHole>
+  <VPE_PlugHoleDesc>Засипати гейзер або підземний ставок землею. ПОПЕРЕДЖЕННЯ: це видалить його з мапи. Робіть це, тільки якщо він більше не придатний для використання або якщо вам потрібен простір.</VPE_PlugHoleDesc>
+  <VPE_CancelPlugHole>Скасувати засипання гейзеру</VPE_CancelPlugHole>
+  <VPE_CancelPlugHoleDesc>Скасувати засипання гейзеру.</VPE_CancelPlugHoleDesc>
+  <VPE_MustPlaceAdjacentToPipe>Будівлі, що працюють на газу, повинні розташовуватися поруч з газовими трубами, а не над ними</VPE_MustPlaceAdjacentToPipe>
+  <VPE_DeconstructGasPipes>Деконструювати газову мережу</VPE_DeconstructGasPipes>
+  <VPE_DeconstructGasPipesDesc>Демонтувати лише газопроводи та підземні газопроводи</VPE_DeconstructGasPipesDesc>
+  <VPE_DisableGasPathCalculations>Вимкнути розрахунки шляху газу (для зменшення лагів)</VPE_DisableGasPathCalculations>
+  <Fluffy.GasNetwork.GasNetworkInspectString>Надлишок газу (зберігається) в мережі: {0} ({1})</Fluffy.GasNetwork.GasNetworkInspectString>
+  <Fluffy.GasNetwork.Stored>Збережено газу: {0}/{1}</Fluffy.GasNetwork.Stored>
+  <Fluffy.GasNetwork.Production>Видобуток газу: {0}</Fluffy.GasNetwork.Production>
+  <Fluffy.GasNetwork.Consumption>Споживання газу: {0}</Fluffy.GasNetwork.Consumption>
+  <Fluffy.GasNetwork.GasOff>Газ перекрито.</Fluffy.GasNetwork.GasOff>
+  <Fluffy.GasNetwork.NoNetwork>Не підключено до газової мережі.</Fluffy.GasNetwork.NoNetwork>
+  <Fluffy.GasNetwork.ValveOpen>Клапан відкритий.</Fluffy.GasNetwork.ValveOpen>
+  <Fluffy.GasNetwork.ValveClosed>Клапан закритий.</Fluffy.GasNetwork.ValveClosed>
+  <Fluffy.GasNetwork.CommandToggleGas.Label>Перемкнути потік газу</Fluffy.GasNetwork.CommandToggleGas.Label>
+  <Fluffy.GasNetwork.CommandToggleGas.Desc>Відкрити чи перекрити потік газу. Незабаром прийде поселенець, щоб перемкнути клапан.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+  <Fluffy.GasNetwork.DesiredBuffer>Цільове зберігання газу: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+  <Fluffy.GasNetwork.BufferOff>Газосховище перекрито.</Fluffy.GasNetwork.BufferOff>
+  <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Бажана одиниця виміру швидкості вітру</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+  <Fluffy.GasNetwork.Settings.Wind.Category>Імітація Вітру</Fluffy.GasNetwork.Settings.Wind.Category>
+  <VPE_RadiationProduced>Попередження: Реактор виробляє радіацію в радіусі {0} метрів</VPE_RadiationProduced>
+  <VPE_TempInReactorRoom>Температура в реакторному відділенні: {0}°C</VPE_TempInReactorRoom>
+  <VPE_TempInReactorRoomCritical>Попередження: Температура в реакторному відділенні — {0}°C</VPE_TempInReactorRoomCritical>
+  <VPE_Meltdown>Попередження: Розплавлення ядерного енергоблоку через високу температуру. Якщо не охолодити його – реактор вб'є все живе в радіусі</VPE_Meltdown>
+  <VPE_MeltdownLetterLabel>Розплавлення реактора</VPE_MeltdownLetterLabel>
+  <VPE_MeltdownLetter>Через високу температуру в реакторній кімнаті сталося часткове розплавлення реактора! До ремонту цей реактор буде надзвичайно шкідливим для життя у великому радіусі.\n\nІгнорування цього може призвести до загибелі вашого поселення за кілька годин.</VPE_MeltdownLetter>
+  <VPE_NoReactorRoom>Реакторне відділення повинно бути критим, закритим приміщенням</VPE_NoReactorRoom>
+  <VPE_MustPlaceRoofed>Ця будівля повинна бути розміщена в закритому приміщенні з дахом</VPE_MustPlaceRoofed>
+  <VPE_SoulsTime>Збережно душ для роботи протягом: </VPE_SoulsTime>
+  <VPE_Producing>Виробляє {0} В електроенергії</VPE_Producing>
+  <VPE_NotProducing>Не поглинуто жодної душі. Боги Машин зголодніли за людськими душами.</VPE_NotProducing>
+  <VPE_ToggleViolenceGenerator>Перемкнути генератор</VPE_ToggleViolenceGenerator>
+  <VPE_ToggleViolenceGeneratorDesc>Перемикання генератора між активним і неактивним станом</VPE_ToggleViolenceGeneratorDesc>
+  <VPE_GeneratorIsOff>Психічний генератор зараз вимкнений і неактивний.</VPE_GeneratorIsOff>
+  <VPE_LightningTime>Енергія блискавки зберігається протягом: </VPE_LightningTime>
+  <VPE_NotLightningProducing>Заряд блискавки вичерпано. Схоже, доведеться чекати наступної грози.</VPE_NotLightningProducing>
+  <VPE_AGasPipe>газова труба</VPE_AGasPipe>
+  <VPE_GasExplosion>Несправність в {0} призвела до вибуху газу.</VPE_GasExplosion>
+  <VPE_GasExplosionStartedFire>Несправність в {0} призвела до вибуху газу, який спричинив пожежу.</VPE_GasExplosionStartedFire>
+  <VPE_GasExplosionLostGas>Всі {0} l-d газу в газових резервуарах було втрачено в результаті сильного вибуху.</VPE_GasExplosionLostGas>
+  <VPE_GasExplosionLWasLarge>Велика кількість газу спричинила вибух значних розмірів.</VPE_GasExplosionLWasLarge>
+  <VPE_GasExplosionLWasHuge>Це дійсно величезний вибух. Вау.</VPE_GasExplosionLWasHuge>
+  <VPE_LetterLabelGasExplosion>Бум!</VPE_LetterLabelGasExplosion>
+  <VPE_PondHasFuel>У баку залишилося {0} одиниць хімпалива</VPE_PondHasFuel>
+  <VPE_PondNoFuel>Підземного ставок з хімпаливом виснажений</VPE_PondNoFuel>
+  <VPE_MustPlaceOnChemfuelPond>Насос для хімпалива повинен бути побудований на верхівці підземного ставка хімпалива</VPE_MustPlaceOnChemfuelPond>
+  <VPE_PumpProducing>Насос вироблятиме {0} одиниць хімпалива за {1}</VPE_PumpProducing>
+  <VPE_NeedsWater>Ця електростанція має бути побудована на воді</VPE_NeedsWater>
+  <VPE_NeedsDistance>Припливні електростанції мають розташовуватись з відстанню між собою не менше 40 плиток</VPE_NeedsDistance>
+  <VPE_GasUpdateNoticeLetterLabel>Оновлення геліксинової системи</VPE_GasUpdateNoticeLetterLabel>
+  <VPE_GasUpdateNoticeLetterText>Vanilla Furniture Expanded – Power було оновлено дуже важливим оновленням, що стосується газової мережі Геліксину.\n\nОригінальний код був зроблений мною (Sarg Bjornson), і він був досить недбалим, що спричиняло багато помилок і непослідовної поведінки. Завдяки дивовижному Fluffy, весь код газової мережі було переписано, і тепер вона має працювати ідеально.\n\nПРИМІТКА: оскільки більшість класів, що керують газовою мережею, було змінено, вам слід переробити всі елементи газової мережі, які ви маєте на існуючому збереженні. Ви можете замінити будівлі без витрат, перейшовши у режим розробника і увімкнувши режим Бога. Потім просто деконструюйте вашу поточну газову мережу (з усіма об'єктами на основі газу) і замініть її безкоштовно.</VPE_GasUpdateNoticeLetterText>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Behavior -->
+
+  <AM_InsectoidFuneralBehavior.spectatorFilter.description>Глядачі повинні бути живими.</AM_InsectoidFuneralBehavior.spectatorFilter.description>
+  <AM_InsectoidFuneralBehavior.roles.0.label>заклинатель комах</AM_InsectoidFuneralBehavior.roles.0.label>
+  <AM_InsectoidFuneralBehavior.roles.1.label>Тіло</AM_InsectoidFuneralBehavior.roles.1.label>
+  <AM_InsectoidFuneralBehavior.stages.1.postAction.text>{0}: Промова закінчилася, комахи забирають тіло</AM_InsectoidFuneralBehavior.stages.1.postAction.text>
+
+
+</LanguageData>

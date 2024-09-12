@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: antlers -->
+  <AG_AntlerHorns.label>роги</AG_AntlerHorns.label>
+  <!-- EN: Carriers of this gene grow two large antlers protruding from the forehead. These are not purely cosmetic, as they can be used for offensive purposes. -->
+  <AG_AntlerHorns.description>У носіїв цього гена відростають два великі роги, що виступають на лобі. Вони не є суто косметичними, оскільки можуть бути використані в наступальних цілях.</AG_AntlerHorns.description>
+  <!-- EN: Increases the carrier's dps by adding a 16 Stab damage, 2 seconds cooldown melee attack -->
+  <AG_AntlerHorns.customEffectDescriptions.0>Збільшує шкоду носія, додаючи 16 ударів колотою зброєю та 2 секунди перезарядки при атаці в ближньому бою.</AG_AntlerHorns.customEffectDescriptions.0>
+  <!-- EN: antler -->
+  <AG_AntlerHorns.symbolPack.prefixSymbols.0.symbol>ріг</AG_AntlerHorns.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: cervid -->
+  <AG_AntlerHorns.symbolPack.prefixSymbols.1.symbol>оленевий</AG_AntlerHorns.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: deer -->
+  <AG_AntlerHorns.symbolPack.prefixSymbols.2.symbol>олень</AG_AntlerHorns.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: antler -->
+  <AG_AntlerHorns.symbolPack.suffixSymbols.0.symbol>роговий</AG_AntlerHorns.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: bull horns -->
+  <AG_BullHorns.label>роги бика</AG_BullHorns.label>
+  <!-- EN: Carriers of this gene grow two large bull horns protruding from the forehead. These are not purely cosmetic, as they can be used for offensive purposes. -->
+  <AG_BullHorns.description>У носіїв цього гена виростають два великі бичачі роги, що стирчать на лобі. Вони не є суто косметичною ознакою, оскільки можуть бути використані в наступальних цілях.</AG_BullHorns.description>
+  <!-- EN: Increases the carrier's dps by adding a 16 Stab damage, 2 seconds cooldown melee attack -->
+  <AG_BullHorns.customEffectDescriptions.0>Збільшує шкоду носія, додаючи 16 ударів колотою зброєю та 2 секунди перезарядки при атаці в ближньому бою.</AG_BullHorns.customEffectDescriptions.0>
+  <!-- EN: bull -->
+  <AG_BullHorns.symbolPack.prefixSymbols.0.symbol>бик</AG_BullHorns.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: uro -->
+  <AG_BullHorns.symbolPack.prefixSymbols.1.symbol>уро</AG_BullHorns.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: oxen -->
+  <AG_BullHorns.symbolPack.prefixSymbols.2.symbol>рогатий</AG_BullHorns.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: longhorn -->
+  <AG_BullHorns.symbolPack.prefixSymbols.3.symbol>довгорогий</AG_BullHorns.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: horn -->
+  <AG_BullHorns.symbolPack.suffixSymbols.0.symbol>ріг</AG_BullHorns.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: chameleon yak horns -->
+  <AG_ChameleonYakHorns.label>роги яка-хамелеона</AG_ChameleonYakHorns.label>
+  <!-- EN: Carriers of this gene grow two curved horns protruding from the forehead. -->
+  <AG_ChameleonYakHorns.description>У носіїв цього гена виростають два вигнуті роги, що стирчать на лобі.</AG_ChameleonYakHorns.description>
+  <!-- EN: chameleon yak -->
+  <AG_ChameleonYakHorns.symbolPack.prefixSymbols.0.symbol>як-хамелеон</AG_ChameleonYakHorns.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: yak -->
+  <AG_ChameleonYakHorns.symbolPack.prefixSymbols.1.symbol>як</AG_ChameleonYakHorns.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: horn -->
+  <AG_ChameleonYakHorns.symbolPack.suffixSymbols.0.symbol>ріг</AG_ChameleonYakHorns.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: demon horns -->
+  <AG_DemonHorns.label>роги демона</AG_DemonHorns.label>
+  <!-- EN: Carriers of this gene grow two huge demon horns protruding from the forehead. These are not purely cosmetic, as they can be used for offensive purposes. -->
+  <AG_DemonHorns.description>У носіїв цього гена виростають два величезні демонічні роги, що стирчать на лобі. Вони не є суто косметичною прикрасою, оскільки можуть бути використані в наступальних цілях.</AG_DemonHorns.description>
+  <!-- EN: Increases the carrier's dps by adding a 16 Stab damage, 2 seconds cooldown melee attack -->
+  <AG_DemonHorns.customEffectDescriptions.0>Збільшує шкоду носія, додаючи 16 ударів колотою зброєю та 2 секунди перезарядки при атаці в ближньому бою.</AG_DemonHorns.customEffectDescriptions.0>
+  <!-- EN: devil -->
+  <AG_DemonHorns.symbolPack.prefixSymbols.0.symbol>диявол</AG_DemonHorns.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: demon -->
+  <AG_DemonHorns.symbolPack.prefixSymbols.1.symbol>демон</AG_DemonHorns.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: fiend -->
+  <AG_DemonHorns.symbolPack.prefixSymbols.2.symbol>нечисть</AG_DemonHorns.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: quad demon horns -->
+  <AG_DemonHornsQuadruple.label>чотири демонічні роги</AG_DemonHornsQuadruple.label>
+  <!-- EN: Carriers of this gene grow four huge demon horns protruding from the forehead. These are not purely cosmetic, as they can be used for offensive purposes. -->
+  <AG_DemonHornsQuadruple.description>У носіїв цього гена виростають чотири величезні демонічні роги, що стирчать на лобі. Вони не є суто косметичною ознакою, оскільки можуть бути використані в наступальних цілях.</AG_DemonHornsQuadruple.description>
+  <!-- EN: Increases the carrier's dps by adding a 16 Stab damage, 2 seconds cooldown melee attack -->
+  <AG_DemonHornsQuadruple.customEffectDescriptions.0>Збільшує шкоду носія, додаючи 16 ударів колотою зброєю та 2 секунди перезарядки при атаці в ближньому бою.</AG_DemonHornsQuadruple.customEffectDescriptions.0>
+  <!-- EN: devil -->
+  <AG_DemonHornsQuadruple.symbolPack.prefixSymbols.0.symbol>диявол</AG_DemonHornsQuadruple.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: demon -->
+  <AG_DemonHornsQuadruple.symbolPack.prefixSymbols.1.symbol>демон</AG_DemonHornsQuadruple.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: fiend -->
+  <AG_DemonHornsQuadruple.symbolPack.prefixSymbols.2.symbol>нечисть</AG_DemonHornsQuadruple.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: devilsheep horns -->
+  <AG_DevilsheepHorns.label>роги диявольської вівці</AG_DevilsheepHorns.label>
+  <!-- EN: Carriers of this gene grow two short sheep horns protruding from the forehead. -->
+  <AG_DevilsheepHorns.description>У носіїв цього гена виростають два коротких овечих роги, що стирчать на лобі.</AG_DevilsheepHorns.description>
+  <!-- EN: devilsheep -->
+  <AG_DevilsheepHorns.symbolPack.prefixSymbols.0.symbol>диявольська вівця</AG_DevilsheepHorns.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: sheep -->
+  <AG_DevilsheepHorns.symbolPack.prefixSymbols.1.symbol>вівця</AG_DevilsheepHorns.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: horn -->
+  <AG_DevilsheepHorns.symbolPack.suffixSymbols.0.symbol>ріг</AG_DevilsheepHorns.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: eldritch horns -->
+  <AG_EldritchHorns.label>роги ельдрича</AG_EldritchHorns.label>
+  <!-- EN: Carriers of this gene grow two huge eldritch antlers protruding from the forehead. These are not purely cosmetic, as they can be used for offensive purposes. -->
+  <AG_EldritchHorns.description>У носіїв цього гена виростають два величезні роги ельдрича, що стирчать на лобі. Вони не є суто косметичною прикрасою, оскільки можуть бути використані в наступальних цілях.</AG_EldritchHorns.description>
+  <!-- EN: Increases the carrier's dps by adding a 16 Stab damage, 2 seconds cooldown melee attack -->
+  <AG_EldritchHorns.customEffectDescriptions.0>Збільшує шкоду носія, додаючи 16 ударів колотою зброєю та 2 секунди перезарядки при атаці в ближньому бою.</AG_EldritchHorns.customEffectDescriptions.0>
+  <!-- EN: eldr -->
+  <AG_EldritchHorns.symbolPack.prefixSymbols.0.symbol>елдр</AG_EldritchHorns.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: demon -->
+  <AG_EldritchHorns.symbolPack.prefixSymbols.1.symbol>демон</AG_EldritchHorns.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: runic -->
+  <AG_EldritchHorns.symbolPack.prefixSymbols.2.symbol>рунічний</AG_EldritchHorns.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: horn crown -->
+  <AG_HornCrown.label>рогова корона</AG_HornCrown.label>
+  <!-- EN: Carriers of this gene grow a huge crown of sharp horns protruding from the forehead. These are not purely cosmetic, as they can be used for offensive purposes. -->
+  <AG_HornCrown.description>У носіїв цього гена виростає величезна корона гострих рогів, що стирчать на лобі. Вони не є суто косметичною прикрасою, оскільки можуть бути використані в наступальних цілях.</AG_HornCrown.description>
+  <!-- EN: Increases the carrier's dps by adding a 16 Stab damage, 2 seconds cooldown melee attack -->
+  <AG_HornCrown.customEffectDescriptions.0>Збільшує шкоду носія, додаючи 16 ударів колотою зброєю та 2 секунди перезарядки при атаці в ближньому бою.</AG_HornCrown.customEffectDescriptions.0>
+  <!-- EN: crowned -->
+  <AG_HornCrown.symbolPack.prefixSymbols.0.symbol>коронований</AG_HornCrown.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: horned -->
+  <AG_HornCrown.symbolPack.prefixSymbols.1.symbol>рогатий</AG_HornCrown.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: ornate eldritch horns -->
+  <AG_OrnateEldritchHorns.label>витіюваті роги ельдрича</AG_OrnateEldritchHorns.label>
+  <!-- EN: Carriers of this gene grow two huge ornate eldritch horns protruding from the forehead. -->
+  <AG_OrnateEldritchHorns.description>У носіїв цього гена виростають два величезні орнаментовані роги ельдрича, що стирчать на лобі.</AG_OrnateEldritchHorns.description>
+  <!-- EN: eldr -->
+  <AG_OrnateEldritchHorns.symbolPack.prefixSymbols.0.symbol>елдр</AG_OrnateEldritchHorns.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: demon -->
+  <AG_OrnateEldritchHorns.symbolPack.prefixSymbols.1.symbol>демон</AG_OrnateEldritchHorns.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: runic -->
+  <AG_OrnateEldritchHorns.symbolPack.prefixSymbols.2.symbol>рунічний</AG_OrnateEldritchHorns.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: rayhound tentacles -->
+  <AG_RayHoundTentacles.label>щупальця райхаунда</AG_RayHoundTentacles.label>
+  <!-- EN: Carriers of this gene grow two large rayhound tentacles protruding from the nose. -->
+  <AG_RayHoundTentacles.description>У носіїв цього гена виростають два великі щупальця райхаунда, що стирчать з носа.</AG_RayHoundTentacles.description>
+  <!-- EN: tentacle -->
+  <AG_RayHoundTentacles.symbolPack.prefixSymbols.0.symbol>щупальце</AG_RayHoundTentacles.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tenta -->
+  <AG_RayHoundTentacles.symbolPack.prefixSymbols.1.symbol>щупа</AG_RayHoundTentacles.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: c't -->
+  <AG_RayHoundTentacles.symbolPack.prefixSymbols.2.symbol>щ'п</AG_RayHoundTentacles.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: eye stalks -->
+  <AG_Stalks.label>очні стебла</AG_Stalks.label>
+  <!-- EN: Carriers of this gene have no hair, instead growing non-functional eye stalks on their head. -->
+  <AG_Stalks.description>Носії цього гена не мають волосся, натомість у них на голові ростуть нефункціональні очні стебла.</AG_Stalks.description>
+  <!-- EN: eye -->
+  <AG_Stalks.symbolPack.prefixSymbols.0.symbol>око</AG_Stalks.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ocul -->
+  <AG_Stalks.symbolPack.prefixSymbols.1.symbol>окул</AG_Stalks.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: orb -->
+  <AG_Stalks.symbolPack.prefixSymbols.2.symbol>куля</AG_Stalks.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: optic -->
+  <AG_Stalks.symbolPack.prefixSymbols.3.symbol>оптичний</AG_Stalks.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: terror mask -->
+  <AG_TerrorMask.label>маска терору</AG_TerrorMask.label>
+  <!-- EN: Carriers of this gene grow a terrifying bone mask that covers their entire face. -->
+  <AG_TerrorMask.description>Носії цього гена вирощують страхітливу кісткову маску, яка закриває все їхнє обличчя.</AG_TerrorMask.description>
+  <!-- EN: devil -->
+  <AG_TerrorMask.symbolPack.prefixSymbols.0.symbol>диявол</AG_TerrorMask.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: demon -->
+  <AG_TerrorMask.symbolPack.prefixSymbols.1.symbol>демон</AG_TerrorMask.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: fiend -->
+  <AG_TerrorMask.symbolPack.prefixSymbols.2.symbol>нечисть</AG_TerrorMask.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: upper tentacles -->
+  <AG_UpperTentacles.label>верхні щупальця</AG_UpperTentacles.label>
+  <!-- EN: Carriers of this gene grow several tentacles protruding from the forehead. -->
+  <AG_UpperTentacles.description>У носіїв цього гена виростає кілька щупалець, що стирчать на лобі.</AG_UpperTentacles.description>
+  
+</LanguageData>

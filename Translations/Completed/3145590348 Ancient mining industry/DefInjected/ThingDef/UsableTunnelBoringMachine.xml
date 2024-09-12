@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BreadMoAM_TunnelBoringMachine.label>Древній тунельний комбайн</BreadMoAM_TunnelBoringMachine.label>
+  <BreadMoAM_TunnelBoringMachine.description>Реанімований тунелебудівний комбайн. Зовні схожий на жахливого піщаного черв'яка, цей звір, може рити гори і прокладати тунелі. З величезним копальним диском спереду, ця гігантська машина готова прогризти будь-яку гору на ваш вибір. При використанні будує за собою проводку (та сталеві стіни, якщо відповідний параметр увімкнений). При необхідності його можна упакувати в коробочку та перенести на інше місце (ігрова умовність, але без неї було б туго). </BreadMoAM_TunnelBoringMachine.description>
+  <BreadMoAM_TunnelBoringMachine_Blueprint.label>Древній тунельний комбайн (креслення)</BreadMoAM_TunnelBoringMachine_Blueprint.label>
+  <BreadMoAM_TunnelBoringMachine_Blueprint_Install.label>Древній тунельний комбайн (креслення)</BreadMoAM_TunnelBoringMachine_Blueprint_Install.label>
+  <BreadMoAM_TunnelBoringMachine_Frame.label>Древній тунельний комбайн (будується)</BreadMoAM_TunnelBoringMachine_Frame.label>
+  <BreadMoAM_TunnelBoringMachine_Frame.description>Реанімований тунелебудівний комбайн. Зовні схожий на жахливого піщаного черв'яка, цей звір, може рити гори і прокладати тунелі. З величезним копальним диском спереду, ця гігантська машина готова прогризти будь-яку гору на ваш вибір. При використанні будує за собою проводку (та сталеві стіни, якщо відповідний параметр увімкнений). При необхідності його можна упакувати в коробочку та перенести на інше місце (ігрова умовність, але без неї було б туго).</BreadMoAM_TunnelBoringMachine_Frame.description>
+
+  <BreadMoAM_ElectricalEquipment.label>Електроприлади</BreadMoAM_ElectricalEquipment.label>
+  <BreadMoAM_ElectricalEquipment.description>Різні електричні прилади, що використовуються для живлення вашої тунельної бурильної машини. Вони перетворюють електроенергію в гідравлічну енергію для живлення тунелепрохідницької машини. (ДЕКОРАЦІЯ) </BreadMoAM_ElectricalEquipment.description>
+  <BreadMoAM_ElectricalEquipment_Blueprint.label>Електроприлади (креслення)</BreadMoAM_ElectricalEquipment_Blueprint.label>
+  <BreadMoAM_ElectricalEquipment_Blueprint_Install.label>Електроприлади (креслення)</BreadMoAM_ElectricalEquipment_Blueprint_Install.label>
+  <BreadMoAM_ElectricalEquipment_Frame.label>Електроприлади (будується)</BreadMoAM_ElectricalEquipment_Frame.label>
+  <BreadMoAM_ElectricalEquipment_Frame.description>Різні електричні прилади, що використовуються для живлення вашої тунельної бурильної машини. Вони перетворюють електроенергію в гідравлічну енергію для живлення тунелепрохідницької машини. (ДЕКОРАЦІЯ) </BreadMoAM_ElectricalEquipment_Frame.description>
+
+  <BreadMoAM_MineralConveyor.label>Конвеєр для мінералів</BreadMoAM_MineralConveyor.label>
+  <BreadMoAM_MineralConveyor.description>Відновлений мінеральний конвеєр. Може використовуватися для транспортування мінералів до збагачувальних машин або інших місць на вибір. (ДЕКОРАЦІЯ)</BreadMoAM_MineralConveyor.description>
+  <BreadMoAM_MineralConveyor_Blueprint.label>Конвеєр для мінералів (креслення)</BreadMoAM_MineralConveyor_Blueprint.label>
+  <BreadMoAM_MineralConveyor_Blueprint_Install.label>Конвеєр для мінералів (креслення)</BreadMoAM_MineralConveyor_Blueprint_Install.label>
+  <BreadMoAM_MineralConveyor_Frame.label>Конвеєр для мінералів (будується)</BreadMoAM_MineralConveyor_Frame.label>
+  <BreadMoAM_MineralConveyor_Frame.description>Відновлений мінеральний конвеєр. Може використовуватися для транспортування мінералів до збагачувальних машин або інших місць на вибір.(ДЕКОРАЦІЯ)</BreadMoAM_MineralConveyor_Frame.description>
+
+  <BreadMoAM_TunnelStructuralSupport_a.label>Структурна опора тунелю</BreadMoAM_TunnelStructuralSupport_a.label>
+  <BreadMoAM_TunnelStructuralSupport_a.description>Фрагмент тунельної опорної рами, що використовується для підтримки тунелів під час будівництва, компактний з коридором для легкого доступу робітників зверху.</BreadMoAM_TunnelStructuralSupport_a.description>
+  <BreadMoAM_TunnelStructuralSupport_a_Blueprint.label>Структурна опора тунелю (креслення)</BreadMoAM_TunnelStructuralSupport_a_Blueprint.label>
+  <BreadMoAM_TunnelStructuralSupport_a_Blueprint_Install.label>Структурна опора тунелю (креслення)</BreadMoAM_TunnelStructuralSupport_a_Blueprint_Install.label>
+  <BreadMoAM_TunnelStructuralSupport_a_Frame.label>Структурна опора тунелю (будується)</BreadMoAM_TunnelStructuralSupport_a_Frame.label>
+  <BreadMoAM_TunnelStructuralSupport_a_Frame.description>Фрагмент тунельної опорної рами, що використовується для підтримки тунелів під час будівництва, компактний з коридором для легкого доступу робітників зверху.</BreadMoAM_TunnelStructuralSupport_a_Frame.description>
+
+  <BreadMoAM_TunnelStructuralSupport_b.label>Структурна опора тунелю (зі сходами)</BreadMoAM_TunnelStructuralSupport_b.label>
+  <BreadMoAM_TunnelStructuralSupport_b.description>Фрагмент тунельної опорної рами, що використовується для підтримки тунелів під час будівництва, компактний з коридором для легкого доступу робітників зверху і сходами для доступу до коридору.</BreadMoAM_TunnelStructuralSupport_b.description>
+  <BreadMoAM_TunnelStructuralSupport_b_Blueprint.label>Структурна опора тунелю (зі сходами) (креслення)</BreadMoAM_TunnelStructuralSupport_b_Blueprint.label>
+  <BreadMoAM_TunnelStructuralSupport_b_Blueprint_Install.label>Структурна опора тунелю (зі сходами) (креслення)</BreadMoAM_TunnelStructuralSupport_b_Blueprint_Install.label>
+  <BreadMoAM_TunnelStructuralSupport_b_Frame.label>Структурна опора тунелю (зі сходами) (будується)</BreadMoAM_TunnelStructuralSupport_b_Frame.label>
+  <BreadMoAM_TunnelStructuralSupport_b_Frame.description>Фрагмент тунельної опорної рами, що використовується для підтримки тунелів під час будівництва, компактний з коридором для легкого доступу робітників зверху і сходами для доступу до коридору.</BreadMoAM_TunnelStructuralSupport_b_Frame.description>
+
+  <BreadMoAM_MineralExports.label>Мінеральний відвід</BreadMoAM_MineralExports.label>
+  <BreadMoAM_MineralExports.description>Мінеральний відвід, не більше, не менше.</BreadMoAM_MineralExports.description>
+  <BreadMoAM_MineralExports_Blueprint.label>Мінеральний відвід (креслення)</BreadMoAM_MineralExports_Blueprint.label>
+  <BreadMoAM_MineralExports_Blueprint_Install.label>Мінеральний відвід (креслення)</BreadMoAM_MineralExports_Blueprint_Install.label>
+  <BreadMoAM_MineralExports_Frame.label>Мінеральний відвід (будується)</BreadMoAM_MineralExports_Frame.label>
+  <BreadMoAM_MineralExports_Frame.description>Мінеральний відвід, не більше, не менше.</BreadMoAM_MineralExports_Frame.description>
+
+
+</LanguageData>

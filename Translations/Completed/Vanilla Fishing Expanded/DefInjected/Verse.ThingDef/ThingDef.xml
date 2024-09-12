@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_East.label>Частинка</VCEF_Mote_Fishing_East.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_West.label>Частинка</VCEF_Mote_Fishing_West.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_South.label>Частинка</VCEF_Mote_Fishing_South.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_North.label>Частинка</VCEF_Mote_Fishing_North.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_Mech_East.label>Частинка</VCEF_Mote_Fishing_Mech_East.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_Mech_West.label>Частинка</VCEF_Mote_Fishing_Mech_West.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_Mech_South.label>Частинка</VCEF_Mote_Fishing_Mech_South.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_Mech_North.label>Частинка</VCEF_Mote_Fishing_Mech_North.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_Mech_New_East.label>Частинка</VCEF_Mote_Fishing_Mech_New_East.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_Mech_New_West.label>Частинка</VCEF_Mote_Fishing_Mech_New_West.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_Mech_New_South.label>Частинка</VCEF_Mote_Fishing_Mech_New_South.label>
+  <!--Mote-->
+  <VCEF_Mote_Fishing_Mech_New_North.label>Частинка</VCEF_Mote_Fishing_Mech_New_North.label>
+  
+  <!--anchovy-->
+  <VCEF_RawAnchovy.label>анчоус</VCEF_RawAnchovy.label>
+  <!--Raw anchovy. A small, common forage fish of the family Engraulidae. Most species are found in marine waters, but several will enter brackish water and some are restricted to fresh water.-->
+  <VCEF_RawAnchovy.description>Сирий анчоус. Невелика, поширена кормова риба родини Engraulidae. Більшість видів зустрічається в морських водах, але деякі з них можуть заходити в солонувату воду, а деякі обмежуються прісною.</VCEF_RawAnchovy.description>
+  
+  <!--angelfish-->
+  <VCEF_RawAngelfish.label>риба-янгол</VCEF_RawAngelfish.label>
+  <!--Raw angelfish. Angelfish refers to several species of fish, both marine and freshwater, usually sporting bright colours and deep, laterally compressed bodies.-->
+  <VCEF_RawAngelfish.description>Сира риба-янгол. Риба-янгол відноситься до кількох видів риб, як морських, так і прісноводних, які зазвичай мають яскраве забарвлення і глибоке, стиснуте з боків тіло.</VCEF_RawAngelfish.description>
+  
+  <!--anglerfish-->
+  <VCEF_RawAnglerfish.label>вудильник</VCEF_RawAnglerfish.label>
+  <!--Raw anglerfish. Anglerfish are bony fish named for their characteristic mode of predation, in which, a fleshy growth from the fish's head (the esca or illicium) acts as a lure towards other fish.-->
+  <VCEF_RawAnglerfish.description>Сирий вудильник. Вудильник – це кісткова риба, названа так за характерний спосіб полювання, при якому передня частина спинного плавця над пащею (еска або ілліціум) слугує приманкою для інших риб.</VCEF_RawAnglerfish.description>
+  
+  <!--bass-->
+  <VCEF_RawBass.label>морона</VCEF_RawBass.label>
+  <!--Raw bass. Bass is a name shared by many species of fish. The term encompasses both freshwater and marine species, all belonging to the large order Perciformes.-->
+  <VCEF_RawBass.description>Сира морона. Морона – це назва багатьох видів риб. Цей термін охоплює як прісноводні, так і морські види, що належать до великого ряду Perciformes.</VCEF_RawBass.description>
+  
+  <!--catfish-->
+  <VCEF_RawCatfish.label>сом</VCEF_RawCatfish.label>
+  <!--Raw catfish. Catfish are a diverse group of ray-finned fish. Named for their prominent barbels, which resemble a cat's whiskers.-->
+  <VCEF_RawCatfish.description>Сирий сом. Сом – прісноводна донна річкова риба, що живе на глибоких ділянках річок, глибоких протоках і старицях, в озерах і водосховищах, також у солонуватих водах лиманів.</VCEF_RawCatfish.description>
+  
+  <!--clownfish-->
+  <VCEF_RawClownfish.label>риба-клоун</VCEF_RawClownfish.label>
+  <!--Raw clownfish. In the wild, clownfish form symbiotic mutualisms with sea anemones. Depending on species, clownfish are overall yellow, orange, or a reddish or blackish color, and many show white bars or patches.-->
+  <VCEF_RawClownfish.description>Сира риба-клоун. У дикій природі риби-клоуни утворюють симбіотичні взаємини з морськими анемонами. Залежно від виду, риби-клоуни мають жовте, помаранчеве, червонувате або чорнувате забарвлення, а багато з них мають білі смуги або плями.</VCEF_RawClownfish.description>
+  
+  <!--cod-->
+  <VCEF_RawCod.label>тріска</VCEF_RawCod.label>
+  <!--Raw cod. Cod refers to several large species of fish with a voracious appetite, feeding largely on other fishes and various invertebrates. Cod has long been considered a perfect fish for human consumption, with its flaky white flesh, a high protein content and low fat content.-->
+  <VCEF_RawCod.description>Сира тріска. Тріска відноситься до кількох великих видів риб з ненажерливим апетитом, що харчуються переважно іншими рибами і різними безхребетними. Тріска здавна вважалася ідеальною рибою для споживання людиною, з її білим м'ясом, що лущиться, високим вмістом білка і низьким вмістом жиру.</VCEF_RawCod.description>
+  
+  <!--eel-->
+  <VCEF_RawEel.label>вугор</VCEF_RawEel.label>
+  <!--Raw eel. An eel is any ray-finned fish belonging to the order Anguilliformes. Eels are elongated fish, possessing no pelvic fins, and many species also lacking pectoral fins. Eels swim by generating body waves which travel the length of their bodies.-->
+  <VCEF_RawEel.description>Сирий вугор. Вугор – це будь-яка променепера риба, що належить до ряду Anguilliformes. Вугри – риби витягнутої форми, у них відсутні черевні плавники, а у багатьох видів також відсутні грудні плавники. Вугор плаває, створюючи тілом хвилі, які поширюються по всій довжині його тіла.</VCEF_RawEel.description>
+  
+  <!--goldfish-->
+  <VCEF_RawGoldfish.label>золота рибка</VCEF_RawGoldfish.label>
+  <!--Raw goldfish. The goldfish (Carassius auratus) is a freshwater fish in the family Cyprinidae of order Cypriniformes. It is one of the most commonly kept aquarium fish.-->
+  <VCEF_RawGoldfish.description>Сира золота рибка. Золота рибка (Carassius auratus) – прісноводна риба з родини Cyprinidae, ряду Cypriniformes. Це одна з найпоширеніших акваріумних рибок.</VCEF_RawGoldfish.description>
+  
+  <!--guppy-->
+  <VCEF_RawGuppy.label>гупі</VCEF_RawGuppy.label>
+  <!--Raw guppy. The guppy (Poecilia reticulata), also known as millionfish and rainbow fish, is one of the world's most widely distributed tropical fish, and one of the most popular freshwater aquarium fish species.-->
+  <VCEF_RawGuppy.description>Сира гупі. Гупі (Poecilia reticulata), також відома як риба-мільйонер або сітчаста пецилія, є однією з найбільш поширених у світі тропічних риб і одним з найпопулярніших видів прісноводних акваріумних риб.</VCEF_RawGuppy.description>
+  
+  <!--haddock-->
+  <VCEF_RawHaddock.label>пікша</VCEF_RawHaddock.label>
+  <!--Raw haddock. The haddock (Melanogrammus aeglefinus) is a saltwater fish from the family Gadidae, the true cods. It is an important food fish and has traditionaly been consumed either fresh or smoked.-->
+  <VCEF_RawHaddock.description>Сира пікша. Пікша (Melanogrammus aeglefinus) – це морська риба з родини Gadidae. Це важлива харчова риба, яку традиційно вживають у свіжому або копченому вигляді.</VCEF_RawHaddock.description>
+  
+  <!--halibut-->
+  <VCEF_RawHalibut.label>палтус</VCEF_RawHalibut.label>
+  <!--Raw halibut. Halibut is a common name principally applied to the two flatfish from the family of right-eye flounders. Less commonly, and in some regions only, other species of flatfish are also referred to as being halibuts.-->
+  <VCEF_RawHalibut.description>Сирий палтус. Палтус – це загальна назва чотирьох риб із родів камбалових. Рідше, і тільки в деяких регіонах, інші види камбали також називають палтусами.</VCEF_RawHalibut.description>
+  
+  <!--herring-->
+  <VCEF_RawHerring.label>оселедець</VCEF_RawHerring.label>
+  <!--Raw herring. Herring are forage fish, mostly belonging to the family Clupeidae. Herring often move in large schools around fishing banks and near the coast.-->
+  <VCEF_RawHerring.description>Сирий оселедець. Оселедець – це кормова риба, яка здебільшого належить до родини Clupeidae. Оселедці часто пересуваються великими косяками навколо рибальських берегів і біля узбережжя.</VCEF_RawHerring.description>
+  
+  <!--koi-->
+  <VCEF_RawKoi.label>парчевий короп</VCEF_RawKoi.label>
+  <!--Raw koi. Koi are colored varieties of the Amur carp (Cyprinus rubrofuscus) that are kept for decorative purposes in outdoor koi ponds or water gardens.-->
+  <VCEF_RawKoi.description>Сирий парчевий короп. Парчеві коропи - це кольорові різновиди амурського коропа (Cyprinus rubrofuscus), які утримуються в декоративних цілях у відкритих ставках або водних садах.</VCEF_RawKoi.description>
+  
+  <!--lobster-->
+  <VCEF_RawLobster.label>лобстер</VCEF_RawLobster.label>
+  <!--Raw lobster. Lobsters are large marine crustaceans. Lobsters have long bodies with muscular tails. Three of their five pairs of legs have claws, including the first pair, which are usually much larger than the others.-->
+  <VCEF_RawLobster.description>Сирий лобстер. Лобстери – великі морські ракоподібні. Лобстери мають довге тіло із м'язистим хвостом. Три з п'яти пар ніг мають клешні, включаючи першу пару, яка зазвичай набагато більша за інші.</VCEF_RawLobster.description>
+  
+  <!--mackerel-->
+  <VCEF_RawMackerel.label>скумбрія</VCEF_RawMackerel.label>
+  <!--Raw mackerel. Mackerel is a common name applied to a number of different species of pelagic fish, mostly from the family Scombridae. They are found in both temperate and tropical seas, mostly living along the coast or offshore in the oceanic environment.-->
+  <VCEF_RawMackerel.description>Сира скумбрія. Скумбрія – це загальна назва, що застосовується до ряду різних видів пелагічних риб, переважно з родини Scombridae. Вони зустрічаються як в помірних, так і в тропічних морях, в основному живуть уздовж узбережжя або на шельфі в океанічному середовищі.</VCEF_RawMackerel.description>
+  
+  <!--minnow-->
+  <VCEF_RawMinnow.label>мересниця</VCEF_RawMinnow.label>
+  <!--Raw minnow. Minnow is the common name for a number of species of small freshwater fish, belonging to several genera of the family Cyprinidae.-->
+  <VCEF_RawMinnow.description>Сира мересниця. Мересниця – загальна назва ряду видів дрібних прісноводних риб, що належать до кількох родів родини Cyprinidae.</VCEF_RawMinnow.description>
+  
+  <!--perch-->
+  <VCEF_RawPerch.label>окунь</VCEF_RawPerch.label>
+  <!--Raw perch. Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae. The perch lend their name to a large order of vertebrates: the Perciformes. Many species of freshwater gamefish more or less resemble perch, but belong to different genera.-->
+  <VCEF_RawPerch.description>Сирий окунь. Окунь – загальна назва риб роду Perca, прісноводних промислових риб, що належать до родини Percidae. Окуні дають назву великому ряду хребетних тварин - Perciformes. Багато видів прісноводних мисливських риб більш-менш схожі на окуня, але належать до різних родів.</VCEF_RawPerch.description>
+  
+  <!--piranha-->
+  <VCEF_RawPiranha.label>піранья</VCEF_RawPiranha.label>
+  <!--Raw piranha. A piranha is a freshwater fish that inhabits rivers, floodplains, lakes and reservoirs. Although often described as extremely predatory and mainly feeding on fish, their dietary habits vary extensively, and they will also take plant material, leading to their classification as omnivorous.-->
+  <VCEF_RawPiranha.description>Сира піранья. Піранья – прісноводна риба, яка мешкає в річках, заплавах, озерах і водосховищах. Хоча їх часто описують як надзвичайно хижих і таких, що харчуються переважно рибою, їхні харчові звички дуже різноманітні, і вони також можуть поїдати рослинний матеріал, що дозволяє класифікувати їх як всеїдних.</VCEF_RawPiranha.description>
+  
+  <!--pufferfish-->
+  <VCEF_RawPufferfish.label>риба-колючка</VCEF_RawPufferfish.label>
+  <!--Raw pufferfish. Pufferfish are a family of primarily marine and estuarine fish. The majority of pufferfish species are toxic and some are among the most poisonous vertebrates in the world. In certain species, the internal organs, such as the liver, and sometimes their skin, contain tetrodotoxin and are highly toxic to most animals when eaten; nevertheless, the meat of some species is considered a delicacy when prepared by specially trained chefs.-->
+  <VCEF_RawPufferfish.description>Сира риба-колючка. Скелезубові – родина променеперих риб ряду Tetraodontiformes. Більшість видів риб є отруйними, а деякі з них належать до найбільш отруйних хребетних тварин у світі. У деяких видів внутрішні органи, такі як печінка, а іноді і шкіра, містять тетродотоксин і при вживанні в їжу є дуже токсичними для більшості тварин; тим не менш, м'ясо деяких видів вважається делікатесом, коли його готують спеціально навчені кухарі.</VCEF_RawPufferfish.description>
+  
+  <!--salmon-->
+  <VCEF_RawSalmon.label>лосось</VCEF_RawSalmon.label>
+  <!--Raw salmon. Salmon is the common name for several species of ray-finned fish in the family Salmonidae. Typically, salmon are anadromous: they hatch in fresh water, migrate to the ocean, then return to fresh water to reproduce. However, populations of several species are restricted to fresh water through their lives.-->
+  <VCEF_RawSalmon.description>Сирий лосось. Лосось – загальна назва кількох видів променеперих риб родини Salmonidae. Зазвичай лососі є анадромними: вони вилуплюються у прісній воді, мігрують до океану, а потім повертаються до прісної води для розмноження. Однак популяції деяких видів обмежені прісною водою протягом усього життя.</VCEF_RawSalmon.description>
+  
+  <!--sprat-->
+  <VCEF_RawSprat.label>кілька</VCEF_RawSprat.label>
+  <!--Raw sprat. Sprat is the common name applied to a group of forage fish belonging to the genus Sprattus in the family Clupeidae. Like most forage fishes, sprats are highly active, small, oily fish. They travel in large schools with other fish and swim continuously throughout the day.-->
+  <VCEF_RawSprat.description>Сира кілька. Кілька – загальна назва групи кормових риб, що належать до роду Sprattus родини Clupeidae. Як і більшість кормових риб, шпроти – дуже активні, невеликі, жирні риби. Вони подорожують великими зграями разом з іншими рибами і безперервно плавають протягом дня.</VCEF_RawSprat.description>
+  
+  <!--swordfish-->
+  <VCEF_RawSwordfish.label>риба-меч</VCEF_RawSwordfish.label>
+  <!--Raw swordfish. Swordfish, also known as broadbills, are large, highly migratory, predatory fish characterized by a long, flat, pointed bill.-->
+  <VCEF_RawSwordfish.description>Сира риба-меч. Риба-меч, також відома як Мечорил, – це велика, далеко мігруюча, хижа риба, що характеризується довгою, пласкою, загостреною пащею.</VCEF_RawSwordfish.description>
+  
+  <!--trout-->
+  <VCEF_RawTrout.label>форель</VCEF_RawTrout.label>
+  <!--Raw trout. Trout is the common name for a number of species of freshwater fish. Most species of trout live in freshwater lakes and rivers exclusively, while there are others, such as the steelhead, which can spend two or three years at sea before returning to fresh water to spawn (a habit more typical of salmon).-->
+  <VCEF_RawTrout.description>Сира форель. Форель – загальна назва для кількох видів прісноводних риб. Більшість видів форелі живуть виключно в прісних озерах і річках, але є й інші, такі як севрюга, яка може провести два-три роки в морі, перш ніж повернутися в прісну воду для нересту (ця звичка більш характерна для лосося).</VCEF_RawTrout.description>
+  
+  <!--tuna-->
+  <VCEF_RawTuna.label>тунець</VCEF_RawTuna.label>
+  <!--Raw tuna. Tuna are large saltwater fish. An active and agile predator, the tuna has a sleek, streamlined body, and is among the fastest-swimming pelagic fish. Tuna has been highly prized as a food fish. Besides their commercial value as food, the great size, speed, and power they display as apex predators has attracted the admiration of fishermen, writers, and scientists.-->
+  <VCEF_RawTuna.description>Сирий тунець. Тунець – велика морська риба. Активний і спритний хижак, тунець має гладке, обтічне тіло і є однією з найшвидше плаваючих пелагічних риб. Тунець високо цінується як харчова риба. Окрім комерційної цінності тунця як продукту харчування, його великі розміри, швидкість і сила, які він демонструє як вищий хижак, викликають захоплення рибалок, письменників і науковців.</VCEF_RawTuna.description>
+</LanguageData>

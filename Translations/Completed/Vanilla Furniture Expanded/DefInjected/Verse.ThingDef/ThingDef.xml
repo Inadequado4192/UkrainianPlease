@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <Bed_StoneSlab.label>ліжко-плита</Bed_StoneSlab.label>
+  <Bed_StoneSlab.description>Велика плита з гладкого каменю, дуже незручна і лише трохи краща, ніж сон на підлозі.</Bed_StoneSlab.description>
+
+  <Bed_Simple.label>просте ліжко</Bed_Simple.label>
+  <Bed_Simple.description>Деяк зручний матрац та подушка на міцному каркасі.</Bed_Simple.description>
+
+  <Seat_Cushion.label>подушка для сидіння</Seat_Cushion.label>
+  <Seat_Cushion.description>Проста подушка для сидіння, популярна серед племен. Можна використовувати за столами, на робочих місцях тощо.</Seat_Cushion.description>
+
+  <Seat_Bench.label>лавка</Seat_Bench.label>
+  <Seat_Bench.description>Проста довга платформа, на якій можуть сидіти кілька людей одночасно, не дуже зручна, але набагато краща, ніж нічого. Можна використовувати за столами, на робочих місцях тощо.</Seat_Bench.description>
+
+  <Seat_SquareChair.label>квадратний стілець</Seat_SquareChair.label>
+  <Seat_SquareChair.description>Зручний та привабливий стілець, зазвичай не використовується в їдальнях. Можна використовувати за столами, на робочих місцях тощо.</Seat_SquareChair.description>
+
+  <Table_1x1c.label>стіл (1x1)</Table_1x1c.label>
+  <Table_1x1c.description>Люди їдять за столами, коли стільці ставлять напроти них.</Table_1x1c.description>
+
+  <Table_Counter.label>стільниця</Table_Counter.label>
+  <Table_Counter.description>Гладка поверхня висотою до пояса, з якої можна їсти, часто зустрічається на кухнях і в барах.</Table_Counter.description>
+
+  <Stone_Campfire.label>вогнище</Stone_Campfire.label>
+  <Stone_Campfire.description>Готує їжу, але виробляє менше тепла та більше світла, згорає повільніше, ніж стандартне багаття. Як і всі джерела тепла, його потрібно розміщувати в приміщенні, щоб мати закритий простір для обігріву. Заправний.</Stone_Campfire.description>
+
+  <Table_LightEndTable.label>тумбочка з лампою</Table_LightEndTable.label>
+  <Table_LightEndTable.description>Маленька тумбочка з лампою, яка додає комфорту сусіднім ліжкам. Повинна розташовуватися безпосередньо біля узголів'я ліжка. Розміщення більше однієї тумби біля одного ліжка не має жодного ефекту.</Table_LightEndTable.description>
+
+  <Radio_Industrial.label>промислове радіо</Radio_Industrial.label>
+  <Radio_Industrial.description>Старий пристрій з минулої епохи, він здатен вловлювати радіохвилі та відтворювати їх. Навіть на периферіях часто можна зустріти старий передавач або самотню радіостанцію, яка щось транслює.</Radio_Industrial.description>
+
+  <Radio_Spacer.label>LW-радіо</Radio_Spacer.label>
+  <Radio_Spacer.description>Високотехнологічний радіоприймач, здатний вловлювати дуже слабкі сигнали і відтворювати їх з кристально чистою якістю.</Radio_Spacer.description>
+
+  <Joy_Arcade.label>аркадний автомат</Joy_Arcade.label>
+  <Joy_Arcade.description>Висока шафа, що містить невеликий катодно-променевий дисплей і панель керування для гри в різноманітні попередньо встановлені ігри.</Joy_Arcade.description>
+
+  <Joy_InudstrialComputer.label>старий комп'ютер</Joy_InudstrialComputer.label>
+  <Joy_InudstrialComputer.description>Стаціонарний комп'ютер старої конструкції, дуже неефективний і схильний до збоїв. Дає незначний бонус до навчання після використання.</Joy_InudstrialComputer.description>
+
+  <Joy_ModernComputer.label>сучасний комп'ютер</Joy_ModernComputer.label>
+  <Joy_ModernComputer.description>Високотехнологічний комп'ютер з рідкокристалічним монітором та більш продуктивними деталями, які менш схильні до збоїв. Дає бонус до навчання після використання.</Joy_ModernComputer.description>
+
+  <Joy_Piano.label>піаніно</Joy_Piano.label>
+  <Joy_Piano.description>Велике піаніно, на якому можна займатися, досить привабливе. Це чудовий спосіб розвинути художній талант.</Joy_Piano.description>
+
+  <Joy_RouletteTable.label>стіл для рулетки</Joy_RouletteTable.label>
+  <Joy_RouletteTable.description>Обрамлений стіл з м'якою стільницею та колесом для гри в рулетку, хороший спосіб потренувати свої соціальні навички та удачу.</Joy_RouletteTable.description>
+
+  <Joy_DartsBoard.label>дошка для дартсу</Joy_DartsBoard.label>
+  <Joy_DartsBoard.description>Популярна гра, що полягає в метанні дротиків у круглу мішень, вона розслабляє і тренує навички стрільби з більшою швидкістю, ніж підкови або обручі.</Joy_DartsBoard.description>
+
+  <Joy_PunchingBag.label>боксерська груша</Joy_PunchingBag.label>
+  <Joy_PunchingBag.description>Набита тканиною боксерська груша, на яку можна виплеснути злість. Може заспокоювати нерви і допомагає тренувати навички рукопашного бою.</Joy_PunchingBag.description>
+
+  <Light_Streetlamp.label>вуличний ліхтар</Light_Streetlamp.label>
+  <Light_Streetlamp.description>Високий електричний ліхтар, який освітлює певну зону. Може бути розміщений на вулиці без ризику загоряння, що робить його ідеальним для освітлення доріг. Вмикається виключно вночі.</Light_Streetlamp.description>
+  <Light_Streetlamp.comps.CompSchedule.offMessage>Вимкнений у денний час</Light_Streetlamp.comps.CompSchedule.offMessage>
+  
+  <Misc_FileCabinet.label>картотека</Misc_FileCabinet.label>
+  <Misc_FileCabinet.description>Елемент інтер'єру, який використовується для організації документів і записів у паперовій формі. Це допоможе вам швидше проводити наукові дослідження.</Misc_FileCabinet.description>
+  
+  <Shelf_WeaponRack.label>стійка для зброї</Shelf_WeaponRack.label>
+  <Shelf_WeaponRack.description>Надміцний стелаж для зберігання зброї. Зброя, що зберігається в ньому, не зіпсується, навіть якщо буде знаходитись на вулиці.</Shelf_WeaponRack.description>
+  
+  <Bin_Small.label>смітник</Bin_Small.label>
+  <Bin_Small.description>Невеликий смітник, який допомагає підтримувати територію навколо нього в чистоті. Повільно прибирає сміття та бруд у радіусі 10 клітин.</Bin_Small.description>
+  
+  <Bin_Large.label>контейнер для сміття</Bin_Large.label>
+  <Bin_Large.description>Великий сміттєвий бак, який допомагає підтримувати територію навколо нього в чистоті. Повільно прибирає сміття та бруд у радіусі 20 клітин.</Bin_Large.description>
+  
+  <Bed_Ergonomic.label>ергономічне ліжко</Bed_Ergonomic.label>
+  <Bed_Ergonomic.description>Ергономічне ліжко для підтримки хребта, розподілу ваги тіла та покращення якості сну.</Bed_Ergonomic.description>
+  
+  <Bed_DoubleErgonomic.label>ергономічне двоспальне ліжко</Bed_DoubleErgonomic.label>
+  <Bed_DoubleErgonomic.description>Ергономічне ліжко для підтримки хребта, розподілу ваги тіла та покращення якості сну. Розраховане на двох людей.</Bed_DoubleErgonomic.description>
+  
+  <Table_Wardrobe.label>гардероб</Table_Wardrobe.label>
+  <Table_Wardrobe.description>Висока шафа для зберігання одягу та інших речей. Дає невеликий бонус до ефективності сну для всіх сусідніх ліжок. Розміщення більше одного гардеробу біля одного ліжка не має жодного ефекту.</Table_Wardrobe.description>
+  
+  <Seat_ModernChair.label>ергономічний стілець</Seat_ModernChair.label>
+  <Seat_ModernChair.description>Гнучкий ергономічний стілець, розроблений, щоб відповідати вигинам людського тіла, покращуючи комфорт.</Seat_ModernChair.description>
+  
+  <Bed_Kingsize.label>королівське ліжко</Bed_Kingsize.label>
+  <Bed_Kingsize.description>Ліжко, гідне короля, врівень з, інкрустованими золотом, стійками та високим підголовником. Надзвичайно зручне і красиве, це справжня розкіш. Розраховане на двох людей.</Bed_Kingsize.description>
+  
+  <Table_RoyalEndTable.label>королівська тумба</Table_RoyalEndTable.label>
+  <Table_RoyalEndTable.description>Маленька тумбочка, прикрашена розкішною золотою фурнітурою, яка додає комфорту сусіднім ліжкам. Повинна розташовуватися безпосередньо біля узголів'я ліжка. Розміщення більше однієї тумби біля одного ліжка не має жодного ефекту.</Table_RoyalEndTable.description>
+  
+  <Table_RoyalDresser.label>королівський комод</Table_RoyalDresser.label>
+  <Table_RoyalDresser.description>Розкішний комод, прикрашений масивним золотом і елегантний за дизайном, яка додає комфорту сусіднім ліжкам. Розміщення більше однієї тумби біля одного ліжка не має жодного ефекту.</Table_RoyalDresser.description>
+  
+  <Seat_RoyalChair.label>королівський стілець</Seat_RoyalChair.label>
+  <Seat_RoyalChair.description>Зручне м'яке сидіння з високою спинкою в золотому обрамленні. Можна використовувати за столами, на робочих місцях тощо.</Seat_RoyalChair.description>
+  
+  <Seat_RoyalArmchair.label>королівське крісло</Seat_RoyalArmchair.label>
+  <Seat_RoyalArmchair.description>Велике, м'яке, розкішне сидіння. Встановлене в золотий каркас, тільки для найбагатших еліт. Можна використовувати за столами, на робочих місцях тощо.</Seat_RoyalArmchair.description>
+
+  <Table_Royal1x1c.label>королівський стіл (1x1)</Table_Royal1x1c.label>
+  <Table_Royal1x1c.description>Вражаючий на вигляд стіл, за яким можна їсти, із золотим зовнішнім оздобленням і закругленими кінцями, що підходить для заможних людей.</Table_Royal1x1c.description>
+  
+  <Table_Royal2x2c.label>королівський стіл (2x2)</Table_Royal2x2c.label>
+  <Table_Royal2x2c.description>Вражаючий на вигляд стіл, за яким можна їсти, із золотим зовнішнім оздобленням і закругленими кінцями, що підходить для заможних людей.</Table_Royal2x2c.description>
+  
+  <Table_Royal1x2c.label>королівський стіл (1x2)</Table_Royal1x2c.label>
+  <Table_Royal1x2c.description>Вражаючий на вигляд стіл, за яким можна їсти, із золотим зовнішнім оздобленням і закругленими кінцями, що підходить для заможних людей.</Table_Royal1x2c.description>
+ 
+  <Table_Royal3x3c.label>королівський стіл (3x3)</Table_Royal3x3c.label>
+  <Table_Royal3x3c.description>Вражаючий на вигляд стіл, за яким можна їсти, із золотим зовнішнім оздобленням і закругленими кінцями, що підходить для заможних людей.</Table_Royal3x3c.description>
+  
+  <Table_Royal2x4c.label>королівський стіл (2x4)</Table_Royal2x4c.label>
+  <Table_Royal2x4c.description>Вражаючий на вигляд стіл, за яким можна їсти, із золотим зовнішнім оздобленням і закругленими кінцями, що підходить для заможних людей.</Table_Royal2x4c.description>
+  
+  <Mote_HoldingChips.label>Mote</Mote_HoldingChips.label>
+  <Mote_HoldingGloves.label>Mote</Mote_HoldingGloves.label>
+  <Mote_FlyingDart.label>Mote</Mote_FlyingDart.label>
+  <Mote_MusicalNoteA.label>Mote</Mote_MusicalNoteA.label>
+</LanguageData>

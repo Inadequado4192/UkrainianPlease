@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<VFE_Mechanoids_Power.label>Заряд</VFE_Mechanoids_Power.label>
+	<VFE_Mechanoids_Power.description>Заряд відображає стан внутрішнього акумулятора машини. Якщо він стає занадто низьким, машина припиняє виконання завдань і повертається на свою станцію для підзарядки</VFE_Mechanoids_Power.description>
+</LanguageData>

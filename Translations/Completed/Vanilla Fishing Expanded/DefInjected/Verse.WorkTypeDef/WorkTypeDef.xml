@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Catch fish in designated work zones.-->
+  <VCEF_Fishing.description>Виловлює рибу у визначених зонах.</VCEF_Fishing.description>
+  <!--fishing-->
+  <VCEF_Fishing.gerundLabel>рибалити</VCEF_Fishing.gerundLabel>
+  <!--Fish-->
+  <VCEF_Fishing.labelShort>Рибалка</VCEF_Fishing.labelShort>
+  <!--Fisher-->
+  <VCEF_Fishing.pawnLabel>Рибалка</VCEF_Fishing.pawnLabel>
+  <!--Fish-->
+  <VCEF_Fishing.verb>Рибалити</VCEF_Fishing.verb>
+</LanguageData>

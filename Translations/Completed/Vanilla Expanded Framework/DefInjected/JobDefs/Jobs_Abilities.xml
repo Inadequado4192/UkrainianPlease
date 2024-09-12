@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <VFEA_UseAbilityUninterruptible.reportString>Кастує.</VFEA_UseAbilityUninterruptible.reportString>
+  <VFEA_UseAbility.reportString>Кастує.</VFEA_UseAbility.reportString>
+  <VFEA_GotoTargetAndUseAbility.reportString>Кастує.</VFEA_GotoTargetAndUseAbility.reportString>
+  <VFEA_StandAndFaceTarget.reportString>стоїть.</VFEA_StandAndFaceTarget.reportString>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFEV_RaidRestlessness.stages.Restless_x0.label>{PAWN_gender ? Невгамовний : Невгамовна} (x0)</VFEV_RaidRestlessness.stages.Restless_x0.label>
+  <VFEV_RaidRestlessness.stages.Restless_x0.description>Ми повинні почати планувати наступний рейд.</VFEV_RaidRestlessness.stages.Restless_x0.description>
+  
+  <VFEV_RaidRestlessness.stages.Restless_x1.label>{PAWN_gender ? Невгамовний : Невгамовна} (x1)</VFEV_RaidRestlessness.stages.Restless_x1.label>
+  <VFEV_RaidRestlessness.stages.Restless_x1.description>Тепер мандрувати буде легко, ми зможемо легко пограбувати цих слабаків.</VFEV_RaidRestlessness.stages.Restless_x1.description>
+  
+  <VFEV_RaidRestlessness.stages.Restless_x2.label>{PAWN_gender ? Невгамовний : Невгамовна} (x2)</VFEV_RaidRestlessness.stages.Restless_x2.label>
+  <VFEV_RaidRestlessness.stages.Restless_x2.description>Чому наш гурт стає таким сумирним? Слабкі повинні боятися сильних – Ми повинні напасти на наших ворогів якнайшвидше.</VFEV_RaidRestlessness.stages.Restless_x2.description>
+  
+  <VFEV_RaidRestlessness.stages.Restless_x3.label>{PAWN_gender ? Невгамовний : Невгамовна} (x3)</VFEV_RaidRestlessness.stages.Restless_x3.label>
+  <VFEV_RaidRestlessness.stages.Restless_x3.description>Стільки розкоші на кінчиках наших пальців, але ми занадто боягузливі, щоб вбити наших ворогів і забрати їхні багатства?</VFEV_RaidRestlessness.stages.Restless_x3.description>
+  
+  <VFEV_RaidRestlessness.stages.Restless_x4.label>{PAWN_gender ? Невгамовний : Невгамовна} (x4)</VFEV_RaidRestlessness.stages.Restless_x4.label>
+  <VFEV_RaidRestlessness.stages.Restless_x4.description>У мене вже немає надії – ми не можемо так продовжувати, я боюся, що про наш народ та історію ніколи не пам'ятатимуть.</VFEV_RaidRestlessness.stages.Restless_x4.description>
+</LanguageData>

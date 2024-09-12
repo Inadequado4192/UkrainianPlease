@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was conscripted at a young age to be toughened up to be a part of the Revian war machine. -->
+  <ReviaRaceBackstoryChildConscript.baseDesc>[PAWN_nameDef] був призваний на службу в молодому віці, щоб зміцнитись та стати частиною військової машини Ревії.</ReviaRaceBackstoryChildConscript.baseDesc>
+  <!-- EN: Revian Conscript -->
+  <ReviaRaceBackstoryChildConscript.title>Ревійський Національний</ReviaRaceBackstoryChildConscript.title>
+  <!-- EN: Conscript -->
+  <ReviaRaceBackstoryChildConscript.titleShort>Національний</ReviaRaceBackstoryChildConscript.titleShort>
+  
+</LanguageData>

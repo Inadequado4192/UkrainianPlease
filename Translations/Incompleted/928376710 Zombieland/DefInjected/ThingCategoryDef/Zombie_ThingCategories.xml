@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: zombies -->
+    <Zombies.label>зомбі</Zombies.label>
+    <!-- EN: serum -->
+    <ZombieSerum.label>сироватка</ZombieSerum.label>
+</LanguageData>

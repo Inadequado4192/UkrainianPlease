@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <inForAPenny.label>Проєкт «Стіна»</inForAPenny.label>
+  <inForAPenny.description>Накопичити багатство колонії до 100,000</inForAPenny.description>
+
+  <inForAPound.label>Велике Будівництво</inForAPound.label>
+  <inForAPound.description>Накопичити багатство колонії до 1,000,000</inForAPound.description>
+</LanguageData>

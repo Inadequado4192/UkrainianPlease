@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- <BasicProsthetics.label>Основи протезування</BasicProsthetics.label>
+    <BasicProsthetics.description>Розуміння форми ноги та поєднання цих знань з базовою обробкою дерева дозволяє створювати дерев'яні ноги та інші прості протези.</BasicProsthetics.description> -->
+    
+    <!-- <SimpleProsthetics.label>Прості протези</SimpleProsthetics.label>
+    <SimpleProsthetics.description>Складні дослідження анатомії людини в поєднанні з металургійними знаннями дозволяють створювати прості протези.</SimpleProsthetics.description> -->
+    
+    <Prosthetics.label>Протезування</Prosthetics.label>
+    <Prosthetics.description>Виготовлення недорогих протезів для заміни втрачених кінцівок. Потребує кваліфікованого лікаря для приєднання.</Prosthetics.description>
+    
+    <Bionics.label>Біоніка</Bionics.label>
+    <Bionics.description>Відкриття принципів роботи дуже малих двигунів та електричних кола відкриває перед вами новий рівень створення протезів!</Bionics.description>
+    
+    <SurrogateOrgans.label>Штучні органи</SurrogateOrgans.label>
+    <SurrogateOrgans.description>Розширення медичних знань дозволяє створювати прості штучні органи, які можуть замінювати відсутні.</SurrogateOrgans.description>
+    
+    <RibReplacements.label>Заміна ребер</RibReplacements.label>
+    <RibReplacements.description>Ви відкриваєте дуже маленькі дозатори та розмірковуєте про те, щоб розмістити їх в ребрах. Тепер ви можете створювати та вставляти імпланти ребер.</RibReplacements.description>
+    
+    <VancidiumRefineryTech.label>Технологія переробки ванцидіуму та захоплюючих компонентів</VancidiumRefineryTech.label>
+    <VancidiumRefineryTech.description>Під час експериментів з різними матеріалами ви відкриваєте дуже яскравий, але витривалий матеріал, який може бути використаний для створення дуже просунутих протезів. Ви можете створювати ванцидіум у Металургійному заводі та захоплюючі компоненти на Робочому столі.</VancidiumRefineryTech.description>
+    
+    <AdvancedBionics.label>Продвинута біоніка</AdvancedBionics.label>
+    <AdvancedBionics.description>Покращуйте ваші ванцидіумні біонічні протези, щоб вони були ще кращими.</AdvancedBionics.description>
+
+    <SyntheticOrgans.label>Синтетичні органи</SyntheticOrgans.label>
+    <SyntheticOrgans.description>Додаткові дослідження в галузі нанотехнологій дозволили створити неймовірно добре спроектовані синтетичні органи на Дослідній станції.</SyntheticOrgans.description>
+
+    <BrainSurgery.label>Операції на мозку</BrainSurgery.label>
+    <BrainSurgery.description>Дозволяє проводити операції на мозку.</BrainSurgery.description>
+    
+    <EPOE_SyntheticRepair.label>Синтетичний ремонт</EPOE_SyntheticRepair.label>
+    <EPOE_SyntheticRepair.description>Подальші дослідження в галузі нанотехнологій дозволяють друкувати неймовірно добре спроектовані штучні тканини та нерви, які допомагають у загоєнні шрамів, лікуванні кволості та болю в спині. Рецепти синтетичних тканин і нервово-м'язового каркасу на синтетичному нанопринтері.</EPOE_SyntheticRepair.description>
+    
+    <EPOE_NeurologicalTreatment.label>Neurological treatment</EPOE_NeurologicalTreatment.label>
+    <EPOE_NeurologicalTreatment.description>Широкі дослідження в галузі нанотехнологій дозволяють друкувати неймовірно добре спроектований каркасний набір, що складається зі штучних адаптивних тканин мозку, нервів і наномашин, які допомагають у боротьбі з деменцією, хворобою Альцгеймера, хімічними ушкодженнями і шрамами в мозку. Розблоковано рецепт каркасу нейро-лікування на синтетичному нанопринтері.\n\nНейро-лікування лише лікує деменцію та хворобу Альцгеймера, але не запобігає її повторній появі.</EPOE_NeurologicalTreatment.description>
+    
+    <EPOE_Glitterworld_Implants.label>Імпланти із блукавого світу</EPOE_Glitterworld_Implants.label>
+    <EPOE_Glitterworld_Implants.description>Дозволяє вам створювати імпланти із блукавого світу.</EPOE_Glitterworld_Implants.description>
+    
+    <EPOE_AIPersonaCoreImplant.label>Імплантат ядра ШІ-персони</EPOE_AIPersonaCoreImplant.label>
+    <EPOE_AIPersonaCoreImplant.description>Дозволяє проводити хірургічну операцію з імплантації штучного інтелекту в мозок. Він надає потужний збільшення свідомості за допомогою ШІ, але потребує регулярного медичного обслуговування, щоб уникнути перетворення ШІ на непередбачуваного для користувача.</EPOE_AIPersonaCoreImplant.description>
+    
+    <EPOE_OrganicOptimizer.label>Оптимізація організму</EPOE_OrganicOptimizer.label>
+    <EPOE_OrganicOptimizer.description>Дозволяє розробляти наноботів для оптимізації та розкриття повного потенціалу природного тіла, спеціально розроблених для підтримки "пуританців тіла".</EPOE_OrganicOptimizer.description>
+    
+    <EPOE_MAAIChip.label>МА-ШІ чип</EPOE_MAAIChip.label>
+    <EPOE_MAAIChip.description>Дозволяє вам виробляти свій власний МА-ШІ чип (Медичний Асистент-ШІ чип) без потреби знаходити ІП Штучного Інтелекту.</EPOE_MAAIChip.description>
+</LanguageData>

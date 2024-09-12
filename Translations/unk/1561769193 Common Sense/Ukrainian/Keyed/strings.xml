@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- settings -->
+	<fulfill_outdoors_head>Потреба у свіжому повітрі</fulfill_outdoors_head>
+	<fulfill_outdoors_label>Пішаки заохочуються задовольняти свою потребу у відпочинку на свіжому повітрі шляхом пошуку відпочинку на природі</fulfill_outdoors_label>
+	<fulfill_outdoors_note>ПРИМІТКА: Не розміщуйте одні й ті ж джерела радості в приміщенні і на вулиці, щоб уникнути нерішучості.</fulfill_outdoors_note>
+
+	<clean_head>Опортуністична робота</clean_head>
+	<clean_before_working_label>Пішакам рекомендується прибирати приміщення перед роботою</clean_before_working_label>
+	<clean_before_working_note>ПРИМІТКА: Не очікуйте, що пішаки, які не можуть прибирати, раптом почнуть прибирати.</clean_before_working_note>
+	<bill_job_pathing_label>Розрахуйте точний шлях до будівлі для завдань за рецептом</bill_job_pathing_label>
+	<bill_job_pathing_note>Це допоможе уникнути необґрунтованих хуків, коли вашим пішакам потрібно спочатку принести ресурси, але це може призвести до значних витрат процесора.</bill_job_pathing_note>
+	<clean_after_tending_label>Пішакам рекомендується прибирати кімнату після догляду за пацієнтом</clean_after_tending_label>
+	<clean_after_tending_note>ПРИМІТКА: Не очікуйте, що пішаки, які не можуть прибирати, раптом почнуть прибирати.</clean_after_tending_note>
+
+	<meal_stacking_head>Укладання страв у стопку</meal_stacking_head>
+	<meal_stacking_label>Пішаки уникають змішування негативних думок при складанні страв</meal_stacking_label>
+	<meal_stacking_note>Таким чином пішаки ніколи не змішуватимуть огидну їжу з нормальною</meal_stacking_note>
+	<dont_count_odd_label>Нестандартне м'ясо (наприклад, комахи) вважати нормальним, дозволяючи класти його разом зі звичайною їжею</dont_count_odd_label>
+	<dont_count_odd_note>М'ясо комах не таке вже й погане...</dont_count_odd_note>
+
+	<gen_ingredients_head>Створення страв</gen_ingredients_head>
+	<gen_ingredients_label>Додавайте випадкові інгредієнти до випадково згенерованих страв</gen_ingredients_label>
+	<gen_ingredients_note>Наприклад: подарований казкарем, проданий торговцем, знятий з трупа. Використовуються лише нейтральні за настроєм компоненти. З цією опцією гра ніколи не буде схожою на попередню</gen_ingredients_note>
+	<add_to_que_label>Додати попереднє завдання до черги</add_to_que_label>
+	<add_to_que_note>Таким чином пішаки не передумають після виконання опортуністичного завдання, але іноді це може викликати плутанину, якщо робота вже була зайнята</add_to_que_note>
+	<hauling_over_bills_label>Пішаки заохочуються тягнути інгредієнти для рецепта до свого запасу.</hauling_over_bills_label>
+	<hauling_over_bills_note>Працюючи над рецептом, пішаки віддадуть перевагу перевезенню інгредієнтів до запасу, замість того, щоб взяти невелику частку, необхідну для рецепта</hauling_over_bills_note>
+
+	<fulfill_needs_head>Задоволення потреб</fulfill_needs_head>
+	<drugs_use_potential_mood_label>Пішакам рекомендується враховувати потенційні настрої в наркополітиці</drugs_use_potential_mood_label>
+	<drugs_use_potential_mood_note>Пішаки не вживатимуть наркотики, якщо "потенційний" настрій перевищує певну межу, запобігаючи надмірному вживанню наркотиків для досягнення заданого рівня настрою.</drugs_use_potential_mood_note>
+
+	<miscellaneous_head>Різне</miscellaneous_head>
+	<extended_recipe_label>Рецепти відображають повний список інгредієнтів</extended_recipe_label>
+	<extended_recipe_note>Замість розпливчастих "інгредієнтів"</extended_recipe_note>
+
+	<advanced_head>Просунуті моделі поведінки</advanced_head>
+	<advanced_inbetween_cleaning_label>Пішаки прибиратимуть кімнати в перервах між перевезенням інгредієнтів і крафтингом</advanced_inbetween_cleaning_label>
+	<advanced_inbetween_cleaning_note>Базова поведінка дозволила б їм прибирати лише перед транспортуванням</advanced_inbetween_cleaning_note>
+	<advanced_haul_all_ings_label>Пішакам пропонується забрати всі інгредієнти перед тим, як віднести їх до місця створення</advanced_haul_all_ings_label>
+	<advanced_haul_all_ings_note>Пішаки візьмуть всі необхідні інгредієнти до свого інвентарю перед тим, як доставити їх до місця створення.</advanced_haul_all_ings_note>
+	<prefer_spoiling_ingredients_label>Пішакам рекомендується використовувати інгредієнти та матеріали, які швидше псуються.</prefer_spoiling_ingredients_label>
+	<prefer_spoiling_ingredients_note>ПОПЕРЕДЖЕННЯ: Велика кількість елементів для вибору може спричинити затримку при ввімкненні цієї опції.</prefer_spoiling_ingredients_note>
+	
+	<UnloadThing>Розвантаження</UnloadThing>
+	<UnloadThingCancel>Скасувати розвантаження</UnloadThingCancel>
+	<manual_unload_label>Увімкнути кнопку в інвентарі колоніста для позначення предметів для перевезення на склад</manual_unload_label>
+	<manual_unload_note>Якщо немає запасів, до яких можна було б дістатися, колоніст кидає предмет поруч із собою</manual_unload_note>
+	<put_back_to_inv_label>Пішаки повертатимуть предмети до свого інвентарю, коли їх перериватимуть</put_back_to_inv_label>
+	<put_back_to_inv_note>Коли пішаки тримають в руках предмет інвентарю, вони покладуть його назад, якщо дію було перервано</put_back_to_inv_note>
+	<pick_proper_amount_label>Пішаки перестануть брати більше солодощів, ніж можуть з'їсти</pick_proper_amount_label>
+	<pick_proper_amount_note>Більше ніякого шоколаду, що лежить без діла</pick_proper_amount_note>
+	
+	<Category>Категорія</Category>
+	<fun_police_label>Пішаків заохочують задовольняти другорядні потреби під час виконання завдань радості або якщо вони рано прокидаються</fun_police_label>
+	<fun_police_note>Пішаки намагатимуться поповнити свою потребу в радості лише після того, як вона опуститься нижче 80%, вони вважатимуть за краще взяти запасну їжу в інвентар і виконати всі свої гігієнічні потреби (якщо присутній мод dubs)</fun_police_note>
+	
+	
+	<numbers_head>Налаштовувані числа (0 = необмежена кількість)</numbers_head>
+	<op_clean_number_label>Граничний рівень забруднення для прибирання перед завданням</op_clean_number_label>
+	<adv_clean_number_label>Граничний рівень забруднення для передпланового прибирання</adv_clean_number_label>
+	<doc_clean_number_label>Граничний рівень забруднення для прибирання після догляду</doc_clean_number_label>
+	<skip_snow_clean_label>Пішакам не рекомендується прибирати сніг на територіях, де йде сніг або дощ</skip_snow_clean_label>
+	<skip_snow_clean_note>Під час дощу - на всяк випадок, якщо погода підступна</skip_snow_clean_note>
+	<prefer_spoiling_meals_label>Пішакам рекомендується їсти їжу, яка ближче до псування</prefer_spoiling_meals_label>
+	<prefer_spoiling_meals_note>ПОПЕРЕДЖЕННЯ: Велика кількість елементів для вибору може спричинити затримку при ввімкненні цієї опції.</prefer_spoiling_meals_note>
+	<allow_feeding_with_plants_label>Дозволяйте і заохочуйте пішаків годувати тварин сіном</allow_feeding_with_plants_label>
+	<allow_feeding_with_plants_note>Тварин також заохочуватимуть надавати перевагу нелюдській їжі</allow_feeding_with_plants_note>
+	<give_sick_joy_drugs_label>Пішаки заохочуються передавати хворим пішакам дозволені соціальні ліки або їжу, що дарує радість</give_sick_joy_drugs_label>
+	<give_sick_joy_drugs_note>Навіщо говорити, якщо можна дати шоколадку?</give_sick_joy_drugs_note>
+	<social_relax_economy_label>Змініть спосіб вживання пішаками наркотиків під час соціального відпочинку, щоб запобігти їхньому "марнуванню радості"</social_relax_economy_label>
+	<social_relax_economy_note>Зазвичай пішаки сидять годину-дві перед вживанням наркотику, втрачаючи ефект</social_relax_economy_note>
+	<advanced_cleaning_ingest_label>Пішакам рекомендується прибирати перед тим, як сісти за стіл або відпочити в товаристві</advanced_cleaning_ingest_label>
+	<advanced_cleaning_ingest_note>Пішаки прибирають навколо столу, за який планують сісти</advanced_cleaning_ingest_note>
+	<mood_regen_label>Настрій пішака повільно наближається до 50%, поки він спить, якщо це можливо</mood_regen_label>
+	<mood_regen_note>Просто дайте пішакам "поспати", і з ними все буде гаразд</mood_regen_note>
+	<safe_wander_label>Пішакам рекомендується уникати поганої погоди під час безцільного блукання</safe_wander_label>
+	<safe_wander_note>Припиніть виходити на токсичні опади, ідіоти</safe_wander_note>
+	
+	<pathing_head>Прокладання шляху</pathing_head>
+	<polite_wander_label>Будь-яким дружнім пішакам рекомендується уникати відвідування спалень, тюремних камер та тюремних бараків</polite_wander_label>
+	<polite_wander_note>Це просто непристойно і навіть небезпечно, чи не так?</polite_wander_note>
+	<ingest_any_drugs_label>Дозволити брати будь-які ліки зі складу</ingest_any_drugs_label>
+	<ingest_any_drugs_note>Якщо він їстівний, його можна з'їсти, не кидаючи на землю</ingest_any_drugs_note>
+	<DoCleanCompToggleLabel>Приберіть навколо цієї лавки</DoCleanCompToggleLabel>
+	<DoCleanCompToggleDescActive>Пішаки будуть прибирати навколо цієї лавки</DoCleanCompToggleDescActive>
+	<DoCleanCompToggleDescInactive>Пішаки НЕ будуть прибирати навколо цієї лавки</DoCleanCompToggleDescInactive>
+	<advanced_inbetween_cleaning_gizmo_label>Покажіть перемикач, щоб можна було перемикати лавки, які потребують прибирання</advanced_inbetween_cleaning_gizmo_label>
+	<advanced_inbetween_cleaning_gizmo_note>Можна буде відключити прибирання навколо деяких лавок</advanced_inbetween_cleaning_gizmo_note>
+	<meditation_economy_label>Пішаки будуть медитувати лише стільки, скільки їм потрібно</meditation_economy_label>
+	<meditation_economy_note>За винятком випадків, коли пішаки отримують завдання на медитацію, вони припиняють медитувати, якщо їхній психофокус переповнений і вони не бачать в медитації хорошого джерела радості (тобто переповнені або їм набридла медитація)</meditation_economy_note>
+	<advanced_respect_capacity_label>-- пішаки не перевищуватимуть місткість інвентарю</advanced_respect_capacity_label>
+	<advanced_respect_capacity_note>З міркувань занурення чи чогось іншого</advanced_respect_capacity_note>
+</LanguageData>

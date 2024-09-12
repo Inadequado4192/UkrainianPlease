@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--drank black tea-->
+  <VBE_DrankBlackTea.label>випито чорний чай</VBE_DrankBlackTea.label>
+  <!--Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 20% and provides 15% reduction in rest fall rate for 5 hours.-->
+  <VBE_DrankBlackTea.description>Таніни, що містяться в чаї, після метаболізму підвищують збудливість нервової системи, пригнічуючи бажання спати, а також підвищують імунітет. Збільшує швидкість зміцнення імунітету на 20% і на 15% знижує швидкість набуття втоми протягом 5 годин.</VBE_DrankBlackTea.description>
+  
+  <!--irish coffee high-->
+  <VBE_IrishCoffeeHigh.label>піднесення від кави по-ірландськи</VBE_IrishCoffeeHigh.label>
+  <!--Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 16% amount and 16% reduction in rest fall rate. Increases global work speed by 16%. Hot coffee reduces hypothermia.-->
+  <VBE_IrishCoffeeHigh.description>Кофеїн, що міститься в каві, після засвоєння збільшує стимули в нервовій системі, пригнічуючи бажання спати, а також прояснюючи свідомість. Збільшує швидкість навчання на 16% і на 16% знижує швидкість набуття втоми. Збільшує загальну швидкість роботи на 16%. Гаряча кава зменшує ризик переохолодження.</VBE_IrishCoffeeHigh.description>
+  <!--an irish coffee high-->
+  <VBE_IrishCoffeeHigh.labelNoun>піднесення кавою</VBE_IrishCoffeeHigh.labelNoun>
+  
+  <!--drank kombucha tea-->
+  <VBE_DrankKombuchaTea.label>випито комбучу</VBE_DrankKombuchaTea.label>
+  <!--Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Kombucha tea reduces the effects of Diabetes if present. Kombucha acts as a home remedy against the flu, reducing its severity by 5%.-->
+  <VBE_DrankKombuchaTea.description>Таніни, що містяться в чаї, після метаболізму підвищують збудливість нервової системи, пригнічуючи бажання спати, а також підвищують імунітет. Збільшує швидкість зміцнення імунітету на 15% і на 10% знижує швидкість набуття втоми протягом 5 годин. Чайний гриб зменшує наслідки діабету, якщо він присутній. Також комбуча діє як домашній засіб проти грипу, зменшуючи його тяжкість на 5%.</VBE_DrankKombuchaTea.description>
+  
+  <!--latte coffee high-->
+  <VBE_LatteCoffeeHigh.label>піднесення від лате</VBE_LatteCoffeeHigh.label>
+  <!--Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 18% amount and 18% reduction in rest fall rate. Latte coffee reduces hypothermia.-->
+  <VBE_LatteCoffeeHigh.description>Кофеїн, що міститься в каві, після засвоєння збільшує стимули в нервовій системі, пригнічуючи бажання спати, а також прояснюючи свідомість. Збільшує швидкість навчання на 18% і на 18% знижує швидкість набуття втоми. Лате зменшує ризик переохолодження.</VBE_LatteCoffeeHigh.description>
+  <!--a latte coffee high-->
+  <VBE_LatteCoffeeHigh.labelNoun>піднесення кавою</VBE_LatteCoffeeHigh.labelNoun>
+  
+  <!--yuenyeung high-->
+  <VBE_YuenYeungHigh.label>піднесення від юаньяну</VBE_YuenYeungHigh.label>
+  <!--Caffeine naturally found in coffee once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 13% reduction in rest fall rate. The tea in it increases immunity gain speed by 15%. Cold coffee reduces heatstroke.-->
+  <VBE_YuenYeungHigh.description>Кофеїн, що міститься в каві, після засвоєння збільшує стимули в нервовій системі, пригнічуючи бажання спати, а також прояснюючи свідомість. Збільшує швидкість навчання на 15% і на 13% знижує швидкість набуття втоми. Також, чай в напої збільшує швидкість зміцнення імунітету на 15%. Холодна кава зменшує ризик теплового удару.</VBE_YuenYeungHigh.description>
+  <!--a coffee high-->
+  <VBE_YuenYeungHigh.labelNoun>піднесення кавою</VBE_YuenYeungHigh.labelNoun>
+</LanguageData>

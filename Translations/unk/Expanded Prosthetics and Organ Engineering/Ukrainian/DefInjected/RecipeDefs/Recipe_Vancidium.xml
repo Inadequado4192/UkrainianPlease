@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateVancidium.label>Створить ванцидіум</CreateVancidium.label>
+	<CreateVancidium.description>Використовуйте високу температуру та потужні електромагніти, щоб об'єднати золото, метал та суперсталь.</CreateVancidium.description>
+	<CreateVancidium.jobString>Створює ванцидіум</CreateVancidium.jobString>
+
+	<MakeAdvancedComponent.label>Виготовити вдосконалений компонент</MakeAdvancedComponent.label>
+	<MakeAdvancedComponent.description>Виготовити вдосконалений компонент.</MakeAdvancedComponent.description>
+	<MakeAdvancedComponent.jobString>Виготовляє вдосконалений компонент</MakeAdvancedComponent.jobString>
+	
+</LanguageData>

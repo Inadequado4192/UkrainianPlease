@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_FastMeleeHitter.label>швидкі удари</VRE_FastMeleeHitter.label>
+  <VRE_FastMeleeHitter.description>Носії цього гена набагато швидше атакують у ближньому бою. Надшвидкі м'язові волокна роблять їхні удари набагато швидшими.</VRE_FastMeleeHitter.description>
+
+  <VRE_SlowMeleeHitter.label>повільні удари</VRE_SlowMeleeHitter.label>
+  <VRE_SlowMeleeHitter.description>Носії цього гена атакують значно повільніше в ближньому бою. Слабкі м'язові волокна роблять їхні удари значно повільнішими.</VRE_SlowMeleeHitter.description>
+
+  <VRE_FastShooter.label>швидкий стрілець</VRE_FastShooter.label>
+  <VRE_FastShooter.description>Носії цього гена мають посилені рефлекси, що дозволяє їм значно швидше стріляти з далекобійної зброї.</VRE_FastShooter.description>
+
+  <VRE_SlowShooter.label>повільний стрілець</VRE_SlowShooter.label>
+  <VRE_SlowShooter.description>У носіїв цього гена сповільнені рефлекси і їм потрібно значно більше часу, щоб прицілитися.</VRE_SlowShooter.description>
+
+
+</LanguageData>

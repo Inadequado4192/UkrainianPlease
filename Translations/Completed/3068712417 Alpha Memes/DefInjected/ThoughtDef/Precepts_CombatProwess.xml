@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_CombatProwess_Increased_UsedMelee.stages.0.label>атакував зблизька</AM_CombatProwess_Increased_UsedMelee.stages.0.label>
+  <AM_CombatProwess_Increased_UsedMelee.stages.0.description>Мені довелося захищатися, використовуючи зброю ближнього бою, як якомусь дикуну печерній людині. Огидно.</AM_CombatProwess_Increased_UsedMelee.stages.0.description>
+
+  <AM_CombatProwess_Melee_UsedRanged.stages.0.label>атакував здалеку</AM_CombatProwess_Melee_UsedRanged.stages.0.label>
+  <AM_CombatProwess_Melee_UsedRanged.stages.0.description>Мені довелося захищатися, використовуючи далекобійну зброю, як якомусь боягузу. Огидно.</AM_CombatProwess_Melee_UsedRanged.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ruger Super Redhawk -->
+
+  <HIDGun_RugerSuperRedhawk.label>Ruger Super Redhawk</HIDGun_RugerSuperRedhawk.label>
+  <HIDGun_RugerSuperRedhawk.description>A rather overkill double-action revolver, chambered for the powerful .454 Casull cartridge and fitted with a high power scope for good measure.</HIDGun_RugerSuperRedhawk.description>
+  <HIDGun_RugerSuperRedhawk.tools.0.label>grip</HIDGun_RugerSuperRedhawk.tools.0.label>
+  <HIDGun_RugerSuperRedhawk.tools.1.label>muzzle</HIDGun_RugerSuperRedhawk.tools.1.label>
+
+
+  <!-- Taurus Model 455 Tracker -->
+
+  <HIDGun_TaurusM455Tracker.label>Taurus Model 455 Tracker</HIDGun_TaurusM455Tracker.label>
+  <HIDGun_TaurusM455Tracker.description>A very light double action revolver firing a small pistol cartridge.</HIDGun_TaurusM455Tracker.description>
+  <HIDGun_TaurusM455Tracker.tools.0.label>grip</HIDGun_TaurusM455Tracker.tools.0.label>
+  <HIDGun_TaurusM455Tracker.tools.1.label>muzzle</HIDGun_TaurusM455Tracker.tools.1.label>
+
+
+  <!-- Taurus Model 455 Tracker Gold -->
+
+  <HIDGun_TaurusM455TrackerGold.label>Taurus Model 455 Tracker</HIDGun_TaurusM455TrackerGold.label>
+  <HIDGun_TaurusM455TrackerGold.description>A very light double action revolver firing a small pistol cartridge. This one has been gold-plated.</HIDGun_TaurusM455TrackerGold.description>
+  <HIDGun_TaurusM455TrackerGold.tools.0.label>grip</HIDGun_TaurusM455TrackerGold.tools.0.label>
+  <HIDGun_TaurusM455TrackerGold.tools.1.label>muzzle</HIDGun_TaurusM455TrackerGold.tools.1.label>
+
+
+  <!-- Colt Python -->
+
+  <HIDGun_ColtPython.label>Colt Python</HIDGun_ColtPython.label>
+  <HIDGun_ColtPython.description>A double action revolver firing a powerful pistol cartridge.</HIDGun_ColtPython.description>
+  <HIDGun_ColtPython.tools.0.label>grip</HIDGun_ColtPython.tools.0.label>
+  <HIDGun_ColtPython.tools.1.label>muzzle</HIDGun_ColtPython.tools.1.label>
+
+
+  <!-- Colt Python Blued -->
+
+  <HIDGun_ColtPythonBlued.label>Colt Python</HIDGun_ColtPythonBlued.label>
+  <HIDGun_ColtPythonBlued.description>A double action revolver firing a powerful pistol cartridge.</HIDGun_ColtPythonBlued.description>
+  <HIDGun_ColtPythonBlued.tools.0.label>grip</HIDGun_ColtPythonBlued.tools.0.label>
+  <HIDGun_ColtPythonBlued.tools.1.label>muzzle</HIDGun_ColtPythonBlued.tools.1.label>
+
+
+  <!-- M9A1 -->
+
+  <HIDGun_BerettaM9Gun.label>M9A1</HIDGun_BerettaM9Gun.label>
+  <HIDGun_BerettaM9Gun.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</HIDGun_BerettaM9Gun.description>
+  <HIDGun_BerettaM9Gun.tools.0.label>grip</HIDGun_BerettaM9Gun.tools.0.label>
+  <HIDGun_BerettaM9Gun.tools.1.label>muzzle</HIDGun_BerettaM9Gun.tools.1.label>
+
+
+  <!-- 92FS -->
+
+  <HIDGun_Beretta92FS.label>92FS</HIDGun_Beretta92FS.label>
+  <HIDGun_Beretta92FS.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</HIDGun_Beretta92FS.description>
+  <HIDGun_Beretta92FS.tools.0.label>grip</HIDGun_Beretta92FS.tools.0.label>
+  <HIDGun_Beretta92FS.tools.1.label>muzzle</HIDGun_Beretta92FS.tools.1.label>
+
+
+  <!-- M9A3 -->
+
+  <HIDGun_BerettaM9A3Gun.label>M9A3</HIDGun_BerettaM9A3Gun.label>
+  <HIDGun_BerettaM9A3Gun.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</HIDGun_BerettaM9A3Gun.description>
+  <HIDGun_BerettaM9A3Gun.tools.0.label>grip</HIDGun_BerettaM9A3Gun.tools.0.label>
+  <HIDGun_BerettaM9A3Gun.tools.1.label>muzzle</HIDGun_BerettaM9A3Gun.tools.1.label>
+
+
+  <!-- RD-9 -->
+
+  <HIDGun_RD9Pistol.label>RD-9</HIDGun_RD9Pistol.label>
+  <HIDGun_RD9Pistol.description>A pistol-caliber carbine based on the AR-15 design, chambered for 9mm.</HIDGun_RD9Pistol.description>
+  <HIDGun_RD9Pistol.tools.0.label>stock</HIDGun_RD9Pistol.tools.0.label>
+  <HIDGun_RD9Pistol.tools.1.label>barrel</HIDGun_RD9Pistol.tools.1.label>
+  <HIDGun_RD9Pistol.tools.2.label>muzzle</HIDGun_RD9Pistol.tools.2.label>
+
+
+  <!-- RD-45 -->
+
+  <HIDGun_RD45Pistol.label>RD-45</HIDGun_RD45Pistol.label>
+  <HIDGun_RD45Pistol.description>A pistol-caliber carbine based on the AR-15 design, chambered for .45 ACP.</HIDGun_RD45Pistol.description>
+  <HIDGun_RD45Pistol.tools.0.label>stock</HIDGun_RD45Pistol.tools.0.label>
+  <HIDGun_RD45Pistol.tools.1.label>barrel</HIDGun_RD45Pistol.tools.1.label>
+  <HIDGun_RD45Pistol.tools.2.label>muzzle</HIDGun_RD45Pistol.tools.2.label>
+
+
+  <!-- RD-300 -->
+
+  <HIDGun_RD300Pistol.label>RD-300</HIDGun_RD300Pistol.label>
+  <HIDGun_RD300Pistol.description>A sub-gun based on the AR-15 design, chambered for .300 Blackout.</HIDGun_RD300Pistol.description>
+  <HIDGun_RD300Pistol.tools.0.label>stock</HIDGun_RD300Pistol.tools.0.label>
+  <HIDGun_RD300Pistol.tools.1.label>barrel</HIDGun_RD300Pistol.tools.1.label>
+  <HIDGun_RD300Pistol.tools.2.label>muzzle</HIDGun_RD300Pistol.tools.2.label>
+
+
+  <!-- P250 -->
+
+  <HIDGun_P250SIG.label>P250</HIDGun_P250SIG.label>
+  <HIDGun_P250SIG.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</HIDGun_P250SIG.description>
+  <HIDGun_P250SIG.tools.0.label>grip</HIDGun_P250SIG.tools.0.label>
+  <HIDGun_P250SIG.tools.1.label>muzzle</HIDGun_P250SIG.tools.1.label>
+
+
+  <!-- P320 -->
+
+  <HIDGun_P320SIG.label>P320</HIDGun_P320SIG.label>
+  <HIDGun_P320SIG.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</HIDGun_P320SIG.description>
+  <HIDGun_P320SIG.tools.0.label>grip</HIDGun_P320SIG.tools.0.label>
+  <HIDGun_P320SIG.tools.1.label>muzzle</HIDGun_P320SIG.tools.1.label>
+
+
+  <!-- RIA 1911-A1 -->
+
+  <HIDGun_RIA1911FS.label>RIA Rock Standard FS</HIDGun_RIA1911FS.label>
+  <HIDGun_RIA1911FS.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</HIDGun_RIA1911FS.description>
+  <HIDGun_RIA1911FS.tools.0.label>grip</HIDGun_RIA1911FS.tools.0.label>
+  <HIDGun_RIA1911FS.tools.1.label>muzzle</HIDGun_RIA1911FS.tools.1.label>
+
+
+  <!-- RIA 1911-A2 -->
+
+  <HIDGun_RIA1911FSHC.label>RIA TAC Ultra FS HC</HIDGun_RIA1911FSHC.label>
+  <HIDGun_RIA1911FSHC.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</HIDGun_RIA1911FSHC.description>
+  <HIDGun_RIA1911FSHC.tools.0.label>grip</HIDGun_RIA1911FSHC.tools.0.label>
+  <HIDGun_RIA1911FSHC.tools.1.label>muzzle</HIDGun_RIA1911FSHC.tools.1.label>
+
+
+  <!-- TEC-9 -->
+
+  <HIDGun_TECNine.label>TEC-9</HIDGun_TECNine.label>
+  <HIDGun_TECNine.description>A relatively simple pistol design with a high-capacity magazine.</HIDGun_TECNine.description>
+  <HIDGun_TECNine.tools.0.label>grip</HIDGun_TECNine.tools.0.label>
+  <HIDGun_TECNine.tools.1.label>muzzle</HIDGun_TECNine.tools.1.label>
+
+  <HIDGun_TECNineMod.label>TEC-9 Automatic</HIDGun_TECNineMod.label>
+  <HIDGun_TECNineMod.description>A relatively simple pistol design with a high-capacity magazine. Converted for fully automatic fire.</HIDGun_TECNineMod.description>
+  <HIDGun_TECNineMod.tools.0.label>grip</HIDGun_TECNineMod.tools.0.label>
+  <HIDGun_TECNineMod.tools.1.label>muzzle</HIDGun_TECNineMod.tools.1.label>
+
+
+  <!-- KelTec P32 -->
+
+  <HIDGun_P32KelTec.label>KelTec P32</HIDGun_P32KelTec.label>
+  <HIDGun_P32KelTec.description>A lightweight semi-automatic pocket pistol. Not much use in the battlefield, but very concealable.</HIDGun_P32KelTec.description>
+  <HIDGun_P32KelTec.tools.0.label>grip</HIDGun_P32KelTec.tools.0.label>
+  <HIDGun_P32KelTec.tools.1.label>muzzle</HIDGun_P32KelTec.tools.1.label>
+
+
+  <!-- Ruger Mark IV Standard -->
+
+  <HIDGun_RugerMkIV_std.label>Ruger Mark IV Standard</HIDGun_RugerMkIV_std.label>
+  <HIDGun_RugerMkIV_std.description>A lightweight semi-automatic pistol. Despite its underpowered cartridge, it remains one of the most prolific pistols of all time.</HIDGun_RugerMkIV_std.description>
+  <HIDGun_RugerMkIV_std.tools.0.label>grip</HIDGun_RugerMkIV_std.tools.0.label>
+  <HIDGun_RugerMkIV_std.tools.1.label>muzzle</HIDGun_RugerMkIV_std.tools.1.label>
+
+
+  <!-- Ruger Mark IV 22/45 Lite -->
+
+  <HIDGun_RugerMkIV_lite.label>Ruger Mark IV 22/45 Lite</HIDGun_RugerMkIV_lite.label>
+  <HIDGun_RugerMkIV_lite.description>A somewhat garish yet accurate competition pistol.</HIDGun_RugerMkIV_lite.description>
+  <HIDGun_RugerMkIV_lite.tools.0.label>grip</HIDGun_RugerMkIV_lite.tools.0.label>
+  <HIDGun_RugerMkIV_lite.tools.1.label>muzzle</HIDGun_RugerMkIV_lite.tools.1.label>
+
+
+  <!-- FN Model 1910 -->
+
+  <HIDGun_FN1910M.label>FN Model 1910</HIDGun_FN1910M.label>
+  <HIDGun_FN1910M.description>A lightweight semi-automatic pocket pistol. Not much use in the battlefield, but very concealable.</HIDGun_FN1910M.description>
+  <HIDGun_FN1910M.tools.0.label>grip</HIDGun_FN1910M.tools.0.label>
+  <HIDGun_FN1910M.tools.1.label>muzzle</HIDGun_FN1910M.tools.1.label>
+
+
+  <!-- Hi-Point Yeet Cannon -->
+
+  <HIDGun_YeetCannon.label>YC9</HIDGun_YeetCannon.label>
+  <HIDGun_YeetCannon.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. Officially named the "Yeet Cannon" but there's no way I'm writing that as a label.</HIDGun_YeetCannon.description>
+  <HIDGun_YeetCannon.tools.0.label>grip</HIDGun_YeetCannon.tools.0.label>
+  <HIDGun_YeetCannon.tools.1.label>muzzle</HIDGun_YeetCannon.tools.1.label>
+
+
+  <!-- Glock 17 -->
+
+  <HIDGun_Glock17S.label>Glock 17</HIDGun_Glock17S.label>
+  <HIDGun_Glock17S.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</HIDGun_Glock17S.description>
+  <HIDGun_Glock17S.tools.0.label>grip</HIDGun_Glock17S.tools.0.label>
+  <HIDGun_Glock17S.tools.1.label>muzzle</HIDGun_Glock17S.tools.1.label>
+
+  <HIDGun_Glock17A.label>Glock 17 switched</HIDGun_Glock17A.label>
+  <HIDGun_Glock17A.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. It can fire fully automatic thanks to a simple modification on the back of the slide.</HIDGun_Glock17A.description>
+  <HIDGun_Glock17A.tools.0.label>grip</HIDGun_Glock17A.tools.0.label>
+  <HIDGun_Glock17A.tools.1.label>muzzle</HIDGun_Glock17A.tools.1.label>
+
+
+  <!-- Glock 21 -->
+
+  <HIDGun_Glock21S.label>Glock 21</HIDGun_Glock21S.label>
+  <HIDGun_Glock21S.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</HIDGun_Glock21S.description>
+  <HIDGun_Glock21S.tools.0.label>grip</HIDGun_Glock21S.tools.0.label>
+  <HIDGun_Glock21S.tools.1.label>muzzle</HIDGun_Glock21S.tools.1.label>
+
+  <HIDGun_Glock21A.label>Glock 21 switched</HIDGun_Glock21A.label>
+  <HIDGun_Glock21A.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. It can fire fully automatic thanks to a simple modification on the back of the slide.</HIDGun_Glock21A.description>
+  <HIDGun_Glock21A.tools.0.label>grip</HIDGun_Glock21A.tools.0.label>
+  <HIDGun_Glock21A.tools.1.label>muzzle</HIDGun_Glock21A.tools.1.label>
+
+
+  <!-- CMMG BANSHEE Mk9 -->
+
+  <HIDGun_CMMGMk9BANSHEE.label>CMMG BANSHEE Mk9</HIDGun_CMMGMk9BANSHEE.label>
+  <HIDGun_CMMGMk9BANSHEE.description>A pistol-caliber carbine based on the AR-15 design, chambered for 9mm.</HIDGun_CMMGMk9BANSHEE.description>
+  <HIDGun_CMMGMk9BANSHEE.tools.0.label>stock</HIDGun_CMMGMk9BANSHEE.tools.0.label>
+  <HIDGun_CMMGMk9BANSHEE.tools.1.label>barrel</HIDGun_CMMGMk9BANSHEE.tools.1.label>
+  <HIDGun_CMMGMk9BANSHEE.tools.2.label>muzzle</HIDGun_CMMGMk9BANSHEE.tools.2.label>
+
+
+  <!-- CMMG BANSHEE Mk57 -->
+
+  <HIDGun_CMMGMk57BANSHEE.label>CMMG BANSHEE Mk57</HIDGun_CMMGMk57BANSHEE.label>
+  <HIDGun_CMMGMk57BANSHEE.description>A pistol-caliber carbine based on the AR-15 design, chambered for 5.7mm.</HIDGun_CMMGMk57BANSHEE.description>
+  <HIDGun_CMMGMk57BANSHEE.tools.0.label>stock</HIDGun_CMMGMk57BANSHEE.tools.0.label>
+  <HIDGun_CMMGMk57BANSHEE.tools.1.label>barrel</HIDGun_CMMGMk57BANSHEE.tools.1.label>
+  <HIDGun_CMMGMk57BANSHEE.tools.2.label>muzzle</HIDGun_CMMGMk57BANSHEE.tools.2.label>
+
+
+  <!-- FN Five-SeveN -->
+
+  <HIDGun_FiveSeven.label>FN Five-seveN</HIDGun_FiveSeven.label>
+  <HIDGun_FiveSeven.description>A lightweight pistol which uses small yet fast moving ammunition to better penetrate armor.</HIDGun_FiveSeven.description>
+  <HIDGun_FiveSeven.tools.0.label>grip</HIDGun_FiveSeven.tools.0.label>
+  <HIDGun_FiveSeven.tools.1.label>muzzle</HIDGun_FiveSeven.tools.1.label>
+
+
+  <!-- H&K USP -->
+
+  <HIDGun_USP45Std.label>H&amp;K USP45</HIDGun_USP45Std.label>
+  <HIDGun_USP45Std.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</HIDGun_USP45Std.description>
+  <HIDGun_USP45Std.tools.0.label>grip</HIDGun_USP45Std.tools.0.label>
+  <HIDGun_USP45Std.tools.1.label>muzzle</HIDGun_USP45Std.tools.1.label>
+
+
+  <!-- H&K USP Match -->
+
+  <HIDGun_USP9Match.label>H&amp;K USP9 Match</HIDGun_USP9Match.label>
+  <HIDGun_USP9Match.description>An ancient pattern target pistol. Its heavy counterweight on its barrel helps to negate recoil.</HIDGun_USP9Match.description>
+  <HIDGun_USP9Match.tools.0.label>grip</HIDGun_USP9Match.tools.0.label>
+  <HIDGun_USP9Match.tools.1.label>muzzle</HIDGun_USP9Match.tools.1.label>
+
+
+  <!-- 93R -->
+
+  <HIDGun_BerettaM93R.label>93R</HIDGun_BerettaM93R.label>
+  <HIDGun_BerettaM93R.description>A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness.</HIDGun_BerettaM93R.description>
+  <HIDGun_BerettaM93R.tools.0.label>grip</HIDGun_BerettaM93R.tools.0.label>
+  <HIDGun_BerettaM93R.tools.1.label>muzzle</HIDGun_BerettaM93R.tools.1.label>
+
+
+  <!-- vz. 61 -->
+
+  <HIDGun_vz61Skorpion.label>Škorpion vz. 61</HIDGun_vz61Skorpion.label>
+  <HIDGun_vz61Skorpion.description>A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness.</HIDGun_vz61Skorpion.description>
+  <HIDGun_vz61Skorpion.tools.0.label>grip</HIDGun_vz61Skorpion.tools.0.label>
+  <HIDGun_vz61Skorpion.tools.1.label>muzzle</HIDGun_vz61Skorpion.tools.1.label>
+
+
+</LanguageData>

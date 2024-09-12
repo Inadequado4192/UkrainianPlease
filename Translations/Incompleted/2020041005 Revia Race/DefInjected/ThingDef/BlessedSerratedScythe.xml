@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Vermillion Tide -->
+  <ReviaBlessedSerratedScythe.label>Багряний Приплив</ReviaBlessedSerratedScythe.label>
+  <!-- EN: A cruel bardiche with a razor sharp blade. A murderous spirit resides within it. -->
+  <ReviaBlessedSerratedScythe.description>Жорстокий бердиш із гострим лезом. У ньому живе дух вбивці.</ReviaBlessedSerratedScythe.description>
+  <!-- EN: handle -->
+  <ReviaBlessedSerratedScythe.tools.handle.label>руків'я</ReviaBlessedSerratedScythe.tools.handle.label>
+  <!-- EN: edge -->
+  <ReviaBlessedSerratedScythe.tools.edge.label>лезо</ReviaBlessedSerratedScythe.tools.edge.label>
+  
+</LanguageData>

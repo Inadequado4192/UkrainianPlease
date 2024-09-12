@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_ArtQuality_Expected.label>покращено</AM_ArtQuality_Expected.label>
+  <AM_ArtQuality_Expected.description>Справжній витвір мистецтва - це лише тінь божественної досконалості. Немає жодного виправдання неякісно виконаному мистецтву, і ми не повинні страждати від цього.\n\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;\n - Колоністи з "Високими" очікуваннями або вище вимагатимуть високої якості мистецтва. Якість предметів мистецтва буде усереднена між усіма предметами мистецтва, наявними в колонії.</AM_ArtQuality_Expected.description>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: random animal summon -->
+  <AG_AnimalSummon_Randomizer.label>випадковий виклик тварини</AG_AnimalSummon_Randomizer.label>
+  <!-- EN: This will get swapped for a random animal summon. -->
+  <AG_AnimalSummon_Randomizer.description>Цей виклик буде замінено на випадковий виклик тварини.</AG_AnimalSummon_Randomizer.description>
+  <!-- EN: random -->
+  <AG_AnimalSummon_Randomizer.labelShortAdj>випадковий</AG_AnimalSummon_Randomizer.labelShortAdj>
+  
+  <!-- EN: random major animal summon -->
+  <AG_MajorAnimalSummon_Randomizer.label>випадковий виклик великої тварини</AG_MajorAnimalSummon_Randomizer.label>
+  <!-- EN: This will get swapped for a random major animal summon. -->
+  <AG_MajorAnimalSummon_Randomizer.description>Цей виклик буде замінено на випадковий виклик великої тварини.</AG_MajorAnimalSummon_Randomizer.description>
+  <!-- EN: random -->
+  <AG_MajorAnimalSummon_Randomizer.labelShortAdj>випадковий</AG_MajorAnimalSummon_Randomizer.labelShortAdj>
+  
+  <!-- EN: random minor animal summon -->
+  <AG_MinorAnimalSummon_Randomizer.label>випадковий виклик незначної тварини</AG_MinorAnimalSummon_Randomizer.label>
+  <!-- EN: This will get swapped for a random minor animal summon. -->
+  <AG_MinorAnimalSummon_Randomizer.description>Цей виклик буде замінено на випадковий виклик незначної тварини.</AG_MinorAnimalSummon_Randomizer.description>
+  <!-- EN: random -->
+  <AG_MinorAnimalSummon_Randomizer.labelShortAdj>випадковий</AG_MinorAnimalSummon_Randomizer.labelShortAdj>
+  
+</LanguageData>

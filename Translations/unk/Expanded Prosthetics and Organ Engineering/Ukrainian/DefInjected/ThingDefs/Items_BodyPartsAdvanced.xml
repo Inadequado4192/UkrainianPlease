@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedPowerArm.label>Удосконалена силова рука</AdvancedPowerArm.label>
+  <AdvancedPowerArm.Description>Ще більше неперевершеної сили та майстерності разом із смертоносними лезами. Тепер це називається остаточне поліпшення!</AdvancedPowerArm.Description>
+
+  <AdvancedBionicHand.label>Удосконалена силова долоня</AdvancedBionicHand.label>
+  <AdvancedBionicHand.Description>Деякі віддавали б свої руки лише за те, щоб отримати такий кусок технології.</AdvancedBionicHand.Description>
+
+  <AdvancedBionicArm.label>Удосконалене біонічне плече</AdvancedBionicArm.label>
+  <AdvancedBionicArm.Description>Пам'ятаєш, як боровся з відкриванням банок? Тепер будеш справлятися з постійно розбиваються банками!</AdvancedBionicArm.Description>
+
+  <AdvancedBionicLeg.label>Удосконалена біонічна нога</AdvancedBionicLeg.label>
+  <AdvancedBionicLeg.Description>Вражаюча технологія дозволяє рухатися швидше, ніж будь-коли раніше.</AdvancedBionicLeg.Description>
+
+  <AdvancedBionicFoot.label>Удосконалена біонічна стопа</AdvancedBionicFoot.label>
+  <AdvancedBionicFoot.Description>Десятки приводів полегшують рух і надають багато комфорту.</AdvancedBionicFoot.Description>
+
+  <AdvancedBionicEar.label>Удосконалене біонічне вухо</AdvancedBionicEar.label>
+  <AdvancedBionicEar.Description>Пристрій, що дозволяє слухати краще, ніж кажани.</AdvancedBionicEar.Description>
+
+  <AdvancedBionicJaw.label>Удосконалена біонічна щока</AdvancedBionicJaw.label>
+  <AdvancedBionicJaw.Description>Звук, що його вона видає, настільки чарівний, що навіть механоїди зупиняються, щоб послухати.</AdvancedBionicJaw.Description>
+
+  <AdvancedBionicEye.label>Удосконалене біонічне око</AdvancedBionicEye.label>
+  <AdvancedBionicEye.Description>Цей передовий шматок технології дозволяє бачити в темряві.</AdvancedBionicEye.Description>
+
+  <AdvancedBionicSpine.label>Удосконалений біонічний хребет</AdvancedBionicSpine.label>
+  <AdvancedBionicSpine.Description>Робота стає набагато легшою.</AdvancedBionicSpine.Description>
+
+  <AdvancedBionicToe.label>Вдосконалений біонічний палець нози</AdvancedBionicToe.label>
+  <AdvancedBionicToe.description>Надсучасний штучний палець, ще більше вдосконалений у порівнянні зі стандартними моделями. Делікатні сенсори та високошвидкісні бездротові передавачі, що проходять крізь товстий, але легкий пластиковий корпус, роблять ці пальці неперевершеними, коли справа доходить до рухів та контролю, набагато перевершуючи біологічні пальці.</AdvancedBionicToe.description>
+
+  <AdvancedBionicFinger.label>Вдосконалений біонічний палець руки</AdvancedBionicFinger.label>
+  <AdvancedBionicFinger.description>Вдосконалений біонічний палець.</AdvancedBionicFinger.description>
+
+  <ExoskeletonSuit.label>Екзоскелет</ExoskeletonSuit.label>
+  <ExoskeletonSuit.description>Високоякісний пристрій, створений з двох компонентів: Легкого матеріалу скелета, що знімає навантаження з спини, та приводів, щоб зробити користувача сильнішим.</ExoskeletonSuit.description>
+</LanguageData>

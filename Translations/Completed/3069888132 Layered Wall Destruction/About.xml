@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Layered Wall Destruction</name>
+        <id>3024527775</id>
+        <packageId>Keshash.LayeredWallDestruction</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>tyulen</nickname>
+            <steamId>76561198374567982</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3069888132</sourceTranslationId>
+    <lastUpdate>2024-04-12T09:10:56.000Z</lastUpdate>
+</TranslationDetails>

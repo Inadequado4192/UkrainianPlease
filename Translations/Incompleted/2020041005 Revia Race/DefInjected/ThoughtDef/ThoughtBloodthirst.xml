@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bloodrage -->
+  <NeedBloodthirst.stages.bloodrage.label>кровопролиття</NeedBloodthirst.stages.bloodrage.label>
+  <!-- EN: I need to bury a blade in something. Skarne demands an offering! -->
+  <NeedBloodthirst.stages.bloodrage.description>Мені потрібно в щось заховати лезо. Скарне вимагає підношення!</NeedBloodthirst.stages.bloodrage.description>
+  <!-- EN: unbridled bloodthirst -->
+  <NeedBloodthirst.stages.unbridled_bloodthirst.label>нестримна кровожерливість</NeedBloodthirst.stages.unbridled_bloodthirst.label>
+  <!-- EN: It's been some time since I last spilled some blood. The gods need their sustenance! -->
+  <NeedBloodthirst.stages.unbridled_bloodthirst.description>Давненько я не проливав крові. Боги потребують підживлення!</NeedBloodthirst.stages.unbridled_bloodthirst.description>
+  <!-- EN: unslaked bloodthirst -->
+  <NeedBloodthirst.stages.unslaked_bloodthirst.label>невгамовна кровожерливість</NeedBloodthirst.stages.unslaked_bloodthirst.label>
+  <!-- EN: This period of idleness is unbecoming... -->
+  <NeedBloodthirst.stages.unslaked_bloodthirst.description>Цей період бездіяльності не годиться...</NeedBloodthirst.stages.unslaked_bloodthirst.description>
+  <!-- EN: itching for a fight -->
+  <NeedBloodthirst.stages.itching_for_a_fight.label>сверблячка до бою</NeedBloodthirst.stages.itching_for_a_fight.label>
+  <!-- EN: I should be looking for my next offering. -->
+  <NeedBloodthirst.stages.itching_for_a_fight.description>Мені слід шукати наступну пожертву.</NeedBloodthirst.stages.itching_for_a_fight.description>
+  <!-- EN: bloodthirst sated -->
+  <NeedBloodthirst.stages.bloodthirst_sated.label>кровожерливість вгамована</NeedBloodthirst.stages.bloodthirst_sated.label>
+  <!-- EN: Skarne must be pleased with my latest offerings! -->
+  <NeedBloodthirst.stages.bloodthirst_sated.description>Скарне має бути задоволений моїми останніми пропозиціями!</NeedBloodthirst.stages.bloodthirst_sated.description>
+  
+</LanguageData>

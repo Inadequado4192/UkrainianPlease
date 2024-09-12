@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_SkyBurialSpot.label>місце для поховання серед зірок</AM_SkyBurialSpot.label>
+  <AM_SkyBurialSpot.description>Місце, де можна залишити останки колоніста, щоб їх поглинув космос</AM_SkyBurialSpot.description>
+  <AM_SkyBurialSpot_Blueprint.label>місце для поховання серед зірок (креслення)</AM_SkyBurialSpot_Blueprint.label>
+  <AM_SkyBurialSpot_Blueprint_Install.label>поховання серед зірок (креслення)</AM_SkyBurialSpot_Blueprint_Install.label>
+  <AM_SkyBurialSpot_Frame.label>місце для поховання серед зірок (будується)</AM_SkyBurialSpot_Frame.label>
+  <AM_SkyBurialSpot_Frame.description>Місце, де можна залишити останки колоніста, щоб їх поглинув космос</AM_SkyBurialSpot_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VTE.SortBy>Сортувати за</VTE.SortBy>
+  <VTE.Search>Пошук</VTE.Search>
+  <VTE.Name>Назва</VTE.Name>
+  <VTE.Item>Предмет</VTE.Item>
+  <VTE.MarketValue>Ринкова Вартість</VTE.MarketValue>
+  <VTE.CurrentValue>Поточна Вартість</VTE.CurrentValue>
+  <VTE.Change>Зміна</VTE.Change>
+  <VTE.RecentChange>Нещодавня Зміна</VTE.RecentChange>
+  <VTE.ViewMarketPrices>Переглянути ціни</VTE.ViewMarketPrices>
+  <VTE.ViewNews>Переглянути новини</VTE.ViewNews>
+  <VTE.Contact>Зв'язатися з: {0}</VTE.Contact>
+  <VTE.EmpireBankName>Імперський Банк</VTE.EmpireBankName>
+  <VTE.BaseBankName>Банк {FACTION_name}</VTE.BaseBankName>
+  <VTE.OutlanderCivilBankName>Банк {FACTION_name}</VTE.OutlanderCivilBankName>
+  <VTE.LocalFunds>Доступна готівка: {0}</VTE.LocalFunds>
+  <VTE.BankBalance>Баланс на рахунку: {0}</VTE.BankBalance>
+  <VTE.BankFees>Комісія банку: {0}%</VTE.BankFees>
+  <VTE.BankFeesBasedOn>На основі {0} прихильності з {FACTION_name}</VTE.BankFeesBasedOn>
+  <VTE.DepositOrWithdraw>Поповнення або Зняття рахунку</VTE.DepositOrWithdraw>
+  <VTE.DepositOrWithdrawDesc>Додатні числа – поповнення рахунку. Від'ємні – зняття.</VTE.DepositOrWithdrawDesc>
+  <VTE.AreYouSureYouWantToDeposit>Ви впевнені, що хочете внести на депозит {0} срібла?</VTE.AreYouSureYouWantToDeposit>
+  <VTE.AreYouSureYouWantToWithdraw>Ви впевнені, що хочете зняти з рахунку {0} срібла?</VTE.AreYouSureYouWantToWithdraw>
+  <VTE.Breakdown>Розрахунок</VTE.Breakdown>
+  <VTE.BreakdownBankDesc>За транзакції стягується комісія відповідно до діючих тарифів Банку</VTE.BreakdownBankDesc>
+  <VTE.BreakdownStockMarketDesc>Купівля акцій компаній торгових перевезень може бути ризикованою. Уважно стежте за новинами, щоб знати, як справи у компанії, в яку ви інвестуєте.</VTE.BreakdownStockMarketDesc>
+  <VTE.AmountToDepositWithdraw>Сума для поповнення / зняття</VTE.AmountToDepositWithdraw>
+  <VTE.AmountToDeposit>Сума для поповнення</VTE.AmountToDeposit>
+  <VTE.AmountToWithdraw>Сума для зняття</VTE.AmountToWithdraw>
+  <VTE.FeesToPay>Комісія</VTE.FeesToPay>
+  <VTE.Total>Всього</VTE.Total>
+  <VTE.Loans>Кредити</VTE.Loans>
+  <VTE.QuickCashLoan>Швидкий кредит</VTE.QuickCashLoan>
+  <VTE.ShortTermLoan>Короткостроковий Кредит</VTE.ShortTermLoan>
+  <VTE.LongTermLoan>Довгостроковий кредит</VTE.LongTermLoan>
+  <VTE.MortgageLoan>Іпотечний кредит</VTE.MortgageLoan>
+  <VTE.LoanOptionsUnlockText>Розблоковується після поповнення депозитного рахунку</VTE.LoanOptionsUnlockText>
+  <VTE.Repay>Платіж:</VTE.Repay>
+  <VTE.RepayDate>До {0} ({1})</VTE.RepayDate>
+  <VTE.RepayDateDaysLeft>До {0} (залиш. {1})</VTE.RepayDateDaysLeft>
+  <VTE.RepayDateOverdue>До {0} (прострочено)</VTE.RepayDateOverdue>
+  <VTE.TakeLoan>Взяти кредит</VTE.TakeLoan>
+  <VTE.RepayFromBalance>Погасити з балансу</VTE.RepayFromBalance>
+  <VTE.LoanExplanation>Кредити можна погашати лише з рахунку банка. Переконайтеся, що на рахунку буде достатньо срібла, коли закінчиться термін позики, або виплатіть її в повному обсязі заздалегідь. Відсутність достатньої кількості срібла на банківському рахунку та в запасах може призвести до втрати прихильності банківської фракції, а також спричинити інші наслідки, до повного погашення боргу.</VTE.LoanExplanation>
+  <VTE.IndebtedMessage>Відносини з {FACTION_name} стали ворожими через заборгованість перед їхнім банком.</VTE.IndebtedMessage>
+  <VTE.CollectorsLabel>Колектори</VTE.CollectorsLabel>
+  <VTE.CollectorsText>Неподалік прибула група найманців.
+
+Їх найняла {FACTION_name}, щоб змусити вас сплатити борг.</VTE.CollectorsText>
+  <VTE.CollectorsTextPartTwo>Погасіть заборгованість за допомогою торгового терміналу, щоб запобігти їх поверненню.</VTE.CollectorsTextPartTwo>
+  <VTE.LocalNews>Новини</VTE.LocalNews>
+  <VTE.FilterBy>Фільтрувати за</VTE.FilterBy>
+  <VTE.All>Всі</VTE.All>
+  <VTE.OnlySpecificCategory>Лише певна категорія</VTE.OnlySpecificCategory>
+  <VTE.OnlyTradeShips>Тільки торгові судна</VTE.OnlyTradeShips>
+  <VTE.OnlyBullish>Тільки «бичачі»</VTE.OnlyBullish>
+  <VTE.OnlyBearish>Тільки «ведмежі»</VTE.OnlyBearish>
+  <VTE.News>Новини</VTE.News>
+  <VTE.Date>Дата</VTE.Date>
+  <VTE.PriceHistory>Історія ціни {0}</VTE.PriceHistory>
+  <VTE.SqueezeMessage>Ціна на {0} знижується.</VTE.SqueezeMessage>
+  <VTE.CrashMessage>Ціна на {0} рухнула.</VTE.CrashMessage>
+  <VTE.OpenStockMarket>Відкрити фондову біржу</VTE.OpenStockMarket>
+  <VTE.Company>Компанія</VTE.Company>
+  <VTE.Value>Вартість акції</VTE.Value>
+  <VTE.SharesHeld>Утримувані акції</VTE.SharesHeld>
+  <VTE.Shares>Акції</VTE.Shares>
+  <VTE.Profit>Прибуток</VTE.Profit>
+  <VTE.ProfitLoss>Прибуток/Збиток</VTE.ProfitLoss>
+  <VTE.ChartHistory>Діаграма {0}</VTE.ChartHistory>
+  <VTE.SharesTransactionHeader>Додатні – купівля.
+Від'ємні – продаж.</VTE.SharesTransactionHeader>
+  <VTE.FollowNews>Стежити за новинами</VTE.FollowNews>
+  <VTE.MoneyInBanks>Рахунок в банках: {0}</VTE.MoneyInBanks>
+  <VTE.TransactionCost>Вартість транзакції</VTE.TransactionCost>
+  <VTE.TransactionGain>Прибуток від транзакції</VTE.TransactionGain>
+  <VTE.MoneyInBanksAfter>Стан рахунку після транзакції</VTE.MoneyInBanksAfter>
+  <VTE.BankDepositsToSpend>Оберіть з рахунку якого банку провести операцію купівлі</VTE.BankDepositsToSpend>
+  <VTE.BankDepositsToGain>Оберіть на рахунок якого банку зарахувати прибуток з продажу</VTE.BankDepositsToGain>
+  <VTE.TransactionCostToPay>Рахунок до сплати за транзакцію: {0}</VTE.TransactionCostToPay>
+  <VTE.MoneyToSpend>Гроші до списання: {0}</VTE.MoneyToSpend>
+  <VTE.TransactionGainToTransfer>Прибуток транзакції до переказу: {0}</VTE.TransactionGainToTransfer>
+  <VTE.MoneyToTransfer>Гроші до поповнення: {0}</VTE.MoneyToTransfer>
+  <VTE.OpenContracts>Подивитися угоди</VTE.OpenContracts>
+  <VTE.Contracts>Угоди</VTE.Contracts>
+  <VTE.ContractsExplanation>По закриттю угоди кошти будуть переведені на ваш банківський рахунок, а товари видалені з вашого інвентарю. Вам потрібно діяти швидко, оскільки вища націнка вказує на те, що угода популярна, та її можуть забрати до того, ви підготовите товари.</VTE.ContractsExplanation>
+  <VTE.Contract>Угода</VTE.Contract>
+  <VTE.Reward>Ціна</VTE.Reward>
+  <VTE.Markup>Націнка</VTE.Markup>
+  <VTE.TimeUntilTheEnd>Час до закінчення</VTE.TimeUntilTheEnd>
+  <VTE.YourContracts>Ваші угоди</VTE.YourContracts>
+  <VTE.CompleteContract>Прийняти угоду</VTE.CompleteContract>
+  <VTE.InsufficientAsset>Недостатньо товарів</VTE.InsufficientAsset>
+  <VTE.CancelContract>Скасувати угоду</VTE.CancelContract>
+  <VTE.SubmitContract>Підтвердити угоду</VTE.SubmitContract>
+  <VTE.SelectItem>Обрати товар</VTE.SelectItem>
+  <VTE.YourContractsExplanation>Ви можете створювати власні угоди. Вкажіть ціну, націнку та тривалість дії. Довші угоди з вищою націнкою мають більше шансів бути виконаними. Недостатня кількість коштів на банківських рахунках для виплати за угодою автоматично призведе до її скасування.</VTE.YourContractsExplanation>
+  <VTE.ContractCompletedMessage>Караван прибуде забрати замовлені товари через 3 дні. Переконайтеся, що у вас буде достатньо товарів, коли вони прибудуть. Оплата буде здійснена після того, як караван покине вашу територію.</VTE.ContractCompletedMessage>
+  <VTE.CaravanContractWillReturnMessage>У зв'язку з тим, що ваше місцезнаходження стало небезпечним, караван, який прибув за товарами за угодою, покинув карту. Він повернеться за товарами, коли буде безпечно.
+	
+Переконайтеся, що у вас буде достатньо товарів, коли вони прибудуть. Оплата буде здійснена після того, як тільки караван покине вашу територію.</VTE.CaravanContractWillReturnMessage>
+  <VTE.LetterTraderCaravanArrival>Наближається караван з {0}. Вони заберуть речі за угодою.</VTE.LetterTraderCaravanArrival>
+  <VTE.CaravanDidNotCollectAllItems>Караван не знайшов обіцяного товару і залишає територію. Ви не отримаєте жодної плати.</VTE.CaravanDidNotCollectAllItems>
+  <VTE.BankDepositsToPutContractReward>Оберіть банківський рахункок для виплати за завершення угоди</VTE.BankDepositsToPutContractReward>
+  <VTE.BankDepositsToPutContractRewardPartially>Караван не зміг отримати всі товари. Вони заплатять {0} винагороди за угодою - всього {1} срібла. Виберіть банківський рахунок, на який надіслати кошти.</VTE.BankDepositsToPutContractRewardPartially>
+  <VTE.Select>Обрати</VTE.Select>
+  <VTE.SelectStuff>Обрати речі</VTE.SelectStuff>
+  <VTE.PayMoneyForContract>Угоду на купівлю {0} прийнято. Сплатіть гроші з банківських рахунків для отримання товару.</VTE.PayMoneyForContract>
+  <VTE.ContractFullfilled>Угоду виконано</VTE.ContractFullfilled>
+  <VTE.ContractFullfilledDesc>Угоду виконано зацікавленою стороною. Указана сума перерахована.
+Прибувають вантажні капсули з товаром:
+</VTE.ContractFullfilledDesc>
+
+  <VTE.NewsSpawnOption>Як часто з'являються новини:</VTE.NewsSpawnOption>
+  <VTE.PlayerTransactionImpactMultiplierOption>Множник впливу транзакцій гравця на коливання цін:</VTE.PlayerTransactionImpactMultiplierOption>
+  <VTE.PlayerContractFulfilmentChanceMultiplier>Коефіцієнт ймовірності виконання угоди гравця:</VTE.PlayerContractFulfilmentChanceMultiplier>
+  <VTE.NPCContractFulfilmentChanceMultiplier>Коефіцієнт ймовірності виконання угоди NPC:</VTE.NPCContractFulfilmentChanceMultiplier>
+  <VTE.MaxNPCContractCount>Максимальна кількість доступних угод NPC:</VTE.MaxNPCContractCount>
+  <VTE.MaxCompanyCount>Максимальна кількість торгових компаній:</VTE.MaxCompanyCount>
+  <VTE.MaximumMarkupOnNPCContract>Максимальна націнка угод NPC:</VTE.MaximumMarkupOnNPCContract>
+  <VTE.NewsPriceImpactMultiplier>Множник того, наскільки сильно новини впливають на ринок:</VTE.NewsPriceImpactMultiplier>
+  <VTE.AmountOfRandomItemsToFluctuate>Кількість випадкових коливань цін на товари:</VTE.AmountOfRandomItemsToFluctuate>
+  <VTE.ResetPriceChanges>Скинути коливання цін</VTE.ResetPriceChanges>
+  <VTE.YouCanTakeThisLoanOn>Ви можете взяти цей кредит повторно не раніше: {0}.</VTE.YouCanTakeThisLoanOn>
+  <VTE.ContractBlackListCollectibles>Заборонити збираємі предмети (яйця, м'ясо, шкіра та вовна) для угод</VTE.ContractBlackListCollectibles>
+  <VTE.CaravanLessContractItemPickup>Виконання угод без караванів</VTE.CaravanLessContractItemPickup>
+  <VTE.MaximumMarketValueOfItemsInContracts>Максимальна вартість угод NPC у сріблі:</VTE.MaximumMarketValueOfItemsInContracts>
+  <VTE.MaximumMarketValueOfItemsPerPlayerWealth>Максимальна вартість угод NPC у відсотках від багатства:</VTE.MaximumMarketValueOfItemsPerPlayerWealth>
+  <VTE.MaximumPriceFluctuations>Обмеження на коливання цін</VTE.MaximumPriceFluctuations>
+  <VTE.MinimumOfMarketValue>Негативна зміна: {0}</VTE.MinimumOfMarketValue>
+  <VTE.MaximumOfMarketValue>Позитивна зміна: {0}</VTE.MaximumOfMarketValue>
+</LanguageData>

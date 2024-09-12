@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--  Гідра  -->
+  <!--hydra-->
+  <VAEWaste_Hydra.label>гідра</VAEWaste_Hydra.label>
+  <VAEWaste_Hydra.labelPlural>гідри</VAEWaste_Hydra.labelPlural>
+  
+  <VAEWaste_Hydra.lifeStages.0.label>дитинча гідри</VAEWaste_Hydra.lifeStages.0.label>
+  <VAEWaste_Hydra.lifeStages.0.labelPlural>дитинчата гідри</VAEWaste_Hydra.lifeStages.0.labelPlural>
+
+  <VAEWaste_Hydra.lifeStages.1.label>молода гідра</VAEWaste_Hydra.lifeStages.1.label>
+  <VAEWaste_Hydra.lifeStages.1.labelPlural>молоді гідри</VAEWaste_Hydra.lifeStages.1.labelPlural>
+  
+  <!--  Мегахід  -->
+  <!--megatardi-->
+  <VAEWaste_Megatardi.label>мегахід</VAEWaste_Megatardi.label>
+  <VAEWaste_Megatardi.labelPlural>мегаходи</VAEWaste_Megatardi.labelPlural>
+  
+  <VAEWaste_Megatardi.lifeStages.0.label>дитинча мегахода</VAEWaste_Megatardi.lifeStages.0.label>
+  <VAEWaste_Megatardi.lifeStages.0.labelPlural>дитинчата мегахода</VAEWaste_Megatardi.lifeStages.0.labelPlural>
+
+  <VAEWaste_Megatardi.lifeStages.1.label>молодий мегахід</VAEWaste_Megatardi.lifeStages.1.label>
+  <VAEWaste_Megatardi.lifeStages.1.labelPlural>молоді мегаходи</VAEWaste_Megatardi.lifeStages.1.labelPlural>
+  
+  <!--  Пестигатор  -->
+  <!--pestigator-->
+  <VAEWaste_Pestigator.label>пестигатор</VAEWaste_Pestigator.label>
+  <VAEWaste_Pestigator.labelPlural>пестигатори</VAEWaste_Pestigator.labelPlural>
+  
+  <VAEWaste_Pestigator.lifeStages.0.label>дитинча пестигатора</VAEWaste_Pestigator.lifeStages.0.label>
+  <VAEWaste_Pestigator.lifeStages.0.labelPlural>дитинчата пестигатора</VAEWaste_Pestigator.lifeStages.0.labelPlural>
+
+  <VAEWaste_Pestigator.lifeStages.1.label>молодий пестигатор</VAEWaste_Pestigator.lifeStages.1.label>
+  <VAEWaste_Pestigator.lifeStages.1.labelPlural>молоді пестигатори</VAEWaste_Pestigator.lifeStages.1.labelPlural>
+  
+  <!--  Токсалис  -->
+  <!--toxafox-->
+  <VAEWaste_Toxafox.label>токсалис</VAEWaste_Toxafox.label>
+  <VAEWaste_Toxafox.labelFemale>токсалисиця</VAEWaste_Toxafox.labelFemale>
+  <VAEWaste_Toxafox.labelMale>токсалис</VAEWaste_Toxafox.labelMale>
+  <!--toxafoxes-->
+  <VAEWaste_Toxafox.labelPlural>токсалиси</VAEWaste_Toxafox.labelPlural>
+  
+  <!--toxafox puppy-->
+  <VAEWaste_Toxafox.lifeStages.toxafox_puppy.label>щеня токсалиса</VAEWaste_Toxafox.lifeStages.toxafox_puppy.label>
+  <!--toxafox puppies-->
+  <VAEWaste_Toxafox.lifeStages.toxafox_puppy.labelPlural>щенята токсалиса</VAEWaste_Toxafox.lifeStages.toxafox_puppy.labelPlural>
+  
+  <VAEWaste_Toxafox.lifeStages.1.labelMale>молодий токсалис</VAEWaste_Toxafox.lifeStages.1.labelMale>
+  <VAEWaste_Toxafox.lifeStages.1.labelFemale>молода токсалисиця</VAEWaste_Toxafox.lifeStages.1.labelFemale>
+  <VAEWaste_Toxafox.lifeStages.1.labelPlural>молоді токсалиси</VAEWaste_Toxafox.lifeStages.1.labelPlural>
+  
+  <!--  Токсамідь  -->
+  <!--toxbear-->
+  <VAEWaste_Toxbear.label>токсамідь</VAEWaste_Toxbear.label>
+  <VAEWaste_Toxbear.labelFemale>токсамедиця</VAEWaste_Toxbear.labelFemale>
+  <VAEWaste_Toxbear.labelMale>токсамідь</VAEWaste_Toxbear.labelMale>
+  <VAEWaste_Toxbear.labelPlural>токсамеді</VAEWaste_Toxbear.labelPlural>
+  
+  <VAEWaste_Toxbear.lifeStages.0.label>токсамежа</VAEWaste_Toxbear.lifeStages.0.label>
+  <VAEWaste_Toxbear.lifeStages.0.labelPlural>токсамежата</VAEWaste_Toxbear.lifeStages.0.labelPlural>
+  
+  <VAEWaste_Toxbear.lifeStages.1.labelMale>молодий токсамідь</VAEWaste_Toxbear.lifeStages.1.labelMale>
+  <VAEWaste_Toxbear.lifeStages.1.labelFemale>молода токсамедиця</VAEWaste_Toxbear.lifeStages.1.labelFemale>
+  <VAEWaste_Toxbear.lifeStages.1.labelPlural>молоді токсамеді</VAEWaste_Toxbear.lifeStages.1.labelPlural>
+  
+  <!--  Токсагуана  -->
+  <!--toxiguana-->
+  <VAEWaste_Toxiguana.label>токсагуана</VAEWaste_Toxiguana.label>
+  <VAEWaste_Toxiguana.labelPlural>токсагуани</VAEWaste_Toxiguana.labelPlural>
+  
+  <VAEWaste_Toxiguana.lifeStages.0.label>дитинча токсагуани</VAEWaste_Toxiguana.lifeStages.0.label>
+  <VAEWaste_Toxiguana.lifeStages.0.labelPlural>дитинчата токсагуани</VAEWaste_Toxiguana.lifeStages.0.labelPlural>
+
+  <VAEWaste_Toxiguana.lifeStages.1.label>молода токсагуана</VAEWaste_Toxiguana.lifeStages.1.label>
+  <VAEWaste_Toxiguana.lifeStages.1.labelPlural>молоді токсагуани</VAEWaste_Toxiguana.lifeStages.1.labelPlural>
+  
+  <!--  Токсалев  -->
+  <!--toxlion-->
+  <VAEWaste_Toxlion.label>токсалев</VAEWaste_Toxlion.label>
+  <VAEWaste_Toxlion.labelFemale>токсалевиця</VAEWaste_Toxlion.labelFemale>
+  <VAEWaste_Toxlion.labelMale>токсалев</VAEWaste_Toxlion.labelMale>
+  <VAEWaste_Toxlion.labelPlural>токсалеви</VAEWaste_Toxlion.labelPlural>
+  
+  <!--toxlion cub-->
+  <VAEWaste_Toxlion.lifeStages.toxlion_cub.label>токсавеня</VAEWaste_Toxlion.lifeStages.toxlion_cub.label>
+  <VAEWaste_Toxlion.lifeStages.toxlion_cub.labelPlural>токсавенята</VAEWaste_Toxlion.lifeStages.toxlion_cub.labelPlural>
+  
+  <VAEWaste_Toxlion.lifeStages.1.labelMale>молодий токсалев</VAEWaste_Toxlion.lifeStages.1.labelMale>
+  <VAEWaste_Toxlion.lifeStages.1.labelFemale>молода токсалевиця</VAEWaste_Toxlion.lifeStages.1.labelFemale>
+  <VAEWaste_Toxlion.lifeStages.1.labelPlural>молоді токсалеви</VAEWaste_Toxlion.lifeStages.1.labelPlural>
+  
+  <!--  Токсарпіон  -->
+  <!--toxscorpion-->
+  <VAEWaste_Toxscorpion.label>токсарпіон</VAEWaste_Toxscorpion.label>
+  <VAEWaste_Toxscorpion.labelPlural>токсарпіони</VAEWaste_Toxscorpion.labelPlural>
+  
+  <VAEWaste_Toxscorpion.lifeStages.0.label>дитинча токсарпіона</VAEWaste_Toxscorpion.lifeStages.0.label>
+  <VAEWaste_Toxscorpion.lifeStages.0.labelPlural>дитинчата токсарпіона</VAEWaste_Toxscorpion.lifeStages.0.labelPlural>
+
+  <VAEWaste_Toxscorpion.lifeStages.1.label>молодий токсарпіон</VAEWaste_Toxscorpion.lifeStages.1.label>
+  <VAEWaste_Toxscorpion.lifeStages.1.labelPlural>молоді токсарпіони</VAEWaste_Toxscorpion.lifeStages.1.labelPlural>
+  
+  <!--  Сміттєбан  -->
+  <!--wasteboar-->
+  <VAEWaste_Wasteboar.label>сміттєбан</VAEWaste_Wasteboar.label>
+  <VAEWaste_Wasteboar.labelFemale>сміттєвиня</VAEWaste_Wasteboar.labelFemale>
+  <VAEWaste_Wasteboar.labelMale>сміттєбан</VAEWaste_Wasteboar.labelMale>
+  <VAEWaste_Wasteboar.labelPlural>сміттєбани</VAEWaste_Wasteboar.labelPlural>
+
+  <VAEWaste_Wasteboar.lifeStages.0.label>сміттєрося</VAEWaste_Wasteboar.lifeStages.0.label>
+  <VAEWaste_Wasteboar.lifeStages.0.labelPlural>сміттєросята</VAEWaste_Wasteboar.lifeStages.0.labelPlural>
+  
+  <VAEWaste_Wasteboar.lifeStages.1.labelMale>молодий сміттєбан</VAEWaste_Wasteboar.lifeStages.1.labelMale>
+  <VAEWaste_Wasteboar.lifeStages.1.labelFemale>молода сміттєвиня</VAEWaste_Wasteboar.lifeStages.1.labelFemale>
+  <VAEWaste_Wasteboar.lifeStages.1.labelPlural>молоді сміттєбани</VAEWaste_Wasteboar.lifeStages.1.labelPlural>
+  
+  <!--  Сміттєлень  -->
+  <!--wastedeer-->
+  <VAEWaste_Wastedeer.label>сміттєлень</VAEWaste_Wastedeer.label>
+  <!--wastedeer doe-->
+  <VAEWaste_Wastedeer.labelFemale>сміттєлениця</VAEWaste_Wastedeer.labelFemale>
+  <!--wastedeer buck-->
+  <VAEWaste_Wastedeer.labelMale>сміттєлень</VAEWaste_Wastedeer.labelMale>
+  <!--wastedeer-->
+  <VAEWaste_Wastedeer.labelPlural>сміттєлені</VAEWaste_Wastedeer.labelPlural>
+  
+  <VAEWaste_Wastedeer.lifeStages.0.label>сміттєленя</VAEWaste_Wastedeer.lifeStages.0.label>
+  <VAEWaste_Wastedeer.lifeStages.0.labelPlural>сміттєленята</VAEWaste_Wastedeer.lifeStages.0.labelPlural>
+  
+  <VAEWaste_Wastedeer.lifeStages.1.labelMale>молодий сміттєлень</VAEWaste_Wastedeer.lifeStages.1.labelMale>
+  <VAEWaste_Wastedeer.lifeStages.1.labelFemale>молода сміттєлениця</VAEWaste_Wastedeer.lifeStages.1.labelFemale>
+  <VAEWaste_Wastedeer.lifeStages.1.labelPlural>молоді сміттєлені</VAEWaste_Wastedeer.lifeStages.1.labelPlural>
+  
+  <!--  Сміттєфало  -->
+  <!--wasteffalo-->
+  <VAEWaste_Wasteffalo.label>сміттєфало</VAEWaste_Wasteffalo.label>
+  <VAEWaste_Wasteffalo.labelPlural>сміттєфало</VAEWaste_Wasteffalo.labelPlural>
+  
+  <!--wasteffalo calf-->
+  <VAEWaste_Wasteffalo.lifeStages.wasteffalo_calf.label>теля сміттєфало</VAEWaste_Wasteffalo.lifeStages.wasteffalo_calf.label>
+  <!--wasteffalo calves-->
+  <VAEWaste_Wasteffalo.lifeStages.wasteffalo_calf.labelPlural>телята сміттєфало</VAEWaste_Wasteffalo.lifeStages.wasteffalo_calf.labelPlural>
+  
+  <VAEWaste_Wasteffalo.lifeStages.1.label>молоде сміттєфало</VAEWaste_Wasteffalo.lifeStages.1.label>
+  <VAEWaste_Wasteffalo.lifeStages.1.labelPlural>молоді сміттєфало</VAEWaste_Wasteffalo.lifeStages.1.labelPlural>
+</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_leaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective->high</li>
+    <li>cultureLeaderAdjective->hallowed</li>
+    <li>cultureLeaderAdjective->most eminent</li>
+    <li>cultureLeaderAdjective->devoted</li>
+    <li>cultureLeaderAdjective->sublime</li>
+    <li>cultureLeaderNoun->hierophant</li>
+    <li>cultureLeaderNoun->priestess</li>
+    <li>cultureLeaderNoun->rose</li>
+    <li>cultureLeaderNoun->listener</li>
+  -->
+  <ReviaHighNamerLeader.rulePack.rulesStrings>
+    <li>r_leaderTitle->[cultureLeaderAdjective1] [cultureLeaderNoun1]</li>
+    <li>r_leaderTitle->[cultureLeaderAdjective2] [cultureLeaderNoun2]</li>
+    <li>cultureLeaderAdjective1->високий</li>
+    <li>cultureLeaderAdjective1->святий</li>
+    <li>cultureLeaderAdjective1->найвидатніший</li>
+    <li>cultureLeaderAdjective1->відданий</li>
+    <li>cultureLeaderAdjective1->піднесений</li>
+    <li>cultureLeaderNoun1->ієрофант</li>
+    <li>cultureLeaderNoun1->слухач</li>
+    <li>cultureLeaderAdjective2->висока</li>
+    <li>cultureLeaderAdjective2->свята</li>
+    <li>cultureLeaderAdjective2->найвидатніша</li>
+    <li>cultureLeaderAdjective2->віддана</li>
+    <li>cultureLeaderAdjective2->піднесена</li>
+    <li>cultureLeaderNoun2->жриця</li>
+    <li>cultureLeaderNoun2->роза</li>
+  </ReviaHighNamerLeader.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_leaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]-[cultureLeaderPostAdj]</li>
+    <li>cultureLeaderAdjective->mighty</li>
+    <li>cultureLeaderAdjective->great</li>
+    <li>cultureLeaderNoun->skull</li>
+    <li>cultureLeaderNoun->bone</li>
+    <li>cultureLeaderNoun->marrow</li>
+    <li>cultureLeaderNoun->flesh</li>
+    <li>cultureLeaderNoun->soul</li>
+    <li>cultureLeaderPostAdj->renderer</li>
+    <li>cultureLeaderPostAdj->shatterer</li>
+    <li>cultureLeaderPostAdj->breaker</li>
+    <li>cultureLeaderPostAdj->devourer</li>
+    <li>cultureLeaderPostAdj->destroyer</li>
+  -->
+  <ReviaRaiderNamerLeader.rulePack.rulesStrings>
+    <li>r_leaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]-[cultureLeaderPostAdj]</li>
+    <li>cultureLeaderAdjective->могутня</li>
+    <li>cultureLeaderAdjective->велична</li>
+    <li>cultureLeaderNoun->воля</li>
+    <li>cultureLeaderNoun->плоть</li>
+    <li>cultureLeaderNoun->душа</li>
+    <li>cultureLeaderNoun->сила</li>
+    <li>cultureLeaderPostAdj->реалізатора</li>
+    <li>cultureLeaderPostAdj->руйнівника</li>
+    <li>cultureLeaderPostAdj->розбивача</li>
+    <li>cultureLeaderPostAdj->пожирача</li>
+    <li>cultureLeaderPostAdj->винищувача</li>
+  </ReviaRaiderNamerLeader.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Double ствол Shotgun -->
+
+  <HIDGun_BrowningBSS.label>Двостволка</HIDGun_BrowningBSS.label>
+  <HIDGun_BrowningBSS.description>Старовинна конструкція двоствольної рушниці, що випускає два щільно упаковані шроти. Смертоносна, але з малою дальністю стрільби.</HIDGun_BrowningBSS.description>
+  <HIDGun_BrowningBSS.tools.0.label>приклад</HIDGun_BrowningBSS.tools.0.label>
+  <HIDGun_BrowningBSS.tools.1.label>ствол</HIDGun_BrowningBSS.tools.1.label>
+  <HIDGun_BrowningBSS.tools.2.label>дуло</HIDGun_BrowningBSS.tools.2.label>
+
+
+  <!-- M590A1 -->
+
+  <HIDGun_M590A1Gun.label>Mossberg 590A1</HIDGun_M590A1Gun.label>
+  <HIDGun_M590A1Gun.description>Старовинна конструкція рушниці, що випускає щільно упакований аерозоль дробинок. Смертоносна, але з малою дальністю стрільби.</HIDGun_M590A1Gun.description>
+  <HIDGun_M590A1Gun.tools.0.label>приклад</HIDGun_M590A1Gun.tools.0.label>
+  <HIDGun_M590A1Gun.tools.1.label>ствол</HIDGun_M590A1Gun.tools.1.label>
+  <HIDGun_M590A1Gun.tools.2.label>дуло</HIDGun_M590A1Gun.tools.2.label>
+
+
+  <!-- M590A1 Retro -->
+
+  <HIDGun_M590A1Retro.label>Mossberg 590A1 Retrograde</HIDGun_M590A1Retro.label>
+  <HIDGun_M590A1Retro.description>Старовинна конструкція рушниці, що випускає щільно упакований аерозоль дробинок. Смертоносна, але з малої відстані.</HIDGun_M590A1Retro.description>
+  <HIDGun_M590A1Retro.tools.0.label>приклад</HIDGun_M590A1Retro.tools.0.label>
+  <HIDGun_M590A1Retro.tools.1.label>ствол</HIDGun_M590A1Retro.tools.1.label>
+  <HIDGun_M590A1Retro.tools.2.label>дуло</HIDGun_M590A1Retro.tools.2.label>
+
+
+  <!-- M590A1 Short -->
+
+  <HIDGun_M590A1Short.label>Mossberg 590A1 Class III</HIDGun_M590A1Short.label>
+  <HIDGun_M590A1Short.description>Старовинна конструкція рушниці, що випускає щільно упакований аерозоль дробинок. Смертоносна, але з малою дальністю.</HIDGun_M590A1Short.description>
+  <HIDGun_M590A1Short.tools.0.label>приклад</HIDGun_M590A1Short.tools.0.label>
+  <HIDGun_M590A1Short.tools.1.label>ствол</HIDGun_M590A1Short.tools.1.label>
+  <HIDGun_M590A1Short.tools.2.label>дуло</HIDGun_M590A1Short.tools.2.label>
+
+
+  <!-- SPAS-12 -->
+
+  <HIDGun_SPAS12Gun.label>SPAS-12</HIDGun_SPAS12Gun.label>
+  <HIDGun_SPAS12Gun.description>Старовинна конструкція дробовика, що випускає щільно упакований аерозоль дробу. Смертоносна, але з малої відстані.</HIDGun_SPAS12Gun.description>
+  <HIDGun_SPAS12Gun.tools.0.label>приклад</HIDGun_SPAS12Gun.tools.0.label>
+  <HIDGun_SPAS12Gun.tools.1.label>ствол</HIDGun_SPAS12Gun.tools.1.label>
+  <HIDGun_SPAS12Gun.tools.2.label>дуло</HIDGun_SPAS12Gun.tools.2.label>
+
+
+  <!-- SPAS-12 Sport -->
+
+  <HIDGun_SPAS12Sport.label>SPAS-12 спортивний</HIDGun_SPAS12Sport.label>
+  <HIDGun_SPAS12Sport.description>Старовинна конструкція дробовика, що випускає щільно упакований аерозоль дробу. Смертоносна, але з малої відстані.</HIDGun_SPAS12Sport.description>
+  <HIDGun_SPAS12Sport.tools.0.label>приклад</HIDGun_SPAS12Sport.tools.0.label>
+  <HIDGun_SPAS12Sport.tools.1.label>ствол</HIDGun_SPAS12Sport.tools.1.label>
+  <HIDGun_SPAS12Sport.tools.2.label>дуло</HIDGun_SPAS12Sport.tools.2.label>
+  
+  
+  <!-- SPAS-12 Stockless -->
+
+  <HIDGun_SPAS12Stockless.label>SPAS-12 (без прикладу)</HIDGun_SPAS12Stockless.label>
+  <HIDGun_SPAS12Stockless.description>Старовинна конструкція дробовика, що випускає щільно упакований аерозоль дробу. Смертоносна, але з малої відстані.</HIDGun_SPAS12Stockless.description>
+  <HIDGun_SPAS12Stockless.tools.0.label>ствол</HIDGun_SPAS12Stockless.tools.0.label>
+  <HIDGun_SPAS12Stockless.tools.1.label>дуло</HIDGun_SPAS12Stockless.tools.1.label>
+  
+
+
+  <!-- Remington Model 870 -->
+
+  <HIDGun_RemingtonM870Gun.label>Remington Model 870</HIDGun_RemingtonM870Gun.label>
+  <HIDGun_RemingtonM870Gun.description>Старовинна конструкція дробовика, що випускає щільно упакований аерозоль дробу. Смертоносна, але з малої відстані.</HIDGun_RemingtonM870Gun.description>
+  <HIDGun_RemingtonM870Gun.tools.0.label>приклад</HIDGun_RemingtonM870Gun.tools.0.label>
+  <HIDGun_RemingtonM870Gun.tools.1.label>ствол</HIDGun_RemingtonM870Gun.tools.1.label>
+  <HIDGun_RemingtonM870Gun.tools.2.label>дуло</HIDGun_RemingtonM870Gun.tools.2.label>
+
+
+  <!-- M1014 -->
+
+  <HIDGun_M1014Gun.label>M1014</HIDGun_M1014Gun.label>
+  <HIDGun_M1014Gun.description>Старовинна конструкція дробовика, що випускає щільно упакований аерозоль дробу. Смертоносна, але з малої відстані.</HIDGun_M1014Gun.description>
+  <HIDGun_M1014Gun.tools.0.label>приклад</HIDGun_M1014Gun.tools.0.label>
+  <HIDGun_M1014Gun.tools.1.label>ствол</HIDGun_M1014Gun.tools.1.label>
+  <HIDGun_M1014Gun.tools.2.label>дуло</HIDGun_M1014Gun.tools.2.label>
+
+
+  <!-- Browning Auto-5 -->
+
+  <HIDGun_BrowningA5Gun.label>Browing Auto-5</HIDGun_BrowningA5Gun.label>
+  <HIDGun_BrowningA5Gun.description>Старовинна конструкція дробовика, що випускає щільно упакований аерозоль дробу. Смертоносна, але з малої відстані.</HIDGun_BrowningA5Gun.description>
+  <HIDGun_BrowningA5Gun.tools.0.label>приклад</HIDGun_BrowningA5Gun.tools.0.label>
+  <HIDGun_BrowningA5Gun.tools.1.label>ствол</HIDGun_BrowningA5Gun.tools.1.label>
+  <HIDGun_BrowningA5Gun.tools.2.label>дуло</HIDGun_BrowningA5Gun.tools.2.label>
+
+
+  <!-- AA-12 -->
+
+  <HIDGun_AA12Gun.label>AA-12</HIDGun_AA12Gun.label>
+  <HIDGun_AA12Gun.description>Старовинна конструкція дробовика, що випускає щільно упакований аерозоль дробу. Смертоносна, але з малої відстані.</HIDGun_AA12Gun.description>
+  <HIDGun_AA12Gun.tools.0.label>приклад</HIDGun_AA12Gun.tools.0.label>
+  <HIDGun_AA12Gun.tools.1.label>ствол</HIDGun_AA12Gun.tools.1.label>
+  <HIDGun_AA12Gun.tools.2.label>дуло</HIDGun_AA12Gun.tools.2.label>
+
+
+</LanguageData>

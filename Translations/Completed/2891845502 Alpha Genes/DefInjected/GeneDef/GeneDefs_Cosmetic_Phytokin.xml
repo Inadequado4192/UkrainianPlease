@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ocular hair -->
+  <VRE_HairColor_Ocular.label>окулярне волосся</VRE_HairColor_Ocular.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <VRE_HairColor_Ocular.description>Носії цього гена мають певний колір волосся. При наявності декількох генів кольору волосся один з них вибирається випадковим чином.</VRE_HairColor_Ocular.description>
+  
+  <!-- EN: ocular bark skin -->
+  <VRE_SkinColor_OcularBark.label>окулярна шкіра кори</VRE_SkinColor_OcularBark.label>
+  <!-- EN: Carriers of this gene produce a pigment that gives their skin a colour similar to that of the bark of ocular trees. -->
+  <VRE_SkinColor_OcularBark.description>Носії цього гена виробляють пігмент, який надає їхній шкірі колір, схожий на колір кори окулярних дерев.</VRE_SkinColor_OcularBark.description>
+  <!-- EN: red -->
+  <VRE_SkinColor_OcularBark.labelShortAdj>червоний</VRE_SkinColor_OcularBark.labelShortAdj>
+  <!-- EN: ocul -->
+  <VRE_SkinColor_OcularBark.symbolPack.prefixSymbols.0.symbol>окул</VRE_SkinColor_OcularBark.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: eye -->
+  <VRE_SkinColor_OcularBark.symbolPack.prefixSymbols.1.symbol>око</VRE_SkinColor_OcularBark.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: ocularkin -->
+  <VRE_SkinColor_OcularBark.symbolPack.wholeNameSymbols.0.symbol>окуляркін</VRE_SkinColor_OcularBark.symbolPack.wholeNameSymbols.0.symbol>
+  
+</LanguageData>

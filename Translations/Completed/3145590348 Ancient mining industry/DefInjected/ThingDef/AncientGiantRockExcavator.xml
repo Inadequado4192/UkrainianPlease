@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BreadMoAM_AncientGiantRockExcavator.label>Шасі древнього гігантського кар'єрного екскаватора</BreadMoAM_AncientGiantRockExcavator.label>
+  <BreadMoAM_AncientGiantRockExcavator.description>Рештки того, що колись було гірським механічним чудовиськом, більшим за переважну кількість звичайних будівель. Можливо, стародавні люди так ненавиділи свою планету, що побудували цю машину, щоб знищити її. Однак, з його основними компонентами, що проржавіли та вивітрілися, він просто не зможе функціонувати зараз. Його знищення може принести деякі корисні ресурси.</BreadMoAM_AncientGiantRockExcavator.description>
+  <BreadMoAM_AncientGiantRockExcavator_Blueprint_Install.label>Шасі древнього гігантського кар'єрного екскаватора (креслення)</BreadMoAM_AncientGiantRockExcavator_Blueprint_Install.label>
+
+  <BreadMoAM_AncientExcavatorPowerFacilities.label>Древня система живлення кар'єрного екскаватора</BreadMoAM_AncientExcavatorPowerFacilities.label>
+  <BreadMoAM_AncientExcavatorPowerFacilities.description>Розірвана силова система древнього кар'єрного екскаватора. У часи свого розквіту цей електрогідравлічний двигун міг з легкістю підняти гігантські камені або, мабуть, цілу гору. Однак зараз він не функціонує без основних компонентів, а його знищення може дати деякі корисні ресурси.</BreadMoAM_AncientExcavatorPowerFacilities.description>
+  <BreadMoAM_AncientExcavatorPowerFacilities_Blueprint_Install.label>Древня система живлення екскаватора (креслення)</BreadMoAM_AncientExcavatorPowerFacilities_Blueprint_Install.label>
+
+  <BreadMoAM_AncientExcavatorBucketWheel.label>Древнє екскаваторне ківшове колесо</BreadMoAM_AncientExcavatorBucketWheel.label>
+  <BreadMoAM_AncientExcavatorBucketWheel.description>Іржаве колесо ковша древнього гігантського кар'єрного екскаватора. Виготовлене з високоміцного сплаву, це колесо колись могло з легкістю подрібнювати кам'яні брили. Однак, втративши свої основні компоненти, воно зараз не може функціонувати. Його знищення може дати деякі корисні ресурси.</BreadMoAM_AncientExcavatorBucketWheel.description>
+  <BreadMoAM_AncientExcavatorBucketWheel_Blueprint_Install.label>Древнє екскаваторне ківшове колесо (креслення)</BreadMoAM_AncientExcavatorBucketWheel_Blueprint_Install.label>
+
+
+</LanguageData>

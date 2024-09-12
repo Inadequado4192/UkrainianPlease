@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <couldBeWorse.label>Могло Бути і Гірше</couldBeWorse.label>
+  <couldBeWorse.description>Пережити квадрум</couldBeWorse.description>
+
+  <itsAllDownhillFromHere.label>Звідси Все Йде Під Укіс</itsAllDownhillFromHere.label>
+  <itsAllDownhillFromHere.description>Пережити рік</itsAllDownhillFromHere.description>
+
+  <tenHoursWoah.label>10 Годин? Вау!</tenHoursWoah.label>
+  <tenHoursWoah.description>Проведіть 10 годин, граючи за поточну колонію</tenHoursWoah.description>
+
+  <waitAMinute.label>Ще Хвилиночку...</waitAMinute.label>
+  <waitAMinute.description>Проведіть 100 годин, граючи за поточну колонію</waitAMinute.description>
+</LanguageData>

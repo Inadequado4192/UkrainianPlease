@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Behavior -->
+
+  <AM_CremateFuneralBehavior.spectatorFilter.description>Глядачі повинні бути живими.</AM_CremateFuneralBehavior.spectatorFilter.description>
+  <AM_CremateFuneralBehavior.roles.0.label>промовець</AM_CremateFuneralBehavior.roles.0.label>
+  <AM_CremateFuneralBehavior.roles.1.label>Тіло</AM_CremateFuneralBehavior.roles.1.label>
+  <AM_CremateFuneralBehavior.roles.2.label>Будівельник</AM_CremateFuneralBehavior.roles.2.label>
+  <AM_CremateFuneralBehavior.stages.1.postAction.text>{0}:Промова закінчена, і починається кремація.</AM_CremateFuneralBehavior.stages.1.postAction.text>
+
+
+</LanguageData>

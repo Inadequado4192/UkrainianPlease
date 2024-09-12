@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <T-800.label>Т-800</T-800.label>
+  <T-800.description>Мати одного поселенця з біонічними ногами, руками, хребтом, вухами та очима</T-800.description>
+  
+  <imAPirate.label>Я ж Пірат</imAPirate.label>
+  <imAPirate.description>Встановіть поселенцю дерев'яну ногу</imAPirate.description>
+  
+  <onEdge.label>На Межі</onEdge.label>
+  <onEdge.description>Здобути імунітет, коли інфекція прогресувала на 99%</onEdge.description>
+  
+  <thatllShowHim.label>Це Йому Покаже</thatllShowHim.label>
+  <thatllShowHim.description>Заморити поселенця голодом</thatllShowHim.description>
+</LanguageData>

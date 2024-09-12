@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Somethingsomething scopecreep -->
+
+  <AM_ArtDescription_Urn.rulePack.rulesStrings.0>physical_description_root->The Urn is engraved with a [depiction] of [image]. [desc_sentence_group]</AM_ArtDescription_Urn.rulePack.rulesStrings.0>
+  <AM_ArtDescription_Urn.rulePack.rulesStrings.1>physical_description_root->The Urn bears a [depiction] of [image]. [desc_sentence_group]</AM_ArtDescription_Urn.rulePack.rulesStrings.1>
+  <AM_ArtDescription_Urn.rulePack.rulesStrings.2>physical_description_root->The Urn is engraved with a [depiction] of [image]. [desc_sentence_group]</AM_ArtDescription_Urn.rulePack.rulesStrings.2>
+  <AM_ArtDescription_Urn.rulePack.rulesStrings.3>physical_description_root->An engraving on this Urn [depicts] [image]. [desc_sentence_group]</AM_ArtDescription_Urn.rulePack.rulesStrings.3>
+
+  <AM_ArtDescription_Mummy.rulePack.rulesStrings.0>physical_description_root->The plaque is engraved with a [depiction] of [image]. [desc_sentence_group]</AM_ArtDescription_Mummy.rulePack.rulesStrings.0>
+  <AM_ArtDescription_Mummy.rulePack.rulesStrings.1>physical_description_root->The plaque has a [depiction] of [image]. [desc_sentence_group]</AM_ArtDescription_Mummy.rulePack.rulesStrings.1>
+  <AM_ArtDescription_Mummy.rulePack.rulesStrings.2>physical_description_root->The plaque is engraved with a [depiction] of [image]. [desc_sentence_group]</AM_ArtDescription_Mummy.rulePack.rulesStrings.2>
+  <AM_ArtDescription_Mummy.rulePack.rulesStrings.3>physical_description_root->An engraving on the plaque [depicts] [image]. [desc_sentence_group]</AM_ArtDescription_Mummy.rulePack.rulesStrings.3>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mini-turret -->
+
+  <BreadMoAM_Turret_ShotgunTurret.label>Древня міні-турель з дробовиком</BreadMoAM_Turret_ShotgunTurret.label>
+  <BreadMoAM_Turret_ShotgunTurret.description>Древня компактна міні-турель з дробовиком. Потребує сталі для відновлення ствола після інтенсивного використання. При пошкодженні може вибухнути. Її штучним інтелектом не можна керувати безпосередньо, тому остерігайтеся дружнього вогню.</BreadMoAM_Turret_ShotgunTurret.description>
+  <BreadMoAM_Turret_ShotgunTurret_Blueprint_Install.label>Древня міні-турель з дробовиком (креслення)</BreadMoAM_Turret_ShotgunTurret_Blueprint_Install.label>
+
+  <BreadMoAM_Bullet_ShotgunTurret.label>куля міні-турелі</BreadMoAM_Bullet_ShotgunTurret.label>
+  <BreadMoAM_Bullet_AMShotgunPellet.label>рушнична куля</BreadMoAM_Bullet_AMShotgunPellet.label>
+
+  <BreadMoAM_Gun_ShotgunTurret.label>Древній турельний міні-дробовик </BreadMoAM_Gun_ShotgunTurret.label>
+  <BreadMoAM_Gun_ShotgunTurret.description>Проста автоматична рушниця, зроблена для встановлення на турель.</BreadMoAM_Gun_ShotgunTurret.description>
+
+  <BreadMoAM_Turret_ShotgunTurretN.label>Міні-турель з дробовиком</BreadMoAM_Turret_ShotgunTurretN.label>
+  <BreadMoAM_Turret_ShotgunTurretN.description>Древня компактна міні-турель з дробовиком. Потребує сталі для відновлення ствола після інтенсивного використання. При пошкодженні може вибухнути. Її штучним інтелектом не можна керувати безпосередньо, тому остерігайтеся дружнього вогню.</BreadMoAM_Turret_ShotgunTurretN.description>
+  <BreadMoAM_Turret_ShotgunTurretN_Blueprint.label>Міні-турель з дробовиком (креслення)</BreadMoAM_Turret_ShotgunTurretN_Blueprint.label>
+  <BreadMoAM_Turret_ShotgunTurretN_Blueprint_Install.label>Міні-турель з дробовиком (креслення)</BreadMoAM_Turret_ShotgunTurretN_Blueprint_Install.label>
+  <BreadMoAM_Turret_ShotgunTurretN_Frame.label>Міні-турель з дробовиком (building)</BreadMoAM_Turret_ShotgunTurretN_Frame.label>
+  <BreadMoAM_Turret_ShotgunTurretN_Frame.description>Древня компактна міні-турель з дробовиком. Потребує сталі для відновлення ствола після інтенсивного використання. При пошкодженні може вибухнути. Її штучним інтелектом не можна керувати безпосередньо, тому остерігайтеся дружнього вогню.</BreadMoAM_Turret_ShotgunTurretN_Frame.description>
+
+  <BreadMoAM_Gun_ShotgunTurretN.label>Турельний міні-дробовик</BreadMoAM_Gun_ShotgunTurretN.label>
+  <BreadMoAM_Gun_ShotgunTurretN.description>Проста автоматична рушниця, зроблена для встановлення на турель.</BreadMoAM_Gun_ShotgunTurretN.description>
+
+  <BreadMoAM_Turret_LargeShotgun.label>Крупнокаліберна турель з дробовиком</BreadMoAM_Turret_LargeShotgun.label>
+  <BreadMoAM_Turret_LargeShotgun.description>Крупнокаліберна дробова турель, достатньо потужна, щоб створювати руйнівну загрозу на середніх та близьких дистанціях. Здатна з легкістю пробивати хітин інсектоїдів, вона є справжньою машиною для вбивства комах, яку зазвичай використовують для захисту військових розкопок.</BreadMoAM_Turret_LargeShotgun.description>
+  <BreadMoAM_Turret_LargeShotgun_Blueprint_Install.label>Крупнокаліберна турель з дробовиком (креслення)</BreadMoAM_Turret_LargeShotgun_Blueprint_Install.label>
+
+  <BreadMoAM_Bullet_LargeShotgunTurret.label>великий дробовий патрон</BreadMoAM_Bullet_LargeShotgunTurret.label>
+  <BreadMoAM_BIGBullet_AMShotgunPellet.label>куля дробовика</BreadMoAM_BIGBullet_AMShotgunPellet.label>
+
+  <BreadMoAM_Gun_LargeShotgunTurret.label>крупнокаліберний дробовик</BreadMoAM_Gun_LargeShotgunTurret.label>
+  <BreadMoAM_Gun_LargeShotgunTurret.description>Самозарядна великокаліберна гармата, призначена для кріплення на башті.</BreadMoAM_Gun_LargeShotgunTurret.description>
+
+
+</LanguageData>

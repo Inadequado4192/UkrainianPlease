@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Uzi -->
+
+  <HIDGun_Uzi.label>Uzi</HIDGun_Uzi.label>
+  <HIDGun_Uzi.description>A relatively compact submachine gun with a foldable stock.</HIDGun_Uzi.description>
+  <HIDGun_Uzi.tools.0.label>stock</HIDGun_Uzi.tools.0.label>
+  <HIDGun_Uzi.tools.1.label>barrel</HIDGun_Uzi.tools.1.label>
+  <HIDGun_Uzi.tools.2.label>muzzle</HIDGun_Uzi.tools.2.label>
+
+
+  <!-- Micro Uzi -->
+
+  <HIDGun_UziMicro.label>Micro Uzi</HIDGun_UziMicro.label>
+  <HIDGun_UziMicro.description>An infamous machine pistol design, very hard to control in automatic fire.</HIDGun_UziMicro.description>
+  <HIDGun_UziMicro.tools.0.label>grip</HIDGun_UziMicro.tools.0.label>
+  <HIDGun_UziMicro.tools.1.label>muzzle</HIDGun_UziMicro.tools.1.label>
+
+
+  <!-- MP5A2 -->
+
+  <HIDGun_MP5A2Gun.label>MP5A2</HIDGun_MP5A2Gun.label>
+  <HIDGun_MP5A2Gun.description>A full-sized submachine gun with a relatively light weight.</HIDGun_MP5A2Gun.description>
+  <HIDGun_MP5A2Gun.tools.0.label>stock</HIDGun_MP5A2Gun.tools.0.label>
+  <HIDGun_MP5A2Gun.tools.1.label>barrel</HIDGun_MP5A2Gun.tools.1.label>
+  <HIDGun_MP5A2Gun.tools.2.label>muzzle</HIDGun_MP5A2Gun.tools.2.label>
+
+
+  <!-- MP5K -->
+
+  <HIDGun_MP5K.label>MP5K</HIDGun_MP5K.label>
+  <HIDGun_MP5K.description>A stockless variant of the classic MP5. Very unwieldy but can be used one-handed.</HIDGun_MP5K.description>
+  <HIDGun_MP5K.tools.0.label>barrel</HIDGun_MP5K.tools.0.label>
+  <HIDGun_MP5K.tools.1.label>muzzle</HIDGun_MP5K.tools.1.label>
+
+
+  <!-- MP5K-PDW -->
+
+  <HIDGun_MP5KPDW.label>MP5K-PDW</HIDGun_MP5KPDW.label>
+  <HIDGun_MP5KPDW.description>A compact submachine gun with a folding stock.</HIDGun_MP5KPDW.description>
+  <HIDGun_MP5KPDW.tools.0.label>stock</HIDGun_MP5KPDW.tools.0.label>
+  <HIDGun_MP5KPDW.tools.1.label>barrel</HIDGun_MP5KPDW.tools.1.label>
+  <HIDGun_MP5KPDW.tools.2.label>muzzle</HIDGun_MP5KPDW.tools.2.label>
+
+
+  <!-- Tommy Gun -->
+
+  <HIDGun_TommyGun.label>Thompson submachine gun</HIDGun_TommyGun.label>
+  <HIDGun_TommyGun.description>A full-sized submachine gun with a high capacity drum magazine.</HIDGun_TommyGun.description>
+  <HIDGun_TommyGun.tools.0.label>stock</HIDGun_TommyGun.tools.0.label>
+  <HIDGun_TommyGun.tools.1.label>barrel</HIDGun_TommyGun.tools.1.label>
+  <HIDGun_TommyGun.tools.2.label>muzzle</HIDGun_TommyGun.tools.2.label>
+
+
+  <!-- Luty SMG -->
+
+  <HIDGun_LutySMG.label>Luty submachine gun</HIDGun_LutySMG.label>
+  <HIDGun_LutySMG.description>A very simple improvised firearm, able to be made out of anything laying around. It has an unrifled barrel, no semi-automatic fire, no stock, and no sights, making this gun unfathomably inaccurate.</HIDGun_LutySMG.description>
+  <HIDGun_LutySMG.tools.0.label>barrel</HIDGun_LutySMG.tools.0.label>
+  <HIDGun_LutySMG.tools.1.label>muzzle</HIDGun_LutySMG.tools.1.label>
+
+
+  <!-- AR-57 -->
+
+  <HIDGun_AR57Gun.label>AR-57</HIDGun_AR57Gun.label>
+  <HIDGun_AR57Gun.description>A relatively compact submachine gun using a specialized cartridge designed to penetrate armor.</HIDGun_AR57Gun.description>
+  <HIDGun_AR57Gun.tools.0.label>stock</HIDGun_AR57Gun.tools.0.label>
+  <HIDGun_AR57Gun.tools.1.label>barrel</HIDGun_AR57Gun.tools.1.label>
+  <HIDGun_AR57Gun.tools.2.label>muzzle</HIDGun_AR57Gun.tools.2.label>
+
+
+  <!-- M4A1 -->
+
+  <HIDGun_M4A1C.label>M4A1</HIDGun_M4A1C.label>
+  <HIDGun_M4A1C.description>A widespread carbine design fitted with a retractable stock.</HIDGun_M4A1C.description>
+  <HIDGun_M4A1C.tools.0.label>stock</HIDGun_M4A1C.tools.0.label>
+  <HIDGun_M4A1C.tools.1.label>barrel</HIDGun_M4A1C.tools.1.label>
+  <HIDGun_M4A1C.tools.2.label>muzzle</HIDGun_M4A1C.tools.2.label>
+
+
+  <!-- Mk 18 -->
+
+  <HIDGun_Mk18C.label>Mk 18 Mod 1</HIDGun_Mk18C.label>
+  <HIDGun_Mk18C.description>A very cut down carbine fitted with a holo sight, intended for close quarters combat.</HIDGun_Mk18C.description>
+  <HIDGun_Mk18C.tools.0.label>stock</HIDGun_Mk18C.tools.0.label>
+  <HIDGun_Mk18C.tools.1.label>barrel</HIDGun_Mk18C.tools.1.label>
+  <HIDGun_Mk18C.tools.2.label>muzzle</HIDGun_Mk18C.tools.2.label>
+
+
+  <!-- UDMC PVAR Rifle -->
+
+  <HIDGun_PVARRifle.label>UDMC PVAR Rifle</HIDGun_PVARRifle.label>
+  <HIDGun_PVARRifle.description>A rifle designed with a unique internal mechanism which helps to reduce recoil. Fitted with a retractable stock and a close-range optic.</HIDGun_PVARRifle.description>
+  <HIDGun_PVARRifle.tools.0.label>stock</HIDGun_PVARRifle.tools.0.label>
+  <HIDGun_PVARRifle.tools.1.label>barrel</HIDGun_PVARRifle.tools.1.label>
+  <HIDGun_PVARRifle.tools.2.label>muzzle</HIDGun_PVARRifle.tools.2.label>
+
+
+  <!-- XM8 -->
+
+  <HIDGun_XM8C.label>XM8</HIDGun_XM8C.label>
+  <HIDGun_XM8C.description>A long forgotten carbine design fitted with a retractable stock and an integrated reflex sight.</HIDGun_XM8C.description>
+  <HIDGun_XM8C.tools.0.label>stock</HIDGun_XM8C.tools.0.label>
+  <HIDGun_XM8C.tools.1.label>barrel</HIDGun_XM8C.tools.1.label>
+  <HIDGun_XM8C.tools.2.label>muzzle</HIDGun_XM8C.tools.2.label>
+
+  <HIDGun_XM8CQC.label>XM8-CS</HIDGun_XM8CQC.label>
+  <HIDGun_XM8CQC.description>A long forgotten carbine design fitted with a retractable stock and its reflex sight missing. Upon closer inspection, it seems to have been made in the year 2700 for a long distant military.</HIDGun_XM8CQC.description>
+  <HIDGun_XM8CQC.tools.0.label>stock</HIDGun_XM8CQC.tools.0.label>
+  <HIDGun_XM8CQC.tools.1.label>barrel</HIDGun_XM8CQC.tools.1.label>
+  <HIDGun_XM8CQC.tools.2.label>muzzle</HIDGun_XM8CQC.tools.2.label>
+
+
+  <!-- Ruger 10/22 Carbine -->
+
+  <HIDGun_Ruger22Carbine.label>Ruger 10/22 Carbine</HIDGun_Ruger22Carbine.label>
+  <HIDGun_Ruger22Carbine.description>A blowback-operated self-loading rifle using an underpowered cartridge. Mostly effective for varmint hunting.</HIDGun_Ruger22Carbine.description>
+  <HIDGun_Ruger22Carbine.tools.0.label>stock</HIDGun_Ruger22Carbine.tools.0.label>
+  <HIDGun_Ruger22Carbine.tools.1.label>barrel</HIDGun_Ruger22Carbine.tools.1.label>
+  <HIDGun_Ruger22Carbine.tools.2.label>muzzle</HIDGun_Ruger22Carbine.tools.2.label>
+
+
+  <!-- Ruger 10/22 Target -->
+
+  <HIDGun_Ruger22Target.label>Ruger 10/22 Target</HIDGun_Ruger22Target.label>
+  <HIDGun_Ruger22Target.description>An exotic looking blowback-operated self-loading rifle using an underpowered cartridge. Mostly effective for competition shooting.</HIDGun_Ruger22Target.description>
+  <HIDGun_Ruger22Target.tools.0.label>stock</HIDGun_Ruger22Target.tools.0.label>
+  <HIDGun_Ruger22Target.tools.1.label>barrel</HIDGun_Ruger22Target.tools.1.label>
+  <HIDGun_Ruger22Target.tools.2.label>muzzle</HIDGun_Ruger22Target.tools.2.label>
+
+
+  <!-- AR-15 -->
+
+  <HIDGun_AR15Standard.label>AR-15</HIDGun_AR15Standard.label>
+  <HIDGun_AR15Standard.description>A semi-automatic rifle, created for the civilian market.</HIDGun_AR15Standard.description>
+  <HIDGun_AR15Standard.tools.0.label>stock</HIDGun_AR15Standard.tools.0.label>
+  <HIDGun_AR15Standard.tools.1.label>barrel</HIDGun_AR15Standard.tools.1.label>
+  <HIDGun_AR15Standard.tools.2.label>muzzle</HIDGun_AR15Standard.tools.2.label>
+
+
+  <!-- M4A3 -->
+
+  <HIDGun_M4A3C.label>AR-15</HIDGun_M4A3C.label>
+  <HIDGun_M4A3C.description>A semi-automatic rifle, created for the civilian market.</HIDGun_M4A3C.description>
+  <HIDGun_M4A3C.tools.0.label>stock</HIDGun_M4A3C.tools.0.label>
+  <HIDGun_M4A3C.tools.1.label>barrel</HIDGun_M4A3C.tools.1.label>
+  <HIDGun_M4A3C.tools.2.label>muzzle</HIDGun_M4A3C.tools.2.label>
+
+
+  <!-- M4 PATROLMAN'S -->
+
+  <HIDGun_M4PATROLMAN.label>AR-15</HIDGun_M4PATROLMAN.label>
+  <HIDGun_M4PATROLMAN.description>A semi-automatic rifle, created for the civilian market.</HIDGun_M4PATROLMAN.description>
+  <HIDGun_M4PATROLMAN.tools.0.label>stock</HIDGun_M4PATROLMAN.tools.0.label>
+  <HIDGun_M4PATROLMAN.tools.1.label>barrel</HIDGun_M4PATROLMAN.tools.1.label>
+  <HIDGun_M4PATROLMAN.tools.2.label>muzzle</HIDGun_M4PATROLMAN.tools.2.label>
+
+
+  <!-- Ruger AR-556 -->
+
+  <HIDGun_RugerAR556Standard.label>AR-15</HIDGun_RugerAR556Standard.label>
+  <HIDGun_RugerAR556Standard.description>A semi-automatic rifle, created for the civilian market.</HIDGun_RugerAR556Standard.description>
+  <HIDGun_RugerAR556Standard.tools.0.label>stock</HIDGun_RugerAR556Standard.tools.0.label>
+  <HIDGun_RugerAR556Standard.tools.1.label>barrel</HIDGun_RugerAR556Standard.tools.1.label>
+  <HIDGun_RugerAR556Standard.tools.2.label>muzzle</HIDGun_RugerAR556Standard.tools.2.label>
+
+
+  <!-- Ak-47 Civilian -->
+
+  <HIDGun_AK47Semi.label>AK-47 (Semi)</HIDGun_AK47Semi.label>
+  <HIDGun_AK47Semi.description>An ancient pattern semi-automatic rifle, generally considered to be simple and reliable. Even now, it remains the most widespread firearm ever made. created for the civilian market.</HIDGun_AK47Semi.description>
+  <HIDGun_AK47Semi.tools.0.label>stock</HIDGun_AK47Semi.tools.0.label>
+  <HIDGun_AK47Semi.tools.1.label>barrel</HIDGun_AK47Semi.tools.1.label>
+  <HIDGun_AK47Semi.tools.2.label>muzzle</HIDGun_AK47Semi.tools.2.label>
+
+
+  <!-- Zastava M76 -->
+
+  <HIDGun_M76Zastava.label>Zastava M76</HIDGun_M76Zastava.label>
+  <HIDGun_M76Zastava.description>An ancient pattern semi-automatic DMR, fitted with a scope.</HIDGun_M76Zastava.description>
+  <HIDGun_M76Zastava.tools.0.label>stock</HIDGun_M76Zastava.tools.0.label>
+  <HIDGun_M76Zastava.tools.1.label>barrel</HIDGun_M76Zastava.tools.1.label>
+  <HIDGun_M76Zastava.tools.2.label>muzzle</HIDGun_M76Zastava.tools.2.label>
+
+
+  <!-- H.C.A.R. -->
+
+  <HIDGun_HCAR.label>HCAR</HIDGun_HCAR.label>
+  <HIDGun_HCAR.description>A heavy semi-automatic rifle intended for civilian defensive use. Chambered for the hard-hitting .30-06 cartridge and fitted with a holographic sight.</HIDGun_HCAR.description>
+  <HIDGun_HCAR.tools.0.label>stock</HIDGun_HCAR.tools.0.label>
+  <HIDGun_HCAR.tools.1.label>barrel</HIDGun_HCAR.tools.1.label>
+  <HIDGun_HCAR.tools.2.label>muzzle</HIDGun_HCAR.tools.2.label>
+
+
+  <!-- AR-57 Civilian -->
+
+  <HIDGun_AR57Semi.label>AR-57 (Semi)</HIDGun_AR57Semi.label>
+  <HIDGun_AR57Semi.description>A blowback-operated semi-automatic rifle using an underpowered cartridge designed to penetrate armor.</HIDGun_AR57Semi.description>
+  <HIDGun_AR57Semi.tools.0.label>stock</HIDGun_AR57Semi.tools.0.label>
+  <HIDGun_AR57Semi.tools.1.label>barrel</HIDGun_AR57Semi.tools.1.label>
+  <HIDGun_AR57Semi.tools.2.label>muzzle</HIDGun_AR57Semi.tools.2.label>
+
+
+  <!-- M27 IAR -->
+
+  <HIDGun_M27IAR.label>M27 IAR</HIDGun_M27IAR.label>
+  <HIDGun_M27IAR.description>An automatic rifle made for long range suppresive fire while being lighter than a typical LMG.</HIDGun_M27IAR.description>
+  <HIDGun_M27IAR.tools.0.label>stock</HIDGun_M27IAR.tools.0.label>
+  <HIDGun_M27IAR.tools.1.label>barrel</HIDGun_M27IAR.tools.1.label>
+  <HIDGun_M27IAR.tools.2.label>muzzle</HIDGun_M27IAR.tools.2.label>
+
+
+  <!-- Mk 16 -->
+
+  <HIDGun_Mk16SCAR.label>Mk 16</HIDGun_Mk16SCAR.label>
+  <HIDGun_Mk16SCAR.description>A spec-ops combat assault rifle firing an intermediate rifle cartridge. Also known as the SCAR-L.</HIDGun_Mk16SCAR.description>
+  <HIDGun_Mk16SCAR.tools.0.label>stock</HIDGun_Mk16SCAR.tools.0.label>
+  <HIDGun_Mk16SCAR.tools.1.label>barrel</HIDGun_Mk16SCAR.tools.1.label>
+  <HIDGun_Mk16SCAR.tools.2.label>muzzle</HIDGun_Mk16SCAR.tools.2.label>
+
+
+  <!-- SCAR 16S -->
+
+  <HIDGun_SCAR16S.label>SCAR 16S</HIDGun_SCAR16S.label>
+  <HIDGun_SCAR16S.description>A semi-automatic rifle firing an intermediate cartridge. created for the civilian market.</HIDGun_SCAR16S.description>
+  <HIDGun_SCAR16S.tools.0.label>stock</HIDGun_SCAR16S.tools.0.label>
+  <HIDGun_SCAR16S.tools.1.label>barrel</HIDGun_SCAR16S.tools.1.label>
+  <HIDGun_SCAR16S.tools.2.label>muzzle</HIDGun_SCAR16S.tools.2.label>
+
+
+  <!-- Ak-47 -->
+
+  <HIDGun_AK47Kalash.label>AK-47</HIDGun_AK47Kalash.label>
+  <HIDGun_AK47Kalash.description>An ancient pattern assault rifle, generally considered to be simple and reliable. Even now, it remains the most widespread firearm ever made.</HIDGun_AK47Kalash.description>
+  <HIDGun_AK47Kalash.tools.0.label>stock</HIDGun_AK47Kalash.tools.0.label>
+  <HIDGun_AK47Kalash.tools.1.label>barrel</HIDGun_AK47Kalash.tools.1.label>
+  <HIDGun_AK47Kalash.tools.2.label>muzzle</HIDGun_AK47Kalash.tools.2.label>
+
+
+  <!-- K2C1 -->
+
+  <HIDGun_K2C1Daewoo.label>K2C1</HIDGun_K2C1Daewoo.label>
+  <HIDGun_K2C1Daewoo.description>An assault rifle fitted with a reflex sight, intended for jungle combat.</HIDGun_K2C1Daewoo.description>
+  <HIDGun_K2C1Daewoo.tools.0.label>stock</HIDGun_K2C1Daewoo.tools.0.label>
+  <HIDGun_K2C1Daewoo.tools.1.label>barrel</HIDGun_K2C1Daewoo.tools.1.label>
+  <HIDGun_K2C1Daewoo.tools.2.label>muzzle</HIDGun_K2C1Daewoo.tools.2.label>
+
+
+  <!-- Mk 17 -->
+
+  <HIDGun_Mk17SCAR.label>Mk 17 Mod 0</HIDGun_Mk17SCAR.label>
+  <HIDGun_Mk17SCAR.description>A spec-ops combat assault rifle firing a full-sized rifle cartridge. Also known as the SCAR-H.</HIDGun_Mk17SCAR.description>
+  <HIDGun_Mk17SCAR.tools.0.label>stock</HIDGun_Mk17SCAR.tools.0.label>
+  <HIDGun_Mk17SCAR.tools.1.label>barrel</HIDGun_Mk17SCAR.tools.1.label>
+  <HIDGun_Mk17SCAR.tools.2.label>muzzle</HIDGun_Mk17SCAR.tools.2.label>
+
+
+  <!-- SCAR 17S -->
+
+  <HIDGun_SCAR17S.label>SCAR 17S</HIDGun_SCAR17S.label>
+  <HIDGun_SCAR17S.description>A semi-automatic rifle firing a full-sized cartridge. created for the civilian market.</HIDGun_SCAR17S.description>
+  <HIDGun_SCAR17S.tools.0.label>stock</HIDGun_SCAR17S.tools.0.label>
+  <HIDGun_SCAR17S.tools.1.label>barrel</HIDGun_SCAR17S.tools.1.label>
+  <HIDGun_SCAR17S.tools.2.label>muzzle</HIDGun_SCAR17S.tools.2.label>
+
+
+  <!-- SCAR 17S Patriot -->
+
+  <HIDGun_SCAR17SPatriot.label>SCAR 17S</HIDGun_SCAR17SPatriot.label>
+  <HIDGun_SCAR17SPatriot.description>A semi-automatic rifle firing a full-sized cartridge. created for the civilian market.</HIDGun_SCAR17SPatriot.description>
+  <HIDGun_SCAR17SPatriot.tools.0.label>stock</HIDGun_SCAR17SPatriot.tools.0.label>
+  <HIDGun_SCAR17SPatriot.tools.1.label>barrel</HIDGun_SCAR17SPatriot.tools.1.label>
+  <HIDGun_SCAR17SPatriot.tools.2.label>muzzle</HIDGun_SCAR17SPatriot.tools.2.label>
+
+
+  <!-- Zastava M77 -->
+
+  <HIDGun_M77Zastava.label>Zastava M77</HIDGun_M77Zastava.label>
+  <HIDGun_M77Zastava.description>A rifle based on the AK platform but chambered for a full-sized cartridge.</HIDGun_M77Zastava.description>
+  <HIDGun_M77Zastava.tools.0.label>stock</HIDGun_M77Zastava.tools.0.label>
+  <HIDGun_M77Zastava.tools.1.label>barrel</HIDGun_M77Zastava.tools.1.label>
+  <HIDGun_M77Zastava.tools.2.label>muzzle</HIDGun_M77Zastava.tools.2.label>
+
+
+  <!-- MSSR -->
+
+  <HIDGun_MSSR.label>MSSR</HIDGun_MSSR.label>
+  <HIDGun_MSSR.description>A repurposed semi-automatic DMR, designed for incredible accuracy while using a common intermediate cartridge.</HIDGun_MSSR.description>
+  <HIDGun_MSSR.tools.0.label>stock</HIDGun_MSSR.tools.0.label>
+  <HIDGun_MSSR.tools.1.label>barrel</HIDGun_MSSR.tools.1.label>
+  <HIDGun_MSSR.tools.2.label>muzzle</HIDGun_MSSR.tools.2.label>
+
+
+  <!-- NFWS -->
+
+  <HIDGun_NFWS.label>NFWS</HIDGun_NFWS.label>
+  <HIDGun_NFWS.description>A semi-automatic DMR fitted with a night-vision scope, designed for incredible accuracy while using a common intermediate cartridge.</HIDGun_NFWS.description>
+  <HIDGun_NFWS.tools.0.label>stock</HIDGun_NFWS.tools.0.label>
+  <HIDGun_NFWS.tools.1.label>barrel</HIDGun_NFWS.tools.1.label>
+  <HIDGun_NFWS.tools.2.label>muzzle</HIDGun_NFWS.tools.2.label>
+
+
+  <!-- Springfield Model 2020 Waypoint -->
+
+  <HIDGun_SpringfieldM2020W.label>Springfield Model 2020 Waypoint</HIDGun_SpringfieldM2020W.label>
+  <HIDGun_SpringfieldM2020W.description>A modern design of precision hunting rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range.</HIDGun_SpringfieldM2020W.description>
+  <HIDGun_SpringfieldM2020W.tools.0.label>stock</HIDGun_SpringfieldM2020W.tools.0.label>
+  <HIDGun_SpringfieldM2020W.tools.1.label>barrel</HIDGun_SpringfieldM2020W.tools.1.label>
+  <HIDGun_SpringfieldM2020W.tools.2.label>muzzle</HIDGun_SpringfieldM2020W.tools.2.label>
+
+
+  <!-- Springfield Model 2020 Redline -->
+
+  <HIDGun_SpringfieldM2020R.label>Springfield Model 2020 Redline</HIDGun_SpringfieldM2020R.label>
+  <HIDGun_SpringfieldM2020R.description>A modern design of precision hunting rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range.</HIDGun_SpringfieldM2020R.description>
+  <HIDGun_SpringfieldM2020R.tools.0.label>stock</HIDGun_SpringfieldM2020R.tools.0.label>
+  <HIDGun_SpringfieldM2020R.tools.1.label>barrel</HIDGun_SpringfieldM2020R.tools.1.label>
+  <HIDGun_SpringfieldM2020R.tools.2.label>muzzle</HIDGun_SpringfieldM2020R.tools.2.label>
+
+
+  <!-- L42A1 -->
+
+  <HIDGun_L42A1Enfield.label>L42A1</HIDGun_L42A1Enfield.label>
+  <HIDGun_L42A1Enfield.description>A bolt-action sniper rifle, and the final evolution of the Lee-Enfield Rifle. Has a simple non-adjustable scope.</HIDGun_L42A1Enfield.description>
+  <HIDGun_L42A1Enfield.tools.0.label>stock</HIDGun_L42A1Enfield.tools.0.label>
+  <HIDGun_L42A1Enfield.tools.1.label>barrel</HIDGun_L42A1Enfield.tools.1.label>
+  <HIDGun_L42A1Enfield.tools.2.label>muzzle</HIDGun_L42A1Enfield.tools.2.label>
+
+
+  <!-- Barrett M82A1 -->
+
+  <HIDGun_BarrettM82A1AMR.label>Barrett M82A1</HIDGun_BarrettM82A1AMR.label>
+  <HIDGun_BarrettM82A1AMR.description>A semi-automatic anti-materiel rifle. Uses a high-magnification scope to snipe heavy equipment at extreme range.</HIDGun_BarrettM82A1AMR.description>
+  <HIDGun_BarrettM82A1AMR.tools.0.label>stock</HIDGun_BarrettM82A1AMR.tools.0.label>
+  <HIDGun_BarrettM82A1AMR.tools.1.label>barrel</HIDGun_BarrettM82A1AMR.tools.1.label>
+  <HIDGun_BarrettM82A1AMR.tools.2.label>muzzle</HIDGun_BarrettM82A1AMR.tools.2.label>
+
+
+  <!-- Tyrannosaurus -->
+
+  <HIDGun_Tyrannosaurus2Bore.label>Tyrannosaurus</HIDGun_Tyrannosaurus2Bore.label>
+  <HIDGun_Tyrannosaurus2Bore.description>A specialty made breech-loading rifle chambered for a ridiculously oversized cartridge.</HIDGun_Tyrannosaurus2Bore.description>
+  <HIDGun_Tyrannosaurus2Bore.tools.0.label>stock</HIDGun_Tyrannosaurus2Bore.tools.0.label>
+  <HIDGun_Tyrannosaurus2Bore.tools.1.label>barrel</HIDGun_Tyrannosaurus2Bore.tools.1.label>
+  <HIDGun_Tyrannosaurus2Bore.tools.2.label>muzzle</HIDGun_Tyrannosaurus2Bore.tools.2.label>
+
+
+</LanguageData>

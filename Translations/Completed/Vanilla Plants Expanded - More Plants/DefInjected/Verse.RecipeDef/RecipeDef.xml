@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--make chemfuel from canola-->
+  <VCE_Make_ChemfuelFromCanola.label>зробити хімічне паливо з каноли</VCE_Make_ChemfuelFromCanola.label>
+  <!--Make a batch of chemfuel by extracting biofuel from canola flowers.-->
+  <VCE_Make_ChemfuelFromCanola.description>Зробити каністру хімічного пального шляхом видобування біопалива з квіток каноли.</VCE_Make_ChemfuelFromCanola.description>
+  <!--Refining chemfuel from canola.-->
+  <VCE_Make_ChemfuelFromCanola.jobString>Створює хімічне паливо з каноли.</VCE_Make_ChemfuelFromCanola.jobString>
+</LanguageData>

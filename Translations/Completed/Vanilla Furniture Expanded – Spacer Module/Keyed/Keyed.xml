@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Current light radius-->
+  <TargetLightRadius>Поточний радіус освітлення</TargetLightRadius>
+  
+  <!--Current intensity-->
+  <CurrentLightOpacity>Поточна інтенсивність</CurrentLightOpacity>
+  
+  <!--Increase the current radius.-->
+  <CommandRaiseLightRDesc>Збільшити поточний радіус.</CommandRaiseLightRDesc>
+  
+  <!--Decrease the current radius.-->
+  <CommandLowerLightRDesc>Зменшити поточний радіус.</CommandLowerLightRDesc>
+  
+  <!--Increase the current intensity.-->
+  <CommandRaiseLightIntDesc>Збільшити інтенсивність.</CommandRaiseLightIntDesc>
+  
+  <!--Lower the current intensity.-->
+  <CommandLowerLightIntDesc>Зменшити інтенсивність.</CommandLowerLightIntDesc>
+  
+  <!--% Intensity.-->
+  <LightIntensityPercent>%  – Інтенсивність.</LightIntensityPercent>
+  
+  <!-- Cell radius.-->
+  <LightRadiusCells> Радіус.</LightRadiusCells>
+  
+  <!--Switch light colour to -->
+  <SwitchedColourDesc>Змінити світлий колір на </SwitchedColourDesc>
+  
+  <!--Red-->
+  <LightColourRed>Червоний</LightColourRed>
+  
+  <!--Green-->
+  <LightColourGreen>Зелений</LightColourGreen>
+  
+  <!--Blue-->
+  <LightColourBlue>Синій</LightColourBlue>
+  
+  <!--White-->
+  <LightColourWhite>Білий</LightColourWhite>
+  
+  <EnableAutoForbid>Увімкнути автозаборону</EnableAutoForbid>
+  <EnableAutoForbidExplanation>Зброя та одяг, що зберігаються тут, будуть автоматично заборонені до тих пір, поки повністю не відремонтуються</EnableAutoForbidExplanation>
+</LanguageData>

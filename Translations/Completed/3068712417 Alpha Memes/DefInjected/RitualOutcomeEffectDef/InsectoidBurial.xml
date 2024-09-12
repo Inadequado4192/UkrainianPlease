@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_InsectoidFuneralOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_InsectoidFuneralOutcome.description>
+  <AM_InsectoidFuneralOutcome.outcomeChances.0.label>Жахливо</AM_InsectoidFuneralOutcome.outcomeChances.0.label>
+  <AM_InsectoidFuneralOutcome.outcomeChances.0.description> {0} пройшло жахливо. Комахам, здається, зовсім не сподобалося.</AM_InsectoidFuneralOutcome.outcomeChances.0.description>
+  <AM_InsectoidFuneralOutcome.outcomeChances.1.label>Нудно</AM_InsectoidFuneralOutcome.outcomeChances.1.label>
+  <AM_InsectoidFuneralOutcome.outcomeChances.1.description> {0} пройшло нудно. Промова була довготривалою, але, принаймні, виглядає, що комахи щось з неї зрозуміли.</AM_InsectoidFuneralOutcome.outcomeChances.1.description>
+  <AM_InsectoidFuneralOutcome.outcomeChances.2.label>Добре</AM_InsectoidFuneralOutcome.outcomeChances.2.label>
+  <AM_InsectoidFuneralOutcome.outcomeChances.2.description> {0} пройшло добре. Комахи насолоджувалися їжею і благословили нас новим святим створінням.</AM_InsectoidFuneralOutcome.outcomeChances.2.description>
+  <AM_InsectoidFuneralOutcome.outcomeChances.3.label>Неймовірно</AM_InsectoidFuneralOutcome.outcomeChances.3.label>
+  <AM_InsectoidFuneralOutcome.outcomeChances.3.description> {0} пройшло неймовірно. Здається, комахи повністю скористалися поживними речовинами. Яка шана для загиблого.</AM_InsectoidFuneralOutcome.outcomeChances.3.description>
+  <AM_InsectoidFuneralOutcome.comps.0.label>Insectoid Herder</AM_InsectoidFuneralOutcome.comps.0.label>
+  <AM_InsectoidFuneralOutcome.comps.1.label>кількість учасників</AM_InsectoidFuneralOutcome.comps.1.label>
+
+
+</LanguageData>

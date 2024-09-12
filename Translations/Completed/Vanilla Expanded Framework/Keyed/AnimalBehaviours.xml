@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <NocturnalAnimals.BodyClock>Внутрішній годинник</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Description>Визначає, коли тварина спить, а коли не спить.\n\nДенні тварини сплять вночі і не сплять вдень, тоді як нічні тварини сплять вдень і не сплять вночі. Сутінкові тварини переважно активні в сутінках.</NocturnalAnimals.BodyClock_Description>
+
+  <NocturnalAnimals.BodyClock_Diurnal>Денна</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>Нічна</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>Сутінкова</NocturnalAnimals.BodyClock_Crepuscular>
+  
+  <VEF_AsexualHatched>{0} розмножився безстатевим шляхом.</VEF_AsexualHatched>
+  <VEF_AsexualCloning>{0} самоклонувався.</VEF_AsexualCloning>
+  <VEF_AsexualHatchedEgg>{0} проросла.</VEF_AsexualHatchedEgg>
+  <VEF_NotTameable>Ця істота не приборкувана.</VEF_NotTameable>
+  <VEF_TimeToMetamorphosis>Час до метаморфозу: {0}</VEF_TimeToMetamorphosis>
+  
+  <VEF_WarningEggExplodes>Увага, це яйце вибухає під час вилуплення!</VEF_WarningEggExplodes>
+
+  <VEF_TimeToDie>Тварині залишилось жити {0}</VEF_TimeToDie>
+  
+  <VEF_DisableAnimal>Вимкнути {0}</VEF_DisableAnimal>
+  
+  <VEF_StomachContents>{0} істоти були проковтнуті цілком.</VEF_StomachContents>
+  <VEF_DigestionTime>Буде спожито за {0}</VEF_DigestionTime>
+  
+  <VEF_TerrainsNeedsDiggable>Щоб зробити це місцевість має бути прокопною</VEF_TerrainsNeedsDiggable>
+  
+  <VEF_WhileCaravaning>Під час подорожі виробляє {0} {1} кожні:</VEF_WhileCaravaning>
+  
+  <VCE_AffectsAllAnimalMods>Ці параметри поведінки тварин впливатимуть на всіх тварин з модів, які використовують код з Vanilla Expanded Framework.</VCE_AffectsAllAnimalMods>
+  <VCE_CorpseDecayingEffectOption>Увімкнути механіку розкладання трупів (до прикладу, еффект Геліксинового слимака)</VCE_CorpseDecayingEffectOption>
+  <VCE_DigWhenHungryOption>Дозволити копати під час голоду (до прикладу, Морозокліщі будуть викопувати трупи)</VCE_DigWhenHungryOption> 
+  <VCE_DigPeriodicallyOption>Дозволити тваринам час від часу викопувати різні речі</VCE_DigPeriodicallyOption>
+  <VCE_AnimalParticlesOption>Увімкнути тваринні відходи (газ та бруд)</VCE_AnimalParticlesOption>
+  <VCE_AsexualReproductionOption>Увімкнути безстатеве розмноження</VCE_AsexualReproductionOption>
+  <VFE_AsexualReproductionDisabled>Безстатеве розмноження вимкнено в налаштуваннях моду</VFE_AsexualReproductionDisabled>
+  <VCE_BlinkMechanicsOption>Увімкнути механіку телепортації (до прикладу, у Скіпхаундів)</VCE_BlinkMechanicsOption>
+  <VCE_BuildPeriodicallyOption>Дозволити тваринам зводити споруди (до прикладу, бобри будуть будувати дамби)</VCE_BuildPeriodicallyOption>
+  <VCE_ChargeBatteriesOption>Дозволити тваринам підзаряджати акумулятори або заправляти паливо поблизу</VCE_ChargeBatteriesOption>
+  <VCE_ExplodingEggsOption>Включити в гру вибухові яйця (як, наприклад, драконячі)</VCE_ExplodingEggsOption>
+  <VCE_HoveringOption>Дозволити тваринам "парити", ігноруючи дебафи місцевості на переміщення</VCE_HoveringOption>
+  <VCE_GraphicChangingOption>Дозволяє тваринам змінювати зовнішність (до прикладу, Якомелеону)</VCE_GraphicChangingOption>
+  <VCE_EffecterOption>Дозволяє тваринам мати психічні стани або думки</VCE_EffecterOption>
+  <VCE_RegenerationOption>Вмикає саморегенерацію тварин (активну чи пасивну)</VCE_RegenerationOption>
+  <VCE_ResurrectionOption>Дозволяє тваринам автоматично воскресати (до прикладу, Феніксовій Кітосові)</VCE_ResurrectionOption>
+  <VCE_UntameableOption>Зробити певних тварин не приборкуваними</VCE_UntameableOption> 
+  <VEF_AnimalsSearch>Пошук:</VEF_AnimalsSearch>
+  
+  <VEF_BillRequiresMass>Вимагає загальну масу {0} кг</VEF_BillRequiresMass>
+
+</LanguageData>

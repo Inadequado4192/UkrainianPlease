@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_TerriblePaste.stages.0.label>ганебне поховання</AM_TerriblePaste.stages.0.label>
+  <AM_TerriblePaste.stages.0.description>Це була марна трата часу і дорогоцінних поживних речовин.</AM_TerriblePaste.stages.0.description>
+
+  <AM_LacklusterPaste.stages.0.label>нудне поховання</AM_LacklusterPaste.stages.0.label>
+  <AM_LacklusterPaste.stages.0.description>Краще б я займався чимось іншим, принаймні поживні речовини не були витрачені даремно</AM_LacklusterPaste.stages.0.description>
+
+  <AM_GoodPaste.stages.0.label>гарне поховання</AM_GoodPaste.stages.0.label>
+  <AM_GoodPaste.stages.0.description>Було дуже смачно, я добре поїв.</AM_GoodPaste.stages.0.description>
+
+  <AM_AmazingPaste.stages.0.label>дивовижне поховання</AM_AmazingPaste.stages.0.label>
+  <AM_AmazingPaste.stages.0.description>Це було дуже ефективно, поживних речовин було набагато більше, ніж можна було припустити.</AM_AmazingPaste.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,817 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--beaver dam-->
+  <AEXP_BeaverDam.label>боброва гребля</AEXP_BeaverDam.label>
+  <!--Beaver dams or beaver impoundments are dams built by beavers to provide ponds as protection against predators such as coyotes, wolves, and bears, and to provide easy access to food during winter.-->
+  <AEXP_BeaverDam.description>Боброві греблі або боброві водосховища – це греблі, збудовані бобрами для захисту водойм від хижаків, таких як койоти, вовки та ведмеді, а також для забезпечення легкого доступу до їжі взимку.</AEXP_BeaverDam.description>
+  
+  <!--walrus tusk-->
+  <AEXP_WalrusTusk.label>моржовий бивень</AEXP_WalrusTusk.label>
+  <!--A walrus's tusk. It is quite valuable, but somewhat unwieldy as a melee weapon.-->
+  <AEXP_WalrusTusk.description>Бивень моржа. Він досить цінний, але дещо громіздкий як зброя ближнього бою.</AEXP_WalrusTusk.description>
+  <!--point-->
+  <AEXP_WalrusTusk.tools.point.label>вістря</AEXP_WalrusTusk.tools.point.label>
+  <!--base-->
+  <AEXP_WalrusTusk.tools.base.label>основа</AEXP_WalrusTusk.tools.base.label>
+  
+  <!--crocodile egg (unfert.)-->
+  <AEXP_EggCrocodileUnfertilized.label>крокодиляче яйце (незаплід.)</AEXP_EggCrocodileUnfertilized.label>
+  <!--An unfertilized crocodile egg. It can be eaten raw, but it's much, much better cooked.-->
+  <AEXP_EggCrocodileUnfertilized.description>Незапліднене яйце крокодила. Його можна їсти сирим, проте краще приготувати.</AEXP_EggCrocodileUnfertilized.description>
+  
+  <!--crocodile egg (fert.)-->
+  <AEXP_EggCrocodileFertilized.label>крокодиляче яйце (заплід.)</AEXP_EggCrocodileFertilized.label>
+  <!--A fertilized crocodile egg. If all goes well, it should hatch into a crocodile. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggCrocodileFertilized.description>Запліднене яйце крокодила. За потрібних умов вилуплюється крокодил. Його можна їсти сирим, проте краще приготувати.</AEXP_EggCrocodileFertilized.description>
+  
+  <!--platypus egg (fert.)-->
+  <AEXP_EggPlatypusFertilized.label>яйце качкодзьоба (заплід.)</AEXP_EggPlatypusFertilized.label>
+  <!--A fertilized platypus egg. If all goes well, it should hatch into a baby platypus. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggPlatypusFertilized.description>Запліднене яйце качкодзьоба. За потрібних умов вилуплюється дитинча качкодзьоба. Його можна їсти сирим, проте краще приготувати.</AEXP_EggPlatypusFertilized.description>
+  
+  <!--desert tortoise egg (unfert.)-->
+  <AEXP_EggDesertTortoiseUnfertilized.label>яйце пустельної черепахи (незаплід.)</AEXP_EggDesertTortoiseUnfertilized.label>
+  <!--An unfertilized desert tortoise egg. It can be eaten raw, but it's much, much better cooked.-->
+  <AEXP_EggDesertTortoiseUnfertilized.description>Незапліднене яйце пустельної черепахи. Його можна їсти сирим, проте краще приготувати.</AEXP_EggDesertTortoiseUnfertilized.description>
+  
+  <!--desert tortoise egg (fert.)-->
+  <AEXP_EggDesertTortoiseFertilized.label>яйце пустельної черепахи (заплід.)</AEXP_EggDesertTortoiseFertilized.label>
+  <!--A fertilized desert tortoise egg. If all goes well, it should hatch into a baby desert tortoise. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggDesertTortoiseFertilized.description>Запліднене яйце пустельної черепахи. За потрібних умов вилуплюється дитинча пустельної черепахи. Його можна їсти сирим, проте краще приготувати.</AEXP_EggDesertTortoiseFertilized.description>
+  
+  <!--gila monster egg (unfert.)-->
+  <AEXP_EggGilaMonsterUnfertilized.label>яйце жилатьє (незаплід.)</AEXP_EggGilaMonsterUnfertilized.label>
+  <!--An unfertilized desert gila monster egg. It can be eaten raw, but it's much, much better cooked.-->
+  <AEXP_EggGilaMonsterUnfertilized.description>Незапліднене яйце пустельного жилатьє. Його можна їсти сирим, проте краще приготувати.</AEXP_EggGilaMonsterUnfertilized.description>
+  
+  <!--gila monster egg (fert.)-->
+  <AEXP_EggGilaMonsterFertilized.label>яйце жилатьє (заплід.)</AEXP_EggGilaMonsterFertilized.label>
+  <!--A fertilized gila monster egg. If all goes well, it should hatch into a baby gila monster. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggGilaMonsterFertilized.description>Запліднене яйце пустельного жилатьє. За потрібних умов вилуплюється дитинча жилатьє. Його можна їсти сирим, проте краще приготувати.</AEXP_EggGilaMonsterFertilized.description>
+  
+  <!--rattlesnake egg (unfert.)-->
+  <AEXP_EggRattlesnakeUnfertilized.label>яйце гримучої змії (незаплід.)</AEXP_EggRattlesnakeUnfertilized.label>
+  <!--An unfertilized rattlesnake egg. It can be eaten raw, but it's much, much better cooked.-->
+  <AEXP_EggRattlesnakeUnfertilized.description>Незапліднене яйце гримучої змії. Його можна їсти сирим, проте краще приготувати.</AEXP_EggRattlesnakeUnfertilized.description>
+  
+  <!--rattlesnake egg (fert.)-->
+  <AEXP_EggRattlesnakeFertilized.label>яйце гримучої змії (заплід.)</AEXP_EggRattlesnakeFertilized.label>
+  <!--A fertilized rattlesnake egg. If all goes well, it should hatch into a rattlesnake. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggRattlesnakeFertilized.description>Запліднене яйце гримучої змії. За потрібних умов вилуплюється гримуча змія. Його можна їсти сирим, проте краще приготувати.</AEXP_EggRattlesnakeFertilized.description>
+  
+  <!--penguin egg (fert.)-->
+  <AEXP_EggPenguinFertilized.label>яйце пінгвіна (заплід.)</AEXP_EggPenguinFertilized.label>
+  <!--A fertilized penguin egg. If all goes well, it should hatch into a baby penguin. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggPenguinFertilized.description>Запліднене яйце пінгвіна. За потрібних умов вилуплюється пінгвіненя. Його можна їсти сирим, проте краще приготувати.</AEXP_EggPenguinFertilized.description>
+  
+  <!--wild goose egg (unfert.)-->
+  <AEXP_EggWildGooseUnfertilized.label>яйце дикої гуски (незаплід.)</AEXP_EggWildGooseUnfertilized.label>
+  <!--An unfertilized wild goose egg. It can be eaten raw, but it's much, much better cooked.-->
+  <AEXP_EggWildGooseUnfertilized.description>Незапліднене яйце дикої гуски. Його можна їсти сирим, проте краще приготувати.</AEXP_EggWildGooseUnfertilized.description>
+  
+  <!--wild goose egg (fert.)-->
+  <AEXP_EggWildGooseFertilized.label>яйце дикої гуски (заплід.)</AEXP_EggWildGooseFertilized.label>
+  <!--A fertilized wild goose egg. If all goes well, it should hatch into a baby wild gosling. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggWildGooseFertilized.description>Запліднене яйце дикої гуски. За потрібних умов вилуплюється дике гусеня. Його можна їсти сирим, проте краще приготувати.</AEXP_EggWildGooseFertilized.description>
+  
+  <!--anaconda egg (fert.)-->
+  <AEXP_EggAnacondaFertilized.label>яйце анаконди (заплід.)</AEXP_EggAnacondaFertilized.label>
+  <!--A fertilized anaconda egg. If all goes well, it should hatch into an anaconda. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggAnacondaFertilized.description>Запліднене яйце анаконди. За потрібних умов вилуплюється анаконда. Його можна їсти сирим, проте краще приготувати.</AEXP_EggAnacondaFertilized.description>
+  
+  <!--alligator egg (fert.)-->
+  <AEXP_EggAlligatorFertilized.label>яйце алігатора (заплід.)</AEXP_EggAlligatorFertilized.label>
+  <!--A fertilized alligator egg. If all goes well, it should hatch into an alligator. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggAlligatorFertilized.description>Запліднене яйце алігатора. За потрібних умов вилуплюється алігатор. Його можна їсти сирим, проте краще приготувати.</AEXP_EggAlligatorFertilized.description>
+  
+  <!--hippopotamus leather-->
+  <AEXP_Leather_Hippopotamus.label>шкіра бегемота</AEXP_Leather_Hippopotamus.label>
+  <!--A thick leather of a hippopotamus. Not only it's extremely durable, but it also provides considerable heat insulation.-->
+  <AEXP_Leather_Hippopotamus.description>Товста шкіра бегемота. Вона не лише надзвичайно міцна, але й забезпечує значну теплоізоляцію.</AEXP_Leather_Hippopotamus.description>
+  
+  <!--wildebeest pelt-->
+  <AEXP_Leather_Wildebeest.label>шкура гну</AEXP_Leather_Wildebeest.label>
+  <!--A thick but crumbly wildebeest fur and leather. Whilst it provides some degree of damage protection, the overall longevity of the item decreases.-->
+  <AEXP_Leather_Wildebeest.description>Густе, але крихке хутро антилопи гну та шкіра. Хоча це забезпечує певний захист від пошкоджень, загальна довговічність виробу зменшується.</AEXP_Leather_Wildebeest.description>
+  
+  <!--platypus leather-->
+  <AEXP_Leather_Platypus.label>шкіра качкодзьоба</AEXP_Leather_Platypus.label>
+  <!--Platypus fur was considered a valuable commodity in the days of old Terra, a fact that almost drove the Platypus to extinction. Luckily, the animal was protected and thrived again.-->
+  <AEXP_Leather_Platypus.description>Хутро качкодзьоба вважалося цінним товаром за часів старої Терри, і цей факт ледь не призвів до вимирання качкодзьоба. На щастя, тварина була захищена і відновила популяцію.</AEXP_Leather_Platypus.description>
+  
+  <!--lion pelt-->
+  <AEXP_Leather_Lion.label>лев'яча шкура</AEXP_Leather_Lion.label>
+  <!--A strong, luxurious leather of the leader of the animal kingdom. Often sought after by urbworld philanthropists.-->
+  <AEXP_Leather_Lion.description>Міцна, розкішна шкіра короля тваринного світу. Часто користується попитом у міських філантропів.</AEXP_Leather_Lion.description>
+  
+  <!--camel wool-->
+  <WoolCamel.label>верблюжа вовна</WoolCamel.label>
+  <!--Camel's wool. It provides good insulation from heat.-->
+  <WoolCamel.description>Верблюжа вовна. Забезпечує хорошу ізоляцію від тепла.</WoolCamel.description>
+  
+  <!--pinniped leather-->
+  <AEXP_Leather_Pinniped.label>шкіра ластоногих</AEXP_Leather_Pinniped.label>
+  <!--Tanned and dried leather from a Pinniped. It is of average strength but insulates well against heat.-->
+  <AEXP_Leather_Pinniped.description>Дублена і висушена шкіра ластоногих. Вона має середню міцність, але добре ізолює від тепла.</AEXP_Leather_Pinniped.description>
+  
+  <!--tiger leather-->
+  <AEXP_Leather_Tiger.label>тигрова шкіра</AEXP_Leather_Tiger.label>
+  <!--Tigers were often the target of poachers in old Earth due to their luxurious pelts, a fact that almost drove them to extinction. With the near lawlessness of the Rim, tiger leather is seen as another exotic commodity to trade between settlements.-->
+  <AEXP_Leather_Tiger.description>На старій Землі тигри часто ставали мішенню браконьєрів через свою розкішну шкуру, що ледь не призвело до їхнього вимирання. В умовах майже повного беззаконня, що панує в Rim'и, тигрова шкіра вважається ще одним екзотичним товаром, яким торгують між поселеннями.</AEXP_Leather_Tiger.description>
+  
+  <!--musk ox wool-->
+  <AEXP_MuskOxWool.label>вовна вівцебика</AEXP_MuskOxWool.label>
+  <!--The inner wool of the muskox, originally known in Inuktitut as Qiviuq. Stronger and warmer than sheep's wool, and softer than cashmere wool.-->
+  <AEXP_MuskOxWool.description>Внутрішня шерсть вівцебика, спочатку відома в Інуктітуті як Ківіук. Міцніша і тепліша за овечу вовну, але м'якша за кашемір.</AEXP_MuskOxWool.description>
+  
+  <!--coyote-->
+  <AEXP_Coyote.label>койот</AEXP_Coyote.label>
+  <!--A praire wolf native to desert and shrubland areas. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf.-->
+  <AEXP_Coyote.description>Пустельний вовк родом з пустель та рідколісся. Він здатний полювати на набагато більшу здобич, і часто зустрічається в зграях, подібно до вовка.</AEXP_Coyote.description>
+  <!--left claw-->
+  <AEXP_Coyote.tools.left_claw.label>ліва лапа</AEXP_Coyote.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Coyote.tools.right_claw.label>права лапа</AEXP_Coyote.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Coyote.tools.head.label>голова</AEXP_Coyote.tools.head.label>
+  
+  <!--giraffe-->
+  <AEXP_Giraffe.label>жирафа</AEXP_Giraffe.label>
+  <!--A giraffe is one of the tallest mammals in the galaxy, using it's long neck to reach leaves and branches unavailable for smaller herbivores.-->
+  <AEXP_Giraffe.description>Жирафа – один з найвищих ссавців у галактиці, який використовує свою довгу шию, щоб діставати листя і гілки, недоступні для дрібних травоїдних тварин.</AEXP_Giraffe.description>
+  <!--left hoof-->
+  <AEXP_Giraffe.tools.left_hoof.label>ліве копито</AEXP_Giraffe.tools.left_hoof.label>
+  <!--right hoof-->
+  <AEXP_Giraffe.tools.right_hoof.label>праве копито</AEXP_Giraffe.tools.right_hoof.label>
+  <!--head-->
+  <AEXP_Giraffe.tools.head.label>голова</AEXP_Giraffe.tools.head.label>
+  
+  <!--hippopotamus-->
+  <AEXP_Hippopotamus.label>бегемот</AEXP_Hippopotamus.label>
+  <!--A massive semi-aquatic hoofed mammal with thick skin and a very powerful jaw.\n\nExtremely difficult to tame, these monstrous beings often attack on a failed attempt.-->
+  <AEXP_Hippopotamus.description>Масивний напівводний копитний ссавець з товстою шкірою і дуже потужною щелепою.\n\nВкрай важко приручити, ці жахливі істоти часто нападають після невдалої спроби.</AEXP_Hippopotamus.description>
+  <!--left foot-->
+  <AEXP_Hippopotamus.tools.left_foot.label>ліва ступня</AEXP_Hippopotamus.tools.left_foot.label>
+  <!--right foot-->
+  <AEXP_Hippopotamus.tools.right_foot.label>права ступня</AEXP_Hippopotamus.tools.right_foot.label>
+  <!--head-->
+  <AEXP_Hippopotamus.tools.head.label>голова</AEXP_Hippopotamus.tools.head.label>
+  
+  <!--zebra-->
+  <AEXP_Zebra.label>зебра</AEXP_Zebra.label>
+  <!--A member of the horse family native to arid and desert areas. Whilst it doesn't share the same bodysize as a horse, due to years of evolution it's one of the fastest hooved animals.-->
+  <AEXP_Zebra.description>Представник родини конячих, що походить з посушливих та пустельних районів. Хоча вона й менше за коней, проте завдяки рокам еволюції є однією з найшвидших копитних тварин.</AEXP_Zebra.description>
+  <!--head-->
+  <AEXP_Zebra.tools.head.label>голова</AEXP_Zebra.tools.head.label>
+  <!--left hoof-->
+  <AEXP_Zebra.tools.left_hoof.label>ліве копито</AEXP_Zebra.tools.left_hoof.label>
+  <!--right hoof-->
+  <AEXP_Zebra.tools.right_hoof.label>праве копито</AEXP_Zebra.tools.right_hoof.label>
+  
+  <!--wildebeest-->
+  <AEXP_Wildebeest.label>гну</AEXP_Wildebeest.label>
+  <!--Also called Gnu, this wild cow earned it's name with it's menacing horns, pointed beard and large head. These animals are known from their migrations and the size of their herds.\n\nDue to its wildness, it produces milk at much slower rate than a standard cow.-->
+  <AEXP_Wildebeest.description>Ця дика корова, яку ще називають Антилопа Гну, отримала свою назву завдяки загрозливим рогам, гострій бороді та великій голові. Ці тварини відомі своїми міграціями та розмірами стад.\n\nЧерез свою дикість вона виробляє молоко набагато повільніше, ніж звичайна корова.</AEXP_Wildebeest.description>
+  <!--head-->
+  <AEXP_Wildebeest.tools.head.label>голова</AEXP_Wildebeest.tools.head.label>
+  <!--left hoof-->
+  <AEXP_Wildebeest.tools.left_hoof.label>ліве копито</AEXP_Wildebeest.tools.left_hoof.label>
+  <!--right hoof-->
+  <AEXP_Wildebeest.tools.right_hoof.label>праве копито</AEXP_Wildebeest.tools.right_hoof.label>
+  
+  <!--crocodile-->
+  <AEXP_Crocodile.label>крокодил</AEXP_Crocodile.label>
+  <!--A large semi-aquatic reptile, most often found on the river banks. It's predatory insticts combined with an extremely strong jaw allow them to tackle much larger prey. Older crocodiles can grow to monstrous sizes.-->
+  <AEXP_Crocodile.description>Велика напівводна рептилія, що найчастіше зустрічається на берегах річок. Його хижі інстинкти в поєднанні з надзвичайно міцною щелепою дозволяють йому впоратися з набагато більшою здобиччю. Старі крокодили можуть виростати до жахливих розмірів.</AEXP_Crocodile.description>
+  
+  <!--cheetah-->
+  <AEXP_Cheetah.label>гепард</AEXP_Cheetah.label>
+  <!--These cats are lean and lanky, allowing them to reach incredible speeds. They have tan-colored fur with solid black, round spots, very long legs, a long narrow tail for balance, and a deep chest that contains large lungs.-->
+  <AEXP_Cheetah.description>Ці котячі худорляві та довгов'язі, що дозволяє їм розвивати неймовірну швидкість. У них шерсть палевого кольору із суцільними чорними круглими плямами, дуже довгі ноги, довгий вузький хвіст для рівноваги і глибокі груди, в яких містяться великі легені.</AEXP_Cheetah.description>
+  <!--left claw-->
+  <AEXP_Cheetah.tools.left_claw.label>ліва лапа</AEXP_Cheetah.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Cheetah.tools.right_claw.label>права лапа</AEXP_Cheetah.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Cheetah.tools.head.label>голова</AEXP_Cheetah.tools.head.label>
+  
+  <!--boombat-->
+  <AEXP_Boombat.label>бумбат</AEXP_Boombat.label>
+  <!--Due to some insane experiment, these cute, fluffy rodents create a powerful fire-starting explosion when killed.-->
+  <AEXP_Boombat.description>Завдяки якомусь божевільному експерименту ці милі пухнасті гризуни створюють потужний пожежний вибух, коли їх вбивають.</AEXP_Boombat.description>
+  <!--left claw-->
+  <AEXP_Boombat.tools.left_claw.label>ліва лапа</AEXP_Boombat.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Boombat.tools.right_claw.label>права лапа</AEXP_Boombat.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Boombat.tools.head.label>голова</AEXP_Boombat.tools.head.label>
+  
+  <!--kangaroo-->
+  <AEXP_Kangaroo.label>кенгуру</AEXP_Kangaroo.label>
+  <!--Kangaroo is a large, human-sized marsupial with strong legs and powerful arms. It's favoured by tribal hunters due to its tender meat and heat resistant leather. Kangaroos make for powerful adversaries in melee combat, and can be trained easily to become animal super-soldiers.-->
+  <AEXP_Kangaroo.description>Кенгуру – великий сумчастий ссавець розміром із людину, із сильними ногами і потужними руками. Його полюбляють мисливці племен завдяки ніжному м'ясу та термостійкій шкірі. Кенгуру – сильні супротивники в ближньому бою, і їх можна легко натренувати, щоб вони стали справжніми суперсолдатами тваринного світу.</AEXP_Kangaroo.description>
+  <!--head-->
+  <AEXP_Kangaroo.tools.head.label>голова</AEXP_Kangaroo.tools.head.label>
+  
+  <!--koala-->
+  <AEXP_Koala.label>коала</AEXP_Koala.label>
+  <!--Koalas are easily recognizable for their stout body and large, round heads with fluffy ears. They typically inhabit arid and temperate woodlands, but can rarely be seen in tropical areas. Favoured by royal families, koalas are great household animals due to their wonderful nuzzling effect.-->
+  <AEXP_Koala.description>Коал легко впізнати за міцним тілом і великими круглими головами з пухнастими вухами. Зазвичай вони мешкають у посушливих і помірних лісах, але рідко зустрічаються в тропічних районах. Улюбленці королівських родин, коали є чудовими домашніми тваринами завдяки своїй чудовій звичці обніматись.</AEXP_Koala.description>
+  <!--left claw-->
+  <AEXP_Koala.tools.left_claw.label>ліва лапа</AEXP_Koala.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Koala.tools.right_claw.label>права лапа</AEXP_Koala.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Koala.tools.head.label>голова</AEXP_Koala.tools.head.label>
+  
+  <!--platypus-->
+  <AEXP_Platypus.label>качкодзьоб</AEXP_Platypus.label>
+  <!--Platypus is the sole surviving representative of its animal family. They are beaver-tailed, duck billed mammals, known for the fact that they lay eggs. It is an omnivore animal, capable of killing small rodents with it's venomous ankle spurs.-->
+  <AEXP_Platypus.description>Качкодзьоб – єдиний представник родини качкодзьобових, що залишився в живих. Це боброхвості, качкодзьобі ссавці, відомі тим, що вони відкладають яйця. Це всеїдна тварина, здатна вбивати дрібних гризунів своїми отруйними гомілковостопними шпорами.</AEXP_Platypus.description>
+  <!--left claw-->
+  <AEXP_Platypus.tools.left_claw.label>ліва лапа</AEXP_Platypus.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Platypus.tools.right_claw.label>права лапа</AEXP_Platypus.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Platypus.tools.head.label>голова</AEXP_Platypus.tools.head.label>
+  
+  <!--otter-->
+  <AEXP_Otter.label>видра</AEXP_Otter.label>
+  <!--Long, slim, semi-aquatic mammal dieting mostly on fish and small plants. They are extremaly good swimmers and can hold breath under water for a prolonged amount of time.-->
+  <AEXP_Otter.description>Довгі, стрункі, напівводні ссавці, що харчуються переважно рибою та дрібними рослинами. Вони надзвичайно гарні плавці і можуть затримувати дихання під водою на тривалий час.</AEXP_Otter.description>
+  <!--left claw-->
+  <AEXP_Otter.tools.left_claw.label>ліва лапа</AEXP_Otter.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Otter.tools.right_claw.label>права лапа</AEXP_Otter.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Otter.tools.head.label>голова</AEXP_Otter.tools.head.label>
+  
+  <!--arctic coyote-->
+  <AEXP_ArcticCoyote.label>арктичний койот</AEXP_ArcticCoyote.label>
+  <!--A small canine native to tundra and boreal forests. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf.-->
+  <AEXP_ArcticCoyote.description>Невеликий псовий, що походить із тундри та арктичних лісів. Він здатен полювати на значно більшу здобич, і часто зустрічається у зграях, подібно до вовка.</AEXP_ArcticCoyote.description>
+  <!--left claw-->
+  <AEXP_ArcticCoyote.tools.left_claw.label>ліва лапа</AEXP_ArcticCoyote.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_ArcticCoyote.tools.right_claw.label>права лапа</AEXP_ArcticCoyote.tools.right_claw.label>
+  <!--head-->
+  <AEXP_ArcticCoyote.tools.head.label>голова</AEXP_ArcticCoyote.tools.head.label>
+  
+  <!--black bear-->
+  <AEXP_BlackBear.label>чорний ведмідь</AEXP_BlackBear.label>
+  <!--A medium sized omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the black bear is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.-->
+  <AEXP_BlackBear.description>Всеїдний ссавець середнього розміру, пристосований до холодного клімату. Густий підшкірний жир і хутро ведмедів зігрівають їх взимку.\n\nХоча їх звичайний раціон складається з риби, ягід, меду і падалиці, чорний ведмідь здатний використовувати свою величезну силу і смертоносні кігті, щоб вбити живу здобич. Вони напрочуд швидкі для таких неповоротких істот.</AEXP_BlackBear.description>
+  <!--left claw-->
+  <AEXP_BlackBear.tools.left_claw.label>ліва лапа</AEXP_BlackBear.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_BlackBear.tools.right_claw.label>права лапа</AEXP_BlackBear.tools.right_claw.label>
+  <!--head-->
+  <AEXP_BlackBear.tools.head.label>голова</AEXP_BlackBear.tools.head.label>
+  
+  <!--abyssinian cat-->
+  <AEXP_CatAbyssinian.label>абісинський кіт</AEXP_CatAbyssinian.label>
+  <!--A slender, fine-boned, medium sized shrubland cat.-->
+  <AEXP_CatAbyssinian.description>Стрункий, з тонкими кістками, середнього розміру чагарниковий кіт.</AEXP_CatAbyssinian.description>
+  <!--left claw-->
+  <AEXP_CatAbyssinian.tools.left_claw.label>ліва лапа</AEXP_CatAbyssinian.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_CatAbyssinian.tools.right_claw.label>права лапа</AEXP_CatAbyssinian.tools.right_claw.label>
+  <!--head-->
+  <AEXP_CatAbyssinian.tools.head.label>голова</AEXP_CatAbyssinian.tools.head.label>
+  
+  <!--bengal cat-->
+  <AEXP_CatBengal.label>бенгальський кіт</AEXP_CatBengal.label>
+  <!--A domesticated hybrid of a domestic cat and tropical leopard.-->
+  <AEXP_CatBengal.description>Одомашнений гібрид домашнього кота і тропічного леопарда.</AEXP_CatBengal.description>
+  <!--left claw-->
+  <AEXP_CatBengal.tools.left_claw.label>ліва лапа</AEXP_CatBengal.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_CatBengal.tools.right_claw.label>права лапа</AEXP_CatBengal.tools.right_claw.label>
+  <!--head-->
+  <AEXP_CatBengal.tools.head.label>голова</AEXP_CatBengal.tools.head.label>
+  
+  <!--british shorthair cat-->
+  <AEXP_CatBritishShorthair.label>британський короткошерстий кіт</AEXP_CatBritishShorthair.label>
+  <!--A pedigreed version of a regular british cat, with a distinctively chunky body, dense coat and a very broad face. While being relatively powerful-looking due to the large chest and massive paws, these cats are absolutely harmless.-->
+  <AEXP_CatBritishShorthair.description>Породиста різновидність звичайної британської кішки з виразно кремезним тілом, густою шерстю і дуже широкою мордою. Попри відносно потужний вигляд завдяки великим грудям і масивним лапам, ці коти абсолютно нешкідливі.</AEXP_CatBritishShorthair.description>
+  <!--left claw-->
+  <AEXP_CatBritishShorthair.tools.left_claw.label>ліва лапа</AEXP_CatBritishShorthair.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_CatBritishShorthair.tools.right_claw.label>права лапа</AEXP_CatBritishShorthair.tools.right_claw.label>
+  <!--head-->
+  <AEXP_CatBritishShorthair.tools.head.label>голова</AEXP_CatBritishShorthair.tools.head.label>
+  
+  <!--maine coon-->
+  <AEXP_CatMaineCoon.label>мейн-кун</AEXP_CatMaineCoon.label>
+  <!--A largest domesticated cat, it has a distinctive physical appearance and valuable hunting skills. It's a large and sociable cat, hence it has been given a nickname "the gentle giant."-->
+  <AEXP_CatMaineCoon.description>Найбільший домашній кіт, він має характерну зовнішність і цінні мисливські навички. Це великий і товариський кіт, за що отримав прізвисько "лагідний велетень".</AEXP_CatMaineCoon.description>
+  <!--left claw-->
+  <AEXP_CatMaineCoon.tools.left_claw.label>ліва лапа</AEXP_CatMaineCoon.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_CatMaineCoon.tools.right_claw.label>права лапа</AEXP_CatMaineCoon.tools.right_claw.label>
+  <!--head-->
+  <AEXP_CatMaineCoon.tools.head.label>голова</AEXP_CatMaineCoon.tools.head.label>
+  
+  <!--munchkin cat-->
+  <AEXP_CatMunchkin.label>манчкін</AEXP_CatMunchkin.label>
+  <!--Also known as a sausage cat, this new cat breed has distinctively short legs. Sweet natured, playful and people-oriented, these cats are perfect companions for people with lazy lifestyle.-->
+  <AEXP_CatMunchkin.description>Ця нова порода котів має характерні короткі лапи. Милі за характером, грайливі та орієнтовані на людей, ці коти є ідеальними компаньйонами для людей, які ведуть ледачий спосіб життя.</AEXP_CatMunchkin.description>
+  <!--left claw-->
+  <AEXP_CatMunchkin.tools.left_claw.label>ліва лапа</AEXP_CatMunchkin.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_CatMunchkin.tools.right_claw.label>права лапа</AEXP_CatMunchkin.tools.right_claw.label>
+  <!--head-->
+  <AEXP_CatMunchkin.tools.head.label>голова</AEXP_CatMunchkin.tools.head.label>
+  
+  <!--norwegian forest cat-->
+  <AEXP_CatNorwegianForest.label>норвезький лісовий кіт</AEXP_CatNorwegianForest.label>
+  <!--A cat adapted for very cold climates due to the top coat of glossy, water-shedding hair.-->
+  <AEXP_CatNorwegianForest.description>Кішка пристосована до дуже холодного клімату завдяки верхньому шару блискучої водонепроникної шерсті.</AEXP_CatNorwegianForest.description>
+  <!--left claw-->
+  <AEXP_CatNorwegianForest.tools.left_claw.label>ліва лапа</AEXP_CatNorwegianForest.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_CatNorwegianForest.tools.right_claw.label>права лапа</AEXP_CatNorwegianForest.tools.right_claw.label>
+  <!--head-->
+  <AEXP_CatNorwegianForest.tools.head.label>голова</AEXP_CatNorwegianForest.tools.head.label>
+  
+  <!--persian cat-->
+  <AEXP_CatPersian.label>перський кіт</AEXP_CatPersian.label>
+  <!--A long haired cat originating from desert wildcats, Persian cats are regal, intelligent and agile, which makes them excellent for hunting small rodents and birds.-->
+  <AEXP_CatPersian.description>Довгошерсті кішки, що походять від пустельних диких котів, персидські коти царствені, розумні та спритні, що робить їх чудовими мисливцями на дрібних гризунів та птахів.</AEXP_CatPersian.description>
+  <!--left claw-->
+  <AEXP_CatPersian.tools.left_claw.label>ліва лапа</AEXP_CatPersian.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_CatPersian.tools.right_claw.label>права лапа</AEXP_CatPersian.tools.right_claw.label>
+  <!--head-->
+  <AEXP_CatPersian.tools.head.label>голова</AEXP_CatPersian.tools.head.label>
+  
+  <!--siamese cat-->
+  <AEXP_CatSiamese.label>сіамський кіт</AEXP_CatSiamese.label>
+  <!--A cat with distinctively triangular head, blue eyes and long and muscular body, renowned for it's social nature.-->
+  <AEXP_CatSiamese.description>Кішка з характерною трикутною головою, блакитними очима та довгим і м'язистим тілом, відома своїм товариським характером.</AEXP_CatSiamese.description>
+  <!--left claw-->
+  <AEXP_CatSiamese.tools.left_claw.label>ліва лапа</AEXP_CatSiamese.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_CatSiamese.tools.right_claw.label>права лапа</AEXP_CatSiamese.tools.right_claw.label>
+  <!--head-->
+  <AEXP_CatSiamese.tools.head.label>голова</AEXP_CatSiamese.tools.head.label>
+  
+  <!--somali cat-->
+  <AEXP_CatSomali.label>сомалійський кіт</AEXP_CatSomali.label>
+  <!--A shrubland cat, sharing the same family as the Abyssinian cat. It has a bushy tail and almond shaped eyes.-->
+  <AEXP_CatSomali.description>Чагарниковий кіт, що належить до тієї ж родини, що й абіссінська кішка. Має кущистий хвіст і мигдалеподібні очі.</AEXP_CatSomali.description>
+  <!--left claw-->
+  <AEXP_CatSomali.tools.left_claw.label>ліва лапа</AEXP_CatSomali.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_CatSomali.tools.right_claw.label>права лапа</AEXP_CatSomali.tools.right_claw.label>
+  <!--head-->
+  <AEXP_CatSomali.tools.head.label>голова</AEXP_CatSomali.tools.head.label>
+  
+  <!--sphynx cat-->
+  <AEXP_CatSphynx.label>сфінкс</AEXP_CatSphynx.label>
+  <!--A cat known for it's lack of fur, developed due to selective breeding. Being warm to the touch, they lose body temperature easily which makes it seek out heat sources.-->
+  <AEXP_CatSphynx.description>Кішка, відома своєю відсутністю шерсті, що з'явилася завдяки селекційному розведенню. Теплі на дотик, вони легко втрачають температуру тіла, що змушує їх шукати джерела тепла.</AEXP_CatSphynx.description>
+  <!--left claw-->
+  <AEXP_CatSphynx.tools.left_claw.label>ліва лапа</AEXP_CatSphynx.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_CatSphynx.tools.right_claw.label>права лапа</AEXP_CatSphynx.tools.right_claw.label>
+  <!--head-->
+  <AEXP_CatSphynx.tools.head.label>голова</AEXP_CatSphynx.tools.head.label>
+  
+  <!--hyena-->
+  <AEXP_Hyena.label>гієна</AEXP_Hyena.label>
+  <!--A large dog-like carnivore most often found in the shrublands and deserts. A common trope in tribal legends, the laughter produced by these animals can sow fear during the long desert nights.-->
+  <AEXP_Hyena.description>Великі псові хижаки, що найчастіше зустрічаються в пустелях і напівпустелях. Поширений символ у племінних легендах, сміх, який видають ці тварини, може наганяти страх довгими пустельними ночами.</AEXP_Hyena.description>
+  <!--left claw-->
+  <AEXP_Hyena.tools.left_claw.label>ліва лапа</AEXP_Hyena.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Hyena.tools.right_claw.label>права лапа</AEXP_Hyena.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Hyena.tools.head.label>голова</AEXP_Hyena.tools.head.label>
+  
+  <!--desert tortoise-->
+  <AEXP_DesertTortoise.label>пустельна черепаха</AEXP_DesertTortoise.label>
+  <!--This heavily armored desert-dwelling reptile is known for its slow moving speed and extremely hard, flat domed shell, making it tough to kill. Desert tortoises, despite their small size, are great combat animals and are relatively easy to tame.-->
+  <AEXP_DesertTortoise.description>Ця добре захищена рептилія, що мешкає в пустелі, відома своєю повільною швидкістю пересування і надзвичайно твердим панциром із плоским куполом, завдяки чому її важко вбити. Пустельні черепахи, незважаючи на свої невеликі розміри, є чудовими бойовими тваринами, і їх відносно легко приручити.</AEXP_DesertTortoise.description>
+  <!--beak-->
+  <AEXP_DesertTortoise.tools.beak.label>дзьоб</AEXP_DesertTortoise.tools.beak.label>
+  <!--head-->
+  <AEXP_DesertTortoise.tools.head.label>голова</AEXP_DesertTortoise.tools.head.label>
+  
+  <!--lion-->
+  <AEXP_Lion.label>лев</AEXP_Lion.label>
+  <!--A king of the animal kingdom, a lion is a muscular, deep-chested cat with a short head and a prominent mane. Being the biggest of the cat species, lions are excellent combat animals despite their wildness.-->
+  <AEXP_Lion.description>Король тваринного світу, лев – це м'язистий, глибокогрудий кіт з короткою головою і видатною гривою. Будучи найбільшим серед котячих, леви, незважаючи на свою дикість, є чудовими бійцями.</AEXP_Lion.description>
+  <!--left claw-->
+  <AEXP_Lion.tools.left_claw.label>ліва лапа</AEXP_Lion.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Lion.tools.right_claw.label>права лапа</AEXP_Lion.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Lion.tools.head.label>голова</AEXP_Lion.tools.head.label>
+  
+  <!--gila monster-->
+  <AEXP_GilaMonster.label>жилатьє</AEXP_GilaMonster.label>
+  <!--A large, slow moving type of lizard found mostly in the desert, known for it's highly venomous bite which inflicts a severe toxic build-up in it's prey. Outlanders to this day believe in tales which state that this lizard is a spawn from hell, and that it's foul breath is lethal.-->
+  <AEXP_GilaMonster.description>Великий, повільний вид ящірок, що мешкає переважно в пустелі, відомий своїм дуже отруйним укусом, який спричиняє сильне отруєння жертви. Мешканці пустель і досі вірять у казки, які стверджують, що ця ящірка є породженням пекла, і що її смердючий подих смертельний.</AEXP_GilaMonster.description>
+  <!--left claw-->
+  <AEXP_GilaMonster.tools.left_claw.label>ліва лапа</AEXP_GilaMonster.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_GilaMonster.tools.right_claw.label>права лапа</AEXP_GilaMonster.tools.right_claw.label>
+  <!--teeth-->
+  <AEXP_GilaMonster.tools.teeth.label>зуби</AEXP_GilaMonster.tools.teeth.label>
+  <!--head-->
+  <AEXP_GilaMonster.tools.head.label>голова</AEXP_GilaMonster.tools.head.label>
+  
+  <!--beagle-->
+  <AEXP_Beagle.label>бігль</AEXP_Beagle.label>
+  <!--A small scent hound developed primarily to hunt hares. It's intelligence and loyalty make it a valuable companion on the hunt.-->
+  <AEXP_Beagle.description>Невеликий гончак, виведений переважно для полювання на зайців. Його розум і відданість роблять його цінним компаньйоном на полюванні.</AEXP_Beagle.description>
+  <!--dog meat-->
+  <AEXP_Beagle.race.meatLabel>собачатина</AEXP_Beagle.race.meatLabel>
+  <!--left claw-->
+  <AEXP_Beagle.tools.left_claw.label>ліва лапа</AEXP_Beagle.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Beagle.tools.right_claw.label>права лапа</AEXP_Beagle.tools.right_claw.label>
+  <!--cute little teeth-->
+  <AEXP_Beagle.tools.cute_little_teeth.label>милі маленькі зуби</AEXP_Beagle.tools.cute_little_teeth.label>
+  <!--head-->
+  <AEXP_Beagle.tools.head.label>голова</AEXP_Beagle.tools.head.label>
+  
+  <!--chihuahua-->
+  <AEXP_Chihuahua.label>чихуахуа</AEXP_Chihuahua.label>
+  <!--A smallest dog, just a little bit bigger than a rat. Back in ancient times considered to be reincarnations of different deities and are to this day considered sacred.-->
+  <AEXP_Chihuahua.description>Найменша собачка, трохи більша за щура. У давнину вважалися реінкарнаціями різних божеств і донині вважаються священними.</AEXP_Chihuahua.description>
+  <!--left claw-->
+  <AEXP_Chihuahua.tools.left_claw.label>ліва лапа</AEXP_Chihuahua.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Chihuahua.tools.right_claw.label>права лапа</AEXP_Chihuahua.tools.right_claw.label>
+  <!--cute little teeth-->
+  <AEXP_Chihuahua.tools.cute_little_teeth.label>милі маленькі зуби</AEXP_Chihuahua.tools.cute_little_teeth.label>
+  <!--head-->
+  <AEXP_Chihuahua.tools.head.label>голова</AEXP_Chihuahua.tools.head.label>
+  
+  <!--corgi-->
+  <AEXP_Corgi.label>коргі</AEXP_Corgi.label>
+  <!--Historically used for cattle herding, Corgis quickly became popular on imperial worlds and are recognized as a symbol of royalty.-->
+  <AEXP_Corgi.description>Історично використовувані для випасу великої рогатої худоби, коргі швидко стали популярними в імперських світах і визнані символом королівської влади.</AEXP_Corgi.description>
+  <!--left claw-->
+  <AEXP_Corgi.tools.left_claw.label>ліва лапа</AEXP_Corgi.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Corgi.tools.right_claw.label>права лапа</AEXP_Corgi.tools.right_claw.label>
+  <!--cute little teeth-->
+  <AEXP_Corgi.tools.cute_little_teeth.label>милі маленькі зуби</AEXP_Corgi.tools.cute_little_teeth.label>
+  <!--head-->
+  <AEXP_Corgi.tools.head.label>голова</AEXP_Corgi.tools.head.label>
+  
+  <!--french bulldog-->
+  <AEXP_FrenchBulldog.label>французький бульдог</AEXP_FrenchBulldog.label>
+  <!--Originally used for bull-baiting, which is an act of pitting one species of animal against bulls, these bulldogs are fierce opponents and due to their small body-size, they are fast, agile and lethal.-->
+  <AEXP_FrenchBulldog.description>Спочатку бульдоги використовувалися для ловлі биків. Через постійні нацьковування цих тварин на биків, вони є запеклими супротивниками і завдяки невеликому розміру тіла є швидкими, спритними і смертоносними.</AEXP_FrenchBulldog.description>
+  <!--left claw-->
+  <AEXP_FrenchBulldog.tools.left_claw.label>ліва лапа</AEXP_FrenchBulldog.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_FrenchBulldog.tools.right_claw.label>права лапа</AEXP_FrenchBulldog.tools.right_claw.label>
+  <!--cute little teeth-->
+  <AEXP_FrenchBulldog.tools.cute_little_teeth.label>милі маленькі зуби</AEXP_FrenchBulldog.tools.cute_little_teeth.label>
+  <!--head-->
+  <AEXP_FrenchBulldog.tools.head.label>голова</AEXP_FrenchBulldog.tools.head.label>
+  
+  <!--german shepherd-->
+  <AEXP_GermanShepherd.label>німецька вівчарка</AEXP_GermanShepherd.label>
+  <!--A large sized working dog. Easy to train and good at following instructions, they are often seen accompanying glitterworld police forces and rimworld farmers.-->
+  <AEXP_GermanShepherd.description>Великий службовий собака. Легко піддаються дресируванню і добре виконують інструкції, їх часто можна побачити в супроводі поліцейських блискосвіту та фермерів.</AEXP_GermanShepherd.description>
+  <!--left claw-->
+  <AEXP_GermanShepherd.tools.left_claw.label>ліва лапа</AEXP_GermanShepherd.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_GermanShepherd.tools.right_claw.label>права лапа</AEXP_GermanShepherd.tools.right_claw.label>
+  <!--bite-->
+  <AEXP_GermanShepherd.tools.bite.label>укус</AEXP_GermanShepherd.tools.bite.label>
+  <!--head-->
+  <AEXP_GermanShepherd.tools.head.label>голова</AEXP_GermanShepherd.tools.head.label>
+  
+  <!--great dane-->
+  <AEXP_GreatDane.label>німецький дог</AEXP_GreatDane.label>
+  <!--One of the largest species of dogs, Great Danes are dignified, elegant and strong.-->
+  <AEXP_GreatDane.description>Один з найбільших видів собак, німецькі доги – гідні, елегантні та сильні.</AEXP_GreatDane.description>
+  <!--left claw-->
+  <AEXP_GreatDane.tools.left_claw.label>ліва лапа</AEXP_GreatDane.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_GreatDane.tools.right_claw.label>права лапа</AEXP_GreatDane.tools.right_claw.label>
+  <!--head-->
+  <AEXP_GreatDane.tools.head.label>голова</AEXP_GreatDane.tools.head.label>
+  
+  <!--poodle-->
+  <AEXP_Poodle.label>пудель</AEXP_Poodle.label>
+  <!--Large, pampered dogs, historically used for bird hunting, now mostly residing in imperial palaces and royal gardens.-->
+  <AEXP_Poodle.description>Великі, випещені собаки, яких історично використовували для полювання на птахів, зараз здебільшого мешкають в імператорських палацах і королівських садах.</AEXP_Poodle.description>
+  <!--left claw-->
+  <AEXP_Poodle.tools.left_claw.label>ліва лапа</AEXP_Poodle.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Poodle.tools.right_claw.label>права лапа</AEXP_Poodle.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Poodle.tools.head.label>голова</AEXP_Poodle.tools.head.label>
+  
+  <!--pug-->
+  <AEXP_Pug.label>мопс</AEXP_Pug.label>
+  <!--A small dog with physically distinctive features of a wrinkly, short-muzzled face, and curled tail. They are known for being extremely social and friendly, however due to years of genetic alterations they have a very short lifespan. Whatever life they have, they will always cheer up people around them.-->
+  <AEXP_Pug.description>Невеликий собака з характерними фізичними рисами – зморшкуватою, короткою мордою та закрученим хвостом. Вони відомі як надзвичайно соціальні та доброзичливі, проте через багаторічні генетичні зміни мають дуже коротку тривалість життя. Яким би не було їхнє життя, вони завжди підніматимуть настрій людям, які їх оточують.</AEXP_Pug.description>
+  <!--left claw-->
+  <AEXP_Pug.tools.left_claw.label>ліва лапа</AEXP_Pug.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Pug.tools.right_claw.label>права лапа</AEXP_Pug.tools.right_claw.label>
+  <!--cute little teeth-->
+  <AEXP_Pug.tools.cute_little_teeth.label>милі маленькі зуби</AEXP_Pug.tools.cute_little_teeth.label>
+  <!--head-->
+  <AEXP_Pug.tools.head.label>голова</AEXP_Pug.tools.head.label>
+  
+  <!--rottweiler-->
+  <AEXP_Rottweiler.label>ротвейлер</AEXP_Rottweiler.label>
+  <!--A large domestic dog and one of the oldest herding breeds. Being one of the most hard working dogs, it is a perfect companions for farmers and cattle herders.-->
+  <AEXP_Rottweiler.description>Велика домашня собака і одна з найстаріших пастуших порід. Будучи однією з найбільш робочих собак, вони є ідеальними компаньйонами для фермерів і пастухів великої рогатої худоби.</AEXP_Rottweiler.description>
+  <!--left claw-->
+  <AEXP_Rottweiler.tools.left_claw.label>ліва лапа</AEXP_Rottweiler.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Rottweiler.tools.right_claw.label>права лапа</AEXP_Rottweiler.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Rottweiler.tools.head.label>голова</AEXP_Rottweiler.tools.head.label>
+  
+  <!--shih-tzu-->
+  <AEXP_Shih-Tzu.label>ші-тсу</AEXP_Shih-Tzu.label>
+  <!--An oriental toy dog, Shih-Tzu have extremely long and soft hair. While they are kind of useless, petting them provides people with great comfort.-->
+  <AEXP_Shih-Tzu.description>Різновид східної декоративної собачки, ші-тсу, має надзвичайно довгу та м'яку шерсть. Хоча вони майже не приносять користі, пещення з ними приносить людині неабиякий комфорт.</AEXP_Shih-Tzu.description>
+  <!--left claw-->
+  <AEXP_Shih-Tzu.tools.left_claw.label>ліва лапа</AEXP_Shih-Tzu.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Shih-Tzu.tools.right_claw.label>права лапа</AEXP_Shih-Tzu.tools.right_claw.label>
+  <!--cute little teeth-->
+  <AEXP_Shih-Tzu.tools.cute_little_teeth.label>милі маленькі зуби</AEXP_Shih-Tzu.tools.cute_little_teeth.label>
+  <!--head-->
+  <AEXP_Shih-Tzu.tools.head.label>голова</AEXP_Shih-Tzu.tools.head.label>
+  
+  <!--welsh terrier-->
+  <AEXP_WelshTerrier.label>вельш тер'єр</AEXP_WelshTerrier.label>
+  <!--A hunting dog, welsh terriers are perfect for small rodents, foxes and badgers. Due to their intelligence they are perfect at way-finding, always able to return home after running into the woods.-->
+  <AEXP_WelshTerrier.description>A hunting dog, welsh terriers are perfect for small rodents, foxes and badgers. Due to their intelligence they are perfect at way-finding, always able to return home after running into the woods.</AEXP_WelshTerrier.description>
+  <!--left claw-->
+  <AEXP_WelshTerrier.tools.left_claw.label>ліва лапа</AEXP_WelshTerrier.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_WelshTerrier.tools.right_claw.label>права лапа</AEXP_WelshTerrier.tools.right_claw.label>
+  <!--head-->
+  <AEXP_WelshTerrier.tools.head.label>голова</AEXP_WelshTerrier.tools.head.label>
+  
+  <!--camel-->
+  <AEXP_Camel.label>верблюд</AEXP_Camel.label>
+  <!--A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but two humps make it extremely uncomfortable to ride.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.-->
+  <AEXP_Camel.description>Великий наземний ссавець, пристосований до посушливих умов. Одомашнений з давніх часів, його шерсть і шкіра надзвичайно добре ізолюють від пустельної спеки, а молоко є досить поживним. Його можна використовувати як в'ючну тварину, але два горби роблять його надзвичайно незручним для їзди верхи.\n\nЗберігаючи воду у своїх великих горбах і відновлюючи вологу з дихання при видиху, він може тижнями обходитися без води.</AEXP_Camel.description>
+  <!--left hoof-->
+  <AEXP_Camel.tools.left_hoof.label>ліве копито</AEXP_Camel.tools.left_hoof.label>
+  <!--right hoof-->
+  <AEXP_Camel.tools.right_hoof.label>праве копито</AEXP_Camel.tools.right_hoof.label>
+  <!--head-->
+  <AEXP_Camel.tools.head.label>голова</AEXP_Camel.tools.head.label>
+  
+  <!--rattlesnake-->
+  <AEXP_Rattlesnake.label>гримуча змія</AEXP_Rattlesnake.label>
+  <!--A highly venomous snake, recieving it's name from a rattle at the end of their tail. The sound generated sounds as a warning to any predators, however in case it doesn't work, rattlesnake's venom-fangs inflict extremely painful toxin.-->
+  <AEXP_Rattlesnake.description>Дуже отруйна змія, яка отримала свою назву завдяки брязкальцю на кінці хвоста. Звук, що видає брязкальце, є попередженням для будь-яких хижаків, але якщо це не спрацьовує, отруйні ікла гримучої змії випускають надзвичайно болючий токсин.</AEXP_Rattlesnake.description>
+  <!--venom-fangs-->
+  <AEXP_Rattlesnake.tools.venomfangs.label>отруйні ікла</AEXP_Rattlesnake.tools.venomfangs.label>
+  <!--head-->
+  <AEXP_Rattlesnake.tools.head.label>голова</AEXP_Rattlesnake.tools.head.label>
+  
+  <!--megascorpion-->
+  <AEXP_Megascorpion.label>мегаскорпіон</AEXP_Megascorpion.label>
+  <!--A giant, genetically-engineered scorpion. Once created as a perfect assassination tool, it is not often seen returning to it's natural habitat - desert. A very potent poison in it's stinger helps it in tacking even much bigger prey. A eusocial creature, it cannot reproduce individually.-->
+  <AEXP_Megascorpion.description>Гігантський, генетично модифікований скорпіон. Створений як досконале знаряддя вбивства, він не часто повертається до свого природного середовища існування – пустелі. Дуже сильна отрута в його жалі допомагає йому впоратися навіть з набагато більшою здобиччю. Будучи еусоціальною істотою, вона не може розмножуватися індивідуально.</AEXP_Megascorpion.description>
+  <!--stinger-->
+  <AEXP_Megascorpion.tools.stinger.label>жало</AEXP_Megascorpion.tools.stinger.label>
+  <!--mandibles-->
+  <AEXP_Megascorpion.tools.mandibles.label>мандибули</AEXP_Megascorpion.tools.mandibles.label>
+  <!--head-->
+  <AEXP_Megascorpion.tools.head.label>голова</AEXP_Megascorpion.tools.head.label>
+  
+  <!--penguin-->
+  <AEXP_Penguin.label>пінгвін</AEXP_Penguin.label>
+  <!--An aquatic, flightless bird, only found in arctic regions. Often seen in massive flocks, penguins are fierce when cornered, and can quickly overrun any hunter incompetent enough to get close to them.-->
+  <AEXP_Penguin.description>Водний, нелітаючий птах, що мешкає лише в арктичних регіонах. Пінгвіни, яких часто можна побачити у величезних зграях, стають лютими, коли їх заганяють у кут, і можуть швидко розправитися з будь-яким мисливцем, який недостатньо компетентний, щоб наблизитися до них.</AEXP_Penguin.description>
+  <!--claws-->
+  <AEXP_Penguin.tools.claws.label>кігті</AEXP_Penguin.tools.claws.label>
+  <!--beak-->
+  <AEXP_Penguin.tools.beak.label>дзьоб</AEXP_Penguin.tools.beak.label>
+  <!--head-->
+  <AEXP_Penguin.tools.head.label>голова</AEXP_Penguin.tools.head.label>
+  
+  <!--seal-->
+  <AEXP_Seal.label>тюлень</AEXP_Seal.label>
+  <!--A medium sized semi-aquatic mammal, which only comes ashore to eat, mate and escape from predators. Being an aggresive hunter, seals are capable of tackling much bigger prey and are known for cannibalism if the food is scarce.-->
+  <AEXP_Seal.description>Напівводний ссавець середнього розміру, який виходить на берег лише для того, щоб поїсти, спаритися і врятуватися від хижаків. Будучи агресивними мисливцями, тюлені здатні впоратися з набагато більшою здобиччю і відомі канібалізмом, якщо їжі не вистачає.</AEXP_Seal.description>
+  <!--pinniped meat-->
+  <AEXP_Seal.race.meatLabel>м'ясо ластоногих</AEXP_Seal.race.meatLabel>
+  <!--left fore-flipper-->
+  <AEXP_Seal.tools.left_foreflipper.label>лівий передній ласт</AEXP_Seal.tools.left_foreflipper.label>
+  <!--right fore-flipper-->
+  <AEXP_Seal.tools.right_foreflipper.label>правий передній ласт</AEXP_Seal.tools.right_foreflipper.label>
+  <!--head-->
+  <AEXP_Seal.tools.head.label>голова</AEXP_Seal.tools.head.label>
+  
+  <!--walrus-->
+  <AEXP_Walrus.label>морж</AEXP_Walrus.label>
+  <!--A large marine animal only found in the arctic regions of the planet, a walrus has prominent tusks which are a valuable luxury good across the planet.-->
+  <AEXP_Walrus.description>Велика морська тварина, що мешкає лише в арктичних регіонах планети, морж має видатні ікла, які є цінним предметом розкоші по всій планеті.</AEXP_Walrus.description>
+  <!--head-->
+  <AEXP_Walrus.tools.head.label>голова</AEXP_Walrus.tools.head.label>
+  
+  <!--red panda-->
+  <AEXP_RedPanda.label>червона панда</AEXP_RedPanda.label>
+  <!--The red panda is a small mammal, slightly larger than a domestic cat, with a bear-like body and thick russet fur. The belly and limbs are black, and there are white markings on the side of the head and above its small eyes. Red pandas are very skillful and acrobatic animals that predominantly stay in trees. It is a solitary animal, mainly active from dusk to dawn, though they can be quite affectionate if properly tamed.-->
+  <AEXP_RedPanda.description>Червона панда – невеликий ссавець, трохи більший за домашнього кота, з ведмежим тілом і густим рудим хутром. Живіт і кінцівки чорні, а збоку на голові і над маленькими очима є білі відмітини. Червоні панди – дуже вправні та акробатичні тварини, які переважно тримаються на деревах. Це поодинокі тварини, переважно активні від заходу до світанку, хоча вони можуть бути досить ласкавими, якщо їх правильно приручити.</AEXP_RedPanda.description>
+  <!--left fist-->
+  <AEXP_RedPanda.tools.left_fist.label>лівий кулак</AEXP_RedPanda.tools.left_fist.label>
+  <!--right fist-->
+  <AEXP_RedPanda.tools.right_fist.label>правий кулак</AEXP_RedPanda.tools.right_fist.label>
+  <!--head-->
+  <AEXP_RedPanda.tools.head.label>голова</AEXP_RedPanda.tools.head.label>
+  
+  <!--badger-->
+  <AEXP_Badger.label>борсук</AEXP_Badger.label>
+  <!--Badgers are small nocturnal mammals with flat, wedge-shaped bodies, broad feet with long claws and coarse hair. Badgers have strong limbs and sharp claws that help them dig burrows and find food underground. They are omnivorous, with a diet consisting largely of earthworms, insects, grubs and small animals such as hedgehogs and rabbits.-->
+  <AEXP_Badger.description>Борсуки – невеликі нічні ссавці з пласким клиноподібним тілом, широкими ногами з довгими кігтями і грубою шерстю. Борсуки мають сильні кінцівки і гострі кігті, які допомагають їм рити нори і знаходити їжу під землею. Вони всеїдні, їхній раціон складається переважно з дощових черв'яків, комах, личинок і дрібних тварин, таких як їжаки та кролики.</AEXP_Badger.description>
+  <!--left paw-->
+  <AEXP_Badger.tools.left_paw.label>ліва лапа</AEXP_Badger.tools.left_paw.label>
+  <!--right paw-->
+  <AEXP_Badger.tools.right_paw.label>права лапа</AEXP_Badger.tools.right_paw.label>
+  <!--head-->
+  <AEXP_Badger.tools.head.label>голова</AEXP_Badger.tools.head.label>
+  
+  <!--wild goose-->
+  <AEXP_WildGoose.label>дикий гусак</AEXP_WildGoose.label>
+  <!--A non-domesticated grey goose. Compared to their domesticated brethren, which have been selected over thousands of years for larger size, wild geese don't lay as many eggs, and they are renowned for their aggressive temperament. Peace was never an option.-->
+  <AEXP_WildGoose.description>Недомашня сіра гуска. У порівнянні зі своїми одомашненими побратимами, яких протягом тисячоліть відбирали за більший розмір, дикі гуси несуть не так багато яєць, і вони відомі своїм агресивним темпераментом. Мир ніколи не був варіантом.</AEXP_WildGoose.description>
+  <!--claws-->
+  <AEXP_WildGoose.tools.claws.label>кігті</AEXP_WildGoose.tools.claws.label>
+  <!--beak-->
+  <AEXP_WildGoose.tools.beak.label>дзьоб</AEXP_WildGoose.tools.beak.label>
+  <!--head-->
+  <AEXP_WildGoose.tools.head.label>голова</AEXP_WildGoose.tools.head.label>
+  
+  <!--beaver-->
+  <AEXP_Beaver.label>бобер</AEXP_Beaver.label>
+  <!--A large semiaquatic rodent with a flat, paddle-shaped tail and webbed hind feet. Beavers are renowned for their innate construction skills, building their homes, or "lodges", out of sticks, twigs, rocks, and mud in lakes, streams, and tidal river deltas. Beavers are well known for building dams across streams and constructing their lodges in the artificial ponds which form.-->
+  <AEXP_Beaver.description>Великий напівводний гризун з пласким, веслоподібним хвостом і перетинчастими задніми лапами. Бобри відомі своїми вродженими будівельними навичками, будуючи свої домівки, або "хатки", з палиць, гілок, каміння та мулу в озерах, струмках та дельтах припливних річок. Бобри добре відомі тим, що будують греблі через струмки і споруджують свої хатки у штучних ставках, які вони утворюють.</AEXP_Beaver.description>
+  <!--left claw-->
+  <AEXP_Beaver.tools.left_claw.label>ліва лапа</AEXP_Beaver.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Beaver.tools.right_claw.label>права лапа</AEXP_Beaver.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Beaver.tools.head.label>голова</AEXP_Beaver.tools.head.label>
+  
+  <!--hedgehog-->
+  <AEXP_Hedgehog.label>їжак</AEXP_Hedgehog.label>
+  <!--Hedgehogs are diminutive mammals with cone-shaped faces, short legs and bodies that are covered with porcupine-like quills. When in danger, the hedgehog rolls into a ball so that the quills cover the entire area of their exposed body and protects the animal from predators.-->
+  <AEXP_Hedgehog.description>Їжаки – це мініатюрні ссавці з конусоподібною мордочкою, короткими ногами і тілом, вкритим пір'ям, схожим на дикобраза. У разі небезпеки їжак згортається в клубок, щоб пір'я вкривало всю площу його відкритого тіла і захищало тварину від хижаків.</AEXP_Hedgehog.description>
+  <!--left claw-->
+  <AEXP_Hedgehog.tools.left_claw.label>ліва лапа</AEXP_Hedgehog.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Hedgehog.tools.right_claw.label>права лапа</AEXP_Hedgehog.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Hedgehog.tools.head.label>голова</AEXP_Hedgehog.tools.head.label>
+  
+  <!--gorilla-->
+  <AEXP_Gorilla.label>горила</AEXP_Gorilla.label>
+  <!--These ground-dwelling herbivorous apes are the largest living primates, and they are the next closest living relatives to humans after the chimpanzees and bonobos. Like all the great apes, the arms of the gorilla are longer than its legs. Gorillas are usually surprisingly shy, though they may show aggression by beating their chests and charging if their social group is threatened.-->
+  <AEXP_Gorilla.description>Ці наземні травоїдні мавпи є найбільшими з нині живучих приматів і найближчими родичами людини після шимпанзе та павіанів. Як і у всіх людиноподібних мавп, руки горили довші за ноги. Зазвичай горили напрочуд сором'язливі, хоча можуть проявляти агресію, б'ючи себе в груди і нападаючи, якщо їхній соціальній групі загрожує небезпека.</AEXP_Gorilla.description>
+  <!--primate meat-->
+  <AEXP_Gorilla.race.meatLabel>м'ясо примата</AEXP_Gorilla.race.meatLabel>
+  <!--left fist-->
+  <AEXP_Gorilla.tools.left_fist.label>лівий кулак</AEXP_Gorilla.tools.left_fist.label>
+  <!--right fist-->
+  <AEXP_Gorilla.tools.right_fist.label>правий кулак</AEXP_Gorilla.tools.right_fist.label>
+  <!--head-->
+  <AEXP_Gorilla.tools.head.label>голова</AEXP_Gorilla.tools.head.label>
+  
+  <!--jaguar-->
+  <AEXP_Jaguar.label>ягуар</AEXP_Jaguar.label>
+  <!--A large felid species and the only existing member of the Panthera native to the Americas in old Earth. This spotted cat closely resembles the leopard, but is usually larger and sturdier. The jaguar enjoys swimming and is largely a solitary, opportunistic, stalk-and-ambush predator at the top of the food chain.-->
+  <AEXP_Jaguar.description>Великий котячий вид і єдиний представник родини пантерових, що мешкає в Америці на старій Землі. Ця плямиста кішка дуже схожа на леопарда, але зазвичай більша і витриваліша. Ягуар полюбляє плавати і здебільшого є поодиноким хижаком, що переслідує здобич і підстерігає її, перебучаючи на вершині харчового ланцюга.</AEXP_Jaguar.description>
+  <!--left claw-->
+  <AEXP_Jaguar.tools.left_claw.label>ліва лапа</AEXP_Jaguar.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Jaguar.tools.right_claw.label>права лапа</AEXP_Jaguar.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Jaguar.tools.head.label>голова</AEXP_Jaguar.tools.head.label>
+  
+  <!--lemur-->
+  <AEXP_Lemur.label>лемур</AEXP_Lemur.label>
+  <!--A small primate, lemurs are arboreal, and usually nocturnal. They have a pointed snout, large eyes, and a long tail. Although they are social creatures, they have traditionally been regarded as being less intelligent than other primates, since they don't exhibit behaviours of tool use in the wild.-->
+  <AEXP_Lemur.description>Невеликі примати, лемури живуть на деревах і зазвичай ведуть нічний спосіб життя. Вони мають загострену морду, великі очі та довгий хвіст. Хоча вони є соціальними істотами, їх традиційно вважають менш розумними, ніж інших приматів, оскільки вони не демонструють поведінки, пов'язаної з використанням знарядь праці в дикій природі.</AEXP_Lemur.description>
+  <!--left fist-->
+  <AEXP_Lemur.tools.left_fist.label>лівий кулак</AEXP_Lemur.tools.left_fist.label>
+  <!--right fist-->
+  <AEXP_Lemur.tools.right_fist.label>правий кулак</AEXP_Lemur.tools.right_fist.label>
+  <!--head-->
+  <AEXP_Lemur.tools.head.label>голова</AEXP_Lemur.tools.head.label>
+  
+  <!--mandrill-->
+  <AEXP_Mandrill.label>мандрил</AEXP_Mandrill.label>
+  <!--Mandrills are one of the largest of all monkeys. They are shy and reclusive primates that live only in rain forests. Mandrills are extremely colorful, perhaps more so than any other mammal. They are easily identifiable by the blue and red skin on their faces and their brightly hued rumps.-->
+  <AEXP_Mandrill.description>Мандрили – одні з найбільших мавп. Це сором'язливі та відлюдні примати, які живуть лише в тропічних лісах. Мандрили надзвичайно яскраві, можливо, більше, ніж будь-які інші ссавці. Їх легко впізнати за синьою та червоною шкірою на обличчі та яскраво забарвленим хребтом.</AEXP_Mandrill.description>
+  <!--left fist-->
+  <AEXP_Mandrill.tools.left_fist.label>лівий кулак</AEXP_Mandrill.tools.left_fist.label>
+  <!--right fist-->
+  <AEXP_Mandrill.tools.right_fist.label>правий кулак</AEXP_Mandrill.tools.right_fist.label>
+  <!--head-->
+  <AEXP_Mandrill.tools.head.label>голова</AEXP_Mandrill.tools.head.label>
+  
+  <!--tapir-->
+  <AEXP_Tapir.label>тапір</AEXP_Tapir.label>
+  <!--A large, herbivorous mammal, similar in shape to a pig, with a short nose trunk, tapirs inhabit jungle and forest regions.-->
+  <AEXP_Tapir.description>Великі травоїдні ссавці, схожі за формою на свиню, з коротким носом-хоботом, тапіри населяють джунглі та лісові райони.</AEXP_Tapir.description>
+  <!--head-->
+  <AEXP_Tapir.tools.head.label>голова</AEXP_Tapir.tools.head.label>
+  
+  <!--tiger-->
+  <AEXP_Tiger.label>тигр</AEXP_Tiger.label>
+  <!--The tiger is the largest species among the big cats. It is most recognisable for its dark vertical stripes on reddish-orange fur with a lighter underside. It is an apex predator, territorial and generally solitary. In the wild, tigers mostly feed on large and medium-sized mammals.-->
+  <AEXP_Tiger.description>Тигр – найбільший вид серед великих котячих. Його можна впізнати за темними вертикальними смугами на рудувато-оранжевому хутрі зі світлішою нижньою стороною. Це вищий хижак, територіальний і, як правило, поодинокий. У дикій природі тигри харчуються переважно великими та середніми ссавцями.</AEXP_Tiger.description>
+  <!--left claw-->
+  <AEXP_Tiger.tools.left_claw.label>ліва лапа</AEXP_Tiger.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Tiger.tools.right_claw.label>права лапа</AEXP_Tiger.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Tiger.tools.head.label>голова</AEXP_Tiger.tools.head.label>
+  
+  <!--alligator-->
+  <AEXP_Alligator.label>алігатор</AEXP_Alligator.label>
+  <!--The alligator is a large reptile that inhabits freshwater wetlands. They are apex predators and consume fish, amphibians, reptiles, birds, and mammals.  Like other crocodilians, healthy alligators may continue to grow throughout their lives.-->
+  <AEXP_Alligator.description>Алігатор – це велика рептилія, яка мешкає у прісноводних болотах. Вони є вищими хижаками і споживають рибу, амфібій, рептилій, птахів і ссавців.  Як і інші крокодили, здорові алігатори можуть продовжувати рости протягом усього життя.</AEXP_Alligator.description>
+  
+  <!--anaconda-->
+  <AEXP_Anaconda.label>анаконда</AEXP_Anaconda.label>
+  <!--The anaconda is the heaviest and one of the longest known snake species, reaching lengths of 5 meters. They are a primarily nocturnal species that tends to spend most of its life in or around water.-->
+  <AEXP_Anaconda.description>Анаконда – найважчий і один із найдовших відомих видів змій, що досягає 5 метрів у довжину. Це переважно нічний вид, який проводить більшу частину свого життя у воді або поблизу неї.</AEXP_Anaconda.description>
+  <!--head-->
+  <AEXP_Anaconda.tools.head.label>голова</AEXP_Anaconda.tools.head.label>
+  
+  <!--indian elephant-->
+  <AEXP_IndianElephant.label>індійський слон</AEXP_IndianElephant.label>
+  <!--The Indian elephant is one of the largest unmodified land animals. In general, Indian elephants are smaller, have smaller ears, but relatively broader skulls and larger trunks than African elephants, and have the highest body point on the head.-->
+  <AEXP_IndianElephant.description>Індійський слон – одна з найбільших немодифікованих наземних тварин. Загалом, індійські слони менші за розміром, мають менші вуха, але відносно ширший череп і більший хобот, ніж у африканських слонів.</AEXP_IndianElephant.description>
+  <!--left foot-->
+  <AEXP_IndianElephant.tools.left_foot.label>ліва ступня</AEXP_IndianElephant.tools.left_foot.label>
+  <!--right foot-->
+  <AEXP_IndianElephant.tools.right_foot.label>права ступня</AEXP_IndianElephant.tools.right_foot.label>
+  <!--head-->
+  <AEXP_IndianElephant.tools.head.label>голова</AEXP_IndianElephant.tools.head.label>
+  
+  <!--musk ox-->
+  <AEXP_Muskox.label>вівцебик</AEXP_Muskox.label>
+  <!--Musk oxen are massive buffalo-like mammals that roam the tundra areas in search for roots, mosses and lichens to sustain them. Being related to muffalos, musk oxen can be used as pack animals. They are noted for their thick coat and for the strong odor emitted during the seasonal rut by males, from which their name derives.-->
+  <AEXP_Muskox.description>Вівцебики – масивні буйволоподібні ссавці, які блукають тундрою у пошуках коріння, мохів та лишайників, що забезпечують їхнє існування. Будучи спорідненими з буйволами, вівцебики можуть використовуватися як в'ючні тварини. Вони відомі своєю густою шерстю та сильним запахом, який виділяють самці під час сезонного гону, звідки і походить їхня назва.</AEXP_Muskox.description>
+  <!--head-->
+  <AEXP_Muskox.tools.head.label>голова</AEXP_Muskox.tools.head.label>
+  <!--left hoof-->
+  <AEXP_Muskox.tools.left_hoof.label>ліве копито</AEXP_Muskox.tools.left_hoof.label>
+  <!--right hoof-->
+  <AEXP_Muskox.tools.right_hoof.label>праве копито</AEXP_Muskox.tools.right_hoof.label>
+  
+  <!--moose-->
+  <AEXP_Moose.label>лось</AEXP_Moose.label>
+  <!--The largest and heaviest member of the deer family, well-adapted to life in cold climates. Can easily be identified due to the size of the antlers and long, thin legs. Cannot carry packs, but domesticated moose can be milked. Unlike most other deer species, moose do not form herds and are solitary animals. Although generally slow-moving and sedentary, moose can become aggressive and move quickly if angered or startled.-->
+  <AEXP_Moose.description>Найбільший і найважчий представник родини оленячих, добре пристосований до життя в холодному кліматі. Його легко впізнати за розміром рогів і довгими тонкими ногами. Не може носити пакунки, але одомашнених лосів можна доїти. На відміну від більшості інших видів оленів, лосі не утворюють стад і є поодинокими тваринами. Хоча зазвичай лосі повільно рухаються і ведуть малорухливий спосіб життя, вони можуть стати агресивними і швидко пересуватися, якщо їх розлютити або налякати.</AEXP_Moose.description>
+  <!--left hoof-->
+  <AEXP_Moose.tools.left_hoof.label>ліве копито</AEXP_Moose.tools.left_hoof.label>
+  <!--right hoof-->
+  <AEXP_Moose.tools.right_hoof.label>праве копито</AEXP_Moose.tools.right_hoof.label>
+  <!--head-->
+  <AEXP_Moose.tools.head.label>голова</AEXP_Moose.tools.head.label>
+  
+  <!--megawolverine-->
+  <AEXP_MegaWolverine.label>мегаросомаха</AEXP_MegaWolverine.label>
+  <!--A giant, genetically-engineered predator with massive paws to rip apart prey. Thick fur allows it to survive the coldest of climates, whilst it strength allows it to hunt even the largest of mammals for food.-->
+  <AEXP_MegaWolverine.description>Гігантський, генномодифікований хижак із масивними лапами, що розривають здобич на шматки. Густе хутро дозволяє йому виживати в найхолоднішому кліматі, а сила – полювати навіть на найбільших ссавців.</AEXP_MegaWolverine.description>
+  <!--left claw-->
+  <AEXP_MegaWolverine.tools.left_claw.label>ліва лапа</AEXP_MegaWolverine.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_MegaWolverine.tools.right_claw.label>права лапа</AEXP_MegaWolverine.tools.right_claw.label>
+  <!--head-->
+  <AEXP_MegaWolverine.tools.head.label>голова</AEXP_MegaWolverine.tools.head.label>
+  
+  <!--porcupine-->
+  <AEXP_Porcupine.label>дикобраз</AEXP_Porcupine.label>
+  <!--A large rodent with a coat of sharp quills that protect it against predators.-->
+  <AEXP_Porcupine.description>Великий гризун із покривом із гострих голок, які захищають його від хижаків.</AEXP_Porcupine.description>
+  <!--left claw-->
+  <AEXP_Porcupine.tools.left_claw.label>ліва лапа</AEXP_Porcupine.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Porcupine.tools.right_claw.label>права лапа</AEXP_Porcupine.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Porcupine.tools.head.label>голова</AEXP_Porcupine.tools.head.label>
+  
+  <!--raw fish-->
+  <AEXP_RawFish.label>сира риба</AEXP_RawFish.label>
+  <!--Raw fish. A resourceful penguin has fished this.-->
+  <AEXP_RawFish.description>Сира риба. Її зловив кмітливий пінгвін.</AEXP_RawFish.description>
+  <!--raw fish-->
+  <AEXP_RawFish.tools.raw_fish.label>сира риба</AEXP_RawFish.tools.raw_fish.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ocular slinger -->
+  <AG_OcularSlinger.label>окулярний слінгер</AG_OcularSlinger.label>
+  <!-- EN: A large, mutated scorpion. A multitude of twitching eyes look around nervously. -->
+  <AG_OcularSlinger.description>Великий, мутований скорпіон. Безліч сіпаючихся очей нервово озираються навколо</AG_OcularSlinger.description>
+  <!-- EN: left pincer -->
+  <AG_OcularSlinger.tools.left_pincer.label>ліва клешня</AG_OcularSlinger.tools.left_pincer.label>
+  <!-- EN: right pincer -->
+  <AG_OcularSlinger.tools.right_pincer.label>права клешня</AG_OcularSlinger.tools.right_pincer.label>
+  <!-- EN: head -->
+  <AG_OcularSlinger.tools.head.label>голова</AG_OcularSlinger.tools.head.label>
+  <!-- EN: eye -->
+  <AG_OcularSlinger.verbs.eye.label>око</AG_OcularSlinger.verbs.eye.label>
+  
+</LanguageData>

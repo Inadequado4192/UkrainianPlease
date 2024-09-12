@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Pawns join-->
+  <VSEWW_ExcellentPawnJoins.label>Нові поселенці</VSEWW_ExcellentPawnJoins.label>
+  <!--A group of 5 pawns worth a minimum of 175 Combat points joins the colony-->
+  <VSEWW_ExcellentPawnJoins.description>Група з 5 людей, вартістю не менше 175 бойових очок, приєднується до поселення</VSEWW_ExcellentPawnJoins.description>
+  
+  <!--Resource drop-->
+  <VSEWW_ExcellentResourceDrop.label>Скид ресурсів</VSEWW_ExcellentResourceDrop.label>
+  <!--Cargo pods drop 1000 wood, 1000 steel, 60 components, 20 advanced components and 300 plasteel-->
+  <VSEWW_ExcellentResourceDrop.description>Приземляються вантажні капсули з 1000 дерева, 1000 сталі, 60 компонентами, 20 передовими компонентами і 300 пласталі</VSEWW_ExcellentResourceDrop.description>
+  
+  <!--Food and medicine drop-->
+  <VSEWW_ExcellentFoodAndMedicineDrop.label>Скид їжі та медикаментів</VSEWW_ExcellentFoodAndMedicineDrop.label>
+  <!--Cargo pods drop 120 survival meals, 20 glitterworld medicine and 100 medicine-->
+  <VSEWW_ExcellentFoodAndMedicineDrop.description>Приземляються вантажні капсули з 120 консервами, 20 ліками блискосвіту та 100 медикаментів</VSEWW_ExcellentFoodAndMedicineDrop.description>
+  
+  <!--Fuel drop-->
+  <VSEWW_ExcellentFuelDrop.label>Скид палива</VSEWW_ExcellentFuelDrop.label>
+  <!--Cargo pods drop 1000 chemfuel, 1000 wood and 400 uranium-->
+  <VSEWW_ExcellentFuelDrop.description>Приземляються вантажні капсули з 1000 хімпалива, 1000 дерева та 400 урану</VSEWW_ExcellentFuelDrop.description>
+  
+  <!--Excellent weapons drop-->
+  <VSEWW_ExcellentWeaponDrop.label>Скид чудової зброї</VSEWW_ExcellentWeaponDrop.label>
+  <!--Cargo pods 5 random weapons, quality is Excellent-->
+  <VSEWW_ExcellentWeaponDrop.description>Приземляються вантажні капсули з 5 одиницями зброї, якість Чудова</VSEWW_ExcellentWeaponDrop.description>
+  
+  <!--Excellent armor drop-->
+  <VSEWW_ExcellentArmorDrop.label>Скид чудової броні</VSEWW_ExcellentArmorDrop.label>
+  <!--Cargo pods 5 random pieces of armor, quality is Excellent-->
+  <VSEWW_ExcellentArmorDrop.description>Приземляються вантажні капсули з 5 одиницями броні, якість Чудова</VSEWW_ExcellentArmorDrop.description>
+  
+  <!--Cash-->
+  <VSEWW_ExcellentCashDrop.label>Гроші</VSEWW_ExcellentCashDrop.label>
+  <!--Cargo pods drop 10000 silver, 500 gold-->
+  <VSEWW_ExcellentCashDrop.description>Приземляються вантажні капсули з 10000 срібла, 500 золота</VSEWW_ExcellentCashDrop.description>
+  
+  <!--Delay next wave-->
+  <VSEWW_DelayBy15.label>Затримка наступної хвилі</VSEWW_DelayBy15.label>
+  <!--The next wave is delayed by 15 days-->
+  <VSEWW_DelayBy15.description>Наступна хвиля затримається на 15 днів</VSEWW_DelayBy15.description>
+  
+  <!--Wargs drop-->
+  <VSEWW_WargDrop.label>Скид варгів</VSEWW_WargDrop.label>
+  <!--Cargo pod drops 10 tamed wargs-->
+  <VSEWW_WargDrop.description>Приземляються вантажні капсули з 10 прирученими варгами</VSEWW_WargDrop.description>
+  
+  <!--Skill boost-->
+  <VSEWW_ExcellentSkillBoost.label>Бонус до навичок</VSEWW_ExcellentSkillBoost.label>
+  <!--Improve every skill of every pawn under your control by 3-->
+  <VSEWW_ExcellentSkillBoost.description>Покращення кожної навички кожного вашого поселенця на 3</VSEWW_ExcellentSkillBoost.description>
+  
+  <!--Research boost-->
+  <VSEWW_ExcellentReseachBoost.label>Бонус до досліджень</VSEWW_ExcellentReseachBoost.label>
+  <!--Instantly research 8 random research projects you meet prerequisites for-->
+  <VSEWW_ExcellentReseachBoost.description>Миттєво дослідження 8 випадкових проєктів, для яких ви відповідаєте необхідним умовам</VSEWW_ExcellentReseachBoost.description>
+  
+  <!--Archotech artifacts drop-->
+  <VSEWW_ExcellentArchotechArtifactsDrop.label>Скид артефактів архотехів</VSEWW_ExcellentArchotechArtifactsDrop.label>
+  <!--Receive 8 random archotech items (can be minified structures)-->
+  <VSEWW_ExcellentArchotechArtifactsDrop.description>Отримайте 8 випадкових об'єктів архотехів (можуть бути мініатюрними спорудами)</VSEWW_ExcellentArchotechArtifactsDrop.description>
+  
+  <!--Targeters drop-->
+  <VSEWW_TargetersDrop.label>Скид вказівників</VSEWW_TargetersDrop.label>
+  <!--Receive an orbital beam targeter, orbital bombardment targeter and tornado generator-->
+  <VSEWW_TargetersDrop.description>Отримайте вказівник силового променя, вказівник орбітального бомбардування та генератор торнадо</VSEWW_TargetersDrop.description>
+  
+  <!--Drugs drop-->
+  <VSEWW_ExcellentDrugsDrop.label>Скид наркотиків</VSEWW_ExcellentDrugsDrop.label>
+  <!--Receive 100 Ambrosia, 100 psychite tea, 200 beer, 200 smokeleaf joints, 200 flake, 200 yayo, 200 wake-up, 200 go juice-->
+  <VSEWW_ExcellentDrugsDrop.description>Отримайте 100 Амброзії, 100 психітового чаю, 200 пива, 200 димолиста, 200 психінових пластівців, 200 порошка психіну, 200 бадьорину, 200 го-соку</VSEWW_ExcellentDrugsDrop.description>
+  
+  <!--Prosthetics drop-->
+  <VSEWW_ExcellentProstheticsDrop.label>Скид протезів</VSEWW_ExcellentProstheticsDrop.label>
+  <!--Cargo pod drops random 10 bionic prosthetics-->
+  <VSEWW_ExcellentProstheticsDrop.description>Приземляються вантажні капсули з 10 випадковими біонічними протезами</VSEWW_ExcellentProstheticsDrop.description>
+  
+  <!--Healer serum drop-->
+  <VSEWW_MechSerumHealerDrop.label>Скид лікувальної сироватки</VSEWW_MechSerumHealerDrop.label>
+  <!--Cargo pod drops 5 Mechanoid healer serum-->
+  <VSEWW_MechSerumHealerDrop.description>Приземляються вантажні капсули з 5 одиницями лікувальної сироватки</VSEWW_MechSerumHealerDrop.description>
+  
+  <!--Random Legendary reward-->
+  <VSEWW_RandomLegendaryDrop.label>Випадкова Легендарна нагорода</VSEWW_RandomLegendaryDrop.label>
+  <!--Instead of picking up a specific Excellent-level reward, obtain a completely random Legendary-level reward-->
+  <VSEWW_RandomLegendaryDrop.description>Замість того, щоб отримати конкретну нагороду Чудового рівня, ви отримаєте абсолютно випадкову нагороду Легендарного рівня</VSEWW_RandomLegendaryDrop.description>
+  
+  <!--Pawns join-->
+  <VSEWW_GoodPawnJoins.label>Нові поселенці</VSEWW_GoodPawnJoins.label>
+  <!--A group of 3 pawns worth a minimum 100 and up to 175 Combat points joins the colony-->
+  <VSEWW_GoodPawnJoins.description>>Група з 3 людей, вартістю від 100 до 175 бойових очок, приєднується до поселення</VSEWW_GoodPawnJoins.description>
+  
+  <!--Resource drop-->
+  <VSEWW_GoodResourceDrop.label>Скид ресурсів</VSEWW_GoodResourceDrop.label>
+  <!--Cargo pods drop 500 wood, 500 steel, 30 components and 200 plasteel-->
+  <VSEWW_GoodResourceDrop.description>Приземляються вантажні капсули з 500 дерева, 500 сталі, 30 компонентів та 200 пласталі</VSEWW_GoodResourceDrop.description>
+  
+  <!--Components drop-->
+  <VSEWW_GoodComponentDrop.label>Скид компонентів</VSEWW_GoodComponentDrop.label>
+  <!--Cargo pods drop 60 components, 15 advanced components-->
+  <VSEWW_GoodComponentDrop.description>Приземляються вантажні капсули з 60 компонентами, 15 передовими компонентами</VSEWW_GoodComponentDrop.description>
+  
+  <!--Food and medicine drop-->
+  <VSEWW_GoodFoodAndMedicineDrop.label>Скид їжі та медикаментів</VSEWW_GoodFoodAndMedicineDrop.label>
+  <!--Cargo pods drop 100 survival meals and 100 medicine-->
+  <VSEWW_GoodFoodAndMedicineDrop.description>Приземляються вантажні капсули з 100 консервами та 100 медикаментів</VSEWW_GoodFoodAndMedicineDrop.description>
+  
+  <!--Fuel drop-->
+  <VSEWW_GoodFuelDrop.label>Скид палива</VSEWW_GoodFuelDrop.label>
+  <!--Cargo pods drop 800 chemfuel, 800 wood and 250 uranium-->
+  <VSEWW_GoodFuelDrop.description>Приземляються вантажні капсули з 800 хімпалива, 800 дерева та 250 урану</VSEWW_GoodFuelDrop.description>
+  
+  <!--Good weapons drop-->
+  <VSEWW_GoodWeaponsDrop.label>Скид хорошої зброї</VSEWW_GoodWeaponsDrop.label>
+  <!--Cargo pods 3 random weapons, quality is Good-->
+  <VSEWW_GoodWeaponsDrop.description>Приземляються вантажні капсули з 3 одиницями зброї, якість Хороша</VSEWW_GoodWeaponsDrop.description>
+  
+  <!--Good armor drop-->
+  <VSEWW_GoodArmorDrop.label>Скид хорошої броні</VSEWW_GoodArmorDrop.label>
+  <!--Cargo pods 3 random pieces of armor, quality is Good-->
+  <VSEWW_GoodArmorDrop.description>Приземляються вантажні капсули з 3 одиницями броні, якість Хороша</VSEWW_GoodArmorDrop.description>
+  
+  <!--Cash-->
+  <VSEWW_GoodCashDrop.label>Гроші</VSEWW_GoodCashDrop.label>
+  <!--Cargo pods drop 5000 silver, 250 gold-->
+  <VSEWW_GoodCashDrop.description>Приземляються вантажні капсули з 5000 срібла, 250 золота</VSEWW_GoodCashDrop.description>
+  
+  <!--Delay next wave-->
+  <VSEWW_DelayBy7.label>Затримка наступної хвилі</VSEWW_DelayBy7.label>
+  <!--Next wave is delayed by 7 days-->
+  <VSEWW_DelayBy7.description>Наступна хвиля затримається на 7 днів</VSEWW_DelayBy7.description>
+  
+  <!--Combat Animal drop-->
+  <VSEWW_CombatAnimalDrop.label>Скид бойових звірів</VSEWW_CombatAnimalDrop.label>
+  <!--Cargo pod drops 5 random, tamed combat animals-->
+  <VSEWW_CombatAnimalDrop.description>Приземляються вантажні капсули з 5 випадковими, прирученими бойовими звірами</VSEWW_CombatAnimalDrop.description>
+  
+  <!--Textile drop-->
+  <VSEWW_GoodTextileDrop.label>Скид текстилю</VSEWW_GoodTextileDrop.label>
+  <!--Cargo pod drops 1000 random pieces of leather or textile-->
+  <VSEWW_GoodTextileDrop.description>Приземляються вантажні капсули із 1000 випадковими шматами шкіри або текстилю</VSEWW_GoodTextileDrop.description>
+  
+  <!--Skill boost-->
+  <VSEWW_GoodSkillBoost.label>Бонус до навичок</VSEWW_GoodSkillBoost.label>
+  <!--Improve every skill of every pawn under your control by 2-->
+  <VSEWW_GoodSkillBoost.description>Покращення кожної навички кожного вашого поселенця на 2</VSEWW_GoodSkillBoost.description>
+  
+  <!--Research boost-->
+  <VSEWW_GoodReseachBoost.label>Бонус до досліджень</VSEWW_GoodReseachBoost.label>
+  <!--Instantly research 5 random research projects you meet prerequisites for-->
+  <VSEWW_GoodReseachBoost.description>Миттєво дослідження 5 випадкових проєктів, для яких ви відповідаєте необхідним умовам</VSEWW_GoodReseachBoost.description>
+  
+  <!--Weaken next wave-->
+  <VSEWW_Weaken50.label>Послаблення наступної хвилі</VSEWW_Weaken50.label>
+  <!--Next wave only has 50% Combat points it would normally have-->
+  <VSEWW_Weaken50.description>Наступна хвиля буде вдвічі слабша, ніж мала би бути</VSEWW_Weaken50.description>
+  
+  <!--Allies!-->
+  <VSEWW_Allies.label>Союзники!</VSEWW_Allies.label>
+  <!--Next wave also brings allies that are 2x the regular size, to help you-->
+  <VSEWW_Allies.description>Наступна хвиля також додає союзників, які вдвічі більше звичайного розміру, щоб допомогти вам</VSEWW_Allies.description>
+  
+  <!--Archotech artifacts drop-->
+  <VSEWW_GoodArchotechArtifactsDrop.label>Скид артефактів архотехів</VSEWW_GoodArchotechArtifactsDrop.label>
+  <!--Receive 5 random archotech items (can be minified structures)-->
+  <VSEWW_GoodArchotechArtifactsDrop.description>Отримайте 5 випадкових речей архотехів (можуть бути мініатюрними спорудами)</VSEWW_GoodArchotechArtifactsDrop.description>
+  
+  <!--Orbital beam targeter-->
+  <VSEWW_OrbitalTargeterPowerBeamDrop.label>Вказівник силового променя</VSEWW_OrbitalTargeterPowerBeamDrop.label>
+  <!--Receive an orbital beam targeter-->
+  <VSEWW_OrbitalTargeterPowerBeamDrop.description>Отримайте вказівник силового променя</VSEWW_OrbitalTargeterPowerBeamDrop.description>
+  
+  <!--Orbital bombardment targeter-->
+  <VSEWW_OrbitalTargeterBombardmentDrop.label>Вказівник орбітального бомбардування</VSEWW_OrbitalTargeterBombardmentDrop.label>
+  <!--Receive an orbital bombardment targeter-->
+  <VSEWW_OrbitalTargeterBombardmentDrop.description>Отримайте вказівник орбітального бомбардування</VSEWW_OrbitalTargeterBombardmentDrop.description>
+  
+  <!--Tornado generator-->
+  <VSEWW_TornadoGeneratorDrop.label>Генератор торнадо</VSEWW_TornadoGeneratorDrop.label>
+  <!--Receive a tornado generator-->
+  <VSEWW_TornadoGeneratorDrop.description>Отримайте генератор торнадо</VSEWW_TornadoGeneratorDrop.description>
+  
+  <!--Drugs drop-->
+  <VSEWW_GoodDrugsDrop.label>Скид наркотиків</VSEWW_GoodDrugsDrop.label>
+  <!--Receive 10 Ambrosia, 10 psychite tea, 20 beer, 20 smokeleaf joints, 20 flake, 20 yayo, 20 wake-up, 20 go juice-->
+  <VSEWW_GoodDrugsDrop.description>Отримайте 10 Амброзії, 10 психітового чаю, 20 пива, 20 димолиста, 20 психінових пластівців, 20 порошка психіну, 20 бадьорину, 20 го-соку</VSEWW_GoodDrugsDrop.description>
+  
+  <!--Prosthetics drop-->
+  <VSEWW_GoodProstheticsDrop.label>Скид протезів</VSEWW_GoodProstheticsDrop.label>
+  <!--Cargo pod drops 5 random low-level prosthetics and 5 bionic prosthetics-->
+  <VSEWW_GoodProstheticsDrop.description>Приземляються вантажні капсули з 5 випадковими низькорівневими протезами та 5 випадковими біонічними протезами</VSEWW_GoodProstheticsDrop.description>
+  
+  <!--Random Excellent reward-->
+  <VSEWW_RandomExcellentDrop.label>Випадкова Чудова нагорода</VSEWW_RandomExcellentDrop.label>
+  <!--Instead of picking up a specific Good-level reward, obtain a completely random Excellent-level reward-->
+  <VSEWW_RandomExcellentDrop.description>Замість того, щоб отримати конкретну нагороду Хорошого рівня, ви отримаєте абсолютно випадкову нагороду Чудового рівня</VSEWW_RandomExcellentDrop.description>
+  
+  <!--Orbital Trader Arrival-->
+  <VSEWW_OrbitalTraderArrival.label>Прибуття Орбітального Торговця</VSEWW_OrbitalTraderArrival.label>
+  <!--Send a random orbital trader-->
+  <VSEWW_OrbitalTraderArrival.description>Прибуває випадковий орбітальний торговець</VSEWW_OrbitalTraderArrival.description>
+  
+  <!--Pawns join-->
+  <VSEWW_MercenaryJoins.label>Нові поселенці</VSEWW_MercenaryJoins.label>
+  <!--A group of 5 mercenary PawnKindDef pawns join-->
+  <VSEWW_MercenaryJoins.description>Група з 5 найманців приєднується до поселення</VSEWW_MercenaryJoins.description>
+  
+  <!--Resource drop-->
+  <VSEWW_LegendaryResourceDrop.label>Скид ресурсів</VSEWW_LegendaryResourceDrop.label>
+  <!--Cargo pods drop 3000 wood, 3000 steel, 100 components, 50 advanced components, 500 plasteel-->
+  <VSEWW_LegendaryResourceDrop.description>Приземляються вантажні капсули з 3000 дерева, 3000 сталі, 100 компонентами, 50 передовими компонентами, 500 пласталі</VSEWW_LegendaryResourceDrop.description>
+  
+  <!--Survival means drop-->
+  <VSEWW_SurvivalMeansDrop.label>Скид засобів виживання</VSEWW_SurvivalMeansDrop.label>
+  <!--Cargo pods drop 250 survival meals, 50 glitterworld medicine, 5 Mechanite healer mech serums and 200 medicine-->
+  <VSEWW_SurvivalMeansDrop.description>Приземляються вантажні капсули з 250 консервами, 50 ліками блискосвіту, 5 лікувальними сироватками та 200 медикаментами</VSEWW_SurvivalMeansDrop.description>
+  
+  <!--Fuel drop-->
+  <VSEWW_LegendaryFuelDrop.label>Скид палива</VSEWW_LegendaryFuelDrop.label>
+  <!--Cargo pods drop 2000 chemfuel, 2000 wood and 800 uranium-->
+  <VSEWW_LegendaryFuelDrop.description>Приземляються вантажні капсули з 2000 хімпалива, 2000 дерева та 800 урану</VSEWW_LegendaryFuelDrop.description>
+  
+  <!--Legendary gear drop-->
+  <VSEWW_LegendaryGearDrop.label>Скид легендарного спорядження</VSEWW_LegendaryGearDrop.label>
+  <!--Cargo pods 5 random weapons and 5 random armors drop, quality is Legendary-->
+  <VSEWW_LegendaryGearDrop.description>Приземляються вантажні капсули з 5 одиницями випадкової зброї та броні, якість Легендарна</VSEWW_LegendaryGearDrop.description>
+  
+  <!--Cash and Riches-->
+  <VSEWW_CashAndRiches.label>Гроші та Багатства</VSEWW_CashAndRiches.label>
+  <!--Cargo pods drop 25000 silver, 1000 gold, 1000 Jade-->
+  <VSEWW_CashAndRiches.description>Приземляються вантажні капсули з 25000 срібла, 1000 золота, 1000 нефриту</VSEWW_CashAndRiches.description>
+  
+  <!--Thrumbo drop-->
+  <VSEWW_ThrumboDrop.label>Скид трумбо</VSEWW_ThrumboDrop.label>
+  <!--Cargo pod drops 3 tamed thrumbos-->
+  <VSEWW_ThrumboDrop.description>Приземляються вантажні капсули з 3 прирученими трумбо</VSEWW_ThrumboDrop.description>
+  
+  <!--Skill boost-->
+  <VSEWW_LegendarySkillBoost.label>Бонус до навичок</VSEWW_LegendarySkillBoost.label>
+  <!--Improve every skill of every pawn under your control by 5-->
+  <VSEWW_LegendarySkillBoost.description>Покращення кожної навички кожного вашого поселенця на 5</VSEWW_LegendarySkillBoost.description>
+  
+  <!--Archotech prosthetics drop-->
+  <VSEWW_ArchotechProstheticsDrop.label>Скид протезів архотехів</VSEWW_ArchotechProstheticsDrop.label>
+  <!--Cargo pod drops random 10 archotech body parts-->
+  <VSEWW_ArchotechProstheticsDrop.description>Приземляються вантажні капсули з 10 випадковими протезами архотехів</VSEWW_ArchotechProstheticsDrop.description>
+  
+  <!--Mass Heal-->
+  <VSEWW_MassHeal.label>Масове зцілення</VSEWW_MassHeal.label>
+  <!--Instantly heals all the wounds on all pawns under player control-->
+  <VSEWW_MassHeal.description>Миттєво виліковує всі поранення всіх поселенців під контролем гравця</VSEWW_MassHeal.description>
+  
+  <!--Pawn joins-->
+  <VSEWW_NormalPawnJoins.label>Поселенець приєднується</VSEWW_NormalPawnJoins.label>
+  <!--A single pawn worth minimum 50 and up to 125 Combat points joins the colony-->
+  <VSEWW_NormalPawnJoins.description>Поселенець, вартістю між 50 та 125 бойових очок, приєднується до поселення</VSEWW_NormalPawnJoins.description>
+  
+  <!--Resource drop-->
+  <VSEWW_NormalResourceDrop.label>Скид ресурсів</VSEWW_NormalResourceDrop.label>
+  <!--Cargo pods drop 250 wood, 250 steel, 10 components-->
+  <VSEWW_NormalResourceDrop.description>Приземляються вантажні капсули з 250 дерева, 250 сталі, 10 компонентами</VSEWW_NormalResourceDrop.description>
+  
+  <!--Component drop-->
+  <VSEWW_NormalComponentDrop.label>Скид компонентів</VSEWW_NormalComponentDrop.label>
+  <!--Cargo pods drop 20 components, 5 advanced components-->
+  <VSEWW_NormalComponentDrop.description>Приземляються вантажні капсули з 20 компонентами, 5 передовими компонентами</VSEWW_NormalComponentDrop.description>
+  
+  <!--Food and medicine drop-->
+  <VSEWW_NormalFoodAndMedicineDrop.label>Скид їжі та медикаментів</VSEWW_NormalFoodAndMedicineDrop.label>
+  <!--Cargo pods drop 30 survival meals and 30 medicine-->
+  <VSEWW_NormalFoodAndMedicineDrop.description>Приземляються вантажні капсули з 30 консервами та 30 медикаментами</VSEWW_NormalFoodAndMedicineDrop.description>
+  
+  <!--Uranium drop-->
+  <VSEWW_UraniumDrop.label>Скид урану</VSEWW_UraniumDrop.label>
+  <!--Cargo pods drop 100 uranium-->
+  <VSEWW_UraniumDrop.description>Приземляються вантажні капсули із 100 урану</VSEWW_UraniumDrop.description>
+  
+  <!--Fuel drop-->
+  <VSEWW_NormalFuelDrop.label>Скид палива</VSEWW_NormalFuelDrop.label>
+  <!--Cargo pods drop 500 chemfuel-->
+  <VSEWW_NormalFuelDrop.description>Приземляються вантажні капсули з 500 хімпалива</VSEWW_NormalFuelDrop.description>
+  
+  <!--Plasteel drop-->
+  <VSEWW_PlasteelDrop.label>Скид пласталі</VSEWW_PlasteelDrop.label>
+  <!--Cargo pods drop 100 plasteel-->
+  <VSEWW_PlasteelDrop.description>Приземляються вантажні капсули із 100 пласталі</VSEWW_PlasteelDrop.description>
+  
+  <!--Normal weapons drop-->
+  <VSEWW_NormalWeaponsDrop.label>Скид нормальної зброї</VSEWW_NormalWeaponsDrop.label>
+  <!--Cargo pods 3 random weapons, quality is normal-->
+  <VSEWW_NormalWeaponsDrop.description>Приземляються вантажні капсули з 3 одиницями зброї, якість Нормальна</VSEWW_NormalWeaponsDrop.description>
+  
+  <!--Cash-->
+  <VSEWW_NormalCashDrop.label>Гроші</VSEWW_NormalCashDrop.label>
+  <!--Cargo pods drop 3000 silver-->
+  <VSEWW_NormalCashDrop.description>Приземляються вантажні капсули із 3000 срібла</VSEWW_NormalCashDrop.description>
+  
+  <!--Caravan arrival-->
+  <VSEWW_CaravanArrival.label>Прибуття каравану</VSEWW_CaravanArrival.label>
+  <!--A random caravan arrives-->
+  <VSEWW_CaravanArrival.description>Прибуває випадковий караван</VSEWW_CaravanArrival.description>
+  
+  <!--Delay next wave-->
+  <VSEWW_DelayBy3.label>Затримка наступної хвилі</VSEWW_DelayBy3.label>
+  <!--Next wave is delayed by 3 days-->
+  <VSEWW_DelayBy3.description>Наступна хвиля затримається на 3 дня</VSEWW_DelayBy3.description>
+  
+  <!--Animal drop-->
+  <VSEWW_NormalAnimalDrop.label>Скид тварин</VSEWW_NormalAnimalDrop.label>
+  <!--Cargo pod drops 2 random, tamed animals-->
+  <VSEWW_NormalAnimalDrop.description>Приземляються вантажні капсули із 2 випадковими, прирученими тваринами</VSEWW_NormalAnimalDrop.description>
+  
+  <!--Textile drop-->
+  <VSEWW_NormalTextileDrop.label>Скид текстилю</VSEWW_NormalTextileDrop.label>
+  <!--Cargo pod drops 400 random pieces of leather or textile-->
+  <VSEWW_NormalTextileDrop.description>Приземляються вантажні капсули із 400 випадковими шматами шкіри або текстилю</VSEWW_NormalTextileDrop.description>
+  
+  <!--Miniturret drop-->
+  <VSEWW_MiniturretDrop.label>Скид мінітурелей</VSEWW_MiniturretDrop.label>
+  <!--Cargo pod drops 3 minified mini-turrets-->
+  <VSEWW_MiniturretDrop.description>Приземляються вантажні капсули із 3 спакованими мінітурелями</VSEWW_MiniturretDrop.description>
+  
+  <!--Research boost-->
+  <VSEWW_NormalReseachBoost.label>Бонус до досліджень</VSEWW_NormalReseachBoost.label>
+  <!--Instantly research 3 random research projects you meet prerequisites for-->
+  <VSEWW_NormalReseachBoost.description>Миттєво дослідження 3 випадкових проєктів, для яких ви відповідаєте необхідним умовам</VSEWW_NormalReseachBoost.description>
+  
+  <!--Prosthetics drop-->
+  <VSEWW_NormalProstheticsDrop.label>Скид протезів</VSEWW_NormalProstheticsDrop.label>
+  <!--Cargo pod drops 5 random low-level prosthetics-->
+  <VSEWW_NormalProstheticsDrop.description>Приземляються вантажні капсули з 5 випадковими низькорівневими протезами</VSEWW_NormalProstheticsDrop.description>
+  
+  <!--Random Good reward-->
+  <VSEWW_RandomGoodDrop.label>Випадкова Хороша нагорода</VSEWW_RandomGoodDrop.label>
+  <!--Instead of picking up a specific Normal-level reward, obtain a completely random Good-level reward-->
+  <VSEWW_RandomGoodDrop.description>Замість того, щоб отримати конкретну нагороду Нормального рівня, ви отримаєте абсолютно випадкову нагороду Хорошого рівня</VSEWW_RandomGoodDrop.description>
+  
+  <!--Meteorite impact-->
+  <VSEWW_MeteoriteImpact.label>Падіння метеорита</VSEWW_MeteoriteImpact.label>
+  <!--Meteorite impact-->
+  <VSEWW_MeteoriteImpact.description>Падає метеорит</VSEWW_MeteoriteImpact.description>
+  
+  <!--Psychic Soothe-->
+  <VSEWW_PsychicSoothe.label>Психічне Заспокоєння</VSEWW_PsychicSoothe.label>
+  <!--Psychic soothe-->
+  <VSEWW_PsychicSoothe.description>Психічне заспокоєння</VSEWW_PsychicSoothe.description>
+  
+  <!--Pawn joins-->
+  <VSEWW_PoorPawnJoins.label>Поселенець приєднується</VSEWW_PoorPawnJoins.label>
+  <!--A single pawn worth up to 50 Combat points joins the colony-->
+  <VSEWW_PoorPawnJoins.description>Поселенець, вартістю до 50 бойових очок, приєднується до поселення</VSEWW_PoorPawnJoins.description>
+  
+  <!--Wood drop-->
+  <VSEWW_WoodDrop.label>Скид дерева</VSEWW_WoodDrop.label>
+  <!--Cargo pods drop 250 wood-->
+  <VSEWW_WoodDrop.description>Приземляються вантажні капсули із 250 дерева</VSEWW_WoodDrop.description>
+  
+  <!--Steel drop-->
+  <VSEWW_SteelDrop.label>Скид сталі</VSEWW_SteelDrop.label>
+  <!--Cargo pods drop 250 steel-->
+  <VSEWW_SteelDrop.description>Приземляються вантажні капсули із 250 сталі</VSEWW_SteelDrop.description>
+  
+  <!--Stone drop-->
+  <VSEWW_StoneDrop.label>Скид каменю</VSEWW_StoneDrop.label>
+  <!--Cargo pods drop 250 stone blocks-->
+  <VSEWW_StoneDrop.description>Приземляються вантажні капсули із 250 кам'яних блоків</VSEWW_StoneDrop.description>
+  
+  <!--Food drop-->
+  <VSEWW_FoodDrop.label>Скид їжі</VSEWW_FoodDrop.label>
+  <!--Cargo pods drop 30 survival meals-->
+  <VSEWW_FoodDrop.description>Приземляються вантажні капсули із 30 консервами</VSEWW_FoodDrop.description>
+  
+  <!--Medicine drop-->
+  <VSEWW_MedicineDrop.label>Скид медикаментів</VSEWW_MedicineDrop.label>
+  <!--Cargo pods drop 30 medicine-->
+  <VSEWW_MedicineDrop.description>Приземляються вантажні капсули із 30 медикаментами</VSEWW_MedicineDrop.description>
+  
+  <!--Fuel drop-->
+  <VSEWW_PoorFuelDrop.label>Скид палива</VSEWW_PoorFuelDrop.label>
+  <!--Cargo pods drop 200 chemfuel-->
+  <VSEWW_PoorFuelDrop.description>Приземляються вантажні капсули з 200 хімпалива</VSEWW_PoorFuelDrop.description>
+  
+  <!--Poor weapons drop-->
+  <VSEWW_PoorWeaponsDrop.label>Скид поганої зброї</VSEWW_PoorWeaponsDrop.label>
+  <!--Cargo pods 3 random weapons, maximum quality is poor-->
+  <VSEWW_PoorWeaponsDrop.description>Приземляються вантажні капсули з 3 одиницями зброї, якість Погана</VSEWW_PoorWeaponsDrop.description>
+  
+  <!--Cash-->
+  <VSEWW_PoorCashDrop.label>Гроші</VSEWW_PoorCashDrop.label>
+  <!--Cargo pods drop 1000 silver-->
+  <VSEWW_PoorCashDrop.description>Приземляються вантажні капсули із 1000 срібла</VSEWW_PoorCashDrop.description>
+  
+  <!--Leather drop-->
+  <VSEWW_LeatherDrop.label>Скид шкіри</VSEWW_LeatherDrop.label>
+  <!--Cargo pod drops 300 random pieces of leather-->
+  <VSEWW_LeatherDrop.description>Приземляються вантажні капсули із 300 шматами випадкової шкіри</VSEWW_LeatherDrop.description>
+  
+  <!--Random normal reward-->
+  <VSEWW_RandomNormalDrop.label>Випадкова Нормальна нагорода</VSEWW_RandomNormalDrop.label>
+  <!--Instead of picking up a specific Poor-level reward, obtain a completely random Normal-level reward-->
+  <VSEWW_RandomNormalDrop.description>Замість того, щоб отримати конкретну нагороду Поганого рівня, ви отримаєте абсолютно випадкову нагороду Нормального рівня</VSEWW_RandomNormalDrop.description>
+</LanguageData>

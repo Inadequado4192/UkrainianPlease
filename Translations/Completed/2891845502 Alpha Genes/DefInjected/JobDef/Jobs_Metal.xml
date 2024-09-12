@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: consuming TargetA. -->
+  <AG_ConsumeMetal.reportString>споживає TargetA.</AG_ConsumeMetal.reportString>
+  
+  <!-- EN: Delivering to TargetC. -->
+  <AG_DeliverMetal.reportString>доставляє до TargetC.</AG_DeliverMetal.reportString>
+  
+  <!-- EN: feeding TargetB. -->
+  <AG_FeedMetal.reportString>годує TargetB.</AG_FeedMetal.reportString>
+  
+</LanguageData>

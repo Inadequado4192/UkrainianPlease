@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFE_IndustrialGenerators.label>промислові генератори</VFE_IndustrialGenerators.label>
+  <VFE_IndustrialGenerators.description>Будуйте генератори промислового класу, здатні зберігати значно більше палива та виробляти більше енергії.</VFE_IndustrialGenerators.description>
+  
+  <VFE_AdvancedBatteries.label>просунуті акумулятори</VFE_AdvancedBatteries.label>
+  <VFE_AdvancedBatteries.description>Будуйте просунуті акумулятори, здатні ефективно зберігати великі обсяги енергії.</VFE_AdvancedBatteries.description>
+  
+  <VFE_AdvancedPowerSources.label>просунуті джерела живлення</VFE_AdvancedPowerSources.label>
+  <VFE_AdvancedPowerSources.description>Будуйте просунуті «зелені» генератори електроенергій, включаючи просунуті сонячні панелі та вітрові турбіни.</VFE_AdvancedPowerSources.description>
+  
+  <VFE_NuclearPower.label>ядерна енергетика</VFE_NuclearPower.label>
+  <VFE_NuclearPower.description>Абсолютний метод виробництва електроенергії – ядерна енергетика. Настільки ж ефективна, наскільки і смертоносна.</VFE_NuclearPower.description>
+  
+  <VFE_TidalPower.label>припливна енергетика</VFE_TidalPower.label>
+  <VFE_TidalPower.description>Будуйте припливні генератори на воді, щоб виробляти велику кількість сталої «зеленої» енергії.</VFE_TidalPower.description>
+</LanguageData>

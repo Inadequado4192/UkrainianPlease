@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: human egg (fert.) -->
+  <AG_HumanEgg.label>людська яйця (запліднені)</AG_HumanEgg.label>
+  <!-- EN: Fertilized human egg. If all goes well, it should hatch into a human. Must be kept between 0 and 50 ºC. -->
+  <AG_HumanEgg.description>Запліднена людська яйця. Якщо все буде добре, з неї має вилупитися людина. Зберігати при температурі від 0 до 50 ºC.</AG_HumanEgg.description>
+  
+</LanguageData>

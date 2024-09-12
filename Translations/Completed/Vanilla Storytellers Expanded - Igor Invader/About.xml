@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Storytellers Expanded - Igor Invader</name>
+        <id>2249879548</id>
+        <packageId>vse.igorinvader</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3180528644</sourceTranslationId>
+    <lastUpdate>2024-03-12T14:50:31.000Z</lastUpdate>
+</TranslationDetails>

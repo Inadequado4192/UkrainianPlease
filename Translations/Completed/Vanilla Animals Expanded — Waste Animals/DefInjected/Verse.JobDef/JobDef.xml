@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--destroying TargetA.-->
+  <VAEWaste_AttackTree.reportString>ламає TargetA.</VAEWaste_AttackTree.reportString>
+  
+  <!--scratching own brain out.-->
+  <VAEWaste_AttackSelf.reportString>вишкрібає собі мозок.</VAEWaste_AttackSelf.reportString>
+  
+  <!--eating TargetA.-->
+  <VAEWaste_EatWastepack.reportString>їсть TargetA.</VAEWaste_EatWastepack.reportString>
+</LanguageData>

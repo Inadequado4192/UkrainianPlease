@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_StoneBedroll.label>ліжко з кам'яним обрамленням</AM_StoneBedroll.label>
+  <AM_StoneBedroll.description>Затишний матрац і простирадла на каркасі для відпочинку.</AM_StoneBedroll.description>
+  <AM_StoneBedroll_Blueprint.label>ліжко з кам'яним обрамленням (креслення)</AM_StoneBedroll_Blueprint.label>
+  <AM_StoneBedroll_Blueprint_Install.label>sліжко з кам'яним обрамленням (креслення)</AM_StoneBedroll_Blueprint_Install.label>
+  <AM_StoneBedroll_Frame.label>ліжко з кам'яним обрамленням (будується)</AM_StoneBedroll_Frame.label>
+  <AM_StoneBedroll_Frame.description>A cozy mattress and sheets on a frame for resting.</AM_StoneBedroll_Frame.description>
+
+  <AM_AncientBed.label>відновлене стародавнє ліжко</AM_AncientBed.label>
+  <AM_AncientBed.description>Старий, прогнилий матрац на іржавому каркасі. Відреставрований, придатний для використання, хоча й трохи незручний.</AM_AncientBed.description>
+  <AM_AncientBed_Blueprint.label>відновлене стародавнє ліжко (креслення)</AM_AncientBed_Blueprint.label>
+  <AM_AncientBed_Blueprint_Install.label>відновлене стародавнє ліжко (креслення)</AM_AncientBed_Blueprint_Install.label>
+  <AM_AncientBed_Frame.label>відновлене стародавнє ліжко (будується)</AM_AncientBed_Frame.label>
+  <AM_AncientBed_Frame.description>Старий, прогнилий матрац на іржавому каркасі. Відреставрований, придатний для використання, хоча й трохи незручний.</AM_AncientBed_Frame.description>
+
+  <AM_AncientDoubleBed.label>відновлене стародавнє подвійне ліжко</AM_AncientDoubleBed.label>
+  <AM_AncientDoubleBed.description>Старий, прогнилий матрац на іржавому каркасі. Відреставрований, придатний для використання, хоча трохи незручний. Підходить для двох людей.</AM_AncientDoubleBed.description>
+  <AM_AncientDoubleBed_Blueprint.label>відновлене стародавнє подвійне ліжко(креслення)</AM_AncientDoubleBed_Blueprint.label>
+  <AM_AncientDoubleBed_Blueprint_Install.label>відновлене стародавнє подвійне ліжко (креслення)</AM_AncientDoubleBed_Blueprint_Install.label>
+  <AM_AncientDoubleBed_Frame.label>відновлене стародавнє подвійне ліжко(будується)</AM_AncientDoubleBed_Frame.label>
+  <AM_AncientDoubleBed_Frame.description>Старий, прогнилий матрац на іржавому каркасі. Відреставрований, придатний для використання, хоча трохи незручний. Підходить для двох людей.</AM_AncientDoubleBed_Frame.description>
+
+  <AM_AncientOperatingTable.label>відновлений стародавній операціонний стіл</AM_AncientOperatingTable.label>
+  <AM_AncientOperatingTable.description>Старовинне ліжко, яке колись використовували для забутих хірургічних операцій. Підлаштоване під пацієнта і прикрашене вбудованим обладнанням, воно покращує результати лікування порівняно зі звичайними ліжками. Незручне, але ефективне.</AM_AncientOperatingTable.description>
+  <AM_AncientOperatingTable_Blueprint.label>відновлений стародавній операціонний стіл (креслення)</AM_AncientOperatingTable_Blueprint.label>
+  <AM_AncientOperatingTable_Blueprint_Install.label>відновлений стародавній операціонний стіл (креслення)</AM_AncientOperatingTable_Blueprint_Install.label>
+  <AM_AncientOperatingTable_Frame.label>відновлений стародавній операціонний стіл (будується)</AM_AncientOperatingTable_Frame.label>
+  <AM_AncientOperatingTable_Frame.description>Старовинне ліжко, яке колись використовували для забутих хірургічних операцій. Підлаштоване під пацієнта і прикрашене вбудованим обладнанням, воно покращує результати лікування порівняно зі звичайними ліжками. Незручне, але ефективне.</AM_AncientOperatingTable_Frame.description>
+
+  <AM_AncientRazorwire.label>стародавній колючий дріт</AM_AncientRazorwire.label>
+  <AM_AncientRazorwire.description>Шматок старовинного колючого дрота. Відреставрований, щоб його можна було використовувати. Менш ефективне укриття, ніж барикади, але простіше і дешевше у будівництві.</AM_AncientRazorwire.description>
+  <AM_AncientRazorwire_Blueprint.label>стародавній колючий дріт (креслення)</AM_AncientRazorwire_Blueprint.label>
+  <AM_AncientRazorwire_Frame.label>стародавній колючий дріт (будується)</AM_AncientRazorwire_Frame.label>
+  <AM_AncientRazorwire_Frame.description>Шматок старовинного колючого дрота. Відреставрований, щоб його можна було використовувати. Менш ефективне укриття, ніж барикади, але простіше і дешевше у будівництві.</AM_AncientRazorwire_Frame.description>
+
+  <AM_AncientFence.label>відновлена стародавня огорожа</AM_AncientFence.label>
+  <AM_AncientFence.description>Старовинна огорожа із залізобетонних стовпів, з'єднаних бетонними панелями.</AM_AncientFence.description>
+  <AM_AncientFence_Blueprint.label>відновлена стародавня огорожа (креслення)</AM_AncientFence_Blueprint.label>
+  <AM_AncientFence_Frame.label>відновлена стародавня огорожа (будується)</AM_AncientFence_Frame.label>
+  <AM_AncientFence_Frame.description>Старовинна огорожа із залізобетонних стовпів, з'єднаних бетонними панелями.</AM_AncientFence_Frame.description>
+
+  <AM_AncientLockerBank.label>стародавні шафки</AM_AncientLockerBank.label>
+  <AM_AncientLockerBank.description>Старовинні іржаві шафки. Вони були відреставровані, щоб бути принаймні частково функціональними. Дає невеликий бонус до комфорту всім відновленим стародавнім ліжкам, що знаходяться поруч. Розміщення більш ніж однієї шафки біля одного старовинного ліжка не має ефекту.</AM_AncientLockerBank.description>
+  <AM_AncientLockerBank_Blueprint.label>стародавні шафки (креслення)</AM_AncientLockerBank_Blueprint.label>
+  <AM_AncientLockerBank_Blueprint_Install.label>стародавні шафки (креслення)</AM_AncientLockerBank_Blueprint_Install.label>
+  <AM_AncientLockerBank_Frame.label>стародавні шафки (будується)</AM_AncientLockerBank_Frame.label>
+  <AM_AncientLockerBank_Frame.description>Старовинні іржаві шафки. Вони були відреставровані, щоб бути принаймні частково функціональними. Дає невеликий бонус до комфорту всім відновленим стародавнім ліжкам, що знаходяться поруч. Розміщення більш ніж однієї шафки біля одного старовинного ліжка не має ефекту.</AM_AncientLockerBank_Frame.description>
+
+  <AM_Neolithic_StoneTable_1x2c.label>стіл з необробленого каменю (1x2)</AM_Neolithic_StoneTable_1x2c.label>
+  <AM_Neolithic_StoneTable_1x2c.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_StoneTable_1x2c.description>
+  <AM_Neolithic_StoneTable_1x2c_Blueprint.label>стіл з необробленого каменю (1x2) (креслення)</AM_Neolithic_StoneTable_1x2c_Blueprint.label>
+  <AM_Neolithic_StoneTable_1x2c_Blueprint_Install.label>стіл з необробленого каменю (1x2) (креслення)</AM_Neolithic_StoneTable_1x2c_Blueprint_Install.label>
+  <AM_Neolithic_StoneTable_1x2c_Frame.label>стіл з необробленого каменю (1x2) (будується)</AM_Neolithic_StoneTable_1x2c_Frame.label>
+  <AM_Neolithic_StoneTable_1x2c_Frame.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_StoneTable_1x2c_Frame.description>
+
+  <AM_Neolithic_StoneTable_2x2c.label>стіл з необробленого каменю (2x2)</AM_Neolithic_StoneTable_2x2c.label>
+  <AM_Neolithic_StoneTable_2x2c.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_StoneTable_2x2c.description>
+  <AM_Neolithic_StoneTable_2x2c_Blueprint.label>стіл з необробленого каменю (2x2) (креслення)</AM_Neolithic_StoneTable_2x2c_Blueprint.label>
+  <AM_Neolithic_StoneTable_2x2c_Blueprint_Install.label>стіл з необробленого каменю (2x2) (креслення)</AM_Neolithic_StoneTable_2x2c_Blueprint_Install.label>
+  <AM_Neolithic_StoneTable_2x2c_Frame.label>стіл з необробленого каменю (2x2) (будується)</AM_Neolithic_StoneTable_2x2c_Frame.label>
+  <AM_Neolithic_StoneTable_2x2c_Frame.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_StoneTable_2x2c_Frame.description>
+
+  <AM_Neolithic_StoneTable_2x4c.label>стіл з необробленого каменю (2x4)</AM_Neolithic_StoneTable_2x4c.label>
+  <AM_Neolithic_StoneTable_2x4c.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_StoneTable_2x4c.description>
+  <AM_Neolithic_StoneTable_2x4c_Blueprint.label>стіл з необробленого каменю (2x4) (креслення)</AM_Neolithic_StoneTable_2x4c_Blueprint.label>
+  <AM_Neolithic_StoneTable_2x4c_Blueprint_Install.label>стіл з необробленого каменю (2x4) (креслення)</AM_Neolithic_StoneTable_2x4c_Blueprint_Install.label>
+  <AM_Neolithic_StoneTable_2x4c_Frame.label>стіл з необробленого каменю (2x4) (будується)</AM_Neolithic_StoneTable_2x4c_Frame.label>
+  <AM_Neolithic_StoneTable_2x4c_Frame.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_StoneTable_2x4c_Frame.description>
+
+  <AM_Neolithic_StoneTable_3x3c.label>стіл з необробленого каменю (3x3)</AM_Neolithic_StoneTable_3x3c.label>
+  <AM_Neolithic_StoneTable_3x3c.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_StoneTable_3x3c.description>
+  <AM_Neolithic_StoneTable_3x3c_Blueprint.label>стіл з необробленого каменю (3x3) (креслення)</AM_Neolithic_StoneTable_3x3c_Blueprint.label>
+  <AM_Neolithic_StoneTable_3x3c_Blueprint_Install.label>стіл з необробленого каменю (3x3) (креслення)</AM_Neolithic_StoneTable_3x3c_Blueprint_Install.label>
+  <AM_Neolithic_StoneTable_3x3c_Frame.label>стіл з необробленого каменю (3x3) (будується)</AM_Neolithic_StoneTable_3x3c_Frame.label>
+  <AM_Neolithic_StoneTable_3x3c_Frame.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_StoneTable_3x3c_Frame.description>
+
+  <AM_Neolithic_WoodenTable_1x2c.label>стіл з необробленної деревини (1x2)</AM_Neolithic_WoodenTable_1x2c.label>
+  <AM_Neolithic_WoodenTable_1x2c.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_WoodenTable_1x2c.description>
+  <AM_Neolithic_WoodenTable_1x2c_Blueprint.label>стіл з необробленної деревини (1x2) (креслення)</AM_Neolithic_WoodenTable_1x2c_Blueprint.label>
+  <AM_Neolithic_WoodenTable_1x2c_Blueprint_Install.label>стіл з необробленної деревини (1x2) (креслення)</AM_Neolithic_WoodenTable_1x2c_Blueprint_Install.label>
+  <AM_Neolithic_WoodenTable_1x2c_Frame.label>стіл з необробленної деревини (1x2) (будується)</AM_Neolithic_WoodenTable_1x2c_Frame.label>
+  <AM_Neolithic_WoodenTable_1x2c_Frame.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_WoodenTable_1x2c_Frame.description>
+
+  <AM_Neolithic_WoodenTable_2x2c.label>стіл з необробленної деревини (2x2)</AM_Neolithic_WoodenTable_2x2c.label>
+  <AM_Neolithic_WoodenTable_2x2c.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_WoodenTable_2x2c.description>
+  <AM_Neolithic_WoodenTable_2x2c_Blueprint.label>стіл з необробленної деревини (2x2) (креслення)</AM_Neolithic_WoodenTable_2x2c_Blueprint.label>
+  <AM_Neolithic_WoodenTable_2x2c_Blueprint_Install.label>стіл з необробленної деревини (2x2) (креслення)</AM_Neolithic_WoodenTable_2x2c_Blueprint_Install.label>
+  <AM_Neolithic_WoodenTable_2x2c_Frame.label>стіл з необробленної деревини (2x2) (будується)</AM_Neolithic_WoodenTable_2x2c_Frame.label>
+  <AM_Neolithic_WoodenTable_2x2c_Frame.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_WoodenTable_2x2c_Frame.description>
+
+  <AM_Neolithic_WoodenTable_2x4c.label>стіл з необробленної деревини (2x4)</AM_Neolithic_WoodenTable_2x4c.label>
+  <AM_Neolithic_WoodenTable_2x4c.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_WoodenTable_2x4c.description>
+  <AM_Neolithic_WoodenTable_2x4c_Blueprint.label>стіл з необробленної деревини (2x4) (креслення)</AM_Neolithic_WoodenTable_2x4c_Blueprint.label>
+  <AM_Neolithic_WoodenTable_2x4c_Blueprint_Install.label>стіл з необробленної деревини (2x4) (креслення)</AM_Neolithic_WoodenTable_2x4c_Blueprint_Install.label>
+  <AM_Neolithic_WoodenTable_2x4c_Frame.label>стіл з необробленної деревини (2x4) (будується)</AM_Neolithic_WoodenTable_2x4c_Frame.label>
+  <AM_Neolithic_WoodenTable_2x4c_Frame.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_WoodenTable_2x4c_Frame.description>
+
+  <AM_Neolithic_WoodenTable_3x3c.label>стіл з необробленної деревини (3x3)</AM_Neolithic_WoodenTable_3x3c.label>
+  <AM_Neolithic_WoodenTable_3x3c.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_WoodenTable_3x3c.description>
+  <AM_Neolithic_WoodenTable_3x3c_Blueprint.label>стіл з необробленної деревини (3x3) (креслення)</AM_Neolithic_WoodenTable_3x3c_Blueprint.label>
+  <AM_Neolithic_WoodenTable_3x3c_Blueprint_Install.label>стіл з необробленної деревини (3x3) (креслення)</AM_Neolithic_WoodenTable_3x3c_Blueprint_Install.label>
+  <AM_Neolithic_WoodenTable_3x3c_Frame.label>стіл з необробленної деревини (3x3) (будується)</AM_Neolithic_WoodenTable_3x3c_Frame.label>
+  <AM_Neolithic_WoodenTable_3x3c_Frame.description>Люди їдять зі столів, коли стільці стоять до них обличчям.</AM_Neolithic_WoodenTable_3x3c_Frame.description>
+
+
+</LanguageData>

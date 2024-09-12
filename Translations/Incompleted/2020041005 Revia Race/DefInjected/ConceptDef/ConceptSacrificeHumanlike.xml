@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bloodstones and Offerings -->
+  <ReviaBloodstoneSacrifice.label>Криваві камені та жертвоприношення</ReviaBloodstoneSacrifice.label>
+  <!-- EN: Bloodstones are tokens of favour from the Revian blood god. \nWhenever a Revia sacrifices a humanlike corpse in the name of the blood god at a sacrificial spot, a Bloodstone is produced. \nRight-click a Bloodstone to make an offering, and perhaps the blood god will grant a blessing... -->
+  <ReviaBloodstoneSacrifice.helpText>Криваві камені - це знаки прихильності ревійського бога крові.\nКожного разу, коли ревія приносить в жертву людський труп в ім'я бога крові на жертовному місці, з'являється кривавий камінь.\nКлацніть правою кнопкою миші на Камені крові, щоб зробити жертвоприношення, і, можливо, бог крові дасть благословення...</ReviaBloodstoneSacrifice.helpText>
+  
+</LanguageData>

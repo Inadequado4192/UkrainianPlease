@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Behavior -->
+
+  <AM_BlastOffBehavior.spectatorFilter.description>Глядачі повинні бути живими.</AM_BlastOffBehavior.spectatorFilter.description>
+  <AM_BlastOffBehavior.roles.0.label>промовець</AM_BlastOffBehavior.roles.0.label>
+  <AM_BlastOffBehavior.roles.1.label>Тіло</AM_BlastOffBehavior.roles.1.label>
+  <AM_BlastOffBehavior.stages.1.postAction.text>{0}: Промова закінчена, шатл рушає з місця!</AM_BlastOffBehavior.stages.1.postAction.text>
+
+
+</LanguageData>

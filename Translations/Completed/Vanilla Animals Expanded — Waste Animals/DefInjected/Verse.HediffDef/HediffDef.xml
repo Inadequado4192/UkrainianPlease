@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--toxflu-->
+  <VAEWaste_Toxflu.label>токсагрип</VAEWaste_Toxflu.label>
+  <!--Toxflu is a highly contagious and rapidly striking disease, characterized by fever, cough, fatigue, and difficulty breathing. It spreads quickly through contact with infected bodily fluids. Those who contract Toxflu can experience severe respiratory distress and, in severe cases, death. It goes away nearly as quickly as it appears, however anyone who interacted socially with a person suffering from toxflu has a chance of catching it.-->
+  <VAEWaste_Toxflu.description>Токсагрип – це дуже заразна і швидко прогресуюча хвороба, яка характеризується лихоманкою, кашлем, втомою та затрудненим диханням. Він швидко поширюється через контакт із інфікованими біологічними рідинами. У тих, хто заразився токсагрипом, можуть виникнути важкі респіраторні розлади, а у важких випадках – смерть. Хвороба зникає майже так само швидко, як і з'являється, проте кожен, хто соціально взаємодіяв з людиною, яка страждає на токсагрип, має шанс підхопити його.</VAEWaste_Toxflu.description>
+  <!--recovering-->
+  <VAEWaste_Toxflu.stages.recovering.label>відновлення</VAEWaste_Toxflu.stages.recovering.label>
+  <!--major-->
+  <VAEWaste_Toxflu.stages.major.label>сильний</VAEWaste_Toxflu.stages.major.label>
+  <!--initial-->
+  <VAEWaste_Toxflu.stages.initial.label>незначний</VAEWaste_Toxflu.stages.initial.label>
+  
+  <!--long toxflu-->
+  <VAEWaste_LongToxflu.label>довготривалий токсагрип</VAEWaste_LongToxflu.label>
+  <!--A long-term scar tissue damage to the airways in the lungs. It doesn’t require tending.-->
+  <VAEWaste_LongToxflu.description>Довготривале рубцеве пошкодження дихальних шляхів у легенях. Не потребує догляду.</VAEWaste_LongToxflu.description>
+  
+  <!--underwater-->
+  <VAEWaste_PestigatorUnderwater.label>під водою</VAEWaste_PestigatorUnderwater.label>
+  <!--This Pestigator is partially submerged, making it swifter and more defended.-->
+  <VAEWaste_PestigatorUnderwater.description>Цей пестигатор частково занурений під воду, що робить його швидшим і більш захищеним.</VAEWaste_PestigatorUnderwater.description>
+</LanguageData>

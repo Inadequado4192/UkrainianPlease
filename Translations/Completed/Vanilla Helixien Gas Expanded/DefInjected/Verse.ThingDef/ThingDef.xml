@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VHGE_Helixien.label>геліксин</VHGE_Helixien.label>
+  <VHGE_Helixien.description>Геліксиновий газ.</VHGE_Helixien.description>
+  <VHGE_GasSunLamp.label>газова сонячна лампа</VHGE_GasSunLamp.label>
+  <VHGE_GasSunLamp.description>Промислова лампа, яка освітлює територію достатньо яскраво для вирощування сільськогосподарських культур, але споживає середню кількість геліксину. Автоматично вимикається вночі.</VHGE_GasSunLamp.description>
+  <VHGE_GasSunLamp.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasSunLamp.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasSunLamp.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasSunLamp.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasSunLamp.comps.CompSchedule.offMessage>Вимкнена під час сну рослин</VHGE_GasSunLamp.comps.CompSchedule.offMessage>
+  <VHGE_GasLamp.label>газова лампа</VHGE_GasLamp.label>
+  <VHGE_GasLamp.description>Газова стояча лампа, яка освітлює територію. Людям потрібне світло, щоб рухатися і працювати на повну силу. Потребує підключення до газової мережі геліксину. Можна безпечно розміщувати на вулиці.</VHGE_GasLamp.description>
+  <VHGE_GasLamp.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasLamp.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasLamp.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasLamp.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasWallLamp.label>газова настінна лампа</VHGE_GasWallLamp.label>
+  <VHGE_GasWallLamp.description>Настінний світильник, що працює на газу і освітлює простір. Людям потрібне світло, щоб рухатися і працювати на повну силу. Потрібно підключити до газової мережі геліксину. Можна безпечно розміщувати на вулиці.</VHGE_GasWallLamp.description>
+  <VHGE_GasWallLamp.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasWallLamp.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasWallLamp.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasWallLamp.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasFloodlight.label>газовий прожектор</VHGE_GasFloodlight.label>
+  <VHGE_GasFloodlight.description>Високий газовий прожектор, який освітлює величезну площу. Людям потрібне світло, щоб рухатися і працювати на повну силу. Він світить недостатньо яскраво, щоб вирощувати сільськогосподарські культури. Потребує підключення до газової мережі геліксину. Можна безпечно розміщувати на відкритому повітрі.</VHGE_GasFloodlight.description>
+  <VHGE_GasFloodlight.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasFloodlight.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasFloodlight.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasFloodlight.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasOperatedPodLauncher.label>газовий запускач капсул</VHGE_GasOperatedPodLauncher.label>
+  <VHGE_GasOperatedPodLauncher.description>Газовий порт для запуску однієї транспортної капсули. Пускові установки можуть запускатися групою, але вони повинні бути розташовані поруч одна з однією. Вимагає підключення до газової мережі геліксину.</VHGE_GasOperatedPodLauncher.description>
+  <VHGE_GasGeyser.label>газовий гейзер</VHGE_GasGeyser.label>
+  <VHGE_GasGeyser.description>Природне джерело газу високого тиску. Насоси геліксину можна побудувати зверху для вилучення газу.</VHGE_GasGeyser.description>
+  <VHGE_HelixienGenerator.label>газовий генератор</VHGE_HelixienGenerator.label>
+  <VHGE_HelixienGenerator.description>Виробляє енергію, споживаючи геліксин. Має бути підключений до мережі газопроводу.</VHGE_HelixienGenerator.description>
+  <VHGE_HelixienGenerator.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_HelixienGenerator.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_HelixienGenerator.comps.CompResourceTrader.nameLowered>геліксин</VHGE_HelixienGenerator.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasPoweredCrematorium.label>Газовий крематорій</VHGE_GasPoweredCrematorium.label>
+  <VHGE_GasPoweredCrematorium.description>Величезний кам'яний крематорій, який випаровує трупи надзвичайно високими температурами. Працює на геліксині.</VHGE_GasPoweredCrematorium.description>
+  <VHGE_GasPoweredCrematorium.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasPoweredCrematorium.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasPoweredCrematorium.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasPoweredCrematorium.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasPoweredSmelter.label>Газова плавильня</VHGE_GasPoweredSmelter.label>
+  <VHGE_GasPoweredSmelter.description>Видобуває метал із шматків шлаку і інших сплавів металу. Працює на геліксині.</VHGE_GasPoweredSmelter.description>
+  <VHGE_GasPoweredSmelter.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasPoweredSmelter.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasPoweredSmelter.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasPoweredSmelter.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasPoweredStove.label>Газова плита</VHGE_GasPoweredStove.label>
+  <VHGE_GasPoweredStove.description>Газова плита з прикріпленою стільницею для приготування їжі.</VHGE_GasPoweredStove.description>
+  <VHGE_GasPoweredStove.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasPoweredStove.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasPoweredStove.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasPoweredStove.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasPoweredSmithy.label>Газова кузня</VHGE_GasPoweredSmithy.label>
+  <VHGE_GasPoweredSmithy.description>Газова кузня для створення не-механічної зброї та інструментів.</VHGE_GasPoweredSmithy.description>
+  <VHGE_GasPoweredSmithy.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasPoweredSmithy.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasPoweredSmithy.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasPoweredSmithy.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasPoweredRefinery.label>Газовий біопаливний завод</VHGE_GasPoweredRefinery.label>
+  <VHGE_GasPoweredRefinery.description>Переробка біологічних речовин, такі як дерево або рослинні матерії в хімпаливо. Працює на геліксині.</VHGE_GasPoweredRefinery.description>
+  <VHGE_GasPoweredRefinery.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasPoweredRefinery.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasPoweredRefinery.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasPoweredRefinery.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasCooler.label>газовий охолоджувач</VHGE_GasCooler.label>
+  <VHGE_GasCooler.description>Машина для охолодження повітря навколо себе. Може використовуватися для створення морозильної камери. Не регулюється і автоматично знижує температуру трохи нижче нуля.</VHGE_GasCooler.description>
+  <VHGE_GasCooler.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasCooler.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasCooler.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasCooler.comps.CompResourceTrader.nameLowered>
+  <VHGE_GasHeater.label>газова батарея</VHGE_GasHeater.label>
+  <VHGE_GasHeater.description>Пристрій, що перетворює геліксин на випромінюване тепло. Він може автоматично вмикатися або вимикатися при досягненні певної цільової температури.</VHGE_GasHeater.description>
+  <VHGE_GasHeater.comps.CompResourceTrader.nameCapitalized>Геліксин</VHGE_GasHeater.comps.CompResourceTrader.nameCapitalized>
+  <VHGE_GasHeater.comps.CompResourceTrader.nameLowered>геліксин</VHGE_GasHeater.comps.CompResourceTrader.nameLowered>
+  <VHGE_HelixienPipe.label>газова труба</VHGE_HelixienPipe.label>
+  <VHGE_HelixienPipe.description>Труба, яка передає газ.</VHGE_HelixienPipe.description>
+  <VHGE_SubterraneanHelixienPipe.label>підземна газова труба</VHGE_SubterraneanHelixienPipe.label>
+  <VHGE_SubterraneanHelixienPipe.description>Труба, яка передає газ. Ця труба прихована від очей і захищена від газових вибухів. Набагато дорожче побудувати, ніж звичайні труби.</VHGE_SubterraneanHelixienPipe.description>
+  <VHGE_HelixienPump.label>Газовий насос</VHGE_HelixienPump.label>
+  <VHGE_HelixienPump.description>Машина для видобутку газу, встановлена на родовищі геліксину. Ця машина відкачує цінний газ і повинна бути підключена до газової мережі за допомогою трубопроводу.</VHGE_HelixienPump.description>
+  <VHGE_GasTank.label>газовий бак</VHGE_GasTank.label>
+  <VHGE_GasTank.description>Великий сталевий резервуар для зберігання газу. Вибухне, якщо пошкодиться.</VHGE_GasTank.description>
+  <VHGE_GasPipeValve.label>газовий клапан</VHGE_GasPipeValve.label>
+  <VHGE_GasPipeValve.description>Вмикає/вимикає подачу газу.</VHGE_GasPipeValve.description>
+</LanguageData>

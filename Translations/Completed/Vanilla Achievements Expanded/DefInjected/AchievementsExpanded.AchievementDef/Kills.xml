@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <firstBlood.label>Перша Кров</firstBlood.label>
+  <firstBlood.description>Вбити людиноподібну істоту</firstBlood.description>
+  
+  <bloodlust.label>Жага Крові</bloodlust.label>
+  <bloodlust.description>Вбити загалом 100 людиноподібних істот</bloodlust.description>
+  
+  <bloodForTheBloodGod.label>Більше Крові Богу Крові</bloodForTheBloodGod.label>
+  <bloodForTheBloodGod.description>Вбити загалом 1000 людиноподібних істот</bloodForTheBloodGod.description>
+  
+  <bigGameHunter.label>Великий Мисливець</bigGameHunter.label>
+  <bigGameHunter.description>Вполювати і вбити 20 Трумбо</bigGameHunter.description>
+  
+  <exterminator.label>Дезінсектор</exterminator.label>
+  <exterminator.description>Вбити 150 Інсектоїдів</exterminator.description>
+  
+  <dragonSlayer.label>Довакін</dragonSlayer.label>
+  <dragonSlayer.description>Вбити 50 Ігуан</dragonSlayer.description>
+  
+  <australianRevenge.label>Австралійська Помста</australianRevenge.label>
+  <australianRevenge.description>Вбити 30 Ему</australianRevenge.description>
+</LanguageData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VEF_RangedCooldownFactor.label>множник швидкості перезарядки</VEF_RangedCooldownFactor.label>
+  <VEF_RangedCooldownFactor.description>Перезарядка дальнобійної зброї власника множиться на це значення.</VEF_RangedCooldownFactor.description>
+  
+  <VEF_VerbRangeFactor.label>множник дальності зброї</VEF_VerbRangeFactor.label>
+  <VEF_VerbRangeFactor.description>Дальність дії зброї множиться на це значення.</VEF_VerbRangeFactor.description>
+  <VEF_VerbRangeFactor.labelForFullStatList>множник дальності зброї (люди)</VEF_VerbRangeFactor.labelForFullStatList>
+  
+  <VEF_VerbCooldownFactor.label>множник швидкості перезарядки</VEF_VerbCooldownFactor.label>
+  <VEF_VerbCooldownFactor.description>Час перезарядки зброї користувача множиться на це значення.</VEF_VerbCooldownFactor.description>
+  <VEF_VerbCooldownFactor.labelForFullStatList>множник швидкості перезарядки (люди)</VEF_VerbCooldownFactor.labelForFullStatList>
+  
+  <VEF_EnergyShieldEnergyMaxOffset.label>змінення максимальної енергії щиту</VEF_EnergyShieldEnergyMaxOffset.label>
+  <VEF_EnergyShieldEnergyMaxOffset.description>Зміна максимальної енергії щита, яку користувач може збільшити різними способами.</VEF_EnergyShieldEnergyMaxOffset.description>
+  
+  <VEF_EnergyShieldEnergyMaxFactor.label>коефіцієнт макс. енергії щиту</VEF_EnergyShieldEnergyMaxFactor.label>
+  <VEF_EnergyShieldEnergyMaxFactor.description>Коефіцієнт максимальної енергії щита, яку користувач може збільшити різними способами.</VEF_EnergyShieldEnergyMaxFactor.description>
+  
+  <VEF_EnergyShieldEnergyMaxApparel.label>макс. енергія щиту</VEF_EnergyShieldEnergyMaxApparel.label>
+  <VEF_EnergyShieldEnergyMaxApparel.description>Максимальна енергія, яку може мати генератор щита. Чим більше енергії, ти більше щит поглинає шкоди.</VEF_EnergyShieldEnergyMaxApparel.description>
+  
+  <VEF_EnergyShieldRechargeRateApparel.label>швидкість перезарядки щиту</VEF_EnergyShieldRechargeRateApparel.label>
+  <VEF_EnergyShieldRechargeRateApparel.description>Швидкість, з якою щит отримує енергію, поки він не зламаний.</VEF_EnergyShieldRechargeRateApparel.description>
+  <VEF_EnergyShieldRechargeRateApparel.formatString>{0}/сек</VEF_EnergyShieldRechargeRateApparel.formatString>
+  
+  <VEF_EnergyShieldRadiusApparel.label>радіус дії щиту</VEF_EnergyShieldRadiusApparel.label>
+  <VEF_EnergyShieldRadiusApparel.description>Площа, яку покриває щит, коли активний.</VEF_EnergyShieldRadiusApparel.description>
+  <VEF_EnergyShieldRadiusApparel.formatString>{0} кліт.</VEF_EnergyShieldRadiusApparel.formatString>
+  
+  <VEF_EnergyShieldEnergyMaxPawn.label>макс. енергія щиту (портативного)</VEF_EnergyShieldEnergyMaxPawn.label>
+  <VEF_EnergyShieldEnergyMaxPawn.description>Максимальна енергія, яку може мати щит. Чим більше енергії, ти більше щит поглинає шкоди.</VEF_EnergyShieldEnergyMaxPawn.description>
+  
+  <VEF_EnergyShieldRechargeRatePawn.label>швидкість перезарядки щиту (портативного)</VEF_EnergyShieldRechargeRatePawn.label>
+  <VEF_EnergyShieldRechargeRatePawn.description>Швидкість, з якою щит отримує енергію, поки він не зламаний.</VEF_EnergyShieldRechargeRatePawn.description>
+  <VEF_EnergyShieldRechargeRatePawn.formatString>{0}/сек</VEF_EnergyShieldRechargeRatePawn.formatString>
+  
+  <VEF_EnergyShieldRadiusPawn.label>радіус дії щиту (портативного)</VEF_EnergyShieldRadiusPawn.label>
+  <VEF_EnergyShieldRadiusPawn.description>Площа, яку покриває щит, коли активний.</VEF_EnergyShieldRadiusPawn.description>
+  <VEF_EnergyShieldRadiusPawn.formatString>{0} кліт.</VEF_EnergyShieldRadiusPawn.formatString>
+  
+  <VEF_MeleeAttackSpeedFactor.label>коефіцієнт швидкості атак ближнього бою</VEF_MeleeAttackSpeedFactor.label>
+  <VEF_MeleeAttackSpeedFactor.description>Множник швидкості атак в ближньому бою.</VEF_MeleeAttackSpeedFactor.description>
+  
+  <VEF_RangeAttackSpeedFactor.label>коефіцієнт швидкості атак дальнього бою</VEF_RangeAttackSpeedFactor.label>
+  <VEF_RangeAttackSpeedFactor.description>Множник швидкості атак в дальному бою.</VEF_RangeAttackSpeedFactor.description>
+  
+  <VEF_MeleeAttackDamageFactor.label>коефіцієнт шкоди атак ближнього бою</VEF_MeleeAttackDamageFactor.label>
+  <VEF_MeleeAttackDamageFactor.description>Множник шкоди атак в ближньому бою.</VEF_MeleeAttackDamageFactor.description>
+  
+  <VEF_RangeAttackDamageFactor.label>коефіцієнт шкоди атак дальнього бою</VEF_RangeAttackDamageFactor.label>
+  <VEF_RangeAttackDamageFactor.description>Множник шкоди атак в дальному бою.</VEF_RangeAttackDamageFactor.description>
+</LanguageData>

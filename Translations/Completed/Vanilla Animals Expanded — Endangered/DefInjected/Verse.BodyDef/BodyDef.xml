@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--great ape-->
+  <AEXP_GreatApe_Bonobo.label>гомініди</AEXP_GreatApe_Bonobo.label>
+  <!--left clavicle-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_clavicle.customLabel>ліва ключиця</AEXP_GreatApe_Bonobo.corePart.parts.left_clavicle.customLabel>
+  <!--right clavicle-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_clavicle.customLabel>права ключиця</AEXP_GreatApe_Bonobo.corePart.parts.right_clavicle.customLabel>
+  <!--left lung-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_lung.customLabel>ліва легеня</AEXP_GreatApe_Bonobo.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_lung.customLabel>права легеня</AEXP_GreatApe_Bonobo.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_kidney.customLabel>ліва нирка</AEXP_GreatApe_Bonobo.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_kidney.customLabel>права нирка</AEXP_GreatApe_Bonobo.corePart.parts.right_kidney.customLabel>
+  <!--left eye-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!--right eye-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!--left ear-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!--right ear-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!--left shoulder-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.customLabel>ліве плече</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.customLabel>
+  <!--left arm-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.customLabel>ліва рука</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!--left humerus-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>ліва плечова кістка</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!--left radius-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>ліва променева кістка</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!--left hand-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>ліва долоня</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!--left pinky-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>мізинець лівої руки</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!--left ring finger-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>підмізинний палець лівої руки</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!--left middle finger-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>середній палець лівої руки</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!--left index finger-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>вказівний палець лівої руки</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!--left thumb-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>великий палець лівої руки</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!--right shoulder-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.customLabel>праве плече</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.customLabel>
+  <!--right arm-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.customLabel>права рука</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!--right humerus-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>права плечова кістка</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!--right radius-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>права променева кістка</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!--right hand-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>права долоня</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!--right pinky-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>мізинець правої руки</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!--right ring finger-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>підмізинний палець правої руки</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!--right middle finger-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>середній палець правої руки</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!--right index finger-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>вказівний палець правої руки</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!--right thumb-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>великий палець правої руки</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!--left leg-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.customLabel>ліва нога</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.customLabel>
+  <!--left femur-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_femur.customLabel>ліве стегно</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!--left tibia-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_tibia.customLabel>ліва гомілка</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!--left foot-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.customLabel>ліва ступня</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!--left little toe-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>мізинець лівої ноги</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!--left fourth toe-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>четвертий палець лівої ноги</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!--left middle toe-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>середній палець лівої ноги</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!--left second toe-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>другий палець лівої ноги</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!--left big toe-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>великий палець лівої ноги</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!--right leg-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.customLabel>права нога</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.customLabel>
+  <!--right femur-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_femur.customLabel>праве стегно</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!--right tibia-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_tibia.customLabel>права гомілка</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!--right foot-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.customLabel>права ступня</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!--right little toe-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>мізинець правої ноги</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!--right fourth toe-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>четвертий палець правої ноги</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!--right middle toe-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>середній палець правої ноги</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!--right second toe-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>другий палець правої ноги</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!--right big toe-->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>великий палець правої ноги</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+</LanguageData>

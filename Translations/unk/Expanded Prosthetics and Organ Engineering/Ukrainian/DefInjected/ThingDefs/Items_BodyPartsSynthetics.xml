@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <AIChip.label>Чип-ШІ</AIChip.label>
+   <AIChip.description>Підданий спеціальній хімічній та електричній обробці, цей малий чіп може відновити повну свідомість та рухову активність у потерпілого. Вимагає дослідження та операції на мозку.</AIChip.description>
+   
+   <SyntheticLung.label>Синтетична легеня</SyntheticLung.label>
+   <SyntheticLung.description>Високоякісний замінник. Створює легкий шум.</SyntheticLung.description>
+   
+   <SyntheticStomach.label>Синтетичний шлунок</SyntheticStomach.label>
+   <SyntheticStomach.description>Виготовлений з волокон найвищої якості, щоб запобігти відторгненню.</SyntheticStomach.description> 
+   
+   <SyntheticLiver.label>Синтетична печінка</SyntheticLiver.label>
+   <SyntheticLiver.description>Виготовлений з волокон найвищої якості, щоб запобігти відторгненню.</SyntheticLiver.description>  
+   
+   <SyntheticKidney.label>Синтетична нирка</SyntheticKidney.label>
+   <SyntheticKidney.description>Виготовлений з волокон найвищої якості, щоб запобігти відторгненню.</SyntheticKidney.description>     
+   
+   <SyntheticHeart.label>Синтетичне серце</SyntheticHeart.label>
+   <SyntheticHeart.description>Замінник серця вищої категорії. Може працювати 30 років на одному заряджанні.</SyntheticHeart.description>
+   
+   <SyntheticSkin.label>Синтетична шкіра</SyntheticSkin.label>
+   <SyntheticSkin.description>Шматок матеріалу, схожого на шкіру, який виглядає як справжня!</SyntheticSkin.description>
+   
+   <Joywire.label>Чип щастя</Joywire.label>
+   <Joywire.description>Цей малий імплант мозку зробить вас щасливим та розслабленим. Вимагає дослідження та операції на мозку.</Joywire.description>
+   
+   <Painstopper.label>Чип знеболення</Painstopper.label>
+   <Painstopper.description>Цей малий чип зробить так, що ви перестанете відчувати біль. Вимагає дослідження та операції на мозку.</Painstopper.description>
+   
+</LanguageData>

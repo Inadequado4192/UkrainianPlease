@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <AP_PropCategory_Floors.label>покриття</AP_PropCategory_Floors.label>
+  <AP_PropCategory_Floors.description>Покриття, яке використовується в суто декоративних цілях.</AP_PropCategory_Floors.description>
+
+  <AP_PropCategory_Walls.label>стіни</AP_PropCategory_Walls.label>
+  <AP_PropCategory_Walls.description>Стіни, які використовуються переважно в декоративних цілях.</AP_PropCategory_Walls.description>
+
+  <VFE_PropCategory_Borders.label>бордюри</VFE_PropCategory_Borders.label>
+  <VFE_PropCategory_Borders.description>Наземні бордюри для правильного розмежування ваших доріжок.</VFE_PropCategory_Borders.description>
+  
+  <VFE_PropCategory_Decals.label>розмітка</VFE_PropCategory_Decals.label>
+  <VFE_PropCategory_Decals.description>Розмітка, з різною інформацією, що фарбується на землі.</VFE_PropCategory_Decals.description>
+
+  <VFE_PropCategory_LargeDecals.label>вел. розмітка</VFE_PropCategory_LargeDecals.label>
+  <VFE_PropCategory_LargeDecals.description>Велика розмітка, з різною інформацією, що фарбується на землі.</VFE_PropCategory_LargeDecals.description>
+
+  <VFE_PropCategory_Medieval.label>середньовіччя</VFE_PropCategory_Medieval.label>
+  <VFE_PropCategory_Medieval.description>Середньовічний реквізит. Підійде як для величного замку, так і для простого села.</VFE_PropCategory_Medieval.description>
+
+  <VFE_PropCategory_Farm.label>ферма</VFE_PropCategory_Farm.label>
+  <VFE_PropCategory_Farm.description>Фермерський реквізит, такий як стоси сіна та деревини, дерев'яні вози тощо.</VFE_PropCategory_Farm.description>
+
+  <VFE_PropCategory_Furniture.label>меблі</VFE_PropCategory_Furniture.label>
+  <VFE_PropCategory_Furniture.description>Меблі, які не мають ігрової механіки, наприклад, декоративні шафи, дзеркала тощо.</VFE_PropCategory_Furniture.description>
+
+  <VFE_PropCategory_Office.label>офіс</VFE_PropCategory_Office.label>
+  <VFE_PropCategory_Office.description>Охоплює такі предмети, як столи, стільці, комп'ютери, лабораторне обладнання, дошки, канцелярське приладдя та інші елементи, які часто зустрічаються в професійних робочих приміщеннях.</VFE_PropCategory_Office.description>
+
+  <VFE_PropCategory_Industrial.label>фабрика</VFE_PropCategory_Industrial.label>
+  <VFE_PropCategory_Industrial.description>Промисловий реквізит, такий як бочки, піддони, коробки та контейнери.</VFE_PropCategory_Industrial.description>
+
+  <VFE_PropCategory_Kitchen.label>кухня</VFE_PropCategory_Kitchen.label>
+  <VFE_PropCategory_Kitchen.description>Кухонний реквізит, наприклад, кухонне приладдя, кухонні меблі тощо.</VFE_PropCategory_Kitchen.description>
+
+  <VFE_PropCategory_Power.label>енергія</VFE_PropCategory_Power.label>
+  <VFE_PropCategory_Power.description>Реквізит, пов'язаний з енергетичними структурами, генераторами, бензобаками тощо.</VFE_PropCategory_Power.description>
+
+  <VFE_PropCategory_Spacer.label>футуризм</VFE_PropCategory_Spacer.label>
+  <VFE_PropCategory_Spacer.description>Реквізит високих технологій космічної епохи.</VFE_PropCategory_Spacer.description>
+
+  <VFE_PropCategory_Vehicles.label>автомобілі</VFE_PropCategory_Vehicles.label>
+  <VFE_PropCategory_Vehicles.description>Реквізит транспорту. Вантажівки, легкові автомобілі, фури тощо.</VFE_PropCategory_Vehicles.description>
+
+  <VFE_PropCategory_Spaceships.label>космічні кораблі</VFE_PropCategory_Spaceships.label>
+  <VFE_PropCategory_Spaceships.description>Реквізит космічних кораблів. Всі види транспортних засобів, призначених для космічних подорожей.</VFE_PropCategory_Spaceships.description>
+
+  <VFE_PropCategory_Park.label>парки</VFE_PropCategory_Park.label>
+  <VFE_PropCategory_Park.description>Загальний реквізит в природному антуражі.</VFE_PropCategory_Park.description>
+
+  <VFE_PropCategory_Workshop.label>майстерня</VFE_PropCategory_Workshop.label>
+  <VFE_PropCategory_Workshop.description>Реквізит виробництва та майстерні, що пасує до ремісничого середовища.</VFE_PropCategory_Workshop.description>
+
+  <VFE_PropCategory_Filth.label>бруд</VFE_PropCategory_Filth.label>
+  <VFE_PropCategory_Filth.description>Реквізит у вигляді бруду з базової гри.</VFE_PropCategory_Filth.description>
+
+  <VFE_PropCategory_Ancient.label>старовинні</VFE_PropCategory_Ancient.label>
+  <VFE_PropCategory_Ancient.description>Старовинні реквізити, які зазвичай розкидані по карті. Зверніть увагу, що вони не підійдуть для риси ідеології "Утилізатори" з VE: Memes and Structures, оскільки вони є суто декоративними.</VFE_PropCategory_Ancient.description>
+
+  <VFE_PropCategory_Vaults.label>бункери</VFE_PropCategory_Vaults.label>
+  <VFE_PropCategory_Vaults.description>Реквізит, знайдений у старовинних бункерах.</VFE_PropCategory_Vaults.description>
+
+  <VFE_PropCategory_Empire.label>імперія</VFE_PropCategory_Empire.label>
+  <VFE_PropCategory_Empire.description>Реквізит з Імперії.</VFE_PropCategory_Empire.description>
+
+  <VFE_PropCategory_Labs.label>лаби</VFE_PropCategory_Labs.label>
+  <VFE_PropCategory_Labs.description>Реквізит, знайдений у старовинних покинутих лабораторіях. Зазвичай досить занедбаних..</VFE_PropCategory_Labs.description>
+
+  <VFE_PropCategory_Bedroom.label>спальня</VFE_PropCategory_Bedroom.label>
+  <VFE_PropCategory_Bedroom.description>Ліжка, постільна білизна, меблі (комоди, тумбочки), світильники, штори та інші елементи декору, які часто зустрічаються в спальнях.</VFE_PropCategory_Bedroom.description>
+
+  <VFE_PropCategory_DiningRoom.label>столова</VFE_PropCategory_DiningRoom.label>
+  <VFE_PropCategory_DiningRoom.description>Такі предмети, як столи, стільці, посуд (тарілки, склянки, прибори), скатертини, декоративні прикраси та інші елементи декору, які часто зустрічаються в їдальнях.</VFE_PropCategory_DiningRoom.description>
+
+  <VFE_PropCategory_Hospital.label>шпиталь</VFE_PropCategory_Hospital.label>
+  <VFE_PropCategory_Hospital.description>Медичне обладнання (ліжка, хірургічні інструменти, монітори), вивіски та інші предмети, які часто зустрічаються в медичному середовищі.</VFE_PropCategory_Hospital.description>
+
+  <VFE_PropCategory_Military.label>армія</VFE_PropCategory_Military.label>
+  <VFE_PropCategory_Military.description>Репліки зброї, уніформи, шоломи, розпізнавальні знаки та інша військова атрибутика, розроблена для візуальної та тематичної достовірності.</VFE_PropCategory_Military.description>
+
+  <VFE_PropCategory_Prison.label>в'язниця</VFE_PropCategory_Prison.label>
+  <VFE_PropCategory_Prison.description>Тюремні ґрати, камери, уніформа ув'язнених, уніформа охоронців, камери спостереження, вивіски та інші елементи, пов'язані з пенітенціарними установами.</VFE_PropCategory_Prison.description>
+
+  <VFE_PropCategory_Royal.label>монархія</VFE_PropCategory_Royal.label>
+  <VFE_PropCategory_Royal.description>Корони, скіпетри, трони, королівське вбрання, герби, церемоніальні мечі та інші королівські символи.</VFE_PropCategory_Royal.description>
+
+  <VFE_PropCategory_Storage.label>сховище</VFE_PropCategory_Storage.label>
+  <VFE_PropCategory_Storage.description>Реквізит, такий як полиці, контейнери, ящики, контейнери для зберігання та маркування, а також інструменти або обладнання, пов'язані з організацією та управлінням предметами, що зберігаються.</VFE_PropCategory_Storage.description>
+
+  <VFE_PropCategory_Temple.label>храм</VFE_PropCategory_Temple.label>
+  <VFE_PropCategory_Temple.description>Релігійні артефакти, обрядові предмети, статуї, вівтарі, ритуальні інструменти та інші елементи, що представляють духовне або культурне значення храму.</VFE_PropCategory_Temple.description>
+
+  <VFE_PropCategory_Recreation.label>відпочинок</VFE_PropCategory_Recreation.label>
+  <VFE_PropCategory_Recreation.description>Спортивний інвентар, реквізит для спорт. ігор, приладдя для пікніків, вуличні меблі та інші елементи, пов'язані з відпочинком і розвагами.</VFE_PropCategory_Recreation.description>
+
+  <VFE_PropCategory_Children.label>діти</VFE_PropCategory_Children.label>
+  <VFE_PropCategory_Children.description>Дитячий реквізит, до прикладу, іграшки, дитячі меблі тощо.</VFE_PropCategory_Children.description>
+
+  <VFE_PropCategory_Plants.label>рослини</VFE_PropCategory_Plants.label>
+  <VFE_PropCategory_Plants.description>Реквізити, на основі рослин з ванільної гри. Майте на увазі, що вони декоративні. Вони не ростуть, не дають ресурсів, тощо.</VFE_PropCategory_Plants.description>
+
+  <VFE_PropCategory_Mechs.label>механоїди</VFE_PropCategory_Mechs.label>
+  <VFE_PropCategory_Mechs.description>Реквізит на основі мех-кластерів або інших конструкцій механоїдного дизайну.</VFE_PropCategory_Mechs.description>
+
+  <VFE_PropCategory_Effecters.label>ефекти</VFE_PropCategory_Effecters.label>
+  <VFE_PropCategory_Effecters.description>Невидимі реквізити, які випускають різні анімовані частинки. Майте на увазі, що вони можуть викликати лаги, тому використовуйте їх помірковано.</VFE_PropCategory_Effecters.description>
+
+  <VFE_PropCategory_Misc.label>різне</VFE_PropCategory_Misc.label>
+  <VFE_PropCategory_Misc.description>Різний реквізит, який не потрапляє в жодну іншу категорію.</VFE_PropCategory_Misc.description>
+  
+  <VFE_PropCategory_ExoticPlants.label>екзотика</VFE_PropCategory_ExoticPlants.label>
+  <VFE_PropCategory_ExoticPlants.description>Екзотичні рослини з Alpha Biomes. Майте на увазі, що вони декоративні. Вони не ростуть, нічого не виробляють тощо</VFE_PropCategory_ExoticPlants.description>
+</LanguageData>

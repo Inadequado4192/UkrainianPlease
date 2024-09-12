@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <GoldenEye.label>Золоте око</GoldenEye.label>
+   <GoldenEye.description>Замінює відсутнє око. Так неймовірно красиве, що шкода, що ви не можете побачити його у дзеркалі.</GoldenEye.description>
+
+   <ArtificialNose.label>Штучний ніс</ArtificialNose.label>
+   <ArtificialNose.description>Замінює відсутній ніс. Закриває діру у обличчі.</ArtificialNose.description>
+
+   <HydraulicJaw.label>Гідравлічна щелепа</HydraulicJaw.label>
+   <HydraulicJaw.description>Замінює відсутню щелепу. Будьте обережні з такими потужними зубами!</HydraulicJaw.description>
+
+   <SimpleProstheticHand.label>Простий протез долоні</SimpleProstheticHand.label>
+   <SimpleProstheticHand.description>Замінює відсутню руку. Набагато зручніше, ніж та з гачком.</SimpleProstheticHand.description>
+
+   <SimpleProstheticFoot.label>Простий протез стопи</SimpleProstheticFoot.label>
+   <SimpleProstheticFoot.description>Замінює відсутню стопу. Не така дешева, як дерев'яна.</SimpleProstheticFoot.description>
+
+   <ArtificialPelvis.label>Штучний таз</ArtificialPelvis.label>
+   <ArtificialPelvis.description>Замінює відсутній таз. Дуже корисний, якщо повзання не ваша улюблена форма переміщення.</ArtificialPelvis.description>
+   
+   <SimpleProstheticLeg.label>Простий протез ноги</SimpleProstheticLeg.label>
+   <SimpleProstheticLeg.description>Замінює відсутню ногу. Не зовсім зручна, але тиха.</SimpleProstheticLeg.description>
+   
+   <SimpleProstheticArm.label>Простий протез руки</SimpleProstheticArm.label>
+   <SimpleProstheticArm.description>Проста, але міцна!</SimpleProstheticArm.description>
+
+</LanguageData>

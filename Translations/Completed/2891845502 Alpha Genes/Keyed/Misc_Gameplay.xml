@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: {0} has reproduced asexually. -->
+  <AG_AsexualHatched>{0} розмножується безстатевим шляхом.</AG_AsexualHatched>
+	<!-- EN: Death in {0} -->
+  <AG_DeathIn>Смерть через {0}</AG_DeathIn>
+	<!-- EN: Unstable mutation gained by {0}: {1} -->
+  <AG_RandomGenesGained>{0} отримав нестабільну мутацію: {1}</AG_RandomGenesGained>
+	<!-- EN: Slow gestation gene: -25% gestation speed -->
+  <AG_PregnancySlower>Ген повільної вагітності: -25% швидкість вагітності</AG_PregnancySlower>
+	<!-- EN: Fast gestation gene: +25% gestation speed -->
+  <AG_PregnancyFaster>Ген швидкої вагітності: +25% швидкість вагітності</AG_PregnancyFaster>
+	<!-- EN: Enable armour -->
+  <AG_ReativeArmourOn>Увімкнути броню</AG_ReativeArmourOn>
+	<!-- EN: Disable armour -->
+  <AG_ReativeArmourOff>Вимкнути броню</AG_ReativeArmourOff>
+	<!-- EN: Enable overdrive -->
+  <AG_OverdriveOn>Увімкнути овердрайв</AG_OverdriveOn>
+	<!-- EN: Disable overdrive -->
+  <AG_OverdriveOff>Вимкнути овердрайв</AG_OverdriveOff>
+	<!-- EN: Mineral cost -->
+  <AG_AbilityMineralCost>Вартість мінералів</AG_AbilityMineralCost>
+	<!-- EN: {0_labelShort} is not a mineral absorber. -->
+  <AG_AbilityDisabledNoMineralGene>{0_labelShort} не є поглиначем мінеральним.</AG_AbilityDisabledNoMineralGene>
+	<!-- EN: {0_labelShort} does not have enough minerals. -->
+  <AG_AbilityDisabledNoMineral>{0_labelShort} не має достатньо мінералів.</AG_AbilityDisabledNoMineral>
+	<!-- EN: This genepack already has the maximum possible amount of genes -->
+  <AG_AlreadyFourGenes>Цей генпакет вже містить максимально можливу кількість генів</AG_AlreadyFourGenes>
+	<!-- EN: The disruptor won't work if the genepack only has one remaining gene -->
+  <AG_NeedsMoreThanTwoGenes>Дизраптор не спрацює, якщо в генному пакеті залишився лише один ген</AG_NeedsMoreThanTwoGenes>
+	<!-- EN: This ability cannot be used as a one-shot weapon on a hostile pawn -->
+  <AG_CannotBeUsedAsWeapon>Ця здатність не може бути використана як одноразова зброя проти ворожого пішака</AG_CannotBeUsedAsWeapon>
+	<!-- EN: Chestburst! -->
+  <AG_ParasitesHatchedLabel>Поява паразита!</AG_ParasitesHatchedLabel>
+	<!-- EN: A newborn, {0}, has hatched from a host, killing it in the process -->
+  <AG_ParasitesHatched>Новонароджений, {0}, вилупився з господаря, вбивши його в процесі</AG_ParasitesHatched>
+	<!-- EN: Unsummoned in [0] -->
+  <AG_UnsummonedIn>Відкликання через [0]</AG_UnsummonedIn>
+	<!-- EN: Target resisted the insanity blast! -->
+  <AG_ResistedInsanityBlast>Ціль витримала вибух божевілля!</AG_ResistedInsanityBlast>
+	<!-- EN: Target must be downed or lying down in bed for this ability to work -->
+  <AG_DownedOrLyingInBed>Щоб ця функція спрацювала, ціль повинна лежати або лежати в ліжку</AG_DownedOrLyingInBed>
+	<!-- EN: Target lacks a brain. This is sadly pretty common in the world -->
+  <AG_PawnWithoutBrain>У цілі немає мозку. Це, на жаль, досить поширене явище у світі</AG_PawnWithoutBrain>
+	<!-- EN: Deathless people are immune to parasitic implantations -->
+  <AG_CannotBeUsedOnDeathless>Безсмертні люди мають імунітет до паразитичних імплантатів</AG_CannotBeUsedOnDeathless>
+	<!-- EN: Only one ocular slinger can exist per colonist with the ocular affinity gene -->
+  <VRE_OneScorpionPerColonist>На одного колоніста з геном окулярної афінності може існувати лише один окулярний слінгер</VRE_OneScorpionPerColonist>
+	<!-- EN: Unlocked via Ocular Affinity gene -->
+  <VRE_UnlockedByGeneOcular>Розблоковано за допомогою гена окулярної спорідненості</VRE_UnlockedByGeneOcular>
+	<!-- EN: This ability will only work on mechanoids -->
+  <AM_CantUseOnNonMechs>Ця здатність працюватиме лише на механоїдах</AM_CantUseOnNonMechs>
+	<!-- EN: Only a mechanitor can use this ability -->
+  <AM_OnlyMechanitorCanUse>Тільки механізатор може використовувати цю здатність</AM_OnlyMechanitorCanUse>
+	<!-- EN: "Boss" mechanoids have a reinforced IFF system that can't be hacked -->
+  <AM_CantUseOnBossMechs>Механоїди "бос" мають посилену систему IFF, яку неможливо зламати</AM_CantUseOnBossMechs>
+	<!-- EN: Mechanitor doesn't have enough bandwidth to use this ability on a {0} -->
+  <AM_NotEnoughBandwidth>Механізатор не має достатньої пропускної здатності для використання цієї здатності на {0}</AM_NotEnoughBandwidth>
+	<!-- EN: This mechanoid is being remotely controlled by a human pilot, and it can't be hacked -->
+  <AM_CantUseVEMechs>Цим механоїдом дистанційно керує людина-пілот, і його неможливо зламати</AM_CantUseVEMechs>
+	<!-- EN: Can't create temporary node there -->
+  <AG_CantSpawnThere>Там не вдається створити тимчасовий вузол</AG_CantSpawnThere>
+	<!-- EN: {0} is not a colony mech, this will only work on player owned mechs -->
+  <AG_OnlyOnFriendlyMechs>{0} не є мехом колонії, це спрацює лише на мехах, що належать гравцям</AG_OnlyOnFriendlyMechs>
+	<!-- Settings -->
+	<!-- EN: Disable unstable mutations message -->
+  <AG_DisableMutationsMessage>Вимкнути повідомлення про нестабільні мутації</AG_DisableMutationsMessage>
+	<!-- EN: By default, the three "unstable mutations" genes will display a pop up message telling you which genes have been acquired by each colonist. This is fine if you have one colonist, not so fine if you have 20... With this options toggle you can remove those messages. -->
+  <AG_DisableMutationsMessage_Description>За замовчуванням, три гени "нестабільних мутацій" відображатимуть спливаюче повідомлення з інформацією про те, які гени були отримані кожним колоністом. Це добре, якщо у вас один колоніст, але не дуже добре, якщо їх 20... За допомогою цього перемикача ви можете прибрати ці повідомлення.</AG_DisableMutationsMessage_Description>
+	<!-- EN: Disable thalassophobia message -->
+  <AG_DisableThalassophobiaMessage>Вимкнути повідомлення про таласофобію</AG_DisableThalassophobiaMessage>
+	<!-- EN: By default, every time a pawn with the thalassophobia gene fless from water the game will generate a letter informing the player. This may be a bit too much if you have many pawns fleeing often, so you can disable it with this toggle. Bear in mind the pawns will still flee, you'll just NOT get informed. -->
+  <AG_DisableThalassophobiaMessage_Description>За замовчуванням, кожного разу, коли пішак з геном таласофобії тікає з води, гра буде генерувати лист з повідомленням гравця. Якщо у вас багато пішаків, які часто тікають, це може бути занадто, тому ви можете вимкнути цю опцію за допомогою цього перемикача. Майте на увазі, що пішаки все одно будуть тікати, просто ви НЕ будете про це повідомлені.</AG_DisableThalassophobiaMessage_Description>
+	<!-- EN: Genetic tools cause gene removal coma -->
+  <AG_GeneRemovalComa>Генетичні інструменти викликають кому видалення генів</AG_GeneRemovalComa>
+	<!-- EN: Using any genetic tool causes a gene removal coma that lasts for 3 days, knocking the colonist out, and no other tool can be used in that period. This is ON by default for balance. -->
+  <AG_GeneRemovalComa_Description>Використання будь-якого генетичного інструменту викликає кому видалення генів, яка триває 3 дні, вибиваючи колоніста з ладу, і в цей період жоден інший інструмент не може бути використаний. За замовчуванням ця опція ввімкнена для балансу.</AG_GeneRemovalComa_Description>
+	<!-- EN: Disable Abandoned Biotech Lab quests -->
+  <AG_DisableQuests>Вимкнути квести "Покинута біотехнологічна лабораторія"</AG_DisableQuests>
+	<!-- EN: Disables Abandoned Biotech Lab quests from triggering. Bear in mind these quests are independent of any other quests or storyteller events (raids, manhunters, etc). WARNING: disabling this will make most alpha genes and genetic tools unobtainable during normal gameplay. -->
+  <AG_DisableQuests_Description>Майте на увазі, що ці квести не залежать від будь-яких інших квестів або подій оповідача (рейдів, мисливців за людьми тощо). ПОПЕРЕДЖЕННЯ: вимкнення цієї опції зробить більшість альфа-генів та генетичних інструментів недоступними під час звичайного ігрового процесу.</AG_DisableQuests_Description>
+	<!-- EN: Abandoned Biotech Labs multiplier (lower means getting the event more often) -->
+  <AG_QuestRate>Мультиплікатор "Покинута біотехнологічна лабораторія" (нижче означає, що подія відбувається частіше)</AG_QuestRate>
+	<!-- EN: The frequency of the Abandoned Biotech Lab quest being offered is multiplied by this number (with a multiplier of 1, it is offered every between 15 and 30 days at random). Numbers below 1 decrease the time, while numbers above it increase it. Note that this event doesn't "replace" normal quests, it works independently. -->
+  <AG_QuestRateTooltip>Частота проходження квесту "Покинута біотехнологічна лабораторія" множиться на це число (з множником 1 він пропонується кожні 15-30 днів у випадковому порядку). Числа, менші за 1, зменшують час, а більші - збільшують. Зверніть увагу, що ця подія не "замінює" звичайні квести, вона працює незалежно.</AG_QuestRateTooltip>
+	<!-- EN: Reset -->
+  <AG_Reset>Скинути</AG_Reset>
+	<!-- EN: Show ALL animal summon genes (requires game reload) -->
+  <AG_ShowAllAnimalSummonGenes>Показати ВСІ гени виклику тварин (потребує перезавантаження гри)</AG_ShowAllAnimalSummonGenes>
+	<!-- EN: If selected, ALL animal summon genes will be shown on the xenotype creator screen. Bear in mind these genes will draw from all animals, vanilla or modded, so this can get out of control fast! By default, they are hidden, and three genes are shown that choose one of them at random. -->
+  <AG_ShowAllAnimalSummonGenes_Description>Якщо вибрано цю опцію, на екрані творця ксенотипів будуть показані ВСІ гени виклику тварин. Майте на увазі, що ці гени братимуться від усіх тварин, як ванільних, так і модифікованих, тому це може швидко вийти з-під контролю! За замовчуванням вони приховані, і показано три гени, які вибирають один з них навмання.</AG_ShowAllAnimalSummonGenes_Description>
+</LanguageData>

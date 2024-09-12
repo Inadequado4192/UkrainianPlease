@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Behavior -->
+
+  <AM_FleshCraftingFuneralBehavior.spectatorFilter.description>Глядачі повинні бути живими.</AM_FleshCraftingFuneralBehavior.spectatorFilter.description>
+  <AM_FleshCraftingFuneralBehavior.roles.0.label>промовець</AM_FleshCraftingFuneralBehavior.roles.0.label>
+  <AM_FleshCraftingFuneralBehavior.roles.1.label>Тіло</AM_FleshCraftingFuneralBehavior.roles.1.label>
+  <AM_FleshCraftingFuneralBehavior.stages.1.postAction.text>{0}: Промова закінчилася, і тіло готують до різанини</AM_FleshCraftingFuneralBehavior.stages.1.postAction.text>
+
+
+</LanguageData>

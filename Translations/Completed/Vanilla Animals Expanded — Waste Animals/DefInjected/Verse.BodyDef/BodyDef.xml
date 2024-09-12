@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--bipedal lizard-->
+  <VAEWaste_BipedalLizard.label>двонога ящірка</VAEWaste_BipedalLizard.label>
+  <!--left lung-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_lung.customLabel>ліва легеня</VAEWaste_BipedalLizard.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_lung.customLabel>права легеня</VAEWaste_BipedalLizard.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_kidney.customLabel>ліва нирка</VAEWaste_BipedalLizard.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_kidney.customLabel>права нирка</VAEWaste_BipedalLizard.corePart.parts.right_kidney.customLabel>
+  <!--left eye-->
+  <VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!--right eye-->
+  <VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!--left ear-->
+  <VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!--right ear-->
+  <VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!--left arm-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.customLabel>ліва рука</VAEWaste_BipedalLizard.corePart.parts.left_arm.customLabel>
+  <!--left arm first claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_first_claw.customLabel>перший кіготь лівої руки</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_first_claw.customLabel>
+  <!--left arm second claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_second_claw.customLabel>другий кіготь лівої руки</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_second_claw.customLabel>
+  <!--left arm third claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_third_claw.customLabel>третій кіготь лівої руки</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_third_claw.customLabel>
+  <!--left arm fourth claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fourth_claw.customLabel>четвертий кіготь лівої руки</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fourth_claw.customLabel>
+  <!--left arm fifth claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fifth_claw.customLabel>п'ятий кіготь лівої руки</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fifth_claw.customLabel>
+  <!--right arm-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.customLabel>права рука</VAEWaste_BipedalLizard.corePart.parts.right_arm.customLabel>
+  <!--right arm first claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_first_claw.customLabel>перший кіготь правої руки</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_first_claw.customLabel>
+  <!--right arm second claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_second_claw.customLabel>другий кіготь правої руки</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_second_claw.customLabel>
+  <!--right arm third claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_third_claw.customLabel>третій кіготь правої руки</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_third_claw.customLabel>
+  <!--right arm fourth claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fourth_claw.customLabel>четвертий кіготь правої руки</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fourth_claw.customLabel>
+  <!--right arm fifth claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fifth_claw.customLabel>п'ятий кіготь правої руки</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fifth_claw.customLabel>
+  <!--left leg-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.customLabel>ліва нога</VAEWaste_BipedalLizard.corePart.parts.left_leg.customLabel>
+  <!--left leg first claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_first_claw.customLabel>перший кіготь лівої ноги</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_first_claw.customLabel>
+  <!--left leg second claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_second_claw.customLabel>другий кіготь лівої ноги</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_second_claw.customLabel>
+  <!--left leg third claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_third_claw.customLabel>третій кіготь лівої ноги</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_third_claw.customLabel>
+  <!--left leg fourth claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fourth_claw.customLabel>четвертий кіготь лівої ноги</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fourth_claw.customLabel>
+  <!--left leg fifth claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fifth_claw.customLabel>п'ятий кіготь лівої ноги</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fifth_claw.customLabel>
+  <!--right leg-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.customLabel>права нога</VAEWaste_BipedalLizard.corePart.parts.right_leg.customLabel>
+  <!--right leg first claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_first_claw.customLabel>перший кіготь правої ноги</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_first_claw.customLabel>
+  <!--right leg second claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_second_claw.customLabel>другий кіготь правої ноги</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_second_claw.customLabel>
+  <!--right leg third claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_third_claw.customLabel>третій кіготь правої ноги</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_third_claw.customLabel>
+  <!--right leg fourth claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fourth_claw.customLabel>четвертий кіготь правої ноги</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fourth_claw.customLabel>
+  <!--right leg fifth claw-->
+  <VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fifth_claw.customLabel>п'ятий кіготь правої ноги</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fifth_claw.customLabel>
+  
+  <!--hydra-->
+  <VAEWaste_Hydra.label>гідра</VAEWaste_Hydra.label>
+  <!--left lung-->
+  <VAEWaste_Hydra.corePart.parts.left_lung.customLabel>ліва легеня</VAEWaste_Hydra.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <VAEWaste_Hydra.corePart.parts.right_lung.customLabel>права легеня</VAEWaste_Hydra.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <VAEWaste_Hydra.corePart.parts.left_kidney.customLabel>ліва нирка</VAEWaste_Hydra.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <VAEWaste_Hydra.corePart.parts.right_kidney.customLabel>права нирка</VAEWaste_Hydra.corePart.parts.right_kidney.customLabel>
+  <!--first head-->
+  <VAEWaste_Hydra.corePart.parts.first_head.customLabel>перша голова</VAEWaste_Hydra.corePart.parts.first_head.customLabel>
+  <!--first brain-->
+  <VAEWaste_Hydra.corePart.parts.first_head.parts.Skull.parts.first_brain.customLabel>перший мозок</VAEWaste_Hydra.corePart.parts.first_head.parts.Skull.parts.first_brain.customLabel>
+  <!--first left eye-->
+  <VAEWaste_Hydra.corePart.parts.first_head.parts.first_left_eye.customLabel>перше ліве око</VAEWaste_Hydra.corePart.parts.first_head.parts.first_left_eye.customLabel>
+  <!--first right eye-->
+  <VAEWaste_Hydra.corePart.parts.first_head.parts.first_right_eye.customLabel>перше праве око</VAEWaste_Hydra.corePart.parts.first_head.parts.first_right_eye.customLabel>
+  <!--first nose-->
+  <VAEWaste_Hydra.corePart.parts.first_head.parts.first_nose.customLabel>перший ніс</VAEWaste_Hydra.corePart.parts.first_head.parts.first_nose.customLabel>
+  <!--first mouth-->
+  <VAEWaste_Hydra.corePart.parts.first_head.parts.first_mouth.customLabel>перший рот</VAEWaste_Hydra.corePart.parts.first_head.parts.first_mouth.customLabel>
+  <!--second head-->
+  <VAEWaste_Hydra.corePart.parts.second_head.customLabel>друга голова</VAEWaste_Hydra.corePart.parts.second_head.customLabel>
+  <!--second brain-->
+  <VAEWaste_Hydra.corePart.parts.second_head.parts.Skull.parts.second_brain.customLabel>другий мозок</VAEWaste_Hydra.corePart.parts.second_head.parts.Skull.parts.second_brain.customLabel>
+  <!--second left eye-->
+  <VAEWaste_Hydra.corePart.parts.second_head.parts.second_left_eye.customLabel>друге ліве око</VAEWaste_Hydra.corePart.parts.second_head.parts.second_left_eye.customLabel>
+  <!--second right eye-->
+  <VAEWaste_Hydra.corePart.parts.second_head.parts.second_right_eye.customLabel>друге праве око</VAEWaste_Hydra.corePart.parts.second_head.parts.second_right_eye.customLabel>
+  <!--second nose-->
+  <VAEWaste_Hydra.corePart.parts.second_head.parts.second_nose.customLabel>другий ніс</VAEWaste_Hydra.corePart.parts.second_head.parts.second_nose.customLabel>
+  <!--second mouth-->
+  <VAEWaste_Hydra.corePart.parts.second_head.parts.second_mouth.customLabel>другий рот</VAEWaste_Hydra.corePart.parts.second_head.parts.second_mouth.customLabel>
+  <!--third head-->
+  <VAEWaste_Hydra.corePart.parts.third_head.customLabel>третя голова</VAEWaste_Hydra.corePart.parts.third_head.customLabel>
+  <!--third brain-->
+  <VAEWaste_Hydra.corePart.parts.third_head.parts.Skull.parts.third_brain.customLabel>третій мозок</VAEWaste_Hydra.corePart.parts.third_head.parts.Skull.parts.third_brain.customLabel>
+  <!--third left eye-->
+  <VAEWaste_Hydra.corePart.parts.third_head.parts.third_left_eye.customLabel>третє ліве око</VAEWaste_Hydra.corePart.parts.third_head.parts.third_left_eye.customLabel>
+  <!--third right eye-->
+  <VAEWaste_Hydra.corePart.parts.third_head.parts.third_right_eye.customLabel>третє праве око</VAEWaste_Hydra.corePart.parts.third_head.parts.third_right_eye.customLabel>
+  <!--third nose-->
+  <VAEWaste_Hydra.corePart.parts.third_head.parts.third_nose.customLabel>третій ніс</VAEWaste_Hydra.corePart.parts.third_head.parts.third_nose.customLabel>
+  <!--third mouth-->
+  <VAEWaste_Hydra.corePart.parts.third_head.parts.third_mouth.customLabel>третій рот</VAEWaste_Hydra.corePart.parts.third_head.parts.third_mouth.customLabel>
+  
+  <!--large lizardlike-->
+  <VAEWaste_LargeLizardlike.label>великі ящіркоподібні</VAEWaste_LargeLizardlike.label>
+  <!--left lung-->
+  <VAEWaste_LargeLizardlike.corePart.parts.left_lung.customLabel>ліва легеня</VAEWaste_LargeLizardlike.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <VAEWaste_LargeLizardlike.corePart.parts.right_lung.customLabel>права легеня</VAEWaste_LargeLizardlike.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <VAEWaste_LargeLizardlike.corePart.parts.left_kidney.customLabel>ліва нирка</VAEWaste_LargeLizardlike.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <VAEWaste_LargeLizardlike.corePart.parts.right_kidney.customLabel>права нирка</VAEWaste_LargeLizardlike.corePart.parts.right_kidney.customLabel>
+  <!--left eye-->
+  <VAEWaste_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</VAEWaste_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!--right eye-->
+  <VAEWaste_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</VAEWaste_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!--front left leg-->
+  <VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.customLabel>передня ліва лапа</VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.customLabel>
+  <!--front left leg first claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>перший кіготь передньої лівої лапи</VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <!--front left leg second claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>другий кіготь передньої лівої лапи</VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <!--front left leg third claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>третій кіготь передньої лівої лапи</VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <!--front right leg-->
+  <VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.customLabel>передня права лапа</VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.customLabel>
+  <!--front right leg first claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>перший кіготь передньої правої лапи</VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <!--front right leg second claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>другий кіготь передньої правої лапи</VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <!--front right leg third claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>третій кіготь передньої правої лапи</VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <!--rear left leg-->
+  <VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>задня ліва лапа</VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>
+  <!--rear left leg first claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>перший кіготь задньої лівої лапи</VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <!--rear left leg second claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>другий кіготь задньої лівої лапи</VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <!--rear left leg third claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>третій кіготь задньої лівої лапи</VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <!--rear right leg-->
+  <VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>задня права лапа</VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>
+  <!--rear right leg first claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>перший кіготь задньої правої лапи</VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <!--rear right leg second claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>другий кіготь задньої правої лапи</VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <!--rear right leg third claw-->
+  <VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>третій кіготь задньої правої лапи</VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  
+  <!--megatardi-->
+  <VAEWaste_Megatardi.label>мегахід</VAEWaste_Megatardi.label>
+  <!--left elytra-->
+  <VAEWaste_Megatardi.corePart.parts.left_elytra.customLabel>ліве надкрилля</VAEWaste_Megatardi.corePart.parts.left_elytra.customLabel>
+  <!--right elytra-->
+  <VAEWaste_Megatardi.corePart.parts.right_elytra.customLabel>праве надкрилля</VAEWaste_Megatardi.corePart.parts.right_elytra.customLabel>
+  <!--left antenna-->
+  <VAEWaste_Megatardi.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>лівий вусик</VAEWaste_Megatardi.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!--right antenna-->
+  <VAEWaste_Megatardi.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>правий вусик</VAEWaste_Megatardi.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!--front left leg-->
+  <VAEWaste_Megatardi.corePart.parts.front_left_leg.customLabel>передня ліва лапка</VAEWaste_Megatardi.corePart.parts.front_left_leg.customLabel>
+  <!--front right leg-->
+  <VAEWaste_Megatardi.corePart.parts.front_right_leg.customLabel>передня права лапка</VAEWaste_Megatardi.corePart.parts.front_right_leg.customLabel>
+  <!--middle left leg-->
+  <VAEWaste_Megatardi.corePart.parts.middle_left_leg.customLabel>середня ліва лапка</VAEWaste_Megatardi.corePart.parts.middle_left_leg.customLabel>
+  <!--middle right leg-->
+  <VAEWaste_Megatardi.corePart.parts.middle_right_leg.customLabel>середня права лапка</VAEWaste_Megatardi.corePart.parts.middle_right_leg.customLabel>
+  <!--rear left leg-->
+  <VAEWaste_Megatardi.corePart.parts.rear_left_leg.customLabel>задня ліва лапка</VAEWaste_Megatardi.corePart.parts.rear_left_leg.customLabel>
+  <!--rear right leg-->
+  <VAEWaste_Megatardi.corePart.parts.rear_right_leg.customLabel>задня права лапка</VAEWaste_Megatardi.corePart.parts.rear_right_leg.customLabel>
+  
+  <!--double headed quadruped animal-->
+  <VAEWaste_Wasteffalo_Body.label>двоголові чотириногі</VAEWaste_Wasteffalo_Body.label>
+  <!--left lung-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_lung.customLabel>ліва легеня</VAEWaste_Wasteffalo_Body.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_lung.customLabel>права легеня</VAEWaste_Wasteffalo_Body.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_kidney.customLabel>ліва нирка</VAEWaste_Wasteffalo_Body.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_kidney.customLabel>права нирка</VAEWaste_Wasteffalo_Body.corePart.parts.right_kidney.customLabel>
+  <!--right neck-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.customLabel>права шия</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.customLabel>
+  <!--right head-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.customLabel>права голова</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.customLabel>
+  <!--right skull-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.customLabel>правий череп</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.customLabel>
+  <!--right brain-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.parts.right_brain.customLabel>правий мозок</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.parts.right_brain.customLabel>
+  <!--right-left eye-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_eye.customLabel>праве-ліве око</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_eye.customLabel>
+  <!--right-right eye-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_eye.customLabel>праве-праве око</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_eye.customLabel>
+  <!--right-left ear-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_ear.customLabel>праве-ліве вухо</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_ear.customLabel>
+  <!--right-right ear-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_ear.customLabel>праве-праве вухо</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_ear.customLabel>
+  <!--right nose-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_nose.customLabel>правий ніс</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_nose.customLabel>
+  <!--right jaw-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_jaw.customLabel>права щелепа</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_jaw.customLabel>
+  <!--left neck-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.customLabel>ліва шия</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.customLabel>
+  <!--left head-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.customLabel>ліва голова</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.customLabel>
+  <!--left skull-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.customLabel>лівий череп</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.customLabel>
+  <!--left brain-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.parts.left_brain.customLabel>лівий мозок</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.parts.left_brain.customLabel>
+  <!--left-left eye-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_eye.customLabel>ліве-ліве око</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_eye.customLabel>
+  <!--left-right eye-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_eye.customLabel>ліве-праве око</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_eye.customLabel>
+  <!--left-left ear-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_ear.customLabel>ліве-ліве вухо</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_ear.customLabel>
+  <!--left-right ear-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_ear.customLabel>ліве-праве вухо</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_ear.customLabel>
+  <!--left nose-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_nose.customLabel>лівий ніс</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_nose.customLabel>
+  <!--left jaw-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_jaw.customLabel>ліва щелепа</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_jaw.customLabel>
+  <!--front left leg-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.customLabel>передня ліва нога</VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.customLabel>
+  <!--front left hoof-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>переднє ліве копито</VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!--front right leg-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.customLabel>передня права нога</VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.customLabel>
+  <!--front right hoof-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>переднє праве копито</VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!--rear left leg-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.customLabel>задня ліва нога</VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.customLabel>
+  <!--rear left hoof-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>заднє ліве копито</VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!--rear right leg-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.customLabel>задня права нога</VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.customLabel>
+  <!--rear right hoof-->
+  <VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>заднє праве копито</VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!--wasteboar-->
+  <VAEWaste_Wasteboar.label>сміттєбан</VAEWaste_Wasteboar.label>
+  <!--left lung-->
+  <VAEWaste_Wasteboar.corePart.parts.left_lung.customLabel>ліва легеня</VAEWaste_Wasteboar.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <VAEWaste_Wasteboar.corePart.parts.right_lung.customLabel>права легеня</VAEWaste_Wasteboar.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <VAEWaste_Wasteboar.corePart.parts.left_kidney.customLabel>ліва нирка</VAEWaste_Wasteboar.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <VAEWaste_Wasteboar.corePart.parts.right_kidney.customLabel>права нирка</VAEWaste_Wasteboar.corePart.parts.right_kidney.customLabel>
+  <!--first left eye-->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_left_eye.customLabel>перше ліве око</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_left_eye.customLabel>
+  <!--first right eye-->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_right_eye.customLabel>перше праве око</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_right_eye.customLabel>
+  <!--second left eye-->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_left_eye.customLabel>друге ліве око</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_left_eye.customLabel>
+  <!--second right eye-->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_right_eye.customLabel>друге праве око</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_right_eye.customLabel>
+  <!--left ear-->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!--right ear-->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!--first left tusk-->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_left_tusk.customLabel>перший лівий бивень</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_left_tusk.customLabel>
+  <!--first right tusk-->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_right_tusk.customLabel>перший правий бивень</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_right_tusk.customLabel>
+  <!--second left tusk-->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_left_tusk.customLabel>другий лівий бивень</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_left_tusk.customLabel>
+  <!--second right tusk-->
+  <VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_right_tusk.customLabel>другий правий бивень</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_right_tusk.customLabel>
+  <!--front left leg-->
+  <VAEWaste_Wasteboar.corePart.parts.front_left_leg.customLabel>передня ліва нога</VAEWaste_Wasteboar.corePart.parts.front_left_leg.customLabel>
+  <!--front left hoof-->
+  <VAEWaste_Wasteboar.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>переднє ліве копито</VAEWaste_Wasteboar.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!--front right leg-->
+  <VAEWaste_Wasteboar.corePart.parts.front_right_leg.customLabel>передня права нога</VAEWaste_Wasteboar.corePart.parts.front_right_leg.customLabel>
+  <!--front right hoof-->
+  <VAEWaste_Wasteboar.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>переднє праве копито</VAEWaste_Wasteboar.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!--rear left leg-->
+  <VAEWaste_Wasteboar.corePart.parts.rear_left_leg.customLabel>задня ліва нога</VAEWaste_Wasteboar.corePart.parts.rear_left_leg.customLabel>
+  <!--rear left hoof-->
+  <VAEWaste_Wasteboar.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>заднє ліве копито</VAEWaste_Wasteboar.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!--rear right leg-->
+  <VAEWaste_Wasteboar.corePart.parts.rear_right_leg.customLabel>задня права нога</VAEWaste_Wasteboar.corePart.parts.rear_right_leg.customLabel>
+  <!--rear right hoof-->
+  <VAEWaste_Wasteboar.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>заднє праве копито</VAEWaste_Wasteboar.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!--scorpionlike body-->
+  <VAEWaste_ScorpionLike.label>скорпіоноподібні</VAEWaste_ScorpionLike.label>
+  <!--left eye-->
+  <VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ліве око</VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!--right eye-->
+  <VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>праве око</VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!--left antenna-->
+  <VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>лівий вусик</VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!--right antenna-->
+  <VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>правий вусик</VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!--front left leg-->
+  <VAEWaste_ScorpionLike.corePart.parts.front_left_leg.customLabel>передня ліва лапка</VAEWaste_ScorpionLike.corePart.parts.front_left_leg.customLabel>
+  <!--front right leg-->
+  <VAEWaste_ScorpionLike.corePart.parts.front_right_leg.customLabel>передня права лапка</VAEWaste_ScorpionLike.corePart.parts.front_right_leg.customLabel>
+  <!--middle left leg-->
+  <VAEWaste_ScorpionLike.corePart.parts.middle_left_leg.customLabel>середня ліва лапка</VAEWaste_ScorpionLike.corePart.parts.middle_left_leg.customLabel>
+  <!--middle right leg-->
+  <VAEWaste_ScorpionLike.corePart.parts.middle_right_leg.customLabel>середня права лапка</VAEWaste_ScorpionLike.corePart.parts.middle_right_leg.customLabel>
+  <!--rear left leg-->
+  <VAEWaste_ScorpionLike.corePart.parts.rear_left_leg.customLabel>задня ліва лапка</VAEWaste_ScorpionLike.corePart.parts.rear_left_leg.customLabel>
+  <!--rear right leg-->
+  <VAEWaste_ScorpionLike.corePart.parts.rear_right_leg.customLabel>задня права лапка</VAEWaste_ScorpionLike.corePart.parts.rear_right_leg.customLabel>
+</LanguageData>

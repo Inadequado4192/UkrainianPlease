@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--stew cooking-->
+  <VCE_StewCooking.label>тушонка</VCE_StewCooking.label>
+  <!--Stew is a form of a very nourishing meal, cooked in bulk over fire. This research also gives access to the wood-fired pot necessary to cook stews.-->
+  <VCE_StewCooking.description>Тушковане м'ясо – це дуже поживна страва, яку готують у великій кількості на вогні. Це дослідження також дає доступ до дров'яного сотейника, необхідного для приготування рагу.</VCE_StewCooking.description>
+</LanguageData>

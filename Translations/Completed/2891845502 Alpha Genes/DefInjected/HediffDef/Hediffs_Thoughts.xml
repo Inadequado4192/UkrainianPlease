@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: angelic beauty -->
+  <AG_Awe.label>янгольська краса</AG_Awe.label>
+  <!-- EN: This person emanates an aura of preternatural beauty. -->
+  <AG_Awe.description>Ця людина випромінює ауру надприродної краси.</AG_Awe.description>
+  
+  <!-- EN: unfathomably ugly -->
+  <AG_Disgust.label>безмірно потворний</AG_Disgust.label>
+  <!-- EN: There are no words to describe how revolting this person is. -->
+  <AG_Disgust.description>Немає слів, щоб описати, наскільки огидна ця людина.</AG_Disgust.description>
+  
+  <!-- EN: psychic drone -->
+  <AG_PsychicDrone.label>пси-дрон</AG_PsychicDrone.label>
+  <!-- EN: Being close to this person causes a soothing feeling. -->
+  <AG_PsychicDrone.description>Перебування поруч з цією людиною викликає заспокійливе відчуття.</AG_PsychicDrone.description>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was a street rat. [PAWN_possessive] parents were killed in the constant blood wars of Revia society, and [PAWN_pronoun] was taken in by an order of assassins. [PAWN_pronoun] learned much about how to wield blades as a result - and had plenty of practice. -->
+  <ReviaRaceBackstoryChildOrphan.baseDesc>[PAWN_nameDef] був безпритульним малюком. Його батьки загинули у постійних кровавих війнах Ревії, і його взяли на виховання найманики-убивці. Відповідно, [PAWN_pronoun] дізнався багато про те, як маніпулювати клинками - і мав багато практики.</ReviaRaceBackstoryChildOrphan.baseDesc>
+  <!-- EN: Revian Orphan Child -->
+  <ReviaRaceBackstoryChildOrphan.title>Ревійська Сирота</ReviaRaceBackstoryChildOrphan.title>
+  <!-- EN: Orphan -->
+  <ReviaRaceBackstoryChildOrphan.titleShort>Сирота</ReviaRaceBackstoryChildOrphan.titleShort>
+  
+</LanguageData>

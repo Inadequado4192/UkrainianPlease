@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--make wasabi paste-->
+  <VCE_WasabiPaste.label>зробити васабі-пасту</VCE_WasabiPaste.label>
+  <!--Create wasabi paste from raw wasabi. It is used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. It loses its flavour and deteriorates extremely fast.-->
+  <VCE_WasabiPaste.description>Зробити пасту із васабі. Її використовують як гостру приправу до суші та інших страв. За смаком вона більше схожа на гостру гірчицю, ніж на перець чилі, оскільки більше стимулює ніс, ніж язик. Вона втрачає свій аромат і псується дуже швидко.</VCE_WasabiPaste.description>
+  <!--Making wasabi paste.-->
+  <VCE_WasabiPaste.jobString>Робить васабі-пасту.</VCE_WasabiPaste.jobString>
+  
+  <!--deep fry sushi x20-->
+  <VCE_DeepFrySushi.label>посмажити суші у фритюрі x20</VCE_DeepFrySushi.label>
+  <!--Deep fry sushi. Deep fried food is very tasty, but not very good for your health.-->
+  <VCE_DeepFrySushi.description>Посмажити суші у фритюрі. Смажена у фритюрі їжа дуже смачна, але не дуже корисна для здоров'я.</VCE_DeepFrySushi.description>
+  <!--Deep frying sushi.-->
+  <VCE_DeepFrySushi.jobString>Смаже суші у фритюрі.</VCE_DeepFrySushi.jobString>
+  
+  <!--make chirashizushi bowl (simple)-->
+  <VCE_CookChirashizushiSimple.label>приготувати миску чірашідзуші (проста страва)</VCE_CookChirashizushiSimple.label>
+  <!--Make a Chirashizushi bowl quickly prepared from a few ingredients.-->
+  <VCE_CookChirashizushiSimple.description>Приготувати просту миску чірашідзуші із кількох інгредієнтів.</VCE_CookChirashizushiSimple.description>
+  <!--Making chirashizushi bowl (simple).-->
+  <VCE_CookChirashizushiSimple.jobString>Готує миску чірашідзуші (проста страва).</VCE_CookChirashizushiSimple.jobString>
+  
+  <!--make chirashizushi bowls (simple) x4-->
+  <VCE_CookChirashizushiSimpleBulk.label>приготувати миски чірашідзуші (проста страва) x4</VCE_CookChirashizushiSimpleBulk.label>
+  <!--Make 4 Chirashizushi bowls quickly prepared from a few ingredients.-->
+  <VCE_CookChirashizushiSimpleBulk.description>Приготувати чотири простих мисок чірашідзуші із кількох інгредієнтів.</VCE_CookChirashizushiSimpleBulk.description>
+  <!--Making chirashizushi bowls (simple) x4.-->
+  <VCE_CookChirashizushiSimpleBulk.jobString>Готує миски чірашідзуші (проста страва) x4.</VCE_CookChirashizushiSimpleBulk.jobString>
+  
+  <!--make norimaki (simple)-->
+  <VCE_CookNorimakiSimple.label>приготувати норімакі (проста страва)</VCE_CookNorimakiSimple.label>
+  <!--Make norimaki quickly prepared from a few ingredients.-->
+  <VCE_CookNorimakiSimple.description>Приготувати прості норімакі із кількох інгредієнтів.</VCE_CookNorimakiSimple.description>
+  <!--Making norimaki (simple).-->
+  <VCE_CookNorimakiSimple.jobString>Готує норімакі (проста страва).</VCE_CookNorimakiSimple.jobString>
+  
+  <!--make norimaki (simple) x4-->
+  <VCE_CookNorimakiSimpleBulk.label>приготувати норімакі (проста страва) x4</VCE_CookNorimakiSimpleBulk.label>
+  <!--Make 4 norimaki quickly prepared from a few ingredients.-->
+  <VCE_CookNorimakiSimpleBulk.description>Приготувати чотири простих норімакі чірашідзуші із кількох інгредієнтів.</VCE_CookNorimakiSimpleBulk.description>
+  <!--Making norimaki (simple) x4.-->
+  <VCE_CookNorimakiSimpleBulk.jobString>Готує норімакі (проста страва) x4.</VCE_CookNorimakiSimpleBulk.jobString>
+  
+  <!--make uramaki (fine)-->
+  <VCE_CookUramakiFine.label>приготувати урамакі (вишукана страва)</VCE_CookUramakiFine.label>
+  <!--Make uramaki assembled with care from a wide selection of ingredients.-->
+  <VCE_CookUramakiFine.description>Приготувати урамакі із ретельно відібраного асортименту інгредієнтів.</VCE_CookUramakiFine.description>
+  <!--Making uramaki (fine).-->
+  <VCE_CookUramakiFine.jobString>Готує урамакі (вишукана страва).</VCE_CookUramakiFine.jobString>
+  
+  <!--make uramaki (fine) x4-->
+  <VCE_CookUramakiFineBulk.label>приготувати урамакі (вишукана страва) x4</VCE_CookUramakiFineBulk.label>
+  <!--Make 4 uramaki assembled with care from a wide selection of ingredients.-->
+  <VCE_CookUramakiFineBulk.description>Приготувати чотири урамакі із ретельно відібраного асортименту інгредієнтів.</VCE_CookUramakiFineBulk.description>
+  <!--Making uramaki (fine) x4.-->
+  <VCE_CookUramakiFineBulk.jobString>Готує урамакі (вишукана страва) x4.</VCE_CookUramakiFineBulk.jobString>
+  
+  <!--make nigiri (fine)-->
+  <VCE_CookNigiriFine.label>приготувати ніґірі (вишукана страва)</VCE_CookNigiriFine.label>
+  <!--Make nigiri assembled with care from a wide selection of ingredients.-->
+  <VCE_CookNigiriFine.description>Приготувати ніґірі із ретельно відібраного асортименту інгредієнтів.</VCE_CookNigiriFine.description>
+  <!--Making nigiri (fine).-->
+  <VCE_CookNigiriFine.jobString>Готує ніґірі (вишукана страва).</VCE_CookNigiriFine.jobString>
+  
+  <!--make nigiri (fine) x4-->
+  <VCE_CookNigiriFineBulk.label>приготувати ніґірі (вишукана страва) x4</VCE_CookNigiriFineBulk.label>
+  <!--Make 4 nigiri assembled with care from a wide selection of ingredients.-->
+  <VCE_CookNigiriFineBulk.description>Приготувати чотири ніґірі із ретельно відібраного асортименту інгредієнтів.</VCE_CookNigiriFineBulk.description>
+  <!--Making nigiri (fine) x4.-->
+  <VCE_CookNigiriFineBulk.jobString>Готує ніґірі (вишукана страва) x4.</VCE_CookNigiriFineBulk.jobString>
+  
+  <!--make temaki (lavish)-->
+  <VCE_CookTemakiLavish.label>приготувати темакі (делікатес)</VCE_CookTemakiLavish.label>
+  <!--Make a masterpiece of the culinary arts, this temaki nourishes the body, mind, and soul.-->
+  <VCE_CookTemakiLavish.description>Приготувати шедевр кулінарного мистецтва, ці темакі живлять тіло, розум і душу.</VCE_CookTemakiLavish.description>
+  <!--Making temaki (lavish).-->
+  <VCE_CookTemakiLavish.jobString>Готує темакі (делікатес).</VCE_CookTemakiLavish.jobString>
+  
+  <!--make temaki (lavish) x4-->
+  <VCE_CookTemakiLavishBulk.label>приготувати темакі (делікатес) x4</VCE_CookTemakiLavishBulk.label>
+  <!--Make 4 masterpieces of the culinary arts, these temaki nourish the body, mind, and soul.-->
+  <VCE_CookTemakiLavishBulk.description>Приготувати чотири шедевра кулінарного мистецтва, ці темакі живлять тіло, розум і душу.</VCE_CookTemakiLavishBulk.description>
+  <!--Making temaki (lavish) x4.-->
+  <VCE_CookTemakiLavishBulk.jobString>Готує темакі (делікатес) x4.</VCE_CookTemakiLavishBulk.jobString>
+  
+  <!--make futomaki (lavish)-->
+  <VCE_CookFutomakiLavish.label>приготувати футомакі (делікатес)</VCE_CookFutomakiLavish.label>
+  <!--Make a masterpiece of the culinary arts, this futomaki nourishes the body, mind, and soul.-->
+  <VCE_CookFutomakiLavish.description>Приготувати шедевр кулінарного мистецтва, ці футомакі живлять тіло, розум і душу.</VCE_CookFutomakiLavish.description>
+  <!--Making futomaki (lavish).-->
+  <VCE_CookFutomakiLavish.jobString>Готує футомакі (делікатес).</VCE_CookFutomakiLavish.jobString>
+  
+  <!--make futomaki (lavish) x4-->
+  <VCE_CookFutomakiLavishBulk.label>приготувати футомакі (делікатес) x4</VCE_CookFutomakiLavishBulk.label>
+  <!--Make 4 masterpieces of the culinary arts, these futomaki nourish the body, mind, and soul.-->
+  <VCE_CookFutomakiLavishBulk.description>Приготувати чотири шедевра кулінарного мистецтва, ці футомакі живлять тіло, розум і душу.</VCE_CookFutomakiLavishBulk.description>
+  <!--Making futomaki (lavish) x4.-->
+  <VCE_CookFutomakiLavishBulk.jobString>Готує футомакі (делікатес) x4.</VCE_CookFutomakiLavishBulk.jobString>
+  
+  <!--make gunkanmaki (gourmet)-->
+  <VCE_CookGunkanmakiGourmet.label>приготувати ґунканмакі (гурманська страва)</VCE_CookGunkanmakiGourmet.label>
+  <!--Make a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity gunkanmaki.-->
+  <VCE_CookGunkanmakiGourmet.description>Приготувати кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості ґунканмакі.</VCE_CookGunkanmakiGourmet.description>
+  <!--Making gunkanmaki (gourmet).-->
+  <VCE_CookGunkanmakiGourmet.jobString>Готує ґунканмакі (гурманська страва).</VCE_CookGunkanmakiGourmet.jobString>
+  
+  <!--make oshizushi (gourmet)-->
+  <VCE_CookOshizushiiGourmet.label>приготувати ошісуші (гурманська страва)</VCE_CookOshizushiiGourmet.label>
+  <!--Make a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity oshizushi.-->
+  <VCE_CookOshizushiiGourmet.description>Приготувати кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості ошісуші.</VCE_CookOshizushiiGourmet.description>
+  <!--Making oshizushi (gourmet).-->
+  <VCE_CookOshizushiiGourmet.jobString>Готує ошісуші (гурманська страва).</VCE_CookOshizushiiGourmet.jobString>
+  
+  <!--make human "surimi"-->
+  <VCE_MakeHumanSurimi.label>приготувати людські "сурімі"</VCE_MakeHumanSurimi.label>
+  <!--Turn human meat into a nondistinct paste mimicking the texture of lobster, crab, or other shellfish. The taste, though...-->
+  <VCE_MakeHumanSurimi.description>Перетворити людське м'ясо на невиразну пасту, що імітує текстуру лобстера, краба чи інших молюсків. Однак, смакує...</VCE_MakeHumanSurimi.description>
+  <!--Making human "surimi".-->
+  <VCE_MakeHumanSurimi.jobString>Готує людські "сурімі".</VCE_MakeHumanSurimi.jobString>
+</LanguageData>

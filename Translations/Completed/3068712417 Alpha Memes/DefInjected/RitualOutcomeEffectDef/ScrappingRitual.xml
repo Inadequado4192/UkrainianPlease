@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_ScrapRitualOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_ScrapRitualOutcome.description>
+  <AM_ScrapRitualOutcome.outcomeChances.0.label>Жахливо</AM_ScrapRitualOutcome.outcomeChances.0.label>
+  <AM_ScrapRitualOutcome.outcomeChances.0.description>The {0} was terrible. We've learned almost nothing and all the tech was wasted.</AM_ScrapRitualOutcome.outcomeChances.0.description>
+  <AM_ScrapRitualOutcome.outcomeChances.1.label>LackLuster</AM_ScrapRitualOutcome.outcomeChances.1.label>
+  <AM_ScrapRitualOutcome.outcomeChances.1.description>The {0} was mediocre. There was a great deal of waste in the deconstruction process and little was learned.</AM_ScrapRitualOutcome.outcomeChances.1.description>
+  <AM_ScrapRitualOutcome.outcomeChances.2.label>Добре</AM_ScrapRitualOutcome.outcomeChances.2.label>
+  <AM_ScrapRitualOutcome.outcomeChances.2.description>We succesfully extracted both materials and a great deal of knowledge from {0}.</AM_ScrapRitualOutcome.outcomeChances.2.description>
+  <AM_ScrapRitualOutcome.outcomeChances.3.label>Неймовірно</AM_ScrapRitualOutcome.outcomeChances.3.label>
+  <AM_ScrapRitualOutcome.outcomeChances.3.description>The {0} was spectacular. It has progressed our knowledge forward, and a great deal of useable salvage was recovered.</AM_ScrapRitualOutcome.outcomeChances.3.description>
+  <AM_ScrapRitualOutcome.comps.0.label>кількість учасників</AM_ScrapRitualOutcome.comps.0.label>
+  <AM_ScrapRitualOutcome.comps.1.label>Scapper</AM_ScrapRitualOutcome.comps.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: joris affinity -->
+  <AG_JorisAffinity.label>спорідненість з ведмедями</AG_JorisAffinity.label>
+  <!-- EN: Carriers of this gene have a very strange interest in the politics of Old Earth, and polar bears. You'd think the overlap of those two things would be zero, but here we are. -->
+  <AG_JorisAffinity.description>Носії цього гена мають дуже дивний інтерес до політики Старої Землі та білих ведмедів. Здавалося б, перетин цих двох речей дорівнює нулю, але це не так..</AG_JorisAffinity.description>
+  <!-- EN: Begins play with a tamed polar bear. -->
+  <AG_JorisAffinity.customEffectDescriptions.0>Гра починається з прирученим білим ведмедем.</AG_JorisAffinity.customEffectDescriptions.0>
+  <!-- EN: This gene can only be chosen (and only has effects) at character creation. It won't appear during gameplay. -->
+  <AG_JorisAffinity.customEffectDescriptions.1>Цей ген можна вибрати лише під час створення персонажа. Він не з'явиться під час гри.</AG_JorisAffinity.customEffectDescriptions.1>
+  <!-- EN: joris -->
+  <AG_JorisAffinity.symbolPack.prefixSymbols.0.symbol>джоріс</AG_JorisAffinity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: mr. -->
+  <AG_JorisAffinity.symbolPack.prefixSymbols.1.symbol>мр</AG_JorisAffinity.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sam -->
+  <AG_JorisAffinity.symbolPack.prefixSymbols.2.symbol>сем</AG_JorisAffinity.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: rodent affinity -->
+  <AG_RatAffinity.label>спорідненість з гризунами</AG_RatAffinity.label>
+  <!-- EN: Carriers of this gene attract rats, and a tame horde of these critters is constantly surrounding them. -->
+  <AG_RatAffinity.description>Носії цього гена приваблюють щурів, і приручена орда цих тварин постійно оточує їх.</AG_RatAffinity.description>
+  <!-- EN: Begins play with a small horde of 3 tamed rats. -->
+  <AG_RatAffinity.customEffectDescriptions.0>Гра починається з невеликої орди з 3 приручених щурів.</AG_RatAffinity.customEffectDescriptions.0>
+  <!-- EN: This gene can only be chosen (and only has effects) at character creation. It won't appear during gameplay. -->
+  <AG_RatAffinity.customEffectDescriptions.1>Цей ген можна вибрати лише під час створення персонажа. Він не з'явиться під час гри.</AG_RatAffinity.customEffectDescriptions.1>
+  <!-- EN: ratty -->
+  <AG_RatAffinity.symbolPack.prefixSymbols.0.symbol>щурячий</AG_RatAffinity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: pest -->
+  <AG_RatAffinity.symbolPack.prefixSymbols.1.symbol>шкідник</AG_RatAffinity.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: lupine affinity -->
+  <AG_WolfAffinity.label>спорідненість з вовками</AG_WolfAffinity.label>
+  <!-- EN: Carriers of this gene have a mystical psychic bond with a wolf. -->
+  <AG_WolfAffinity.description>Носії цього гена мають містичний психічний зв'язок з вовком.</AG_WolfAffinity.description>
+  <!-- EN: Begins play with a tamed timber wolf. -->
+  <AG_WolfAffinity.customEffectDescriptions.0>Гра починається з прирученим лісовим вовком.</AG_WolfAffinity.customEffectDescriptions.0>
+  <!-- EN: This gene can only be chosen (and only has effects) at character creation. It won't appear during gameplay. -->
+  <AG_WolfAffinity.customEffectDescriptions.1>Цей ген можна вибрати лише під час створення персонажа. Він не з'явиться під час гри.</AG_WolfAffinity.customEffectDescriptions.1>
+  <!-- EN: lupi -->
+  <AG_WolfAffinity.symbolPack.prefixSymbols.0.symbol>лупі</AG_WolfAffinity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: wolven -->
+  <AG_WolfAffinity.symbolPack.prefixSymbols.1.symbol>вовчий</AG_WolfAffinity.symbolPack.prefixSymbols.1.symbol>
+  
+</LanguageData>

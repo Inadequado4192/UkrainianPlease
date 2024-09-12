@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <Tale_UsedPunchingBag.label>використана боксерська груша</Tale_UsedPunchingBag.label>
+  
+  <Tale_UsedPunchingBag.rulePack.rulesStrings>
+	  <li>tale_noun->[PAWN_nameDef] зганяє свою злість на [OBJECT_label]</li>
+	  <li>tale_noun->[PAWN_nameDef] сердито дивиться на [OBJECT_label]</li>
+	  <li>tale_noun->[PAWN_nameDef] розважається за [OBJECT_label]</li>
+	  
+	  <li>image->[PAWN_nameFull] нахилився над [OBJECT_label], [circumstance_group]</li>
+	  <li>image->[PAWN_nameFull] б'є [OBJECT_label], [circumstance_group]</li>
+	  
+	  <li>circumstance_phrase->напружен[PAWN_gender ? ий : а] енергією</li>
+	  <li>circumstance_phrase->[PAWN_possessive] тіло вільне і розслаблене</li>
+	  <li>circumstance_phrase->ніжно масажуючи [PAWN_possessive] зап'ястя</li>
+	  <!--circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression-->
+	  <li>circumstance_phrase->[angstyverb] з виразом обличчя, що виражає [AdjectiveAngsty]</li>
+	  <li>circumstance_phrase->[angstyverb]</li>
+	  
+	  <!--desc_sentence->A [Color] aurora shines in the background.-->
+	  <li>desc_sentence->На задньому плані сяє полярне сяйво з відтінком – [Color].</li>
+	  <li>desc_sentence->Вдалині видніється [Community].</li>
+	  <li>desc_sentence->Вдалині видніється [TerrainFeature].</li>
+	  <li>desc_sentence->[PAWN_nameDef] має дещо гіперболізовані риси обличчя.</li>
+	  <li>desc_sentence->[PAWN_nameDef] височіє над ареною.</li>
+  </Tale_UsedPunchingBag.rulePack.rulesStrings>
+  
+  
+  <Tale_UsedComputer.label>використаний комп'ютер</Tale_UsedComputer.label>
+  
+  <Tale_UsedComputer.rulePack.rulesStrings>
+	  <li>tale_noun->[PAWN_nameDef], зосереджуючи увагу на [OBJECT_label] перед ним</li>
+	  <li>tale_noun->[PAWN_nameDef] злісно дивлячись на [OBJECT_label]</li>
+	  <li>tale_noun->[PAWN_nameDef] розважається за [OBJECT_label]</li>
+	  
+	  <li>image->[PAWN_nameFull] нахилився над [OBJECT_label], [circumstance_group]</li>
+	  <li>image->[PAWN_nameFull] інтенсивно друкує, використовуючи [OBJECT_label], [circumstance_group]</li>
+	  
+	  <li>circumstance_phrase->зосереджується</li>
+	  <li>circumstance_phrase->[PAWN_possessive] тіло вільне і розслаблене</li>
+	  <li>circumstance_phrase->відкинувшись на спинку [PAWN_possessive] стільця</li>
+	  
+	  <li>desc_sentence->На задньому плані сяє полярне сяйво з відтінком – [Color].</li>
+	  <li>desc_sentence->Вдалині видніється [Community].</li>
+	  <li>desc_sentence->Вдалині видніється [TerrainFeature].</li>
+	  <li>desc_sentence->[PAWN_nameDef] сфокусован{PAWN_gender ? ий : а} на екрані.</li>
+	  <li>desc_sentence->[PAWN_nameDef] височіє над сценою.</li>
+  </Tale_UsedComputer.rulePack.rulesStrings>
+</LanguageData>

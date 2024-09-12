@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VAE_Footwear_Boots.label>чоботи</VAE_Footwear_Boots.label>
+  <VAE_Footwear_Boots.description>Пара простих, шкіряних чоботів.</VAE_Footwear_Boots.description>
+
+  <VAE_Footwear_Shoes.label>туфлі</VAE_Footwear_Shoes.label>
+  <VAE_Footwear_Shoes.description>Пара модних, шкіряних туфель.</VAE_Footwear_Shoes.description>
+
+  <VAE_Handwear_Gloves.label>рукавички</VAE_Handwear_Gloves.label>
+  <VAE_Handwear_Gloves.description>Пара простих рукавичок.</VAE_Handwear_Gloves.description>
+
+  <VAE_Apparel_CasualTShirt.label>повсякденна футболка</VAE_Apparel_CasualTShirt.label>
+  <VAE_Apparel_CasualTShirt.description>Повсякденна футболка з прикольною наліпкою.</VAE_Apparel_CasualTShirt.description>
+
+  <VAE_Apparel_Hoodie.label>худі</VAE_Apparel_Hoodie.label>
+  <VAE_Apparel_Hoodie.description>Тепле повсякденне худі, що не сковує рухів.</VAE_Apparel_Hoodie.description>
+
+  <VAE_Apparel_Shorts.label>шорти</VAE_Apparel_Shorts.label>
+  <VAE_Apparel_Shorts.description>Пара шортів, ідеальних для спекотних літніх днів.</VAE_Apparel_Shorts.description>
+
+  <VAE_Apparel_Skirt.label>спідниця</VAE_Apparel_Skirt.label>
+  <VAE_Apparel_Skirt.description>Коротка спідниця.</VAE_Apparel_Skirt.description>
+
+  <VAE_Apparel_ShirtandTie.label>сорочка з краваткою</VAE_Apparel_ShirtandTie.label>
+  <VAE_Apparel_ShirtandTie.description>Гарна сорочка з коміром на ґудзиках і краваткою.</VAE_Apparel_ShirtandTie.description>
+
+  <VAE_Apparel_SuitJacket.label>піджак під костюм</VAE_Apparel_SuitJacket.label>
+  <VAE_Apparel_SuitJacket.description>Гарний піджак під костюм.</VAE_Apparel_SuitJacket.description>
+
+  <VAE_Apparel_Trousers.label>брюки</VAE_Apparel_Trousers.label>
+  <VAE_Apparel_Trousers.description>Гарний комплект брюк під костюм.</VAE_Apparel_Trousers.description>
+
+  <VAE_Headgear_Fedora.label>федора</VAE_Headgear_Fedora.label>
+  <VAE_Headgear_Fedora.description>Приємний на вигляд капелюх з м'якими полями та заглибленим козирком.</VAE_Headgear_Fedora.description>
+
+  <VAE_Apparel_Overalls.label>сільський комбінезон</VAE_Apparel_Overalls.label>
+  <VAE_Apparel_Overalls.description>Сільський комбінезон з нагрудником, який ідеально підходить для роботи на полях.</VAE_Apparel_Overalls.description>
+
+  <VAE_Apparel_FleeceShirt.label>флісова сорочка</VAE_Apparel_FleeceShirt.label>
+  <VAE_Apparel_FleeceShirt.description>М'яка, картата, повітряпроникна сорочка, яка ідеально підходить для роботи на полях.</VAE_Apparel_FleeceShirt.description>
+
+  <VAE_Apparel_Jeans.label>джинси</VAE_Apparel_Jeans.label>
+  <VAE_Apparel_Jeans.description>Пара досить щільних джинсів, щоб забезпечити певний захист від пошкоджень і холоду.</VAE_Apparel_Jeans.description>
+
+  <VAE_Headgear_ChefsToque.label>тока шеф-кухаря</VAE_Headgear_ChefsToque.label>
+  <VAE_Headgear_ChefsToque.description>Високий, круглий, плісирований капелюх, який зазвичай носять шеф-кухарі.</VAE_Headgear_ChefsToque.description>
+
+  <VAE_Apparel_ChefsUniform.label>уніформа шеф-кухаря</VAE_Apparel_ChefsUniform.label>
+  <VAE_Apparel_ChefsUniform.description>Товста тканинна оболонка захищає від жару печей і бризок кип'ятку.</VAE_Apparel_ChefsUniform.description>
+
+  <VAE_Apparel_MilitaryJacket.label>військовий жилет</VAE_Apparel_MilitaryJacket.label>
+  <VAE_Apparel_MilitaryJacket.description>Військовий парадний жилет з цупкої тканини, що використовується для певних церемоній, прийомів та урочистостей. Містить ордени, медалі та бойові стрічки. Вважається символом мужності та доблесті.</VAE_Apparel_MilitaryJacket.description>
+
+  <VAE_Apparel_MilitaryUniform.label>військова уніформа</VAE_Apparel_MilitaryUniform.label>
+  <VAE_Apparel_MilitaryUniform.description>Щільний захисний комбінезон з військовим камуфляжем.</VAE_Apparel_MilitaryUniform.description>
+
+  <VAE_Apparel_BuildersJacket.label>будівельний жилет</VAE_Apparel_BuildersJacket.label>
+  <VAE_Apparel_BuildersJacket.description>Куртка з високими світловідбиваючими властивостями та кольором, який легко виділяється на будь-якому фоні.\n\nБільшість промислових працівників носять її як частину свого індивідуального захисту.</VAE_Apparel_BuildersJacket.description>
+
+  <VAE_Headgear_SurgicalMask.label>хірургічна маска</VAE_Headgear_SurgicalMask.label>
+  <VAE_Headgear_SurgicalMask.description>Санітарна маска, яку носять хірурги, медсестри та інші працівники, які беруть участь у догляді за пацієнтами.</VAE_Headgear_SurgicalMask.description>
+
+  <VAE_Apparel_DoctorScrubs.label>лікарський халат</VAE_Apparel_DoctorScrubs.label>
+  <VAE_Apparel_DoctorScrubs.description>Санітарний одяг, який носять хірурги, медсестри та інші працівники, залучені до догляду за пацієнтами. Він розроблений таким чином, щоб бути простим, легко пратися і дешево замінюватися в разі пошкодження або забруднення.</VAE_Apparel_DoctorScrubs.description>
+
+  <VAE_Apparel_LabCoat.label>лабораторний халат</VAE_Apparel_LabCoat.label>
+  <VAE_Apparel_LabCoat.description>Легке пальто, яке носять для захисту одягу від речовин, що використовуються в лабораторії.</VAE_Apparel_LabCoat.description>
+
+  <VAE_Apparel_TankTop.label>майка</VAE_Apparel_TankTop.label>
+  <VAE_Apparel_TankTop.description>Футболка без рукавів, корисна під час тривалих тренувань.</VAE_Apparel_TankTop.description>
+
+  <VAE_Apparel_SheriffShirt.label>сорочка шерифа</VAE_Apparel_SheriffShirt.label>
+  <VAE_Apparel_SheriffShirt.description>Формальна, щільна сорочка на ґудзиках із зіркою шерифа на грудях. Надає носієві почуття гордості та завершеності.</VAE_Apparel_SheriffShirt.description>
+
+  <VAE_Apparel_Jumpsuit.label>комбінезон</VAE_Apparel_Jumpsuit.label>
+  <VAE_Apparel_Jumpsuit.description>Повноцінний комбінезон, виготовлений зі щільної тканини або шкіри. Чудово підходить для загального захисту тіла та ручної праці.</VAE_Apparel_Jumpsuit.description>
+
+  <VAE_Apparel_Tunic.label>зшита туніка</VAE_Apparel_Tunic.label>
+  <VAE_Apparel_Tunic.description>Трохи важча за звичайну сорочку, туніка чудово захищає від холоду.</VAE_Apparel_Tunic.description>
+
+  <VAE_Apparel_Blouse.label>блузка</VAE_Apparel_Blouse.label>
+  <VAE_Apparel_Blouse.description>Дуже легка і тонка блузка, ідеально підходить для спекотного клімату.</VAE_Apparel_Blouse.description>
+
+  <VAE_Apparel_Apron.label>фартух</VAE_Apparel_Apron.label>
+  <VAE_Apparel_Apron.description>Шкіряний або тканинний фартух, що закриває ноги, талію і груди.\n\nТакий фартух часто використовують майстри, лікарі та кухарі завдяки корисним кишеням і захисту, який він забезпечує.</VAE_Apparel_Apron.description>
+
+  <VAE_Apparel_PeltCoat.label>плащ зі шкури</VAE_Apparel_PeltCoat.label>
+  <VAE_Apparel_PeltCoat.description>Важкий плащ зі шкури тварини, що забезпечує тепло та певний захист.</VAE_Apparel_PeltCoat.description>
+
+  <VAE_Apparel_TribalPoncho.label>племінне пончо</VAE_Apparel_TribalPoncho.label>
+  <VAE_Apparel_TribalPoncho.description>Пончо, шите за допомогою неолітичних інструментів. Хоча воно може виглядати примітивно, та проте ефективно термоізолює носія.</VAE_Apparel_TribalPoncho.description>
+
+  <VAE_Apparel_TribalKilt.label>племінний кілт</VAE_Apparel_TribalKilt.label>
+  <VAE_Apparel_TribalKilt.description>Кілт, шитий за допомогою неолітичних інструментів. Хоча він може виглядати примітивно, та проте ефективно термоізолює носія.</VAE_Apparel_TribalKilt.description>
+
+  <VAE_Headgear_Scarf.label>шарф</VAE_Headgear_Scarf.label>
+  <VAE_Headgear_Scarf.description>Теплий і довгий шматок тканини, що захищає шию від холоду.</VAE_Headgear_Scarf.description>
+
+  <VAE_Headgear_Beret.label>військовий берет</VAE_Headgear_Beret.label>
+  <VAE_Headgear_Beret.description>М'який, плаский капелюх з крислатим верхом. Часто носили військові як символ доблесті.</VAE_Headgear_Beret.description>
+
+  <VAE_Headgear_Hardhat.label>каска</VAE_Headgear_Hardhat.label>
+  <VAE_Headgear_Hardhat.description>Тип шолома, який переважно використовується в робочому середовищі. Забезпечує високий захист від тупих травм.</VAE_Headgear_Hardhat.description>
+
+  <VAE_Headgear_BaseballCap.label>бейсболка</VAE_Headgear_BaseballCap.label>
+  <VAE_Headgear_BaseballCap.description>Тип м'якої кепки з округлою верхівкою і жорстким козирком, що захищає очі від сонця.</VAE_Headgear_BaseballCap.description>
+
+  <VAE_Headgear_Sunglasses.label>сонцезахисні окуляри</VAE_Headgear_Sunglasses.label>
+  <VAE_Headgear_Sunglasses.description>Пара сонцезахисних окулярів, що захищають носія від небезпечного ультрафіолетового випромінювання. Часто вважаються "крутими".</VAE_Headgear_Sunglasses.description>
+
+  <VAE_Headgear_Glasses.label>окуляри</VAE_Headgear_Glasses.label>
+  <VAE_Headgear_Glasses.description>Пара коригувальних окулярів, що забезпечують носіям певний психічний імунітет.</VAE_Headgear_Glasses.description>
+</LanguageData>

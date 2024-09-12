@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Body clock-->
+  <NocturnalAnimals.BodyClock>Час активності</NocturnalAnimals.BodyClock>
+  <!--Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk.-->
+  <NocturnalAnimals.BodyClock_Description>Визначає, коли тварина спить, а коли не спить.\n\nДенні тварини сплять вночі і не сплять вдень, тоді як нічні тварини сплять вдень і не сплять вночі. Сутінкові тварини переважно активні в сутінках.</NocturnalAnimals.BodyClock_Description>
+  <!--Diurnal-->
+  <NocturnalAnimals.BodyClock_Diurnal>Денний</NocturnalAnimals.BodyClock_Diurnal>
+  <!--Nocturnal-->
+  <NocturnalAnimals.BodyClock_Nocturnal>Нічний</NocturnalAnimals.BodyClock_Nocturnal>
+  <!--Crepuscular-->
+  <NocturnalAnimals.BodyClock_Crepuscular>Сутінковий</NocturnalAnimals.BodyClock_Crepuscular>
+</LanguageData>

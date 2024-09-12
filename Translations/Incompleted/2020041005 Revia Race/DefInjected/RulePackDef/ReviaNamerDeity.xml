@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_deityName->[name]</li>
+    <li>name->the [adjective] [noun]</li>
+  -->
+  <ReviaBaseNamerDeity.rulePack.rulesStrings>
+    <li>r_deityName->[name]</li>
+    <li>name->[adjective] [noun]</li>
+  </ReviaBaseNamerDeity.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>adjective->vermillion</li>
+    <li>adjective->scarlet</li>
+    <li>adjective->incarnadine</li>
+    <li>adjective->implacable</li>
+    <li>adjective->stalwart</li>
+    <li>adjective->unyielding</li>
+    <li>noun->rose</li>
+    <li>noun->flower</li>
+    <li>noun->thorns</li>
+    <li>noun->lady</li>
+    <li>noun->maiden</li>
+    <li>noun->mistress</li>
+    <li>noun->flame</li>
+  -->
+  <ReviaHighNamerDeity.rulePack.rulesStrings>
+    <li>adjective->циноброва</li>
+    <li>adjective->багряна</li>
+    <li>adjective->віддана</li>
+    <li>adjective->непримиренна</li>
+    <li>adjective->витривала</li>
+    <li>adjective->непохитна</li>
+    <li>noun->роза</li>
+    <li>noun->квітка</li>
+    <li>noun->леді</li>
+    <li>noun->дівиця</li>
+    <li>noun->господарка</li>
+  </ReviaHighNamerDeity.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>adjective->bloody</li>
+    <li>adjective->scarlet</li>
+    <li>adjective->incarnadine</li>
+    <li>adjective->devouring</li>
+    <li>adjective->destructive</li>
+    <li>adjective->bladed</li>
+    <li>adjective->bone-strewn</li>
+    <li>adjective->gore-draped</li>
+    <li>noun->thorns</li>
+    <li>noun->flower</li>
+    <li>noun->rose</li>
+    <li>noun->flame</li>
+    <li>noun->vixen</li>
+    <li>noun->slayer</li>
+    <li>noun->scourge</li>
+    <li>noun->world-eater</li>
+  -->
+  <ReviaRaiderNamerDeity.rulePack.rulesStrings>
+    <li>adjective->кривава</li>
+    <li>adjective->багряна</li>
+    <li>adjective->віддана</li>
+    <li>adjective->руйнівна</li>
+    <li>adjective->лезова</li>
+    <li>adjective->кісточкова</li>
+    <li>adjective->закривавлена</li>
+    <li>noun->квітка</li>
+    <li>noun->роза</li>
+    <li>noun->лисиця</li>
+    <li>noun->воїтелька</li>
+    <li>noun->вбивця</li>
+  </ReviaRaiderNamerDeity.rulePack.rulesStrings>
+  
+</LanguageData>

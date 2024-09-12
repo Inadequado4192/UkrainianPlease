@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <sticksAndStones.label>Палиці Та Камені</sticksAndStones.label>
+  <sticksAndStones.description>Дослідити всі неолітичні технології</sticksAndStones.description>
+  
+  <outOfTheDarkAges.label>Вихід з Темних Віків</outOfTheDarkAges.label>
+  <outOfTheDarkAges.description>Дослідити всі середньовічні технології</outOfTheDarkAges.description>
+  
+  <industrialRevolution.label>Індустріальна Революція</industrialRevolution.label>
+  <industrialRevolution.description>Дослідити всі індустріальні технології</industrialRevolution.description>
+
+  <offToTheStars.label>Угору До Зірок</offToTheStars.label>
+  <offToTheStars.description>Дослідити всі космічні технології</offToTheStars.description>
+</LanguageData>

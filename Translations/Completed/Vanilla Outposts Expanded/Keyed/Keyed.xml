@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Outposts.Settings.ResearchRate>Швидкість досліджень</Outposts.Settings.ResearchRate>
+  <Outposts.Settings.WorkToDrill>Час буріння (має змінитися до початку видобутку)</Outposts.Settings.WorkToDrill>
+  <Outposts.Settings.Cooldown>Перезарядка</Outposts.Settings.Cooldown>
+  <Outposts.Settings.Shooting>Важливість навички стрільби (чим більша - тим більше матеріалів буде здобуто)</Outposts.Settings.Shooting>
+  <Outposts.Settings.Animals>Важливість навички тваринництва (чим більша - тим більше матеріалів буде здобуто)</Outposts.Settings.Animals>
+  <Outposts.Settings.NeedPods>Чи потрібна технологія транспортних капсул для підкріплень?</Outposts.Settings.NeedPods>
+  <Outposts.Settings.Leather>Множник видобутку шкіри</Outposts.Settings.Leather>
+  <Outposts.Settings.Meat>Множник видобутку м'яса</Outposts.Settings.Meat>
+  <Outposts.Settings.DoIntercept>Перехоплювати рейди?</Outposts.Settings.DoIntercept>
+  <Outposts.Settings.InterceptDifficultyMultiplier>Множник труднощів перехоплення</Outposts.Settings.InterceptDifficultyMultiplier>
+  <Outposts.Settings.InterceptDifficultyMultiplierTooltip>Це накладається на ваш глобальний модифікатор складності, і перехоплення вже є складнішим, ніж звичайні оборонні рейди. Збільшуйте значення на свій страх і ризик</Outposts.Settings.InterceptDifficultyMultiplierTooltip>
+  <Outposts.Settings.Chance>Мультиплікатор шансу рекрутування</Outposts.Settings.Chance>
+  <Outposts.Settings.NeedFuel>Транспортним капсулам треба паливо?</Outposts.Settings.NeedFuel>
+  <Outposts.Settings.NeedFuelAmount>Кількість палива</Outposts.Settings.NeedFuelAmount>
+  <Outposts.Commands.Fire.Label>Артилерійський Удар</Outposts.Commands.Fire.Label>
+  <Outposts.Commands.Fire.Desc>Почати прицілювання для артилерійського удару</Outposts.Commands.Fire.Desc>
+  <Outposts.Commands.Disabled.Cooldown>Досі перезаряджається</Outposts.Commands.Disabled.Cooldown>
+  <Outposts.Cooldown>Перезарядка: залишилось {0}</Outposts.Cooldown>
+  <Outposts.Letters.Intercept.Label>Рейд перехоплено</Outposts.Letters.Intercept.Label>
+  <Outposts.Letters.Intercept.Text>Рейдерів, що прямували до {0}, перехопили біля оборонної застави {1}. Сподіваємось, наші воїни зможуть пережити цей сміливий маневр.</Outposts.Letters.Intercept.Text>
+  <Outposts.Intercept.Title>Застава перехоплює рейд</Outposts.Intercept.Title>
+  <Outposts.Intercept.CanIntercept>Захисники із застави {0} виявили рейдерів {1}, що рухаються до {2}! \n\nВони зайняли позиції, щоб влаштувати засідку на частину нападників, яка, у разі успіху, повинна змусити решту розбігтися і повернутися назад. Їхня попередня оцінка складу нападників така: \n{3}</Outposts.Intercept.CanIntercept>
+  <Outposts.Intercept.InterceptRaid>Маневруйте і перехопіть нападників</Outposts.Intercept.InterceptRaid>
+  <Outposts.Intercept.DontIntercept>Відбій. Повертайтеся на пост</Outposts.Intercept.DontIntercept>
+  <Outposts.Commands.Deploy.Label>Надіслати підкріплення</Outposts.Commands.Deploy.Label>
+  <Outposts.Commands.Deploy.Desc>Розгорнути гарнізон цієї застави в транспортних капсулах, щоб допомогти одному з ваших поселень в битві.</Outposts.Commands.Deploy.Desc>
+  <Outposts.Commands.Deploy.Disabled>Неможливо відправити - вам невідома технологія транспортних капсул</Outposts.Commands.Deploy.Disabled>
+  <Outposts.Commands.Deploy.Only1>Неможливо відправити останнього захисника</Outposts.Commands.Deploy.Only1>
+  <Outposts.Commands.Deploy.NotEnoughFuel>Неможливо відправити через брак палива</Outposts.Commands.Deploy.NotEnoughFuel>
+  <Outposts.Drilling>Буріння свердловин. Готово на {0}. Залишилось приблизно часу: {1}</Outposts.Drilling>
+  <Outposts.MustBeMade>Застава має бути розміщена на наступному ландшафті: {0}</Outposts.MustBeMade>
+  <Outposts.MustBeMade.Hill>Застава має бути розміщена на пагорбах або в горах</Outposts.MustBeMade.Hill>
+  <Outposts.SkillTooLow>Сума профільної навички занизька, треба {0}</Outposts.SkillTooLow>
+  <Outposts.NearbySettlements>Недостатньо поселень поблизу, треба щонайменше {0} в межах {1} тайлів</Outposts.NearbySettlements>
+  <Outposts.Letters.Recruit.Label>Рекрутовано: {0}</Outposts.Letters.Recruit.Label>
+  <Outposts.Letters.Recruit.Desc>Нещодавно, наше містечко {0} залучило до нас новенького:\n{1}</Outposts.Letters.Recruit.Desc>
+  <Outposts.Commands.Factory.Label>Вибрати завод</Outposts.Commands.Factory.Label>
+  <Outposts.Commands.Factory.Desc>Змінити завод, який буде використовати застава для виробництва предметів</Outposts.Commands.Factory.Desc>
+  <Outposts.Commands.Comb.Label>Вибрати продукт</Outposts.Commands.Comb.Label>
+  <Outposts.Commands.Comb.Desc>Вибрати продукт, який буде виготовляти застава</Outposts.Commands.Comb.Desc>
+  <Outposts.MustBeOnCoastOrRiver>Застава має бути розміщена на узбережжі або річці</Outposts.MustBeOnCoastOrRiver>
+  <Outposts.MustBeArmed>Всі поселенці мають бути озброєними та готові до бою.</Outposts.MustBeArmed>
+  <Outposts.WillProduce.Pawns>Може залучити нового жителя через {0}</Outposts.WillProduce.Pawns>
+  <Outposts.Defensive.Won.Label>Засідку виграно</Outposts.Defensive.Won.Label>
+  <Outposts.Defensive.Won.Desc>Ваші солдати успішно розгромили напад ще до того, як він встиг дістатися до вашого поселення. {0}</Outposts.Defensive.Won.Desc>
+  <Outposts.Defensive.Lost.Label>Засідку програно</Outposts.Defensive.Lost.Label>
+  <Outposts.Defensive.Lost.Desc>Ваші солдати зазнали поразки, намагаючись перехопити рейдів, прямуючих на ваше поселення. На щастя, нападники були збентежені вашою зухвалістю і вирішили повернутися додому, не продовжуючи свій напад. Жертва ваших солдатів не була марною.</Outposts.Defensive.Lost.Desc>
+</LanguageData>

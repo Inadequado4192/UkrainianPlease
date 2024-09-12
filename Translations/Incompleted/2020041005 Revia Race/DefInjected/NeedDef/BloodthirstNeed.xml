@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bloodthirst -->
+  <ReviaRaceBloodthirstNeed.label>кровожерливість</ReviaRaceBloodthirstNeed.label>
+  <!-- EN: This pawn feels as though a day gone by without fighting is a day wasted. Fighting and/or killing enemies will satisfy this need. -->
+  <ReviaRaceBloodthirstNeed.description>Цей пішак відчуває, що день, прожитий без бою - це день, змарнований даремно. Боротьба або вбивство ворогів задовольнить цю потребу.</ReviaRaceBloodthirstNeed.description>
+  
+</LanguageData>

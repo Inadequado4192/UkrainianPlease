@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_Violence_Abhorrent_Strict.label>заборонено</AM_Violence_Abhorrent_Strict.label>
+  <AM_Violence_Abhorrent_Strict.description>Прагніть до миру всередині себе. Відмовляйтеся відповідати на провокації та насильство. Сповідувати ненасильство язиком і серцем.\n\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;\n - Всі особи, що приєднуються до цієї ідеології, дають урочисту клятву ненасильства.\n - Єдиним дозволеним психічним відпочинком є психотичні блукання.\n - Колоністи отримають негативний настрій, якщо на колонії відбудуться БУДЬ-ЯКІ людські жертви.</AM_Violence_Abhorrent_Strict.description>
+
+
+</LanguageData>

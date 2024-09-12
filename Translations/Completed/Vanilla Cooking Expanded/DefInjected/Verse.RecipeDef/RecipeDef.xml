@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--cook simple bake x2-->
+  <VCE_CookBakeSimple.label>приготувати просту випічку x2</VCE_CookBakeSimple.label>
+  <!--Cook two simple bakes quickly cooked from flour.-->
+  <VCE_CookBakeSimple.description>Приготуйте дві прості випічки, які швидко печуться із борошна.</VCE_CookBakeSimple.description>
+  <!--Cooking simple bake x2.-->
+  <VCE_CookBakeSimple.jobString>Готує просту випічку x2.</VCE_CookBakeSimple.jobString>
+  
+  <!--cook simple bake x8-->
+  <VCE_CookBakeSimpleBulk.label>приготувати просту випічку x8</VCE_CookBakeSimpleBulk.label>
+  <!--Cook 8 simple bakes quickly cooked from flour.-->
+  <VCE_CookBakeSimpleBulk.description>Приготуйте вісім простих випічок, які швидко печуться із борошна.</VCE_CookBakeSimpleBulk.description>
+  <!--Cooking simple bake x8.-->
+  <VCE_CookBakeSimpleBulk.jobString>Готує просту випічку x8.</VCE_CookBakeSimpleBulk.jobString>
+  
+  <!--cook fine bake x2-->
+  <VCE_CookBakeFine.label>приготувати вишукану випічку x2</VCE_CookBakeFine.label>
+  <!--Cook two complex bakes assembled with care from a wide selection of ingredients and flour.-->
+  <VCE_CookBakeFine.description>Приготуйте дві складні випічки, із ретельно відібраного асортименту інгредієнтів та борошна.</VCE_CookBakeFine.description>
+  <!--Cooking fine bake x2.-->
+  <VCE_CookBakeFine.jobString>Готує вишукану випічку x2.</VCE_CookBakeFine.jobString>
+  
+  <!--cook fine bake x8-->
+  <VCE_CookBakeFineBulk.label>приготувати вишукану випічку x8</VCE_CookBakeFineBulk.label>
+  <!--Cook 8 complex bakes assembled with care from a wide selection of ingredients and flour.-->
+  <VCE_CookBakeFineBulk.description>Приготуйте вісім складних випічок, із ретельно відібраного асортименту інгредієнтів та борошна.</VCE_CookBakeFineBulk.description>
+  <!--Cooking fine bake x8.-->
+  <VCE_CookBakeFineBulk.jobString>Готує вишукану випічку x8.</VCE_CookBakeFineBulk.jobString>
+  
+  <!--cook lavish bake x2-->
+  <VCE_CookBakeLavish.label>приготувати розкішну випічку x2</VCE_CookBakeLavish.label>
+  <!--Cook two masterpieces of the culinary arts, these bakes nourish the body, mind, and soul.-->
+  <VCE_CookBakeLavish.description>Приготуйте два шедеври кулінарного мистецтва, ця випічка живитиме тіло, розум і душу.</VCE_CookBakeLavish.description>
+  <!--Cooking lavish bake x2.-->
+  <VCE_CookBakeLavish.jobString>Готує розкішну випічку x2.</VCE_CookBakeLavish.jobString>
+  
+  <!--cook lavish bake x8-->
+  <VCE_CookBakeLavishBulk.label>приготувати розкішну випічку x8</VCE_CookBakeLavishBulk.label>
+  <!--Cook 8 masterpieces of the culinary arts, these bakes nourish the body, mind, and soul.-->
+  <VCE_CookBakeLavishBulk.description>Приготуйте вісім шедеврів кулінарного мистецтва, ця випічка живитиме тіло, розум і душу.</VCE_CookBakeLavishBulk.description>
+  <!--Cooking lavish bake x8.-->
+  <VCE_CookBakeLavishBulk.jobString>Готує розкішну випічку x8.</VCE_CookBakeLavishBulk.jobString>
+  
+  <!--cook gourmet bake x2-->
+  <VCE_CookBakeGourmet.label>приготувати гурманську випічку x2</VCE_CookBakeGourmet.label>
+  <!--Cook two culinary works of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity bake.\n\nThis recipe does not allow mixed ingredients.-->
+  <VCE_CookBakeGourmet.description>Приготуйте два кулінарні витвори мистецтва, що характеризуються вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості випічки.\n\nЦей рецепт не дозволяє змішувати інгредієнти.</VCE_CookBakeGourmet.description>
+  <!--Cooking gourmet bake x2.-->
+  <VCE_CookBakeGourmet.jobString>Готує гурманську випічку x2.</VCE_CookBakeGourmet.jobString>
+  
+  <!--can meats x20-->
+  <VCE_CanMeats.label>законсервувати м'ясо x20</VCE_CanMeats.label>
+  <!--Safely store meat chunks in a steel can. Canning food extends its shelf life almost indefinitely.-->
+  <VCE_CanMeats.description>Збережіть м'ясні шматочки в сталевій банці. Консервування продуктів подовжує термін їх зберігання майже на невизначений час.</VCE_CanMeats.description>
+  <!--Canning meats.-->
+  <VCE_CanMeats.jobString>Консервує м'ясо.</VCE_CanMeats.jobString>
+  
+  <!--can produce x20-->
+  <VCE_CanProduce.label>законсервувати овочі x20</VCE_CanProduce.label>
+  <!--Safely store vegetables in a steel can. Canning food extends its shelf life almost indefinitely.-->
+  <VCE_CanProduce.description>Збережіть шматочки овочів в сталевій банці. Консервування продуктів подовжує термін їх зберігання майже на невизначений час.</VCE_CanProduce.description>
+  <!--Canning produce.-->
+  <VCE_CanProduce.jobString>Консервує овочі.</VCE_CanProduce.jobString>
+  
+  <!--can fruit x20-->
+  <VCE_CanFruit.label>законсервувати фрукти x20</VCE_CanFruit.label>
+  <!--Safely store fruit in a steel can. Canning food extends its shelf life almost indefinitely.\n\nPreserved fruit can be used in the production of desserts.-->
+  <VCE_CanFruit.description>Збережіть фруктові шматочки в сталевій банці. Консервування продуктів подовжує термін їх зберігання майже на невизначений час.\n\nКонсервовані фрукти можна використовувати у виробництві десертів.</VCE_CanFruit.description>
+  <!--Canning fruit.-->
+  <VCE_CanFruit.jobString>Консервує фрукти.</VCE_CanFruit.jobString>
+  
+  <!--can eggs x20-->
+  <VCE_CanEggs.label>законсервувати яйця x20</VCE_CanEggs.label>
+  <!--Safely store boiled eggs in a steel can. Canning food extends its shelf life almost indefinitely.-->
+  <VCE_CanEggs.description>Збережіть варені яйця в сталевій банці. Консервування продуктів подовжує термін їх зберігання майже на невизначений час.</VCE_CanEggs.description>
+  <!--Canning eggs.-->
+  <VCE_CanEggs.jobString>Консервує яйця.</VCE_CanEggs.jobString>
+  
+  <!--mix condiments into kibble-->
+  <VCE_ChopCondiments.label>змішати приправи в гранулят</VCE_ChopCondiments.label>
+  <!--Mix a batch of different condiments into a barely edible organic mass that can be fed to animals. Still better than supermarket pet food.-->
+  <VCE_ChopCondiments.description>Змішайте партію різних приправ на ледь їстівну органічну масу, яку можна згодовувати тваринам. Це все одно краще, ніж корм для домашніх тварин із супермаркету.</VCE_ChopCondiments.description>
+  <!--Mixing condiments into kibble.-->
+  <VCE_ChopCondiments.jobString>Змішує приправи в гранулят.</VCE_ChopCondiments.jobString>
+  
+  <!--make salt-->
+  <VCE_MakeSalt.label>зробити сіль</VCE_MakeSalt.label>
+  <!--Grind and process natural stone to extract edible salts from within stone chunks.\n\nUses the Cooking skill.-->
+  <VCE_MakeSalt.description>Відшліфувати та обробити природний камінь, щоб видобути з нього їстівні солі.\n\nВикористовує навичку Кулінарії.</VCE_MakeSalt.description>
+  <!--Making salt.-->
+  <VCE_MakeSalt.jobString>Робить сіль.</VCE_MakeSalt.jobString>
+  
+  <!--make salt (blocks)-->
+  <VCE_MakeSaltfromBlocks.label>зробити сіль (блоки)</VCE_MakeSaltfromBlocks.label>
+  <!--Grind and process natural stone to extract edible salts from within stone blocks.\n\nUses the Cooking skill.-->
+  <VCE_MakeSaltfromBlocks.description>Відшліфувати та обробити кам'яні блоки, щоб видобути з них їстівні солі.\n\nВикористовує навичку Кулінарії.</VCE_MakeSaltfromBlocks.description>
+  <!--Making salt from blocks.-->
+  <VCE_MakeSaltfromBlocks.jobString>Робить сіль з блоків.</VCE_MakeSaltfromBlocks.jobString>
+  
+  <!--make agave nectar-->
+  <VCE_AgaveNectar.label>зробити нектар агави</VCE_AgaveNectar.label>
+  <!--Create agave nectar from agave. Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties.-->
+  <VCE_AgaveNectar.description>Створіть нектар агави. Нектар агави – це рідкий і напівсолодкий нектар, відомий своїми цілющими та протизапальними властивостями.</VCE_AgaveNectar.description>
+  <!--Making agave nectar.-->
+  <VCE_AgaveNectar.jobString>Робить нектар агави.</VCE_AgaveNectar.jobString>
+  
+  <!--make insect jelly preserves-->
+  <VCE_InsectJellyPreserves.label>зробити желейне варення</VCE_InsectJellyPreserves.label>
+  <!--Create insect jelly preserves from insect jelly. Very rich and sweet, while being surprisingly healthy.-->
+  <VCE_InsectJellyPreserves.description>Створіть варення з комашиного желе. Дуже насичене і солодке, але напрочуд корисне.</VCE_InsectJellyPreserves.description>
+  <!--Making insect jelly preserves.-->
+  <VCE_InsectJellyPreserves.jobString>Робить желейне варення.</VCE_InsectJellyPreserves.jobString>
+  
+  <!--make mayo-->
+  <VCE_Mayo.label>зробити майонез</VCE_Mayo.label>
+  <!--Create mayo from eggs. A thick emulsion of egg, oil, and other herbs. Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense.-->
+  <VCE_Mayo.description>Зробити майонез із яєць. Майонез – це густа емульсія з яйця, олії та інших трав. Майонез, хоч і жахливий для організму, але додає приємного присмаку і дуже калорійний.</VCE_Mayo.description>
+  <!--Making mayo.-->
+  <VCE_Mayo.jobString>Робить майонез.</VCE_Mayo.jobString>
+  
+  <!--make smokeleaf butter-->
+  <VCE_SmokeleafButter.label>зробити масло з димолисту</VCE_SmokeleafButter.label>
+  <!--Create smokeleaf butter from smokeleaf and milk. A thickened, fatty substance made by churning milk into very thick cream, combining with smokeleaf oil and allowing it to set. Very unhealthy and hits quite a bit harder than a joint.-->
+  <VCE_SmokeleafButter.description>Зробити масло з димолисту та молока. Масло з димолисту – загусла, жирна речовина, яку виготовляють шляхом збивання молока до дуже густих вершків, поєднуючи з олією димолисту і даючи їй застигнути. Дуже шкідливе для здоров'я.</VCE_SmokeleafButter.description>
+  <!--Making smokeleaf butter.-->
+  <VCE_SmokeleafButter.jobString>Робить масло з димолисту.</VCE_SmokeleafButter.jobString>
+  
+  <!--make chocolate syrup-->
+  <VCE_ChocolateSyrup.label>зробити шоколадний сироп</VCE_ChocolateSyrup.label>
+  <!--Create chocolate syrup from genetically modified chocolate. While still not good for you, chocolate syrup is not quite as bad as straight sugar.-->
+  <VCE_ChocolateSyrup.description>Зробити шоколадний сироп із генномодифікованого шоколаду. Хоча шоколадний сироп і не є корисним, він не такий шкідливий, як звичайний цукор.</VCE_ChocolateSyrup.description>
+  <!--Making chocolate syrup.-->
+  <VCE_ChocolateSyrup.jobString>Робить шоколадний сироп.</VCE_ChocolateSyrup.jobString>
+  
+  <!--cook simple dessert-->
+  <VCE_CookDessertSimple.label>приготувати простий десерт</VCE_CookDessertSimple.label>
+  <!--Cook a simple dessert quickly made from a few fruits and other ingredients.-->
+  <VCE_CookDessertSimple.description>Приготувати простий десерт, який швидко готується з кількох фруктів та інших інгредієнтів.</VCE_CookDessertSimple.description>
+  <!--Cooking simple dessert.-->
+  <VCE_CookDessertSimple.jobString>Готує простий десерт.</VCE_CookDessertSimple.jobString>
+  
+  <!--cook simple dessert x4-->
+  <VCE_CookDessertSimpleBulk.label>приготувати простий десерт x4</VCE_CookDessertSimpleBulk.label>
+  <!--Cook 4 simple desserts quickly made from a few fruits and other ingredients.-->
+  <VCE_CookDessertSimpleBulk.description>Приготувати чотири простих десертів, який швидко готується з кількох фруктів та інших інгредієнтів.</VCE_CookDessertSimpleBulk.description>
+  <!--Cooking simple dessert x4.-->
+  <VCE_CookDessertSimpleBulk.jobString>Готує простий десерт x4.</VCE_CookDessertSimpleBulk.jobString>
+  
+  <!--cook fine dessert-->
+  <VCE_CookDessertFine.label>приготувати вишуканий десерт</VCE_CookDessertFine.label>
+  <!--Cook a complex dessert assembled with care from a wide selection of ingredients.\n\nNote that because Chocolate has 0.10 nutrition per unit, some of it will be wasted while cooking this recipe. Consider using the bulk (x4) version of this recipe instead to avoid wastage.-->
+  <VCE_CookDessertFine.description>Приготувати складний десерт, із ретельно відібраного асортименту інгредієнтів.\n\nЗверніть увагу, що оскільки Шоколад має 0,10 поживних речовин на одиницю, частина з них буде втрачена під час приготування цього рецепта. Щоб уникнути втрат, використовуйте більшу версію (x4) цього рецепта.</VCE_CookDessertFine.description>
+  <!--Cooking fine dessert.-->
+  <VCE_CookDessertFine.jobString>Готує вишуканий десерт.</VCE_CookDessertFine.jobString>
+  
+  <!--cook fine dessert x4-->
+  <VCE_CookDessertFineBulk.label>приготувати вишуканий десерт x4</VCE_CookDessertFineBulk.label>
+  <!--Cook 4 complex desserts assembled with care from a wide selection of ingredients.-->
+  <VCE_CookDessertFineBulk.description>Приготувати чотири складних десертів, із ретельно відібраного асортименту інгредієнтів.</VCE_CookDessertFineBulk.description>
+  <!--Cooking fine dessert x4.-->
+  <VCE_CookDessertFineBulk.jobString>Готує вишуканий десерт x4.</VCE_CookDessertFineBulk.jobString>
+  
+  <!--cook lavish dessert-->
+  <VCE_CookDessertLavish.label>приготувати розкішний десерт</VCE_CookDessertLavish.label>
+  <!--Cook a masterpiece of the culinary arts, this dessert nourishes the body, mind, and soul.\n\nNote that because Chocolate has 0.10 nutrition per unit, some of it will be wasted while cooking this recipe. Consider using the bulk (x4) version of this recipe instead to avoid wastage.-->
+  <VCE_CookDessertLavish.description>Приготувати шедевр кулінарного мистецтва, цей десерт живить тіло, розум і душу.\n\nЗверніть увагу, що оскільки Шоколад має 0,10 поживних речовин на одиницю, частина з них буде втрачена під час приготування цього рецепта. Щоб уникнути втрат, використовуйте більшу версію (x4) цього рецепта.</VCE_CookDessertLavish.description>
+  <!--Cooking lavish dessert.-->
+  <VCE_CookDessertLavish.jobString>Готує розкішний десерт.</VCE_CookDessertLavish.jobString>
+  
+  <!--cook lavish dessert x4-->
+  <VCE_CookDessertLavishBulk.label>приготувати розкішний десерт x4</VCE_CookDessertLavishBulk.label>
+  <!--Cook 4 masterpieces of the culinary arts, this dessert nourishes the body, mind, and soul.-->
+  <VCE_CookDessertLavishBulk.description>Приготувати чотири шедевра кулінарного мистецтва, цей десерт живить тіло, розум і душу.</VCE_CookDessertLavishBulk.description>
+  <!--Cooking lavish dessert x4.-->
+  <VCE_CookDessertLavishBulk.jobString>Готує розкішний десерт x4.</VCE_CookDessertLavishBulk.jobString>
+  
+  <!--cook gourmet dessert-->
+  <VCE_CookDessertGourmet.label>приготувати гурманський десерт</VCE_CookDessertGourmet.label>
+  <!--Cook a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity dessert.-->
+  <VCE_CookDessertGourmet.description>Приготувати кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості десерту.</VCE_CookDessertGourmet.description>
+  <!--Cooking gourmet dessert.-->
+  <VCE_CookDessertGourmet.jobString>Готує гурманський десерт.</VCE_CookDessertGourmet.jobString>
+  
+  <!--deep fry meats x20-->
+  <VCE_DeepFryMeats.label>посмажити м'ясо у фритюрі x20</VCE_DeepFryMeats.label>
+  <!--Deep fry large meat chunks. Deep fried food is very tasty, but not very good for your health.-->
+  <VCE_DeepFryMeats.description>Посмажити великі шматки м'яса у фритюрі. Смажена у фритюрі їжа дуже смачна, але не дуже корисна для здоров'я.</VCE_DeepFryMeats.description>
+  <!--Deep frying meats.-->
+  <VCE_DeepFryMeats.jobString>Смаже м'ясо у фритюрі.</VCE_DeepFryMeats.jobString>
+  
+  <!--deep fry vegetables x20-->
+  <VCE_DeepFryVegetables.label>посмажити овочі у фритюрі x20</VCE_DeepFryVegetables.label>
+  <!--Deep fry vegetables. Deep fried food is very tasty, but not very good for your health.-->
+  <VCE_DeepFryVegetables.description>Посмажити овочі у фритюрі. Смажена у фритюрі їжа дуже смачна, але не дуже корисна для здоров'я.</VCE_DeepFryVegetables.description>
+  <!--Deep frying vegetables.-->
+  <VCE_DeepFryVegetables.jobString>Смаже овочі у фритюрі.</VCE_DeepFryVegetables.jobString>
+  
+  <!--cook simple grill-->
+  <VCE_CookGrillSimple.label>приготувати просте м'ясо на грилі</VCE_CookGrillSimple.label>
+  <!--Cook two simple grills quickly cooked from a few meat ingredients.-->
+  <VCE_CookGrillSimple.description>Приготувати дві простих страви на грилі, які швидко готуються з кількох м'ясних інгредієнтів.</VCE_CookGrillSimple.description>
+  <!--Cooking simple grill.-->
+  <VCE_CookGrillSimple.jobString>Готує просте м'ясо на грилі.</VCE_CookGrillSimple.jobString>
+  
+  <!--cook simple grill x4-->
+  <VCE_CookGrillSimpleBulk.label>приготувати просте м'ясо на грилі x4</VCE_CookGrillSimpleBulk.label>
+  <!--Cook 4 simple grills quickly cooked from a few meat ingredients.-->
+  <VCE_CookGrillSimpleBulk.description>Приготувати чотири простих страви на грилі, які швидко готуються з кількох м'ясних інгредієнтів.</VCE_CookGrillSimpleBulk.description>
+  <!--Cooking simple grill x4.-->
+  <VCE_CookGrillSimpleBulk.jobString>Готує просте м'ясо на грилі x4.</VCE_CookGrillSimpleBulk.jobString>
+  
+  <!--cook fine grill-->
+  <VCE_CookGrillFine.label>приготувати вишукане м'ясо на грилі</VCE_CookGrillFine.label>
+  <!--Cook a complex grill assembled with care from a wide selection of ingredients.-->
+  <VCE_CookGrillFine.description>Приготувати складну страву із м'яса на грилі, із ретельно відібраного асортименту інгредієнтів.</VCE_CookGrillFine.description>
+  <!--Cooking fine grill.-->
+  <VCE_CookGrillFine.jobString>Готує вишукане м'ясо на грилі.</VCE_CookGrillFine.jobString>
+  
+  <!--cook fine grill x4-->
+  <VCE_CookGrillFineBulk.label>приготувати вишукане м'ясо на грилі x4</VCE_CookGrillFineBulk.label>
+  <!--Cook 4 complex grills assembled with care from a wide selection of ingredients.-->
+  <VCE_CookGrillFineBulk.description>Приготувати чотири складних страв із м'яса на грилі, із ретельно відібраного асортименту інгредієнтів.</VCE_CookGrillFineBulk.description>
+  <!--Cooking fine grill x4.-->
+  <VCE_CookGrillFineBulk.jobString>Готує вишукане м'ясо на грилі x4.</VCE_CookGrillFineBulk.jobString>
+  
+  <!--cook lavish grill-->
+  <VCE_CookGrillLavish.label>приготувати розкішне м'ясо на грилі</VCE_CookGrillLavish.label>
+  <!--Cook a masterpiece of the culinary arts, this grill nourishes the body, mind, and soul.-->
+  <VCE_CookGrillLavish.description>Приготувати шедевр кулінарного мистецтва, цей гриль живить тіло, розум і душу.</VCE_CookGrillLavish.description>
+  <!--Cooking lavish grill.-->
+  <VCE_CookGrillLavish.jobString>Готує розкішне м'ясо на грилі.</VCE_CookGrillLavish.jobString>
+  
+  <!--cook lavish grill x4-->
+  <VCE_CookGrillLavishhBulk.label>приготувати розкішне м'ясо на грилі x4</VCE_CookGrillLavishhBulk.label>
+  <!--Cook 4 masterpieces of the culinary arts, these grills nourish the body, mind, and soul.-->
+  <VCE_CookGrillLavishhBulk.description>Приготувати чотири шедевра кулінарного мистецтва, цей гриль живить тіло, розум і душу.</VCE_CookGrillLavishhBulk.description>
+  <!--Cooking lavish grill x4.-->
+  <VCE_CookGrillLavishhBulk.jobString>Готує розкішне м'ясо на грилі x4.</VCE_CookGrillLavishhBulk.jobString>
+  
+  <!--cook gourmet grill-->
+  <VCE_CookGrillGourmet.label>приготувати гурманське м'ясо на грилі</VCE_CookGrillGourmet.label>
+  <!--Cook a culinary works of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity grill.-->
+  <VCE_CookGrillGourmet.description>Приготувати кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості м'яса.</VCE_CookGrillGourmet.description>
+  <!--Cooking gourmet grill.-->
+  <VCE_CookGrillGourmet.jobString>Готує гурманське м'ясо на грилі.</VCE_CookGrillGourmet.jobString>
+  
+  <!--cook gourmet meal-->
+  <VCE_CookMealGourmet.label>приготувати гурманську страву</VCE_CookMealGourmet.label>
+  <!--Cook a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity meal.-->
+  <VCE_CookMealGourmet.description>Приготувати кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості їжі.</VCE_CookMealGourmet.description>
+  <!--Cooking gourmet meal.-->
+  <VCE_CookMealGourmet.jobString>Готує гурманську страву.</VCE_CookMealGourmet.jobString>
+  
+  <!--prepare simple soup-->
+  <VCE_CookSoupSimple.label>приготувати простий суп</VCE_CookSoupSimple.label>
+  <!--Prepare a simple uncooked soup quickly made from a few ingredients.-->
+  <VCE_CookSoupSimple.description>Приготувати простий суп, приготований на повільному вогні з кількох інгредієнтів.</VCE_CookSoupSimple.description>
+  <!--Preparing simple soup.-->
+  <VCE_CookSoupSimple.jobString>Готує простий суп.</VCE_CookSoupSimple.jobString>
+  
+  <!--prepare fine soup-->
+  <VCE_CookSoupFine.label>приготувати вишуканий суп</VCE_CookSoupFine.label>
+  <!--Prepare a fine uncooked soup assembled with care from a wide selection of ingredients.-->
+  <VCE_CookSoupFine.description>Приготувати складний суп, виготовлений із ретельно відібраного асортименту інгредієнтів.</VCE_CookSoupFine.description>
+  <!--Preparing fine soup.-->
+  <VCE_CookSoupFine.jobString>Готує вишуканий суп.</VCE_CookSoupFine.jobString>
+  
+  <!--prepare lavish soup-->
+  <VCE_CookSoupLavish.label>приготувати розкішний суп</VCE_CookSoupLavish.label>
+  <!--Prepare a lavish uncooked soup. A masterpiece of the culinary arts, this soup nourishes the body, mind, and soul.-->
+  <VCE_CookSoupLavish.description>Приготувати шедевр кулінарного мистецтва, цей суп живить тіло, розум і душу.</VCE_CookSoupLavish.description>
+  <!--Preparing lavish soup.-->
+  <VCE_CookSoupLavish.jobString>Готує розкішний суп.</VCE_CookSoupLavish.jobString>
+  
+  <!--prepare gourmet soup-->
+  <VCE_CookSoupGourmet.label>приготувати гурманський суп</VCE_CookSoupGourmet.label>
+  <!--Prepare a gourmet uncooked soup. A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity soup.\n\nThis recipe does not allow mixed ingredients, and takes a long time to make.-->
+  <VCE_CookSoupGourmet.description>Приготувати кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості супу.\n\nЦей рецепт не допускає змішування інгредієнтів і вимагає багато часу для приготування.</VCE_CookSoupGourmet.description>
+  <!--Preparing gourmet soup.-->
+  <VCE_CookSoupGourmet.jobString>Готує гурманський суп.</VCE_CookSoupGourmet.jobString>
+</LanguageData>

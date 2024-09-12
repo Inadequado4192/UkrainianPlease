@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decreased command range -->
+  <AG_DecreasedCommandRange.label>зменшена дальність командування</AG_DecreasedCommandRange.label>
+  <!-- EN: This person has a decreased range when commanding drafted mechanoids. -->
+  <AG_DecreasedCommandRange.description>Ця людина має зменшений радіус дії при командуванні мобілізованими механоідами.</AG_DecreasedCommandRange.description>
+  
+  <!-- EN: increased command range -->
+  <AG_IncreasedCommandRange.label>збільшена дальність командування</AG_IncreasedCommandRange.label>
+  <!-- EN: This person has an increased range when commanding drafted mechanoids. -->
+  <AG_IncreasedCommandRange.description>Ця людина має збільшений радіус дії при командуванні мобілізованими механоідами.</AG_IncreasedCommandRange.description>
+  
+  <!-- EN: repair boost -->
+  <AG_MechRepairBoost.label>прискорений ремонт</AG_MechRepairBoost.label>
+  <!-- EN: This mechanoid's capacities have been boosted by a mechanitor with genetically enhanced mech repair capabilities. -->
+  <AG_MechRepairBoost.description>Здатності механоїда були посилені завдяки механізатору з генетично вдосконаленими можливостями з ремонту мехів.</AG_MechRepairBoost.description>
+  
+</LanguageData>

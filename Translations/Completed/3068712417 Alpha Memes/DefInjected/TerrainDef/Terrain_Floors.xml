@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Jewish -->
+
+  <AM_JewishTileSandstone.label>єврейська плитка з пісковику</AM_JewishTileSandstone.label>
+  <AM_JewishTileSandstone.description>Ретельно вирізані та підігнані кам'яні плитки в єврейському стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_JewishTileSandstone.description>
+
+  <AM_JewishTileGranite.label>єврейська гранітна плитка</AM_JewishTileGranite.label>
+  <AM_JewishTileGranite.description>Ретельно вирізані та підігнані кам'яні плитки в єврейському стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_JewishTileGranite.description>
+
+  <AM_JewishTileLimestone.label>єврейська вапнякова плитка</AM_JewishTileLimestone.label>
+  <AM_JewishTileLimestone.description>Ретельно вирізані та підігнані кам'яні плитки в єврейському стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_JewishTileLimestone.description>
+
+  <AM_JewishTileSlate.label>єврейська сланцева плитка</AM_JewishTileSlate.label>
+  <AM_JewishTileSlate.description>Ретельно вирізані та підігнані кам'яні плитки в єврейському стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_JewishTileSlate.description>
+
+  <AM_JewishTileMarble.label>єврейська мармурова плитка</AM_JewishTileMarble.label>
+  <AM_JewishTileMarble.description>Ретельно вирізані та підігнані кам'яні плитки в єврейському стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_JewishTileMarble.description>
+
+  <AM_JewishFineTileSandstone.label>вишукана єврейська плитка з пісковику</AM_JewishFineTileSandstone.label>
+  <AM_JewishFineTileSandstone.description>Вишукана кам'яна плитка в єврейському стилі для вираження економічного статусу. Повільно укладається.</AM_JewishFineTileSandstone.description>
+
+  <AM_JewishFineTileGranite.label>вишукана єврейська гранітна плитка</AM_JewishFineTileGranite.label>
+  <AM_JewishFineTileGranite.description>Вишукана кам'яна плитка в єврейському стилі для вираження економічного статусу. Повільно укладається.</AM_JewishFineTileGranite.description>
+
+  <AM_JewishFineTileLimestone.label>вишукана єврейська вапнякова плитка</AM_JewishFineTileLimestone.label>
+  <AM_JewishFineTileLimestone.description>Вишукана кам'яна плитка в єврейському стилі для вираження економічного статусу. Повільно укладається.</AM_JewishFineTileLimestone.description>
+
+  <AM_JewishFineTileSlate.label>вишукана єврейська сланцева плитка</AM_JewishFineTileSlate.label>
+  <AM_JewishFineTileSlate.description>Вишукана кам'яна плитка в єврейському стилі для вираження економічного статусу. Повільно укладається.</AM_JewishFineTileSlate.description>
+
+  <AM_JewishFineTileMarble.label>вишукана єврейська мармурова плитка</AM_JewishFineTileMarble.label>
+  <AM_JewishFineTileMarble.description>Вишукана кам'яна плитка в єврейському стилі для вираження економічного статусу. Повільно укладається.</AM_JewishFineTileMarble.description>
+
+
+  <!-- кеметична -->
+
+  <AM_kemeticTileSandstone.label>кеметична кам'яна плитка</AM_kemeticTileSandstone.label>
+  <AM_kemeticTileSandstone.description>Ретельно вирізані та підігнані кам'яні плитки в кеметичному стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_kemeticTileSandstone.description>
+
+  <AM_kemeticTileGranite.label>кеметична гранітна плитка</AM_kemeticTileGranite.label>
+  <AM_kemeticTileGranite.description>Ретельно вирізані та підігнані кам'яні плитки в кеметичному стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_kemeticTileGranite.description>
+
+  <AM_kemeticTileLimestone.label>кеметична вапнякова плитка</AM_kemeticTileLimestone.label>
+  <AM_kemeticTileLimestone.description>Ретельно вирізані та підігнані кам'яні плитки в кеметичному стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_kemeticTileLimestone.description>
+
+  <AM_kemeticTileSlate.label>кеметична сланцева плитка</AM_kemeticTileSlate.label>
+  <AM_kemeticTileSlate.description>Ретельно вирізані та підігнані кам'яні плитки в кеметичному стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_kemeticTileSlate.description>
+
+  <AM_kemeticTileMarble.label>кеметична мармурова плитка</AM_kemeticTileMarble.label>
+  <AM_kemeticTileMarble.description>Ретельно вирізані та підігнані кам'яні плитки в кеметичному стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_kemeticTileMarble.description>
+
+  <AM_kemeticTilePristineLimestone.label>кеметична плитка з чистого вапняка</AM_kemeticTilePristineLimestone.label>
+  <AM_kemeticTilePristineLimestone.description>Ретельно вирізані та підігнані кам'яні плитки в кеметичному стилі. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_kemeticTilePristineLimestone.description>
+
+  <AM_kemeticFineTileSandstone.label>кеметична кеметична плитка з пісковику</AM_kemeticFineTileSandstone.label>
+  <AM_kemeticFineTileSandstone.description>Вишукана кам'яна плитка в кеметичному стилі для вираження економічного статусу. Повільно укладається.</AM_kemeticFineTileSandstone.description>
+
+  <AM_kemeticFineTileGranite.label>вишукана кеметична плитка з граніту</AM_kemeticFineTileGranite.label>
+  <AM_kemeticFineTileGranite.description>Вишукана кам'яна плитка в кеметичному стилі для вираження економічного статусу. Повільно укладається.</AM_kemeticFineTileGranite.description>
+
+  <AM_kemeticFineTileLimestone.label>вишукана кеметична з вапняку</AM_kemeticFineTileLimestone.label>
+  <AM_kemeticFineTileLimestone.description>Вишукана кам'яна плитка в кеметичному стилі для вираження економічного статусу. Повільно укладається.</AM_kemeticFineTileLimestone.description>
+
+  <AM_kemeticFineTileSlate.label>вишукана кеметична плитка з сланцю</AM_kemeticFineTileSlate.label>
+  <AM_kemeticFineTileSlate.description>Вишукана кам'яна плитка в кеметичному стилі для вираження економічного статусу. Повільно укладається.</AM_kemeticFineTileSlate.description>
+
+  <AM_kemeticFineTileMarble.label>вишукана кеметична мармурова плитка</AM_kemeticFineTileMarble.label>
+  <AM_kemeticFineTileMarble.description>Вишукана кам'яна плитка в кеметичному стилі для вираження економічного статусу. Повільно укладається.</AM_kemeticFineTileMarble.description>
+
+  <AM_kemeticFineTilePristineLimestone.label>вишукана кеметична плитка з чистого вапняка</AM_kemeticFineTilePristineLimestone.label>
+  <AM_kemeticFineTilePristineLimestone.description>Вишукана кам'яна плитка в кеметичному стилі для вираження економічного статусу. Повільно укладається.</AM_kemeticFineTilePristineLimestone.description>
+
+  <AM_Tile_Futuristic_kemetic.label>футуристична кеметична плитка</AM_Tile_Futuristic_kemetic.label>
+  <AM_Tile_Futuristic_kemetic.description>Тонкі сталеві пластини з шестикутним візерунком для ультратехнологічного вигляду.</AM_Tile_Futuristic_kemetic.description>
+
+  <AM_TilePristineLimestone.label>плитка з чистого вапняка</AM_TilePristineLimestone.label>
+  <AM_TilePristineLimestone.description>Ретельно вирізані та підігнані кам'яні плитки створюють відчуття замку. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_TilePristineLimestone.description>
+
+  <AM_FlagstonePristineLimestone.label>груба плитка з вапняка</AM_FlagstonePristineLimestone.label>
+  <AM_FlagstonePristineLimestone.description>Грубо обтесана кам'яна плитка. Вони не дуже красиві, але з них виходить гарне покриття для доріг і вуличних доріжок. Демонтаж плитняку не дає жодних ресурсів.</AM_FlagstonePristineLimestone.description>
+
+
+  <!-- Steampunk -->
+
+  <AM_SteampunkTileSandstone.label>плитка з пісковику в стилі стімпанк</AM_SteampunkTileSandstone.label>
+  <AM_SteampunkTileSandstone.description>Ретельно вирізані та підігнані кам'яні плитки в стилі стімпанк. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_SteampunkTileSandstone.description>
+
+  <AM_SteampunkTileGranite.label>гранітна плитка в стилі стімпанк</AM_SteampunkTileGranite.label>
+  <AM_SteampunkTileGranite.description>Ретельно вирізані та підігнані кам'яні плитки в стилі стімпанк. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_SteampunkTileGranite.description>
+
+  <AM_SteampunkTileLimestone.label>вапнякова плитка в стилі стімпанк</AM_SteampunkTileLimestone.label>
+  <AM_SteampunkTileLimestone.description>Ретельно вирізані та підігнані кам'яні плитки в стилі стімпанк. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_SteampunkTileLimestone.description>
+
+  <AM_SteampunkTileSlate.label>сланцева плитка в стилі стімпанк</AM_SteampunkTileSlate.label>
+  <AM_SteampunkTileSlate.description>Ретельно вирізані та підігнані кам'яні плитки в стилі стімпанк. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_SteampunkTileSlate.description>
+
+  <AM_SteampunkTileMarble.label>мармурова плитка в стилі стімпанк</AM_SteampunkTileMarble.label>
+  <AM_SteampunkTileMarble.description>Ретельно вирізані та підігнані кам'яні плитки в стилі стімпанк. Вони гарні на вигляд, але їх укладання займає багато часу.</AM_SteampunkTileMarble.description>
+
+
+  <!-- Neolithic -->
+
+  <AM_NeolithicTileSandstone.label>неолітична земляна підлога з пісковику</AM_NeolithicTileSandstone.label>
+  <AM_NeolithicTileSandstone.description>Груба, потворна плитка. Дуже дешева і швидка у будівництві, але ледве краща за звичайну землю.</AM_NeolithicTileSandstone.description>
+
+  <AM_NeolithicTileGranite.label>неолітична гранітна земляна підлога</AM_NeolithicTileGranite.label>
+  <AM_NeolithicTileGranite.description>Груба, потворна плитка. Дуже дешева і швидка у будівництві, але ледве краща за звичайну землю.</AM_NeolithicTileGranite.description>
+
+  <AM_NeolithicTileLimestone.label>неолітична вапнякова земляна підлога</AM_NeolithicTileLimestone.label>
+  <AM_NeolithicTileLimestone.description>Груба, потворна плитка. Дуже дешева і швидка у будівництві, але ледве краща за звичайну землю.</AM_NeolithicTileLimestone.description>
+
+  <AM_NeolithicTileSlate.label>неолітична сланцева земляна підлога</AM_NeolithicTileSlate.label>
+  <AM_NeolithicTileSlate.description>Груба, потворна плитка. Дуже дешева і швидка у будівництві, але ледве краща за звичайну землю.</AM_NeolithicTileSlate.description>
+
+  <AM_NeolithicTileMarble.label>неолітична мармурова земляна підлога</AM_NeolithicTileMarble.label>
+  <AM_NeolithicTileMarble.description>Груба, потворна плитка. Дуже дешева і швидка у будівництві, але ледве краща за звичайну землю.</AM_NeolithicTileMarble.description>
+
+  <AM_Tile_Scavenger.label>відновлена іржава плитка</AM_Tile_Scavenger.label>
+  <AM_Tile_Scavenger.description>Іржаві сталеві пластини, зібрані з місцевих матеріалів. Невеликий бонус до краси, але ніякої чистоти.</AM_Tile_Scavenger.description>
+
+  <AM_Tile_Scavenger_Clean.label>відновлена плитка</AM_Tile_Scavenger_Clean.label>
+  <AM_Tile_Scavenger_Clean.description>Сталеві пластини, зібрані з місцевих матеріалів. Ніякого бонусу за красу, але невеликий бонус за чистоту.</AM_Tile_Scavenger_Clean.description>
+
+
+</LanguageData>

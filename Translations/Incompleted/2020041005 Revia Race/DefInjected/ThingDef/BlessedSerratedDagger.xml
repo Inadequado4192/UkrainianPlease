@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Crimson Blossom -->
+  <ReviaBlessedSerratedDagger.label>Багряний цвіт</ReviaBlessedSerratedDagger.label>
+  <!-- EN: A cruel sawtoothed dagger bearing a bloodthirsty spirit. -->
+  <ReviaBlessedSerratedDagger.description>Жорстокий пилкоподібний кинджал з кровожерливим духом.</ReviaBlessedSerratedDagger.description>
+  <!-- EN: handle -->
+  <ReviaBlessedSerratedDagger.tools.handle.label>руків'я</ReviaBlessedSerratedDagger.tools.handle.label>
+  <!-- EN: point -->
+  <ReviaBlessedSerratedDagger.tools.point.label>вістря</ReviaBlessedSerratedDagger.tools.point.label>
+  <!-- EN: edge -->
+  <ReviaBlessedSerratedDagger.tools.edge.label>лезо</ReviaBlessedSerratedDagger.tools.edge.label>
+  
+</LanguageData>

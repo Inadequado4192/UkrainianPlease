@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--high on blisscap-->
+  <VPE_AteBlisscap.label>ефект блаженошапочки</VPE_AteBlisscap.label>
+  <!--This person has consumed blisscap, which makes people incredibly high, but also incredibly drowsy.-->
+  <VPE_AteBlisscap.description>Ця людина вжила блаженошапочку, який робить людину неймовірно піднесеною, але водночас неймовірно сонливою.</VPE_AteBlisscap.description>
+</LanguageData>

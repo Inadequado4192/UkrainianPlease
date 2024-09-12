@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <comfierThanUsual.label>Зручніше, Ніж Зазвичай</comfierThanUsual.label>
+  <comfierThanUsual.description>Побудуйте крісло зі шкіри людини</comfierThanUsual.description>
+  
+  <theArchitect.label>Архітектор</theArchitect.label>
+  <theArchitect.description>Побудуйте 1000 стін</theArchitect.description>
+  
+  <buildingTheSkynet.label>Творець Скайнета</buildingTheSkynet.label>
+  <buildingTheSkynet.description>Побудуйте 30 міні-турелей</buildingTheSkynet.description>
+  
+  <itAintRocketScience.label>Це Не Ракетобудування</itAintRocketScience.label>
+  <itAintRocketScience.description>Побудувати космічний корабель</itAintRocketScience.description>
+</LanguageData>

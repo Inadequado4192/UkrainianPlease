@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: permanent burn -->
+    <VEF_PermanentBurn.label>постійний опік</VEF_PermanentBurn.label>
+    <!-- EN: A permanent burn scar that cannot be treated. -->
+    <VEF_PermanentBurn.description>Постійний шрам від опіку, який неможливо вилікувати.</VEF_PermanentBurn.description>
+    <!-- EN: a permanent burn -->
+    <VEF_PermanentBurn.labelNoun>постійний опік</VEF_PermanentBurn.labelNoun>
+
+    <!-- EN: acid burn -->
+    <VEF_AcidBuildup.label>кислотний опік</VEF_AcidBuildup.label>
+    <!-- EN: A splash of acid that continues to cause burn wounds for quite some time after the initial attack. -->
+    <VEF_AcidBuildup.description>Бризки кислоти, які продовжують спричиняти опікові рани протягом тривалого часу після першої атаки.</VEF_AcidBuildup.description>
+    <!-- EN: minor, receiving burns -->
+    <VEF_AcidBuildup.stages.minor_receiving_burns.label>незначний, отримання опіків</VEF_AcidBuildup.stages.minor_receiving_burns.label>
+    <!-- EN: moderate, receiving burns -->
+    <VEF_AcidBuildup.stages.moderate_receiving_burns.label>помірний, отримання опіків</VEF_AcidBuildup.stages.moderate_receiving_burns.label>
+    <!-- EN: serious, receiving burns -->
+    <VEF_AcidBuildup.stages.serious_receiving_burns.label>серйозний, отримання опіків</VEF_AcidBuildup.stages.serious_receiving_burns.label>
+
+    <!-- EN: acid burn -->
+    <VEF_AcidBurn.label>кислотний опік</VEF_AcidBurn.label>
+    <!-- EN: An acid burn. -->
+    <VEF_AcidBurn.description>Кислотний опік.</VEF_AcidBurn.description>
+    <!-- EN: an acid burn -->
+    <VEF_AcidBurn.labelNoun>кислотний опік</VEF_AcidBurn.labelNoun>
+    <!-- EN: bandaged -->
+    <VEF_AcidBurn.comps.0.labelTendedWell>перев'язано</VEF_AcidBurn.comps.0.labelTendedWell>
+    <!-- EN: tended -->
+    <VEF_AcidBurn.comps.0.labelTendedWellInner>доглянуто</VEF_AcidBurn.comps.0.labelTendedWellInner>
+
+    <!-- EN: level of sunlight -->
+    <VEF_LightSustenance.label>рівень сонячного світла</VEF_LightSustenance.label>
+    <!-- EN: This creature feeds on sunlight. Inadequate levels of light will kill it. -->
+    <VEF_LightSustenance.description>Ця істота живиться на сонячному світлі. Недостатній рівень освітлення вб'є її.</VEF_LightSustenance.description>
+    <!-- EN: adequate light -->
+    <VEF_LightSustenance.stages.adequate_light.label>достатньо світла</VEF_LightSustenance.stages.adequate_light.label>
+    <!-- EN: poor light levels -->
+    <VEF_LightSustenance.stages.poor_light_levels.label>поганий рівень світла</VEF_LightSustenance.stages.poor_light_levels.label>
+    <!-- EN: very low light levels -->
+    <VEF_LightSustenance.stages.very_low_light_levels.label>дуже низький рівень світла</VEF_LightSustenance.stages.very_low_light_levels.label>
+    <!-- EN: lack of sunlight -->
+    <VEF_LightSustenance.stages.lack_of_sunlight.label>нестача сонячного світла</VEF_LightSustenance.stages.lack_of_sunlight.label>
+    <!-- EN: extreme lack of sustenance -->
+    <VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>надзвичайна нестача засобів до існування</VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>
+
+    <!-- EN: toxic buildup -->
+    <VEF_ToxicBuildup.label>отруєння токсинами</VEF_ToxicBuildup.label>
+    <!-- EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten. -->
+    <VEF_ToxicBuildup.description>Токсини в крові. Це може бути отримане з різних джерел, включаючи токсини середовища, отруєні речовини, або отруєну зброю.
+\nУ високих дозах накопичення токсинів призводить до летального результату. Навіть у низьких дозах він може викликати рак.
+\nНа відміну від накопичення токсинів у звичайній грі, істоти, які помирають з токсичними пошкодженнями, можуть бути з'їдені.</VEF_ToxicBuildup.description>
+    <!-- EN: initial -->
+    <VEF_ToxicBuildup.stages.initial.label>початковий</VEF_ToxicBuildup.stages.initial.label>
+    <!-- EN: initial -->
+    <VEF_ToxicBuildup.stages.initial.label>початковий</VEF_ToxicBuildup.stages.initial.label>
+    <!-- EN: minor -->
+    <VEF_ToxicBuildup.stages.minor.label>незначний</VEF_ToxicBuildup.stages.minor.label>
+    <!-- EN: moderate -->
+    <VEF_ToxicBuildup.stages.moderate.label>помірний</VEF_ToxicBuildup.stages.moderate.label>
+    <!-- EN: serious -->
+    <VEF_ToxicBuildup.stages.serious.label>серйозний</VEF_ToxicBuildup.stages.serious.label>
+    <!-- EN: extreme -->
+    <VEF_ToxicBuildup.stages.extreme.label>екстремальний</VEF_ToxicBuildup.stages.extreme.label>
+
+    <!-- EN: hypothermic slowdown -->
+    <VFEP_HypothermicSlowdown.label>гіпотермічне уповільнення</VFEP_HypothermicSlowdown.label>
+    <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed. -->
+    <VFEP_HypothermicSlowdown.description>Небезпечно низька температура тіла. Якщо не зігрітись, то стан погіршиться і зрештою призведе до смерті. Одужання настає швидко, як тільки постраждалий відігріється.</VFEP_HypothermicSlowdown.description>
+    <!-- EN: minor -->
+    <VFEP_HypothermicSlowdown.stages.minor.label>незначний</VFEP_HypothermicSlowdown.stages.minor.label>
+    <!-- EN: minor -->
+    <VFEP_HypothermicSlowdown.stages.minor.label>незначний</VFEP_HypothermicSlowdown.stages.minor.label>
+    <!-- EN: moderate -->
+    <VFEP_HypothermicSlowdown.stages.moderate.label>помірний</VFEP_HypothermicSlowdown.stages.moderate.label>
+    <!-- EN: serious -->
+    <VFEP_HypothermicSlowdown.stages.serious.label>серйозний</VFEP_HypothermicSlowdown.stages.serious.label>
+    <!-- EN: extreme -->
+    <VFEP_HypothermicSlowdown.stages.extreme.label>екстремальний</VFEP_HypothermicSlowdown.stages.extreme.label>
+</LanguageData>

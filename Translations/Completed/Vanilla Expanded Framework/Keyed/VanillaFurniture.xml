@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!-- Auto Drill -->
+
+  <VFE_ChunkToMine>Бурити {0}</VFE_ChunkToMine>
+  <VFE_ChunkRandomMine>Бурити випадкові чанки</VFE_ChunkRandomMine>
+  <VFE_ChooseMine>Обрати тип чанку для буріння</VFE_ChooseMine>
+  <VFE_ChooseMineDesc>Обрати тип чанку для буріння. Ви можете вибрати будь-який тип породи на карті або випадковий.</VFE_ChooseMineDesc>
+  <VFE_RandomRock>Випадковий чанк</VFE_RandomRock>
+  <VFE_PleaseSelectOutput>Вибрати потужність машини</VFE_PleaseSelectOutput>
+  <VFE_NeedsWater>Будівля має бути розміщена на воді</VFE_NeedsWater>
+  
+  <!-- Random Building Graphics -->
+  
+  <VFE_ChangeGraphic>Випадкова графіка</VFE_ChangeGraphic>
+  <VFE_ChangeGraphicDesc>Змінити графіку цієї будівлі випадковим чином між доступними</VFE_ChangeGraphicDesc>
+  
+  <VFE_ChooseGraphic>Обрати графіку</VFE_ChooseGraphic>
+  <VFE_ChooseGraphicDesc>Обрати графіку цієї будівлі через меню з усіма доступними опціями</VFE_ChooseGraphicDesc>
+  
+  <VFE_NoGraphics>Ця будівля не має додаткової текстури на вибір. Якийсь вуйко-модер додав клас comp до будівлі без альт. текстур, що є дивним.</VFE_NoGraphics>
+  
+  <!-- Random Building Graphics, Options -->
+  
+  <!--<VFE_RandomOrSequentially>"Change Graphic" button changes graphic randomly (deselect for sequentially)</VFE_RandomOrSequentially>-->
+  <VFE_HideRandomizeButton>Приховати кнопки "Випадкова графіка" та "Обрати графіку"</VFE_HideRandomizeButton>
+  <VFE_RandomBuildingsDontStartRandom>Зробити так, щоб випадкові графічні будівлі НЕ починали рандомізуватися.</VFE_RandomBuildingsDontStartRandom>
+   
+  <VFE.SwitchLightColor>Змінити колір</VFE.SwitchLightColor>
+  <VFE.SwitchLightColorDesc>Змінити поточний колір освітлення</VFE.SwitchLightColorDesc>
+  <VFE.ChangeColorTo>Змінити колір на {0}</VFE.ChangeColorTo>
+  <VFE.ColorSwitchPowerOff>Живлення вимкнено. Неможливо переключити колір.</VFE.ColorSwitchPowerOff>
+</LanguageData>

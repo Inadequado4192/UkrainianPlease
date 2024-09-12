@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PatientRating.label>рейтинг</PatientRating.label>
+  <PatientRating.headerTip>Наскільки пацієнт щасливий. Підніміть показник вище 70, щоб отримати більше доброзичливості.</PatientRating.headerTip>
+
+  <PatientTimeSpent.label>Витрачений час</PatientTimeSpent.label>
+  <PatientTimeSpent.headerTip>Скільки часу пацієнт провів у вашій лікарні.</PatientTimeSpent.headerTip>
+
+  <PatientDiagnosis.label>Діагноз</PatientDiagnosis.label>
+  <PatientDiagnosis.headerTip>Що не так з цим пацієнтом?</PatientDiagnosis.headerTip>
+
+  <PatientCure.label>лікування</PatientCure.label>
+  <PatientCure.headerTip>Як ми допоможемо пацієнтові?</PatientCure.headerTip>
+
+  <PatientBill.label>рахунок</PatientBill.label>
+  <PatientBill.headerTip>Скільки пацієнт повинен буде заплатити</PatientBill.headerTip>
+
+
+</LanguageData>

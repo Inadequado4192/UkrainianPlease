@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PipeSystem_Consumption>Споживання: {0}</PipeSystem_Consumption>
+  <PipeSystem_ConsumptionExplained>Скільки {0} на день, ця будівля буде споживати з мережі {1}.</PipeSystem_ConsumptionExplained>
+  
+  <PipeSystem_IdleConsumption>Споживання вхолосту: {0}</PipeSystem_IdleConsumption>
+  <PipeSystem_IdleConsumptionExplained>Скільки {0} на день, ця будівля буде споживати з мережі {1} під час простоювання.</PipeSystem_IdleConsumptionExplained>
+  
+  <PipeSystem_Production>Виробництво: {0}</PipeSystem_Production>
+  <PipeSystem_ProductionExplained>Скільки {0} на день, ця будівля буде виробляти для мережі {1}.</PipeSystem_ProductionExplained>
+  
+  <PipeSystem_DeconstructLabel>Демонтувати труби - {0}</PipeSystem_DeconstructLabel>
+  <PipeSystem_DeconstructDesc>Демонтує труби тільки з мережі '{0}'.</PipeSystem_DeconstructDesc>
+  
+  <PipeSystem_ResourceOutput>{0} виробляє:</PipeSystem_ResourceOutput>
+  <PipeSystem_ResourceNeeded>{0} споживає:</PipeSystem_ResourceNeeded>
+  
+  <PipeSystem_ResourceStored>{0} збережено:</PipeSystem_ResourceStored>
+  
+  <PipeSystem_NotConnected>Не під'єднано до {}.</PipeSystem_NotConnected> 
+  <PipeSystem_ExcessStored>{0} -  профіцит/зберігається: {1} {3}/d / {2} {3}</PipeSystem_ExcessStored>
+  <PipeSystem_Stored>{0} - збережено в мережі:</PipeSystem_Stored>
+  
+  <PipeSystem_ValveClosed>Клапан закритий.</PipeSystem_ValveClosed> 
+  <PipeSystem_ValveOpened>Клапан відкритий.</PipeSystem_ValveOpened>
+  
+  <PipeSystem_AugmentStack>+1</PipeSystem_AugmentStack>
+  <PipeSystem_AugmentStackDesc>Збільшити максимальний розмір вихідного стісу на 1.</PipeSystem_AugmentStackDesc> 
+  <PipeSystem_AugmentStackB>+10</PipeSystem_AugmentStackB>
+  <PipeSystem_AugmentStackDescB>Збільшити максимальний розмір вихідного стісу на 10.</PipeSystem_AugmentStackDescB>
+  
+  <PipeSystem_DecreaseStack>-1</PipeSystem_DecreaseStack>
+  <PipeSystem_DecreaseStackDesc>Зменити максимальний розмір вихідного стісу на 1.</PipeSystem_DecreaseStackDesc>
+  <PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
+  <PipeSystem_DecreaseStackDescB>Зменити максимальний розмір вихідного стісу на 10.</PipeSystem_DecreaseStackDescB>
+
+  <PipeSystem_AmountOut>Максимальна кількість, що зберігається тут: {0}</PipeSystem_AmountOut>
+  
+  <PipeSystem_ProcessorBuffer>Буфер: {0}</PipeSystem_ProcessorBuffer>
+  <PipeSystem_Producing>Виробляє {0} {1}. Прогрес циклу: {2}.</PipeSystem_Producing> 
+  <PipeSystem_Produce>Виробити {0} {1} з {2} {3}.</PipeSystem_Produce>
+  <PipeSystem_ChooseResult>Обрати продукт</PipeSystem_ChooseResult>
+  <PipeSystem_ChooseResultDesc>Вибрати продукт обробки.</PipeSystem_ChooseResultDesc> 
+  
+  <PipeSystem_ProduceLabel>Виробити {0} {1} використовуючи:</PipeSystem_ProduceLabel>
+
+  <PipeSystem_TransferContent>Перемістити вміст сховища</PipeSystem_TransferContent>
+  <PipeSystem_TransferContentDesc>Перемістити вміст сховища до інших доступних сховищ.</PipeSystem_TransferContentDesc>
+  <PipeSystem_MarkedToTransferContent>Переміщення вмісту сховища до інших доступних сховищ...</PipeSystem_MarkedToTransferContent>
+  
+  <PipeSystem_NothingToRefill>Немає чим поповнити {0}</PipeSystem_NothingToRefill>
+  <PipeSystem_AllowManualRefill>Дозволити ручне поповнення</PipeSystem_AllowManualRefill>
+  <PipeSystem_AllowManualRefillDesc>Дозволяє колоністам безпосередньо поповнювати сховище</PipeSystem_AllowManualRefillDesc>
+  
+  <PipeSystem_CantExtract>Виробництво неможливе: баки переповнені</PipeSystem_CantExtract>
+  <PipeSystem_CantPlaceHere>{0} можна розмістити лише на родовищі {1}. Використовуйте геопроникаючий сканер, щоб знайти родовища.</PipeSystem_CantPlaceHere>
+  <PipeSystem_ResourceLeft>Залишок в родовищі: {0}.</PipeSystem_ResourceLeft>
+  
+  <PipeSystem_NoStorageInNet>Не під'єднано до жодного сховища</PipeSystem_NoStorageInNet>
+  <PipeSystem_NoStorageInNetDesc>Наступні прилади не під'єднані до жодного сховища, але потребують хоча б одного:</PipeSystem_NoStorageInNetDesc>
+  
+  <PipeSystem_StorageContentRotted>{0}: вміст згнив через брак живлення.</PipeSystem_StorageContentRotted>
+  <PipeSystem_ContentWillRot>Через {0} вміст згниє через відсутність електроенергії.</PipeSystem_ContentWillRot>
+
+  <PipeSystem_NothingToPickUp>Нічого забирати</PipeSystem_NothingToPickUp>
+  <PipeSystem_MakeProcess>Зробити {0}</PipeSystem_MakeProcess>
+  <PipeSystem_OutputToNet>Вивести в {0} мережу</PipeSystem_OutputToNet>
+  <PipeSystem_OrNet>або {0} мережа</PipeSystem_OrNet>
+  <PipeSystem_XFromNet>{0} з мережі</PipeSystem_XFromNet>
+  <PipeSystem_Processes>Процеси</PipeSystem_Processes>
+  <PipeSystem_AddProcess>Додати процес</PipeSystem_AddProcess>
+  <PipeSystem_CancelCurrentProcess>Скасувати поточний процес</PipeSystem_CancelCurrentProcess>
+  <PipeSystem_OutputOnGround>Може виводити на землю</PipeSystem_OutputOnGround>
+  <PipeSystem_NoProcess>Поточний процес відсутній</PipeSystem_NoProcess>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VAE_LeatherTanning.label>дублення шкіри</VAE_LeatherTanning.label>
+  <VAE_LeatherTanning.description>Вивчіть процес дублення, щоб створювати товстіші та міцніші обладунки.</VAE_LeatherTanning.description>
+  
+  <VAE_HazardProtection.label>захисні костюми</VAE_HazardProtection.label>
+  <VAE_HazardProtection.description>Вивчіть як створювати костюми, стійкі до високої токсичності та радіації.</VAE_HazardProtection.description>
+  
+  <VAE_MlitaryCamouflage.label>військовий камуфляж</VAE_MlitaryCamouflage.label>
+  <VAE_MlitaryCamouflage.description>Вивчіть як створювати спеціальний військовий одяг, що дозволяє носіям бути зливатися з навколишнім середовищем, наприклад, з листям.</VAE_MlitaryCamouflage.description>
+  
+  <VAE_SiegebreakerArmor.label>штурмова броня</VAE_SiegebreakerArmor.label>
+  <VAE_SiegebreakerArmor.description>Вивчіть як створювати штурмову броню – важку силову броню, яка значно сповільнює носія, але забезпечує кращий захист від дальнобільної зброї. Зауважте, що вона також потребує передових компонентів.</VAE_SiegebreakerArmor.description>
+  
+  <VAE_TrooperArmor.label>військова броня</VAE_TrooperArmor.label>
+  <VAE_TrooperArmor.description>Вивчіть як створювати військову броню – легку напівсилову броню, яка є легкою і дешевою у виробництві. Зауважте, що вона також потребує передових компонентів.</VAE_TrooperArmor.description>
+</LanguageData>

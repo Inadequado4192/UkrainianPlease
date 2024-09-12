@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <RimHUD.Layout.UserPreset>Користувач</RimHUD.Layout.UserPreset>
+  <RimHUD.Layout.IntegratedPreset>Інтегровано</RimHUD.Layout.IntegratedPreset>
+
+  <RimHUD.Layout.Root>Основа</RimHUD.Layout.Root>
+  <RimHUD.Layout.VStack>Вертикальна группа</RimHUD.Layout.VStack>
+  <RimHUD.Layout.VStackFilled>Вертикальна группа (заповнена)</RimHUD.Layout.VStackFilled>
+  <RimHUD.Layout.HStack>Горизонтальна група</RimHUD.Layout.HStack>
+  <RimHUD.Layout.HStackFilled>Горизонтальна група (заповнена)</RimHUD.Layout.HStackFilled>
+  <RimHUD.Layout.Panel>Панель</RimHUD.Layout.Panel>
+  <RimHUD.Layout.PanelFilled>Панель (заповнена)</RimHUD.Layout.PanelFilled>
+  <RimHUD.Layout.Row>Рядок</RimHUD.Layout.Row>
+  <RimHUD.Layout.ContainerFilled>Заповнений</RimHUD.Layout.ContainerFilled>
+  
+  <RimHUD.Layout.Blank>Пусте місце</RimHUD.Layout.Blank>
+  <RimHUD.Layout.Separator>Роздільник</RimHUD.Layout.Separator>
+  <RimHUD.Layout.NameHeader>Ім'я як заголовок</RimHUD.Layout.NameHeader>
+  <RimHUD.Layout.Outfit>Селектор одягу</RimHUD.Layout.Outfit>
+  <RimHUD.Layout.Food>Селектор дієти</RimHUD.Layout.Food>
+  <RimHUD.Layout.Rules>Селектор правил</RimHUD.Layout.Rules>
+  <RimHUD.Layout.Timetable>Селектор розкладу</RimHUD.Layout.Timetable>
+  <RimHUD.Layout.Area>Селектор дозволеної зони</RimHUD.Layout.Area>
+  <RimHUD.Layout.RelationKindAndFaction>Відношення, вид і фракція</RimHUD.Layout.RelationKindAndFaction>
+  <RimHUD.Layout.GenderRaceAndAge>Стать, раса та вік</RimHUD.Layout.GenderRaceAndAge>
+  <RimHUD.Layout.SimpleGenderRaceAndAge>Спрощена стать, раса та вік</RimHUD.Layout.SimpleGenderRaceAndAge>
+  <RimHUD.Layout.Health>Індикатор здоров'я</RimHUD.Layout.Health>
+  <RimHUD.Layout.HealthCondition>Стан здоров'я</RimHUD.Layout.HealthCondition>
+  <RimHUD.Layout.MentalCondition>Стан свідомості</RimHUD.Layout.MentalCondition>
+
+  <RimHUD.Layout.Stat>Статистика про {0}</RimHUD.Layout.Stat>
+  <RimHUD.Layout.Record>Запис про {0}</RimHUD.Layout.Record>
+
+  <RimHUD.Layout.NeedMood>Індикатор настрою</RimHUD.Layout.NeedMood>
+  <RimHUD.Layout.NeedFood>Індикатор їжі</RimHUD.Layout.NeedFood>
+  <RimHUD.Layout.NeedSleep>Індикатор сну</RimHUD.Layout.NeedSleep>
+  <RimHUD.Layout.NeedEnergy>Індикатор енергії</RimHUD.Layout.NeedEnergy>
+  <RimHUD.Layout.NeedRecreation>Індикатор відпочинку</RimHUD.Layout.NeedRecreation>
+  <RimHUD.Layout.NeedSuppression>Індикатор придушення</RimHUD.Layout.NeedSuppression>
+  <RimHUD.Layout.Need>Індикатор {0}</RimHUD.Layout.Need>
+
+  <RimHUD.Layout.SkillShooting>Навичка стрільби</RimHUD.Layout.SkillShooting>
+  <RimHUD.Layout.SkillMelee>Навичка ближнього бою</RimHUD.Layout.SkillMelee>
+  <RimHUD.Layout.SkillConstruction>Навичка будівництва</RimHUD.Layout.SkillConstruction>
+  <RimHUD.Layout.SkillMining>Навичка шахтерства</RimHUD.Layout.SkillMining>
+  <RimHUD.Layout.SkillCooking>Навичка кулінарії</RimHUD.Layout.SkillCooking>
+  <RimHUD.Layout.SkillPlants>Навичка рослинництва</RimHUD.Layout.SkillPlants>
+  <RimHUD.Layout.SkillAnimals>Навичка тваринництва</RimHUD.Layout.SkillAnimals>
+  <RimHUD.Layout.SkillCrafting>Навичка ремесла</RimHUD.Layout.SkillCrafting>
+  <RimHUD.Layout.SkillArtistic>Навичка мистецтва</RimHUD.Layout.SkillArtistic>
+  <RimHUD.Layout.SkillMedicine>Навичка медицини</RimHUD.Layout.SkillMedicine>
+  <RimHUD.Layout.SkillSocial>Навичка соціальності</RimHUD.Layout.SkillSocial>
+  <RimHUD.Layout.SkillIntellectual>Навичка дослідження</RimHUD.Layout.SkillIntellectual>
+  <RimHUD.Layout.Skill>Навичка {0}</RimHUD.Layout.Skill>
+
+  <RimHUD.Layout.TrainingTameness>Тренування приборкування</RimHUD.Layout.TrainingTameness>
+  <RimHUD.Layout.TrainingObedience>Тренування слухняності</RimHUD.Layout.TrainingObedience>
+  <RimHUD.Layout.TrainingRelease>Тренування нападу</RimHUD.Layout.TrainingRelease>
+  <RimHUD.Layout.TrainingRescue>Тренування порятунку</RimHUD.Layout.TrainingRescue>
+  <RimHUD.Layout.TrainingHaul>Тренування перенесення</RimHUD.Layout.TrainingHaul>
+  <RimHUD.Layout.Training>Тренування {0}</RimHUD.Layout.Training>
+
+  <RimHUD.Layout.Master>Хозяїн</RimHUD.Layout.Master>
+  <RimHUD.Layout.Activity>Діяльність</RimHUD.Layout.Activity>
+  <RimHUD.Layout.Queued>Черга наказів</RimHUD.Layout.Queued>
+  <RimHUD.Layout.Equipped>Споряджено</RimHUD.Layout.Equipped>
+  <RimHUD.Layout.Carrying>Переносить</RimHUD.Layout.Carrying>
+  <RimHUD.Layout.CompInfo>Додаткова інформація</RimHUD.Layout.CompInfo>
+  <RimHUD.Layout.PrisonerInfo>Інформація про в'язня</RimHUD.Layout.PrisonerInfo>
+
+  <RimHUD.Layout.Target.PlayerHumanlike>Люди під контролем гравця</RimHUD.Layout.Target.PlayerHumanlike>
+  <RimHUD.Layout.Target.OtherHumanlike>Інші людиноподібні</RimHUD.Layout.Target.OtherHumanlike>
+  <RimHUD.Layout.Target.PlayerCreature>Істоти під контролем гравця</RimHUD.Layout.Target.PlayerCreature>
+  <RimHUD.Layout.Target.OtherCreature>Інші істоти</RimHUD.Layout.Target.OtherCreature>
+  
+  <RimHUD.Layout.BarColorStyle.LowToMain>Від 'Низького' кольору до 'Основного'(За замовчуванням)</RimHUD.Layout.BarColorStyle.LowToMain>
+  <RimHUD.Layout.BarColorStyle.LowOnly>Тільки 'Низький' колір</RimHUD.Layout.BarColorStyle.LowOnly>
+  <RimHUD.Layout.BarColorStyle.MainToLow>Від 'Основного' до 'Низького' кольору</RimHUD.Layout.BarColorStyle.MainToLow>
+  <RimHUD.Layout.BarColorStyle.MainOnly>Тільки 'Основний' колір</RimHUD.Layout.BarColorStyle.MainOnly>
+</LanguageData>

@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VSIE_Discord.label>розбрат</VSIE_Discord.label>
+  <VSIE_Discord.logRulesInitiator.rulesStrings>
+	  <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted_adj_maybe] [insulted] [target].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] порівняв [target] із [insultcomparison_1].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] порівняв [target] зі [insultcomparison_2].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] порівняв [target] з [insultcomparison_3].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] назвав [target] [insultcomparison].</li>
+	  
+	  <li>target(p=4)->[RECIPIENT_nameDef]</li>
+	  <li>target->[family] [RECIPIENT_nameDef]</li>
+	  
+	  <li>family->матір</li>
+	  <li>family->сина</li>
+	  <li>family->батька</li>
+	  <li>family->брата</li>
+	  <li>family->дядька</li>
+	  <li>family->племінника</li>
+	  <li>family->тітку</li>
+	  
+	  <li>insulted_adj_maybe(p=3)-></li>
+	  <li>insulted_adj_maybe->відкрито</li>
+	  <li>insulted_adj_maybe->голосно</li>
+	  <li>insulted_adj_maybe->прямо</li>
+	  <li>insulted_adj_maybe->жорстоко</li>
+	  <li>insulted_adj_maybe->грубо</li>
+	  
+	  <li>insulted->образи{INITIATOR_gender ? в : ла}</li>
+	  <li>insulted->зневажи{INITIATOR_gender ? в : ла}</li>
+	  <li>insulted->обмови{INITIATOR_gender ? в : ла}</li>
+	  <li>insulted->висмія{INITIATOR_gender ? в : ла}</li>
+	  <li>insulted->знехтува{INITIATOR_gender ? в : ла}</li>
+	  <li>insulted->скривди{INITIATOR_gender ? в : ла}</li>
+	  <li>insulted->принизи{INITIATOR_gender ? в : ла}</li>
+	  
+	  <li>insultcomparison(p=2)->[animal_1]</li>
+	  <li>insultcomparison(p=2)->[animal_2]</li>
+	  <li>insultcomparison(p=2)->[animal_3]</li>
+	  <li>insultcomparison->[enemy_1]</li>
+	  <li>insultcomparison->[enemy_2]</li>
+	  
+	  <li>insultcomparison_1(p=2)->[animal_1]</li>
+	  <li>insultcomparison_1->[еnemy_1]</li>
+	  <li>insultcomparison_2(p=2)->[animal_2]</li>
+	  <li>insultcomparison_2->[enemy_2]</li>
+	  <li>insultcomparison_3->[animal_3]</li>
+	  
+	  <li>enemy_1->душогубом</li>
+	  <li>enemy_1->вбивцею</li>
+	  <li>enemy_1->засудженим</li>
+	  <li>enemy_1->шахраєм</li>
+	  <li>enemy_1->правопорушником</li>
+	  <li>enemy_1->кривдником</li>
+	  <li>enemy_1->щипачем</li>
+	  <li>enemy_1->брехлом</li>
+	  <li>enemy_1->вигнанцем</li>
+	  <li>enemy_1->рецидивістом</li>
+	  <li>enemy_1->головорізом</li>
+	  <li>enemy_1->куцаком</li>
+	  <li>enemy_1->грішником</li>
+	  <li>enemy_1->порушником</li>
+	  <li>enemy_1->піратом</li>
+	  <li>enemy_1->мордоламом</li>
+	  <li>enemy_1->людожером</li>
+	  <li>enemy_1->катом</li>
+	  <li>enemy_1->нальотчиком</li>
+	  <li>enemy_1->розкрадачем</li>
+	  <li>enemy_1->порушником</li>
+	  <li>enemy_2->злочинцем</li>
+	  <li>enemy_2->злиднем</li>
+	  <li>enemy_2->зловмисником</li>
+	  <li>enemy_2->зрадником</li>
+	  
+	  <li>animal_1->бабуїном</li>
+	  <li>animal_1->бараном</li>
+	  <li>animal_1->барракудою</li>
+	  <li>animal_1->бджолою</li>
+	  <li>animal_1->бобром</li>
+	  <li>animal_1->богомолом</li>
+	  <li>animal_1->борсуком</li>
+	  <li>animal_1->броненосцем</li>
+	  <li>animal_1->буйволом</li>
+	  <li>animal_1->бумщуром</li>
+	  <li>animal_1->бізоном</li>
+	  <li>animal_1->білим ведмедем</li>
+	  <li>animal_1->білкою</li>
+	  <li>animal_1->ведмедем</li>
+	  <li>animal_1->верблюдом</li>
+	  <li>animal_1->видрою</li>
+	  <li>animal_1->вомбатом</li>
+	  <li>animal_1->вороном</li>
+	  <li>animal_1->восьминогом</li>
+	  <li>animal_1->вошею</li>
+	  <li>animal_1->вугром</li>
+	  <li>animal_1->вівцею</li>
+	  <li>animal_1->віслюком</li>
+	  <li>animal_1->гадюкою</li>
+	  <li>animal_1->газеллю</li>
+	  <li>animal_1->гепардом</li>
+	  <li>animal_1->гну</li>
+	  <li>animal_1->голубом</li>
+	  <li>animal_1->гориллою</li>
+	  <li>animal_1->горобцем</li>
+	  <li>animal_1->гусеницею</li>
+	  <li>animal_1->гускою</li>
+	  <li>animal_1->гіпопотамом</li>
+	  <li>animal_1->гієною</li>
+	  <li>animal_1->дельфіном</li>
+	  <li>animal_1->дикобразом</li>
+	  <li>animal_1->динозавром</li>
+	  <li>animal_1->довгоп'ятом</li>
+	  <li>animal_1->дятлом</li>
+	  <li>animal_1->ему</li>
+	  <li>animal_1->жабою</li>
+	  <li>animal_1->жирафом</li>
+	  <li>animal_1->журавлем</li>
+	  <li>animal_1->заєцем</li>
+	  <li>animal_1->зеброю</li>
+	  <li>animal_1->землерийкою</li>
+	  <li>animal_1->зябликом</li>
+	  <li>animal_1->кабаном</li>
+	  <li>animal_1->кальмаром</li>
+	  <li>animal_1->качкою</li>
+	  <li>animal_1->кенгуру</li>
+	  <li>animal_1->китом</li>
+	  <li>animal_1->клопом-смердюком</li>
+	  <li>animal_1->коалою</li>
+	  <li>animal_1->коброю</li>
+	  <li>animal_1->козою</li>
+	  <li>animal_1->койотом</li>
+	  <li>animal_1->колібрі</li>
+	  <li>animal_1->комодо</li>
+	  <li>animal_1->кондором</li>
+	  <li>animal_1->конем</li>
+	  <li>animal_1->коником</li>
+	  <li>animal_1->коровою</li>
+	  <li>animal_1->котом</li>
+	  <li>animal_1->крабом</li>
+	  <li>animal_1->крижнем</li>
+	  <li>animal_1->крокодилом</li>
+	  <li>animal_1->кроликом</li>
+	  <li>animal_1->кряквою</li>
+	  <li>animal_1->курчам</li>
+	  <li>animal_1->куріпкою</li>
+	  <li>animal_1->кішкою</li>
+	  <li>animal_1->ламантиною</li>
+	  <li>animal_1->ламою</li>
+	  <li>animal_1->ласкою</li>
+	  <li>animal_1->ластівкою</li>
+	  <li>animal_1->лебідем</li>
+	  <li>animal_1->левом</li>
+	  <li>animal_1->лелекою</li>
+	  <li>animal_1->лемуром</li>
+	  <li>animal_1->леопардом</li>
+	  <li>animal_1->летючою мишою</li>
+	  <li>animal_1->лисицею</li>
+	  <li>animal_1->лисом</li>
+	  <li>animal_1->лобстером</li>
+	  <li>animal_1->лосем</li>
+	  <li>animal_1->лососем</li>
+	  <li>animal_1->лірохвістом</li>
+	  <li>animal_1->мавпою</li>
+	  <li>animal_1->мангустом</li>
+	  <li>animal_1->мандрилом</li>
+	  <li>animal_1->мегаскарабеєм</li>
+	  <li>animal_1->медузою</li>
+	  <li>animal_1->метеликом</li>
+	  <li>animal_1->мишою</li>
+	  <li>animal_1->моллю</li>
+	  <li>animal_1->молюском</li>
+	  <li>animal_1->моржом</li>
+	  <li>animal_1->морським коником</li>
+	  <li>animal_1->морським левом</li>
+	  <li>animal_1->морською коровою</li>
+	  <li>animal_1->морською свинкою</li>
+	  <li>animal_1->москітом</li>
+	  <li>animal_1->мошкою</li>
+	  <li>animal_1->мулом</li>
+	  <li>animal_1->мурахою</li>
+	  <li>animal_1->мурахоїдом</li>
+	  <li>animal_1->муффалом</li>
+	  <li>animal_1->мухою</li>
+	  <li>animal_1->нарвалом</li>
+	  <li>animal_1->норкою</li>
+	  <li>animal_1->норкю</li>
+	  <li>animal_1->носорогом</li>
+	  <li>animal_1->павуком</li>
+	  <li>animal_1->пандою</li>
+	  <li>animal_1->пантерою</li>
+	  <li>animal_1->папугою</li>
+	  <li>animal_1->пеліканом</li>
+	  <li>animal_1->перепілкою</li>
+	  <li>animal_1->полівкою</li>
+	  <li>animal_1->поросям</li>
+	  <li>animal_1->північним оленем</li>
+	  <li>animal_1->пінгвіном</li>
+	  <li>animal_1->піщанкою</li>
+	  <li>animal_1->равликом</li>
+	  <li>animal_1->рибою</li>
+	  <li>animal_1->ропухою</li>
+	  <li>animal_1->росомахою</li>
+	  <li>animal_1->саламандрою</li>
+	  <li>animal_1->сараною</li>
+	  <li>animal_1->сардиною</li>
+	  <li>animal_1->синьою сойкою</li>
+	  <li>animal_1->собакою</li>
+	  <li>animal_1->совою</li>
+	  <li>animal_1->сойкою</li>
+	  <li>animal_1->соколом</li>
+	  <li>animal_1->сорокою</li>
+	  <li>animal_1->сурикатом</li>
+	  <li>animal_1->сійкою</li>
+	  <li>animal_1->тапіром</li>
+	  <li>animal_1->тарганом</li>
+	  <li>animal_1->термітом</li>
+	  <li>animal_1->ґавою</li>
+	  <li>animal_1->тетеруком</li>
+	  <li>animal_1->тетерям</li>
+	  <li>animal_1->тигром</li>
+	  <li>animal_1->тритоном</li>
+	  <li>animal_1->тріскою</li>
+	  <li>animal_1->тхіром</li>
+	  <li>animal_1->тюленем</li>
+	  <li>animal_1->фазаном</li>
+	  <li>animal_1->фламінго</li>
+	  <li>animal_1->фореллю</li>
+	  <li>animal_1->хом'ячоком</li>
+	  <li>animal_1->чайкою</li>
+	  <li>animal_1->чаплею</li>
+	  <li>animal_1->черв'яком</li>
+	  <li>animal_1->черепахою</li>
+	  <li>animal_1->шакалом</li>
+	  <li>animal_1->шершнем</li>
+	  <li>animal_1->шимпанзе</li>
+	  <li>animal_1->шиншиллою</li>
+	  <li>animal_1->щуром</li>
+	  <li>animal_2->сфіреною</li>
+	  <li>animal_2->змією</li>
+	  <li>animal_2->стерв'ятником</li>
+	  <li>animal_2->страусом</li>
+	  <li>animal_3->ягуаром</li>
+	  <li>animal_3->яком</li>
+	  <li>animal_3->яструбом</li>
+	  <li>animal_2->свинею</li>
+	  <li>animal_2->скатом</li>
+	  <li>animal_2->скорпіоном</li>
+	  <li>animal_2->скунсом</li>
+	  <li>animal_2->слоном</li>
+	  <li>animal_3->єнотом</li>
+	  <li>animal_3->єхидною</li>
+	  <li>animal_3->ібісом</li>
+	  <li>animal_3->ігуаною</li>
+	  <li>animal_3->індичкою</li>
+	  <li>animal_3->їжаком</li>
+	  <li>animal_3->устрицею</li>
+	  <li>animal_3->окапі</li>
+	  <li>animal_3->оленем</li>
+	  <li>animal_3->опосумом</li>
+	  <li>animal_3->орлом</li>
+	  <li>animal_3->оселедецем</li>
+	  <li>animal_3->осою</li>
+	  <li>animal_3->аардварком</li>
+	  <li>animal_3->акулою</li>
+	  <li>animal_3->альпакою</li>
+	  <li>animal_3->алігатором</li>
+	  <li>animal_3->антилопою</li>
+  </VSIE_Discord.logRulesInitiator.rulesStrings>
+  
+  <VSIE_Vent.label>виговорення</VSIE_Vent.label>
+  <VSIE_Vent.logRulesInitiator.rulesStrings>
+	  <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout_1] про [TalkTopicLight].</li>
+	  <li>r_logentry->[INITIATOR_nameDef] [talkedabout_2] про [TalkTopicLight] з [RECIPIENT_nameDef].</li>
+	  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [RECIPIENT_nameDef] про [TalkTopicLight].</li>
+	  
+	  <li>talkedabout_1(p=4)->балакали</li>
+	  <li>talkedabout_1->поділилися кількома словами</li>
+	  <li>talkedabout_1->говорили</li>
+	  <li>talkedabout_1->базікали</li>
+	  <li>talkedabout_1->розмовляли</li>
+	  <li>talkedabout_1->жартували</li>
+	  <li>talkedabout_1->шуткували</li>
+	  
+	  <li>talkedabout_2(p=4)->балака{INITIATOR_gender ? в : ла}</li>
+	  <li>talkedabout_2->поділи{INITIATOR_gender ? вся : лася} кількома словами</li>
+	  <li>talkedabout_2->говори{INITIATOR_gender ? в : ла}</li>
+	  <li>talkedabout_2->базіка{INITIATOR_gender ? в : ла}</li>
+	  <li>talkedabout_2->розмовля{INITIATOR_gender ? в : ла}</li>
+	  <li>talkedabout_2->жартува{INITIATOR_gender ? в : ла}</li>
+	  <li>talkedabout_2->шуткува{INITIATOR_gender ? в : ла}</li>
+	  
+	  <li>commentedabout->щось сказа{INITIATOR_gender ? в : ла} до</li>
+	  <li>commentedabout->не сказа{INITIATOR_gender ? в : ла} ні слова до</li>
+	  <li>commentedabout->зроби{INITIATOR_gender ? в : ла} зауваження</li>
+	  <li>commentedabout->зауважи{INITIATOR_gender ? в : ла}</li>
+	  <li>commentedabout->розпові{INITIATOR_gender ? в : ла} жарт до</li>
+  </VSIE_Vent.logRulesInitiator.rulesStrings>
+  
+  <VSIE_Teaching.label>навчання</VSIE_Teaching.label>
+  <VSIE_Teaching.logRulesInitiator.rulesStrings.0>r_logentry-></VSIE_Teaching.logRulesInitiator.rulesStrings.0>
+</LanguageData>

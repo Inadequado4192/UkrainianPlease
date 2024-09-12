@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Базова зброя -->
+  <MYDE_AF_UniversalWeapon_BaseGun.label>Базова зброя</MYDE_AF_UniversalWeapon_BaseGun.label>
+  <MYDE_AF_UniversalWeapon_BaseGun.description>Базова зброя, відповідає характеристикам вежі малих автоматичних кулеметів</MYDE_AF_UniversalWeapon_BaseGun.description>
+  <!-- Встановлення зброї: Міні-ган -->
+  <MYDE_AF_AddableWeapon_MiniGun.label>Зброя: Міні-ган</MYDE_AF_AddableWeapon_MiniGun.label>
+  <MYDE_AF_AddableWeapon_MiniGun.description>Встановити на літаючий апарат міні-ган</MYDE_AF_AddableWeapon_MiniGun.description>
+  <MYDE_AF_UniversalWeapon_MiniGun.label>Міні-ган</MYDE_AF_UniversalWeapon_MiniGun.label>
+  <MYDE_AF_UniversalWeapon_MiniGun.description>Міні-ган</MYDE_AF_UniversalWeapon_MiniGun.description>
+  <!-- Встановлення зброї: Снайперська гвинтівка -->
+  <MYDE_AF_AddableWeapon_SniperGun.label>Зброя: Снайперська гвинтівка</MYDE_AF_AddableWeapon_SniperGun.label>
+  <MYDE_AF_AddableWeapon_SniperGun.description>Встановити на літаючий апарат снайперську гвинтівку</MYDE_AF_AddableWeapon_SniperGun.description>
+  <MYDE_AF_UniversalWeapon_SniperGun.label>Снайперська гвинтівка</MYDE_AF_UniversalWeapon_SniperGun.label>
+  <MYDE_AF_UniversalWeapon_SniperGun.description>Снайперська гвинтівка</MYDE_AF_UniversalWeapon_SniperGun.description>
+  <!-- Встановлення зброї: Гранатомет -->
+  <MYDE_AF_AddableWeapon_GrenadeGun.label>Зброя: Гранатомет</MYDE_AF_AddableWeapon_GrenadeGun.label>
+  <MYDE_AF_AddableWeapon_GrenadeGun.description>Встановити на літаючий апарат гранатомет</MYDE_AF_AddableWeapon_GrenadeGun.description>
+  <MYDE_AF_UniversalWeapon_GrenadeGun.label>Гранатомет</MYDE_AF_UniversalWeapon_GrenadeGun.label>
+  <MYDE_AF_UniversalWeapon_GrenadeGun.description>Гранатомет</MYDE_AF_UniversalWeapon_GrenadeGun.description>
+  <MYDE_AF_UniversalWeapon_GrenadeGun_Projectile.label>Граната</MYDE_AF_UniversalWeapon_GrenadeGun_Projectile.label>
+</LanguageData>

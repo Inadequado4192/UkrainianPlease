@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<VEF_AnimalResource.label>освіжування</VEF_AnimalResource.label>
+	<VEF_AnimalResource.verb>освіжовує тушу</VEF_AnimalResource.verb>
+	<VEF_AnimalResource.gerund>освіжування туші</VEF_AnimalResource.gerund>
+	
+	<VEF_DestroyItems.label>знищення предметів</VEF_DestroyItems.label>
+	<VEF_DestroyItems.verb>знищує предмети</VEF_DestroyItems.verb>
+	<VEF_DestroyItems.gerund>знищення предметів</VEF_DestroyItems.gerund>
+</LanguageData>

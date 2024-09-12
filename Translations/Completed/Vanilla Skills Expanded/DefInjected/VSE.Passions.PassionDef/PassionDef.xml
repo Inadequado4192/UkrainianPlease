@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <None.label>без бажання</None.label>
+  <None.description>ніякої пристрасті</None.description>
+  <Minor.label>цікавить</Minor.label>
+  <Minor.description>маленька пристрасть</Minor.description>
+  <Major.label>дуже цікавить</Major.label>
+  <Major.description>головна пристрасть</Major.description>
+  <VSE_Apathy.label>апатія</VSE_Apathy.label>
+  <VSE_Apathy.description>відсутність інтересу до цієї навички</VSE_Apathy.description>
+  <VSE_Natural.label>природний хист</VSE_Natural.label>
+  <VSE_Natural.description>Природно, поселенець добре володіє цією навичкою. Однак це не означає, що він буде продовжувати практику.</VSE_Natural.description>
+  <VSE_Critical.label>критична пристрасть</VSE_Critical.label>
+  <VSE_Critical.description>Ця навичка є надзвичайно важливою для поселенця, в певному сенсі, скоріш за все, через події в своєму минулому.</VSE_Critical.description>
+</LanguageData>

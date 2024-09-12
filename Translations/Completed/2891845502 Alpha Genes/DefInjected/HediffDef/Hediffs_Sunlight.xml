@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lethal UV sensitivity -->
+  <AG_Sensitivity_Lethal_Hediff.label>смертельна чутливість до УФ-випромінювання</AG_Sensitivity_Lethal_Hediff.label>
+  <!-- EN: This person will quickly burn to death under direct sunlight. -->
+  <AG_Sensitivity_Lethal_Hediff.description>Така людина швидко згорить під прямими сонячними променями.</AG_Sensitivity_Lethal_Hediff.description>
+  
+  <!-- EN: vicious UV sensitivity -->
+  <AG_Sensitivity_Vicious_Hediff.label>підвищена чутливість до УФ-випромінювання</AG_Sensitivity_Vicious_Hediff.label>
+  <!-- EN: This person will be knocked unconscious under direct sunlight. -->
+  <AG_Sensitivity_Vicious_Hediff.description>Ця людина втратить свідомість під прямими сонячними променями.</AG_Sensitivity_Vicious_Hediff.description>
+  
+  <!-- EN: minor UV sensitivity -->
+  <AG_UVSensitivity_Minor_Hediff.label>незначна чутливість до УФ-випромінювання</AG_UVSensitivity_Minor_Hediff.label>
+  <!-- EN: This person's eyes will hurt slightly under direct sunlight. -->
+  <AG_UVSensitivity_Minor_Hediff.description>Очі цієї людини злегка болітимуть під прямими сонячними променями.</AG_UVSensitivity_Minor_Hediff.description>
+  
+</LanguageData>

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VSIE_SoldMyBestFriend.stages.best_friend_sold.label>найліпший друг проданий</VSIE_SoldMyBestFriend.stages.best_friend_sold.label>
+  <VSIE_SoldMyBestFriend.stages.best_friend_sold.description>Мого найліпшого друга продали торговцю, як шматок м'яса!</VSIE_SoldMyBestFriend.stages.best_friend_sold.description>
+  <VSIE_SoldMyBestFriend.stages.best_friend_sold.labelSocial>продали мого найліпшого друга</VSIE_SoldMyBestFriend.stages.best_friend_sold.labelSocial>
+  
+  <VSIE_KilledMyBestFriend.stages.killed_my_best_friend.label>мого найліпшого друга вбили</VSIE_KilledMyBestFriend.stages.killed_my_best_friend.label>
+  
+  <VSIE_MyBestFriendLost.stages.my_best_friend_lost.label>Мій найліпший друг зник</VSIE_MyBestFriendLost.stages.my_best_friend_lost.label>
+  <VSIE_MyBestFriendLost.stages.my_best_friend_lost.description>Мій найліпший друг зник. Сподіваюся, він колись повернеться.</VSIE_MyBestFriendLost.stages.my_best_friend_lost.description>
+  <VSIE_MyBestFriendLost_Female.stages.my_best_friend_lost.label>Моя найліпша подруга зникла</VSIE_MyBestFriendLost_Female.stages.my_best_friend_lost.label>
+  <VSIE_MyBestFriendLost_Female.stages.my_best_friend_lost.description>Моя найліпша подруга зникла. Сподіваюся, вона колись повернеться.</VSIE_MyBestFriendLost_Female.stages.my_best_friend_lost.description>
+
+  <VSIE_MyBestFriendDied.stages.my_best_friend_died.label>Мій найліпший друг помер</VSIE_MyBestFriendDied.stages.my_best_friend_died.label>
+  <VSIE_MyBestFriendDied.stages.my_best_friend_died.description>Мій найліпший друг помер. Як це могло статися!</VSIE_MyBestFriendDied.stages.my_best_friend_died.description>
+  <VSIE_MyBestFriendDied_Female.stages.my_best_friend_died.label>Моя найліпша подруга померла</VSIE_MyBestFriendDied_Female.stages.my_best_friend_died.label>
+  <VSIE_MyBestFriendDied_Female.stages.my_best_friend_died.description>Моя найліпша подруга померла. Як це могло статися!</VSIE_MyBestFriendDied_Female.stages.my_best_friend_died.description>
+
+  <VSIE_OpinionOfMyBestFriend.stages.opinion_of_my.label>думка про {1}</VSIE_OpinionOfMyBestFriend.stages.opinion_of_my.label>
+  <VSIE_OpinionOfMyBestFriend.stages.opinion_of_my.description>Коли поруч найліпший друг - я відчуваю себе краще.</VSIE_OpinionOfMyBestFriend.stages.opinion_of_my.description>
+
+  <VSIE_InspirationSatisfied.stages.inspiration_satisfied.label>натхнення задоволене</VSIE_InspirationSatisfied.stages.inspiration_satisfied.label>
+  <VSIE_InspirationSatisfied.stages.inspiration_satisfied.description>Я здійсни{PAWN_gender ? в : ла} своє прагнення!</VSIE_InspirationSatisfied.stages.inspiration_satisfied.description>
+
+  <VSIE_InspirationNotSatisfied.stages.inspiration_not_satisfied.label>натхнення не задоволене</VSIE_InspirationNotSatisfied.stages.inspiration_not_satisfied.label>
+  <VSIE_InspirationNotSatisfied.stages.inspiration_not_satisfied.description>Я не здійсни{PAWN_gender ? в : ла} своє прагнення...</VSIE_InspirationNotSatisfied.stages.inspiration_not_satisfied.description>
+
+  <VSIE_HadNiceChatWithBeer.stages.had_a_nice_chat_with_a_beer.label>поспілкувалися за пивом</VSIE_HadNiceChatWithBeer.stages.had_a_nice_chat_with_a_beer.label>
+  <VSIE_HadNiceChatWithBeer.stages.had_a_nice_chat_with_a_beer.description>Я насолоджува{PAWN_gender ? вся : лася} невеликою бесідою і холодним пивом в руці.</VSIE_HadNiceChatWithBeer.stages.had_a_nice_chat_with_a_beer.description>
+
+  <VSIE_AttendedBingeParty.stages.Attended_binge_party.label>Відвіда{PAWN_gender ? в : ла} п'янку</VSIE_AttendedBingeParty.stages.Attended_binge_party.label>
+  <VSIE_AttendedBingeParty.stages.Attended_binge_party.description>Я чудово пров{PAWN_gender ? ів : ела} час на п'янці.</VSIE_AttendedBingeParty.stages.Attended_binge_party.description>
+
+  <VSIE_AttendedOutdoorParty.stages.Attended_outdoor_party.label>Відвідана вечірку на природі</VSIE_AttendedOutdoorParty.stages.Attended_outdoor_party.label>
+  <VSIE_AttendedOutdoorParty.stages.Attended_outdoor_party.description>Я чудово пров{PAWN_gender ? ів : ела} час на вулиці!</VSIE_AttendedOutdoorParty.stages.Attended_outdoor_party.description>
+
+  <VSIE_GotSomeClosure.stages.Got_some_closure.label>Зроблені висновки</VSIE_GotSomeClosure.stages.Got_some_closure.label>
+  <VSIE_GotSomeClosure.stages.Got_some_closure.description>Я буду плекати кожен спогад.</VSIE_GotSomeClosure.stages.Got_some_closure.description>
+
+  <VSIE_AttendedBirthdayParty.stages.Attended_birthday_party.label>Відвіданий день народження</VSIE_AttendedBirthdayParty.stages.Attended_birthday_party.label>
+  <VSIE_AttendedBirthdayParty.stages.Attended_birthday_party.description>Я чудово пров{PAWN_gender ? ів : ела} час на вечірці на честь дня народження.</VSIE_AttendedBirthdayParty.stages.Attended_birthday_party.description>
+
+  <VSIE_HadBirthdayParty.stages.Had_a_birthday_party.label>Відсвяткований день народження</VSIE_HadBirthdayParty.stages.Had_a_birthday_party.label>
+  <VSIE_HadBirthdayParty.stages.Had_a_birthday_party.description>Вони влаштували вечірку на честь мого дня народження!</VSIE_HadBirthdayParty.stages.Had_a_birthday_party.description>
+
+  <VSIE_SufferedLossPositive.stages.Suffered_a_loss.label>Зазнали шкоди</VSIE_SufferedLossPositive.stages.Suffered_a_loss.label>
+  <VSIE_SufferedLossPositive.stages.Suffered_a_loss.description>Ми програли, але не здамося!</VSIE_SufferedLossPositive.stages.Suffered_a_loss.description>
+
+  <VSIE_SufferedLossNegative.stages.Suffered_a_loss.label>Зазнали шкоди</VSIE_SufferedLossNegative.stages.Suffered_a_loss.label>
+  <VSIE_SufferedLossNegative.stages.Suffered_a_loss.description>Ми забагато втратили...</VSIE_SufferedLossNegative.stages.Suffered_a_loss.description>
+
+  <VSIE_SharingBurden.stages.sharing_the_burden.label>розділений тягар</VSIE_SharingBurden.stages.sharing_the_burden.label>
+  <VSIE_SharingBurden.stages.sharing_the_burden.description>Було приємно нарешті розкрити свої почуття перед другом.</VSIE_SharingBurden.stages.sharing_the_burden.description>
+
+  <VSIE_VentedOnMe.stages.my_friend_vented_to_me.label>друг виговорився мені</VSIE_VentedOnMe.stages.my_friend_vented_to_me.label>
+  <VSIE_VentedOnMe.stages.my_friend_vented_to_me.description>Мій друг відкрив мені свої почуття.</VSIE_VentedOnMe.stages.my_friend_vented_to_me.description>
+
+  <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.Jealously.label>Ревнощі</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.Jealously.label>
+  ???<VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.Jealously.description>Я ревную. Мій партнер пішов на побачення з кимось іншим!</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.Jealously.description>
+
+  <VSIE_SocialEnvironment.stages.Good_reputation.label>Хороша репутація</VSIE_SocialEnvironment.stages.Good_reputation.label>
+  <VSIE_SocialEnvironment.stages.Good_reputation.description>Мене тут люблять і поважають. Я потріб{PAWN_gender ? ен : на} цим людям.</VSIE_SocialEnvironment.stages.Good_reputation.description>
+  
+  <VSIE_SocialEnvironment.stages.Bad_reputation.label>Погана репутація</VSIE_SocialEnvironment.stages.Bad_reputation.label>
+  <VSIE_SocialEnvironment.stages.Bad_reputation.description>Мені тут не весело. Ніхто мене не поважає!</VSIE_SocialEnvironment.stages.Bad_reputation.description>
+
+  <VSIE_BondedPetButcheredOpinion.stages.butchered_my_bonded_pet_I_will_never_forgive.label>{BUTCHER_nameDef} розділи{BUTCHER_gender ? в : ла} мого домашнього улюбленця {VICTIM_nameDef}, я ніколи {BUTCHER_possessive} не пробачу.</VSIE_BondedPetButcheredOpinion.stages.butchered_my_bonded_pet_I_will_never_forgive.label>
+
+  <VSIE_ExposedCorpseOfMyFriendOpinion.stages.dug_up_and_exposed_the_corpse_of_my_I_will_always_despise_for_this.label>{OTHERPAWN_nameDef} відкопа{OTHERPAWN_gender ? в : ла} та витягнув труп {VICTIM_gender ? мого найліпшого друга : моєї найліпшої подруги} – {VICTIM_nameDef}, я завжди буду зневажати {OTHERPAWN_possessive} за це</VSIE_ExposedCorpseOfMyFriendOpinion.stages.dug_up_and_exposed_the_corpse_of_my_I_will_always_despise_for_this.label>
+
+  <VSIE_IngestedHumanFlesh.stages.ate_human_flesh_I_will_always_be_afraid_of.label>{OTHERPAWN_nameDef} з'ї{OTHERPAWN_gender ? в : ла} людське м'ясо. Я завжди буду боятися {OTHERPAWN_possessive}</VSIE_IngestedHumanFlesh.stages.ate_human_flesh_I_will_always_be_afraid_of.label>
+
+  <VSIE_BingedFood.stages.binged_on_food_How_wasteful.label>{OTHERPAWN_nameDef} об'їда{OTHERPAWN_gender ? вся : лася}. Яке марнотратство</VSIE_BingedFood.stages.binged_on_food_How_wasteful.label>
+
+  <VSIE_BingedDrug.stages.binged_on_drugs_I_dont_need_a_junkie_in_my_life.label>{OTHERPAWN_nameDef} обштири{OTHERPAWN_gender ? вся : лася} наркотиків. Мені не {OTHERPAWN_gender ? потрібен наркоман у : потрібна наркоманка в} моєму житті</VSIE_BingedDrug.stages.binged_on_drugs_I_dont_need_a_junkie_in_my_life.label>
+
+  <VSIE_HideInRoom.stages.was_hiding_in_room_Weirdo.label>{OTHERPAWN_nameDef} ховається у своїй кімнаті. {OTHERPAWN_gender ? Дивак : Дивачка}</VSIE_HideInRoom.stages.was_hiding_in_room_Weirdo.label>
+
+  <VSIE_WanderedInSaddness.stages.wandered_in_sadness_I_feel_pity_for.label>{OTHERPAWN_nameDef} бродить у меланхолії. Мені шкода {OTHERPAWN_possessive}</VSIE_WanderedInSaddness.stages.wandered_in_sadness_I_feel_pity_for.label>
+
+  <VSIE_WentIntoSadisticRage.stages.went_into_sadistic_rage_Its_absolutely_disgusting.label>У {OTHERPAWN_nameDef} був прояв садизму. Це абсолютно огидно</VSIE_WentIntoSadisticRage.stages.went_into_sadistic_rage_Its_absolutely_disgusting.label>
+
+  <VSIE_ThrewTantrum.stages.threw_a_tantrum_needs_to_be_taught_some_self_control.label>{OTHERPAWN_nameDef} влаштува{OTHERPAWN_gender ? в : ла} істерику. {OTHERPAWN_gender ? Йому : Їй} треба повчитися самоконтролю</VSIE_ThrewTantrum.stages.threw_a_tantrum_needs_to_be_taught_some_self_control.label>
+
+  <VSIE_WentBerserk.stages.went_berserk_I_can_never_feel_safe_around.label>{OTHERPAWN_nameDef} увійш{OTHERPAWN_gender ? ов у : ла в} кураж. Поруч з {OTHERPAWN_gender ? ним : нею} я не відчуваю себе у безпеці</VSIE_WentBerserk.stages.went_berserk_I_can_never_feel_safe_around.label>
+
+  <VSIE_WentOnFireStartingSpree.stages.went_on_a_fire_starting_spree_It_was_so_close_and_everything_we_know_would_have_turned_to_ash_How_can_I_forgive_that.label>У {OTHERPAWN_nameDef} приступ піроманії. Ще трохи, і все, що ми знаємо, перетворилося б на попіл. Як я можу це пробачити?</VSIE_WentOnFireStartingSpree.stages.went_on_a_fire_starting_spree_It_was_so_close_and_everything_we_know_would_have_turned_to_ash_How_can_I_forgive_that.label>
+
+  <VSIE_WentOnMurderousRage.stages.went_on_a_murderous_rage_What_if_Im_next_target.label>У {OTHERPAWN_nameDef} приступ жаги до вбивства. Що, якщо я стану {OTHERPAWN_possessive} наступною ціллю?</VSIE_WentOnMurderousRage.stages.went_on_a_murderous_rage_What_if_Im_next_target.label>
+
+  <VSIE_RanWild.stages.ran_wild_Weirdo.label>{OTHERPAWN_nameDef} здичаві{OTHERPAWN_gender ? в : ла}. {OTHERPAWN_gender ? Дивак : Дивачка}</VSIE_RanWild.stages.ran_wild_Weirdo.label>
+
+  <VSIE_InsultedMe.stages.insulted_me_Words_cut_deeper_than_daggers.label>{OTHERPAWN_nameDef} образи{OTHERPAWN_gender ? в : ла} мене. Слова ранять сильніше за мечі</VSIE_InsultedMe.stages.insulted_me_Words_cut_deeper_than_daggers.label>
+
+  <VSIE_SlaughteredAnimalInRage.stages.slaughtered_our_animal_in_a_blind_rage_I_despise.label>{OTHERPAWN_nameDef} заріза{OTHERPAWN_gender ? в : ла} нашу тварину в сліпій люті. Я зневажаю {OTHERPAWN_possessive}</VSIE_SlaughteredAnimalInRage.stages.slaughtered_our_animal_in_a_blind_rage_I_despise.label>
+
+  <VSIE_RebuffedMe.stages.rebuffed_me_I_thought_was_the_one.label>{OTHERPAWN_nameDef} відши{OTHERPAWN_gender ? в : ла} мене. Я дума{PAWN_gender ? в : ла}, що {OTHERPAWN_pronoun} {OTHERPAWN_gender ? той самий : та сама}</VSIE_RebuffedMe.stages.rebuffed_me_I_thought_was_the_one.label>
+
+  <VSIE_InducedPrisonerToEscape.stages.broke_our_prisoners_free_It_could_have_ended_very_badly.label>{OTHERPAWN_nameDef} звільнис наших в'язнів. Це могло закінчитися дуже погано!</VSIE_InducedPrisonerToEscape.stages.broke_our_prisoners_free_It_could_have_ended_very_badly.label>
+
+  <VSIE_TamedThrumbo.stages.tamed_a_thrumbo_What_a_legendary_feat.label>{OTHERPAWN_nameDef} приручи{OTHERPAWN_gender ? в : ла} трумбо. Який легендарний подвиг!</VSIE_TamedThrumbo.stages.tamed_a_thrumbo_What_a_legendary_feat.label>
+
+  <VSIE_WasPreviouslyOurEnemy.stages.was_previously_our_enemy_I_dont_trust.label>{OTHERPAWN_nameDef} раніше бу{OTHERPAWN_gender ? в : ла} нашим ворогом. Я не довіряю {OTHERPAWN_gender ? йому : їй}</VSIE_WasPreviouslyOurEnemy.stages.was_previously_our_enemy_I_dont_trust.label>
+
+  <VSIE_WasBadlyInjured.stages.was_badly_injured_in_battle_I_admire_courage.label>{OTHERPAWN_nameDef} бу{OTHERPAWN_gender ? в : ла} важко поранен{OTHERPAWN_gender ? ий : а} в бою. Я захоплююся {OTHERPAWN_possessive} сміливістю</VSIE_WasBadlyInjured.stages.was_badly_injured_in_battle_I_admire_courage.label>
+
+  <VSIE_DidNotAttendWedding.stages.didnt_attend_our_wedding_ceremony_Was_it_so_hard_to_come_and_just_be_with_me_on_that_day.label>{OTHERPAWN_nameDef} не прийш{OTHERPAWN_gender ? ов : ла} на наше весілля! Невже так важко було прийти і просто бути поруч в той день?</VSIE_DidNotAttendWedding.stages.didnt_attend_our_wedding_ceremony_Was_it_so_hard_to_come_and_just_be_with_me_on_that_day.label>
+
+  <VSIE_AttendedMyWedding.stages.attended_my_wedding.label>{OTHERPAWN_nameDef} прийш{OTHERPAWN_gender ? ов : ла} на моє весілля</VSIE_AttendedMyWedding.stages.attended_my_wedding.label>
+
+  <VSIE_RemovedPrisonersOrgans.stages.removed_the_prisoners_organs_How_can_a_person_be_capable_of_such_a_thing.label>{OTHERPAWN_nameDef} вилучи{OTHERPAWN_gender ? в : ла} органи ув'язненого! Як людина взагалі може бути здатна на таке?</VSIE_RemovedPrisonersOrgans.stages.removed_the_prisoners_organs_How_can_a_person_be_capable_of_such_a_thing.label>
+
+  <VSIE_FailedMedicalOperationAndKilled.stages.failed_a_medical_operation_and_killed_one_of_us.label>{OTHERPAWN_nameDef} помили{OTHERPAWN_gender ? вся : лася} під час операції та вби{OTHERPAWN_gender ? в : ла} одного з нас</VSIE_FailedMedicalOperationAndKilled.stages.failed_a_medical_operation_and_killed_one_of_us.label>
+
+  <VSIE_TamedMe.stages.tamed_me_I_will_always_be_glad_of_the_wonders_theyve_shown_me.label>{OTHERPAWN_nameDef} приручи{OTHERPAWN_gender ? в : ла} мене. Я завжди буду тішитися чудесами цивілізації, які вони мені показали.</VSIE_TamedMe.stages.tamed_me_I_will_always_be_glad_of_the_wonders_theyve_shown_me.label>
+
+  <VSIE_ArrestedMe.stages.arrested_me.label>{OTHERPAWN_nameDef} арештува{OTHERPAWN_gender ? в : ла} мене</VSIE_ArrestedMe.stages.arrested_me.label>
+
+  <VSIE_ResurrectedMe.stages.resurrected_me.label>{OTHERPAWN_nameDef} воскреси{OTHERPAWN_gender ? в : ла} мене</VSIE_ResurrectedMe.stages.resurrected_me.label>
+
+  <VSIE_BrokeUpWithMe.stages.broke_up_with_me_Will_I_ever_find_someone_else.label>{OTHERPAWN_nameDef} кину{OTHERPAWN_gender ? в : ла} мене. Чи знайду я колись собі пару знов...</VSIE_BrokeUpWithMe.stages.broke_up_with_me_Will_I_ever_find_someone_else.label>
+
+  <VSIE_WeHadNiceChat.stages.and_I_had_a_nice_chat_It_feels_like_we_can_talk_about_anything.label>Ми з {OTHERPAWN_nameDef} гарно поспілкувалися. Думаю, що ми можемо говорити про що завгодно</VSIE_WeHadNiceChat.stages.and_I_had_a_nice_chat_It_feels_like_we_can_talk_about_anything.label>
+
+  <VSIE_WeHadSocialFight.stages.and_I_had_a_social_fight.label>{OTHERPAWN_nameDef} і у мене була побутова бійка</VSIE_WeHadSocialFight.stages.and_I_had_a_social_fight.label>
+
+  <VSIE_SavedMeFromMyWounds.stages.saved_me_from_my_wounds_I_will_always_be_in_debt.label>{OTHERPAWN_nameDef} врятува{OTHERPAWN_gender ? в : ла} мене від поранень. Я завжди буду в боргу перед {OTHERPAWN_gender ? ним : нею}</VSIE_SavedMeFromMyWounds.stages.saved_me_from_my_wounds_I_will_always_be_in_debt.label>
+
+  <VSIE_HasBeenMyFriendSinceChildhood.stages.has_been_my_friend_since_childhood_we_have_so_much_in_common_that_no_one_can_separate_us.label>{OTHERPAWN_nameDef} – {OTHERPAWN_gender ? мій друг : моя подруга} дитинства, у нас так багато спільного, що ніхто не може нас розлучити</VSIE_HasBeenMyFriendSinceChildhood.stages.has_been_my_friend_since_childhood_we_have_so_much_in_common_that_no_one_can_separate_us.label>
+
+  <VSIE_SavedMeFromRaiders.stages.saved_me_from_I_will_always_be_in_debt.label>{SECONDPAWN_nameDef} врятува{SECONDPAWN_nameDef ? в : ла} мене від {THIRDPAWN_kindDef}, я завжди буду у {SECONDPAWN_nameDef ? нього : неї} в боргу</VSIE_SavedMeFromRaiders.stages.saved_me_from_I_will_always_be_in_debt.label>
+
+  <VSIE_CuredMyFriend.stages.cured_my_I_will_always_be_grateful_to.label>{SECONDPAWN_nameDef} вилікува{SECONDPAWN_nameDef ? в : ла} {THIRDPAWN_nameDef}, дорогу для мене людину, я завжди буду вдячн{PAWN_gender ? ий : а} {SECONDPAWN_nameDef ? йому : їй}</VSIE_CuredMyFriend.stages.cured_my_I_will_always_be_grateful_to.label>
+
+  <VSIE_StoleMyLover.stages.stole_away_from_me_What_makes_so_much_better.label>{THIRDPAWN_nameDef} відби{THIRDPAWN_gender ? в : ла} у мене {SECONDPAWN_nameDef}. Що робить {THIRDPAWN_possessive} {THIRDPAWN_gender ? кращим : кращою} за мене?</VSIE_StoleMyLover.stages.stole_away_from_me_What_makes_so_much_better.label>
+
+  <VSIE_IsRoyalty.stages.is_royalty_Im_impressed.label>{OTHERPAWN_nameDef} – особа з «блакитною кров'ю». Я вражен{PAWN_gender ? ий : а}</VSIE_IsRoyalty.stages.is_royalty_Im_impressed.label>
+
+  <VSIE_GotSomeLovin.stages.got_some_lovin.label>покоха{OTHERPAWN_gender ? вся : лася}</VSIE_GotSomeLovin.stages.got_some_lovin.label>
+  <VSIE_GotSomeLovin.stages.got_some_lovin.description>Ніщо так не піднімає настрій, як нічна перевірка матраців на міцність.</VSIE_GotSomeLovin.stages.got_some_lovin.description>
+</LanguageData>

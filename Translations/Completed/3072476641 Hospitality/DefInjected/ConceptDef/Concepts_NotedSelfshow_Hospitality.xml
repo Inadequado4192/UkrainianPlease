@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught through the learning readout, with no opportunity needed -->
+
+  <Hospitality.label>Гостинність</Hospitality.label>
+  <Hospitality.helpText>Коли прибуває група відвідувачів, вони користуються вашими розважальними закладами, сплять на гостьових ліжках і купують предмети в дозволеній для них зоні.\n\nЯкщо їм сподобався візит, це підвищить вашу репутацію серед їхньої фракції.</Hospitality.helpText>
+
+
+</LanguageData>

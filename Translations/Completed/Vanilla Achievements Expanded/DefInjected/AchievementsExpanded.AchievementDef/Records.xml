@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <OneShotOneKill.label>Влучніше За Рево</OneShotOneKill.label>
+  <OneShotOneKill.description>Нехай один поселенець 100 разів влучить в голову</OneShotOneKill.description>
+  
+  <TriggerHappy.label>Психопат зі Зброєю</TriggerHappy.label>
+  <TriggerHappy.description>Нехай один поселенець зробить 2000 пострілів</TriggerHappy.description>
+  
+  <OneSolidGardner.label>Посівна</OneSolidGardner.label>
+  <OneSolidGardner.description>Нехай один поселенець посіє 10,000 рослин</OneSolidGardner.description>
+
+  <LifeSentence.label>Довічний Вирок</LifeSentence.label>
+  <LifeSentence.description>Мати одного ув'язненого протягом 2 років</LifeSentence.description>
+
+  <IMightNeedAShrink.label>Можливо, Мені Потрібен Психіатр</IMightNeedAShrink.label>
+  <IMightNeedAShrink.description>Нехай один поселенець проведе загалом 24 години в психічних зривах</IMightNeedAShrink.description>
+
+  <DrDolittle.label>Доктор Дулітл</DrDolittle.label>
+  <DrDolittle.description>Нехай один поселенець приручить 50 тварин</DrDolittle.description>
+
+  <ProfessionalStripper.label>Професійний Стриптизер</ProfessionalStripper.label>
+  <ProfessionalStripper.description>Нехай один поселенець роздягне 100 трупів</ProfessionalStripper.description>
+
+  <BladeRunner.label>Той, Хто Біжить По Лезу</BladeRunner.label>
+  <BladeRunner.description>Нехай один поселенець знищить 50 механоїдів</BladeRunner.description>
+
+  <ThreeStarMichelin.label>3 Зірки Мішлена</ThreeStarMichelin.label>
+  <ThreeStarMichelin.description>Нехай один поселенець приготує 10,000 страв</ThreeStarMichelin.description>
+
+  <ScrubUp.label>Помийте Руки</ScrubUp.label>
+  <ScrubUp.description>Провести загалом 50 операцій</ScrubUp.description>
+
+  <TheRimsBrightest.label>Найкращі з Найкращих</TheRimsBrightest.label>
+  <TheRimsBrightest.description>Витратити загалом 2 роки на дослідження</TheRimsBrightest.description>
+
+  <IWishThisWasIkea.label>Краще Би Купили в Епіцентрі</IWishThisWasIkea.label>
+=  <IWishThisWasIkea.description>Побудувати ТА розібрати загалом 100 конструкцій</IWishThisWasIkea.description>
+
+  <ImOnFire.label>Мені Подобається Як Воно Горить</ImOnFire.label>
+  <ImOnFire.description>Нехай один поселенець проведе у вогні загалом 3 дні</ImOnFire.description>
+</LanguageData>

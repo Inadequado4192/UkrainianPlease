@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VAE_Headgear_RoyalTrooperHelmet.label>престижний військовий шолом</VAE_Headgear_RoyalTrooperHelmet.label>
+  <VAE_Headgear_RoyalTrooperHelmet.description>Високотехнологічний і легкий броньований шолом із захисним пласталевим волокном.\n\nТака дорога і красива престижна броня зазвичай виготовляється для тих, хто має високий статус. Вшиті елтексні волокна покращують психічну чутливість носія.</VAE_Headgear_RoyalTrooperHelmet.description>
+
+  <VAE_Apparel_RoyalTrooperArmor.label>престижна військова броня</VAE_Apparel_RoyalTrooperArmor.label>
+  <VAE_Apparel_RoyalTrooperArmor.description>Легка та малопотужна броня. Переплетені між собою пласталеві пластини є дуже ефективними в зупинці атак, а нейроімітуючі механізми дають змогу носити броню з відносною легкістю. Вона тонша, ніж інша силова броня, і її можна носити під одягом.\n\nТака дорога і красива престижна броня зазвичай виготовляється для тих, хто має високий статус. Вшиті елтексні волокна покращують психічну чутливість носія.</VAE_Apparel_RoyalTrooperArmor.description>
+
+  <VAE_Headgear_TrooperHelmet.label>військовий шолом</VAE_Headgear_TrooperHelmet.label>
+  <VAE_Headgear_TrooperHelmet.description>Високотехнологічний і легкий броньований шолом із захисним пласталевим волокном.\n\nТака броня часто використовується імперськими призовниками та збройними силами світами Пізнього Середньовіччя.</VAE_Headgear_TrooperHelmet.description>
+
+  <VAE_Apparel_TrooperArmor.label>військова броня</VAE_Apparel_TrooperArmor.label>
+  <VAE_Apparel_TrooperArmor.description>Легка та малопотужна броня. Переплетені між собою пласталеві пластини є дуже ефективними в зупинці атак, а нейроімітуючі механізми дають змогу носити броню з відносною легкістю. Вона тонша, ніж інша силова броня, і її можна носити під одягом.\n\nТака броня часто використовується імперськими призовниками та збройними силами світами Пізнього Середньовіччя.</VAE_Apparel_TrooperArmor.description>
+
+  <VAE_Headgear_RoyalSiegeHelmet.label>престижний штурмовий шолом</VAE_Headgear_RoyalSiegeHelmet.label>
+  <VAE_Headgear_RoyalSiegeHelmet.description>Важкоброньований високотехнологічний шолом, з міцним пласталевим корпусом та камерою всебічного огляду.\n\nТака дорога і красива престижна броня зазвичай виготовляється для тих, хто має високий статус. Вшиті елтексні волокна покращують психічну чутливість носія.</VAE_Headgear_RoyalSiegeHelmet.description>
+
+  <VAE_Apparel_RoyalSiegeArmor.label>престижна штурмова броня</VAE_Apparel_RoyalSiegeArmor.label>
+  <VAE_Apparel_RoyalSiegeArmor.description>Важкоброньована силова броня, створена для посилення захисту, зберігаючи при цьому мобільність. Переплетені між собою декількома шарами, пласталеві пластини, в поєднанні з вбудованим енергетичним щитом, блокують більшість атак. Нейроімітуючі механізми дозволяють носити цю броню людині, не знерухомлюючи її повністю.\n\nТака дорога і красива престижна броня зазвичай виготовляється для тих, хто має високий статус. Вшиті елтексні волокна покращують психічну чутливість носія.</VAE_Apparel_RoyalSiegeArmor.description>
+
+  <VAE_Headgear_HeavyMarineHelmet.label>штурмовий шолом</VAE_Headgear_HeavyMarineHelmet.label>
+  <VAE_Headgear_HeavyMarineHelmet.description>Важкоброньований високотехнологічний шолом, з міцним пласталевим корпусом та камерою всебічного огляду.\n\nУ такій броні часто воюють імперські штурмовики та миротворці з блискосвіту.</VAE_Headgear_HeavyMarineHelmet.description>
+
+  <VAE_Apparel_HeavyMarineArmor.label>штурмова броня</VAE_Apparel_HeavyMarineArmor.label>
+  <VAE_Apparel_HeavyMarineArmor.description>Важкоброньована силова броня, створена для посилення захисту, зберігаючи при цьому мобільність. Переплетені між собою декількома шарами, пласталеві пластини, в поєднанні з вбудованим енергетичним щитом, блокують більшість атак. Нейроімітуючі механізми дозволяють носити цю броню людині, не знерухомлюючи її повністю.\n\nУ такій броні часто воюють імперські штурмовики та миротворці з блискосвіту.</VAE_Apparel_HeavyMarineArmor.description>
+
+  <VAE_Footwear_PlateBoots.label>латні чоботи</VAE_Footwear_PlateBoots.label>
+  <VAE_Footwear_PlateBoots.description>Пара простих латних чоботів. Через свою вагу вони сповільнюють носія.</VAE_Footwear_PlateBoots.description>
+
+  <VAE_Apparel_LightPlateArmor.label>легкі латні обладунки</VAE_Apparel_LightPlateArmor.label>
+  <VAE_Apparel_LightPlateArmor.description>Бронепластини, накладені одна на одну, що захищають груди та плечі.</VAE_Apparel_LightPlateArmor.description>
+
+  <VAE_Apparel_PlateShoulderpads.label>латні наплічники</VAE_Apparel_PlateShoulderpads.label>
+  <VAE_Apparel_PlateShoulderpads.description>Пара простих латних наплічників.</VAE_Apparel_PlateShoulderpads.description>
+
+  <VAE_Apparel_Chestplate.label>кіраса</VAE_Apparel_Chestplate.label>
+  <VAE_Apparel_Chestplate.description>Металева нагрудна пластина, що забезпечує високий захист від більшості пошкоджень, але значно обмежує рухи.</VAE_Apparel_Chestplate.description>
+
+  <VAE_Apparel_PlateHelmet.label>латний шолом</VAE_Apparel_PlateHelmet.label>
+  <VAE_Apparel_PlateHelmet.description>Латний шолом, який забезпечує помірний захист від ріжучих ударів.</VAE_Apparel_PlateHelmet.description>
+
+  <VAE_Handwear_PlateGloves.label>латні рукавиці</VAE_Handwear_PlateGloves.label>
+  <VAE_Handwear_PlateGloves.description>Пара простих латних рукавиць. Через товщину матеріалу вони знижують загальну швидкість роботи носія.</VAE_Handwear_PlateGloves.description>
+
+  <VAE_Apparel_Chainmail.label>кольчуга</VAE_Apparel_Chainmail.label>
+  <VAE_Apparel_Chainmail.description>Кольчуга, виготовлена з невеликих металевих кілець, з'єднаних між собою в сітку, відокремлену від тіла тканинною прокладкою.\n\nДосить важка, ця частина обладунку сповільнює носія.</VAE_Apparel_Chainmail.description>
+
+  <VAE_Footwear_MarineBoots.label>берці десантника</VAE_Footwear_MarineBoots.label>
+  <VAE_Footwear_MarineBoots.description>Пара десантних берців з багатошаровими пласталевими пластинами та посиленими сервомоторами.</VAE_Footwear_MarineBoots.description>
+
+  <VAE_Handwear_MarineGloves.label>рукавиці десантника</VAE_Handwear_MarineGloves.label>
+  <VAE_Handwear_MarineGloves.description>Пара десантних рукавиць з посиленою підтримкою зчеплення з поверхнею та набором вбудованих стабілізаторів віддачі.</VAE_Handwear_MarineGloves.description>
+
+  <VAE_Apparel_Gambeson.label>гамбезон</VAE_Apparel_Gambeson.label>
+  <VAE_Apparel_Gambeson.description>Підобладунок, м'яка захисна куртка, що забезпечує середню ізоляцію від низьких температур.</VAE_Apparel_Gambeson.description>
+
+  <VAE_Apparel_QuiltedVest.label>стьобаний жилет</VAE_Apparel_QuiltedVest.label>
+  <VAE_Apparel_QuiltedVest.description>Стьобаний захисний жилет, який одягається під обладунки для додаткового захисту.</VAE_Apparel_QuiltedVest.description>
+
+  <VAE_Apparel_WoodenArmor.label>дерев'яна броня</VAE_Apparel_WoodenArmor.label>
+  <VAE_Apparel_WoodenArmor.description>Жилет з дерев'яних колод і дощок, що закривають передню і задню частину тіла. Досить ефективний проти пострілів з малокаліберної зброї та гострої зброї ближнього бою, але абсолютно марний проти тупих ударів і гвинтівок.</VAE_Apparel_WoodenArmor.description>
+
+  <VAE_Headgear_StoneWarMask.label>кам'яна маска війни</VAE_Headgear_StoneWarMask.label>
+  <VAE_Headgear_StoneWarMask.description>Художньо страхітлива маска війни. Приховує обличчя носія і робить його більш впевненим у собі. Виготовлена з каменю тож дуже міцна, але водночас неймовірно важка.</VAE_Headgear_StoneWarMask.description>
+
+  <VAE_Headgear_Balaclava.label>балаклава</VAE_Headgear_Balaclava.label>
+  <VAE_Headgear_Balaclava.description>Маска з отворами для очей і носа. Приховує особу носія, забезпечуючи при цьому тепло.</VAE_Headgear_Balaclava.description>
+
+  <VAE_Headgear_GhillieHood.label>маскувальний капюшон</VAE_Headgear_GhillieHood.label>
+  <VAE_Headgear_GhillieHood.description>Камуфляжний капюшон, розроблений так, щоб бути схожим на навколишнє середовище. Дає носію більше часу для точного прицілювання, але майже не забезпечує захисту.</VAE_Headgear_GhillieHood.description>
+
+  <VAE_Apparel_GhillieSuit.label>маскувальний костюм</VAE_Apparel_GhillieSuit.label>
+  <VAE_Apparel_GhillieSuit.description>Камуфляжний одяг, розроблений так, щоб бути схожим на навколишнє середовище. Дає носію більше часу для точного прицілювання, але майже не забезпечує захисту.</VAE_Apparel_GhillieSuit.description>
+
+  <VAE_Headgear_HAZMATMask.label>газова маска</VAE_Headgear_HAZMATMask.label>
+  <VAE_Headgear_HAZMATMask.description>Протигаз на всю голову, який разом із захисним костюмом забезпечує повний захист від токсичного та психічного впливу.</VAE_Headgear_HAZMATMask.description>
+  
+  <VAE_Apparel_HAZMATSuit.label>захисний костюм</VAE_Apparel_HAZMATSuit.label>
+  <VAE_Apparel_HAZMATSuit.description>Непроникний захисний костюм для всього тіла, що забезпечує повний захист від токсичного та психічного впливу.\n\nОбмежує рухи та дрібну моторику власника, а також не забезпечує жодного захисту.</VAE_Apparel_HAZMATSuit.description>
+</LanguageData>

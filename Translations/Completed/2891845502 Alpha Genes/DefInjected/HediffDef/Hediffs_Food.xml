@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corpse feeding -->
+  <AG_Helixien.label>годування трупами</AG_Helixien.label>
+  <!-- EN: Constantly secretes a foul-smelling, corrosive gas that produces an uncomfortable, itchy sensation in living beings. This gas is mostly harmless, unless it comes into contact with decaying organic matter: it greatly accelerates corpse rotting, liberating a black putrid liquid known as "purge fluid" or corpse bile. The carrier is fed through the skin by contacting the liquid sludge, although they can also feed on other organic matter if needed. -->
+  <AG_Helixien.description>Постійно виділяє їдкий газ з неприємним запахом, який викликає у живих істот неприємне свербіння. Цей газ здебільшого нешкідливий, якщо не контактує з органічними речовинами, що розкладаються: він значно прискорює гниття трупа, вивільняючи чорну гнильну рідину, відому як "рідина очищення" або трупна жовч. Переносники живляться через шкіру, контактуючи з рідким мулом, хоча вони також можуть харчуватися іншими органічними речовинами, якщо це необхідно.</AG_Helixien.description>
+  
+  <!-- EN: photosynthesis -->
+  <AG_LightSustenance.label>фотосинтез</AG_LightSustenance.label>
+  <!-- EN: This colonist has chlorophyll pigments in their skin that allows them to absorb nutrients from sunlight, eliminating almost entirely their need to eat, but requiring them to be constantly exposed to light for sustenance. -->
+  <AG_LightSustenance.description>Шкіра цих колоністів містить пігменти хлорофілу, які дозволяють їм поглинати поживні речовини з сонячного світла, що майже повністю позбавляє їх потреби в їжі, але вимагає від них постійного перебування на світлі для підтримки життєдіяльності.</AG_LightSustenance.description>
+  
+  <!-- EN: extremely low hunger -->
+  <AG_NoFood.label>вкрай низький голод</AG_NoFood.label>
+  <!-- EN: This person doesn't feel hunger, only needing to eat every few weeks. -->
+  <AG_NoFood.description>Ця людина не відчуває голоду, їй потрібно їсти лише раз на кілька тижнів.</AG_NoFood.description>
+  
+</LanguageData>

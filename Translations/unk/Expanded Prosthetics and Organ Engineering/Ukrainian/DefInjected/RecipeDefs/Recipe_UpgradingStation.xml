@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateAdvancedBionicEye.label>Створити вдосконалене біонічне око</CreateAdvancedBionicEye.label>
+	<CreateAdvancedBionicEye.description>Створити вдосконалене біонічне око з ванцідію.</CreateAdvancedBionicEye.description>
+    <CreateAdvancedBionicEye.jobString>Створює вдосконалене біонічне око</CreateAdvancedBionicEye.jobString>
+	
+	<CreateAdvancedPowerArm.label>Створити вдосконалену силову руку</CreateAdvancedPowerArm.label>
+	<CreateAdvancedPowerArm.description>Створити вдосконалену силову руку з ванцідію.</CreateAdvancedPowerArm.description>
+    <CreateAdvancedPowerArm.jobString>Створює вдосконалену силову руку</CreateAdvancedPowerArm.jobString>
+	
+	<CreateAdvancedBionicArm.label>Створити вдосконалену біонічну руку</CreateAdvancedBionicArm.label>
+	<CreateAdvancedBionicArm.description>Створити вдосконалену біонічну руку з ванцідію.</CreateAdvancedBionicArm.description>
+    <CreateAdvancedBionicArm.jobString>Створює вдосконалену біонічну руку</CreateAdvancedBionicArm.jobString>
+	
+	<CreateAdvancedBionicHand.label>Створити вдосконалену біонічну долоню</CreateAdvancedBionicHand.label>
+	<CreateAdvancedBionicHand.description>Створити вдосконалену біонічну долоню з ванцідію.</CreateAdvancedBionicHand.description>
+    <CreateAdvancedBionicHand.jobString>Створює вдосконалену біонічну долоню</CreateAdvancedBionicHand.jobString>
+	
+	<CreateAdvancedBionicFoot.label>Створити вдосконалену біонічну стопу</CreateAdvancedBionicFoot.label>
+	<CreateAdvancedBionicFoot.description>Створити вдосконалену біонічну стопу з ванцідію.</CreateAdvancedBionicFoot.description>
+    <CreateAdvancedBionicFoot.jobString>Створює вдосконалену біонічну стопу</CreateAdvancedBionicFoot.jobString>
+	
+	<CreateAdvancedBionicLeg.label>Створити вдосконалену біонічну ногу</CreateAdvancedBionicLeg.label>
+	<CreateAdvancedBionicLeg.description>Створити вдосконалену біонічну ногу з ванцідію.</CreateAdvancedBionicLeg.description>
+    <CreateAdvancedBionicLeg.jobString>Створює вдосконалену біонічну ногу</CreateAdvancedBionicLeg.jobString>
+	
+	<CreateAdvancedBionicEar.label>Створити вдосконалене біонічне вухо</CreateAdvancedBionicEar.label>
+	<CreateAdvancedBionicEar.description>Створити вдосконалене біонічне вухо з ванцідію.</CreateAdvancedBionicEar.description>
+    <CreateAdvancedBionicEar.jobString>Створює вдосконалене біонічне вухо</CreateAdvancedBionicEar.jobString>
+	
+	<CreateAdvancedBionicJaw.label>Створити вдосконалену біонічну щелепу</CreateAdvancedBionicJaw.label>
+	<CreateAdvancedBionicJaw.description>Створити вдосконалену біонічну щелепу з ванцідію.</CreateAdvancedBionicJaw.description>
+    <CreateAdvancedBionicJaw.jobString>Створює вдосконалену біонічну щелепу</CreateAdvancedBionicJaw.jobString> 
+	
+	<CreateAdvancedBionicSpine.label>Створити вдосконалений біонічний хребет</CreateAdvancedBionicSpine.label>
+	<CreateAdvancedBionicSpine.description>Створити вдосконалений біонічний хребет з ванцідію.</CreateAdvancedBionicSpine.description>
+	<CreateAdvancedBionicSpine.jobString>Створює вдосконалений біонічний хребет</CreateAdvancedBionicSpine.jobString>
+	
+	<CreatePowerClaw.label>Створити силовий кіготь</CreatePowerClaw.label>
+	<CreatePowerClaw.description>Створити силовий кіготь з металу та ванцідію.</CreatePowerClaw.description>
+    <CreatePowerClaw.jobString>Створює силовий кіготь</CreatePowerClaw.jobString>
+	
+	<CreateExoskeletonSuit.label>Створити екзоскелет</CreateExoskeletonSuit.label>
+	<CreateExoskeletonSuit.description>Створити екзоскелет з металу та ванцідію. Вимагає 3D-принтера та великої кількості часу.</CreateExoskeletonSuit.description>
+    <CreateExoskeletonSuit.jobString>Створює екзоскелет</CreateExoskeletonSuit.jobString>
+
+</LanguageData>

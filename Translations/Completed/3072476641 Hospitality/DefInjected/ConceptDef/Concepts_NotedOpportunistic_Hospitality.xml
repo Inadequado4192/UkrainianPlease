@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught through the learning readout, when opportunities arise -->
+
+  <GuestBeds.label>Ліжка для відвідувачів</GuestBeds.label>
+  <GuestBeds.helpText>Відвідувачі хочуть спати в ліжках.\n\nВи можете перетворити ліжка на гостьові за допомогою кнопки "Для гостей".</GuestBeds.helpText>
+
+  <RecruitGuest.label>Вербування гостей</RecruitGuest.label>
+  <RecruitGuest.helpText>Ви можете вербувати гостей.\n\nВербування гостя коштуватиме вам відносин з фракцією гостя. Переконайтеся, що у вас є колоніст з хорошими соціальними навичками, призначений для переговорів.</RecruitGuest.helpText>
+
+  <GuestWork.label>Допомога гостей</GuestWork.label>
+  <GuestWork.helpText>Щасливі гості допоможуть з роботою у своїй зоні, якщо вони достатньо кваліфіковані. Ви можете вимкнути цю функцію або підвищити необхідну майстерність у налаштуваннях мода.</GuestWork.helpText>
+
+
+</LanguageData>

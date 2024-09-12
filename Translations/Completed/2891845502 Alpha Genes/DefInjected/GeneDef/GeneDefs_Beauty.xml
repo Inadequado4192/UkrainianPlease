@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: angelic beauty -->
+  <AG_Beauty_Angelic.label>янгольська краса</AG_Beauty_Angelic.label>
+  <!-- EN: Carriers of this gene possess an unnatural, almost pristine beauty that makes them stand out among others of their kind. -->
+  <AG_Beauty_Angelic.description>Носії цього гена володіють неприродною, майже первозданною красою, яка виділяє їх серед собі подібних.</AG_Beauty_Angelic.description>
+  <!-- EN: Any other colonist coming nearby will be subject to a positive mood impact due to basking in their uncanny beauty. -->
+  <AG_Beauty_Angelic.customEffectDescriptions.0>Будь-який інший колоніст, що опиниться поруч, буде піддаватися позитивному впливу на настрій, насолоджуючись їхньою дивовижною красою.</AG_Beauty_Angelic.customEffectDescriptions.0>
+  <!-- EN: Can't be disfigured. Disfigurement doesn't cause beauty to drop, and other people won't think less of them. -->
+  <AG_Beauty_Angelic.customEffectDescriptions.1>Не можна спотворювати. Від каліцтва краса не падає, і інші люди не стануть думати про них гірше.</AG_Beauty_Angelic.customEffectDescriptions.1>
+  <!-- EN: angelic -->
+  <AG_Beauty_Angelic.labelShortAdj>ангельський</AG_Beauty_Angelic.labelShortAdj>
+  <!-- EN: angel -->
+  <AG_Beauty_Angelic.symbolPack.prefixSymbols.0.symbol>ангельський</AG_Beauty_Angelic.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: saint -->
+  <AG_Beauty_Angelic.symbolPack.prefixSymbols.1.symbol>святий</AG_Beauty_Angelic.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: holy -->
+  <AG_Beauty_Angelic.symbolPack.prefixSymbols.2.symbol>святий</AG_Beauty_Angelic.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: star -->
+  <AG_Beauty_Angelic.symbolPack.prefixSymbols.3.symbol>зоряний</AG_Beauty_Angelic.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: seraph -->
+  <AG_Beauty_Angelic.symbolPack.prefixSymbols.4.symbol>серафим</AG_Beauty_Angelic.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: divine -->
+  <AG_Beauty_Angelic.symbolPack.prefixSymbols.5.symbol>божественний</AG_Beauty_Angelic.symbolPack.prefixSymbols.5.symbol>
+  
+  <!-- EN: repulsive -->
+  <AG_Beauty_VeryVeryUgly.label>огидний</AG_Beauty_VeryVeryUgly.label>
+  <!-- EN: Carriers of this gene are so unfathomably ugly and grotesque that merely looking at them is enough to make other people nauseous. -->
+  <AG_Beauty_VeryVeryUgly.description>Носії цього гена настільки незбагненно потворні та гротескні, що одного лише погляду на них достатньо, щоб викликати нудоту в інших людей.</AG_Beauty_VeryVeryUgly.description>
+  <!-- EN: Any other colonist coming nearby will be subject to a negative mood impact due to sheer disgust. -->
+  <AG_Beauty_VeryVeryUgly.customEffectDescriptions.0>Будь-який інший колоніст, що опиниться поруч, буде піддаватися негативному впливу через відверту огиду.</AG_Beauty_VeryVeryUgly.customEffectDescriptions.0>
+  <!-- EN: repulsive -->
+  <AG_Beauty_VeryVeryUgly.labelShortAdj>огидний</AG_Beauty_VeryVeryUgly.labelShortAdj>
+  <!-- EN: grim -->
+  <AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.0.symbol>похмурий</AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: macabr -->
+  <AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.1.symbol>макабр</AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: grote -->
+  <AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.2.symbol>ґрота</AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: misshappen -->
+  <AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.3.symbol>місхепен</AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: monst -->
+  <AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.4.symbol>монст</AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: ghast -->
+  <AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.5.symbol>привид</AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.5.symbol>
+  
+  <!-- EN: eldritch visage -->
+  <AG_EldritchVisage.label>елдричний вигляд</AG_EldritchVisage.label>
+  <!-- EN: The carrier of this gene has an appearance that terrifies other people to the very core of their being. They will always be despised. -->
+  <AG_EldritchVisage.description>Носій цього гена має зовнішність, яка лякає інших людей до глибини душі. Їх завжди будуть зневажати.</AG_EldritchVisage.description>
+  <!-- EN: Any person without this gene will get a -500 social penalty towards people who have it, basically ensuring they'll always be at -100 relationship opinion. -->
+  <AG_EldritchVisage.customEffectDescriptions.0>Будь-яка людина без цього гена отримає соціальний штраф -500 по відношенню до людей, які його мають, що фактично гарантує, що вони завжди матимуть -100 у стосунках.</AG_EldritchVisage.customEffectDescriptions.0>
+  <!-- EN: eldritch -->
+  <AG_EldritchVisage.labelShortAdj>елдричний</AG_EldritchVisage.labelShortAdj>
+  <!-- EN: eldri -->
+  <AG_EldritchVisage.symbolPack.prefixSymbols.0.symbol>елдрі</AG_EldritchVisage.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: terror -->
+  <AG_EldritchVisage.symbolPack.prefixSymbols.1.symbol>терор</AG_EldritchVisage.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: unsettling appearance -->
+  <AG_UnsettlingAppearance.label>тривожна зовнішність</AG_UnsettlingAppearance.label>
+  <!-- EN: Going beyond mundane notions of beauty or ugliness, the carrier of this gene has such an unsettling appearance that it inspires a certain sense of unease on other people. -->
+  <AG_UnsettlingAppearance.description>Виходячи за межі буденних уявлень про красу чи потворність, носій цього гена має настільки тривожну зовнішність, що навіює оточуючим певне відчуття занепокоєння.</AG_UnsettlingAppearance.description>
+  <!-- EN: Any person without this gene will get a -60 social penalty towards people who have it. -->
+  <AG_UnsettlingAppearance.customEffectDescriptions.0>Будь-яка людина без цього гена отримає соціальний штраф -60 по відношенню до людей, які його мають.</AG_UnsettlingAppearance.customEffectDescriptions.0>
+  <!-- EN: unsettling -->
+  <AG_UnsettlingAppearance.labelShortAdj>тривожний</AG_UnsettlingAppearance.labelShortAdj>
+  <!-- EN: uncanny -->
+  <AG_UnsettlingAppearance.symbolPack.prefixSymbols.0.symbol>моторошний</AG_UnsettlingAppearance.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: disturb -->
+  <AG_UnsettlingAppearance.symbolPack.prefixSymbols.1.symbol>тривожний</AG_UnsettlingAppearance.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: monst -->
+  <AG_UnsettlingAppearance.symbolPack.prefixSymbols.2.symbol>монст</AG_UnsettlingAppearance.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: fiend -->
+  <AG_UnsettlingAppearance.symbolPack.prefixSymbols.3.symbol>диявольський</AG_UnsettlingAppearance.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: vile -->
+  <AG_UnsettlingAppearance.symbolPack.prefixSymbols.4.symbol>мерзенний</AG_UnsettlingAppearance.symbolPack.prefixSymbols.4.symbol>
+  
+</LanguageData>

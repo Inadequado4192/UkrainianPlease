@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_AnimalAnalysis_Expected.stages.0.label>немає сканів</AM_AnimalAnalysis_Expected.stages.0.label>
+  <AM_AnimalAnalysis_Expected.stages.0.description>Ми ще не просканували жодної тварини. Ми нехтуємо своїм завданням.</AM_AnimalAnalysis_Expected.stages.0.description>
+  <AM_AnimalAnalysis_Expected.stages.1.label>дуже мало сканів</AM_AnimalAnalysis_Expected.stages.1.label>
+  <AM_AnimalAnalysis_Expected.stages.1.description>Ми просканували дуже, дуже мало тварин. Нам потрібно зосередитися на наших завданнях.</AM_AnimalAnalysis_Expected.stages.1.description>
+  <AM_AnimalAnalysis_Expected.stages.2.label>мало сканів</AM_AnimalAnalysis_Expected.stages.2.label>
+  <AM_AnimalAnalysis_Expected.stages.2.description>Ми просканували мало тварин. Треба зосередитися на наших завданнях.</AM_AnimalAnalysis_Expected.stages.2.description>
+  <AM_AnimalAnalysis_Expected.stages.3.label>деяка кількість сканів</AM_AnimalAnalysis_Expected.stages.3.label>
+  <AM_AnimalAnalysis_Expected.stages.3.description>Ми починаємо наповнювати базу даних даними про істот.</AM_AnimalAnalysis_Expected.stages.3.description>
+  <AM_AnimalAnalysis_Expected.stages.4.label>багато сканів</AM_AnimalAnalysis_Expected.stages.4.label>
+  <AM_AnimalAnalysis_Expected.stages.4.description>Ми заповнили майже чверть бази даних!</AM_AnimalAnalysis_Expected.stages.4.description>
+  <AM_AnimalAnalysis_Expected.stages.5.label>дуже багато сканів</AM_AnimalAnalysis_Expected.stages.5.label>
+  <AM_AnimalAnalysis_Expected.stages.5.description>У нас є багато відсканованих істот у базі даних, це дивовижно!</AM_AnimalAnalysis_Expected.stages.5.description>
+  <AM_AnimalAnalysis_Expected.stages.6.label>база даних заповнена майже наполовину</AM_AnimalAnalysis_Expected.stages.6.label>
+  <AM_AnimalAnalysis_Expected.stages.6.description>Майже на півдорозі!</AM_AnimalAnalysis_Expected.stages.6.description>
+  <AM_AnimalAnalysis_Expected.stages.7.label>величезна кількість сканів</AM_AnimalAnalysis_Expected.stages.7.label>
+  <AM_AnimalAnalysis_Expected.stages.7.description>База даних наповнена дивовижними деталями істот, мені це подобається!</AM_AnimalAnalysis_Expected.stages.7.description>
+  <AM_AnimalAnalysis_Expected.stages.8.label>база даних майже заповнена</AM_AnimalAnalysis_Expected.stages.8.label>
+  <AM_AnimalAnalysis_Expected.stages.8.description>Ми наближаємося до мети! Я люблю переглядати чудові дані про тварин, які ми зібрали.</AM_AnimalAnalysis_Expected.stages.8.description>
+  <AM_AnimalAnalysis_Expected.stages.9.label>база даних заповнена</AM_AnimalAnalysis_Expected.stages.9.label>
+  <AM_AnimalAnalysis_Expected.stages.9.description>База даних заповнена на 75%. Можливо, цей світ надав стільки даних, скільки може!</AM_AnimalAnalysis_Expected.stages.9.description>
+
+
+</LanguageData>

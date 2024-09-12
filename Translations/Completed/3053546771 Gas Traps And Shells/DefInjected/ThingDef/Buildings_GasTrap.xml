@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GasTrap.label>газова пастка (отруйний)</GasTrap.label>
+  <GasTrap.description>Ця пастка випускає токсичний газ, коли милий маленький пішачок підходить надто близько. Оо, подивіться, як ця мила істота помирає!</GasTrap.description>
+  <GasTrap_Blueprint.label>газова пастка (отруйний) (креслення)</GasTrap_Blueprint.label>
+  <GasTrap_Frame.label>газова пастка (отруйний) (в процесі будування)</GasTrap_Frame.label>
+  <GasTrap_Frame.description>Ця пастка випускає токсичний газ, коли милий маленький пішачок підходить надто близько. Оо, подивіться, як ця мила істота помирає!</GasTrap_Frame.description>
+
+  <GasTrapRage.label>газова пастка (газ гніву)</GasTrapRage.label>
+  <GasTrapRage.description>Ця спеціальна пастка випускає газ, який викликає у кожного, хто в неї потрапляє, неабияку злість. Несамовиту злість і таке інше.</GasTrapRage.description>
+  <GasTrapRage_Blueprint.label>газова пастка (газ гніву) (креслення)</GasTrapRage_Blueprint.label>
+  <GasTrapRage_Frame.label>газова пастка (газ гніву) (в процесі будування)</GasTrapRage_Frame.label>
+  <GasTrapRage_Frame.description>Ця спеціальна пастка випускає газ, який викликає у кожного, хто в неї потрапляє, неабияку злість. Несамовиту злість і таке інше.</GasTrapRage_Frame.description>
+
+  <GasTrapTearGas.label>газова пастка (сльзоточивий)</GasTrapTearGas.label>
+  <GasTrapTearGas.description>Ця пастка випускає сльзоточивий газ при спрацьовуванні. Викликає сліпоту та блювоту.</GasTrapTearGas.description>
+  <GasTrapTearGas_Blueprint.label>газова пастка (сльзоточивий) (креслення)</GasTrapTearGas_Blueprint.label>
+  <GasTrapTearGas_Frame.label>газова пастка (сльзоточивий) (в процесі будування)</GasTrapTearGas_Frame.label>
+  <GasTrapTearGas_Frame.description>Ця пастка випускає сльзоточивий газ при спрацьовуванні. Викликає сліпоту та блювоту.</GasTrapTearGas_Frame.description>
+
+  <GasTrapSleepGas.label>газова пастка (снодійний)</GasTrapSleepGas.label>
+  <GasTrapSleepGas.description>Ця пастка випускає газ, який врешті-решт ВБИВАЄ будь-яку істоту, що потрапляє в неї.</GasTrapSleepGas.description>
+  <GasTrapSleepGas_Blueprint.label>газова пастка (снодійний) (креслення)</GasTrapSleepGas_Blueprint.label>
+  <GasTrapSleepGas_Frame.label>газова пастка (снодійний) (в процесі будування)</GasTrapSleepGas_Frame.label>
+  <GasTrapSleepGas_Frame.description>Ця пастка випускає газ, який врешті-решт ВБИВАЄ будь-яку істоту, що потрапляє в неї.</GasTrapSleepGas_Frame.description>
+
+  <GasTrapFearGas.label>газова пастка (жахаючий)</GasTrapFearGas.label>
+  <GasTrapFearGas.description>Ця пастка випускає газ, який сіє страх і паніку, і врешті-решт призведе до втечі пішаків. Панікуйте!</GasTrapFearGas.description>
+  <GasTrapFearGas_Blueprint.label>газова пастка (жахаючий) (креслення)</GasTrapFearGas_Blueprint.label>
+  <GasTrapFearGas_Frame.label>газова пастка (жахаючий) (в процесі будування)</GasTrapFearGas_Frame.label>
+  <GasTrapFearGas_Frame.description>Ця пастка випускає газ, який сіє страх і паніку, і врешті-решт призведе до втечі пішаків. Панікуйте!</GasTrapFearGas_Frame.description>
+
+  <GasTrapAcid.label>газова пастка (кислотний)</GasTrapAcid.label>
+  <GasTrapAcid.description>Ця пастка випускає їдкий газ при спрацьовуванні. Гарна засмага, брате! А ще твій одяг, здається, плавиться...</GasTrapAcid.description>
+  <GasTrapAcid_Blueprint.label>газова пастка (кислотний) (креслення)</GasTrapAcid_Blueprint.label>
+  <GasTrapAcid_Frame.label>газова пастка (кислотний) (в процесі будування)</GasTrapAcid_Frame.label>
+  <GasTrapAcid_Frame.description>Ця пастка випускає їдкий газ при спрацьовуванні. Гарна засмага, брате! А ще твій одяг, здається, плавиться...</GasTrapAcid_Frame.description>
+
+  <GasTrapMechanoidVirus.label>газова пастка (протимех. вірус)</GasTrapMechanoidVirus.label>
+  <GasTrapMechanoidVirus.description>Ця пастка випускає хмару наномашин, які люблять гратися з механоїдами</GasTrapMechanoidVirus.description>
+  <GasTrapMechanoidVirus_Blueprint.label>газова пастка (протимех. вірус) (креслення)</GasTrapMechanoidVirus_Blueprint.label>
+  <GasTrapMechanoidVirus_Frame.label>газова пастка (протимех. вірус) (в процесі будування)</GasTrapMechanoidVirus_Frame.label>
+  <GasTrapMechanoidVirus_Frame.description>Ця пастка випускає хмару наномашин, які люблять гратися з механоїдами</GasTrapMechanoidVirus_Frame.description>
+
+  <GasTrapAntiBugGas.label>газова пастка (протижук. газ)</GasTrapAntiBugGas.label>
+  <GasTrapAntiBugGas.description>Ця пастка випускає газ, який дуже добре працює для боротьби з гігантькими жуками</GasTrapAntiBugGas.description>
+  <GasTrapAntiBugGas_Blueprint.label>газова пастка (протижук. газ) (креслення)</GasTrapAntiBugGas_Blueprint.label>
+  <GasTrapAntiBugGas_Frame.label>газова пастка (протижук. газ) (в процесі будування)</GasTrapAntiBugGas_Frame.label>
+  <GasTrapAntiBugGas_Frame.description>Ця пастка випускає газ, який дуже добре працює для боротьби з гігантькими жуками</GasTrapAntiBugGas_Frame.description>
+
+
+</LanguageData>

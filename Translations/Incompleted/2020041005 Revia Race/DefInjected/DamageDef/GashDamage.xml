@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gash -->
+  <ReviaMeleeGash.label>рана</ReviaMeleeGash.label>
+  <!-- EN: {0} has been slashed to death. -->
+  <ReviaMeleeGash.deathMessage>{0} {0_gender ? був порізаний : була порізана} до смерті.</ReviaMeleeGash.deathMessage>
+  
+  <!-- EN: gash -->
+  <ReviaRangedGash.label>рана</ReviaRangedGash.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <ReviaRangedGash.deathMessage>{0} {0_gender ? був проколотий : була проколота} до смерті.</ReviaRangedGash.deathMessage>
+  
+</LanguageData>

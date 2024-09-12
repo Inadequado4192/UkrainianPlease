@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <sharpshooter.label>Снайпер</sharpshooter.label>
+  <sharpshooter.description>Мати колоніста з 20-им рівнем навички в Стрільбі</sharpshooter.description>
+
+  <mrPresident.label>Пан Президент</mrPresident.label>
+  <mrPresident.description>Мати колоніста з 20-им рівнем навички в Соціальності</mrPresident.description>
+
+  <conanTheBarbarian.label>Конан-Варвар</conanTheBarbarian.label>
+  <conanTheBarbarian.description>Мати колоніста з 20-им рівнем навички в Ближньому бою</conanTheBarbarian.description>
+</LanguageData>

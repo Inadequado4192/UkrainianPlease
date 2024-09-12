@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VEF.Hire>Найняти {0}</VEF.Hire>
+  <VEF.HireDesc>Найняти {0} для допомоги в колонії, наприклад, в захисті.</VEF.HireDesc>
+  <VEF.AvailableSilver>Доступне срібло: {0}</VEF.AvailableSilver>
+  <VEF.Value>Вартість</VEF.Value>
+  <VEF.ChooseNumberOfUnits>Скільки таких юнітів ви хотіли б мати?</VEF.ChooseNumberOfUnits>
+  <VEF.Breakdown>Розподіл</VEF.Breakdown>
+  <VEF.DayAmount>Кількість днів</VEF.DayAmount>
+  <VEF.Cost>Витрати на наймання</VEF.Cost>
+  <VEF.RiskMult>Множник ризику</VEF.RiskMult>
+  <VEF.TotalPrice>Загальна вартість</VEF.TotalPrice>
+  <VEF.HiringDesc>Ви можете найняти {0} на будь-який період часу. Одночасно у вас може бути лише один активний контракт, і ви не можете змішувати фракції, з яких ви наймаєте піратів.
+Якщо найнятий {0} загине при виконанні обов'язків, ви отримаєте додаткову надбавку 5% до ціни контракту за кожного загиблого пірата на всі наступні контракти на цілий рік.</VEF.HiringDesc>
+  <VEF.LongTerm>Довгострокові контракти значно дорожчі.</VEF.LongTerm>
+  <VEF.ContractInfo>Показати контракт з {0}</VEF.ContractInfo>
+  <VEF.PawnsList>Укладено контракт з:</VEF.PawnsList>
+  <VEF.ContractTitle>Контракт з {0}</VEF.ContractTitle> 
+  <VEF.Spent>Витрачено срібла:</VEF.Spent>
+  <VEF.TimeLeft>Залишилось часу:</VEF.TimeLeft>
+  <VEF.CancelContract>Розірвати контракт</VEF.CancelContract> 
+  <VEF.NoRefund>Якщо ви розірвете контракт, витрачене на нього срібло вам не повернуть.</VEF.NoRefund>
+  <VEF.AvailableContracts>Доступні контракти: {0}</VEF.AvailableContracts>
+  <VEF.Customize>Налаштувати {0}</VEF.Customize>
+  <VEF.CustomizationTitle>Налаштування {0}</VEF.CustomizationTitle>
+  <VEF.Name>Ім'я</VEF.Name>
+  <VEF.Cancel>Відмінити</VEF.Cancel>
+  <VEF.MechsSection>Механоїди</VEF.MechsSection>
+  <VEF.DoorLockDefault>По стандарту</VEF.DoorLockDefault>
+  <VEF.DoorLockEveryone>Всі</VEF.DoorLockEveryone>
+  <VEF.DoorLockOnlyColonistsAndAnimals>Тільки колоністи та тварини</VEF.DoorLockOnlyColonistsAndAnimals>
+  <VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>Тільки колоністи, тварини та союзники</VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>
+  <VEF.DoorLockOnlyDrafted>Тільки мобілізовані</VEF.DoorLockOnlyDrafted>
+  <VEF.DoorLockState>Поточне правило блокування дверей "{0}"</VEF.DoorLockState>
+  <VEF.DoorLockStateDesc>Натисніть, щоб змінити правила блокування дверей.</VEF.DoorLockStateDesc>
+  <VEF.DoorLockStatePowerOff>Вимкнено живлення. Неможливо змінити правила блокування дверей.</VEF.DoorLockStatePowerOff>
+</LanguageData>

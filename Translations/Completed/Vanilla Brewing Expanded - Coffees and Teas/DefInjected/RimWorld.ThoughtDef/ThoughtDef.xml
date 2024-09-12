@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--An inspiring Cup-->
+  <VBE_DrankBlackTea.stages.An_inspiring_Cup.label>Надихаюча кружка Чаю</VBE_DrankBlackTea.stages.An_inspiring_Cup.label>
+  <!--A delightfully intense cup of black tea really brightens the day.-->
+  <VBE_DrankBlackTea.stages.An_inspiring_Cup.description>Чудово насичена чашка чорного чаю дійсно прикрашає день.</VBE_DrankBlackTea.stages.An_inspiring_Cup.description>
+  
+  <!--Live Now, Sleep Later-->
+  <VBE_IrishCoffeeHigh.stages.Live_Now_Sleep_Later.label>Живемо Зараз, Спимо Потім</VBE_IrishCoffeeHigh.stages.Live_Now_Sleep_Later.label>
+  <!--That coffee hit the spot, now let’s get some work done.-->
+  <VBE_IrishCoffeeHigh.stages.Live_Now_Sleep_Later.description>Та кава подарувала саме те, чого мені не вистачало. А тепер давайте попрацюємо.</VBE_IrishCoffeeHigh.stages.Live_Now_Sleep_Later.description>
+  
+  <!--A Healthy sip!-->
+  <VBE_DrankKombuchaTea.stages.A_Healthy_sip.label>Ковток здоров'я!</VBE_DrankKombuchaTea.stages.A_Healthy_sip.label>
+  <!--A tasty cup of kombucha tea a day keeps the doctor away.-->
+  <VBE_DrankKombuchaTea.stages.A_Healthy_sip.description>Смачна комбуча на день відлякує лікарів.</VBE_DrankKombuchaTea.stages.A_Healthy_sip.description>
+  
+  <!--Tall, Dark and Refined-->
+  <VBE_LatteCoffeeHigh.stages.Tall_Dark_and_Refined.label>Високе, Темне та Вишукане</VBE_LatteCoffeeHigh.stages.Tall_Dark_and_Refined.label>
+  <!--That latte coffee hit the spot, now let’s get some work done.-->
+  <VBE_LatteCoffeeHigh.stages.Tall_Dark_and_Refined.description>Те лате подарувало саме те, чого мені не вистачало. А тепер давайте попрацюємо.</VBE_LatteCoffeeHigh.stages.Tall_Dark_and_Refined.description>
+  
+  <!--A very original taste-->
+  <VBE_YuenYeungHigh.stages.A_very_original_taste.label>Дуже своєрідний смак</VBE_YuenYeungHigh.stages.A_very_original_taste.label>
+  <!--Like coffee... also, like tea.-->
+  <VBE_YuenYeungHigh.stages.A_very_original_taste.description>І як кава... але також, і як чай.</VBE_YuenYeungHigh.stages.A_very_original_taste.description>
+</LanguageData>

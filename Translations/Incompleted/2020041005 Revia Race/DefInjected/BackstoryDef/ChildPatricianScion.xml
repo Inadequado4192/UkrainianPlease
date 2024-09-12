@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was a child of prominent Revian priestesses. [PAWN_pronoun] was afforded the best education possible, in both martial and intellectual spheres. -->
+  <ReviaRaceBackstoryChildPatricianScion.baseDesc>[PAWN_nameDef] був дитиною видатних жерців Ревії. [PAWN_pronoun] була надана найкраща можлива освіта, як у бойовій, так і у інтелектуальній сферах.</ReviaRaceBackstoryChildPatricianScion.baseDesc>
+  <!-- EN: Revian Noble Scion -->
+  <ReviaRaceBackstoryChildPatricianScion.title>Ревійська Патриційська Сцена</ReviaRaceBackstoryChildPatricianScion.title>
+  <!-- EN: Scion -->
+  <ReviaRaceBackstoryChildPatricianScion.titleShort>Сцена</ReviaRaceBackstoryChildPatricianScion.titleShort>
+  
+</LanguageData>

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--apples-->
+  <VCE_RawApple.label>яблука</VCE_RawApple.label>
+  <!--Glossy, red apples. Apples have been used as snacking food, a dessert ingredient, and brewed into cider since early mankind.-->
+  <VCE_RawApple.description>Блискучі, червоні яблука. Яблука використовували як закуску, десертний інгредієнт і варили з них сидр ще з часів раннього людства.</VCE_RawApple.description>
+  
+  <!--peaches-->
+  <VCE_RawPeach.label>персики</VCE_RawPeach.label>
+  <!--An edible juicy fruit called peach or nectarine. A ripe peach will have a fragrant aroma and be delicious eaten fresh out of hand.-->
+  <VCE_RawPeach.description>Їстівний соковитий фрукт, який називають персиком або ж нектарином. Стиглий персик має запашний аромат, і його дуже смачно їсти свіжим з рук.</VCE_RawPeach.description>
+  
+  <!--cherries-->
+  <VCE_RawCherry.label>вишні</VCE_RawCherry.label>
+  <!--Tiny purple-red sweet cherries. Cherries are notable for requiring a brief freezing season, as such they quickly became a favorite among northern occidental cultures.-->
+  <VCE_RawCherry.description>Маленькі пурпурно-червоні вишні. Вишні відрізняються тим, що їм потрібен короткий період заморозків, тому вони швидко стали фаворитами серед північно-західних культур.</VCE_RawCherry.description>
+  
+  <!--plums-->
+  <VCE_RawPlum.label>сливи</VCE_RawPlum.label>
+  <!--A smooth-skinned purple fruit. Many cultures dry-age plums into prunes for long-term preservation. Instead of rotting, once the 15 days have passed the plums will dry into prunes, which are considered preserved food.-->
+  <VCE_RawPlum.description>Гладкошкірий плід фіолетового кольору. У багатьох культурах для довготривалого зберігання перестиглі сливи сушать на чорнослив. Замість того, щоб гнити, через 15 днів сливи висихають і перетворюються на чорнослив, який вважається консервованою їжею.</VCE_RawPlum.description>
+  
+  <!--prunes-->
+  <VCE_RawPrunes.label>чорнослив</VCE_RawPrunes.label>
+  <!--Dried plums. Prunes take a very long time to deteriorate.-->
+  <VCE_RawPrunes.description>Сушені сливи. Чорнослив дуже довго псується.</VCE_RawPrunes.description>
+  
+  <!--pears-->
+  <VCE_RawPear.label>груші</VCE_RawPear.label>
+  <!--Crispy green pears. While at first similar to apples, pears are slightly more fibrous and less sweet.-->
+  <VCE_RawPear.description>Хрусткі зелені груші. На перший погляд схожі на яблука, груші трохи більш волокнисті та менш солодкі.</VCE_RawPear.description>
+  
+  <!--prickly pears-->
+  <VCE_RawPricklyPear.label>опунції</VCE_RawPricklyPear.label>
+  <!--Pink, melon-like edible fruits, used historically for both snacking as well as medicine by desert natives.-->
+  <VCE_RawPricklyPear.description>Рожеві, схожі на диню їстівні плоди, які історично використовувалися місцевими жителями пустелі як для перекусу, так і в якості ліків.</VCE_RawPricklyPear.description>
+  
+  <!--bearberries-->
+  <VCE_Bearberry.label>мучниця</VCE_Bearberry.label>
+  <!--These are small, pink berries known as bearberries. While raw bearberries possess an acidic and bland taste, after cooking a natural sweetness comes through and the results can be much more palatable.-->
+  <VCE_Bearberry.description>Це маленькі рожеві ягоди, відомі як мучниця. Хоча сира мучниця має кислуватий і м'який смак, після приготування з'являється природна солодкість, і результат може бути набагато приємнішим.</VCE_Bearberry.description>
+  
+  <!--bananas-->
+  <VCE_RawBanana.label>банани</VCE_RawBanana.label>
+  <!--Yellow, elongated berries, easily peeled to reveal a deeply sweet, nearly mushy flesh inside. They have been a favorite of both humans and other primates across the tropics for millenia.-->
+  <VCE_RawBanana.description>Жовті, видовжені ягоди, які легко очищаються від шкірки, відкриваючи солодку, майже кашоподібну м'якоть всередині. Тисячоліттями вони були улюбленими ласощами як людей, так і інших приматів у тропіках.</VCE_RawBanana.description>
+  
+  <!--oranges-->
+  <VCE_RawOrange.label>апельсини</VCE_RawOrange.label>
+  <!--Spherical and perforated, oranges are notoriously annoying to peel and quite pulpy, but known as one of the absolute juiciest fruits with a bright tang and sour aftertaste.-->
+  <VCE_RawOrange.description>Сферичні та пористі апельсини, як відомо, досить складні для чищення і досить м'ясисті, але відомі як одні з найсоковитіших фруктів з яскравим кисло-солодким присмаком.</VCE_RawOrange.description>
+  
+  <!--onions-->
+  <VCE_RawOnion.label>цибулі</VCE_RawOnion.label>
+  <!--An edible bulb of pungent, savory taste and smell with almost as many varieties as cooking applications.-->
+  <VCE_RawOnion.description>Їстівна цибулина з гострим, пікантним смаком і запахом, що має майже стільки ж різновидів, скільки і способів застосування в кулінарії.</VCE_RawOnion.description>
+  
+  <!--pumpkins-->
+  <VCE_RawPumpkin.label>гарбузи</VCE_RawPumpkin.label>
+  <!--Technically a giant berry, pumpkins are renowned for being trivial to both sow and harvest.-->
+  <VCE_RawPumpkin.description>Технічно гігантські ягоди, гарбузи відомі тим, що їх дуже легко сіяти та збирати.</VCE_RawPumpkin.description>
+  
+  <!--peppers-->
+  <VCE_RawPepper.label>перці</VCE_RawPepper.label>
+  <!--Tiny, spicy, crimson pods often used in sauces, relishes, or powders. While the flavor itself is mild the capsaicin contained inside means humans find them oddly addicting, if painful when consumed in mass. Animals are known to avoid eating the plant entirely.-->
+  <VCE_RawPepper.description>Крихітні, гострі, малинові стручки часто використовують у соусах, приправах або порошках. Хоча сам смак м'який, капсаїцин, що міститься в них, викликає у людей дивну залежність, а при масовому споживанні – болючість. Відомо, що тварини уникають їсти рослину повністю.</VCE_RawPepper.description>
+  
+  <!--peas-->
+  <VCE_RawPeas.label>горох</VCE_RawPeas.label>
+  <!--Spherical green seeds tucked safely away in a fleshy pod. Peas are notable for having potentially long shelf-lives when dried properly.-->
+  <VCE_RawPeas.description>Кулясте зелене насіння надійно сховане у м'ясистому стручку. Горох відомий тим, що за умови правильного сушіння може довго зберігатися.</VCE_RawPeas.description>
+  
+  <!--eggplants-->
+  <VCE_RawEggplant.label>баклажани</VCE_RawEggplant.label>
+  <!--A bulbous purple fruit of the nightshade family. Eggplant is rarely served as a side, generally filling the role of the main component of the dish.-->
+  <VCE_RawEggplant.description>Цибулинний фіолетовий плід родини пасльонових. Баклажани рідко подають як гарнір, зазвичай вони виконують роль основного компонента страви.</VCE_RawEggplant.description>
+  
+  <!--cabbages-->
+  <VCE_RawCabbage.label>капуста</VCE_RawCabbage.label>
+  <!--A somewhat hardy, leafy green vegetable, often chopped and then fermented or stewed.-->
+  <VCE_RawCabbage.description>Дещо витривалий, листовий зелений овоч, який часто нарізають, а потім ферментують або тушкують.</VCE_RawCabbage.description>
+  
+  <!--beets-->
+  <VCE_RawBeets.label>буряк</VCE_RawBeets.label>
+  <!--An herb-like vegetable widely cultivated for humans and livestock alike, notably nutritious and historically used in dye making.-->
+  <VCE_RawBeets.description>Трав'янистий овоч, який широко культивується як для людей, так і для худоби, особливо поживний і історично використовувався для виготовлення барвників.</VCE_RawBeets.description>
+  
+  <!--tomatoes-->
+  <VCE_RawTomatoes.label>томати</VCE_RawTomatoes.label>
+  <!--A series of juicy, glossy red fruits attached by vine, used commonly as a vegetable. Strong stewing releases natural sugars and mellows out acids contained within.-->
+  <VCE_RawTomatoes.description>Ряд соковитих, блискучих червоних плодів, прикріплених до лози, які зазвичай використовуються як овочі. При тривалому тушкуванні вивільняються природні цукри та розм'якшуються кислоти, що містяться всередині.</VCE_RawTomatoes.description>
+  
+  <!--Grass-->
+  <VCE_Grass.label>трава</VCE_Grass.label>
+  <!--Cultivated grass. Grows anywhere there is a little light and minimally fertile ground.\n\n<color=#E5E54C>Gameplay effect:</color> Grass can be used to feed cattle, similar to haygrass. It isn't affected by blight, but can't be harvested and stored as hay can.-->
+  <VCE_Grass.description>Культивована трава. Росте скрізь, де є трохи світла і мінімально родючий ґрунт.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Траву можна використовувати для годівлі худоби, подібно до сінотрави. Вона не уражається хворобою рослин, але її не можна збирати і зберігати так, як сінотраву.</VCE_Grass.description>
+  
+  <!--tall grass-->
+  <VCE_TallGrass.label>висока трава</VCE_TallGrass.label>
+  <!--Cultivated tall grass. Grows anywhere there is a little light and minimally fertile ground. Slows down anyone moving over it.\n\n<color=#E5E54C>Gameplay effect:</color> Grass can be used to feed cattle, similar to haygrass. It isn't affected by blight, but can't be harvested and stored as hay can.-->
+  <VCE_TallGrass.description>Культивована висока трава. Росте скрізь, де є трохи світла і мінімально родючий ґрунт. Уповільнює будь-якого, хто рухається по ній.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Траву можна використовувати для годівлі худоби, подібно до сінотрави. Вона не уражається хворобою рослин, але її не можна збирати і зберігати так, як сінотраву.</VCE_TallGrass.description>
+  
+  <!--agave-->
+  <VCE_Agave.label>агава</VCE_Agave.label>
+  <!--A large-leafed desert plant with edible flowers and stalks.-->
+  <VCE_Agave.description>Пустельна рослина з великим листям та їстівними квітками та стеблами.</VCE_Agave.description>
+  
+  <!--onion plant-->
+  <VCE_Onion.label>цибуля</VCE_Onion.label>
+  <!--An edible bulb of pungent, savory taste and smell with almost as many varieties as cooking applications.\n\n<color=#E5E54C>Gameplay effect:</color> Onion isn't affected by blight.-->
+  <VCE_Onion.description>Їстівна цибулина з гострим, пікантним смаком і запахом, що має майже стільки ж різновидів, скільки і способів застосування в кулінарії.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Цибуля не уражається хворобою рослин.</VCE_Onion.description>
+  
+  <!--pumpkin plant-->
+  <VCE_Pumpkin.label>гарбуз</VCE_Pumpkin.label>
+  <!--Technically a giant berry, pumpkins are renowned for being trivial to both sow and harvest. However, their durability means added weight and mass - Too cumbersome for hydroponics basins.\n\n<color=#E5E54C>Gameplay effect:</color> Pumpkin harvests will always suceed, independently of the colonist's plants skill.-->
+  <VCE_Pumpkin.description>Технічно гігантські ягоди, гарбузи відомі тим, що їх дуже легко сіяти та збирати. Однак їх довговічність означає додаткову вагу та масу –  вони занадто громіздкі для гідропоніки.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Врожай гарбуза завжди буде успішним, незалежно від навички "Рослинництво" колоніста.</VCE_Pumpkin.description>
+  
+  <!--pepper plant-->
+  <VCE_Pepper.label>перець</VCE_Pepper.label>
+  <!--Tiny, spicy, crimson pods often used in sauces, relishes, or powders. While the flavor itself is mild the capsaicin contained inside means humans find them oddly addicting, if painful when consumed in mass. Animals are known to avoid eating them entirely.\n\n<color=#E5E54C>Gameplay effect:</color> Animals won't eat the pepper plant, having an effective nutrition of zero. Note however that they will eat the harvested produce normally.-->
+  <VCE_Pepper.description>Крихітні, гострі, малинові стручки часто використовують у соусах, приправах або порошках. Хоча сам смак м'який, капсаїцин, що міститься в них, викликає у людей дивну залежність, а при масовому споживанні – болючість. Відомо, що тварини уникають їсти рослину повністю.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Тварини не їстимуть перець на фермі, оскільки ефективна поживність дорівнює нулю. Зауважте, однак, що вони будуть нормально їсти зібраний урожай.</VCE_Pepper.description>
+  
+  <!--pea plant-->
+  <VCE_Peas.label>горох</VCE_Peas.label>
+  <!--Spherical green seeds tucked safely away in a fleshy pod. Pea plants are known to be quite thirsty, and will benefit greatly from rainfall. Peas are also notable for having potentially long shelf-lives when dried properly.\n\n<color=#E5E54C>Gameplay effect:</color> Normally less efficient than corn, rice or potatoes, peas will however receive a huge 50% growth boost if it is raining.-->
+  <VCE_Peas.description>Кулясте зелене насіння надійно сховане у м'ясистому стручку. Горох відомий тим, що за умови правильного сушіння може довго зберігатися.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Зазвичай менш ефективний, ніж кукурудза, рис або картопля, горох, однак, отримує величезний 50% бонус до скорості росту, якщо йде дощ.</VCE_Peas.description>
+  
+  <!--eggplant-->
+  <VCE_Eggplant.label>баклажан</VCE_Eggplant.label>
+  <!--A bulbous purple fruit of the nightshade family. Eggplant is rarely served as a side, generally filling the role of the main component of the dish. Flourishes in warm weather.\n\n<color=#E5E54C>Gameplay effect:</color> Eggplants will grow 30% faster if temperature is between 37 and 60 ºC.-->
+  <VCE_Eggplant.description>Цибулинний фіолетовий плід родини пасльонових. Баклажани рідко подають як гарнір, зазвичай вони виконують роль основного компонента страви. Розквітає в теплу погоду.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Баклажани будуть рости на 30% швидше, якщо температура буде від 37ºC до 60 ºC.</VCE_Eggplant.description>
+  
+  <!--cabbage plant-->
+  <VCE_Cabbage.label>капуста</VCE_Cabbage.label>
+  <!--A somewhat hardy, leafy green vegetable, often chopped and then fermented or stewed. This particular strain seems highly resistant to airborne toxin and radiation. \n\n<color=#E5E54C>Gameplay effect:</color> Cabbages are unaffected by toxic fallout and, contrary to other plants, won't die from it.-->
+  <VCE_Cabbage.description>Дещо витривалий, листовий зелений овоч, який часто нарізають, а потім ферментують або тушкують. Цей конкретний сорт є дуже стійким до токсинів і радіації, що переносяться повітрям. \n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Капуста не піддається впливу токсичних опадів і, на відміну від інших рослин, не гине від них.</VCE_Cabbage.description>
+  
+  <!--beet plant-->
+  <VCE_Beet.label>буряк</VCE_Beet.label>
+  <!--An herb-like vegetable widely cultivated for humans and livestock alike, notably nutritious and historically used in dye making.\n\n<color=#E5E54C>Gameplay effect:</color> While beets do require rich soil they are quite hearty, and will continue to grow at 10% speed through winter. They need to be planted during growing season, though.-->
+  <VCE_Beet.description>Трав'янистий овоч, який широко культивується як для людей, так і для худоби, особливо поживний і історично використовувався для виготовлення барвників.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Хоча буряк і потребує родючого ґрунту, він досить поживний і буде рости зі швидкістю 10% впродовж зими. Однак його потрібно висаджувати під час сезону посіву.</VCE_Beet.description>
+  
+  <!--tomato plant-->
+  <VCE_Tomato.label>томат</VCE_Tomato.label>
+  <!--A series of juicy, glossy red fruits attached by vine, used commonly as a vegetable. Strong stewing releases natural sugars and mellows out acids contained within. Tomatoes are easily removed from the vine without having to uproot the plant.\n\n<color=#E5E54C>Gameplay effect:</color> Tomatoes won't be destroyed on harvest, similar to fruit trees.-->
+  <VCE_Tomato.description>Ряд соковитих, блискучих червоних плодів, прикріплених до лози, які зазвичай використовуються як овочі. При тривалому тушкуванні вивільняються природні цукри та розм'якшуються кислоти, що містяться всередині. Помідори легко знімаються з лози без необхідності викорчовувати рослину.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Томати не знищуються під час збору врожаю, як це відбувається з фруктовими деревами.</VCE_Tomato.description>
+  
+  <!--apple tree-->
+  <VCE_AppleTree.label>яблуня</VCE_AppleTree.label>
+  <!--A tree bearing glossy, red apples, while a myriad of different varieties exist this particular type favors warm summers and mild winters. Apples have been used as snacking food, a dessert ingredient, and brewed into cider since early mankind.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.-->
+  <VCE_AppleTree.description>Дерево з блискучими, червоним яблуками. Яблука використовували як закуску, десертний інгредієнт і варили з них сидр ще з часів раннього людства.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після збору врожаю, але мають обмежену тривалість життя і з часом потребують пересадки.</VCE_AppleTree.description>
+  
+  <!--peach tree-->
+  <VCE_PeachTree.label>персикове дерево</VCE_PeachTree.label>
+  <!--A deciduous tree bearing fuzzy, stone fruit known as peaches, peach trees often require full sunlight and warm temperatures. Ancient oriental cultures cultivated these trees groves at a time, noting its ability to survive in drought conditions. \n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.-->
+  <VCE_PeachTree.description>Листяне дерево, що приносить пухнасті кісточкові плоди, відомі як персики, персикові дерева часто потребують повного сонячного світла і теплих температур. Давні східні культури вирощували ці дерева цілими гаями, відзначаючи їхню здатність виживати в умовах посухи. \n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після збору врожаю, але мають обмежену тривалість життя і з часом потребують пересадки.</VCE_PeachTree.description>
+  
+  <!--cherry tree-->
+  <VCE_CherryTree.label>вишня</VCE_CherryTree.label>
+  <!--A tree bearing tiny purple-red sweet cherries. Cherry trees are notable for requiring a brief freezing season, as such their fruit quickly became a favorite among northern occidental civilizations. This particular genus is quite beautiful, speckled with pink blossoms throughout, blooming fully each winter.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nCherry trees have double beauty compared to other fruit trees.-->
+  <VCE_CherryTree.description>Дерево з маленьким пурпурно-червоними вишнями. Вишні відрізняються тим, що їм потрібен короткий період заморозків, тому вони швидко стали фаворитами серед північно-західних культур. Цей вид досить гарний, поцяткований рожевими квітами, цвіте повною мірою щозими.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після збору врожаю, але мають обмежену тривалість життя і з часом потребують пересадки.</VCE_CherryTree.description>
+  
+  <!--plum tree-->
+  <VCE_PlumTree.label>слива</VCE_PlumTree.label>
+  <!--A bushy tree bearing a smooth-skinned purple fruit. Plums are particularly tart and produced into a variety of jams, jellies, and ciders. Many cultures also dry-age plums into prunes for long-term preservation.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nPlums can be consumed raw or dried into prunes.-->
+  <VCE_PlumTree.description>Кущове дерево з гладкошкірими плодами фіолетового кольору. У багатьох культурах для довготривалого зберігання перестиглі сливи сушать на чорнослив. Замість того, щоб гнити, через 15 днів сливи висихають і перетворюються на чорнослив, який вважається консервованою їжею.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після збору врожаю, але мають обмежену тривалість життя і з часом потребують пересадки.\n\nСливи можна вживати сирими або сушити на чорнослив.</VCE_PlumTree.description>
+  
+  <!--pear tree-->
+  <VCE_PearTree.label>груша</VCE_PearTree.label>
+  <!--A stout tree bearing crispy green pears, pear trees are notable for requiring high amounts of water and cool weather, and also doing quite well in shade. While at first similar to apples, pears are slightly more fibrous and less sweet.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nPear trees can be grown indoors and they won't block wind turbines.-->
+  <VCE_PearTree.description>Міцне дерево, що плодоносить хрусткими зеленими грушами, груша потребує великої кількості води і прохолодної погоди, а також добре росте в затінку. На перший погляд схожі на яблука, груші трохи більш волокнисті та менш солодкі.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після збору врожаю, але мають обмежену тривалість життя і з часом потребують пересадки.\n\nГрушу можна вирощувати в приміщенні, і вони не блокуватимуть вітрогенератори.</VCE_PearTree.description>
+  
+  <!--opuntia-->
+  <VCE_Opuntia.label>опунція</VCE_Opuntia.label>
+  <!--More often referred to as the “prickly pear” cactus, this plant is known to be quite bountiful even in hot, dry deserts. The pads of this tall, spiny cactus bloom pink, melon-like edible fruits, used historically for both snacking as well as medicine by desert natives.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nOpuntis can be planted close to each other as they don't block sowing plants adjacent to them.-->
+  <VCE_Opuntia.description>Ця рослина відома тим, що навіть у спекотних сухих пустелях є досить щедрою на плоди. На подушечках цього високого колючого кактуса цвітуть рожеві, схожі на диню їстівні плоди, які історично використовувалися місцевими жителями пустелі як для перекусу, так і в якості ліків.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після збору врожаю, але мають обмежену тривалість життя і з часом потребують пересадки.\n\nОпунцію можна висаджувати близько одна до одної, оскільки вони не перешкоджають посіву сусідніх рослин.</VCE_Opuntia.description>
+  
+  <!--bearberry bush-->
+  <VCE_BearBerryBush.label>кущ мучниці</VCE_BearBerryBush.label>
+  <!--A low-lying bush speckled with pink berries that thrives in poor, even sandy soil. While raw bearberries possess an acidic and bland taste, after cooking a natural sweetness comes through and the results can be much more palatable.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nBearberry bushes can be grown in pots.-->
+  <VCE_BearBerryBush.description>Низькорослий кущ, поцяткований рожевими ягодами, що росте на бідних, навіть піщаних ґрунтах. Хоча сира мучниця має кислуватий і м'який смак, після приготування з'являється природна солодкість, і результат може бути набагато приємнішим.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після збору врожаю, але мають обмежену тривалість життя і з часом потребують пересадки.\n\nКущі мучниці можна вирощувати в горщиках.</VCE_BearBerryBush.description>
+  
+  <!--banana tree-->
+  <VCE_BananaTree.label>бананове дерево</VCE_BananaTree.label>
+  <!--A broad-leafed, tall tropical tree adorned with a cluster of yellow, elongated berries succinctly known as bananas. Bananas are easily peeled to reveal a deeply sweet, nearly mushy flesh inside and have been a favorite of both humans and other primates across the tropics for millenia.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nBananas are easy to harvest, since a whole "hand" can be cut at the same time, making their harvest time much lower than other trees'.-->
+  <VCE_BananaTree.description>Широколисте, високе тропічне дерево, прикрашене гронами жовтих, видовжених плодів, лаконічно відомих як банани. Банани легко очищаються від шкірки, відкриваючи солодку, майже кашоподібну м'якоть всередині та тисячоліттями були улюбленими ласощами як людей, так і інших приматів у тропіках.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після збору врожаю, але мають обмежену тривалість життя і з часом потребують пересадки.\n\nБанани легко збирати, оскільки за один раз можна зрізати цілу зв'язку, що значно скорочує час збору врожаю порівняно з іншими деревами.</VCE_BananaTree.description>
+  
+  <!--orange tree-->
+  <VCE_OrangeTree.label>апельсинове дерево</VCE_OrangeTree.label>
+  <!--A bushy, semi-tropical tree dotted with orange fruits well equipped for growing in humid environments and in wet soil. Spherical and perforated, oranges are notoriously annoying to peel and quite pulpy, but known as one of the absolute juiciest fruits with a bright tang and sour aftertaste.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nOrange trees receive a 1% boost to growth for each river terrain in a 3 tile radius around them.-->
+  <VCE_OrangeTree.description>Кущове напівтропічне дерево, всіяне апельсинами, добре пристосоване для вирощування у вологому середовищі та на вологому ґрунті. Сферичні та пористі апельсини, як відомо, досить складні для чищення і досить м'ясисті, але відомі як одні з найсоковитіших фруктів з яскравим кисло-солодким присмаком.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після збору врожаю, але мають обмежену тривалість життя і з часом потребують пересадки.\n\nАпельсинові дерева отримують 1% приросту за кожну річкову місцевість в радіусі 3 тайлів навколо них.</VCE_OrangeTree.description>
+</LanguageData>

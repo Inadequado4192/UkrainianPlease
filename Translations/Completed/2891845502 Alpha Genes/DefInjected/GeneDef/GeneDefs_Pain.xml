@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brittle bones -->
+  <AG_BrittleBones.label>крихкі кістки</AG_BrittleBones.label>
+  <!-- EN: Carriers of this gene have very frail, brittle bone structure. If they are downed in any way they'll suffer cracks and fractures in their bones. -->
+  <AG_BrittleBones.description>Носії цього гена мають дуже тендітну, крихку кісткову структуру. Якщо їх якось збити, у них з'являться тріщини та переломи в кістках.</AG_BrittleBones.description>
+  <!-- EN: Being downed (in any way, even medically supervised) will cause bone fractures -->
+  <AG_BrittleBones.customEffectDescriptions.0>Падіння (у будь-який спосіб, навіть під медичним наглядом) призведе до переломів кісток</AG_BrittleBones.customEffectDescriptions.0>
+  <!-- EN: brittle -->
+  <AG_BrittleBones.symbolPack.prefixSymbols.0.symbol>крихкий</AG_BrittleBones.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: glass -->
+  <AG_BrittleBones.symbolPack.prefixSymbols.1.symbol>скляний</AG_BrittleBones.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: weak -->
+  <AG_BrittleBones.symbolPack.prefixSymbols.2.symbol>слабкий</AG_BrittleBones.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: painless -->
+  <AG_Painless.label>безболісний</AG_Painless.label>
+  <!-- EN: Carriers of this gene feel almost no pain compared to a baseliner. Reduced neuron activity in the brain's nociception centers makes pain almost nonexistent. This can be advantageous sometimes, and dangerous other times. -->
+  <AG_Painless.description>Носії цього гена майже не відчувають болю порівняно з базовим варіантом. Знижена активність нейронів у ноцицептивних центрах мозку робить біль майже не відчутним. Іноді це може бути корисно, а іноді - небезпечно.</AG_Painless.description>
+  <!-- EN: painless -->
+  <AG_Painless.labelShortAdj>безболісний</AG_Painless.labelShortAdj>
+  <!-- EN: dull -->
+  <AG_Painless.symbolPack.prefixSymbols.0.symbol>тьмяний</AG_Painless.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: painless -->
+  <AG_Painless.symbolPack.prefixSymbols.1.symbol>безболісний</AG_Painless.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: tough -->
+  <AG_Painless.symbolPack.prefixSymbols.2.symbol>жорсткий</AG_Painless.symbolPack.prefixSymbols.2.symbol>
+  
+</LanguageData>

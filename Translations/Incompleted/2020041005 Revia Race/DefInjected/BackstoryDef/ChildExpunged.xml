@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Revian priests inspect newborn children for infirmities, and those that were found weak are exposed to weather until they die. [PAWN_nameDef] was one such case, though [PAWN_pronoun] was rescued by other such exiles from a slow death. -->
+  <ReviaRaceBackstoryChildExpunged.baseDesc>Жерці Ревії оглядають новонароджених дітей на предмет недуг, і ті, що були знайдені слабкими, віддають під вплив погоди до тих пір, поки не помруть. [PAWN_nameDef] був одним із таких випадків, хоча [PAWN_pronoun] був врятований іншими такими вигнанцями від повільної смерті.</ReviaRaceBackstoryChildExpunged.baseDesc>
+  <!-- EN: Revian Expunged Child -->
+  <ReviaRaceBackstoryChildExpunged.title>Ревійська Вигнана Дитина</ReviaRaceBackstoryChildExpunged.title>
+  <!-- EN: Exile -->
+  <ReviaRaceBackstoryChildExpunged.titleShort>Вигнанець</ReviaRaceBackstoryChildExpunged.titleShort>
+  
+</LanguageData>

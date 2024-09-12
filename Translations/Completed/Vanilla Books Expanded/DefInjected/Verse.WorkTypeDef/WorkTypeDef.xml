@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VBE_Writing.description>Виконання письмової роботи.</VBE_Writing.description>
+  <VBE_Writing.gerundLabel>письмо</VBE_Writing.gerundLabel>
+  <VBE_Writing.labelShort>Письмо</VBE_Writing.labelShort>
+  <VBE_Writing.pawnLabel>Письменник</VBE_Writing.pawnLabel>
+  <VBE_Writing.verb>Пише за</VBE_Writing.verb>
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ToxicGasImplant -->
+
+  <InstallGasTrapImplantToxic.label>вживити пастку з отруйним газом</InstallGasTrapImplantToxic.label>
+  <InstallGasTrapImplantToxic.description>Вживити пастку з отруйним газом.</InstallGasTrapImplantToxic.description>
+  <InstallGasTrapImplantToxic.jobString>вживляє пастку з отруйним газом.</InstallGasTrapImplantToxic.jobString>
+
+
+  <!-- AcidGasImplant -->
+
+  <InstallGasTrapImplantAcid.label>вживити пастку з кислотним газом.</InstallGasTrapImplantAcid.label>
+  <InstallGasTrapImplantAcid.description>Вживити пастку з кислотним газом.</InstallGasTrapImplantAcid.description>
+  <InstallGasTrapImplantAcid.jobString>вживляє пастку з кислотним газом.</InstallGasTrapImplantAcid.jobString>
+
+
+  <!-- RageGasImplant -->
+
+  <InstallGasTrapImplantRage.label>вживити пастку з газом гніву</InstallGasTrapImplantRage.label>
+  <InstallGasTrapImplantRage.description>Вживити пастку з газом гніву.</InstallGasTrapImplantRage.description>
+  <InstallGasTrapImplantRage.jobString>вживляє пастку з газом гніву.</InstallGasTrapImplantRage.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Gas Traps And Shells</name>
+        <id>2012627964</id>
+        <packageId>com.distman.gastrap</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>tyulen</nickname>
+            <steamId>76561198374567982</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3053546771</sourceTranslationId>
+    <lastUpdate>2024-04-12T09:08:17.000Z</lastUpdate>
+</TranslationDetails>

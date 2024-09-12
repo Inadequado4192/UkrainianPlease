@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: throwing knife -->
+  <ReviaThrowingKnife.label>метальний ніж</ReviaThrowingKnife.label>
+  <!-- EN: A balanced throwing knife. -->
+  <ReviaThrowingKnife.description>Збалансований метальний ніж.</ReviaThrowingKnife.description>
+  <!-- EN: point -->
+  <ReviaThrowingKnife.tools.point.label>вістря</ReviaThrowingKnife.tools.point.label>
+  <!-- EN: throwing knife -->
+  <ReviaThrowingKnife.verbs.Verb_Shoot.label>метальний ніж</ReviaThrowingKnife.verbs.Verb_Shoot.label>
+  
+  <!-- EN: thrown knife -->
+  <ReviaThrowingKnifeThrown.label>кинутий ніж</ReviaThrowingKnifeThrown.label>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VHGE_CommandToggleGas_Label>Перемикнути газ</VHGE_CommandToggleGas_Label>
+  <VHGE_CommandToggleGas_Desc>Призначити потік газу, який потрібно перемикнути. Незабаром прийде поселенець та перемикне його.</VHGE_CommandToggleGas_Desc>
+  <VHGE_InfiniteDeposit>Знайдено невелике нескінченне родовище газу!</VHGE_InfiniteDeposit>
+  <VHGE_InfiniteDepositLabel>Газове родовище</VHGE_InfiniteDepositLabel>
+  <VHGE_GasOverlayTooltip>Перемкнути накладення нескінченних газових родовищ</VHGE_GasOverlayTooltip>
+  <VHGE_NeedDeepOrGeyser>Газовий насос потрібно розмістити на газовому родовищі або гейзері.</VHGE_NeedDeepOrGeyser>
+  <VHGE_FillGeyser>Завалити отвір гейзера</VHGE_FillGeyser>
+  <VHGE_FillGeyserDesc>Видаляє гейзер з карти. Безповоротна дія.</VHGE_FillGeyserDesc>
+  <VHGE_Name>Vanilla Helixien Gas Expanded</VHGE_Name>
+  <VHGE_InfiniteDepositSettings>&lt;b&gt; Налаштування нескінченних родовищ &lt;/b&gt;</VHGE_InfiniteDepositSettings>
+  <VHGE_ScanningSettings>&lt;b&gt; Налаштування газових родовищ &lt;/b&gt;</VHGE_ScanningSettings>
+  <VHGE_GeysersSettings>&lt;b&gt; Налаштування газових гейзерів &lt;/b&gt;</VHGE_GeysersSettings>
+  <VHGE_EnableDeposits>Дозволити спавн нескінченних газових родовищ:</VHGE_EnableDeposits>
+  <VHGE_DepositsAmount>Кількість родовищ:</VHGE_DepositsAmount>
+  <VHGE_DepositsCellCount>Кількість клітин газових родовищ:</VHGE_DepositsCellCount>
+  <VHGE_HelixienDeepCommonality>Рідкість газових підземних родовищ при скануванні (0, щоб відключити їх):</VHGE_HelixienDeepCommonality>
+  <VHGE_HelixienDeepCount>Кількість геліксину на одну клітинку:</VHGE_HelixienDeepCount>
+  <VHGE_EnableGeysers>Дозволити газові гейзери:</VHGE_EnableGeysers>
+  <VHGE_GeysersCount>Кількість газових гейзерів:</VHGE_GeysersCount>
+</LanguageData>

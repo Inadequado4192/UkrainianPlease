@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neutralized acidic blood -->
+  <AG_Filth_Acid.label>нейтралізована кислотна кров</AG_Filth_Acid.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <AG_Filth_Fuel.label>лужа хімпалива</AG_Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <AG_Filth_Fuel.description>Лужа легкозаймистого хімпалива.</AG_Filth_Fuel.description>
+  
+  <!-- EN: rat filth -->
+  <AG_Filth_Rats.label>щурячі екскременти</AG_Filth_Rats.label>
+  
+  <!-- EN: pebble blood -->
+  <AG_Filth_RubbleRock.label>камінцева кров</AG_Filth_RubbleRock.label>
+  
+  <!-- EN: slimy blood -->
+  <AG_FilthMucus.label>слизька кров</AG_FilthMucus.label>
+  
+  <!-- EN: tarlike blood -->
+  <AG_TarBlood.label>смолиста кров</AG_TarBlood.label>
+  
+</LanguageData>

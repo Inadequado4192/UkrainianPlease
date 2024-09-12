@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Fishing Expanded</name>
+        <id>1914064942</id>
+        <packageId>vanillaexpanded.vcef</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3181147742</sourceTranslationId>
+    <lastUpdate>2024-03-18T17:24:56.000Z</lastUpdate>
+</TranslationDetails>

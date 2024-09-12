@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <TAcfgmenulabel>Налаштування Techadvancing</TAcfgmenulabel>
+	
+  <newTechLevelLetterTitle>Новий технологічний рівень</newTechLevelLetterTitle>
+  <newTechLevelLetterContents>Вітаємо, дослідник щойно завершив дослідницький проєкт, який зробив ваш {0} розумнішим. Новий технологічний рівень</newTechLevelLetterContents>
+  
+  <ConfigEditTechlevelChange>У зв'язку з редагуванням впливу технологічного прогресу на вашу гру, ваш рівень технологій було змінено на</ConfigEditTechlevelChange>
+  
+  <configHeader>Ви можете редагувати правила тут:</configHeader>
+  <configRuleAdesc>Правило A: \nЯкщо гравець дослідив усі технології рівня X і нижче, то технологічний рівень підвищується до X +</configRuleAdesc>
+  <configRuleBdesc>Правило B: \nЯкщо гравець дослідив більше 50% технологій рівня Y, технологічний рівень підвищується до Y +</configRuleBdesc>
+  <configRuleBSliderdesc>Цей повзунок регулює поріг для Правила B.</configRuleBSliderdesc>
+  <configRadioBtnNeolithic>Неолітичний / Племінний</configRadioBtnNeolithic>
+  <configRadioBtnAutoDetect>Автоматичне визначення (за замовчуванням)</configRadioBtnAutoDetect>
+  <configRadioBtnIndustrial>Промисловий / Колоніальний</configRadioBtnIndustrial>
+  <configBaseTechLvl>Базовий технологічний рівень</configBaseTechLvl>
+  <configTribe>Плем'я</configTribe>
+  <configColony>Колонія</configColony>
+  <configSetToTribe>Встановити на Плем'я</configSetToTribe>
+  <configSetToColony>Встановити на Колонію</configSetToColony>
+  <configNeolithic>Неолітичний</configNeolithic>
+  <configIndustrial>Індустріальний</configIndustrial>
+  <configWordDefault>за замовчуванням:</configWordDefault>
+  <configExpectedTechLvl>Очікуваний технологічний рівень для цього правила:</configExpectedTechLvl>
+  <configResultingTechLvl>Кінцевий технологічний рівень:</configResultingTechLvl>
+  <configCheckboxNeedTechColonists>Якщо цю опцію увімкнено, ви не зможете підвищити свій технічний рівень \nпонад '{0}', якщо у вашій колонії/племені є лише члени племені.</configCheckboxNeedTechColonists>
+  <configCheckboxNeedTechColonists_CappedAt>В результаті ваш технологічний рівень буде обмежений до '{0}', поки ваша колонія/племя не отримає людину, яка не належить до племені.</configCheckboxNeedTechColonists_CappedAt>
+  <configCheckboxDisableCostMultiplicatorCap>Прибирає стандартний мінімум 50% для розрахунку швидкості дослідницького проєкту. (як в A18 і раніше).</configCheckboxDisableCostMultiplicatorCap>
+  
+  <newTechLevelMedievalCapRemLetterTitle>Розблоковано просунуті технологічні рівні</newTechLevelMedievalCapRemLetterTitle>
+  <newTechLevelMedievalCapRemLetterContents>До вашої {0} щойно приєднався ще один учасник, який навчив їх декільком новим трюкам. Таким чином, середньовічний технічний рівень подолано. Вітаю!!</newTechLevelMedievalCapRemLetterContents>
+  <newTechLevelMedievalCapRemLetterTitleRev>Просунуті технологічні рівні заблоковано</newTechLevelMedievalCapRemLetterTitleRev>
+  <newTechLevelMedievalCapRemLetterContentsRev>Не залишилося людей, які знаються на високих технологіях. Тому повертається середньовічна межа технологічного рівня!</newTechLevelMedievalCapRemLetterContentsRev>
+  
+  <TAcfgunavailable>Кнопка конфігурації доступна лише під час відтворення мапи.</TAcfgunavailable>
+  <TAcfgDefaultsHeader>Значення конфігурації за замовчуванням для нових мап:</TAcfgDefaultsHeader>
+  <TAcfgSetDefaults>Зберегти значення за замовчуванням</TAcfgSetDefaults>
+  
+  <availableTechLvls>Доступні наступні технологічні рівні:</availableTechLvls>
+  
+  <TA_TL_Archotech>Архотечний</TA_TL_Archotech>
+  <TA_TL_Ultra>Ультра</TA_TL_Ultra>
+  <TA_TL_Spacer>Космічний</TA_TL_Spacer>
+  <TA_TL_Industrial>Індустріальний</TA_TL_Industrial>
+  <TA_TL_Medieval>Середньовічний</TA_TL_Medieval>
+  <TA_TL_Neolithic>Неолітичний</TA_TL_Neolithic>
+  <TA_TL_Animal>Тваринний</TA_TL_Animal>
+  <TA_TL_Undefined>Невизначений</TA_TL_Undefined>
+  
+  
+  <config_menu_button_main>Основні Налаштування</config_menu_button_main>
+  <config_menu_button_research_project_settings>Налаштування Проєктів</config_menu_button_research_project_settings>
+  <config_menu_button_research_project_info>Інформація про Проєкти</config_menu_button_research_project_info>
+  
+  <configCheckboxMakeHigherResearchesSuperExpensive>Зробить дослідницькі проєкти в X разів дорожчими, якщо вони більш просунуті, ніж ваша фракція.</configCheckboxMakeHigherResearchesSuperExpensive>
+  <configCheckboxMakeHigherResearchesSuperExpensiveFac>Використовує наступний базовий множник для наведеного вище налаштування: (поточний множник: x{0})</configCheckboxMakeHigherResearchesSuperExpensiveFac>
+  <configChangeResearchCostFac>Масштабує вартість усіх дослідницьких проєктів на наступну величину: (поточний фактор: x{0})</configChangeResearchCostFac>
+  <configDiscountPctForLowerTechs>Застосовує знижку в розмірі X^N відсотків для технологій, які знаходяться нижче вашого рівня, де X - це значення повзунка \n, а N - кількість рівнів, на які ви випереджаєте рівень проєкту: (поточна знижка: -{0}%)</configDiscountPctForLowerTechs>
+  <configCheckboxIgnoreNonMainTreeTechs>Ігнорувати всі проєкти, які не знаходяться на головній вкладці дерева досліджень.</configCheckboxIgnoreNonMainTreeTechs>
+  <configCheckboxIgnoreResearchNeedingTechprints>Ігнорувати всі технології, які вимагають техпринти або відкриваються технологіями, що вимагають техпринти.</configCheckboxIgnoreResearchNeedingTechprints>
+  <configWordTechlevel>Рівень технологій</configWordTechlevel>
+  
+  <configResearchProjectInfo_TechsRemainingSingular>Залишилося дослідити один проєкт. Поточна завершеність досліджень: {1}%\nЗалишився проєкт: {2}</configResearchProjectInfo_TechsRemainingSingular>
+  <configResearchProjectInfo_TechsRemainingPlural>Залишилося дослідити {0} проєктів. Поточна повнота досліджень: {1}%\nРешта проєктів:\n{2}</configResearchProjectInfo_TechsRemainingPlural>
+  <configResearchProjectInfo_TechsRemainingNone>Всі проєкти цього технологічного рівня були досліджені.</configResearchProjectInfo_TechsRemainingNone>
+  
+</LanguageData>

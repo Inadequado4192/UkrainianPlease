@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--stew pot-->
+  <VCE_StewPot.label>сотейник</VCE_StewPot.label>
+  <!--A wood-fired stove with a top side perfectly indented for a large pot. The lack of need for electricity means this cooking apparatus is perfect for the rugged outdoorsman or medieval peasant alike. Stews are heartier and easier to cook than proper soups. Stews often meld into a singular flavor over long periods of time, perfect for gamey or “less enticing” meat products.\n\nThis building gives off a significant amount of heat.\n\nStew is slightly less nutrition-efficient than Soup, but requires only 2 days of cook time as opposed to Soup's 3.\n\n\As with most fueled buildings, this building consumes extra fuel when rained on. Keep it underneath a roof; remember that you can extend roofs past a wall without forming an enclosed room.-->
+  <VCE_StewPot.description>Дров'яна піч, верхня сторона якої ідеально підходить для великого сотейника. Відсутність потреби в електриці означає, що цей кухонний прилад ідеально підходить як для суворого туриста, так і для середньовічного селянина. Тушковане м'ясо ситніше і простіше у приготуванні, ніж звичайні супи. Тушковане м'ясо часто набуває особливого смаку протягом тривалого часу, що ідеально підходить для дичини або "менш привабливих" м'ясних продуктів.\n\nЦя будівля виділяє значну кількість тепла.\n\nТушковане м'ясо трохи менш поживне, ніж суп, але вимагає лише 2 дні приготування на відміну від 3 днів для супу.\n\nЯк і більшість будівель, що працюють на паливі, ця будівля споживає додаткове паливо, коли на неї йде дощ. Тримайте її під дахом; пам'ятайте, що ви можете продовжити дах за стіну, не утворюючи закритого приміщення.</VCE_StewPot.description>
+  
+  <!--uncooked simple stew-->
+  <VCE_UncookedStewSimple.label>сире просте тушковане м'ясо</VCE_UncookedStewSimple.label>
+  <!--An uncooked simple stew. This needs to be cooked in a stew pot to be edible.-->
+  <VCE_UncookedStewSimple.description>Сире просте тушковане м'ясо. Щоб воно було їстівним, його потрібно приготувати в сотейнику.</VCE_UncookedStewSimple.description>
+  
+  <!--simple stew-->
+  <VCE_CookedStewSimple.label>просте тушковане м'ясо</VCE_CookedStewSimple.label>
+  <!--A simple stew slow cooked from a few ingredients.-->
+  <VCE_CookedStewSimple.description>Просте тушковане м'ясо, яке швидко готується з кількох інгредієнтів.</VCE_CookedStewSimple.description>
+  
+  <!--uncooked fine stew-->
+  <VCE_UncookedStewFine.label>сире вишукане тушковане м'ясо</VCE_UncookedStewFine.label>
+  <!--An uncooked fine stew. This needs to be cooked in a stew pot to be edible.-->
+  <VCE_UncookedStewFine.description>Сире вишукане тушковане м'ясо. Щоб воно було їстівним, його потрібно приготувати в сотейнику.</VCE_UncookedStewFine.description>
+  
+  <!--fine stew-->
+  <VCE_CookedStewFine.label>вишукане тушковане м'ясо</VCE_CookedStewFine.label>
+  <!--A complex stew assembled with care from a wide selection of ingredients.-->
+  <VCE_CookedStewFine.description>Складне тушковане м'ясо, виготовлене із ретельно відібраного асортименту інгредієнтів.</VCE_CookedStewFine.description>
+  
+  <!--uncooked lavish stew-->
+  <VCE_UncookedStewLavish.label>сире розкішне тушковане м'ясо</VCE_UncookedStewLavish.label>
+  <!--An uncooked lavish stew. This needs to be cooked in a stew pot to be edible.-->
+  <VCE_UncookedStewLavish.description>Сире розкішне тушковане м'ясо. Щоб воно було їстівним, його потрібно приготувати в сотейнику.</VCE_UncookedStewLavish.description>
+  
+  <!--lavish stew-->
+  <VCE_CookedStewLavish.label>розкішне тушковане м'ясо</VCE_CookedStewLavish.label>
+  <!--A masterpiece of the culinary arts, this stew nourishes the body, mind, and soul.-->
+  <VCE_CookedStewLavish.description>Шедевр кулінарного мистецтва, це тушковане м'ясо живить тіло, розум і душу.</VCE_CookedStewLavish.description>
+</LanguageData>

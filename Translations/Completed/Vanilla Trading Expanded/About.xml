@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Trading Expanded</name>
+        <id>2785616901</id>
+        <packageId>vanillaexpanded.vanillatradingexpanded</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3121158111</sourceTranslationId>
+    <lastUpdate>2023-12-23T22:32:37.000Z</lastUpdate>
+</TranslationDetails>

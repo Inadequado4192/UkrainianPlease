@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEE_WandererJoinsTraitor.label>мандрівник приєднуться (зрадник)</VEE_WandererJoinsTraitor.label>
+  
+  <VEE_Drought.label>посуха</VEE_Drought.label>
+  <VEE_Drought.letterLabel>Посуха</VEE_Drought.letterLabel>
+  <VEE_Drought.letterText>Настала незвична посуха.\n\nПосуха є руйнівною для життя рослин і не дасть вирости всім культурам, які не були посаджені на гідропоніці або в ґрунті з високою родючістю.</VEE_Drought.letterText>
+  
+  <VEE_SpaceBattle.label>космічна битва</VEE_SpaceBattle.label>
+  <VEE_SpaceBattle.letterLabel>Космічна Битва</VEE_SpaceBattle.letterLabel>
+  <VEE_SpaceBattle.letterText>Кілька масивних космічних кораблів вступили в бій на орбіті планети. Уламки та снаряди, що не влучили в свою ціль, можуть впасти на землю в цьому районі. Це може призвести до масштабних пожеж.</VEE_SpaceBattle.letterText>
+  
+  <VEE_MeteoriteShower.label>метеоритний дощ</VEE_MeteoriteShower.label>
+  <VEE_MeteoriteShower.letterLabel>Метеоритний Дощ</VEE_MeteoriteShower.letterLabel>
+  <VEE_MeteoriteShower.letterText>Кілька великих метеоритів впали на землю в цьому районі. Вони залишили після себе великі скупчення ресурсів.</VEE_MeteoriteShower.letterText>
+  
+  <VEE_AnimalPodCrash.label>транспортна капсула з твариною розбилась</VEE_AnimalPodCrash.label>
+  
+  <VEE_ShuttleCrash.label>неподалік розбився шатл</VEE_ShuttleCrash.label>
+  
+  <VEE_Earthquake.label>землетрус</VEE_Earthquake.label>
+  
+  <VEE_Cargopodsweapons.label>вантажні капсули зі зброєю</VEE_Cargopodsweapons.label>
+  
+  <VEE_Cargopodsapparel.label>вантажні капсули з одягом</VEE_Cargopodsapparel.label>
+  
+  <VEE_CaravanAnimalsWanderIn.label>забрідають тварини з каравану</VEE_CaravanAnimalsWanderIn.label>
+  
+  <VEE_CropSprout.label>паростки культивованих рослин</VEE_CropSprout.label>
+  
+  <VEE_BattleAnimalsWanderIn.label>забрідають бойові тварини</VEE_BattleAnimalsWanderIn.label>
+  
+  <VEE_WildMenWanderIn.label>забрідають дикі люди</VEE_WildMenWanderIn.label>
+  
+  <VEE_HuntingParty.label>мисливський загін</VEE_HuntingParty.label>
+  
+  <RaidEnemyPurple.label>льодовиковий період: ворожий рейд</RaidEnemyPurple.label>
+  
+  <ManhunterPackPurple.label>зграя скажених звірів</ManhunterPackPurple.label>
+  
+  <AnimalInsanityMassPurple.label>масовий сказ тварин</AnimalInsanityMassPurple.label>
+  
+  <VEE_IceAge.label>льодовиковий період</VEE_IceAge.label>
+  <VEE_IceAge.letterLabel>Льодовиковий Період</VEE_IceAge.letterLabel>
+  <VEE_IceAge.letterText>Склад атмосфери планети кардинально змінився, що призвело до значного зниження температури.\n\nФлора і фауна страждають від цих змін, оскільки біоми змінюються на більш холодні аналоги. Ресурсів стає все менше, що призводить до конфліктів між угрупованнями.\n\nЦе триватиме від сезону до кількох років.</VEE_IceAge.letterText>
+  
+  <VEE_GlobalWarming.label>глобальне потепління</VEE_GlobalWarming.label>
+  <VEE_GlobalWarming.letterLabel>Глобальне Потепління</VEE_GlobalWarming.letterLabel>
+  <VEE_GlobalWarming.letterText>Глобальна температура раптово зросла до небезпечного рівня.\n\nФлора і фауна страждають від цих змін, оскільки біоми змінюються на більш теплі аналоги. Ресурсів стає все менше, що призводить до конфліктів між угрупованнями.\n\nЦе триватиме від сезону до кількох років.</VEE_GlobalWarming.letterText>
+  
+  <VEE_PsychicRain.label>психічний дощ</VEE_PsychicRain.label>
+  <VEE_PsychicRain.letterLabel>Психічний Дощ</VEE_PsychicRain.letterLabel>
+  <VEE_PsychicRain.letterText>Небезпечна психічна сутність викликала збурення на субатомних рівнях, резонуючи з усіма частинками атмосфери.\n\nПочався, здавалося б, нескінченний надприродний дощ, що змінює сам хід часу. Будь-яка істота, що не перебуває під дахом, старітиме значно швидше.\n\nЦе триватиме від сезону до кількох років.</VEE_PsychicRain.letterText>
+  
+  <VEE_LongNight.label>довга ніч</VEE_LongNight.label>
+  <VEE_LongNight.letterLabel>Довга Ніч</VEE_LongNight.letterLabel>
+  <VEE_LongNight.letterText>Космічний об'єкт неймовірних розмірів закрив місцеву зірку, що призвело до тривалого затемнення.\n\nНалякані цим надприродним явищем, інші фракції використають цей час для ведення війни і конфліктів по всій поверхні.\n\nЦе затемнення триватиме від сезону до кількох років.</VEE_LongNight.letterText>
+  
+  <VEE_PsychicBloom.label>пcихічний розквіт</VEE_PsychicBloom.label>
+  <VEE_PsychicBloom.letterLabel>Пcихічний Розквіт</VEE_PsychicBloom.letterLabel>
+  <VEE_PsychicBloom.letterText>Сильний психічний імпульс, випромінюваний давно забутою істотою, змінив саму генетичну структуру місцевої флори. У той час як небо наповнилося, здавалося б, нескінченними полярними сяйвами, всюди почали проростати різнокольорові квіти.\n\nНа час події всі пішаки отримають заряд позитивного настрою. Квіти, що швидко поширюються, заростуть все, включаючи ваші поля.\n\nЦе триватиме від кількох днів до сезону.</VEE_PsychicBloom.letterText>
+</LanguageData>

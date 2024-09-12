@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] is an acolyte of the bloody god of the Revia. [PAWN_pronoun] often sacrifices animals, humanlikes or any other living creature that [PAWN_pronoun] can get a hold of. Despite having the fiery fervour to deliver truly gripping sermons, [PAWN_pronoun] is often shunned by animals and humans alike, perhaps fearing that they would be next on the altar. -->
+  <ReviaRaceBackstoryAdultAcolyte.baseDesc>[PAWN_nameDef] - аколит кровожадного бога Ревії. [PAWN_pronoun] часто жертвує тварин, подібних до людини або будь-яких інших живих істот, якими [PAWN_pronoun] може заволодіти. Незважаючи на вогняне жагою вести дійсно захоплюючі проповіді, [PAWN_pronoun] часто відкидають тварини та люди, можливо, збоячись, що вони можуть бути наступними на алтарі.</ReviaRaceBackstoryAdultAcolyte.baseDesc>
+  <!-- EN: Revian Skarne Acolyte -->
+  <ReviaRaceBackstoryAdultAcolyte.title>Ревійський Скарне Аколит</ReviaRaceBackstoryAdultAcolyte.title>
+  <!-- EN: Acolyte -->
+  <ReviaRaceBackstoryAdultAcolyte.titleShort>Аколит</ReviaRaceBackstoryAdultAcolyte.titleShort>
+  
+</LanguageData>

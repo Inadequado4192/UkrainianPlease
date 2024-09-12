@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_NamerDeityJewish.rulePack.rulesStrings.0>r_deityName(p=3)->Йахвей</AM_NamerDeityJewish.rulePack.rulesStrings.0>
+  <AM_NamerDeityJewish.rulePack.rulesStrings.1>r_deityName->Елойім</AM_NamerDeityJewish.rulePack.rulesStrings.1>
+  <AM_NamerDeityJewish.rulePack.rulesStrings.2>r_deityName->Йахве</AM_NamerDeityJewish.rulePack.rulesStrings.2>
+  <AM_NamerDeityJewish.rulePack.rulesStrings.3>r_deityName->Ель</AM_NamerDeityJewish.rulePack.rulesStrings.3>
+  <AM_NamerDeityJewish.rulePack.rulesStrings.4>r_deityName->Елой</AM_NamerDeityJewish.rulePack.rulesStrings.4>
+  <AM_NamerDeityJewish.rulePack.rulesStrings.5>r_deityName->Шаддай</AM_NamerDeityJewish.rulePack.rulesStrings.5>
+  <AM_NamerDeityJewish.rulePack.rulesStrings.6>r_deityName->Ехей</AM_NamerDeityJewish.rulePack.rulesStrings.6>
+  <AM_NamerDeityJewish.rulePack.rulesStrings.7>r_deityName->Цеварот</AM_NamerDeityJewish.rulePack.rulesStrings.7>
+
+  <AM_NamerDeitySikh.rulePack.rulesStrings.0>r_deityName->Акаль Пурах</AM_NamerDeitySikh.rulePack.rulesStrings.0>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.1>r_deityName->Ек Онкар</AM_NamerDeitySikh.rulePack.rulesStrings.1>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.2>r_deityName->Сетнам</AM_NamerDeitySikh.rulePack.rulesStrings.2>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.3>r_deityName->Вахегуру</AM_NamerDeitySikh.rulePack.rulesStrings.3>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.4>r_deityName->Біхао Хандан</AM_NamerDeitySikh.rulePack.rulesStrings.4>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.5>r_deityName->Дгух Бхайно</AM_NamerDeitySikh.rulePack.rulesStrings.5>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.6>r_deityName->Бхагат Ваткал</AM_NamerDeitySikh.rulePack.rulesStrings.6>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.7>r_deityName->Харі</AM_NamerDeitySikh.rulePack.rulesStrings.7>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.8>r_deityName->Говінда</AM_NamerDeitySikh.rulePack.rulesStrings.8>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.9>r_deityName->Бхваган</AM_NamerDeitySikh.rulePack.rulesStrings.9>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.10>r_deityName->Рабх</AM_NamerDeitySikh.rulePack.rulesStrings.10>
+  <AM_NamerDeitySikh.rulePack.rulesStrings.11>r_deityName->Юпар Валах</AM_NamerDeitySikh.rulePack.rulesStrings.11>
+
+  <AM_DeityTypeMakerSikh.rulePack.rulesStrings.0>r_deityType->Позачасове Первісне Буття</AM_DeityTypeMakerSikh.rulePack.rulesStrings.0>
+  <AM_DeityTypeMakerSikh.rulePack.rulesStrings.1>r_deityType->Творець</AM_DeityTypeMakerSikh.rulePack.rulesStrings.1>
+  <AM_DeityTypeMakerSikh.rulePack.rulesStrings.2>r_deityType->Істинне Буття</AM_DeityTypeMakerSikh.rulePack.rulesStrings.2>
+  <AM_DeityTypeMakerSikh.rulePack.rulesStrings.3>r_deityType->Прекрасний Вчитель</AM_DeityTypeMakerSikh.rulePack.rulesStrings.3>
+  <AM_DeityTypeMakerSikh.rulePack.rulesStrings.4>r_deityType->Руйнівник Страху</AM_DeityTypeMakerSikh.rulePack.rulesStrings.4>
+  <AM_DeityTypeMakerSikh.rulePack.rulesStrings.5>r_deityType->Розсіювач Болю</AM_DeityTypeMakerSikh.rulePack.rulesStrings.5>
+  <AM_DeityTypeMakerSikh.rulePack.rulesStrings.6>r_deityType->Любитель Своїх Святих</AM_DeityTypeMakerSikh.rulePack.rulesStrings.6>
+  <AM_DeityTypeMakerSikh.rulePack.rulesStrings.7>r_deityType->Хранитель Світу</AM_DeityTypeMakerSikh.rulePack.rulesStrings.7>
+  <AM_DeityTypeMakerSikh.rulePack.rulesStrings.8>r_deityType->Вища Істота</AM_DeityTypeMakerSikh.rulePack.rulesStrings.8>
+
+
+</LanguageData>

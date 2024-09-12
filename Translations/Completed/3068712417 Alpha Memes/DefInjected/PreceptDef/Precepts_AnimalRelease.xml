@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_AnimalRelease_Encouraged.label>заохочується</AM_AnimalRelease_Encouraged.label>
+  <AM_AnimalRelease_Encouraged.description>Відпускати тварин у дику природу - благородна справа. Вирощуючи або рятуючи тварин і відпускаючи їх на волю, щоб вони знову заселили екосистему, ми збагачуємо дивовижне біорізноманіття навколо нас.</AM_AnimalRelease_Encouraged.description>
+
+  <AM_AnimalRelease_Discouraged.label>знеохочується</AM_AnimalRelease_Discouraged.label>
+  <AM_AnimalRelease_Discouraged.description>Випускати тварин на волю - це все одно, що випускати на волю небезпечну чуму. Останнє, чого потребують крихкі, неприродні екосистеми навколо нас, - це ще більше генетичних мерзотників, які блукають довкола.</AM_AnimalRelease_Discouraged.description>
+
+
+</LanguageData>

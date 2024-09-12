@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PatientArrives.label>пацієнт прибуває</PatientArrives.label>
+  <PatientArrives.letterText>{PAWN_possessive} його звуть {0}. Діагноз: {1}</PatientArrives.letterText>
+  <PatientArrives.letterLabel>Прибув новий пацієнт</PatientArrives.letterLabel>
+
+
+</LanguageData>

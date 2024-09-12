@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--cook at sushi table-->
+  <VCE_DoBillsSushi.label>працювати за столиком для суші</VCE_DoBillsSushi.label>
+  <!--cooking at-->
+  <VCE_DoBillsSushi.gerund>готувати суші за</VCE_DoBillsSushi.gerund>
+  <!--cook-->
+  <VCE_DoBillsSushi.verb>готувати суші за</VCE_DoBillsSushi.verb>
+</LanguageData>

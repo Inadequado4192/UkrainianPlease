@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- vanilla Wall -->
+
+  <Wall_Destr_Shootable.label>продірявлена стіна</Wall_Destr_Shootable.label>
+  <Wall_Destr_Shootable.description>Пошкоджена стіна. Кілька невеликих отворів дозволяють стріляти наскрізь. Непрохідна. Якимось чином ще здатна тримати дах.</Wall_Destr_Shootable.description>
+
+  <Wall_Destr_Climbable.label>пробита стіна</Wall_Destr_Climbable.label>
+  <Wall_Destr_Climbable.description>Пошкоджена стіна. Великий отвір дозволяє перелізти через нього. Перешкоджає огляду. Якимось чином ще здатна тримати дах.
+      capable of holding up a roof.</Wall_Destr_Climbable.description>
+
+  <Wall_Destr_Rubble.label>завал</Wall_Destr_Rubble.label>
+  <Wall_Destr_Rubble.description>Обсипані залишки стіни. Неможе утримати дах і через них важко ходити.
+      through.</Wall_Destr_Rubble.description>
+
+
+</LanguageData>

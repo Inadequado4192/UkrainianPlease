@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic invisibility -->
+  <AG_Invisibility.label>пси-невидимість</AG_Invisibility.label>
+  <!-- EN: Psychically shift skin tones to camouflage in almost any surroundings. -->
+  <AG_Invisibility.description>Змінювати відтінки шкіри для маскування практично в будь-якому оточенні</AG_Invisibility.description>
+  
+</LanguageData>

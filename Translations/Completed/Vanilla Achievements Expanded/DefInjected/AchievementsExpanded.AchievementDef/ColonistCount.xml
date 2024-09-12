@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <iWillSurvive.label>Я Живий!</iWillSurvive.label>
+  <iWillSurvive.description>Мати 7 колоністів</iWillSurvive.description>
+  
+  <imStillStanding.label>Все Ще Стоїмо</imStillStanding.label>
+  <imStillStanding.description>Мати 12 колоністів</imStillStanding.description>
+  
+  <imASurvivor.label>Той, Хто Вижив</imASurvivor.label>
+  <imASurvivor.description>Мати 18 колоністів</imASurvivor.description>
+  
+  <aintNoStoppingUsNow.label>Разом Нас Багато, Нас Не Подолати</aintNoStoppingUsNow.label>
+  <aintNoStoppingUsNow.description>Мати 33 колоніста</aintNoStoppingUsNow.description>
+</LanguageData>

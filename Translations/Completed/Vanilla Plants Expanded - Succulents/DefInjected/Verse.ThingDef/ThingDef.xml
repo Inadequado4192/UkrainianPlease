@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--tiger tooth Aloe plant-->
+  <VCE_Plant_AloeVera.label>алое Ювена</VCE_Plant_AloeVera.label>
+  <!--A cultivated succulent with thick, greenish, fleshy leaves that fan out from the short stem. Whilst not as beautiful as flowers, this plant has a very long lifespan.-->
+  <VCE_Plant_AloeVera.description>Культивований сукулент із товстим, зеленуватим, м'ясистим листям, що віялом розростається від короткого стебла. Хоча ця рослина не така красива, як квіти, вона має дуже довгу тривалість життя.</VCE_Plant_AloeVera.description>
+  
+  <!--bunny ears cactus-->
+  <VCE_Plant_BunnyEarsCactus.label>мікродазис опунції</VCE_Plant_BunnyEarsCactus.label>
+  <!--A cultivated succulent with pads resembling ears of a bunny, and spines resembling fuzzy fur. Whilst not as beautiful as flowers, this plant has a very long lifespan.-->
+  <VCE_Plant_BunnyEarsCactus.description>Культивований сукулент із подушечками, схожими на вушка кролика, і колючками, що нагадують пухнасте хутро. Хоча ця рослина не така красива, як квіти, вона має дуже довгу тривалість життя.</VCE_Plant_BunnyEarsCactus.description>
+  
+  <!--echeveria plant-->
+  <VCE_Plant_Echeveria.label>ечеверія</VCE_Plant_Echeveria.label>
+  <!--A cultivated succulent forming a rosette, native to arid shrublands. Whilst not as beautiful as flowers, this plant has a very long lifespan.-->
+  <VCE_Plant_Echeveria.description>Культивований сукулент, що формує розетку, родом із посушливих чагарників. Хоча ця рослина не така красива, як квіти, вона має дуже довгу тривалість життя.</VCE_Plant_Echeveria.description>
+  
+  <!--fairy washboard plant-->
+  <VCE_Plant_FairyWashboard.label>гавортія напилкова</VCE_Plant_FairyWashboard.label>
+  <!--A cultivated succulent with rosette forming long triangular leaves. Whilst not as beautiful as flowers, this plant has a very long lifespan.-->
+  <VCE_Plant_FairyWashboard.description>Культивований сукулент із розеткою, що утворює довге трикутне листя. Хоча ця рослина не така красива, як квіти, вона має дуже довгу тривалість життя.</VCE_Plant_FairyWashboard.description>
+  
+  <!--jade plant-->
+  <VCE_Plant_JadePlant.label>товстолист</VCE_Plant_JadePlant.label>
+  <!--A cultivated succulent with thick, woody stems and oval-shaped leaves. Whilst not as beautiful as flowers, this plant has a very long lifespan.-->
+  <VCE_Plant_JadePlant.description>Культивований сукулент із товстими дерев'янистими стеблами та листям овальної форми. Хоча ця рослина не така красива, як квіти, вона має дуже довгу тривалість життя.</VCE_Plant_JadePlant.description>
+  
+  <!--peyote plant-->
+  <VCE_Plant_PeyotePlant.label>пейот</VCE_Plant_PeyotePlant.label>
+  <!--A cultivated succulent resembling thick buttons. Whilst not as beautiful as flowers, this plant has a very long lifespan.-->
+  <VCE_Plant_PeyotePlant.description>Культивований сукулент, що нагадує товсті ґудзики. Хоча ця рослина не така красива, як квіти, вона має дуже довгу тривалість життя.</VCE_Plant_PeyotePlant.description>
+  
+  <!--pincushion plant-->
+  <VCE_Plant_PincushionPlant.label>кнаутія</VCE_Plant_PincushionPlant.label>
+  <!--A cultivated succulent of cactus variety, with pointy spikes covering its exterior. Whilst not as beautiful as flowers, this plant has a very long lifespan.-->
+  <VCE_Plant_PincushionPlant.description>Культивований сукулент кактусового різновиду, зовні вкритий гострими шипами. Хоча ця рослина не така красива, як квіти, вона має дуже довгу тривалість життя.</VCE_Plant_PincushionPlant.description>
+  
+  <!--schlumbergera plant-->
+  <VCE_Plant_Schlumbergera.label>шлумбергера</VCE_Plant_Schlumbergera.label>
+  <!--A cultivated succulent with bell-shaped flowers. Whilst not as beautiful as flowers, this plant has a very long lifespan.-->
+  <VCE_Plant_Schlumbergera.description>Культивований сукулент із дзвоникоподібними квітами. Хоча ця рослина не така красива, як квіти, вона має дуже довгу тривалість життя.</VCE_Plant_Schlumbergera.description>
+  
+  <!--snake plant-->
+  <VCE_Plant_SnakePlant.label>драцена</VCE_Plant_SnakePlant.label>
+  <!--A cultivated succulent with stiff, green banded leaves with a yellow border. Whilst not as beautiful as flowers, this plant has a very long lifespan.-->
+  <VCE_Plant_SnakePlant.description>Культивований сукулент із жорсткими, зеленими смугастими листками з жовтою облямівкою. Хоча ця рослина не така красива, як квіти, вона має дуже довгу тривалість життя.</VCE_Plant_SnakePlant.description>
+  
+  <!--sweetheart plant-->
+  <VCE_Plant_SweetheartPlant.label>хойя Керрі</VCE_Plant_SweetheartPlant.label>
+  <!--A cultivated succulent with heart-shaped leaves on a tall stem. Whilst not as beautiful as flowers, this plant has a very long lifespan.-->
+  <VCE_Plant_SweetheartPlant.description>Культивований сукулент з серцеподібним листям на високому стеблі. Хоча ця рослина не така красива, як квіти, вона має дуже довгу тривалість життя.</VCE_Plant_SweetheartPlant.description>
+</LanguageData>

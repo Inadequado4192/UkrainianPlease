@@ -1,0 +1,74 @@
+import fs from "fs-extra";
+import path from "path";
+import { createXML, ForEachTranslation, SteamAPI.getDetailsFromSteamWorkshop, Pathes, ReadTranslationAbout, SteamCMD } from "./utils";
+import { spawn } from "child_process";
+import { js2xml } from "xml-js";
+import { TranslationAbout } from "./types";
+
+(async () => {
+    const needUpdateTranslations: (TranslationAbout & { modFileName: string })[] = [];
+    await ForEachTranslation(async ({ translationPath: modPath, translationFileName: modFileName }) => {
+        const about = await ReadTranslationAbout(modPath);
+        if (about.sourceTranslationId === undefined) return;
+
+
+        if (about.lastUpdate) {
+            // Якщо поточний переклад застарів
+
+        } else {
+            // Просто завантажити нову версію
+            needUpdateTranslations.push({ ...about, modFileName });
+        }
+    });
+
+    if (!needUpdateTranslations.length) return console.log("Оновлення не потрібні.");
+
+
+
+    const er = (() => { throw Error("unknown id") });
+
+    // SteamCMD.execute({
+    //     downloadIds: needUpdateTranslations.map(a => a.sourceTranslationId?._text ?? er()),
+    //     onEnd: async (steamCMDResultPath, code) => {
+    //         console.log("steamcmd has been closed with code " + code)
+    //         const d = await details;
+    //         for (let { creator, publishedfileid } of d) {
+    //             const modName = needUpdateTranslations.find(a => a.sourceTranslationId?._text == publishedfileid)?.modFileName;
+    //             if (!modName) throw Error("Strange Error");
+
+    //             const translationsPath = path.join(Pathes.translation_completed, modName);
+    //             // console.log(translationsPath);
+    //             // console.log(path.join(steamCMDResultPath, publishedfileid));
+
+
+    //             // Remove old data
+    //             // await fs.rmSync(translationsPath, { recursive: true });
+
+    //             // Move Files
+    //             await fs.moveSync(path.join(steamCMDResultPath, publishedfileid, "Languages/Ukrainian"), translationsPath);
+
+    //             // Remove old empty dir
+    //             await fs.rmSync(path.join(steamCMDResultPath, publishedfileid), { recursive: true });
+
+    //             await fs.writeFileSync(path.join(translationsPath, "About.xml"), js2xml(createXML("TranslationDetails", {
+    //                 _attributes: {
+    //                     "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    //                     "xsi:noNamespaceSchemaLocation": "../../Scheme.xsd"
+    //                 },
+    //                 mod: {
+    //                     name: { _text: "unknown" },
+    //                     id: { _text: "unknown" },
+    //                 },
+    //                 authors: { li: { nickname: { _text: "unknown" }, steamId: { _text: creator } } },
+    //                 sourceTranslationId: { _text: publishedfileid },
+    //                 lastUpdate: { _text: new Date().toISOString() }
+    //             } satisfies TranslationAbout), { compact: true, spaces: 4 }));
+    //         }
+    //     }
+    // })
+
+    // const details = getDetailsFromSteamWorkshop(needUpdateTranslations.map(a => a.sourceTranslationId?._text ?? er()));
+})()
+
+
+

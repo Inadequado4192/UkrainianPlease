@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: double tap a corpses -->
+    <DoubleTap.label>подвійне торкання трупів</DoubleTap.label>
+    <!-- EN: double tapping -->
+    <DoubleTap.gerund>подвійне торкання</DoubleTap.gerund>
+    <!-- EN: double tap -->
+    <DoubleTap.verb>подвійний дотик</DoubleTap.verb>
+    <!-- EN: extract serum from zombie corpses -->
+    <ExtractZombieSerum.label>видобувати сироватку з трупів зомбі</ExtractZombieSerum.label>
+    <!-- EN: extracting -->
+    <ExtractZombieSerum.gerund>вилучення</ExtractZombieSerum.gerund>
+    <!-- EN: extract -->
+    <ExtractZombieSerum.verb>вилучити</ExtractZombieSerum.verb>
+    <!-- EN: fix broken-down chainsaw -->
+    <FixBrokenChainsaw.label>полагодити зламану бензопилу</FixBrokenChainsaw.label>
+    <!-- EN: replacing broken components in -->
+    <FixBrokenChainsaw.gerund>замінює несправні компоненти в</FixBrokenChainsaw.gerund>
+    <!-- EN: replace broken components in -->
+    <FixBrokenChainsaw.verb>замінити несправні компоненти в</FixBrokenChainsaw.verb>
+</LanguageData>

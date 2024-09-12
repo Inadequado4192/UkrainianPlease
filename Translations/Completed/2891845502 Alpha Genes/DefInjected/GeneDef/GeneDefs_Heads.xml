@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aerofleet hood -->
+  <AG_AerofleetHead.label>аерофлотський капюшон</AG_AerofleetHead.label>
+  <!-- EN: A gelatinous, translucent hood surrounds the carrier's head. -->
+  <AG_AerofleetHead.description>Желеподібний, напівпрозорий капюшон оточує голову носія.</AG_AerofleetHead.description>
+  <!-- EN: slim -->
+  <AG_AerofleetHead.symbolPack.prefixSymbols.0.symbol>слизовий</AG_AerofleetHead.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: slimy -->
+  <AG_AerofleetHead.symbolPack.prefixSymbols.1.symbol>слизький</AG_AerofleetHead.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: much -->
+  <AG_AerofleetHead.symbolPack.prefixSymbols.2.symbol>набагато</AG_AerofleetHead.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: gelat -->
+  <AG_AerofleetHead.symbolPack.prefixSymbols.3.symbol>желатин</AG_AerofleetHead.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: cancerous head -->
+  <AG_CancerousFace.label>ракова голова</AG_CancerousFace.label>
+  <!-- EN: Carriers of this gene possess a lumpy, cancerous looking head with loose skin and pockmarks. -->
+  <AG_CancerousFace.description>Носії цього гена мають горбисту, схожу на ракову голову з в'ялою шкірою та плямами..</AG_CancerousFace.description>
+  <!-- EN: terato -->
+  <AG_CancerousFace.symbolPack.prefixSymbols.0.symbol>терато</AG_CancerousFace.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: canc -->
+  <AG_CancerousFace.symbolPack.prefixSymbols.1.symbol>рак</AG_CancerousFace.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: tumor -->
+  <AG_CancerousFace.symbolPack.prefixSymbols.2.symbol>пухлина</AG_CancerousFace.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: fox head -->
+  <AG_FoxFace.label>голова лисиці</AG_FoxFace.label>
+  <!-- EN: Carriers of this gene possess an elongated snout with a round nose and slit-like eyes. Ears sold separately. -->
+  <AG_FoxFace.description>Носії цього гена мають подовжену морду з круглим носом і очима, схожими на щілинки. Вуха продаються окремо.</AG_FoxFace.description>
+  <!-- EN: animus -->
+  <AG_FoxFace.symbolPack.prefixSymbols.0.symbol>анімус</AG_FoxFace.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: empath -->
+  <AG_FoxFace.symbolPack.prefixSymbols.1.symbol>емпат</AG_FoxFace.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: telep -->
+  <AG_FoxFace.symbolPack.prefixSymbols.2.symbol>телепат</AG_FoxFace.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: -vox -->
+  <AG_FoxFace.symbolPack.suffixSymbols.0.symbol>вокс</AG_FoxFace.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: rocky ridges -->
+  <AG_RockSpurs.label>кам'янисті хребти</AG_RockSpurs.label>
+  <!-- EN: Carriers of this gene have accumulations of minerals on their head. -->
+  <AG_RockSpurs.description>Носії цього гена мають скупчення мінералів на голові.</AG_RockSpurs.description>
+  <!-- EN: rock -->
+  <AG_RockSpurs.symbolPack.prefixSymbols.0.symbol>кам'яний</AG_RockSpurs.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: litho -->
+  <AG_RockSpurs.symbolPack.prefixSymbols.1.symbol>літогр</AG_RockSpurs.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: petr -->
+  <AG_RockSpurs.symbolPack.prefixSymbols.2.symbol>петро</AG_RockSpurs.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: slug head -->
+  <AG_SlugFace.label>голова слимака</AG_SlugFace.label>
+  <!-- EN: Both of the subject's eyes protrude from the skull in slug-like stalks. Slimy! -->
+  <AG_SlugFace.description>Обидва ока суб'єкта стирчать з черепа у вигляді стеблинок, схожих на слимаків. Слизько!</AG_SlugFace.description>
+  
+</LanguageData>

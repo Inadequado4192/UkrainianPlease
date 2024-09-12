@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--death super acidifier-->
+  <VESWW_DeathSuperAcidifier.label>смертельний суперокислювач</VESWW_DeathSuperAcidifier.label>
+  <!--An installed death super acidifier.-->
+  <VESWW_DeathSuperAcidifier.description>Встановлений смертельний суперокислювач.</VESWW_DeathSuperAcidifier.description>
+  <!--a death super acidifier-->
+  <VESWW_DeathSuperAcidifier.labelNoun>смертельний суперокислювач</VESWW_DeathSuperAcidifier.labelNoun>
+  
+  <!--increased stats-->
+  <VESWW_IncreasedStats.label>підвищені стати</VESWW_IncreasedStats.label>
+  <!--Increased stats as a counterpart of Winston-->
+  <VESWW_IncreasedStats.description>Збільшення статів як еквівалент Вінстона</VESWW_IncreasedStats.description>
+  
+  <!--no pain-->
+  <VESWW_NoPain.label>анальгезія</VESWW_NoPain.label>
+  <!--No pain.-->
+  <VESWW_NoPain.description>Не відчуває болю.</VESWW_NoPain.description>
+  
+  <!--sprinter-->
+  <VSEWW_Sprinter.label>бігун</VSEWW_Sprinter.label>
+  <!--Sprint fast.-->
+  <VSEWW_Sprinter.description>Швидко бігає.</VSEWW_Sprinter.description>
+  
+  <!--boom-->
+  <VSEWW_Boom.label>бум</VSEWW_Boom.label>
+  <!--Boom!-->
+  <VSEWW_Boom.description>Бум!</VSEWW_Boom.description>
+  
+  <!--veteran-->
+  <VESWW_Veterans.label>ветеран</VESWW_Veterans.label>
+  <!--Veteran-->
+  <VESWW_Veterans.description>Ветеран</VESWW_Veterans.description>
+  
+  <!--ninja-->
+  <VESWW_Ninja.label>ніндзя</VESWW_Ninja.label>
+  <!--ninja-->
+  <VESWW_Ninja.description>ніндзя</VESWW_Ninja.description>
+  
+  <!--bullet sponge-->
+  <VSEWW_BulletSponge.label>губка для куль</VSEWW_BulletSponge.label>
+  <!--bullet sponge-->
+  <VSEWW_BulletSponge.description>"губка" для куль</VSEWW_BulletSponge.description>
+  
+  <!--bullet proof-->
+  <VESWW_BulletProof.label>кулестійкість</VESWW_BulletProof.label>
+  <!--bullet proof-->
+  <VESWW_BulletProof.description>кулестійкість</VESWW_BulletProof.description>
+</LanguageData>

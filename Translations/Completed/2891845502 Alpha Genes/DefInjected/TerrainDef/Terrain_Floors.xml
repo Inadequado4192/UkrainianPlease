@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scorched old carpet -->
+  <AG_BurntCarpet.label>вигорілий старий килим</AG_BurntCarpet.label>
+  <!-- EN: Scorched old carpet. -->
+  <AG_BurntCarpet.description>Вигорілий старий килим.</AG_BurntCarpet.description>
+  
+  <!-- EN: cracked concrete -->
+  <AG_CrackedConcrete.label>потрісканий бетон</AG_CrackedConcrete.label>
+  <!-- EN: Rough concrete. Broken due to lack of maintenance. -->
+  <AG_CrackedConcrete.description>Грубий бетон. Зламався через відсутність технічного обслуговування.</AG_CrackedConcrete.description>
+  
+  <!-- EN: rusted biotech lab tile -->
+  <AG_RustedTile.label>іржава плитка з біотехнологічної лабораторії</AG_RustedTile.label>
+  <!-- EN: Rusted biotech lab tiles. -->
+  <AG_RustedTile.description>Іржава плитка з біотехнологічної лабораторії.</AG_RustedTile.description>
+  
+</LanguageData>

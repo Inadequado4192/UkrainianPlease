@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_TantrumRitualOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_TantrumRitualOutcome.description>
+  <AM_TantrumRitualOutcome.outcomeChances.0.label>Жахливо</AM_TantrumRitualOutcome.outcomeChances.0.label>
+  <AM_TantrumRitualOutcome.outcomeChances.0.description>The {0} was terrible. We hardly destroyed anything, sore fists for nothing</AM_TantrumRitualOutcome.outcomeChances.0.description>
+  <AM_TantrumRitualOutcome.outcomeChances.1.label>LackLuster</AM_TantrumRitualOutcome.outcomeChances.1.label>
+  <AM_TantrumRitualOutcome.outcomeChances.1.description>The {0} was mediocre. Wasn't as fun as one could've hoped to destroy all that</AM_TantrumRitualOutcome.outcomeChances.1.description>
+  <AM_TantrumRitualOutcome.outcomeChances.2.label>Добре</AM_TantrumRitualOutcome.outcomeChances.2.label>
+  <AM_TantrumRitualOutcome.outcomeChances.2.description> {0} пройшло Добре We've left a decent pile of rubble behind and the stress has been released</AM_TantrumRitualOutcome.outcomeChances.2.description>
+  <AM_TantrumRitualOutcome.outcomeChances.3.label>Неймовірно</AM_TantrumRitualOutcome.outcomeChances.3.label>
+  <AM_TantrumRitualOutcome.outcomeChances.3.description>The {0} was invigorating. We've destroyed a great deal of what made this place horrible. A real fresh start!</AM_TantrumRitualOutcome.outcomeChances.3.description>
+  <AM_TantrumRitualOutcome.comps.0.label>wealth destroyed</AM_TantrumRitualOutcome.comps.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <aFormalComplaint.label>Офіційна Скарга</aFormalComplaint.label>
+  <aFormalComplaint.description>Довести поселенця до стану берсерка</aFormalComplaint.description>
+  
+  <callOfTheWild.label>Поклик Природи</callOfTheWild.label>
+  <callOfTheWild.description>Довести поселенця до здичавіння</callOfTheWild.description>
+  
+  <letsStartARevolution.label>Помаранчева Революція</letsStartARevolution.label>
+  <letsStartARevolution.description>Одночасно мати 5 поселенців з ментальним зривом</letsStartARevolution.description>
+  
+  <fiftyShadesOfGrey.label>50 Відтінків Сірого</fiftyShadesOfGrey.label>
+  <fiftyShadesOfGrey.description>Довести поселенця до прояву садизму до в'язнів</fiftyShadesOfGrey.description>
+</LanguageData>

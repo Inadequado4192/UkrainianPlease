@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LeftEye.label>ліве око</LeftEye.label>
+  <RightEye.label>праве око</RightEye.label>
+  <LeftEar.label>ліве вухо</LeftEar.label>
+  <RightEar.label>праве вухо</RightEar.label>
+  <Nose.label>нос</Nose.label>
+  <Jaw.label>щелепа</Jaw.label>
+  <Stomach.label>шлунок</Stomach.label>
+  <Rib1.label>1. ребро</Rib1.label>
+  <Rib2.label>2. ребро</Rib2.label>
+  <Rib3.label>3. ребро</Rib3.label>
+  <Rib4.label>4. ребро</Rib4.label>
+  <Rib5.label>5. ребро</Rib5.label>
+  <Rib6.label>6. ребро</Rib6.label>
+  <Rib7.label>7. ребро</Rib7.label>
+  <Rib8.label>8. ребро</Rib8.label>
+  <Rib9.label>9. ребро</Rib9.label>
+  <Rib10.label>10. ребро</Rib10.label>
+  <Rib11.label>11. ребро</Rib11.label>
+  <Rib12.label>12. ребро</Rib12.label>
+	
+</LanguageData>

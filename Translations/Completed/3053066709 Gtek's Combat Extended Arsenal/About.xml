@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Gtek's Combat Extended Arsenal</name>
+        <id>3035243918</id>
+        <packageId>killerbot.gtekcombatextended</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>tyulen</nickname>
+            <steamId>76561198374567982</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3053066709</sourceTranslationId>
+    <lastUpdate>2024-04-12T09:09:19.000Z</lastUpdate>
+</TranslationDetails>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Red Haze -->
+  <ReviaRaceRedHazeNeed.label>Червоний туман</ReviaRaceRedHazeNeed.label>
+  <!-- EN: A strange, almost rabid bloodthirst grips this person. \n\nBloodstone powder appears to keep this almost uncontrollable fury away. Without it, however, this person degenerates into a berserk fury, attacking anyone and everyone around. -->
+  <ReviaRaceRedHazeNeed.description>Людину охоплює дивна, майже скажена жага крові.\n\nЗдається, що порошок з кривавого каменю стримує цю майже неконтрольовану лють. Однак без цього порошку людина стає несамовитою, нападаючи на всіх і кожного навколо.</ReviaRaceRedHazeNeed.description>
+  
+</LanguageData>

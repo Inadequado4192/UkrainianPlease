@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Winged Jump -->
+
+  <GS_Wing_Jump.label>небесне паріння</GS_Wing_Jump.label>
+  <GS_Wing_Jump.description>Підніміться в повітря на парі пір'ястих крил, пролетівши середню відстань, перш ніж знову опуститися на землю. М'язи крил потребують короткого відпочинку між кожним польотом.</GS_Wing_Jump.description>
+  <GS_Wing_Jump.verbProperties.label>jump</GS_Wing_Jump.verbProperties.label>
+
+
+  <!-- Lay on Hands -->
+
+  <GS_Aasimar_Heal.label>божествений дотик</GS_Aasimar_Heal.label>
+  <GS_Aasimar_Heal.description>Ніжний дотик до цілі долонями, наповненими психічною енергією, загоює рани та зцілює поранених.</GS_Aasimar_Heal.description>
+
+  <GS_resurrect_aasimar.label>спасіння</GS_resurrect_aasimar.label>
+  <GS_resurrect_aasimar.description>Оживляє свіжий труп, вливаючи в нього величезну кількість психічної енергії, даючи померлому пішаку новий шанс на життя.</GS_resurrect_aasimar.description>
+
+
+  <!-- HOLY HYMN -->
+
+  <GS_HolyHymn.label>святий гімн</GS_HolyHymn.label>
+  <GS_HolyHymn.description>Випустіть на волю психічний хвилеподібний голос у небесному гімні, який огортає союзників, що знаходяться поруч, променистою аурою, яка посилює їхні бойові можливості. Мелодія наділяє їх підвищеною концентрацією уваги, точністю, витривалістю та непохитною рішучістю, надихаючи на велич у розпалі битви.</GS_HolyHymn.description>
+
+
+</LanguageData>

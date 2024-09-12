@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Stomach.label>шлунок</Stomach.label>
+  <Stomach.description>Біологічний шлунок людини. Перетравлює їжу та перетворює її на енергію та поживні речовини.</Stomach.description>
+  
+  <Spine.label>хребет</Spine.label>
+  <Spine.description>Біологічний хребет людини. Необхідний для ходьби та стояння.</Spine.description>
+  
+  <Eye.label>очне яблуко</Eye.label>
+  <Eye.description>Біологічне очне яблуко людини. Поглинає світло, що дозволяє особі бачити навколо себе.</Eye.description>
+  
+  <Ear.label>вухо</Ear.label>
+  <Ear.description>Біологічне вухо людини. Сприймає вібрації в повітрі, що дозволяє людям слухати звук.</Ear.description>
+  
+  <Brain.label>мозок</Brain.label>
+  <Brain.description>Біологічний мозок людини. Центр усієї свідомості.</Brain.description>
+  
+  <Nose.label>ніс</Nose.label>
+  <Nose.description>Біологічний ніс людини. Досить корисний орган для розрізнення запахів, надає завершальний штрих обличчю.</Nose.description>
+  
+  <Jaw.label>щелепа</Jaw.label>
+  <Jaw.description>Біологічна щелепа людини. Гарний набір зубів для пережовування їжі та розмови.</Jaw.description>
+  
+  <Arm.label>рука</Arm.label>
+  <Arm.description>Біологічна рука людини. Руки схожі на ноги, окрім того, що з ними можна носити речі.</Arm.description>
+  
+  <Hand.label>рука</Hand.label>
+  <Hand.description>Найкращий друг людини.</Hand.description>
+  
+  <Leg.label>нога</Leg.label>
+  <Leg.description>Біологічна нога людини. Практично довгі м'ясисті палиці, які дозволяють рухатися.</Leg.description>
+  
+  <Foot.label>стопа</Foot.label>
+  <Foot.description>Біологічна стопа людини. Частина, на яку можна взути взуття.</Foot.description>
+</LanguageData>

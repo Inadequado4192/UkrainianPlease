@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Revian Templars -->
+  <ReviaTemplarFaction.label>Ревійський тамплієри</ReviaTemplarFaction.label>
+  <!-- EN: An order of oathsworn warriors. They will not hesitate to crush any who stand in their way. -->
+  <ReviaTemplarFaction.description>Орден воїнів, що дали присягу. Вони без вагань розчавлять будь-кого, хто стане на їхньому шляху.</ReviaTemplarFaction.description>
+  <!-- EN: High Templar -->
+  <ReviaTemplarFaction.leaderTitle>Верховний Тамплієр</ReviaTemplarFaction.leaderTitle>
+  <!-- EN: revia -->
+  <ReviaTemplarFaction.pawnSingular>ревія</ReviaTemplarFaction.pawnSingular>
+  <!-- EN: revia -->
+  <ReviaTemplarFaction.pawnsPlural>ревія</ReviaTemplarFaction.pawnsPlural>
+  
+</LanguageData>

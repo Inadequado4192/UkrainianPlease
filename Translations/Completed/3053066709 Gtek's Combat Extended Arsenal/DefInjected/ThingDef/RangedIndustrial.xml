@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Uzi -->
+
+  <HIDGun_Uzi.label>Uzi</HIDGun_Uzi.label>
+  <HIDGun_Uzi.description>Відносно компактний пістолет-кулемет зі складаним прикладом.</HIDGun_Uzi.description>
+  <HIDGun_Uzi.tools.0.label>приклад</HIDGun_Uzi.tools.0.label>
+  <HIDGun_Uzi.tools.1.label>ствол</HIDGun_Uzi.tools.1.label>
+  <HIDGun_Uzi.tools.2.label>дуло</HIDGun_Uzi.tools.2.label>
+
+
+  <!-- Micro Uzi -->
+
+  <HIDGun_UziMicro.label>Micro Uzi</HIDGun_UziMicro.label>
+  <HIDGun_UziMicro.description>Сумнозвісна конструкція пістолета-кулемета, яку дуже важко контролювати в автоматичному режимі.</HIDGun_UziMicro.description>
+  <HIDGun_UziMicro.tools.0.label>руків'я</HIDGun_UziMicro.tools.0.label>
+  <HIDGun_UziMicro.tools.1.label>дуло</HIDGun_UziMicro.tools.1.label>
+
+
+  <!-- MP5A2 -->
+
+  <HIDGun_MP5A2Gun.label>MP5A2</HIDGun_MP5A2Gun.label>
+  <HIDGun_MP5A2Gun.description>Повнорозмірний пістолет-кулемет з відносно невеликою вагою.</HIDGun_MP5A2Gun.description>
+  <HIDGun_MP5A2Gun.tools.0.label>приклад</HIDGun_MP5A2Gun.tools.0.label>
+  <HIDGun_MP5A2Gun.tools.1.label>ствол</HIDGun_MP5A2Gun.tools.1.label>
+  <HIDGun_MP5A2Gun.tools.2.label>дуло</HIDGun_MP5A2Gun.tools.2.label>
+
+
+  <!-- MP5K -->
+
+  <HIDGun_MP5K.label>MP5K</HIDGun_MP5K.label>
+  <HIDGun_MP5K.description>Безприкладний варіант класичного MP5. Дуже громіздкий, але може використовуватися однією рукою.</HIDGun_MP5K.description>
+  <HIDGun_MP5K.tools.0.label>ствол</HIDGun_MP5K.tools.0.label>
+  <HIDGun_MP5K.tools.1.label>дуло</HIDGun_MP5K.tools.1.label>
+
+
+  <!-- MP5K-PDW -->
+
+  <HIDGun_MP5KPDW.label>MP5K-PDW</HIDGun_MP5KPDW.label>
+  <HIDGun_MP5KPDW.description>Компактний пістолет-кулемет зі складним прикладом.</HIDGun_MP5KPDW.description>
+  <HIDGun_MP5KPDW.tools.0.label>приклад</HIDGun_MP5KPDW.tools.0.label>
+  <HIDGun_MP5KPDW.tools.1.label>ствол</HIDGun_MP5KPDW.tools.1.label>
+  <HIDGun_MP5KPDW.tools.2.label>дуло</HIDGun_MP5KPDW.tools.2.label>
+
+
+  <!-- Tommy Gun -->
+
+  <HIDGun_TommyGun.label>Пістолет-кулемет Томпсона</HIDGun_TommyGun.label>
+  <HIDGun_TommyGun.description>Повнорозмірний пістолет-кулемет з барабанним магазином великої місткості.</HIDGun_TommyGun.description>
+  <HIDGun_TommyGun.tools.0.label>приклад</HIDGun_TommyGun.tools.0.label>
+  <HIDGun_TommyGun.tools.1.label>ствол</HIDGun_TommyGun.tools.1.label>
+  <HIDGun_TommyGun.tools.2.label>дуло</HIDGun_TommyGun.tools.2.label>
+
+
+  <!-- Luty SMG -->
+
+  <HIDGun_LutySMG.label>пістолет-кулемет Люті</HIDGun_LutySMG.label>
+  <HIDGun_LutySMG.description>Дуже проста імпровізована вогнепальна зброя, яку можна зробити з усього, що є під рукою. У неї немає нарізного ствола, напівавтоматичного вогню, приклада і прицілу, що робить цю зброю незбагненно неточною.</HIDGun_LutySMG.description>
+  <HIDGun_LutySMG.tools.0.label>ствол</HIDGun_LutySMG.tools.0.label>
+  <HIDGun_LutySMG.tools.1.label>дуло</HIDGun_LutySMG.tools.1.label>
+
+
+ <!-- AR-57 -->
+
+  <HIDGun_AR57Gun.label>AR-57</HIDGun_AR57Gun.label>
+  <HIDGun_AR57Gun.description>Відносно компактний пістолет-кулемет, що використовує спеціалізований патрон, призначений для пробивання броні.</HIDGun_AR57Gun.description>
+  <HIDGun_AR57Gun.tools.0.label>stock</HIDGun_AR57Gun.tools.0.label>
+  <HIDGun_AR57Gun.tools.1.label>barrel</HIDGun_AR57Gun.tools.1.label>
+  <HIDGun_AR57Gun.tools.2.label>muzzle</HIDGun_AR57Gun.tools.2.label>
+
+
+  <!-- M4A1 -->
+
+  <HIDGun_M4A1C.label>M4A1</HIDGun_M4A1C.label>
+  <HIDGun_M4A1C.description>Поширена конструкція карабіна з висувним прикладом.</HIDGun_M4A1C.description>
+  <HIDGun_M4A1C.tools.0.label>приклад</HIDGun_M4A1C.tools.0.label>
+  <HIDGun_M4A1C.tools.1.label>ствол</HIDGun_M4A1C.tools.1.label>
+  <HIDGun_M4A1C.tools.2.label>дуло</HIDGun_M4A1C.tools.2.label>
+
+
+  <!-- Mk 18 -->
+
+  <HIDGun_Mk18C.label>Mk 18 Mod 1</HIDGun_Mk18C.label>
+  <HIDGun_Mk18C.description>Дуже обрізаний карабін з голографічним прицілом, призначений для ближнього бою.</HIDGun_Mk18C.description>
+  <HIDGun_Mk18C.tools.0.label>приклад</HIDGun_Mk18C.tools.0.label>
+  <HIDGun_Mk18C.tools.1.label>ствол</HIDGun_Mk18C.tools.1.label>
+  <HIDGun_Mk18C.tools.2.label>дуло</HIDGun_Mk18C.tools.2.label>
+
+
+  <!-- UDMC PVAR Rifle -->
+
+  <HIDGun_PVARRifle.label>UDMC PVAR Rifle</HIDGun_PVARRifle.label>
+  <HIDGun_PVARRifle.description>Гвинтівка з унікальним внутрішнім механізмом, який допомагає зменшити віддачу. Оснащена висувним прикладом та оптичним прицілом.</HIDGun_PVARRifle.description>
+  <HIDGun_PVARRifle.tools.0.label>приклад</HIDGun_PVARRifle.tools.0.label>
+  <HIDGun_PVARRifle.tools.1.label>ствол</HIDGun_PVARRifle.tools.1.label>
+  <HIDGun_PVARRifle.tools.2.label>дуло</HIDGun_PVARRifle.tools.2.label>
+
+
+  <!-- XM8 -->
+
+  <HIDGun_XM8C.label>XM8</HIDGun_XM8C.label>
+  <HIDGun_XM8C.description>Давно забута конструкція карабіна з висувним прикладом та інтегрованим оптичним прицілом.</HIDGun_XM8C.description>
+  <HIDGun_XM8C.tools.0.label>приклад</HIDGun_XM8C.tools.0.label>
+  <HIDGun_XM8C.tools.1.label>ствол</HIDGun_XM8C.tools.1.label>
+  <HIDGun_XM8C.tools.2.label>дуло</HIDGun_XM8C.tools.2.label>
+
+  <HIDGun_XM8CQC.label>XM8-CS</HIDGun_XM8CQC.label>
+  <HIDGun_XM8CQC.description>Давно забута конструкція карабіна з висувним прикладом і відсутнім рефлекторним прицілом. При ближчому розгляді виявляється, що карабін був виготовлений у 2700 році для дуже далекої армії.</HIDGun_XM8CQC.description>
+  <HIDGun_XM8CQC.tools.0.label>приклад</HIDGun_XM8CQC.tools.0.label>
+  <HIDGun_XM8CQC.tools.1.label>ствол</HIDGun_XM8CQC.tools.1.label>
+  <HIDGun_XM8CQC.tools.2.label>дуло</HIDGun_XM8CQC.tools.2.label>
+
+
+  <!-- Ruger 10/22 Carbine -->
+
+  <HIDGun_Ruger22Carbine.label>Ruger 10/22 Carbine</HIDGun_Ruger22Carbine.label>
+  <HIDGun_Ruger22Carbine.description>Самозарядна гвинтівка зі зворотним ударом, що використовує малопотужний патрон.Здебільшого ефективна для полювання на дичину.</HIDGun_Ruger22Carbine.description>
+  <HIDGun_Ruger22Carbine.tools.0.label>приклад</HIDGun_Ruger22Carbine.tools.0.label>
+  <HIDGun_Ruger22Carbine.tools.1.label>ствол</HIDGun_Ruger22Carbine.tools.1.label>
+  <HIDGun_Ruger22Carbine.tools.2.label>дуло</HIDGun_Ruger22Carbine.tools.2.label>
+
+
+  <!-- Ruger 10/22 Target -->
+
+  <HIDGun_Ruger22Target.label>Ruger 10/22 Target</HIDGun_Ruger22Target.label>
+  <HIDGun_Ruger22Target.description>Екзотична на вигляд самозарядна гвинтівка зі зворотним затвором, що використовує малопотужний патрон.Здебільшого ефективна для змагальної стрільби.</HIDGun_Ruger22Target.description>
+  <HIDGun_Ruger22Target.tools.0.label>приклад</HIDGun_Ruger22Target.tools.0.label>
+  <HIDGun_Ruger22Target.tools.1.label>ствол</HIDGun_Ruger22Target.tools.1.label>
+  <HIDGun_Ruger22Target.tools.2.label>дуло</HIDGun_Ruger22Target.tools.2.label>
+
+
+  <!-- AR-15 -->
+
+  <HIDGun_AR15Standard.label>AR-15</HIDGun_AR15Standard.label>
+  <HIDGun_AR15Standard.description>Напівавтоматична гвинтівка, створена для цивільного ринку.</HIDGun_AR15Standard.description>
+  <HIDGun_AR15Standard.tools.0.label>приклад</HIDGun_AR15Standard.tools.0.label>
+  <HIDGun_AR15Standard.tools.1.label>ствол</HIDGun_AR15Standard.tools.1.label>
+  <HIDGun_AR15Standard.tools.2.label>дуло</HIDGun_AR15Standard.tools.2.label>
+
+
+  <!-- M4A3 -->
+
+  <HIDGun_M4A3C.label>M4A3</HIDGun_M4A3C.label>
+  <HIDGun_M4A3C.description>Напівавтоматична гвинтівка, створена для цивільного ринку.</HIDGun_M4A3C.description>
+  <HIDGun_M4A3C.tools.0.label>приклад</HIDGun_M4A3C.tools.0.label>
+  <HIDGun_M4A3C.tools.1.label>ствол</HIDGun_M4A3C.tools.1.label>
+  <HIDGun_M4A3C.tools.2.label>дуло</HIDGun_M4A3C.tools.2.label>
+
+
+  <!-- M4 PATROLMAN'S -->
+
+  <HIDGun_M4PATROLMAN.label>M4 PATROLMAN'S</HIDGun_M4PATROLMAN.label>
+  <HIDGun_M4PATROLMAN.description>Напівавтоматична гвинтівка, створена для цивільного ринку.</HIDGun_M4PATROLMAN.description>
+  <HIDGun_M4PATROLMAN.tools.0.label>приклад</HIDGun_M4PATROLMAN.tools.0.label>
+  <HIDGun_M4PATROLMAN.tools.1.label>ствол</HIDGun_M4PATROLMAN.tools.1.label>
+  <HIDGun_M4PATROLMAN.tools.2.label>дуло</HIDGun_M4PATROLMAN.tools.2.label>
+
+
+  <!-- Ruger AR-556 -->
+
+  <HIDGun_RugerAR556Standard.label>Ruger AR-556</HIDGun_RugerAR556Standard.label>
+  <HIDGun_RugerAR556Standard.description>Напівавтоматична гвинтівка, створена для цивільного ринку.</HIDGun_RugerAR556Standard.description>
+  <HIDGun_RugerAR556Standard.tools.0.label>приклад</HIDGun_RugerAR556Standard.tools.0.label>
+  <HIDGun_RugerAR556Standard.tools.1.label>ствол</HIDGun_RugerAR556Standard.tools.1.label>
+  <HIDGun_RugerAR556Standard.tools.2.label>дуло</HIDGun_RugerAR556Standard.tools.2.label>
+
+
+  <!-- Ak-47 Civilian -->
+
+  <HIDGun_AK47Semi.label>AK-47 (Напівавтоматична) </HIDGun_AK47Semi.label>
+  <HIDGun_AK47Semi.description>Напівавтоматична гвинтівка старовинного зразка, яку прийнято вважати простою та надійною. Навіть зараз вона залишається найпоширенішою вогнепальною зброєю, створеною для цивільного ринку.</HIDGun_AK47Semi.description>
+  <HIDGun_AK47Semi.tools.0.label>приклад</HIDGun_AK47Semi.tools.0.label>
+  <HIDGun_AK47Semi.tools.1.label>ствол</HIDGun_AK47Semi.tools.1.label>
+  <HIDGun_AK47Semi.tools.2.label>дуло</HIDGun_AK47Semi.tools.2.label>
+
+
+  <!-- Zastava M76 -->
+
+  <HIDGun_M76Zastava.label>Zastava M76</HIDGun_M76Zastava.label>
+  <HIDGun_M76Zastava.description>Напівавтоматична піхотна снайперська гвинтівка старовинного зразка, оснащена оптичним прицілом.</HIDGun_M76Zastava.description>
+  <HIDGun_M76Zastava.tools.0.label>приклад</HIDGun_M76Zastava.tools.0.label>
+  <HIDGun_M76Zastava.tools.1.label>ствол</HIDGun_M76Zastava.tools.1.label>
+  <HIDGun_M76Zastava.tools.2.label>дуло</HIDGun_M76Zastava.tools.2.label>
+
+
+  <!-- H.C.A.R. -->
+
+  <HIDGun_HCAR.label>HCAR</HIDGun_HCAR.label>
+  <HIDGun_HCAR.description>Важка напівавтоматична гвинтівка, призначена для цивільного оборонного використання. Гвинтівка має патронник під великокаліберний набій .30-06 та голографічний приціл.</HIDGun_HCAR.description>
+  <HIDGun_HCAR.tools.0.label>приклад</HIDGun_HCAR.tools.0.label>
+  <HIDGun_HCAR.tools.1.label>ствол</HIDGun_HCAR.tools.1.label>
+  <HIDGun_HCAR.tools.2.label>дуло</HIDGun_HCAR.tools.2.label>
+
+
+  <!-- M27 IAR -->
+
+  <HIDGun_M27IAR.label>M27 IAR</HIDGun_M27IAR.label>
+  <HIDGun_M27IAR.description>Автоматична гвинтівка, призначена для ведення пригнічувального вогню на великих відстанях, при цьому вона легша за звичайний легкий кулемет.</HIDGun_M27IAR.description>
+  <HIDGun_M27IAR.tools.0.label>приклад</HIDGun_M27IAR.tools.0.label>
+  <HIDGun_M27IAR.tools.1.label>ствол</HIDGun_M27IAR.tools.1.label>
+  <HIDGun_M27IAR.tools.2.label>дуло</HIDGun_M27IAR.tools.2.label>
+
+
+  <!-- Mk 16 -->
+
+  <HIDGun_Mk16SCAR.label>Mk 16</HIDGun_Mk16SCAR.label>
+  <HIDGun_Mk16SCAR.description>Бойова штурмова гвинтівка спеціального призначення, що стріляє проміжними гвинтівковими патронами. Також відома як SCAR-L.</HIDGun_Mk16SCAR.description>
+  <HIDGun_Mk16SCAR.tools.0.label>приклад</HIDGun_Mk16SCAR.tools.0.label>
+  <HIDGun_Mk16SCAR.tools.1.label>ствол</HIDGun_Mk16SCAR.tools.1.label>
+  <HIDGun_Mk16SCAR.tools.2.label>дуло</HIDGun_Mk16SCAR.tools.2.label>
+
+
+  <!-- SCAR 16S -->
+
+  <HIDGun_SCAR16S.label>SCAR 16S</HIDGun_SCAR16S.label>
+  <HIDGun_SCAR16S.description>Напівавтоматична гвинтівка, що стріляє проміжними патронами, створена для цивільного ринку.</HIDGun_SCAR16S.description>
+  <HIDGun_SCAR16S.tools.0.label>приклад</HIDGun_SCAR16S.tools.0.label>
+  <HIDGun_SCAR16S.tools.1.label>ствол</HIDGun_SCAR16S.tools.1.label>
+  <HIDGun_SCAR16S.tools.2.label>дуло</HIDGun_SCAR16S.tools.2.label>
+
+
+  <!-- Ak-47 -->
+
+  <HIDGun_AK47Kalash.label>AK-47</HIDGun_AK47Kalash.label>
+  <HIDGun_AK47Kalash.description>Штурмова гвинтівка старовинного зразка, яку прийнято вважати простою та надійною. Навіть зараз вона залишається найпоширенішою вогнепальною зброєю з усіх коли-небудь створених.</HIDGun_AK47Kalash.description>
+  <HIDGun_AK47Kalash.tools.0.label>приклад</HIDGun_AK47Kalash.tools.0.label>
+  <HIDGun_AK47Kalash.tools.1.label>ствол</HIDGun_AK47Kalash.tools.1.label>
+  <HIDGun_AK47Kalash.tools.2.label>дуло</HIDGun_AK47Kalash.tools.2.label>
+
+
+  <!-- Mk 17 -->
+
+  <HIDGun_Mk17SCAR.label>Mk 17 Mod 0</HIDGun_Mk17SCAR.label>
+  <HIDGun_Mk17SCAR.description>Бойова штурмова гвинтівка спеціального призначення, що стріляє повнорозмірними гвинтівковими патронами. Також відома як SCAR-H.</HIDGun_Mk17SCAR.description>
+  <HIDGun_Mk17SCAR.tools.0.label>приклад</HIDGun_Mk17SCAR.tools.0.label>
+  <HIDGun_Mk17SCAR.tools.1.label>ствол</HIDGun_Mk17SCAR.tools.1.label>
+  <HIDGun_Mk17SCAR.tools.2.label>дуло</HIDGun_Mk17SCAR.tools.2.label>
+
+
+  <!-- SCAR 17S -->
+
+  <HIDGun_SCAR17S.label>SCAR 17S</HIDGun_SCAR17S.label>
+  <HIDGun_SCAR17S.description>Напівавтоматична гвинтівка, що стріляє повнорозмірними патронами, створена для цивільного ринку.</HIDGun_SCAR17S.description>
+  <HIDGun_SCAR17S.tools.0.label>приклад</HIDGun_SCAR17S.tools.0.label>
+  <HIDGun_SCAR17S.tools.1.label>ствол</HIDGun_SCAR17S.tools.1.label>
+  <HIDGun_SCAR17S.tools.2.label>дуло</HIDGun_SCAR17S.tools.2.label>
+
+
+  <!-- SCAR 17S Patriot -->
+
+  <HIDGun_SCAR17SPatriot.label>SCAR 17S</HIDGun_SCAR17SPatriot.label>
+  <HIDGun_SCAR17SPatriot.description>Напівавтоматична гвинтівка, що стріляє повнорозмірними патронами, створена для цивільного ринку.</HIDGun_SCAR17SPatriot.description>
+  <HIDGun_SCAR17SPatriot.tools.0.label>приклад</HIDGun_SCAR17SPatriot.tools.0.label>
+  <HIDGun_SCAR17SPatriot.tools.1.label>ствол</HIDGun_SCAR17SPatriot.tools.1.label>
+  <HIDGun_SCAR17SPatriot.tools.2.label>дуло</HIDGun_SCAR17SPatriot.tools.2.label>
+
+
+  <!-- Zastava M77 -->
+
+  <HIDGun_M77Zastava.label>Zastava M77</HIDGun_M77Zastava.label>
+  <HIDGun_M77Zastava.description>Гвинтівка на базі платформи АК, але під повнорозмірний патрон.</HIDGun_M77Zastava.description>
+  <HIDGun_M77Zastava.tools.0.label>приклад</HIDGun_M77Zastava.tools.0.label>
+  <HIDGun_M77Zastava.tools.1.label>ствол</HIDGun_M77Zastava.tools.1.label>
+  <HIDGun_M77Zastava.tools.2.label>дуло</HIDGun_M77Zastava.tools.2.label>
+
+
+  <!-- MSSR -->
+
+  <HIDGun_MSSR.label>MSSR</HIDGun_MSSR.label>
+  <HIDGun_MSSR.description>Перероблена напівавтоматична піхотна снайперська гвинтівка, розроблена для неймовірної точності при використанні звичайних проміжних патронів.</HIDGun_MSSR.description>
+  <HIDGun_MSSR.tools.0.label>приклад</HIDGun_MSSR.tools.0.label>
+  <HIDGun_MSSR.tools.1.label>ствол</HIDGun_MSSR.tools.1.label>
+  <HIDGun_MSSR.tools.2.label>дуло</HIDGun_MSSR.tools.2.label>
+
+
+  <!-- NFWS -->
+
+  <HIDGun_NFWS.label>NFWS</HIDGun_NFWS.label>
+  <HIDGun_NFWS.description>Напівавтоматична піхотна снайперська гвинтівка, оснащена прицілом нічного бачення, розроблена для неймовірної точності при використанні звичайних проміжних патронів.</HIDGun_NFWS.description>
+  <HIDGun_NFWS.tools.0.label>приклад</HIDGun_NFWS.tools.0.label>
+  <HIDGun_NFWS.tools.1.label>ствол</HIDGun_NFWS.tools.1.label>
+  <HIDGun_NFWS.tools.2.label>дуло</HIDGun_NFWS.tools.2.label>
+
+
+  <!-- Springfield Model 2020 Waypoint -->
+
+  <HIDGun_SpringfieldM2020W.label>Springfield Model 2020 Waypoint</HIDGun_SpringfieldM2020W.label>
+  <HIDGun_SpringfieldM2020W.description>Сучасний дизайн високоточної мисливської гвинтівки. Має надзвичайно велику дальність стрільби, високу точність і хорошу потужність. Через свою громіздкість інша зброя переважає її на близькій відстані.</HIDGun_SpringfieldM2020W.description>
+  <HIDGun_SpringfieldM2020W.tools.0.label>приклад</HIDGun_SpringfieldM2020W.tools.0.label>
+  <HIDGun_SpringfieldM2020W.tools.1.label>ствол</HIDGun_SpringfieldM2020W.tools.1.label>
+  <HIDGun_SpringfieldM2020W.tools.2.label>дуло</HIDGun_SpringfieldM2020W.tools.2.label>
+
+
+  <!-- Springfield Model 2020 Redline -->
+
+  <HIDGun_SpringfieldM2020R.label>Springfield Model 2020 Redline</HIDGun_SpringfieldM2020R.label>
+  <HIDGun_SpringfieldM2020R.description>Сучасний дизайн високоточної мисливської гвинтівки. Має надзвичайно велику дальність стрільби, високу точність і хорошу потужність. Через свою громіздкість інша зброя переважає її на близькій відстані.</HIDGun_SpringfieldM2020R.description>
+  <HIDGun_SpringfieldM2020R.tools.0.label>приклад</HIDGun_SpringfieldM2020R.tools.0.label>
+  <HIDGun_SpringfieldM2020R.tools.1.label>ствол</HIDGun_SpringfieldM2020R.tools.1.label>
+  <HIDGun_SpringfieldM2020R.tools.2.label>дуло</HIDGun_SpringfieldM2020R.tools.2.label>
+
+
+  <!-- L42A1 -->
+
+  <HIDGun_L42A1Enfield.label>L42A1</HIDGun_L42A1Enfield.label>
+  <HIDGun_L42A1Enfield.description>Снайперська гвинтівка з затворною затримкою, фінальна версія гвинтівки Лі-Енфілда. Має простий нерегульований приціл.</HIDGun_L42A1Enfield.description>
+  <HIDGun_L42A1Enfield.tools.0.label>приклад</HIDGun_L42A1Enfield.tools.0.label>
+  <HIDGun_L42A1Enfield.tools.1.label>ствол</HIDGun_L42A1Enfield.tools.1.label>
+  <HIDGun_L42A1Enfield.tools.2.label>дуло</HIDGun_L42A1Enfield.tools.2.label>
+
+
+  <!-- Barrett M82A1 -->
+
+  <HIDGun_BarrettM82A1AMR.label>Barrett M82A1</HIDGun_BarrettM82A1AMR.label>
+  <HIDGun_BarrettM82A1AMR.description>Напівавтоматична протитанкова гвинтівка. Використовує оптичний приціл великого збільшення для снайперської стрільби по важкій техніці на великих відстанях.</HIDGun_BarrettM82A1AMR.description>
+  <HIDGun_BarrettM82A1AMR.tools.0.label>приклад</HIDGun_BarrettM82A1AMR.tools.0.label>
+  <HIDGun_BarrettM82A1AMR.tools.1.label>ствол</HIDGun_BarrettM82A1AMR.tools.1.label>
+  <HIDGun_BarrettM82A1AMR.tools.2.label>дуло</HIDGun_BarrettM82A1AMR.tools.2.label>
+
+
+  <!-- Tyrannosaurus -->
+
+  <HIDGun_Tyrannosaurus2Bore.label>Tyrannosaurus</HIDGun_Tyrannosaurus2Bore.label>
+  <HIDGun_Tyrannosaurus2Bore.description>Спеціально виготовлена казнозарядна гвинтівка з казенним зрізом ствола під до смішного великий патрон.</HIDGun_Tyrannosaurus2Bore.description>
+  <HIDGun_Tyrannosaurus2Bore.tools.0.label>приклад</HIDGun_Tyrannosaurus2Bore.tools.0.label>
+  <HIDGun_Tyrannosaurus2Bore.tools.1.label>ствол</HIDGun_Tyrannosaurus2Bore.tools.1.label>
+  <HIDGun_Tyrannosaurus2Bore.tools.2.label>дуло</HIDGun_Tyrannosaurus2Bore.tools.2.label>
+
+
+</LanguageData>

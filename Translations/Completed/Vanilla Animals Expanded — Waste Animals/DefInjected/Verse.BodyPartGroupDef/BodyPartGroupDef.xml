@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--stinger-->
+  <VAEWaste_Sting.label>жало</VAEWaste_Sting.label>
+  <!--pincer-->
+  <VAEWaste_PincerAttackTool.label>клішні</VAEWaste_PincerAttackTool.label>
+  <!--mouth-->
+  <VAEWaste_Mouth.label>рот</VAEWaste_Mouth.label>
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name->The [ColorBadass] [darkendevil]</li>
+    <li>r_name->[darkendevil] of [godepithet]</li>
+    <li>r_name->[godepithet]'s [darkendevil]</li>
+    <li>darkendevil->Executioners</li>
+    <li>darkendevil->Enforcers</li>
+    <li>darkendevil->Justiciars</li>
+    <li>darkendevil->Inquisitors</li>
+    <li>darkendevil->Templars</li>
+    <li>darkendevil->Empire</li>
+    <li>darkendevil->Despotate</li>
+    <li>darkendevil->Hierarchy</li>
+    <li>godepithet->the Bloody Rose</li>
+    <li>godepithet->the Sallow Moon</li>
+    <li>godepithet->the Blood God</li>
+    <li>godepithet->Skarne</li>
+    <li>godepithet->the Allmother</li>
+    <li>godepithet->the Ever-Thirsting</li>
+  -->
+  <NamerFactionReviaTemplar.rulePack.rulesStrings>
+    <li>r_name->[darkendevil] [ColorBadass]</li>
+    <li>r_name->[darkendevil] з [godepithet]</li>
+    <li>r_name->[darkendevil] [godepithet]</li>
+    <li>darkendevil->Палачі</li>
+    <li>darkendevil->Силовики</li>
+    <li>darkendevil->Судді</li>
+    <li>darkendevil->Інквізитори</li>
+    <li>darkendevil->Тамплієри</li>
+    <li>darkendevil->Імперія</li>
+    <li>darkendevil->Деспотизм</li>
+    <li>darkendevil->Ієрархія</li>
+    <li>godepithet->Кривавої трояндни</li>
+    <li>godepithet->Місяця у повні</li>
+    <li>godepithet->Бога Крові</li>
+    <li>godepithet->Скарне</li>
+    <li>godepithet->Всематірі</li>
+    <li>godepithet->Вічно жадаючого</li>
+  </NamerFactionReviaTemplar.rulePack.rulesStrings>
+  
+</LanguageData>

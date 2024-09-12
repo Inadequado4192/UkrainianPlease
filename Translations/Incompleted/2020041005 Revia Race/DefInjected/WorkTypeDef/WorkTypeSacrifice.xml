@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Sacrifice things to honour the gods. -->
+  <ReviaSacrifice.description>Жертвуйте речі, щоб вшанувати богів.</ReviaSacrifice.description>
+  <!-- EN: sacrificing -->
+  <ReviaSacrifice.gerundLabel>приносять в жертву</ReviaSacrifice.gerundLabel>
+  <!-- EN: Sacrifice -->
+  <ReviaSacrifice.labelShort>Жертвоприношення</ReviaSacrifice.labelShort>
+  <!-- EN: Petitioner -->
+  <ReviaSacrifice.pawnLabel>жертва</ReviaSacrifice.pawnLabel>
+  <!-- EN: Sacrifice -->
+  <ReviaSacrifice.verb>Жертвоприношення</ReviaSacrifice.verb>
+  
+</LanguageData>

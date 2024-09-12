@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: angelic beauty -->
+  <AG_Beauty.degreeDatas.angelic_beauty.label>янгольська краса</AG_Beauty.degreeDatas.angelic_beauty.label>
+  <!-- EN: [PAWN_nameDef] possesses an unnatural, almost pristine beauty that makes [PAWN_objective] stand out among others of [PAWN_possessive] kind. -->
+  <AG_Beauty.degreeDatas.angelic_beauty.description>[PAWN_nameDef] має неприродну, майже первозданну красу, яка виділяє [PAWN_objective] серед інших.</AG_Beauty.degreeDatas.angelic_beauty.description>
+  <!-- EN: repulsive -->
+  <AG_Beauty.degreeDatas.repulsive.label>огидний</AG_Beauty.degreeDatas.repulsive.label>
+  <!-- EN: [PAWN_nameDef] is so unfathomably ugly and grotesque that merely looking at [PAWN_objective] is enough to make other people nauseous. -->
+  <AG_Beauty.degreeDatas.repulsive.description>[PAWN_nameDef] настільки незбагненно {PAWN_geder ? потворний і жахливий : потворна і жахлива}, що одного лише погляду на [PAWN_objective] достатньо, щоб викликати нудоту в інших людей.</AG_Beauty.degreeDatas.repulsive.description>
+  
+</LanguageData>

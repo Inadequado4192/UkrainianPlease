@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VTE_ViewPrices.reportString>використовує торговий термінал для перегляду цін.</VTE_ViewPrices.reportString>
+  <VTE_ContactBank.reportString>використовує торговий термінал для зв'язку з банком.</VTE_ContactBank.reportString>
+  <VTE_ViewNews.reportString>використовує торговий термінал для перегляду новин.</VTE_ViewNews.reportString>
+  <VTE_OpenStockMarket.reportString>використовує торговий термінал для перегляду фондової біржі.</VTE_OpenStockMarket.reportString>
+  <VTE_OpenContracts.reportString>використовує торговий термінал для перевірки угод.</VTE_OpenContracts.reportString>
+</LanguageData>

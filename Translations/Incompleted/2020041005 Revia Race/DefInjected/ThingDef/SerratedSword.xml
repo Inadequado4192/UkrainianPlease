@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scourge -->
+  <ReviaSerratedSword.label>лихо</ReviaSerratedSword.label>
+  <!-- EN: A cruel sword with a heavy single-edged blade, lined with palestone shards. Designed to inflict severe bleeding and grievous wounds. -->
+  <ReviaSerratedSword.description>Жорстокий меч з важким однолезовим лезом, викладеним уламками блідокаменю. Призначений для нанесення сильних кровотеч і тяжких ран.</ReviaSerratedSword.description>
+  <!-- EN: handle -->
+  <ReviaSerratedSword.tools.handle.label>руків'я</ReviaSerratedSword.tools.handle.label>
+  <!-- EN: point -->
+  <ReviaSerratedSword.tools.point.label>вістря</ReviaSerratedSword.tools.point.label>
+  <!-- EN: edge -->
+  <ReviaSerratedSword.tools.edge.label>лезо</ReviaSerratedSword.tools.edge.label>
+  
+</LanguageData>

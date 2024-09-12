@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wasp antennae -->
+  <AG_DownwardsAntennas.label>осині вусики</AG_DownwardsAntennas.label>
+  <!-- EN: Carriers of this gene grow two large wasp antennae protruding from the head. -->
+  <AG_DownwardsAntennas.description>У носіїв цього гена виростають дві великі осині вусики, що стирчать з голови.</AG_DownwardsAntennas.description>
+  <!-- EN: wasp -->
+  <AG_DownwardsAntennas.symbolPack.prefixSymbols.0.symbol>оса</AG_DownwardsAntennas.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hornet -->
+  <AG_DownwardsAntennas.symbolPack.prefixSymbols.1.symbol>шершень</AG_DownwardsAntennas.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: antenna -->
+  <AG_DownwardsAntennas.symbolPack.prefixSymbols.2.symbol>антена</AG_DownwardsAntennas.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: formic antennae -->
+  <AG_FormicAntennas.label>мурашині вусики</AG_FormicAntennas.label>
+  <!-- EN: Carriers of this gene grow two large ant antennae protruding from the head. -->
+  <AG_FormicAntennas.description>У носіїв цього гена виростають дві великі мурашині вусики, що стирчать з голови.</AG_FormicAntennas.description>
+  <!-- EN: ant -->
+  <AG_FormicAntennas.symbolPack.prefixSymbols.0.symbol>мураха</AG_FormicAntennas.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: formic -->
+  <AG_FormicAntennas.symbolPack.prefixSymbols.1.symbol>мурашиний</AG_FormicAntennas.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: antenna -->
+  <AG_FormicAntennas.symbolPack.prefixSymbols.2.symbol>антена</AG_FormicAntennas.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: lower antennae -->
+  <AG_LowerAntennas.label>нижні вусики</AG_LowerAntennas.label>
+  <!-- EN: Carriers of this gene grow two large antennae protruding from their jaw. -->
+  <AG_LowerAntennas.description>У носіїв цього гена виростають два великі вусики, що стирчать з щелепи.</AG_LowerAntennas.description>
+  
+  <!-- EN: moth antennae -->
+  <AG_MothAntennae.label>вусики молі</AG_MothAntennae.label>
+  <!-- EN: Carriers of this gene grow two large antennae protruding from the nose. -->
+  <AG_MothAntennae.description>У носіїв цього гена виростають дві великі вусики, що стирчать з носа.</AG_MothAntennae.description>
+  <!-- EN: moth -->
+  <AG_MothAntennae.symbolPack.prefixSymbols.0.symbol>моль</AG_MothAntennae.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: butterfly -->
+  <AG_MothAntennae.symbolPack.prefixSymbols.1.symbol>метелик</AG_MothAntennae.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: lepidopt -->
+  <AG_MothAntennae.symbolPack.prefixSymbols.2.symbol>лепідопт</AG_MothAntennae.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: no upper antennae -->
+  <AG_NoAntennae.label>без верхніх вусиків</AG_NoAntennae.label>
+  <!-- EN: Carriers of this gene don't have upper antennae. -->
+  <AG_NoAntennae.description>Носії цього гена не мають верхніх вусиків.</AG_NoAntennae.description>
+  <!-- EN: With this gene you can create xenotypes in which a pawn can have upper antennae or a lack of them at random -->
+  <AG_NoAntennae.customEffectDescriptions.0>За допомогою цього гена ви можете створювати ксенотипи, в яких пішак може мати верхні вусики або їх відсутність у довільному порядку</AG_NoAntennae.customEffectDescriptions.0>
+  
+  <!-- EN: no lower antennae -->
+  <AG_NoLowerAntennae.label>без нижніх вусиків</AG_NoLowerAntennae.label>
+  <!-- EN: Carriers of this gene don't have lower antennae. -->
+  <AG_NoLowerAntennae.description>Носії цього гена не мають нижніх вусиків.</AG_NoLowerAntennae.description>
+  <!-- EN: With this gene you can create xenotypes in which a pawn can have lower antennae or a lack of them at random -->
+  <AG_NoLowerAntennae.customEffectDescriptions.0>За допомогою цього гена ви можете створювати ксенотипи, в яких пішак може мати нижчі вусики або їх відсутність у довільному порядку</AG_NoLowerAntennae.customEffectDescriptions.0>
+  
+  <!-- EN: bee antennae -->
+  <AG_OutwardsAntennas.label>бджолині вусики</AG_OutwardsAntennas.label>
+  <!-- EN: Carriers of this gene grow two large bee antennae protruding from the head. -->
+  <AG_OutwardsAntennas.description>Носії цього гена вирощують дві великі бджолині вусики, що стирчать з голови.</AG_OutwardsAntennas.description>
+  <!-- EN: bee -->
+  <AG_OutwardsAntennas.symbolPack.prefixSymbols.0.symbol>бджола</AG_OutwardsAntennas.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: api -->
+  <AG_OutwardsAntennas.symbolPack.prefixSymbols.1.symbol>апі</AG_OutwardsAntennas.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: hive -->
+  <AG_OutwardsAntennas.symbolPack.prefixSymbols.2.symbol>вулик</AG_OutwardsAntennas.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: antenna -->
+  <AG_OutwardsAntennas.symbolPack.prefixSymbols.3.symbol>антена</AG_OutwardsAntennas.symbolPack.prefixSymbols.3.symbol>
+  
+</LanguageData>

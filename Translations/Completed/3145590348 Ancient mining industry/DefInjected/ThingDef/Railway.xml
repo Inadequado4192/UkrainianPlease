@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BreadMoAM_Rail.label>Рейка</BreadMoAM_Rail.label>
+  <BreadMoAM_Rail.description>Звичайна, іржава залізнична колія.</BreadMoAM_Rail.description>
+  <BreadMoAM_Rail_Blueprint.label>Рейка (креслення)</BreadMoAM_Rail_Blueprint.label>
+  <BreadMoAM_Rail_Frame.label>Рейка (будується)</BreadMoAM_Rail_Frame.label>
+  <BreadMoAM_Rail_Frame.description>Звичайна, іржава залізнична колія.</BreadMoAM_Rail_Frame.description>
+
+  <BreadMoAM_Crosstie.label>Дошка</BreadMoAM_Crosstie.label>
+  <BreadMoAM_Crosstie.description>Дошка, розміщена під залізничними коліями.</BreadMoAM_Crosstie.description>
+  <BreadMoAM_Crosstie_Blueprint.label>Дошка (креслення)</BreadMoAM_Crosstie_Blueprint.label>
+  <BreadMoAM_Crosstie_Frame.label>Дошка (будується)</BreadMoAM_Crosstie_Frame.label>
+  <BreadMoAM_Crosstie_Frame.description>Дошка, розміщена під залізничними коліями.</BreadMoAM_Crosstie_Frame.description>
+
+
+</LanguageData>

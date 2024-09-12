@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <InstallNaturalStomach.label>встановити шлунок</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>встановити біологічний шлунок</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>встановлення шлунка</InstallNaturalStomach.jobString>
+
+  <InstallNaturalBrain.label>встановити мозок</InstallNaturalBrain.label>
+  <InstallNaturalBrain.description>встановити біологічний мозок</InstallNaturalBrain.description>
+  <InstallNaturalBrain.jobString>встановлення мозку</InstallNaturalBrain.jobString>
+
+  <InstallNaturalJaw.label>встановити щелепу</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>встановити біологічну щелепу</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>встановлення щелепи</InstallNaturalJaw.jobString>
+
+  <InstallNaturalSpine.label>встановити хребет</InstallNaturalSpine.label>
+  <InstallNaturalSpine.description>встановити біологічний хребет</InstallNaturalSpine.description>
+  <InstallNaturalSpine.jobString>встановлення хребта</InstallNaturalSpine.jobString>
+
+  <InstallNaturalEye.label>встановити очне яблуко</InstallNaturalEye.label>
+  <InstallNaturalEye.description>встановити біологічне очне яблуко</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>встановлення очного яблука</InstallNaturalEye.jobString>
+
+  <InstallNaturalNose.label>встановити ніс</InstallNaturalNose.label>
+  <InstallNaturalNose.description>встановити біологічний ніс</InstallNaturalNose.description>
+  <InstallNaturalNose.jobString>встановлення носа</InstallNaturalNose.jobString>
+
+  <InstallNaturalEar.label>встановити вухо</InstallNaturalEar.label>
+  <InstallNaturalEar.description>встановити біологічне вухо</InstallNaturalEar.description>
+  <InstallNaturalEar.jobString>встановлення вуха</InstallNaturalEar.jobString>
+
+  <InstallNaturalArm.label>встановити руку</InstallNaturalArm.label>
+  <InstallNaturalArm.description>встановити біологічну руку</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>встановлення руки</InstallNaturalArm.jobString>
+
+  <InstallNaturalHand.label>встановити руку</InstallNaturalHand.label>
+  <InstallNaturalHand.description>встановити біологічну руку</InstallNaturalHand.description>
+  <InstallNaturalHand.jobString>встановлення руки</InstallNaturalHand.jobString>
+
+  <InstallNaturalLeg.label>встановити ногу</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>встановити біологічну ногу</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>встановлення ноги</InstallNaturalLeg.jobString>
+
+  <InstallNaturalFoot.label>встановити стопу</InstallNaturalFoot.label>
+  <InstallNaturalFoot.description>встановити біологічну стопу</InstallNaturalFoot.description>
+  <InstallNaturalFoot.jobString>встановлення стопи</InstallNaturalFoot.jobString>
+</LanguageData>

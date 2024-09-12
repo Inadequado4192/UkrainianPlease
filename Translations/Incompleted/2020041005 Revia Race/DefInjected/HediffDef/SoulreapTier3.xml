@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Soul Reap (3) -->
+  <ReviaRaceSoulreapTier3.label>Збирання душ (3)</ReviaRaceSoulreapTier3.label>
+  <!-- EN: An indication of how many lives this Revia has taken. Revia grow stronger with the more lives that they take. -->
+  <ReviaRaceSoulreapTier3.description>Вказівка на те, скільки життів забрала ця Ревія. Ревії стають тим сильнішими, чим більше життів вони забирають.</ReviaRaceSoulreapTier3.description>
+  
+</LanguageData>

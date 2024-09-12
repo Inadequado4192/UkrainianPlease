@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Issues -->
+
+  <AM_Abilities_AnalyzeCreature.label>проаналізувати істоту</AM_Abilities_AnalyzeCreature.label>
+  <AM_Abilities_AnalyzeCreature.description>Наш святий обов'язок - каталогізувати та проаналізувати всіх неймовірних генетично модифікованих істот, створених нашими предками.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;\n - Всі колоністи, які приймуть цю заповідь, отримають здатність "Аналізувати істоту", яка дозволяє сканувати тварин на карті та додавати їх до генетичної бази даних, отримуючи бонуси в залежності від кількості відсканованих тварин.</AM_Abilities_AnalyzeCreature.description>
+
+
+</LanguageData>

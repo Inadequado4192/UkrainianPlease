@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--sushi prep table-->
+  <VCE_SushiPrepTable.label>столик для суші</VCE_SushiPrepTable.label>
+  <!--A working table to cut, slice and prepare all kinds of sushi.-->
+  <VCE_SushiPrepTable.description>Робочий стіл для нарізки та приготування всіх видів суші.</VCE_SushiPrepTable.description>
+  
+  <!--soy sauce fermenter-->
+  <VCE_SoyFermenter.label>соєвий ферментатор</VCE_SoyFermenter.label>
+  <!--A soy fermenter is a cilindrical, metallic drum where soybeans are pressed, mixed with aspergillus bacteria and grain, and aged for long time periods. The result is soy sauce of increasing quality, which can be used as a food condiment.-->
+  <VCE_SoyFermenter.description>Соєвий ферментатор – це металевий барабан циліндричної форми, в якому соєві боби пресуються, змішуються з бактеріями аспергіл і зерном та витримуються протягом тривалого часу. В результаті виходить соєвий соус підвищеної якості, який можна використовувати як харчову приправу.</VCE_SoyFermenter.description>
+  
+  <!--soy sauce-->
+  <VCE_SoySauce.label>соєвий соус</VCE_SoySauce.label>
+  <!--A fermented paste of soybeans, roasted grain, brine, and Aspergillus bacteria. Soy sauce can be added directly to food, and is used as a dip or salt flavor in cooking, as well as providing a rich umami taste.-->
+  <VCE_SoySauce.description>Ферментована паста із соєвих бобів, смаженого зерна, розсолу та бактерій Aspergillus. Соєвий соус можна додавати безпосередньо в їжу, задіювати як соус або приправу в кулінарії, а також використовувати для надання насиченого смаку умамі.</VCE_SoySauce.description>
+  
+  <!--wasabi paste-->
+  <VCE_WasabiPaste.label>васабі-паста</VCE_WasabiPaste.label>
+  <!--A paste made from ground wasabi rhizomes and used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. It loses its flavour and deteriorates extremely fast.-->
+  <VCE_WasabiPaste.description>Паста із мелених кореневищ васабі, яку використовують як гостру приправу до суші та інших страв. За смаком вона більше схожа на гостру гірчицю, ніж на перець чилі, оскільки більше стимулює ніс, ніж язик. Вона втрачає свій аромат і псується дуже швидко.</VCE_WasabiPaste.description>
+  
+  <!--deep fried sushi-->
+  <VCE_DeepFriedSushi.label>суші у фритюрі</VCE_DeepFriedSushi.label>
+  <!--Sushi is one of the healthiest foods about. So sooner or later someone was going to deep fry it and make it the opposite. The end result is a crunchy, unhealthy yet tasty soul food - Not quite as filling as a meal, but very pleasing to eat. Deep frying sushi reduces shelf life as well unless frozen.-->
+  <VCE_DeepFriedSushi.description>Суші – одна з найздоровіших страв. Тож рано чи пізно хтось збирався підсмажити їх у фритюрі і зробити з них щось протилежне. В результаті виходить хрустка, нездорова, але смачна їжа для душі – не така ситна, як інші страви, але дуже приємна на смак. Смаження у фритюрі також скорочує термін зберігання суші, якщо їх не заморозити.</VCE_DeepFriedSushi.description>
+  
+  <!--human "surimi"-->
+  <VCE_HumanSurimi.label>людські "сурімі"</VCE_HumanSurimi.label>
+  <!--A nondistinct paste mimicking the texture of lobster, crab, or other shellfish. Only, this one... is made with human meat. A delicacy for cannibalistic Rim tribes, and a profoundly disgusting and taboo culinary experience for anyone else.-->
+  <VCE_HumanSurimi.description>Невиразний паштет, що імітує текстуру омара, краба чи інших молюсків. Тільки цей... зроблений з людського м'яса. Делікатес для канібалістських племен та глибоко огидний і табуйований кулінарний досвід для всіх інших.</VCE_HumanSurimi.description>
+  
+  <!--soybeans-->
+  <VCE_RawSoybean.label>соєві боби</VCE_RawSoybean.label>
+  <!--An edible bean that can be used as a vegetable in a multitude of recipes, and most famously known as the main ingredient in delicious soy sauce.-->
+  <VCE_RawSoybean.description>Їстівні боби, які можна використовувати як овоч у безлічі рецептів, а найбільше відомі як основний інгредієнт смачного соєвого соусу.</VCE_RawSoybean.description>
+  
+  <!--wasabi-->
+  <VCE_RawWasabi.label>васабі</VCE_RawWasabi.label>
+  <!--A plant of the horseradish family. A paste made from its ground rhizomes is used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue.-->
+  <VCE_RawWasabi.description>Рослина із родини хрінових. Паста, виготовлена із розтертих кореневищ, використовується як гостра приправа до суші та інших страв. За смаком вона більше схожа на гостру гірчицю, ніж на перець чилі, оскільки більше стимулює ніс, ніж язик.</VCE_RawWasabi.description>
+  
+  <!--chirashizushi bowl (simple)-->
+  <VCE_Chirashizushi.label>миска чірашідзуші (проста страва)</VCE_Chirashizushi.label>
+  <!--A simple chirashizushi bowl made from a few ingredients. In Chirashizushi rice is served in a bowl and topped with a variety of raw fish and vegetable garnishes. It is commonly eaten because it is filling, fast and easy to make.-->
+  <VCE_Chirashizushi.description>Проста миска чірашідзуші, приготована з кількох інгредієнтів. У чірашідзуші подають рис у мисці, а зверху – різноманітні гарніри із сирої риби та овочів. Його часто їдять, тому що він ситний, швидкий і простий у приготуванні.</VCE_Chirashizushi.description>
+  
+  <!--norimaki (simple)-->
+  <VCE_Norimaki.label>норімакі (проста страва)</VCE_Norimaki.label>
+  <!--Simple norimaki sushi made from a few ingredients. Norimaki are a type of sushi wrapped with seaweed.-->
+  <VCE_Norimaki.description>Прості суші норімакі з кількох інгредієнтів. Норімакі – це різновид суші, загорнутий у водорості.</VCE_Norimaki.description>
+  
+  <!--uramaki (fine)-->
+  <VCE_Uramaki.label>урамакі (вишукана страва)</VCE_Uramaki.label>
+  <!--Complex uramaki sushi assembled with care from a wide selection of ingredients. Uramaki is a medium-sized cylindrical piece with two or more fillings, and it differs from other maki because the rice is on the outside and the nori seaweed inside.-->
+  <VCE_Uramaki.description>Вишукані суші урамакі з кількох інгредієнтів. Урамакі – це циліндричний шматок середнього розміру із двома або більше начинками, який відрізняється від інших макі тим, що рис знаходиться зовні, а водорості норі – всередині.</VCE_Uramaki.description>
+  
+  <!--nigiri (fine)-->
+  <VCE_Nigiri.label>ніґірі (вишукана страва)</VCE_Nigiri.label>
+  <!--Complex nigiri sushi assembled with care from a wide selection of ingredients. Nigirizushi consists of an oblong mound of sushi rice that the chef presses between the palms of the hands to form an oval-shaped ball, and a topping (the neta) draped over the ball.-->
+  <VCE_Nigiri.description>Вишукані суші ніґірі, виготовлені із ретельно відібраного асортименту інгредієнтів. Ніґірі складаються із довгастого горбка рису для суші, який кухар стискає між долонями, щоб сформувати кульку овальної форми, і начинки, накинутої на кульку.</VCE_Nigiri.description>
+  
+  <!--temaki (lavish)-->
+  <VCE_Temaki.label>темакі (делікатес)</VCE_Temaki.label>
+  <!--A masterpiece of the culinary arts, this sushi nourishes the body, mind, and soul. Temaki is a large cone-shaped piece of nori on the outside and the ingredients spilling out the wide end. A typical temaki is about 10 centimetres long, and is eaten with fingers because it is too awkward to pick it up with chopsticks.-->
+  <VCE_Temaki.description>Шедевр кулінарного мистецтва, ці суші живлять тіло, розум і душу. Темакі – це великий конусоподібний шматок норі зовні, де інгредієнти виливаються на широкий кінець. Типовий темакі має довжину близько 10 сантиметрів, і його їдять пальцями, оскільки паличками брати його незручно.</VCE_Temaki.description>
+  
+  <!--futomaki (lavish)-->
+  <VCE_Futomaki.label>футомакі (делікатес)</VCE_Futomaki.label>
+  <!--A masterpiece of the culinary arts, this sushi nourishes the body, mind, and soul. Futomaki is a large cylindrical piece, usually with nori on the outside. A typical futomaki is five to six centimetres in diameter. They are often made with two, three, or more fillings that are chosen for their complementary tastes and colors.-->
+  <VCE_Futomaki.description>Шедевр кулінарного мистецтва, ці суші живлять тіло, розум і душу. Футомакі – це великий циліндричний шматок, зазвичай із норі на зовнішній стороні. Типовий футомакі має п'ять-шість сантиметрів у діаметрі. Вони часто виготовляються з двома, трьома або більше начинками, які підбираються за смаком і кольором, що доповнюють один одного.</VCE_Futomaki.description>
+  
+  <!--gunkanmaki (gourmet)-->
+  <VCE_Gunkanmaki.label>ґунканмакі (гурманська страва)</VCE_Gunkanmaki.label>
+  <!--A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity sushi. Gunkanmaki is a special type of nigirizushi: an oval, hand-formed clump of sushi rice that has a strip of nori wrapped around its perimeter to form a vessel that is filled with some soft, loose or fine-chopped ingredient that requires the confinement of nori such as roe.-->
+  <VCE_Gunkanmaki.description>Кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості суші. Ґунканмакі – це особливий вид ніґірі: овальна, сформована вручну грудочка рису для суші, яка має смужку норі, обгорнуту по периметру, щоб сформувати посудину, наповнену м'яким, сипучим або дрібно нарізаним інгредієнтом, який вимагає утримання норі, наприклад, ікрою.</VCE_Gunkanmaki.description>
+  
+  <!--oshizushi (gourmet)-->
+  <VCE_Oshizushi.label>ошісуші (гурманська страва)</VCE_Oshizushi.label>
+  <!--A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity sushi. In oshizushi, a block-shaped piece is formed using a wooden mold. The chef lines the bottom of the mold with the toppings, covers them with sushi rice, and then presses the lid of the mold down to create a compact, rectilinear block. The block is removed from the mold and then cut into bite-sized pieces.-->
+  <VCE_Oshizushi.description>Кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості суші. В ошісуші, за допомогою дерев'яної форми, формують шматок у формі блоку. Шеф-кухар вистилає дно форми начинкою, покриває її рисом для суші, а потім притискає кришку форми, щоб сформувати компактний, прямолінійний блок. Блок виймається із форми і розрізається на шматочки розміром з укус.</VCE_Oshizushi.description>
+  
+  <!--soybean plant-->
+  <VCE_Soybean.label>соя</VCE_Soybean.label>
+  <!--A species of legume widely grown for its edible bean, which has numerous uses. Soybean plants grow quite fast, but they are very sensitive to temperature, with optimum growing conditions in mean temperatures of 20 to 30 °C (68 to 86 °F). Temperatures outside that range stunt growth significantly.-->
+  <VCE_Soybean.description>Вид бобових, який широко вирощують заради їстівних бобів, що мають безліч застосувань. Соя росте досить швидко, але вона дуже чутлива до температури, оптимальними умовами для росту є середні температури від 20 до 30 °C. Температура за межами цього діапазону значно затримує її ріст.</VCE_Soybean.description>
+  
+  <!--wasabi plant-->
+  <VCE_Wasabi.label>васабі</VCE_Wasabi.label>
+  <!--A plant of the horseradish family. A paste made from its ground rhizomes is used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. Wasabi is widely considered to be one of the most difficult plants to grow, since it needs a temperate, extremely humid environment. It will receive a growth penalty if less than 20 tiles of water are found in a 6 tile radius.-->
+  <VCE_Wasabi.description>Рослина із родини хрінових. Паста, виготовлена із розтертих кореневищ, використовується як гостра приправа до суші та інших страв. За смаком вона більше схожа на гостру гірчицю, ніж на перець чилі, оскільки більше стимулює ніс, ніж язик. Васабі вважається однією із найскладніших рослин для вирощування, оскільки потребує помірного, надзвичайно вологого середовища. Воно отримає штраф за ріст, якщо в радіусі 6 клітинок, води буде менше за 20 тайлів.</VCE_Wasabi.description>
+</LanguageData>

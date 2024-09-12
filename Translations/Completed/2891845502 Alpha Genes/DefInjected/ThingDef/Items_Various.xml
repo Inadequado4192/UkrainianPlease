@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphapack -->
+  <AG_Alphapack.label>альфапак</AG_Alphapack.label>
+  <!-- EN: A small capsule containing a package of genetic information. To use a genepack, it must be placed in a gene bank near a gene assembler and combined into an implantable xenogerm.\n\nIf not kept in a powered gene bank, this genepack will slowly deteriorate.\n\nAlphapacks only contain combinations of Alpha genes. -->
+  <AG_Alphapack.description>Невелика капсула, що містить пакет генетичної інформації. Щоб використати генпакет, його потрібно помістити в банк генів біля генного асемблера і об'єднати в імплантований ксенозародок.\n\nЯкщо не тримати генпакет в банку генів з живленням, він буде повільно псуватися.\n\nАльфапакети містять лише комбінації альфа-генів.</AG_Alphapack.description>
+  
+  <!-- EN: endogenefier -->
+  <AG_Endogenefier.label>ендогенізатор</AG_Endogenefier.label>
+  <!-- EN: A genetic toolkit capable of converting a random xenogene from a human target into an endogene. As a result, the target will drop into a coma for 3 days. Using the endogenefier on a colonist suffering from the coma will have no effect. -->
+  <AG_Endogenefier.description>Генний інструмент, здатний перетворити випадковий ксеноген людини на ендоген. В результаті ціль впаде в кому на 3 дні. Використання ендогенізатора на колоністs, який перебуває в комі, не матиме жодного ефекту.</AG_Endogenefier.description>
+  <!-- EN: Use endogenefier -->
+  <AG_Endogenefier.comps.CompUsable.useLabel>Використовує ендогенізатор</AG_Endogenefier.comps.CompUsable.useLabel>
+  
+  <!-- EN: genepack disruptor -->
+  <AG_GenepackDisruptor.label>дезорганізатор генпакету</AG_GenepackDisruptor.label>
+  <!-- EN: A genetic toolkit capable of acting upon an existing genepack, alphapack or mixedpack, deleting a random gene present on it. The targetted genepack must have 2 or more genes inside it. -->
+  <AG_GenepackDisruptor.description>Генний інструмент, здатний впливати на існуючий генпак, альфапак або мікспак, видаляючи випадковий ген, що міститься в ньому. Цільовий генний пакет повинен містити 2 або більше генів.</AG_GenepackDisruptor.description>
+  <!-- EN: Use genepack disruptor -->
+  <AG_GenepackDisruptor.comps.CompUsable.useLabel>Використовує дезорганізатор генпакету</AG_GenepackDisruptor.comps.CompUsable.useLabel>
+  
+  <!-- EN: genepack tweaker -->
+  <AG_GenepackTweaker.label>коригувач генпакету</AG_GenepackTweaker.label>
+  <!-- EN: A genetic toolkit capable of acting upon an existing genepack, alphapack or mixedpack, adding a new, random gene to it. The targetted genepack must have 3 or less genes inside it, and this process won't add new archite genes to it. -->
+  <AG_GenepackTweaker.description>Генний інструмент, здатний впливати на існуючий генпак, альфапак або мікспак, додаючи до нього новий, випадковий ген. Цільовий генний пакет повинен містити 3 або менше генів, і цей процес не додасть до нього нових генів-архітекторів.</AG_GenepackTweaker.description>
+  <!-- EN: Use genepack tweaker -->
+  <AG_GenepackTweaker.comps.CompUsable.useLabel>Використовує коригувач генпакету</AG_GenepackTweaker.comps.CompUsable.useLabel>
+  
+  <!-- EN: gene remover -->
+  <AG_GeneRemover.label>видаляч генів</AG_GeneRemover.label>
+  <!-- EN: A genetic toolkit capable of removing a random gene from a human target. This removal is quite destructive, and will target a gene at random. As a result, the target will drop into a coma for 3 days. Using the remover on a colonist suffering from the coma will have no effect. -->
+  <AG_GeneRemover.description>Генний інструмент, здатний видалити випадковий ген людини. Це видалення є досить руйнівним і буде спрямоване на випадковий ген. В результаті ціль впаде в кому на 3 дні. Використання видаляча генів на колоніста, який перебуває в комі, не матиме жодного ефекту.</AG_GeneRemover.description>
+  <!-- EN: Use gene remover -->
+  <AG_GeneRemover.comps.CompUsable.useLabel>Використовує видаляч генів</AG_GeneRemover.comps.CompUsable.useLabel>
+  
+  <!-- EN: germline mutator -->
+  <AG_GermlineMutator.label>мутатор зародкової лінії</AG_GermlineMutator.label>
+  <!-- EN: A genetic toolkit capable of causing random genetic mutations on the subject's germline, producing one random endogene. As a result, the target will drop into a coma for 3 days. Using the mutator on a colonist suffering from the coma will have no effect. -->
+  <AG_GermlineMutator.description>Генний інструмент, здатний викликати випадкові генетичні мутації в зародковій лінії об'єкта, виробляючи один випадковий ендоген. В результаті ціль впаде в кому на 3 дні. Використання мутатора на колоніста, який перебуває в комі, не матиме жодного ефекту.</AG_GermlineMutator.description>
+  <!-- EN: Use germline mutator -->
+  <AG_GermlineMutator.comps.CompUsable.useLabel>Використовує мутатор зародкової лінії</AG_GermlineMutator.comps.CompUsable.useLabel>
+  
+  <!-- EN: mixedpack -->
+  <AG_Mixedpack.label>мікспак</AG_Mixedpack.label>
+  <!-- EN: A small capsule containing a package of genetic information. To use a genepack, it must be placed in a gene bank near a gene assembler and combined into an implantable xenogerm.\n\nIf not kept in a powered gene bank, this genepack will slowly deteriorate.\n\nMixedpacks contain combinations of Alpha genes and standard genes. -->
+  <AG_Mixedpack.description>Невелика капсула, що містить пакет генетичної інформації. Щоб використати генпакет, його потрібно помістити в банк генів біля генного асемблера і об'єднати в імплантований ксенозародок.\n\nЯкщо не тримати генпакет в банку генів з живленням, він буде повільно псуватися.\n\nМікспакети містять комбінації альфа-генів і стандартних генів.</AG_Mixedpack.description>
+  
+  <!-- EN: xenogenefier -->
+  <AG_Xenogenefier.label>ксеногенізатор</AG_Xenogenefier.label>
+  <!-- EN: A genetic toolkit capable of converting a random endogene from a human target into a xenogene. As a result, the target will drop into a coma for 3 days. Using the xenogenefier on a colonist suffering from the coma will have no effect. -->
+  <AG_Xenogenefier.description>Генний інструмент, здатний перетворити випадковий ендоген людини на ксеноген. В результаті ціль впаде в кому на 3 дні. Використання ксеногенізатора на колоніста, який перебуває в комі, не матиме жодного ефекту.</AG_Xenogenefier.description>
+  <!-- EN: Use xenogenefier -->
+  <AG_Xenogenefier.comps.CompUsable.useLabel>Використовує ксеногенізатор</AG_Xenogenefier.comps.CompUsable.useLabel>
+  
+  <!-- EN: xenotype injector -->
+  <AG_XenotypeInjector.label>інжектор ксенотипу</AG_XenotypeInjector.label>
+  <!-- EN: A genetic toolkit capable of forcefully removing all genes from the target, both germline and xenogenes, and replacing them with a random xenotype. As a result, the target will drop into a coma for 3 days. Using the injector on a colonist suffering from the coma will have no effect. -->
+  <AG_XenotypeInjector.description>Генний інструмент, здатний примусово видалити з мішені всі гени, як зародкові, так і ксеногенні, і замінити їх випадковим ксенотипом. В результаті мішень впаде в кому на 3 дні. Використання ін'єктора на колоніста, який перебуває в комі, не матиме жодного ефекту.</AG_XenotypeInjector.description>
+  <!-- EN: Use xenotype injector -->
+  <AG_XenotypeInjector.comps.CompUsable.useLabel>Використовує інжектор ксенотипу</AG_XenotypeInjector.comps.CompUsable.useLabel>
+  
+  <!-- EN: xenotype nullifier -->
+  <AG_XenotypeNullifier.label>нуліфікатор ксенотипу</AG_XenotypeNullifier.label>
+  <!-- EN: A genetic toolkit capable of forcefully removing all xenotype genes from the target, reverting them to baseline humanity. As a result, the target will drop into a coma for 3 days. Using the nullifier on a colonist suffering from the coma will have no effect. -->
+  <AG_XenotypeNullifier.description>Генний інструмент, здатний примусово видалити всі гени ксенотипу у мішені, повернувши її до базової людяності. В результаті ціль впаде в кому на 3 дні. Використання нуліфікатора на колоніста, який перебуває в комі, не матиме жодного ефекту.</AG_XenotypeNullifier.description>
+  <!-- EN: Use xenotype nullifier -->
+  <AG_XenotypeNullifier.comps.CompUsable.useLabel>Використовує нуліфікатор ксенотипу</AG_XenotypeNullifier.comps.CompUsable.useLabel>
+  
+</LanguageData>

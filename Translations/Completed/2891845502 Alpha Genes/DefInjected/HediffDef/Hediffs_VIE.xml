@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: royal jelly production -->
+  <AG_RoyalJellyProduction.label>виробництво маточного молочка</AG_RoyalJellyProduction.label>
+  <!-- EN: The skin of this person constantly exudes and produces globs of royal jelly, which provides some extra food for the colony. -->
+  <AG_RoyalJellyProduction.description>Шкіра цієї людини постійно виділяє і виробляє кульки маточного молочка, що забезпечує колонію додатковою їжею.</AG_RoyalJellyProduction.description>
+  
+</LanguageData>

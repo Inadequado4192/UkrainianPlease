@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Consecrate Blood Rune -->
+  <ReviaRaceConsecrateBloodRune.label>Освятити руну крові</ReviaRaceConsecrateBloodRune.label>
+  <!-- EN: Consecrate a Blood Rune in the name of Skarne, the bloody god. -->
+  <ReviaRaceConsecrateBloodRune.description>Освятіть руну крові в ім'я Скарна, бога крові.</ReviaRaceConsecrateBloodRune.description>
+  <!-- EN: Consecrating Blood Rune. -->
+  <ReviaRaceConsecrateBloodRune.jobString>Освячує руну крові.</ReviaRaceConsecrateBloodRune.jobString>
+  
+</LanguageData>

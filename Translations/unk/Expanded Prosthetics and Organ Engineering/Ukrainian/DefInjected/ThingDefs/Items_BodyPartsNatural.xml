@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <Leg.label>Нога</Leg.label>
+  <Leg.description>Звичайна м'ясиста паличка, що дозволяє бродити по околиці.</Leg.description>
+  
+  <Arm.label>Рука</Arm.label>
+  <Arm.description>Рука, схожа на ногу... тільки можна тримати в ній речі.</Arm.description>
+  
+  <Stomach.label>Шлунок</Stomach.label>
+  <Stomach.description>Перетравлює їжу і перетворює її на енергію та поживні речовини.</Stomach.description>
+  
+  <Heart.label>Серце</Heart.label>
+  <Heart.description>Забезпечує кров'ю та киснем кожну частину тіла. Готове знайти нового власника.</Heart.description>
+  
+  <Liver.label>Печінка</Liver.label>
+  <Liver.description>Грає важливу роль у обміні речовин.</Liver.description>
+
+  <Lung.label>Легеня</Lung.label>
+  <Lung.description>Основна частина дихальної системи.</Lung.description>
+  
+  <Kidney.label>Нирка</Kidney.label>
+  <Kidney.description>Фільтрує і видаляє відходи з крові.</Kidney.description>
+  
+  <Eye.label>Око</Eye.label>
+  <Eye.description>Поглинає світло, дозволяючи бачити оточуюче.</Eye.description>
+  
+  <Nose.label>Ніс</Nose.label>
+  <Nose.description>Дуже корисний орган, який дозволяє розрізняти запахи.</Nose.description>
+  
+  <Ear.label>Вухо</Ear.label>
+  <Ear.description>Сприймає вібрації в повітрі. Дозволяє людям чути звуки.</Ear.description>
+  
+  <Jaw.label>Щелепа</Jaw.label>
+  <Jaw.description>Непогана клавіатура зубів, яка дозволяє жувати їжу... і розмовляти.</Jaw.description>
+  
+</LanguageData>

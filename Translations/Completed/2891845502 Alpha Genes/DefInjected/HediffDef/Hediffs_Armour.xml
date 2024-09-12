@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: plasteel skin -->
+  <AG_ArmourMajor.label>шкіра з пласталі</AG_ArmourMajor.label>
+  <!-- EN: Skin strengthened by a plasteel nano-lattice. This confers a great amount of natural armour. -->
+  <AG_ArmourMajor.description>Шкіра зміцнена нанорешіткою з пласталі. Це надає велику кількість природної броні.</AG_ArmourMajor.description>
+  
+  <!-- EN: ferrous skin -->
+  <AG_ArmourMedium.label>залізна шкіра</AG_ArmourMedium.label>
+  <!-- EN: Skin strengthened by a nano-lattice of metallic compounds. This confers a medium amount of natural armour. -->
+  <AG_ArmourMedium.description>Шкіра зміцнена нанорешіткою з металевих сполук. Це надає середню кількість природної броні.</AG_ArmourMedium.description>
+  
+  <!-- EN: wooden skin -->
+  <AG_ArmourMinor.label>шкіра кори</AG_ArmourMinor.label>
+  <!-- EN: Hard, wood-like skin. This confers a small amount of natural armour. -->
+  <AG_ArmourMinor.description>Тверда, схожа на кору шкіра. Це надає невелику кількість природної броні.</AG_ArmourMinor.description>
+  
+  <!-- EN: fungal skin -->
+  <AG_FungalSkin.label>грибкова шкіра</AG_FungalSkin.label>
+  <!-- EN: Several fungal clumps are sprouting from this person's skin. These fungi cause them no pain and provide a considerable amount of natural armor, at the cost of making them VERY vulnerable to fire. -->
+  <AG_FungalSkin.description>Зі шкіри цієї людини проростає кілька грибків. Ці грибки не завдають їм болю і забезпечують значну кількість природної броні, але ціною того, що роблять їх ДУЖЕ вразливими до вогню.</AG_FungalSkin.description>
+  
+</LanguageData>

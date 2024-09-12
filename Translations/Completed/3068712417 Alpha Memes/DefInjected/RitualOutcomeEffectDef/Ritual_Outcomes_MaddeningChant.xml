@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_MaddeningChantOutcome.description>If the incantation ritual goes well (positive outcome) it will provide a mood bonus and cause mental breaks. A negative outcome will have no effect except a mood penalty.</AM_MaddeningChantOutcome.description>
+  <AM_MaddeningChantOutcome.outcomeChances.0.label>Rational</AM_MaddeningChantOutcome.outcomeChances.0.label>
+  <AM_MaddeningChantOutcome.outcomeChances.0.description>The {0} was rational and sane! What was that? There was no shared insanity, no cackling forbidden whispers of madness. What a bore.</AM_MaddeningChantOutcome.outcomeChances.0.description>
+  <AM_MaddeningChantOutcome.outcomeChances.1.label>Deranged</AM_MaddeningChantOutcome.outcomeChances.1.label>
+  <AM_MaddeningChantOutcome.outcomeChances.1.description>The {0} was suitably deranged. One person's craziness is another person's reality.</AM_MaddeningChantOutcome.outcomeChances.1.description>
+  <AM_MaddeningChantOutcome.outcomeChances.2.label>Psychotic</AM_MaddeningChantOutcome.outcomeChances.2.label>
+  <AM_MaddeningChantOutcome.outcomeChances.2.description>The {0} was psychotic. There's a fine line between genius and insanity. We have erased this line.</AM_MaddeningChantOutcome.outcomeChances.2.description>
+  <AM_MaddeningChantOutcome.outcomeChances.3.label>Insane</AM_MaddeningChantOutcome.outcomeChances.3.label>
+  <AM_MaddeningChantOutcome.outcomeChances.3.description>The {0} was thoroughly insane! Sweet, crazy conversations full of half sentences, daydreams and misunderstandings more thrilling than understanding could ever be.</AM_MaddeningChantOutcome.outcomeChances.3.description>
+  <AM_MaddeningChantOutcome.comps.0.label>room impressiveness</AM_MaddeningChantOutcome.comps.0.label>
+  <AM_MaddeningChantOutcome.comps.1.label>кількість учасників</AM_MaddeningChantOutcome.comps.1.label>
+  <AM_MaddeningChantOutcome.comps.2.label>{PAWN_labelShort}'s social impact</AM_MaddeningChantOutcome.comps.2.label>
+
+
+</LanguageData>

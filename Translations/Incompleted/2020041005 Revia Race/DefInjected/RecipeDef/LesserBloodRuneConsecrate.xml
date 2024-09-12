@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Consecrate Lesser Blood Rune -->
+  <ReviaRaceConsecrateBloodRuneLesser.label>Освятити малу руну крові</ReviaRaceConsecrateBloodRuneLesser.label>
+  <!-- EN: Consecrate a Lesser Blood Rune in the name of Skarne, the bloody god. -->
+  <ReviaRaceConsecrateBloodRuneLesser.description>Освятіть малу руну крові в ім'я Скарна, бога крові.</ReviaRaceConsecrateBloodRuneLesser.description>
+  <!-- EN: Consecrating Lesser Blood Rune. -->
+  <ReviaRaceConsecrateBloodRuneLesser.jobString>Освячує малу руну крові.</ReviaRaceConsecrateBloodRuneLesser.jobString>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: gather animal resource -->
+    <VEF_AnimalResource.label>зібрати ресурси тварин з</VEF_AnimalResource.label>
+    <!-- EN: gather animal resource from -->
+    <VEF_AnimalResource.verb>зібрати ресурси тварин з</VEF_AnimalResource.verb>
+    <!-- EN: gathering animal resource from -->
+    <VEF_AnimalResource.gerund>збір ресурсів тварин з</VEF_AnimalResource.gerund>
+
+    <!-- EN: destroy items -->
+    <VEF_DestroyItems.label>знищувати предмети</VEF_DestroyItems.label>
+    <!-- EN: destroy items -->
+    <VEF_DestroyItems.verb>знищити предмети</VEF_DestroyItems.verb>
+    <!-- EN: destroying items -->
+    <VEF_DestroyItems.gerund>знищення предметів</VEF_DestroyItems.gerund>
+</LanguageData>

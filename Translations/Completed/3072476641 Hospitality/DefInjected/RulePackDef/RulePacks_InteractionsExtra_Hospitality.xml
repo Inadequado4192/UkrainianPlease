@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] схвильовано поплескав у долоні [RECIPIENT_possessive].</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.0>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] посміхнувся.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.1>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] кивнув на знак згоди.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.2>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef] жадав почути більше.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.3>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef] виглядав схвильованим.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.4>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef] виглядав задоволеним.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.5>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.6>sent->[RECIPIENT_nameDef] здивовано витріщився на [INITIATOR_nameDef].</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.6>
+
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] починав дратуватися.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.0>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] несхвально похитав головою [Одержувач_власний].</Sentence_CharmAttemptRejected.rulePack.rulesStrings.1>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] не зацікавлений</Sentence_CharmAttemptRejected.rulePack.rulesStrings.2>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef] він вважає що з нього досить</Sentence_CharmAttemptRejected.rulePack.rulesStrings.3>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef] нудьгуюче роззирнувся по кімнаті.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.4>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef] згадував, що скоро піде.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.5>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.6>sent->[RECIPIENT_nameDef] закотив [RECIPIENT_possessive] очі.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.6>
+
+
+</LanguageData>

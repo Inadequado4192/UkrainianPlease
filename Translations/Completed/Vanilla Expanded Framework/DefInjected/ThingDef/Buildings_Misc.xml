@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+	<VEF_OutpostDeliverySpot.label>місце доставки з застав</VEF_OutpostDeliverySpot.label>
+	<VEF_OutpostDeliverySpot.description>Визначає місце, куди будуть досталвятися речі з застав.</VEF_OutpostDeliverySpot.description>
+	
+	<KCSG_PowerConduit.description>силовий кабель</KCSG_PowerConduit.description>
+	<KCSG_PowerConduit.description>Підземна мережа електричних кабелів для переміщення електроенергії</KCSG_PowerConduit.description>
+</LanguageData>

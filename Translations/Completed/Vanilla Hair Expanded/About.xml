@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Hair Expanded</name>
+        <id>1888705256</id>
+        <packageId>vanillaexpanded.vhe</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3112991872</sourceTranslationId>
+    <lastUpdate>2023-12-13T13:01:10.000Z</lastUpdate>
+</TranslationDetails>

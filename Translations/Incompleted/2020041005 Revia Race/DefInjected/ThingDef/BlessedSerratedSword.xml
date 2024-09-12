@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Red Inquisitor -->
+  <ReviaBlessedSerratedSword.label>Червоний інквізитор</ReviaBlessedSerratedSword.label>
+  <!-- EN: A cruel sword with a serrated blade, containing a hateful spirit. -->
+  <ReviaBlessedSerratedSword.description>Жорстокий меч із зазубреним лезом, що містить ненависного духа.</ReviaBlessedSerratedSword.description>
+  <!-- EN: handle -->
+  <ReviaBlessedSerratedSword.tools.handle.label>руків'я</ReviaBlessedSerratedSword.tools.handle.label>
+  <!-- EN: point -->
+  <ReviaBlessedSerratedSword.tools.point.label>вістря</ReviaBlessedSerratedSword.tools.point.label>
+  <!-- EN: edge -->
+  <ReviaBlessedSerratedSword.tools.edge.label>лезо</ReviaBlessedSerratedSword.tools.edge.label>
+  
+</LanguageData>

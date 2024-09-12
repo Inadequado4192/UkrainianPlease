@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFEArch_Asphalt.label>асфальт</VFEArch_Asphalt.label>
+  <VFEArch_Asphalt.description>Асфальт промислового типу, що використовується для створення доріг і вулиць. Дуже зручний для пересування як для людей, так і для транспортних засобів.</VFEArch_Asphalt.description>
+
+  <VFEArch_WoodenParquet.label>дерев'яний паркет</VFEArch_WoodenParquet.label>
+  <VFEArch_WoodenParquet.description>Красиво покладена дерев'яна підлога створює відчуття розкішного, вишуканого інтер'єру. Хоча вона красива, її укладання займає багато часу, а також є дуже легкозаймистою.</VFEArch_WoodenParquet.description>
+
+  <VFEArch_WoodenParquetWalnut.label>дерев'яний паркет з горіха</VFEArch_WoodenParquetWalnut.label>
+  <VFEArch_WoodenParquetWalnut.description>Красиво покладена дерев'яна підлога створює відчуття розкішного, вишуканого інтер'єру. Хоча вона красива, її укладання займає багато часу, а також є дуже легкозаймистою.</VFEArch_WoodenParquetWalnut.description>
+
+  <VFEArch_WoodenParquetBirch.label>дерев'яний паркет з берези</VFEArch_WoodenParquetBirch.label>
+  <VFEArch_WoodenParquetBirch.description>Красиво покладена дерев'яна підлога створює відчуття розкішного, вишуканого інтер'єру. Хоча вона красива, її укладання займає багато часу, а також є дуже легкозаймистою.</VFEArch_WoodenParquetBirch.description>
+
+  <VFEArch_WoodenParquetMahogany.label>дерев'яний паркет з червоного дерева</VFEArch_WoodenParquetMahogany.label>
+  <VFEArch_WoodenParquetMahogany.description>Красиво покладена дерев'яна підлога створює відчуття розкішного, вишуканого інтер'єру. Хоча вона красива, її укладання займає багато часу, а також є дуже легкозаймистою.</VFEArch_WoodenParquetMahogany.description>
+
+  <VFEArch_WoodPlankFloorWalnut.label>дерев'яна підлога з горіха</VFEArch_WoodPlankFloorWalnut.label>
+  <VFEArch_WoodPlankFloorWalnut.description>Підлога з досок. З нею відчуваєш себе як у дома. Її легко будувати, але вона може загорітися.</VFEArch_WoodPlankFloorWalnut.description>
+
+  <VFEArch_WoodPlankFloorBirch.label>дерев'яна підлога з берези</VFEArch_WoodPlankFloorBirch.label>
+  <VFEArch_WoodPlankFloorBirch.description>Підлога з досок. З нею відчуваєш себе як у дома. Її легко будувати, але вона може загорітися.</VFEArch_WoodPlankFloorBirch.description>
+
+  <VFEArch_WoodPlankFloorMahogany.label>дерев'яна підлога з червоного дерева</VFEArch_WoodPlankFloorMahogany.label>
+  <VFEArch_WoodPlankFloorMahogany.description>Підлога з досок. З нею відчуваєш себе як у дома. Її легко будувати, але вона може загорітися.</VFEArch_WoodPlankFloorMahogany.description>
+
+  <VFEArch_CobblestoneFloorSandstone.label>бруківка з пісковика</VFEArch_CobblestoneFloorSandstone.label>
+  <VFEArch_CobblestoneFloorSandstone.description>Бруківка, для створення атмосфери старовинного замку. Забирає менше часу на будівництво, ніж звичайна кам'яна підлога і не вимагає досвіду різки каменю, але не володіє такою ж красою, як поліровані покриття.</VFEArch_CobblestoneFloorSandstone.description>
+
+  <VFEArch_CobblestoneFloorGranite.label>гранітна бруківка</VFEArch_CobblestoneFloorGranite.label>
+  <VFEArch_CobblestoneFloorGranite.description>Бруківка, для створення атмосфери старовинного замку. Забирає менше часу на будівництво, ніж звичайна кам'яна підлога і не вимагає досвіду різки каменю, але не володіє такою ж красою, як поліровані покриття.</VFEArch_CobblestoneFloorGranite.description>
+
+  <VFEArch_CobblestoneFloorLimestone.label>вапнякова бруківка</VFEArch_CobblestoneFloorLimestone.label>
+  <VFEArch_CobblestoneFloorLimestone.description>Бруківка, для створення атмосфери старовинного замку. Забирає менше часу на будівництво, ніж звичайна кам'яна підлога і не вимагає досвіду різки каменю, але не володіє такою ж красою, як поліровані покриття.</VFEArch_CobblestoneFloorLimestone.description>
+
+  <VFEArch_CobblestoneFloorSlate.label>сланцева бруківка</VFEArch_CobblestoneFloorSlate.label>
+  <VFEArch_CobblestoneFloorSlate.description>Бруківка, для створення атмосфери старовинного замку. Забирає менше часу на будівництво, ніж звичайна кам'яна підлога і не вимагає досвіду різки каменю, але не володіє такою ж красою, як поліровані покриття.</VFEArch_CobblestoneFloorSlate.description>
+
+  <VFEArch_CobblestoneFloorMarble.label>мармурова бруківка</VFEArch_CobblestoneFloorMarble.label>
+  <VFEArch_CobblestoneFloorMarble.description>Бруківка, для створення атмосфери старовинного замку. Забирає менше часу на будівництво, ніж звичайна кам'яна підлога і не вимагає досвіду різки каменю, але не володіє такою ж красою, як поліровані покриття.</VFEArch_CobblestoneFloorMarble.description>
+
+  <VFEArch_PolishedStoneFloorSandstone.label>шліфована кам'яна плитка з пісковика</VFEArch_PolishedStoneFloorSandstone.label>
+  <VFEArch_PolishedStoneFloorSandstone.description>Вишукана, полірована кам'яна плитка для елегантного, схожого на особняк, вигляду. Укладання займає не так багато часу, як укладання більш якісної кам'яної підлоги, але вимагає багато ресурсів. Вона неймовірно красива на вигляд.</VFEArch_PolishedStoneFloorSandstone.description>
+
+  <VFEArch_PolishedStoneFloorGranite.label>гранітна шліфована кам'яна плитка</VFEArch_PolishedStoneFloorGranite.label>
+  <VFEArch_PolishedStoneFloorGranite.description>Вишукана, полірована кам'яна плитка для елегантного, схожого на особняк, вигляду. Укладання займає не так багато часу, як укладання більш якісної кам'яної підлоги, але вимагає багато ресурсів. Вона неймовірно красива на вигляд.</VFEArch_PolishedStoneFloorGranite.description>
+
+  <VFEArch_PolishedStoneFloorLimestone.label>вапнякова шліфована кам'яна плитка</VFEArch_PolishedStoneFloorLimestone.label>
+  <VFEArch_PolishedStoneFloorLimestone.description>Вишукана, полірована кам'яна плитка для елегантного, схожого на особняк, вигляду. Укладання займає не так багато часу, як укладання більш якісної кам'яної підлоги, але вимагає багато ресурсів. Вона неймовірно красива на вигляд.</VFEArch_PolishedStoneFloorLimestone.description>
+
+  <VFEArch_PolishedStoneFloorSlate.label>сланцева шліфована кам'яна плитка</VFEArch_PolishedStoneFloorSlate.label>
+  <VFEArch_PolishedStoneFloorSlate.description>Вишукана, полірована кам'яна плитка для елегантного, схожого на особняк, вигляду. Укладання займає не так багато часу, як укладання більш якісної кам'яної підлоги, але вимагає багато ресурсів. Вона неймовірно красива на вигляд.</VFEArch_PolishedStoneFloorSlate.description>
+
+  <VFEArch_PolishedStoneFloorMarble.label>мармурова шліфована кам'яна плитка</VFEArch_PolishedStoneFloorMarble.label>
+  <VFEArch_PolishedStoneFloorMarble.description>Вишукана, полірована кам'яна плитка для елегантного, схожого на особняк, вигляду. Укладання займає не так багато часу, як укладання більш якісної кам'яної підлоги, але вимагає багато ресурсів. Вона неймовірно красива на вигляд.</VFEArch_PolishedStoneFloorMarble.description>
+
+  <VFEArch_SlabsSandstone.label>плити з пісковика</VFEArch_SlabsSandstone.label>
+  <VFEArch_SlabsSandstone.description>Великі кам'яні плити, покладені навмання, створюють враження храму. Вони красиві на вигляд, але вимагають багато праці, щоб їх покласти, і витрачають велику кількість ресурсів.</VFEArch_SlabsSandstone.description>
+
+  <VFEArch_SlabsGranite.label>гранітні плити</VFEArch_SlabsGranite.label>
+  <VFEArch_SlabsGranite.description>Великі кам'яні плити, покладені навмання, створюють враження храму. Вони красиві на вигляд, але вимагають багато праці, щоб їх покласти, і витрачають велику кількість ресурсів.</VFEArch_SlabsGranite.description>
+
+  <VFEArch_SlabsLimestone.label>вапнякові плити</VFEArch_SlabsLimestone.label>
+  <VFEArch_SlabsLimestone.description>Великі кам'яні плити, покладені навмання, створюють враження храму. Вони красиві на вигляд, але вимагають багато праці, щоб їх покласти, і витрачають велику кількість ресурсів.</VFEArch_SlabsLimestone.description>
+
+  <VFEArch_SlabsSlate.label>сланцеві плити</VFEArch_SlabsSlate.label>
+  <VFEArch_SlabsSlate.description>Великі кам'яні плити, покладені навмання, створюють враження храму. Вони красиві на вигляд, але вимагають багато праці, щоб їх покласти, і витрачають велику кількість ресурсів.</VFEArch_SlabsSlate.description>
+
+  <VFEArch_SlabsMarble.label>мармурові плити</VFEArch_SlabsMarble.label>
+  <VFEArch_SlabsMarble.description>Великі кам'яні плити, покладені навмання, створюють враження храму. Вони красиві на вигляд, але вимагають багато праці, щоб їх покласти, і витрачають велику кількість ресурсів.</VFEArch_SlabsMarble.description>
+
+  <VFEArch_FineWoodenFloor.label>гарна дерев'яна підлога</VFEArch_FineWoodenFloor.label>
+  <VFEArch_FineWoodenFloor.description>Вишуканий дерев'яний паркет, виготовлений без компромісів, для вираження економічного статусу. Повільно укладається.</VFEArch_FineWoodenFloor.description>
+
+  <VFEArch_FineWoodenFloorWalnut.label>гарна дерев'яна підлога з горіха</VFEArch_FineWoodenFloorWalnut.label>
+  <VFEArch_FineWoodenFloorWalnut.description>Вишуканий дерев'яний паркет, виготовлений без компромісів, для вираження економічного статусу. Повільно укладається.</VFEArch_FineWoodenFloorWalnut.description>
+
+  <VFEArch_FineWoodenFloorBirch.label>гарна дерев'яна підлога з берези</VFEArch_FineWoodenFloorBirch.label>
+  <VFEArch_FineWoodenFloorBirch.description>Вишуканий дерев'яний паркет, виготовлений без компромісів, для вираження економічного статусу. Повільно укладається.</VFEArch_FineWoodenFloorBirch.description>
+
+  <VFEArch_FineWoodenFloorMahogany.label>гарна дерев'яна підлога з червоного дерева</VFEArch_FineWoodenFloorMahogany.label>
+  <VFEArch_FineWoodenFloorMahogany.description>Вишуканий дерев'яний паркет, виготовлений без компромісів, для вираження економічного статусу. Повільно укладається.</VFEArch_FineWoodenFloorMahogany.description>
+
+  <VFEArch_Grass.label>трава</VFEArch_Grass.label>
+  <VFEArch_Grass.description>Поле трави з клаптиками ґрунту де-не-де. Дуже приємне на вигляд, не потребує жодних ресурсів для будівництва.</VFEArch_Grass.description>
+  <VFEArch_Grass.tools.dirt.label>багно</VFEArch_Grass.tools.dirt.label>
+  
+  <VFEArch_LawnPlot.label>газон</VFEArch_LawnPlot.label>
+  <VFEArch_LawnPlot.description>Гарно підстрижена трава з дуже високою естетичною цінністю. Потребує величезних обсягів робіт для створення.</VFEArch_LawnPlot.description>
+  <VFEArch_LawnPlot.tools.dirt.label>багно</VFEArch_LawnPlot.tools.dirt.label>
+
+  <VFEArch_PlayerBrokenAsphalt.label>битий асфальт</VFEArch_PlayerBrokenAsphalt.label>
+  <VFEArch_PlayerBrokenAsphalt.description>Старий, розбитий асфальт, часто зустрічається у вигляді старовинних шосе навколо покинутих місць. Дуже легкий для проїзду як для людей, так і для транспортних засобів.</VFEArch_PlayerBrokenAsphalt.description>
+
+  <VFEArch_PlayerPackedDirt.label>ущільнений бруд</VFEArch_PlayerPackedDirt.label>
+  <VFEArch_PlayerPackedDirt.description>Ущільнений бруд, що дещо підвищує швидкість пересування, часто утворюючи стежки навколо визначних пам'яток.</VFEArch_PlayerPackedDirt.description>
+
+  <VFEArch_BridgeSandstone.label>міст з пісковика</VFEArch_BridgeSandstone.label>
+  <VFEArch_BridgeSandstone.description>Кам'яний міст – це конструкція, яку можна побудувати на воді. Міст дозволяє швидше пересуватися через водні перепони. Після побудови він може підтримувати багато конструкцій, включаючи важкі споруди і будь-який тип стін. Мости полегшують забудову в болотистих районах.\n \nМоже бути збудованний з будь-яких кам'яних блоків.</VFEArch_BridgeSandstone.description>
+
+  <VFEArch_BridgeGranite.label>гранітний міст</VFEArch_BridgeGranite.label>
+  <VFEArch_BridgeGranite.description>Кам'яний міст – це конструкція, яку можна побудувати на воді. Міст дозволяє швидше пересуватися через водні перепони. Після побудови він може підтримувати багато конструкцій, включаючи важкі споруди і будь-який тип стін. Мости полегшують забудову в болотистих районах.\n \nМоже бути збудованний з будь-яких кам'яних блоків.</VFEArch_BridgeGranite.description>
+
+  <VFEArch_BridgeLimestone.label>вапняковий міст</VFEArch_BridgeLimestone.label>
+  <VFEArch_BridgeLimestone.description>Кам'яний міст – це конструкція, яку можна побудувати на воді. Міст дозволяє швидше пересуватися через водні перепони. Після побудови він може підтримувати багато конструкцій, включаючи важкі споруди і будь-який тип стін. Мости полегшують забудову в болотистих районах.\n \nМоже бути збудованний з будь-яких кам'яних блоків.</VFEArch_BridgeLimestone.description>
+
+  <VFEArch_BridgeSlate.label>сланцевий міст</VFEArch_BridgeSlate.label>
+  <VFEArch_BridgeSlate.description>Кам'яний міст – це конструкція, яку можна побудувати на воді. Міст дозволяє швидше пересуватися через водні перепони. Після побудови він може підтримувати багато конструкцій, включаючи важкі споруди і будь-який тип стін. Мости полегшують забудову в болотистих районах.\n \nМоже бути збудованний з будь-яких кам'яних блоків.</VFEArch_BridgeSlate.description>
+
+  <VFEArch_BridgeMarble.label>мармуровий міст</VFEArch_BridgeMarble.label>
+  <VFEArch_BridgeMarble.description>Кам'яний міст – це конструкція, яку можна побудувати на воді. Міст дозволяє швидше пересуватися через водні перепони. Після побудови він може підтримувати багато конструкцій, включаючи важкі споруди і будь-який тип стін. Мости полегшують забудову в болотистих районах.\n \nМоже бути збудованний з будь-яких кам'яних блоків.</VFEArch_BridgeMarble.description>
+
+  <VFEArch_BridgeSteel.label>сталевий міст</VFEArch_BridgeSteel.label>
+  <VFEArch_BridgeSteel.description>Сталевий міст – це конструкція, яку можна побудувати на воді. Міст дозволяє швидше пересуватися через водні перепони. Після побудови він може підтримувати багато конструкцій, включаючи важкі споруди і будь-який тип стін. Сталеві мости надзвичайно довговічні. Мости полегшують забудову в болотистих районах.</VFEArch_BridgeSteel.description>
+
+  <VFEArch_ConcreteFoundation.label>бетонний фундамент</VFEArch_ConcreteFoundation.label>
+  <VFEArch_ConcreteFoundation.description>Фундаменти – це конструкції, які можуть бути побудовані на багнюці, пливунах тощо. Фундамент дозволяє швидше пересуватися цими типами ґрунтів, які зазвичай уповільнюють рух. Після побудови вони можуть підтримувати багато конструкцій, в тому числі важкі споруди та будь-які інші типи стін. Фундаменти полегшують забудову в пустельних і болотистих районах. На фундаментах не можна будувати підлогу.</VFEArch_ConcreteFoundation.description>
+
+  <VFEArch_FineMetalFloor.label>гарна металева плитка</VFEArch_FineMetalFloor.label>
+
+  <VFEArch_FineSteelTile.label>гарна сталева плитка</VFEArch_FineSteelTile.label>
+  <VFEArch_FineSteelTile.description>Вишукана сталева плитка, зроблена без жодного стримування, для вираження економічного статусу. Повільно укладається.</VFEArch_FineSteelTile.description>
+
+  <VFEArch_FineSilverTile.label>гарна срібна плитка</VFEArch_FineSilverTile.label>
+  <VFEArch_FineSilverTile.description>Вишукана срібна підлога, зроблена без жодного стримування, для вираження економічного статусу. Повільно укладається.</VFEArch_FineSilverTile.description>
+
+  <VFEArch_FineGoldTile.label>гарна золота плитка</VFEArch_FineGoldTile.label>
+  <VFEArch_FineGoldTile.description>Вишукана золота підлога, зроблена без жодного стримування, для вираження економічного статусу. Повільно укладається.</VFEArch_FineGoldTile.description>
+</LanguageData>

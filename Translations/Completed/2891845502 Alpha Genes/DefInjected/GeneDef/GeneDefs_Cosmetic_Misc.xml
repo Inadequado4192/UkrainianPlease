@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: body tentacles -->
+  <AG_BodyTentacles.label>тілесні щупальця</AG_BodyTentacles.label>
+  <!-- EN: Carriers of this gene have a mass of writhing tentacles sprouting from their back. -->
+  <AG_BodyTentacles.description>Носії цього гена мають масу звивистих щупалець, що проростають зі спини.</AG_BodyTentacles.description>
+  <!-- EN: eldrit -->
+  <AG_BodyTentacles.symbolPack.prefixSymbols.0.symbol>елдрит</AG_BodyTentacles.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: alien -->
+  <AG_BodyTentacles.symbolPack.prefixSymbols.1.symbol>чужий</AG_BodyTentacles.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: eerie -->
+  <AG_BodyTentacles.symbolPack.prefixSymbols.2.symbol>моторошний</AG_BodyTentacles.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: tentac -->
+  <AG_BodyTentacles.symbolPack.prefixSymbols.3.symbol>щупальце</AG_BodyTentacles.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: chainsaw hands -->
+  <AG_ChainsawHands.label>руки бензопили</AG_ChainsawHands.label>
+  <!-- EN: Carriers of this gene have chainsaws for hands. "Akkkkssstually -you say- those would be better implemented as implants, not a gene!". No, no, you misunderstand: these are biological, DNA codified chainsaw hands. Children of two people with chainsaw hands will have itty bitty chainsaw hands. It's science. -->
+  <AG_ChainsawHands.description>Носії цього гена мають бензопили замість рук. "Але ж, - скажете ви, - це краще було б впроваджувати як імплантати, а не ген!". Ні, ні, ви не розумієте: це біологічні, кодифіковані в ДНК руки-бензопили. Діти двох людей з руками-бензопилами матимуть крихітні крихітні руки-бензопили. Це наука.</AG_ChainsawHands.description>
+  <!-- EN: chain -->
+  <AG_ChainsawHands.symbolPack.prefixSymbols.0.symbol>ланцюжок</AG_ChainsawHands.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: crab claw -->
+  <AG_CrabClaw.label>крабові клешні</AG_CrabClaw.label>
+  <!-- EN: Carriers of this gene have one of their arms mutated into a gigantic crab claw. This claw is surprisingly dexterous and doesn't impede the person's manipulation. -->
+  <AG_CrabClaw.description>У носіїв цього гена одна з рук мутує у гігантську крабову клешню. Ця клешня напрочуд спритна і не заважає людині маніпулювати нею.</AG_CrabClaw.description>
+  <!-- EN: Why? Because. -->
+  <AG_CrabClaw.customEffectDescriptions.0>Чому? Тому що.</AG_CrabClaw.customEffectDescriptions.0>
+  <!-- EN: crab -->
+  <AG_CrabClaw.symbolPack.prefixSymbols.0.symbol>краб</AG_CrabClaw.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: carc -->
+  <AG_CrabClaw.symbolPack.prefixSymbols.1.symbol>тушка</AG_CrabClaw.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: heavily scarred -->
+  <AG_HeavilyScarred.label>сильно шрамований</AG_HeavilyScarred.label>
+  <!-- EN: Carriers of this gene have prominent scars on their faces, as if their skin had been cut and put together again. -->
+  <AG_HeavilyScarred.description>Носії цього гена мають помітні шрами на обличчі, наче їхню шкіру розрізали і знову зібрали докупи.</AG_HeavilyScarred.description>
+  
+  <!-- EN: proboscis -->
+  <AG_Proboscis.label>хоботок</AG_Proboscis.label>
+  <!-- EN: Carriers of this gene grow a large proboscis protruding from their jaw. -->
+  <AG_Proboscis.description>У носіїв цього гена виростає великий хоботок, що виступає з щелепи.</AG_Proboscis.description>
+  <!-- EN: sucker -->
+  <AG_Proboscis.symbolPack.prefixSymbols.0.symbol>висмоктувач</AG_Proboscis.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: moskit -->
+  <AG_Proboscis.symbolPack.prefixSymbols.1.symbol>москіт</AG_Proboscis.symbolPack.prefixSymbols.1.symbol>
+  
+</LanguageData>

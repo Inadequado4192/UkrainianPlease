@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<IP_InsertFirstIngredient.label>принести інгрідієнти</IP_InsertFirstIngredient.label>
+	<IP_InsertFirstIngredient.verb>принести інгрідієнти до</IP_InsertFirstIngredient.verb>
+	<IP_InsertFirstIngredient.gerund>принести інгрідієнти до</IP_InsertFirstIngredient.gerund>
+	
+	<IP_InsertSecondIngredient.label>принести інгрідієнти</IP_InsertSecondIngredient.label>
+	<IP_InsertSecondIngredient.verb>принести інгрідієнти до</IP_InsertSecondIngredient.verb>
+	<IP_InsertSecondIngredient.gerund>принести інгрідієнти до</IP_InsertSecondIngredient.gerund>
+	
+	<IP_InsertThirdIngredient.label>принести інгрідієнти</IP_InsertThirdIngredient.label>
+	<IP_InsertThirdIngredient.verb>принести інгрідієнти до</IP_InsertThirdIngredient.verb>
+	<IP_InsertThirdIngredient.gerund>принести інгрідієнти до</IP_InsertThirdIngredient.gerund>
+	
+	<IP_RemoveProduct.label>забрати готовий продукт</IP_RemoveProduct.label>
+	<IP_RemoveProduct.verb>забрати готовий продукт з</IP_RemoveProduct.verb>
+	<IP_RemoveProduct.gerund>забрати готовий продукт з</IP_RemoveProduct.gerund>
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: contamination -->
+    <ContaminationEffect.label>зараження</ContaminationEffect.label>
+    <!-- EN: Zombie contamination in the brain and mind. Caused by touching and being exposed by contaminated things and places. It will increasingly affect overall effectiveness and will cause strange side effects. At 100% death will occur. -->
+    <ContaminationEffect.description>Зомбування мозку та свідомості. Викликається дотиком і впливом забруднених речей і місць. Це все більше впливатиме на загальну ефективність і викликатиме дивні побічні ефекти. При 100% настане смерть.</ContaminationEffect.description>
+    <!-- EN: Zombie contamination in the brain and mind. -->
+    <ContaminationEffect.descriptionShort>Зомбування мозку та свідомості.</ContaminationEffect.descriptionShort>
+    <!-- EN: contamination -->
+    <ContaminationEffect.labelNoun>забруднення</ContaminationEffect.labelNoun>
+    <!-- EN: none -->
+    <ContaminationEffect.stages.none.label>відсутнє</ContaminationEffect.stages.none.label>
+    <!-- EN: light -->
+    <ContaminationEffect.stages.light.label>легке</ContaminationEffect.stages.light.label>
+    <!-- EN: noticable -->
+    <ContaminationEffect.stages.noticable.label>помітне</ContaminationEffect.stages.noticable.label>
+    <!-- EN: moderate -->
+    <ContaminationEffect.stages.moderate.label>помірне</ContaminationEffect.stages.moderate.label>
+    <!-- EN: heavy -->
+    <ContaminationEffect.stages.heavy.label>важке</ContaminationEffect.stages.heavy.label>
+    <!-- EN: extreme -->
+    <ContaminationEffect.stages.extreme.label>екстремальне</ContaminationEffect.stages.extreme.label>
+    <!-- EN: deadly -->
+    <ContaminationEffect.stages.deadly-0.label>смертельне</ContaminationEffect.stages.deadly-0.label>
+    <!-- EN: deadly -->
+    <ContaminationEffect.stages.deadly-1.label>смертельне</ContaminationEffect.stages.deadly-1.label>
+    <!-- EN: zombie bite -->
+    <ZombieBite.label>укус зомбі</ZombieBite.label>
+    <!-- EN: A infectious bite of a zombie. -->
+    <ZombieBite.description>Інфекційний укус зомбі.</ZombieBite.description>
+    <!-- EN: Bitten off by a zombie -->
+    <ZombieBite.injuryProps.destroyedLabel>Відкусив зомбі</ZombieBite.injuryProps.destroyedLabel>
+    <!-- EN: Bitten out by a zombie -->
+    <ZombieBite.injuryProps.destroyedOutLabel>Укушений зомбі</ZombieBite.injuryProps.destroyedOutLabel>
+    <!-- EN: {0} in the {1} -->
+    <ZombieBite.labelNounPretty>{0} в {1}</ZombieBite.labelNounPretty>
+    <!-- EN: zombie infection -->
+    <ZombieInfection.label>зомбі-інфекція</ZombieInfection.label>
+    <!-- EN: Zombie infection after death -->
+    <ZombieInfection.description>Зомбі-інфекція після смерті</ZombieInfection.description>
+</LanguageData>

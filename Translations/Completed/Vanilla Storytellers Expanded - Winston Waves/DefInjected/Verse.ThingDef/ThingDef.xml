@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--death super acidifier-->
+  <VESWW_DeathSuperAcidifier.label>смертельний суперокислювач</VESWW_DeathSuperAcidifier.label>
+  <!--A chest implant for preventing enemy use of captured equipment and bionic. Upon the user's death, it releases powerful chemicals that dissolve the user. Sometimes used to prevent being captured.-->
+  <VESWW_DeathSuperAcidifier.description>Грудний імплантат для запобігання використанню ворогом захопленої техніки та біоніки. Після смерті користувача вивільняє потужні хімічні речовини, які розчиняють його. Іноді використовується для запобігання захоплення в полон.</VESWW_DeathSuperAcidifier.description>
+  
+  <!--reward drop spot-->
+  <VESWW_RewardDropSpot.label>місце скидання винагороди</VESWW_RewardDropSpot.label>
+  <!--Used to mark where rewards should drops-->
+  <VESWW_RewardDropSpot.description>Використовується для позначення місця падіння винагороди</VESWW_RewardDropSpot.description>
+</LanguageData>

@@ -1,0 +1,54 @@
+import fs from "fs"
+import path from "path";
+import { xml2js, js2xml, Options, ElementCompact } from "xml-js";
+import { ForEachTranslation, SteamAPI.getDetailsFromSteamWorkshop, Pathes, ReadTranslationAbout, xmlReaderOptions } from "./utils";
+import axios from "axios";
+
+
+(async () => {
+
+    const sourceUpdated: [string][] = [];
+    const completed: [string, boolean, string, string][] = [];
+    const dontContains: [string, string][] = [];
+
+    await ForEachTranslation(async ({ translationFileName: modFileName, translationPath: modPath }) => {
+        let a;
+        try { a = await ReadTranslationAbout(modPath); }
+        catch (error) {
+            dontContains.push([modFileName, "doesn't contains About.xml"]);
+            return;
+        }
+
+        if (a.lastUpdate == undefined) {
+            dontContains.push([modFileName, "doesn't contains \"lastUpdate\" property"]);
+            return;
+        }
+
+        const API_KEY = process.env.STEAM_API_KEY;
+        if (!API_KEY) throw Error("Steam API_KEY is missing");
+
+        
+        const result = await SteamAPI.getDetailsFromWorkshop([a.originalMod.id._text]);
+
+
+        const translationTime = new Date(a.lastUpdate._text).getTime();
+        const modUpdateTime = (+result.data.response.publishedfiledetails[0].time_updated * 1000);
+
+
+        const isUpdated = translationTime < modUpdateTime;
+
+        completed.push([a.originalMod.name._text, isUpdated, new Date(translationTime).toLocaleDateString(), new Date(modUpdateTime).toLocaleDateString()])
+    });
+
+    const completedSpaces = completed.reduce((p, c) => c[0].length > p ? c[0].length : p, 0)
+    const dontContainsSpaces = dontContains.reduce((p, c) => c[0].length > p ? c[0].length : p, 0)
+
+
+    console.log(`\n${"".padEnd(completedSpaces)} | Need Update | Translation LU - Mod LU`)
+    console.log(completed.map(n => `${n[0].padEnd(completedSpaces)} |      ${(n[1] ? "+" : "-")}      | ${n[2]} - ${n[3]}`).join("\n"));
+
+    console.log(`\n${"Loaded with errors:".padEnd(dontContainsSpaces)} | Reasone`)
+    console.log(dontContains.map(n => `${n[0].padEnd(dontContainsSpaces)} | ${n[1]}`).join("\n"));
+})();
+
+

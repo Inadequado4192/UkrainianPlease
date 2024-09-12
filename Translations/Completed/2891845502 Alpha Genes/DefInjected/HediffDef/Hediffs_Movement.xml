@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: glide -->
+  <AG_Hover.label>політ</AG_Hover.label>
+  <!-- EN: Limited flight that allows this colonist to hop and glide small distances over terrain. They will ignore terrain movement costs when moving. -->
+  <AG_Hover.description>Обмежений політ, що дозволяє цьому колоністу стрибати і ковзати на невеликі відстані над місцевістю. Під час пересування вони ігнорують витрати на переміщення по місцевості.</AG_Hover.description>
+  
+  <!-- EN: hydrogen hover -->
+  <AG_HoverExploder.label>водневе паріння</AG_HoverExploder.label>
+  <!-- EN: Limited flight that allows this colonist to hover over terrain. They will ignore terrain movement costs when moving. The hydrogen inside the gas bags will cause this person to blow up when killed. -->
+  <AG_HoverExploder.description>Обмежений політ, що дозволяє цьому колоністу зависати над місцевістю. Вони ігнорують витрати на переміщення по місцевості під час пересування. Водень всередині газових мішків призведе до того, що ця людина вибухне, коли її вб'ють.</AG_HoverExploder.description>
+  
+  <!-- EN: water striding -->
+  <AG_WaterStriding.label>ходіння по воді</AG_WaterStriding.label>
+  <!-- EN: This person moves without movement penalties through water. They will ignore terrain movement costs when moving through watery terrains. -->
+  <AG_WaterStriding.description>Ця людина пересувається без штрафів за пересування по воді. Він ігнорує витрати на пересування по місцевості при пересуванні по водній місцевості.</AG_WaterStriding.description>
+  
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguagData>
+
+	<VREA.GivesAbility>:Дає здібність</VREA.GivesAbility>
+	<VREA_ReturnsLabel>{0} повертається</VREA_ReturnsLabel>
+	<VREA_Returns>{0} повертається</VREA_Returns>
+	<VREA.PsychicStormWeatherBonusStatExplanation>Бонус від пси бурі</VREA.PsychicStormWeatherBonusStatExplanation>
+</LanguagData>

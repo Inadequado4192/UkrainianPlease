@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Blood Rune -->
+  <ReviaBloodRune.label>Руна крові</ReviaBloodRune.label>
+  <!-- EN: A symbol of Skarne, carefully carved on an ornate disc. Vibrating with inner hatred. -->
+  <ReviaBloodRune.description>Символ Скарне, ретельно вирізаний на орнаментованому диску. Вібрує внутрішньою ненавистю.</ReviaBloodRune.description>
+  <!-- EN: Sanctify equipped weapon -->
+  <ReviaBloodRune.comps.CompUsable.useLabel>Освятити споряджену зброю</ReviaBloodRune.comps.CompUsable.useLabel>
+  
+</LanguageData>

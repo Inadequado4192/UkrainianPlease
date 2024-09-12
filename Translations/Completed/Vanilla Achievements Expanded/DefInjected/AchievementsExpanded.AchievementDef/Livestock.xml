@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <threeLittlePigs.label>Троє Поросят</threeLittlePigs.label>
+  <threeLittlePigs.description>Мати 3 Свиней та 1 Вовка</threeLittlePigs.description>
+  
+  <lookAtAllThoseChickens.label>Гляньте На Тих Курей</lookAtAllThoseChickens.label>
+  <lookAtAllThoseChickens.description>Мати 20 гусей</lookAtAllThoseChickens.description>
+  
+  <sustainableFuelSource.label>Живе Джерело Палива</sustainableFuelSource.label>
+  <sustainableFuelSource.description>Мати 8 Бумалоп</sustainableFuelSource.description>
+  
+  <muffaloRancher.label>Скотар Муффало</muffaloRancher.label>
+  <muffaloRancher.description>Мати 12 Муффало</muffaloRancher.description>
+  
+  <arkHalfFull.label>Ковчег Наполовину Повен</arkHalfFull.label>
+  <arkHalfFull.description>Одночасно мати по 1 тварині кожного виду (тільки з ванільної гри)</arkHalfFull.description>
+  
+  <gentleGiant.label>Великий Дружній Велетень</gentleGiant.label>
+  <gentleGiant.description>Приручити Трумбо</gentleGiant.description>
+</LanguageData>

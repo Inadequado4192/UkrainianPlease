@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_JewishSlab_Medium.label>єврейська платформа (середня)</AM_JewishSlab_Medium.label>
+  <AM_JewishSlab_Medium.description>Кам'яний барельєф для оздоблення підлоги.</AM_JewishSlab_Medium.description>
+
+  <AM_JewishSlab_Broad.label>jewish платформа (широка)</AM_JewishSlab_Broad.label>
+  <AM_JewishSlab_Broad.description>Кам'яний барельєф для оздоблення підлоги.</AM_JewishSlab_Broad.description>
+
+  <AM_KemeticSlab_Medium.label>кеметична платформа (середня)</AM_KemeticSlab_Medium.label>
+  <AM_KemeticSlab_Medium.description>Кам'яний барельєф для оздоблення підлоги.</AM_KemeticSlab_Medium.description>
+
+  <AM_KemeticSlab_Broad.label>кеметична платформа (широка)</AM_KemeticSlab_Broad.label>
+  <AM_KemeticSlab_Broad.description>Кам'яний барельєф для оздоблення підлоги.</AM_KemeticSlab_Broad.description>
+
+  <AM_HinduSlab_Medium.label>індуїстьска платформа (середня)</AM_HinduSlab_Medium.label>
+  <AM_HinduSlab_Medium.description>Кам'яний барельєф для оздоблення підлоги.</AM_HinduSlab_Medium.description>
+
+  <AM_HinduSlab_Broad.label>індуїстьска платформа (широка)</AM_HinduSlab_Broad.label>
+  <AM_HinduSlab_Broad.description>Кам'яний барельєф для оздоблення підлоги.</AM_HinduSlab_Broad.description>
+
+  <AM_SteampunkSlab_Medium.label>платформа у стилі стімпанк (середня)</AM_SteampunkSlab_Medium.label>
+  <AM_SteampunkSlab_Medium.description>Кам'яний барельєф для оздоблення підлоги.</AM_SteampunkSlab_Medium.description>
+
+  <AM_SteampunkSlab_Broad.label>платформа у стилі стімпанк (широка)</AM_SteampunkSlab_Broad.label>
+  <AM_SteampunkSlab_Broad.description>Кам'яний барельєф для оздоблення підлоги.</AM_SteampunkSlab_Broad.description>
+
+  <AM_CorsairSlab_Medium.label>піратська платформа (середня)</AM_CorsairSlab_Medium.label>
+  <AM_CorsairSlab_Medium.description>Кам'яний барельєф для оздоблення підлоги.</AM_CorsairSlab_Medium.description>
+
+  <AM_CorsairSlab_Broad.label>піратська платформа (широка)</AM_CorsairSlab_Broad.label>
+  <AM_CorsairSlab_Broad.description>Кам'яний барельєф для оздоблення підлоги.</AM_CorsairSlab_Broad.description>
+
+  <AM_JainSlab_Medium.label>джаїнісська платформа (середня)</AM_JainSlab_Medium.label>
+  <AM_JainSlab_Medium.description>Кам'яний барельєф для оздоблення підлоги.</AM_JainSlab_Medium.description>
+
+  <AM_JainSlab_Broad.label>джаїнісська платформа (широка)</AM_JainSlab_Broad.label>
+  <AM_JainSlab_Broad.description>Кам'яний барельєф для оздоблення підлоги.</AM_JainSlab_Broad.description>
+
+  <AM_SikhSlab_Medium.label>сихська платформа (середня)</AM_SikhSlab_Medium.label>
+  <AM_SikhSlab_Medium.description>Кам'яний барельєф для оздоблення підлоги.</AM_SikhSlab_Medium.description>
+
+  <AM_SikhSlab_Broad.label>сихська платформа (широка)</AM_SikhSlab_Broad.label>
+  <AM_SikhSlab_Broad.description>Кам'яний барельєф для оздоблення підлоги.</AM_SikhSlab_Broad.description>
+
+  <AM_IslamicSlab_Medium.label>ісламістська платформа (середня)</AM_IslamicSlab_Medium.label>
+  <AM_IslamicSlab_Medium.description>Кам'яний барельєф для оздоблення підлоги.</AM_IslamicSlab_Medium.description>
+
+  <AM_IslamicSlab_Broad.label>ісламістська платформа (широка)</AM_IslamicSlab_Broad.label>
+  <AM_IslamicSlab_Broad.description>Кам'яний барельєф для оздоблення підлоги.</AM_IslamicSlab_Broad.description>
+
+  <AM_ChristianSlab_Medium.label>християнська платформа (середня)</AM_ChristianSlab_Medium.label>
+  <AM_ChristianSlab_Medium.description>Кам'яний барельєф для оздоблення підлоги.</AM_ChristianSlab_Medium.description>
+
+  <AM_ChristianSlab_Broad.label>християнська платформа (широка)</AM_ChristianSlab_Broad.label>
+  <AM_ChristianSlab_Broad.description>Кам'яний барельєф для оздоблення підлоги.</AM_ChristianSlab_Broad.description>
+
+  <AM_BuddhistSlab_Medium.label>буддистична платформа (середня)</AM_BuddhistSlab_Medium.label>
+  <AM_BuddhistSlab_Medium.description>Кам'яний барельєф для оздоблення підлоги.</AM_BuddhistSlab_Medium.description>
+
+  <AM_BuddhistSlab_Broad.label>буддистична платформа (широка)</AM_BuddhistSlab_Broad.label>
+  <AM_BuddhistSlab_Broad.description>Кам'яний барельєф для оздоблення підлоги.</AM_BuddhistSlab_Broad.description>
+
+
+</LanguageData>

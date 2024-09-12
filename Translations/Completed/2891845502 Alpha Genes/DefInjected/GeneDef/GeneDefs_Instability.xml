@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lethal cell instability -->
+  <AG_Instability_Lethal.label>смертельна нестабільність клітин</AG_Instability_Lethal.label>
+  <!-- EN: Carriers of this gene need considerably less metabolic energy to stay alive, at the cost of outrageously-reduced stability in their cell-replication machinery, and a very, VERY limited lifespan that can't be expanded in any way. -->
+  <AG_Instability_Lethal.description>Носії цього гена потребують значно менше метаболічної енергії, щоб залишатися живими, за рахунок обурливо зниженої стабільності їхнього механізму клітинної реплікації та дуже, ДУЖЕ обмеженої тривалості життя, яку неможливо продовжити.</AG_Instability_Lethal.description>
+  <!-- EN: Carrier will die in three natural years. -->
+  <AG_Instability_Lethal.customEffectDescriptions.0>Носій помре через три природні роки.</AG_Instability_Lethal.customEffectDescriptions.0>
+  
+</LanguageData>

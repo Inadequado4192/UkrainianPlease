@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Behavior -->
+
+  <AM_PyramidBurialBehavior.spectatorFilter.description>Глядачі повинні бути живими.</AM_PyramidBurialBehavior.spectatorFilter.description>
+  <AM_PyramidBurialBehavior.roles.0.label>промовець</AM_PyramidBurialBehavior.roles.0.label>
+  <AM_PyramidBurialBehavior.roles.1.label>Тіло</AM_PyramidBurialBehavior.roles.1.label>
+  <AM_PyramidBurialBehavior.stages.1.postAction.text>{0}: Промова закінчилася, і починається поховання.</AM_PyramidBurialBehavior.stages.1.postAction.text>
+
+
+</LanguageData>

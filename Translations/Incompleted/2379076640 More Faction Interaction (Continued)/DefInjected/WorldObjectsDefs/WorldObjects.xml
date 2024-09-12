@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <MFI_FactionWarPeaceTalks.label>Мирні переговори</MFI_FactionWarPeaceTalks.label>
+    <MFI_FactionWarPeaceTalks.description>Місце, призначене для мирних переговорів.</MFI_FactionWarPeaceTalks.description>
+    
+    <MFI_AnnualExpoObject.label>Щорічна виставка</MFI_AnnualExpoObject.label>
+    <MFI_AnnualExpoObject.description>Місце, призначене для проведення цьогорічної виставки.</MFI_AnnualExpoObject.description>
+    
+    <MFI_MysticalShaman.label>Містичний шаман</MFI_MysticalShaman.label>
+    <MFI_MysticalShaman.description>Намет, де мешкає містичний шаман.</MFI_MysticalShaman.description>
+    
+    <MFI_RoadUnderConstruction.label>Дорога у стані будівництва</MFI_RoadUnderConstruction.label>
+    <MFI_RoadUnderConstruction.description>Будівельний майданчик.</MFI_RoadUnderConstruction.description>
+</LanguageData> 

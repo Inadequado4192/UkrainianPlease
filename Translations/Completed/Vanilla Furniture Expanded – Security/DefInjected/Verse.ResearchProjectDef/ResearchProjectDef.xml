@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFES_SiegeEquipment.label>облогові споруди</VFES_SiegeEquipment.label>
+  <VFES_SiegeEquipment.description>Будуйте середньовічні облогові споруди.</VFES_SiegeEquipment.description>
+
+  <VWE_TrenchWarfare.label>позиційна війна</VWE_TrenchWarfare.label>
+  <VWE_TrenchWarfare.description>Адаптуйте доктрину траншейної війни, для створення глибокоешелованої оборони.</VWE_TrenchWarfare.description>
+
+  <VFES_Artillery.label>артилерія</VFES_Artillery.label>
+  <VFES_Artillery.description>Вивчіть, як будувати польову артилерію, здатну обстрілювати віддалені цілі в межах певного регіону на карті світу.</VFES_Artillery.description>
+
+  <VFES_SentryGuns.label>оборонні гармати</VFES_SentryGuns.label>
+  <VFES_SentryGuns.description>Будуйте, надійні, автономні оборонні гармати для використання в польових умовах.</VFES_SentryGuns.description>
+
+  <VFES_ConcealedDefenses.label>прихований захист</VFES_ConcealedDefenses.label>
+  <VFES_ConcealedDefenses.description>Будуйте висувні бар'єри та турелі. Ідеально підходить для захисту приміщень зсередини.</VFES_ConcealedDefenses.description>
+
+  <VFES_PulseChargedDefenses.label>імпульсні захисні пристрої</VFES_PulseChargedDefenses.label>
+  <VFES_PulseChargedDefenses.description>Розробіть сучасні зарядні гармати, здатні підтримувати постійну швидкість стрільби.</VFES_PulseChargedDefenses.description>
+
+  <VFES_Railgun.label>рейкотрон</VFES_Railgun.label>
+  <VFES_Railgun.description>Адаптуйте озброєння космічних кораблів як частину ваших оборонних систем.</VFES_Railgun.description>
+
+  <VFES_EMPCannon.label>ЕМІ гармата</VFES_EMPCannon.label>
+  <VFES_EMPCannon.description>Розробіть ЕМІ гармати, корисні в усій галактиці завдяки своїй здатності оглушати механоїдів.</VFES_EMPCannon.description>
+
+  <VFES_RepulsorTechnology.label>репульсивні щити</VFES_RepulsorTechnology.label>
+  <VFES_RepulsorTechnology.description>Побудувати генератори щитів, які проєктують енергетичні поля, здатні відбивати снаряди.</VFES_RepulsorTechnology.description>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Gila venomous bite-->
+  <AEXP_GilaVenomousBite.label>Отруйний укус жилатьє</AEXP_GilaVenomousBite.label>
+  
+  <!--Rattlesnake venomous bite-->
+  <AEXP_RattleSnakeVenomousBite.label>Отруйний укус гримучої змії</AEXP_RattleSnakeVenomousBite.label>
+  
+  <!--Megascorpion venomous bite-->
+  <AEXP_MegascorpionVenomousBite.label>Отруйний укус мегакорпіона</AEXP_MegascorpionVenomousBite.label>
+</LanguageData>

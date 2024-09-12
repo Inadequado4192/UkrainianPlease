@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Aquatic Growing Zone-->
+  <VCE_AquaticGrowingZone>Водна зона вирощування</VCE_AquaticGrowingZone>
+  <!--Create a zone where your colonists will try to grow aquatic plants. Aquatic plants ignore terrain fertility but take a very long time to sow and harvest.\n\nThese zones can't be placed on oceanic (salty) water.-->
+  <VCE_AquaticGrowingZoneDesc>Створює зону, на якій ваші колоністи вирощуватимуть водні культури. Водні рослини ігнорують родючість місцевості, але потребують дуже багато часу для посіву та збору врожаю.\n\nЦі зони не можна розміщувати на океанічних водах (глибоководді).</VCE_AquaticGrowingZoneDesc>
+  
+  <!--Sand Growing Zone-->
+  <VCE_SandyGrowingZone>Піщана зона вирощування</VCE_SandyGrowingZone>
+  <!--Create a zone where your colonists will try to grow sandy terrain plants. Sand plants ignore terrain fertility but take a very long time to sow and harvest.-->
+  <VCE_SandyGrowingZoneDesc>Створює зону, на якій ваші колоністи вирощуватимуть культури, що ростуть на піску. Ці рослини ігнорують родючість ґрунту, але потребують дуже багато часу для посіву та збору врожаю.</VCE_SandyGrowingZoneDesc>
+  
+  <!--Not in equatorial region (in this planet, below {0} latitude). Growing normally.-->
+  <VCE_NotInEquator>Не в екваторіальному регіоні (на цій планеті, нижче {0} широти). Росте зі звичайною швидкістю.</VCE_NotInEquator>
+  <!--In equatorial region, growing 30% faster.-->
+  <VCE_InEquator>В екваторіальному регіоні, росте на 30% швидше.</VCE_InEquator>
+
+  <!--This plant needs to grow in shade: outside, but under a roof.-->
+  <VCE_NeedsShade>Ця рослина повинна рости в тіні: на відкритому повітрі, але під дахом.</VCE_NeedsShade>
+
+  <!--Apiary found nearby-->
+  <VCE_Pollinated>Неподалік знайдена пасіка</VCE_Pollinated>
+  <!--No apiary found in a 6 tiles radius (calculated on sowing)-->
+  <VCE_NotPollinated>В радіусі 6 тайлів не знайдено жодної пасіки (розраховано на час посіву)</VCE_NotPollinated>
+
+  <!--Carrots planted nearby: {0}/100-->
+  <VCE_CarrotsNearby>Поруч посаджена морква: {0}/100</VCE_CarrotsNearby>
+  <!--Green beans planted nearby: {0}/100-->
+  <VCE_BeansNearby>Поруч посаджена зелена квасоля: {0}/100</VCE_BeansNearby>
+  
+  <!--Growth reduced due to non-rocky terrain-->
+  <VCE_StuntedGrowthFertility>Зростання сповільнене через нескелястий рельєф</VCE_StuntedGrowthFertility>
+  <!--Growth impossible due to too fertile terrain-->
+  <VCE_StoppedGrowthFertility>Зростання неможливе через занадто родючий ґрунт</VCE_StoppedGrowthFertility>
+
+  <!--A body of water nearby is impeding this plant's growth-->
+  <VCE_WaterNearby>Водойма поблизу перешкоджає зростанню цієї рослини</VCE_WaterNearby>
+  <!--Lack of a body of water nearby is impeding this plant's growth-->
+  <VCE_NoWaterNearby>Відсутність поблизу водойми перешкоджає зростанню цієї рослини</VCE_NoWaterNearby>
+
+  <!--Too far away from the sea, no extra growth bonus-->
+  <VCE_NoSeaTilesNearby>Занадто далеко від моря – немає додаткового бонусу до швидкості росту</VCE_NoSeaTilesNearby>
+  <!--{0} sea tiles nearby, providing {0}% growth bonus-->
+  <VCE_SeaTilesNearby>{0} тайлів моря поблизу, що дають {0}% бонус до швидкості росту</VCE_SeaTilesNearby>
+</LanguageData>

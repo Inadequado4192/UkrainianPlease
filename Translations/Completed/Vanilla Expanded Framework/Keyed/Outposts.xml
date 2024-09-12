@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--Налаштування-->
+    <Outposts.Settings.Title>VEF - Застави</Outposts.Settings.Title>
+    <Outposts.Settings.Multiplier.Production>Глобальний множник виробництва: {0}</Outposts.Settings.Multiplier.Production>
+    <Outposts.Settings.Multiplier.Time>Глобальний множник часу виробництва: {0}</Outposts.Settings.Multiplier.Time>
+	<Outposts.Settings.DeliveryMethod>Спосіб доставки товарів з застав</Outposts.Settings.DeliveryMethod>
+    <Outposts.Settings.DeliveryMethod.Teleport>Телепортувати предмети до колонії</Outposts.Settings.DeliveryMethod.Teleport>
+    <Outposts.Settings.DeliveryMethod.PackAnimal>Відправити речі до колонії в'ючними тваринами</Outposts.Settings.DeliveryMethod.PackAnimal>
+    <Outposts.Settings.DeliveryMethod.Store>Зберігати речі на аванпості</Outposts.Settings.DeliveryMethod.Store>
+    <Outposts.Settings.DeliveryMethod.ForcePods>Завжди надсилати транспортні капсули</Outposts.Settings.DeliveryMethod.ForcePods>
+    <Outposts.Settings.DeliveryMethod.PackOrPods>Транспортні капсули, якщо доступні, інакше в'ючні тварини</Outposts.Settings.DeliveryMethod.PackOrPods>
+	<Outposts.Settings.DoRaids>Увімкнути рейди аванпостів?</Outposts.Settings.DoRaids>
+	<Outposts.Settings.RaidFrequency>Діапазон частот рейдів</Outposts.Settings.RaidFrequency>
+	<Outposts.Settings.RaidDifficulty>Глобальний множник складності рейдів: {0}</Outposts.Settings.RaidDifficulty>
+	<Outposts.Settings.Production>Множник виробництва</Outposts.Settings.Production>
+	<Outposts.Setting.ProductionTime>Час виробництва</Outposts.Setting.ProductionTime>
+    <Outposts.Setting.PackTime>Час пакування</Outposts.Setting.PackTime>
+    <Outposts.Setting.Range>Діапазон</Outposts.Setting.Range>
+    <Outposts.Setting.MinimumPawns>Мінімальна кількість поселенців для створення</Outposts.Setting.MinimumPawns>
+
+    <Outposts.Dialog.Create>Створити</Outposts.Dialog.Create>
+    <Outposts.Commands.Create.Label>Створити Заставу</Outposts.Commands.Create.Label>
+    <Outposts.Commands.Create.Desc>Створити нову заставу з цього каравану</Outposts.Commands.Create.Desc>
+    <Outposts.Commands.TakeItems.Label>Взяти предмети</Outposts.Commands.TakeItems.Label>
+    <Outposts.Commands.TakeItems.Desc>Взяти предмети з {0} та додати їх до каравану</Outposts.Commands.TakeItems.Desc>
+	<Outposts.Commands.GiveItems.Label>Дати предмети</Outposts.Commands.GiveItems.Label>
+    <Outposts.Commands.GiveItems.Desc>Передати предмети каравану заставі</Outposts.Commands.GiveItems.Desc>
+    <Outposts.Letters.Lost.Label>Застава зруйнована</Outposts.Letters.Lost.Label>
+    <Outposts.Letters.Lost.Text>На жаль, через загибель усіх мешканців, застава {0} була втрачена.</Outposts.Letters.Lost.Text>
+    <Outposts.Letters.BattleWon.Label>Битву за заставу виграно</Outposts.Letters.BattleWon.Label>
+    <Outposts.Letters.BattleWon.Text>Ми успішно виграли битву за {0}. {1}</Outposts.Letters.BattleWon.Text>
+	? <Outposts.Letters.BattleWon.Captured>За результатами, нам вдалося захопити {0}</Outposts.Letters.BattleWon.Captured>
+	? <Outposts.Letters.BattleWon.Rescued>Нам вдалося врятувати {0}.</Outposts.Letters.BattleWon.Rescued>
+	<Outposts.Letters.BattleWon.Secured>Ми захистили свої товари та зброю від рейдерів на суму: {0}</Outposts.Letters.BattleWon.Secured>
+    <Outposts.Letters.Items.Label>Предмети з {0}</Outposts.Letters.Items.Label>
+    <Outposts.Letters.Items.Text>Ви отримали наступні предмети з застави {0}:</Outposts.Letters.Items.Text>
+    <Outposts.Commands.AddPawn.Label>Залишити поселенця</Outposts.Commands.AddPawn.Label>
+    <Outposts.Commands.AddPawn.Desc>Залишити поселенця на цій заставі</Outposts.Commands.AddPawn.Desc>
+	<Outposts.Commands.DeliveryColony.Label>Пункт призначення</Outposts.Commands.DeliveryColony.Label>
+    <Outposts.Commands.DeliveryColony.Desc>Виберіть, яка колонія отримає товар. Наразі: {0}</Outposts.Commands.DeliveryColony.Desc>
+    <Outposts.Commands.Pack.Label>Збирати речі</Outposts.Commands.Pack.Label>
+    <Outposts.Commands.Pack.Desc>Почати збирати цей аванпост назад в караван</Outposts.Commands.Pack.Desc>
+    <Outposts.Commands.StopPack.Label>Припинити збирати речі</Outposts.Commands.StopPack.Label>
+    <Outposts.Commands.StopPack.Desc>Скасувати пакування цієї застави в караван</Outposts.Commands.StopPack.Desc>
+    <Outposts.Commands.Remove.Label>Забрати поселенця</Outposts.Commands.Remove.Label>
+    <Outposts.Commands.Remove.Desc>Забрати поселенця з цієї застави до нового каравану</Outposts.Commands.Remove.Desc>
+    <Outposts.Command.Remove.Only1>Не можна забрати поселенців - залишився тільки 1 житель. Якщо ви хочете видалити цей аванпост, виберіть "Збирати речі".</Outposts.Command.Remove.Only1>
+    <Outposts.Contains>Містить {0} колоніста/-ів</Outposts.Contains>
+    <Outposts.Packing>Пакування каравану. Готово на {0}</Outposts.Packing>
+    <Outposts.NotSkilledEnough>Недостатньо досвіду: сума навички {0} всіх поселенців має бути щонайменше {1}</Outposts.NotSkilledEnough>
+    <Outposts.RestingAt>Відпочіває у заставі {0}</Outposts.RestingAt>
+    <Outposts.WillProduce.0>Виробить деякі предмети через {0}</Outposts.WillProduce.0>
+    <Outposts.WillProduce.1>Виробить {0} {1} через {2}</Outposts.WillProduce.1>
+    <Outposts.WillProduce.2>Виробить {0} {1} та {2} {3} через {4}</Outposts.WillProduce.2>
+    ? <Outposts.WillProduce.N>Виробить наступні предмети через {0}:\n{1}</Outposts.WillProduce.N>
+    <Outposts.CannotBeMade>Не може бути розміщена в: {0}</Outposts.CannotBeMade>
+    <Outposts.NotEnoughPawns>Недостатньо поселенців в каравані. Потрібно як мінімум {0}</Outposts.NotEnoughPawns>
+    <Outposts.TotalSkill>Сума навички {0} поселенців на рівні: {1}</Outposts.TotalSkill>
+    <Outposts.TooClose>Занадто близько до поселення або іншої застави, між ними має бути щонайменше 1 тайл</Outposts.TooClose>
+    ? <Outposts.AddedFromTransportPods>Ваші транспортні капсули прибули. {0} додано до {1}.</Outposts.AddedFromTransportPods>
+    ? <Outposts.AddTo>Додати до застави</Outposts.AddTo>
+    ? <Outposts.SendNonPawns>Підтвердити відправку речей на заставу? Вони будуть безповоротно втрачені.</Outposts.SendNonPawns>
+    ? <Outposts.AlreadyPacking>Вже збирається</Outposts.AlreadyPacking>
+    <Outposts.Abandoned>Застава покинута</Outposts.Abandoned>
+    <Outposts.Abandoned.Desc>Застава {0} була покинута через те, що на ній не було нікого, хто міг би нею керувати. Вона дуже швидко буде розграбована і 'захоплена' природою, не залишивши жодних слідів того, що вона коли-небудь була там.</Outposts.Abandoned.Desc>
+    ? <Outposts.Take>Взяти</Outposts.Take>
+	? <Outposts.Give>Дати</Outposts.Give>
+    <Outposts.AllowedBiomes>Має бути в одному з наступних біомів:</Outposts.AllowedBiomes>
+    <Outposts.DisallowedBiomes>Не може бути в жодному з наступних біомів:</Outposts.DisallowedBiomes>
+    <Outposts.NumPawns>Має бути не менше {0} поселенців, які бажають приєднатися до застави</Outposts.NumPawns>
+    <Outposts.RequiredSkill>Сума профільної навички ({0}) всіх поселенців має бути щонайменше {1}</Outposts.RequiredSkill>
+    <Outposts.GrowingRequired>Має бути можливим вирощувати рослини</Outposts.GrowingRequired>
+    <Outposts.MustHaveInCaravan>В каравані потрібно мати {0}</Outposts.MustHaveInCaravan>
+    <Outposts.NoValidPawns>Немає доступних поселенців для додавання до застави</Outposts.NoValidPawns>
+    <Outposts.SkillChange>Через зміну в рівні навичок, {0} більше не виробляє {1}</Outposts.SkillChange>
+</LanguageData>

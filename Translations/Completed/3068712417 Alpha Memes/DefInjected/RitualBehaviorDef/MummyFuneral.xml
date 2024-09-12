@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Behavior -->
+
+  <AM_MummificationBehavior.spectatorFilter.description>Глядачі повинні бути живими.</AM_MummificationBehavior.spectatorFilter.description>
+  <AM_MummificationBehavior.roles.0.label>промовець</AM_MummificationBehavior.roles.0.label>
+  <AM_MummificationBehavior.roles.1.label>Тіло</AM_MummificationBehavior.roles.1.label>
+  <AM_MummificationBehavior.roles.2.label>будівельник</AM_MummificationBehavior.roles.2.label>
+  <AM_MummificationBehavior.stages.1.postAction.text>{0}: Промова закінчилася, і починається бальзамування.</AM_MummificationBehavior.stages.1.postAction.text>
+
+
+</LanguageData>

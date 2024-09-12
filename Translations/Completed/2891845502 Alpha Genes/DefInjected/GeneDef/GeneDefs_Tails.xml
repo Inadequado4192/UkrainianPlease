@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: demon tail -->
+  <AG_DemonTail.label>хвіст демона</AG_DemonTail.label>
+  <!-- EN: Carriers of this gene grow a large demon tail which can act as a dexterous fifth limb. -->
+  <AG_DemonTail.description>У носіїв цього гена виростає великий хвіст демона, який може виконувати роль спритної п'ятої кінцівки.</AG_DemonTail.description>
+  
+  <!-- EN: fox tail -->
+  <AG_FoxTail.label>хвіст лисиці</AG_FoxTail.label>
+  <!-- EN: Carriers of this gene grow a large fox tail which partially protects them from cold temperatures. -->
+  <AG_FoxTail.description>Носії цього гена вирощують великий хвіст лисиці, який частково захищає їх від низьких температур.</AG_FoxTail.description>
+  
+</LanguageData>

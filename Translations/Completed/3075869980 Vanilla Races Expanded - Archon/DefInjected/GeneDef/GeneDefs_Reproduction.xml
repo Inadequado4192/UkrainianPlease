@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_LongPregnancy.label>довготривала вагітність</VRE_LongPregnancy.label>
+  <VRE_LongPregnancy.description>Носіям цього гена потрібно вдвічі більше часу для розвитку дитини під час вагітності. Вагітність триває три гексаместри - 36 днів.</VRE_LongPregnancy.description>
+
+  <VRE_ShortPregnancy.label>нетривала вагітність</VRE_ShortPregnancy.label>
+  <VRE_ShortPregnancy.description>У носіїв цього гена дитина під час вагітності розвивається набагато швидше. Вагітність триває 3 біместри - 12 днів.</VRE_ShortPregnancy.description>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gash -->
+  <Gash.label>рана</Gash.label>
+  <!-- EN: A ragged cut that bleeds profusely. -->
+  <Gash.description>Рвана рана, яка рясно кровоточить.</Gash.description>
+  <!-- EN: bandaged -->
+  <Gash.comps.HediffComp_TendDuration.labelTendedWell>перев'язаний</Gash.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Gash.comps.HediffComp_TendDuration.labelTendedWellInner>зашитий</Gash.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: gash scar -->
+  <Gash.comps.HediffComp_GetsPermanent.permanentLabel>шрам від порізу</Gash.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <Gash.injuryProps.destroyedLabel>відрізано</Gash.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <Gash.injuryProps.destroyedOutLabel>вирізано</Gash.injuryProps.destroyedOutLabel>
+  <!-- EN: a bleeding gash -->
+  <Gash.labelNoun>рана, що кровоточить</Gash.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Gash.labelNounPretty>{0} в {1}</Gash.labelNounPretty>
+  
+</LanguageData>

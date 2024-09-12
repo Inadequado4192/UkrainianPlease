@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: There is one law in Revian worlds, and that is the rule of the strong. Defending one's property is typically undertaken in person. However, occasionally the elites might see the defence of their lands as being too tedious to do oneself. [PAWN_nameDef] is a Shadow Guard, a private military contractor tasked to guard a secure compound. -->
+  <ReviaRaceBackstoryAdultShadowGuard.baseDesc>У ревіанських світах діє один закон - право сильного. Захищати свою власність, як правило, доводиться особисто. Однак іноді еліта може вважати захист своїх земель занадто нудною справою, щоб робити це самостійно. [PAWN_nameDef] - Тіньовий страж, приватний військовий підрядник, {PAWN_gender ? якому : якій} доручено охороняти безпечний об'єкт.</ReviaRaceBackstoryAdultShadowGuard.baseDesc>
+  <!-- EN: Revian Shadow Guard -->
+  <ReviaRaceBackstoryAdultShadowGuard.title>Ревійський Тіньовий Страж</ReviaRaceBackstoryAdultShadowGuard.title>
+  <!-- EN: Guard -->
+  <ReviaRaceBackstoryAdultShadowGuard.titleShort>Страж</ReviaRaceBackstoryAdultShadowGuard.titleShort>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Issue -->
+
+  <AM_AnimalSlaughter_Desired.label>бажано</AM_AnimalSlaughter_Desired.label>
+  <AM_AnimalSlaughter_Desired.description>Огидні генетично модифіковані творіння людства повинні бути знищені. Ми не маємо жодних докорів сумління щодо споживання їхнього м'яса, доки ми полюємо на них у дикій природі.</AM_AnimalSlaughter_Desired.description>
+  <AM_AnimalSlaughter_Desired.comps.1.description>Хтось зарізав тварину</AM_AnimalSlaughter_Desired.comps.1.description>
+
+
+</LanguageData>

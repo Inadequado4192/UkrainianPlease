@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: master psychic -->
+  <AG_PsychicAbility_Masterful.label>майстер псионік</AG_PsychicAbility_Masterful.label>
+  <!-- EN: Carriers of this gene have extraordinary psychic abilities. -->
+  <AG_PsychicAbility_Masterful.description>Носії цього гена мають надзвичайні психічні здібності.</AG_PsychicAbility_Masterful.description>
+  <!-- EN: Creates a constant psychic soothe that makes nearby colonists that don't have this same gene happy. -->
+  <AG_PsychicAbility_Masterful.customEffectDescriptions.0>Створює постійне психічне заспокоєння, яке робить щасливими сусідніх колоністів, які не мають цього гена.</AG_PsychicAbility_Masterful.customEffectDescriptions.0>
+  <!-- EN: animus -->
+  <AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.0.symbol>анімус</AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: senso -->
+  <AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.1.symbol>сенсо</AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sensi -->
+  <AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.2.symbol>чуттєвий</AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.2.symbol>
+  
+</LanguageData>

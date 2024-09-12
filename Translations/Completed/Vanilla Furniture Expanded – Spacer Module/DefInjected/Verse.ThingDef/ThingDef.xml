@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <Bed_AdvBed.label>просунуте ліжко</Bed_AdvBed.label>
+  <Bed_AdvBed.description>Високотехнологічне ліжко з електроприводом, яке автоматично підлаштовується під контури сплячого, з вбудованою функцією генерації білого шуму. Користувачі часто повідомляють, що на ранок відчувають себе бадьорими та більш енергійними.</Bed_AdvBed.description>
+  
+  <Bed_AdvDoubleBed.label>двоспальне просунуте ліжко</Bed_AdvDoubleBed.label>
+  <Bed_AdvDoubleBed.description>Високотехнологічне двоспальне ліжко з електроприводом, яке автоматично підлаштовується під контури сплячого, з вбудованою функцією генерації білого шуму. Користувачі часто повідомляють, що на ранок відчувають себе бадьорими та більш енергійними.</Bed_AdvDoubleBed.description>
+  
+  <Table_IlluminatedEndTable.label>тумбочка з підсвіткою</Table_IlluminatedEndTable.label>
+  <Table_IlluminatedEndTable.description>Маленька тумбочка, прикрашена світловими смужками, яка додає комфорту сусіднім ліжкам і водночас освітлює кімнату. Повинна розташовуватися безпосередньо біля узголів'я ліжка. Розміщення більше одніої тумби біля одного ліжка не має жодного ефекту.</Table_IlluminatedEndTable.description>
+  
+  <Table_IlluminatedDresser.label>комод з підсвіткою</Table_IlluminatedDresser.label>
+  <Table_IlluminatedDresser.description>Комод з підсвіткою, прикрашений світловими смужками. Дає невеликий бонус комфорту всім сусіднім ліжкам, одночасно освітлюючи кімнату. Розміщення більше одного комода біля одного ліжка не надає жодного ефекту.</Table_IlluminatedDresser.description>
+  
+  <UltrascreenTV.label>ультраширокий телевізор</UltrascreenTV.label>
+  <UltrascreenTV.description>Величезний, вигнутий, ультратехнологічний телевізор. При перегляді, глядач відчуває, що він сам є частиною шоу. Дуже цікаво. Здатний приймати сигнал з основних світів.</UltrascreenTV.description>
+  
+  <Light_SpacerLamp.label>футуристична лампа</Light_SpacerLamp.label>
+  <Light_SpacerLamp.description>Потужна просунута лампа для ефективного освітлення приміщень з інтегрованим модулем регулювання температури, який підтримує температуру в приміщенні на рівні не вище 15°C. Передові технології блискосвітів убезпечують наносхеми пристрою від потрапляння води, що дозволяє лампі безпечно працювати навіть під зливою.</Light_SpacerLamp.description>
+  
+  <Shelf_RepairRack.label>ремонтний стелаж</Shelf_RepairRack.label>
+  <Shelf_RepairRack.description>Високотехнологічний стелаж, що використовує механітів для повільного ремонту пошкоджень, будь-якого типу, на одязі, броні чи зброї, розміщених на ньому.</Shelf_RepairRack.description>
+  
+  <Spacer_OutdoorLamp.label>вулична еколампа</Spacer_OutdoorLamp.label>
+  <Spacer_OutdoorLamp.description>Автономна лампа для зовнішнього використання, слабша за звичайну промислову лампу, але не потребує електроенергії, накопичуючи її протягом дня, щоб живити себе 24/7. Просунута форма для захисту внутрішніх компонентів дозволяє їй працювати навіть під дощем.</Spacer_OutdoorLamp.description>
+  
+  <Seat_AdvChair.label>просунутий стілець</Seat_AdvChair.label>
+  <Seat_AdvChair.description>Просунутий стілець, який автоматично змінюється у відповідь на фігуру сидячого, забезпечуючи оптимальну підтримку спини в будь-який час і значно підвищуючи комфорт. Максимальна розкіш.</Seat_AdvChair.description>
+  
+  <Table_interactive_1x1c.label>інтерактивний стіл (1x1)</Table_interactive_1x1c.label>
+  <Table_interactive_1x1c.description>Стіл для прийому їжі з інтерактивним дисплеєм для перегляду шоу, ігор або нотаток під час їжі. Задовольняє потребу у відпочинку, коли поселенець їсть за цим столом, за умови, що стіл заживлений.</Table_interactive_1x1c.description>
+  
+  <Table_interactive_2x2c.label>інтерактивний стіл (2x2)</Table_interactive_2x2c.label>
+  <Table_interactive_2x2c.description>Стіл для прийому їжі з інтерактивним дисплеєм для перегляду шоу, ігор або нотаток під час їжі. Задовольняє потребу у відпочинку, коли поселенець їсть за цим столом, за умови, що стіл заживлений.</Table_interactive_2x2c.description>
+</LanguageData>

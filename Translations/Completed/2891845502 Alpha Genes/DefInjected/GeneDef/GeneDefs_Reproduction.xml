@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: egg laying -->
+  <AG_EggLaying.label>яйцекладка</AG_EggLaying.label>
+  <!-- EN: Carriers of this gene will reproduce oviparously, which is as disgusting as it sounds. This has its advantages and disadvantages. -->
+  <AG_EggLaying.description>Носії цього гена розмножуватимуться яйцеподібно, як би огидно це не звучало. Це має свої переваги та недоліки.</AG_EggLaying.description>
+  <!-- EN: Mother won't be subject to pregnancy moods, morning sickness, etc. -->
+  <AG_EggLaying.customEffectDescriptions.0>Мама не буде схильна до вагітних настроїв, ранкової нудоти тощо.</AG_EggLaying.customEffectDescriptions.0>
+  <!-- EN: Once laid, the egg will be vulnerable until hatching. Human eggs are not edible. -->
+  <AG_EggLaying.customEffectDescriptions.1>Після відкладання яйце буде вразливим до моменту вилуплення. Людські яйця не їстівні.</AG_EggLaying.customEffectDescriptions.1>
+  <!-- EN: The whole process takes longer (24 days total). -->
+  <AG_EggLaying.customEffectDescriptions.2>Весь процес займає більше часу (загалом 24 дні).</AG_EggLaying.customEffectDescriptions.2>
+  
+  <!-- EN: fast gestation -->
+  <AG_FastGestation.label>швидка вагітність</AG_FastGestation.label>
+  <!-- EN: Carriers of this gene will have shorter gestation periods by 25%. -->
+  <AG_FastGestation.description>Носії цього гена матимуть на 25% коротший термін вагітності.</AG_FastGestation.description>
+  
+  <!-- EN: slow gestation -->
+  <AG_SlowGestation.label>повільна вагітність</AG_SlowGestation.label>
+  <!-- EN: Carriers of this gene will have longer gestation periods by 25%. -->
+  <AG_SlowGestation.description>Носії цього гена матимуть на 25% довший термін вагітності.</AG_SlowGestation.description>
+  
+</LanguageData>

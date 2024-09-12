@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Storytellers Expanded - RimWorld Rick</name>
+        <id>2787762549</id>
+        <packageId>vanillaexpanded.storytellers.rick</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3180553862</sourceTranslationId>
+    <lastUpdate>2024-03-12T15:06:21.000Z</lastUpdate>
+</TranslationDetails>

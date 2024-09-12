@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	<!-- <VFE_Prop_Ancient_ShipChunk.shortLabel></VFE_Prop_Ancient_ShipChunk.shortLabel> -->
+	<!-- <VFE_Prop_Ancient_ShipPart.shortLabel></VFE_Prop_Ancient_ShipPart.shortLabel> -->
+	<VFE_Prop_Ancient_ShipPartDefoliator.shortLabel>дефоліат.</VFE_Prop_Ancient_ShipPartDefoliator.shortLabel>
+	<VFE_Prop_Ancient_68.shortLabel>бетонний бар'єр</VFE_Prop_Ancient_68.shortLabel>
+	<VFE_Prop_Ancient_69.shortLabel>ліхтарний стовп</VFE_Prop_Ancient_69.shortLabel>
+	<!-- <VFE_Prop_Ancient_70.shortLabel></VFE_Prop_Ancient_70.shortLabel> -->
+	<VFE_Prop_Ancient_71.shortLabel>капсула криптосну</VFE_Prop_Ancient_71.shortLabel>
+	<VFE_Prop_Ancient_72.shortLabel>лампа</VFE_Prop_Ancient_72.shortLabel>
+	
+	<!-- <VFE_Prop_Borders_1.shortLabel></VFE_Prop_Borders_1.shortLabel> -->
+	<!-- <VFE_Prop_Borders_2.shortLabel></VFE_Prop_Borders_2.shortLabel> -->
+	<!-- <VFE_Prop_Borders_3.shortLabel></VFE_Prop_Borders_3.shortLabel> -->
+	<!-- <VFE_Prop_Borders_4.shortLabel></VFE_Prop_Borders_4.shortLabel> -->
+	<!-- <VFE_Prop_Borders_5.shortLabel></VFE_Prop_Borders_5.shortLabel> -->
+	<!-- <VFE_Prop_Borders_6.shortLabel></VFE_Prop_Borders_6.shortLabel> -->
+	<!-- <VFE_Prop_Borders_7.shortLabel></VFE_Prop_Borders_7.shortLabel> -->
+	<!-- <VFE_Prop_Borders_8.shortLabel></VFE_Prop_Borders_8.shortLabel> -->
+	<!-- <VFE_Prop_Borders_9.shortLabel></VFE_Prop_Borders_9.shortLabel> -->
+	<!-- <VFE_Prop_Borders_10.shortLabel></VFE_Prop_Borders_10.shortLabel> -->
+	<VFE_Prop_Borders_11.shortLabel>попередж. бордюр</VFE_Prop_Borders_11.shortLabel>
+	<VFE_Prop_Borders_12.shortLabel>попередж. бордюр – куточок</VFE_Prop_Borders_12.shortLabel>
+
+	<!-- <VFE_Prop_Effecter_1.shortLabel>чистка</VFE_Prop_Effecter_1.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_2.shortLabel>фарбування</VFE_Prop_Effecter_2.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_3.shortLabel>будування – метал</VFE_Prop_Effecter_3.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_4.shortLabel>будування – дерево</VFE_Prop_Effecter_4.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_5.shortLabel>будування – бруд</VFE_Prop_Effecter_5.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_6.shortLabel>поховання</VFE_Prop_Effecter_6.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_7.shortLabel>покрівельні роботи</VFE_Prop_Effecter_7.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_8.shortLabel>вживання м'яса</VFE_Prop_Effecter_8.shortLabel> -->
+	<VFE_Prop_Effecter_8Bis.shortLabel>вживання вег. їжі</VFE_Prop_Effecter_8Bis.shortLabel>
+	<!-- <VFE_Prop_Effecter_9.shortLabel>буріння</VFE_Prop_Effecter_9.shortLabel> -->
+	<VFE_Prop_Effecter_10.shortLabel>дослідж.</VFE_Prop_Effecter_10.shortLabel>
+	<!-- <VFE_Prop_Effecter_11.shortLabel>чистка снігу</VFE_Prop_Effecter_11.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_12.shortLabel>сіяння</VFE_Prop_Effecter_12.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_13.shortLabel>жнивацтво</VFE_Prop_Effecter_13.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_14.shortLabel>блювання</VFE_Prop_Effecter_14.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_15.shortLabel>гра в покер</VFE_Prop_Effecter_15.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_16.shortLabel>вимкнено ЕМІ</VFE_Prop_Effecter_16.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_17.shortLabel>операція</VFE_Prop_Effecter_17.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_18.shortLabel>розбирання механоїду</VFE_Prop_Effecter_18.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_19.shortLabel>ремонт</VFE_Prop_Effecter_19.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_20.shortLabel>дим</VFE_Prop_Effecter_20.shortLabel> -->
+	<VFE_Prop_Effecter_21.shortLabel>горіння акум.</VFE_Prop_Effecter_21.shortLabel>
+	<VFE_Prop_Effecter_22.shortLabel>іскри акум.</VFE_Prop_Effecter_22.shortLabel>
+	<!-- <VFE_Prop_Effecter_23.shortLabel>кам'яні шматки</VFE_Prop_Effecter_23.shortLabel> -->
+	<VFE_Prop_Effecter_24.shortLabel>куховар.</VFE_Prop_Effecter_24.shortLabel>
+	<!-- <VFE_Prop_Effecter_25.shortLabel>фальшивий вогонь</VFE_Prop_Effecter_25.shortLabel> -->
+	<!-- <VFE_Prop_Effecter_26.shortLabel>великий фальшивий вогонь</VFE_Prop_Effecter_26.shortLabel> -->
+
+	<VFE_Prop_Farm_1.shortLabel>порожні ящики</VFE_Prop_Farm_1.shortLabel>
+	<!-- <VFE_Prop_Farm_2.shortLabel></VFE_Prop_Farm_2.shortLabel> -->
+	<!-- <VFE_Prop_Farm_3.shortLabel></VFE_Prop_Farm_3.shortLabel> -->
+	<!-- <VFE_Prop_Farm_4.shortLabel></VFE_Prop_Farm_4.shortLabel> -->
+	<!-- <VFE_Prop_Farm_5.shortLabel></VFE_Prop_Farm_5.shortLabel> -->
+	<VFE_Prop_Farm_6.shortLabel>вел. штабель колод</VFE_Prop_Farm_6.shortLabel>
+	<!-- <VFE_Prop_Farm_7.shortLabel></VFE_Prop_Farm_7.shortLabel> -->
+	<!-- <VFE_Prop_Farm_8.shortLabel></VFE_Prop_Farm_8.shortLabel> -->
+	
+	<!-- <VFE_Prop_Filth_1.shortLabel></VFE_Prop_Filth_1.shortLabel> -->
+	<!-- <VFE_Prop_Filth_2.shortLabel></VFE_Prop_Filth_2.shortLabel> -->
+	<!-- <VFE_Prop_Filth_3.shortLabel></VFE_Prop_Filth_3.shortLabel> -->
+	<!-- <VFE_Prop_Filth_4.shortLabel></VFE_Prop_Filth_4.shortLabel> -->
+	<!-- <VFE_Prop_Filth_5.shortLabel></VFE_Prop_Filth_5.shortLabel> -->
+	<!-- <VFE_Prop_Filth_6.shortLabel></VFE_Prop_Filth_6.shortLabel> -->
+	<!-- <VFE_Prop_Filth_7.shortLabel></VFE_Prop_Filth_7.shortLabel> -->
+	<!-- <VFE_Prop_Filth_8.shortLabel></VFE_Prop_Filth_8.shortLabel> -->
+	<!-- <VFE_Prop_Filth_9.shortLabel></VFE_Prop_Filth_9.shortLabel> -->
+	<!-- <VFE_Prop_Filth_10.shortLabel></VFE_Prop_Filth_10.shortLabel> -->
+	<!-- <VFE_Prop_Filth_11.shortLabel></VFE_Prop_Filth_11.shortLabel> -->
+	<!-- <VFE_Prop_Filth_12.shortLabel></VFE_Prop_Filth_12.shortLabel> -->
+	<!-- <VFE_Prop_Filth_13.shortLabel></VFE_Prop_Filth_13.shortLabel> -->
+	<!-- <VFE_Prop_Filth_14.shortLabel></VFE_Prop_Filth_14.shortLabel> -->
+	<!-- <VFE_Prop_Filth_15.shortLabel></VFE_Prop_Filth_15.shortLabel> -->
+	<!-- <VFE_Prop_Filth_16.shortLabel></VFE_Prop_Filth_16.shortLabel> -->
+	<!-- <VFE_Prop_Filth_17.shortLabel></VFE_Prop_Filth_17.shortLabel> -->
+
+	<!-- <VFE_Prop_Furniture_FakeDoor.shortLabel></VFE_Prop_Furniture_FakeDoor.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_FakeFlapDoor.shortLabel></VFE_Prop_Furniture_FakeFlapDoor.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_FakeAutoDoor.shortLabel></VFE_Prop_Furniture_FakeAutoDoor.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_FakeFenceDoor.shortLabel></VFE_Prop_Furniture_FakeFenceDoor.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_FakeColumn.shortLabel></VFE_Prop_Furniture_FakeColumn.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_1.shortLabel></VFE_Prop_Furniture_1.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_2.shortLabel></VFE_Prop_Furniture_2.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_3.shortLabel></VFE_Prop_Furniture_3.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_4.shortLabel></VFE_Prop_Furniture_4.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_5.shortLabel></VFE_Prop_Furniture_5.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_6.shortLabel></VFE_Prop_Furniture_6.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_7.shortLabel></VFE_Prop_Furniture_7.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_8.shortLabel></VFE_Prop_Furniture_8.shortLabel> -->
+	<VFE_Prop_Furniture_9.shortLabel>низ. буфет з тарілками</VFE_Prop_Furniture_9.shortLabel>
+	<!-- <VFE_Prop_Furniture_10.shortLabel></VFE_Prop_Furniture_10.shortLabel> -->
+	<VFE_Prop_Furniture_11.shortLabel>журн. столик (2х1)</VFE_Prop_Furniture_11.shortLabel>
+	<VFE_Prop_Furniture_12.shortLabel>журн. столик (1х1)</VFE_Prop_Furniture_12.shortLabel>
+	<!-- <VFE_Prop_Furniture_13.shortLabel></VFE_Prop_Furniture_13.shortLabel> -->
+	<VFE_Prop_Furniture_14.shortLabel>дощата експопан.</VFE_Prop_Furniture_14.shortLabel>
+	<!-- <VFE_Prop_Furniture_15.shortLabel></VFE_Prop_Furniture_15.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_16.shortLabel></VFE_Prop_Furniture_16.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_17.shortLabel></VFE_Prop_Furniture_17.shortLabel> -->
+	<!-- <VFE_Prop_Furniture_18.shortLabel></VFE_Prop_Furniture_18.shortLabel> -->
+	<VFE_Prop_Furniture_19.shortLabel>стелаж з коробками</VFE_Prop_Furniture_19.shortLabel>
+	<VFE_Prop_Furniture_Sarcophagus.shortLabel>саркофаг</VFE_Prop_Furniture_Sarcophagus.shortLabel>
+	<VFE_Prop_Furniture_Grave.shortLabel>могила</VFE_Prop_Furniture_Grave.shortLabel>
+	
+	<!-- <VFE_Prop_Industrial_Pipes.shortLabel></VFE_Prop_Industrial_Pipes.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_1.shortLabel></VFE_Prop_Industrial_1.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_2.shortLabel></VFE_Prop_Industrial_2.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_3.shortLabel></VFE_Prop_Industrial_3.shortLabel> -->
+	<VFE_Prop_Industrial_4.shortLabel>велика коробка</VFE_Prop_Industrial_4.shortLabel>
+	<VFE_Prop_Industrial_5.shortLabel>маленька коробка</VFE_Prop_Industrial_5.shortLabel>
+	<!-- <VFE_Prop_Industrial_6.shortLabel></VFE_Prop_Industrial_6.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_7.shortLabel></VFE_Prop_Industrial_7.shortLabel> -->
+	<VFE_Prop_Industrial_8.shortLabel>піддон з коробками</VFE_Prop_Industrial_8.shortLabel>
+	<!-- <VFE_Prop_Industrial_9.shortLabel></VFE_Prop_Industrial_9.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_10.shortLabel></VFE_Prop_Industrial_10.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_11.shortLabel></VFE_Prop_Industrial_11.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_12.shortLabel></VFE_Prop_Industrial_12.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_13.shortLabel></VFE_Prop_Industrial_13.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_14.shortLabel></VFE_Prop_Industrial_14.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_15.shortLabel></VFE_Prop_Industrial_15.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_16.shortLabel></VFE_Prop_Industrial_16.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_17.shortLabel></VFE_Prop_Industrial_17.shortLabel> -->
+	<VFE_Prop_Industrial_18.shortLabel>вент. шахта</VFE_Prop_Industrial_18.shortLabel>
+	<VFE_Prop_Industrial_19.shortLabel>ел. щиток</VFE_Prop_Industrial_19.shortLabel>
+	<!-- <VFE_Prop_Industrial_20.shortLabel></VFE_Prop_Industrial_20.shortLabel> -->
+	<!-- <VFE_Prop_Industrial_21.shortLabel></VFE_Prop_Industrial_21.shortLabel> -->
+
+	<!-- <VFE_Prop_Kitchen_1.shortLabel></VFE_Prop_Kitchen_1.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_2.shortLabel></VFE_Prop_Kitchen_2.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_3.shortLabel></VFE_Prop_Kitchen_3.shortLabel> -->
+	<VFE_Prop_Kitchen_4.shortLabel>мікрохв.</VFE_Prop_Kitchen_4.shortLabel>
+	<!-- <VFE_Prop_Kitchen_5.shortLabel></VFE_Prop_Kitchen_5.shortLabel> -->
+	<VFE_Prop_Kitchen_6.shortLabel>холод.</VFE_Prop_Kitchen_6.shortLabel>
+	<!-- <VFE_Prop_Kitchen_7.shortLabel></VFE_Prop_Kitchen_7.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_8.shortLabel></VFE_Prop_Kitchen_8.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_9.shortLabel></VFE_Prop_Kitchen_9.shortLabel> -->
+	<VFE_Prop_Kitchen_10.shortLabel>пуста тумбочка</VFE_Prop_Kitchen_10.shortLabel>
+	<!-- <VFE_Prop_Kitchen_11.shortLabel></VFE_Prop_Kitchen_11.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_12.shortLabel></VFE_Prop_Kitchen_12.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_13.shortLabel></VFE_Prop_Kitchen_13.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_13Pan.shortLabel></VFE_Prop_Kitchen_13Pan.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_14.shortLabel></VFE_Prop_Kitchen_14.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_15.shortLabel></VFE_Prop_Kitchen_15.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_16.shortLabel></VFE_Prop_Kitchen_16.shortLabel> -->
+	<!-- <VFE_Prop_Kitchen_17.shortLabel></VFE_Prop_Kitchen_17.shortLabel> -->
+
+	<!-- <VFE_Prop_Medieval_1.shortLabel></VFE_Prop_Medieval_1.shortLabel> -->
+	<!-- <VFE_Prop_Medieval_2.shortLabel></VFE_Prop_Medieval_2.shortLabel> -->
+	<!-- <VFE_Prop_Medieval_3.shortLabel></VFE_Prop_Medieval_3.shortLabel> -->
+	<VFE_Prop_Medieval_4.shortLabel>порожня підставка</VFE_Prop_Medieval_4.shortLabel>
+	<VFE_Prop_Medieval_5.shortLabel>підставка</VFE_Prop_Medieval_5.shortLabel>
+	<!-- <VFE_Prop_Medieval_6.shortLabel></VFE_Prop_Medieval_6.shortLabel> -->
+	<!-- <VFE_Prop_Medieval_7.shortLabel></VFE_Prop_Medieval_7.shortLabel> -->
+	<!-- <VFE_Prop_Medieval_8.shortLabel></VFE_Prop_Medieval_8.shortLabel> -->
+	<!-- <VFE_Prop_Medieval_9.shortLabel></VFE_Prop_Medieval_9.shortLabel> -->
+	<!-- <VFE_Prop_Medieval_10.shortLabel></VFE_Prop_Medieval_10.shortLabel> -->
+	<!-- <VFE_Prop_Medieval_11.shortLabel></VFE_Prop_Medieval_11.shortLabel> -->
+	<VFE_Prop_Medieval_12.shortLabel>велика скриня</VFE_Prop_Medieval_12.shortLabel>
+	<VFE_Prop_Medieval_13.shortLabel>порожня стійка</VFE_Prop_Medieval_13.shortLabel>
+	<VFE_Prop_Medieval_14.shortLabel>стійка з мечами</VFE_Prop_Medieval_14.shortLabel>
+	<VFE_Prop_Medieval_15.shortLabel>стійка зі списами</VFE_Prop_Medieval_15.shortLabel>
+	<!-- <VFE_Prop_Medieval_16.shortLabel></VFE_Prop_Medieval_16.shortLabel> -->
+	<!-- <VFE_Prop_Medieval_17.shortLabel></VFE_Prop_Medieval_17.shortLabel> -->
+	<!-- <VFE_Prop_Medieval_18.shortLabel></VFE_Prop_Medieval_18.shortLabel> -->
+	
+	<VFE_Prop_Misc_2.shortLabel>сніговик</VFE_Prop_Misc_2.shortLabel>
+	<!-- <VFE_Prop_Misc_3.shortLabel></VFE_Prop_Misc_3.shortLabel> -->
+	<VFE_Prop_Misc_4.shortLabel>вулик</VFE_Prop_Misc_4.shortLabel>
+	<VFE_Prop_Misc_5.shortLabel>яскравий кокон</VFE_Prop_Misc_5.shortLabel>
+	<VFE_Prop_Misc_6.shortLabel>паровий гейзер</VFE_Prop_Misc_6.shortLabel>
+	<VFE_Prop_Misc_Bridge.shortLabel>опора мосту</VFE_Prop_Misc_Bridge.shortLabel>
+
+	<!-- <VFE_Prop_Plants_1.shortLabel></VFE_Prop_Plants_1.shortLabel> -->
+	<!-- <VFE_Prop_Plants_2.shortLabel></VFE_Prop_Plants_2.shortLabel> -->
+	<!-- <VFE_Prop_Plants_3.shortLabel></VFE_Prop_Plants_3.shortLabel> -->
+	<!-- <VFE_Prop_Plants_4.shortLabel></VFE_Prop_Plants_4.shortLabel> -->
+	<!-- <VFE_Prop_Plants_5.shortLabel></VFE_Prop_Plants_5.shortLabel> -->
+	<!-- <VFE_Prop_Plants_6.shortLabel></VFE_Prop_Plants_6.shortLabel> -->
+	<!-- <VFE_Prop_Plants_7.shortLabel></VFE_Prop_Plants_7.shortLabel> -->
+	<!-- <VFE_Prop_Plants_8.shortLabel></VFE_Prop_Plants_8.shortLabel> -->
+	<!-- <VFE_Prop_Plants_9.shortLabel></VFE_Prop_Plants_9.shortLabel> -->
+	<!-- <VFE_Prop_Plants_10.shortLabel></VFE_Prop_Plants_10.shortLabel> -->
+	<!-- <VFE_Prop_Plants_11.shortLabel></VFE_Prop_Plants_11.shortLabel> -->
+	<!-- <VFE_Prop_Plants_12.shortLabel></VFE_Prop_Plants_12.shortLabel> -->
+	<!-- <VFE_Prop_Plants_13.shortLabel></VFE_Prop_Plants_13.shortLabel> -->
+	<!-- <VFE_Prop_Plants_14.shortLabel></VFE_Prop_Plants_14.shortLabel> -->
+	<!-- <VFE_Prop_Plants_15.shortLabel></VFE_Prop_Plants_15.shortLabel> -->
+	<!-- <VFE_Prop_Plants_16.shortLabel></VFE_Prop_Plants_16.shortLabel> -->
+	<!-- <VFE_Prop_Plants_17.shortLabel></VFE_Prop_Plants_17.shortLabel> -->
+	<!-- <VFE_Prop_Plants_18.shortLabel></VFE_Prop_Plants_18.shortLabel> -->
+	<!-- <VFE_Prop_Plants_19.shortLabel></VFE_Prop_Plants_19.shortLabel> -->
+	<!-- <VFE_Prop_Plants_20.shortLabel></VFE_Prop_Plants_20.shortLabel> -->
+	<!-- <VFE_Prop_Plants_21.shortLabel></VFE_Prop_Plants_21.shortLabel> -->
+	<!-- <VFE_Prop_Plants_22.shortLabel></VFE_Prop_Plants_22.shortLabel> -->
+	<!-- <VFE_Prop_Plants_23.shortLabel></VFE_Prop_Plants_23.shortLabel> -->
+	<!-- <VFE_Prop_Plants_24.shortLabel></VFE_Prop_Plants_24.shortLabel> -->
+	<!-- <VFE_Prop_Plants_25.shortLabel></VFE_Prop_Plants_25.shortLabel> -->
+	<!-- <VFE_Prop_Plants_26.shortLabel></VFE_Prop_Plants_26.shortLabel> -->
+	<!-- <VFE_Prop_Plants_27.shortLabel></VFE_Prop_Plants_27.shortLabel> -->
+	<!-- <VFE_Prop_Plants_28.shortLabel></VFE_Prop_Plants_28.shortLabel> -->
+	<!-- <VFE_Prop_Plants_29.shortLabel></VFE_Prop_Plants_29.shortLabel> -->
+	<!-- <VFE_Prop_Plants_30.shortLabel></VFE_Prop_Plants_30.shortLabel> -->
+	<!-- <VFE_Prop_Plants_31.shortLabel></VFE_Prop_Plants_31.shortLabel> -->
+	<!-- <VFE_Prop_Plants_32.shortLabel></VFE_Prop_Plants_32.shortLabel> -->
+	<VFE_Prop_Plants_33.shortLabel>кактус голечник</VFE_Prop_Plants_33.shortLabel>
+	<!-- <VFE_Prop_Plants_34.shortLabel></VFE_Prop_Plants_34.shortLabel> -->
+	<!-- <VFE_Prop_Plants_35.shortLabel></VFE_Prop_Plants_35.shortLabel> -->
+	<!-- <VFE_Prop_Plants_36.shortLabel></VFE_Prop_Plants_36.shortLabel> -->
+	<!-- <VFE_Prop_Plants_37.shortLabel></VFE_Prop_Plants_37.shortLabel> -->
+	<!-- <VFE_Prop_Plants_38.shortLabel></VFE_Prop_Plants_38.shortLabel> -->
+	<!-- <VFE_Prop_Plants_39.shortLabel></VFE_Prop_Plants_39.shortLabel> -->
+	<!-- <VFE_Prop_Plants_40.shortLabel></VFE_Prop_Plants_40.shortLabel> -->
+	<!-- <VFE_Prop_Plants_41.shortLabel></VFE_Prop_Plants_41.shortLabel> -->
+
+	<VFE_Prop_Power_1.shortLabel>сталевий бак</VFE_Prop_Power_1.shortLabel>
+	<VFE_Prop_Power_2.shortLabel>бак хімпалива</VFE_Prop_Power_2.shortLabel>
+	<VFE_Prop_Power_3.shortLabel>бак для рідин</VFE_Prop_Power_3.shortLabel>
+	<!-- <VFE_Prop_Power_4.shortLabel></VFE_Prop_Power_4.shortLabel> -->
+	<!-- <VFE_Prop_Power_5.shortLabel></VFE_Prop_Power_5.shortLabel> -->
+	<!-- <VFE_Prop_Power_6.shortLabel></VFE_Prop_Power_6.shortLabel> -->
+	<!-- <VFE_Prop_Power_7.shortLabel></VFE_Prop_Power_7.shortLabel> -->
+	<!-- <VFE_Prop_Power_8.shortLabel></VFE_Prop_Power_8.shortLabel> -->
+	<!-- <VFE_Prop_Power_9.shortLabel></VFE_Prop_Power_9.shortLabel> -->
+	<VFE_Prop_Power_10.shortLabel>пром. генератор</VFE_Prop_Power_10.shortLabel>
+	<VFE_Prop_Power_11.shortLabel>генератор</VFE_Prop_Power_11.shortLabel>
+	<VFE_Prop_Power_12.shortLabel>малий генератор</VFE_Prop_Power_12.shortLabel>
+	<VFE_Prop_Power_13.shortLabel>газосх.</VFE_Prop_Power_13.shortLabel>
+	<!-- <VFE_Prop_Power_14.shortLabel></VFE_Prop_Power_14.shortLabel> -->
+	<VFE_Prop_Power_15.shortLabel>трансформ.</VFE_Prop_Power_15.shortLabel>
+	<!-- <VFE_Prop_Power_16.shortLabel></VFE_Prop_Power_16.shortLabel> -->
+	<VFE_Prop_Power_17.shortLabel>стовп електроп.</VFE_Prop_Power_17.shortLabel>
+
+	<VFE_Prop_Spacer_1.shortLabel>консоль</VFE_Prop_Spacer_1.shortLabel>
+	<!-- <VFE_Prop_Spacer_2.shortLabel></VFE_Prop_Spacer_2.shortLabel> -->
+	<!-- <VFE_Prop_Spacer_3.shortLabel></VFE_Prop_Spacer_3.shortLabel> -->
+	<!-- <VFE_Prop_Spacer_4.shortLabel></VFE_Prop_Spacer_4.shortLabel> -->
+	<!-- <VFE_Prop_Spacer_4Small.shortLabel></VFE_Prop_Spacer_4Small.shortLabel> -->
+	<VFE_Prop_Spacer_5.shortLabel>довга консоль</VFE_Prop_Spacer_5.shortLabel>
+	<!-- <VFE_Prop_Spacer_6.shortLabel></VFE_Prop_Spacer_6.shortLabel> -->
+	<!-- <VFE_Prop_Spacer_7.shortLabel></VFE_Prop_Spacer_7.shortLabel> -->
+	<!-- <VFE_Prop_Spacer_7Alternate.shortLabel></VFE_Prop_Spacer_7Alternate.shortLabel> -->
+	<VFE_Prop_Spacer_8.shortLabel>потрійний дисплей</VFE_Prop_Spacer_8.shortLabel>
+	<VFE_Prop_Spacer_8Single.shortLabel>одинарний дисплей</VFE_Prop_Spacer_8Single.shortLabel>
+	<!-- <VFE_Prop_Spacer_9.shortLabel></VFE_Prop_Spacer_9.shortLabel> -->
+	<VFE_Prop_Spacer_10.shortLabel>великий контейнер</VFE_Prop_Spacer_10.shortLabel>
+	<VFE_Prop_Spacer_11.shortLabel>стос контейнер.</VFE_Prop_Spacer_11.shortLabel>
+	<VFE_Prop_Spacer_12.shortLabel>накоп. даних</VFE_Prop_Spacer_12.shortLabel>
+	<!-- <VFE_Prop_Spacer_13.shortLabel></VFE_Prop_Spacer_13.shortLabel> -->
+	<!-- <VFE_Prop_Spacer_14.shortLabel></VFE_Prop_Spacer_14.shortLabel> -->
+	<!-- <VFE_Prop_Spacer_14Alternate.shortLabel></VFE_Prop_Spacer_14Alternate.shortLabel> -->
+	<!-- <VFE_Prop_Spacer_14AlternateTwo.shortLabel></VFE_Prop_Spacer_14AlternateTwo.shortLabel> -->
+	<!-- <VFE_Prop_Spacer_15.shortLabel></VFE_Prop_Spacer_15.shortLabel> -->
+	<!-- <VFE_Prop_Spacer_16.shortLabel></VFE_Prop_Spacer_16.shortLabel> -->
+	
+	<VFE_Prop_Spaceships_1.shortLabel>суперкап.</VFE_Prop_Spaceships_1.shortLabel>
+	<!-- <VFE_Prop_Spaceships_2.shortLabel></VFE_Prop_Spaceships_2.shortLabel> -->
+	<!-- <VFE_Prop_Spaceships_3.shortLabel></VFE_Prop_Spaceships_3.shortLabel> -->
+	
+	<VFE_Prop_Vehicles_1.shortLabel>навантаж.</VFE_Prop_Vehicles_1.shortLabel>
+	<!-- <VFE_Prop_Vehicles_2.shortLabel></VFE_Prop_Vehicles_2.shortLabel> -->
+	<!-- <VFE_Prop_Vehicles_3.shortLabel></VFE_Prop_Vehicles_3.shortLabel> -->
+	<!-- <VFE_Prop_Vehicles_4.shortLabel></VFE_Prop_Vehicles_4.shortLabel> -->
+	<!-- <VFE_Prop_Vehicles_5.shortLabel></VFE_Prop_Vehicles_5.shortLabel> -->
+	
+	<VFE_Prop_Workshop_1.shortLabel>хай-тек стіл</VFE_Prop_Workshop_1.shortLabel>
+	<!-- <VFE_Prop_Workshop_2.shortLabel></VFE_Prop_Workshop_2.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_3.shortLabel></VFE_Prop_Workshop_3.shortLabel> -->
+	<VFE_Prop_Workshop_4.shortLabel>порожній верстак для вироб.</VFE_Prop_Workshop_4.shortLabel>
+	<VFE_Prop_Workshop_5.shortLabel>порожній дослід. стіл</VFE_Prop_Workshop_5.shortLabel>
+	<!-- <VFE_Prop_Workshop_6.shortLabel></VFE_Prop_Workshop_6.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_7.shortLabel></VFE_Prop_Workshop_7.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_8.shortLabel></VFE_Prop_Workshop_8.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_9.shortLabel></VFE_Prop_Workshop_9.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_10.shortLabel></VFE_Prop_Workshop_10.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_11.shortLabel></VFE_Prop_Workshop_11.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_12.shortLabel></VFE_Prop_Workshop_12.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_13.shortLabel></VFE_Prop_Workshop_13.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_14.shortLabel></VFE_Prop_Workshop_14.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_15.shortLabel></VFE_Prop_Workshop_15.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_16.shortLabel></VFE_Prop_Workshop_16.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_16Alternate.shortLabel></VFE_Prop_Workshop_16Alternate.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_17.shortLabel></VFE_Prop_Workshop_17.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_18.shortLabel></VFE_Prop_Workshop_18.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_19Single.shortLabel></VFE_Prop_Workshop_19Single.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_19.shortLabel></VFE_Prop_Workshop_19.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_19Double.shortLabel></VFE_Prop_Workshop_19Double.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_SingleBeaker.shortLabel></VFE_Prop_Workshop_SingleBeaker.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_20.shortLabel></VFE_Prop_Workshop_20.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_21.shortLabel></VFE_Prop_Workshop_21.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_22.shortLabel></VFE_Prop_Workshop_22.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_23.shortLabel></VFE_Prop_Workshop_23.shortLabel> -->
+	<VFE_Prop_Workshop_24.shortLabel>вел. бочка біопалив. заводу</VFE_Prop_Workshop_24.shortLabel>
+	<VFE_Prop_Workshop_25.shortLabel>вел. бочка біопалив. заводу</VFE_Prop_Workshop_25.shortLabel>
+	<VFE_Prop_Workshop_26.shortLabel>сер. бочка біопалив. заводу</VFE_Prop_Workshop_26.shortLabel>
+	<VFE_Prop_Workshop_27.shortLabel>сер. бочка біопалив. заводу</VFE_Prop_Workshop_27.shortLabel>
+	<VFE_Prop_Workshop_28.shortLabel>мала бочка біопалив. заводу</VFE_Prop_Workshop_28.shortLabel>
+	<!-- <VFE_Prop_Workshop_29.shortLabel></VFE_Prop_Workshop_29.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_30.shortLabel></VFE_Prop_Workshop_30.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_31.shortLabel></VFE_Prop_Workshop_31.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_32.shortLabel></VFE_Prop_Workshop_32.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_33.shortLabel></VFE_Prop_Workshop_33.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_34.shortLabel></VFE_Prop_Workshop_34.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_35.shortLabel></VFE_Prop_Workshop_35.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_36.shortLabel></VFE_Prop_Workshop_36.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_37.shortLabel></VFE_Prop_Workshop_37.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_38.shortLabel></VFE_Prop_Workshop_38.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_39.shortLabel></VFE_Prop_Workshop_39.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_40.shortLabel></VFE_Prop_Workshop_40.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_41.shortLabel></VFE_Prop_Workshop_41.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_42.shortLabel></VFE_Prop_Workshop_42.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_43.shortLabel></VFE_Prop_Workshop_43.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_44.shortLabel></VFE_Prop_Workshop_44.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_45.shortLabel></VFE_Prop_Workshop_45.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_46.shortLabel></VFE_Prop_Workshop_46.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_47.shortLabel></VFE_Prop_Workshop_47.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_48.shortLabel></VFE_Prop_Workshop_48.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_49.shortLabel></VFE_Prop_Workshop_49.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_50.shortLabel></VFE_Prop_Workshop_50.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_51.shortLabel></VFE_Prop_Workshop_51.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_52.shortLabel></VFE_Prop_Workshop_52.shortLabel> -->
+	<VFE_Prop_Workshop_53.shortLabel>недор. пістолет</VFE_Prop_Workshop_53.shortLabel>
+	<!-- <VFE_Prop_Workshop_54.shortLabel></VFE_Prop_Workshop_54.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_55.shortLabel></VFE_Prop_Workshop_55.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_56.shortLabel></VFE_Prop_Workshop_56.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_57.shortLabel></VFE_Prop_Workshop_57.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_58.shortLabel></VFE_Prop_Workshop_58.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_59.shortLabel></VFE_Prop_Workshop_59.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_60.shortLabel></VFE_Prop_Workshop_60.shortLabel> -->
+	<VFE_Prop_Workshop_61.shortLabel>вимір. потенціалу</VFE_Prop_Workshop_61.shortLabel>
+	<VFE_Prop_Workshop_62.shortLabel>переобл. піч</VFE_Prop_Workshop_62.shortLabel>
+	<VFE_Prop_Workshop_63.shortLabel>дослід. база даних</VFE_Prop_Workshop_63.shortLabel>
+	<VFE_Prop_Workshop_64.shortLabel>дослід. структура</VFE_Prop_Workshop_64.shortLabel>
+	<VFE_Prop_Workshop_65.shortLabel>дослід. структура</VFE_Prop_Workshop_65.shortLabel>
+	<!-- <VFE_Prop_Workshop_66.shortLabel></VFE_Prop_Workshop_66.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_67.shortLabel></VFE_Prop_Workshop_67.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_68.shortLabel></VFE_Prop_Workshop_68.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_69.shortLabel></VFE_Prop_Workshop_69.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_70.shortLabel></VFE_Prop_Workshop_70.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_71.shortLabel></VFE_Prop_Workshop_71.shortLabel> -->
+	<VFE_Prop_Workshop_72.shortLabel>малий вент. отвір</VFE_Prop_Workshop_72.shortLabel>
+	<!-- <VFE_Prop_Workshop_73.shortLabel></VFE_Prop_Workshop_73.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_74.shortLabel></VFE_Prop_Workshop_74.shortLabel> -->
+	<VFE_Prop_Workshop_75.shortLabel>шліфув. машина</VFE_Prop_Workshop_75.shortLabel>
+	<!-- <VFE_Prop_Workshop_76.shortLabel></VFE_Prop_Workshop_76.shortLabel> -->
+	<VFE_Prop_Workshop_77.shortLabel>вент. отвір</VFE_Prop_Workshop_77.shortLabel>
+	<!-- <VFE_Prop_Workshop_78.shortLabel></VFE_Prop_Workshop_78.shortLabel> -->
+	<!-- <VFE_Prop_Workshop_79.shortLabel></VFE_Prop_Workshop_79.shortLabel> -->
+	<VFE_Prop_Workshop_80.shortLabel>лоток для інстр.</VFE_Prop_Workshop_80.shortLabel>
+	<VFE_Prop_Workshop_81.shortLabel>незакінч. крав. роб.</VFE_Prop_Workshop_81.shortLabel>
+	<!-- <VFE_Prop_Workshop_82.shortLabel></VFE_Prop_Workshop_82.shortLabel> -->
+
+	<VFE_Prop_Decals_DecalArrowLeft.shortLabel>стрілка – ліворуч</VFE_Prop_Decals_DecalArrowLeft.shortLabel>
+	<VFE_Prop_Decals_DecalArrowRight.shortLabel>стрілка – праворуч</VFE_Prop_Decals_DecalArrowRight.shortLabel>
+	<VFE_Prop_Decals_DecalArrowBoth.shortLabel>стрілка – обидві сторони</VFE_Prop_Decals_DecalArrowBoth.shortLabel>
+	<VFE_Prop_Decals_DecalArrowDouble.shortLabel>стрілка – подвійна</VFE_Prop_Decals_DecalArrowDouble.shortLabel>
+	<VFE_Prop_Decals_DecalArrowLeftStraight.shortLabel>стрілка – ліворуч/прямо</VFE_Prop_Decals_DecalArrowLeftStraight.shortLabel>
+	<VFE_Prop_Decals_DecalArrowRightStraight.shortLabel>стрілка – праворуч/прямо</VFE_Prop_Decals_DecalArrowRightStraight.shortLabel>
+	<VFE_Prop_Decals_DecalArrowThreeWays.shortLabel>стрілка – в три сторони</VFE_Prop_Decals_DecalArrowThreeWays.shortLabel>
+	<VFE_Prop_Decals_5.shortLabel>подв. смуга – вн. кут</VFE_Prop_Decals_5.shortLabel>
+	<VFE_Prop_Decals_5Round.shortLabel>подв. смуга – вн. кут, круглий</VFE_Prop_Decals_5Round.shortLabel>
+	<VFE_Prop_Decals_6.shortLabel>подв. смуга – зов. кут</VFE_Prop_Decals_6.shortLabel>
+	<VFE_Prop_Decals_6Round.shortLabel>подв. смуга – зов. кут, круглий</VFE_Prop_Decals_6Round.shortLabel>
+	<VFE_Prop_Decals_8.shortLabel>розд. смуга – вн. кут</VFE_Prop_Decals_8.shortLabel>
+	<VFE_Prop_Decals_8Round.shortLabel>розд. смуга – вн. кут, круглий</VFE_Prop_Decals_8Round.shortLabel>
+	<VFE_Prop_Decals_8Diagonal.shortLabel>розд. смуга – вн. кут, діаг.</VFE_Prop_Decals_8Diagonal.shortLabel>
+	<VFE_Prop_Decals_9.shortLabel>розд. смуга – зов. кут</VFE_Prop_Decals_9.shortLabel>
+	<VFE_Prop_Decals_9Round.shortLabel>розд. смуга – зов. кут, круглий</VFE_Prop_Decals_9Round.shortLabel>
+	<VFE_Prop_Decals_9Diagonal.shortLabel>розд. смуга – зов. кут, діаг.</VFE_Prop_Decals_9Diagonal.shortLabel>
+	<VFE_Prop_Decals_ThinCentered.shortLabel>розд. смуга – центр</VFE_Prop_Decals_ThinCentered.shortLabel>
+	<VFE_Prop_Decals_ThinCenteredCorner.shortLabel>розд. смуга – центр, кут</VFE_Prop_Decals_ThinCenteredCorner.shortLabel>
+	<VFE_Prop_Decals_ThinCenteredDiagonal.shortLabel>розд. смуга – центр, діаг.</VFE_Prop_Decals_ThinCenteredDiagonal.shortLabel>
+	<VFE_Prop_Decals_ThinCenteredRound.shortLabel>розд. смуга – центр, круг.</VFE_Prop_Decals_ThinCenteredRound.shortLabel>
+	<VFE_Prop_Decals_FakeStairs.shortLabel>фальшиві сходи</VFE_Prop_Decals_FakeStairs.shortLabel>
+	<VFE_Prop_Decals_FakeStairsCorner.shortLabel>фальшиві сходи – кут</VFE_Prop_Decals_FakeStairsCorner.shortLabel>
+	
+	<VFE_Prop_LargeDecals_2.shortLabel>вел. коротка стрілка</VFE_Prop_LargeDecals_2.shortLabel>
+	<VFE_Prop_LargeDecals_3.shortLabel>вел. широка стрілка</VFE_Prop_LargeDecals_3.shortLabel>
+	<VFE_Prop_LargeDecals_DecalArrowLeft.shortLabel>вел. стрілка – ліворуч</VFE_Prop_LargeDecals_DecalArrowLeft.shortLabel>
+	<VFE_Prop_LargeDecals_DecalArrowRight.shortLabel>вел. стрілка – праворуч</VFE_Prop_LargeDecals_DecalArrowRight.shortLabel>
+	<VFE_Prop_LargeDecals_DecalArrowBoth.shortLabel>вел. стрілка – обидві сторони</VFE_Prop_LargeDecals_DecalArrowBoth.shortLabel>
+	<VFE_Prop_LargeDecals_DecalArrowDouble.shortLabel>вел. стрілка – подвійна</VFE_Prop_LargeDecals_DecalArrowDouble.shortLabel>
+	<VFE_Prop_LargeDecals_DecalArrowLeftStraight.shortLabel>вел. стрілка – ліворуч/прямо</VFE_Prop_LargeDecals_DecalArrowLeftStraight.shortLabel>
+	<VFE_Prop_LargeDecals_DecalArrowRightStraight.shortLabel>вел. стрілка – праворуч/прямо</VFE_Prop_LargeDecals_DecalArrowRightStraight.shortLabel>
+	<VFE_Prop_LargeDecals_DecalArrowThreeWays.shortLabel>вел. стрілка – в три сторони</VFE_Prop_LargeDecals_DecalArrowThreeWays.shortLabel>
+	<VFE_Prop_LargeDecals_5.shortLabel>вел. смуга – вн. кут</VFE_Prop_LargeDecals_5.shortLabel>
+	<VFE_Prop_LargeDecals_5Round.shortLabel>вел. подв. смуга – вн. кут, круглий</VFE_Prop_LargeDecals_5Round.shortLabel>
+	<VFE_Prop_LargeDecals_6.shortLabel>вел. подв. смуга – зов. кут</VFE_Prop_LargeDecals_6.shortLabel>
+	<VFE_Prop_LargeDecals_6Round.shortLabel>вел. подв. смуга – зов. кут, круглий</VFE_Prop_LargeDecals_6Round.shortLabel>
+	<VFE_Prop_LargeDecals_7Diagonal.shortLabel>вел. діаг.</VFE_Prop_LargeDecals_7Diagonal.shortLabel>
+	<VFE_Prop_LargeDecals_8.shortLabel>вел. розд. смуга – вн. кут</VFE_Prop_LargeDecals_8.shortLabel>
+	<VFE_Prop_LargeDecals_8Round.shortLabel>вел. розд. смуга – вн. кут, круглий</VFE_Prop_LargeDecals_8Round.shortLabel>
+	<VFE_Prop_LargeDecals_8Diagonal.shortLabel>розд. смуга – вн. кут, діаг.</VFE_Prop_LargeDecals_8Diagonal.shortLabel>
+	<VFE_Prop_LargeDecals_9.shortLabel>вел. розд. смуга – зов. кут</VFE_Prop_LargeDecals_9.shortLabel>
+	<VFE_Prop_LargeDecals_9Round.shortLabel>вел. розд. смуга – зов. кут, круглий</VFE_Prop_LargeDecals_9Round.shortLabel>
+	<VFE_Prop_LargeDecals_9Diagonal.shortLabel>вел. розд. смуга – зов. кут, діаг.</VFE_Prop_LargeDecals_9Diagonal.shortLabel>
+	<VFE_Prop_LargeDecals_ThinCentered.shortLabel>вел. розд. смуга – центр</VFE_Prop_LargeDecals_ThinCentered.shortLabel>
+	<VFE_Prop_LargeDecals_ThinCenteredCorner.shortLabel>вел. розд. смуга – центр, кут</VFE_Prop_LargeDecals_ThinCenteredCorner.shortLabel>
+	<VFE_Prop_LargeDecals_ThinCenteredDiagonal.shortLabel>вел. розд. смуга – центр, діаг.</VFE_Prop_LargeDecals_ThinCenteredDiagonal.shortLabel>
+	<VFE_Prop_LargeDecals_ThinCenteredRound.shortLabel>вел. розд. смуга – центр, круг.</VFE_Prop_LargeDecals_ThinCenteredRound.shortLabel>
+	<VFE_Prop_LargeDecals_FakeStairs.shortLabel>вел. фальшиві сходи</VFE_Prop_LargeDecals_FakeStairs.shortLabel>
+	<VFE_Prop_LargeDecals_FakeStairsCorner.shortLabel>вел. фальшиві сходи – кут</VFE_Prop_LargeDecals_FakeStairsCorner.shortLabel>
+	
+	<VFE_Prop_LargeDecals_45.shortLabel>вел. напис "Armory"</VFE_Prop_LargeDecals_45.shortLabel>
+	<VFE_Prop_LargeDecals_46.shortLabel>вел. напис "Barracks"</VFE_Prop_LargeDecals_46.shortLabel>
+	<VFE_Prop_LargeDecals_48.shortLabel>вел. напис "Cafeteria"</VFE_Prop_LargeDecals_48.shortLabel>
+	<VFE_Prop_LargeDecals_50.shortLabel>вел. напис "Chamber"</VFE_Prop_LargeDecals_50.shortLabel>
+	<VFE_Prop_LargeDecals_51.shortLabel>вел. напис "Climate"</VFE_Prop_LargeDecals_51.shortLabel>
+	<VFE_Prop_LargeDecals_52.shortLabel>вел. напис "Command"</VFE_Prop_LargeDecals_52.shortLabel>
+	<VFE_Prop_LargeDecals_53.shortLabel>вел. напис "Control"</VFE_Prop_LargeDecals_53.shortLabel>
+	<VFE_Prop_LargeDecals_54.shortLabel>вел. напис "Engineer"</VFE_Prop_LargeDecals_54.shortLabel>
+	<VFE_Prop_LargeDecals_55.shortLabel>вел. напис "Farming"</VFE_Prop_LargeDecals_55.shortLabel>
+	<VFE_Prop_LargeDecals_56.shortLabel>вел. напис "Freezer"</VFE_Prop_LargeDecals_56.shortLabel>
+	<VFE_Prop_LargeDecals_58.shortLabel>вел. напис "Hangar"</VFE_Prop_LargeDecals_58.shortLabel>
+	<VFE_Prop_LargeDecals_59.shortLabel>вел. напис "Hospital"</VFE_Prop_LargeDecals_59.shortLabel>
+	<VFE_Prop_LargeDecals_61.shortLabel>вел. напис "Kitchen"</VFE_Prop_LargeDecals_61.shortLabel>
+	<VFE_Prop_LargeDecals_62.shortLabel>вел. напис "Landing"</VFE_Prop_LargeDecals_62.shortLabel>
+	<VFE_Prop_LargeDecals_63.shortLabel>вел. напис "Medical"</VFE_Prop_LargeDecals_63.shortLabel>
+	<VFE_Prop_LargeDecals_65.shortLabel>вел. напис "Morgue"</VFE_Prop_LargeDecals_65.shortLabel>
+	<VFE_Prop_LargeDecals_66.shortLabel>вел. напис "Mortar"</VFE_Prop_LargeDecals_66.shortLabel>
+	<VFE_Prop_LargeDecals_69.shortLabel>вел. напис "Reactor"</VFE_Prop_LargeDecals_69.shortLabel>
+	<VFE_Prop_LargeDecals_70.shortLabel>вел. напис "Recreation"</VFE_Prop_LargeDecals_70.shortLabel>
+	<VFE_Prop_LargeDecals_71.shortLabel>вел. напис "Refinery"</VFE_Prop_LargeDecals_71.shortLabel>
+	<VFE_Prop_LargeDecals_73.shortLabel>вел. напис "Research"</VFE_Prop_LargeDecals_73.shortLabel>
+	<VFE_Prop_LargeDecals_74.shortLabel>вел. напис "Security"</VFE_Prop_LargeDecals_74.shortLabel>
+	<VFE_Prop_LargeDecals_75.shortLabel>вел. напис "Shipping"</VFE_Prop_LargeDecals_75.shortLabel>
+	<VFE_Prop_LargeDecals_76.shortLabel>вел. напис "Sleeping"</VFE_Prop_LargeDecals_76.shortLabel>
+	<VFE_Prop_LargeDecals_77.shortLabel>вел. напис "Smelting"</VFE_Prop_LargeDecals_77.shortLabel>
+	<VFE_Prop_LargeDecals_78.shortLabel>вел. напис "Storage"</VFE_Prop_LargeDecals_78.shortLabel>
+	<VFE_Prop_LargeDecals_79.shortLabel>вел. напис "Warning"</VFE_Prop_LargeDecals_79.shortLabel>
+	<VFE_Prop_LargeDecals_80.shortLabel>вел. напис "Workshop"</VFE_Prop_LargeDecals_80.shortLabel>
+</LanguageData>

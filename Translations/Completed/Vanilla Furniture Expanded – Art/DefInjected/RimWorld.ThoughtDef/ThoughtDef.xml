@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFE_ArchotechSculptureImprint.stages.imprinted_with_art.label>зачарован{PAWN_gender ? ий : а} мистецтвом</VFE_ArchotechSculptureImprint.stages.imprinted_with_art.label>
+  <VFE_ArchotechSculptureImprint.stages.imprinted_with_art.description>Скульптура архотехів змушує мене постійно бачити прекрасні витвори мистецтва. Це розслабляє мене.</VFE_ArchotechSculptureImprint.stages.imprinted_with_art.description>
+</LanguageData>

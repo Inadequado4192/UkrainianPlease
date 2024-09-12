@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Furniture Expanded - Medical Module</name>
+        <id>1718191613</id>
+        <packageId>vanillaexpanded.vfemedical</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3172633718</sourceTranslationId>
+    <lastUpdate>2024-03-03T20:13:17.000Z</lastUpdate>
+</TranslationDetails>

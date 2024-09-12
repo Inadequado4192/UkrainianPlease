@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Hover over any element to read a help text about it to the right. All settings can be changed in-game and are active immediately, they are saved with the game.\n\nTo set defaults for new games, change the settings from the main screen (Options/Mod Settings/Zombieland). -->
+    <Zombieland_Settings>Наведіть курсор на будь-який елемент, щоб прочитати текст довідки про нього праворуч. Всі налаштування можна змінити в грі та одразу ж зробити активними, вони зберігаються разом з грою.\n\nЩоб встановити налаштування за замовчуванням для нових ігор, змініть налаштування на головному екрані (Options/Mod Settings/Zombieland).</Zombieland_Settings>
+    <!-- EN: You can add keyframes that define settings in time. Use the slider to check the values in-between. Only settings for keyframes can be edited. -->
+    <ZombieLandKeyframes>Ви можете додавати ключові кадри, які визначають налаштування в часі. Використовуйте повзунок, щоб перевірити значення між ними. Редагувати можна лише налаштування ключових кадрів.</ZombieLandKeyframes>
+    <!-- EN: <- first keyframe (start of the game) . . . future game time -> -->
+    <ZombieLandKeyframe0>&lt;- перший ключовий кадр (початок гри) . . . майбутній час гри -></ZombieLandKeyframe0>
+    <!-- EN: Controls the difficulty of almost all things in Zombieland like zombie abilities, threat forecast and much more. -->
+    <Difficulty_ZombielandThreatScale_Info>Контролює складність майже всіх речей у Zombieland, таких як здібності зомбі, прогноз загрози та багато іншого.</Difficulty_ZombielandThreatScale_Info>
+    <!-- EN: Zombieland threat scale -->
+    <Difficulty_ZombielandThreatScale_Label>Шкала загрози Zombieland</Difficulty_ZombielandThreatScale_Label>
+    <!-- EN: Suicide bomber zombie -->
+    <ZombieSuicideBomber>Зомбі-смертник</ZombieSuicideBomber>
+    <!-- EN: Toxic splasher zombie -->
+    <ZombieToxicSplasher>Токсичний зомбі-розбризкувач</ZombieToxicSplasher>
+    <!-- EN: Tank breacher zombie -->
+    <ZombieTanky>Зомбі-танк</ZombieTanky>
+    <!-- EN: Miner zombie -->
+    <ZombieMiner>Зомбі-шахтар</ZombieMiner>
+    <!-- EN: Electrifier zombie -->
+    <ZombieElectrifier>Наелектризований зомбі</ZombieElectrifier>
+    <!-- EN: Albino zombie -->
+    <ZombieAlbino>Зомбі-альбінос</ZombieAlbino>
+    <!-- EN: Dark slimer zombie -->
+    <ZombieDarkSlimer>Темний стрункий зомбі</ZombieDarkSlimer>
+    <!-- EN: Healer zombie -->
+    <ZombieHealer>Зомбі-цілитель</ZombieHealer>
+    <!-- EN: Zombie child -->
+    <ZombieChild>Зомбі-дитина</ZombieChild>
+    <!-- EN: Weak zombie -->
+    <ZombieWeak>Слабкий зомбі</ZombieWeak>
+    <!-- EN: Strong zombie -->
+    <ZombieStrong>Сильний зомбі</ZombieStrong>
+    <!-- EN: Simple zombie -->
+    <ZombieSimple>Простий зомбі</ZombieSimple>
+    <!-- EN: Zombie attack -->
+    <LetterLabelZombiesRising>Атака зомбі</LetterLabelZombiesRising>
+    <!-- EN: A group of zombies appears -->
+    <ZombiesRising>З'являється група зомбі</ZombiesRising>
+    <!-- EN: Direct attack of zombies -->
+    <LetterLabelZombiesRisingNearYourBase>Пряма атака зомбі</LetterLabelZombiesRisingNearYourBase>
+    <!-- EN: A group of zombies appears near your base -->
+    <ZombiesRisingNearYourBase>Біля вашої бази з'являється група зомбі</ZombiesRisingNearYourBase>
+    <!-- EN: Zombie spitter attack -->
+    <LetterLabelZombiesSpitter>Атака зомбі-плюваки</LetterLabelZombiesSpitter>
+    <!-- EN: A zombie spitter has entered the map and will siege you -->
+    <ZombiesSpitter>Зомбі-плюваки з'явився на карті та візьме вас в облогу</ZombiesSpitter>
+    <!-- EN: {0} until Zombies come -->
+    <LetterLabelXDaysUntilZombies>{0} поки не прийдуть зомбі</LetterLabelXDaysUntilZombies>
+    <!-- EN: Zombies will appear where there is soft soil, dirt, sand or gravel. The construction of floors prevents those zombies from coming out of there. -->
+    <XDaysUntilZombies>Зомбі з'являться там, де є м'який ґрунт, бруд, пісок або гравій. Конструкція підлог не дозволяє цим зомбі вийти звідти.</XDaysUntilZombies>
+    <!-- EN: Zombieland defaults -->
+    <ZombielandDefaultSettings>Zombieland за замовчуванням</ZombielandDefaultSettings>
+    <!-- EN: Zombieland settings -->
+    <ZombielandGameSettings>Налаштування Zombieland</ZombielandGameSettings>
+    <!-- EN: Jump to now -->
+    <JumpToNow>Перейти до тепер</JumpToNow>
+    <!-- EN: Advanced Settings -->
+    <AdvancedSettings>Розширені налаштування</AdvancedSettings>
+    <!-- EN: seasons -->
+    <Seasons>сезонів</Seasons>
+    <!-- EN: years -->
+    <Years>років</Years>
+    <!-- EN: Overall Difficulty -->
+    <ZombielandDifficultyTitle>Загальна складність</ZombielandDifficultyTitle>
+    <!-- EN: Threat scale -->
+    <ZombielandDifficulty>Масштаб загрози</ZombielandDifficulty>
+    <!-- EN: Contamination -->
+    <ZombielandContaminationTitle>Зараження</ZombielandContaminationTitle>
+    <!-- EN: Globally enabled -->
+    <ContaminationEnabled>Глобально увімкнено</ContaminationEnabled>
+    <!-- EN: Changing this setting requires a restart of RimWorld -->
+    <ZombielandRestartRequired>Зміна цього параметра вимагає перезапуску RimWorld</ZombielandRestartRequired>
+    <!-- EN: Intensity -->
+    <ZombielandContamination>Інтенсивність</ZombielandContamination>
+    <!-- EN: Total effectiveness {0}% -->
+    <ContaminationEffectiveness>Загальна ефективність {0}%</ContaminationEffectiveness>
+    <!-- EN: When do zombies appear? -->
+    <WhenDoZombiesSpawn>Коли з'являються зомбі?</WhenDoZombiesSpawn>
+    <!-- EN: All the time -->
+    <SpawnWhenType_AllTheTime>Весь час</SpawnWhenType_AllTheTime>
+    <!-- EN: When it is dark -->
+    <SpawnWhenType_WhenDark>Коли настає темрява</SpawnWhenType_WhenDark>
+    <!-- EN: Only as events -->
+    <SpawnWhenType_InEventsOnly>Тільки як події</SpawnWhenType_InEventsOnly>
+    <!-- EN: From where do zombies come? -->
+    <HowDoZombiesSpawn>Звідки беруться зомбі?</HowDoZombiesSpawn>
+    <!-- EN: Where there is soft ground -->
+    <SpawnHowType_AllOverTheMap>Там, де м'який ґрунт</SpawnHowType_AllOverTheMap>
+    <!-- EN: From the map edges -->
+    <SpawnHowType_FromTheEdges>З країв карти</SpawnHowType_FromTheEdges>
+    <!-- EN: Movement Style -->
+    <SmartWandering>Стиль руху</SmartWandering>
+    <!-- EN: Random -->
+    <SmartWandering_Random>Випадковий</SmartWandering_Random>
+    <!-- EN: Simple -->
+    <SmartWandering_Simple>Простий</SmartWandering_Simple>
+    <!-- EN: Smart -->
+    <SmartWandering_Smart>Розумний</SmartWandering_Smart>
+    <!-- EN: Biomes without zombies -->
+    <BlacklistedBiomes>Біоми без зомбі</BlacklistedBiomes>
+    <!-- EN: Biomes -->
+    <Biomes>Біоми</Biomes>
+    <!-- EN: What will zombies attack? -->
+    <WhatDoZombiesAttack>На що будуть нападати зомбі?</WhatDoZombiesAttack>
+    <!-- EN: All creatures -->
+    <AttackMode_Everything>Всі істоти</AttackMode_Everything>
+    <!-- EN: Human-like creatures -->
+    <AttackMode_OnlyHumans>Людиноподібні істоти</AttackMode_OnlyHumans>
+    <!-- EN: Only colonists -->
+    <AttackMode_OnlyColonists>Тільки колоністи</AttackMode_OnlyColonists>
+    <!-- EN: Enemies attack zombies -->
+    <EnemiesAttackZombies>Вороги атакують зомбі</EnemiesAttackZombies>
+    <!-- EN: Animals attack zombies -->
+    <AnimalsAttackZombies>Тварини атакують на зомбі</AnimalsAttackZombies>
+    <!-- EN: What will zombies destroy? -->
+    <WhatDoZombiesSmash>Що будуть знищувати зомбі?</WhatDoZombiesSmash>
+    <!-- EN: Nothing -->
+    <SmashMode_Nothing>Нічого</SmashMode_Nothing>
+    <!-- EN: Only doors -->
+    <SmashMode_DoorsOnly>Лише двері</SmashMode_DoorsOnly>
+    <!-- EN: Everything that was built -->
+    <SmashMode_AnyBuilding>Все, що було побудовано</SmashMode_AnyBuilding>
+    <!-- EN: Only when they are agitated -->
+    <SmashOnlyWhenAgitated>Тільки коли вони схвильовані</SmashOnlyWhenAgitated>
+    <!-- EN: New game -->
+    <NewGameTitle>Нова гра</NewGameTitle>
+    <!-- EN: Days until zombies come -->
+    <DaysBeforeZombiesCome>Днів до приходу зомбі</DaysBeforeZombiesCome>
+    <!-- EN: Zombies on the map -->
+    <ZombiesOnTheMap>Зомбі на карті</ZombiesOnTheMap>
+    <!-- EN: Never more than -->
+    <MaximumNumberOfZombies>Не більше ніж</MaximumNumberOfZombies>
+    <!-- EN: Zombies -->
+    <Zombies>Зомбі</Zombies>
+    <!-- EN: Colony multiplier -->
+    <ColonyMultiplier>Множник колонії</ColonyMultiplier>
+    <!-- EN: Double tapping -->
+    <DoubleTapping>Подвійне торкання</DoubleTapping>
+    <!-- EN: Dynamic threat level -->
+    <DynamicThreatLevelTitle>Динамічна загроза</DynamicThreatLevelTitle>
+    <!-- EN: Use dynamic threat level -->
+    <UseDynamicThreatLevel>Використовувати рівень динамічної загрози</UseDynamicThreatLevel>
+    <!-- EN: Threat curve smoothness -->
+    <DynamicThreatSmoothness>Згладжування кривої загрози</DynamicThreatSmoothness>
+    <!-- EN: Threat curve stretch -->
+    <DynamicThreatStretch>Розтягнути криву загроз</DynamicThreatStretch>
+    <!-- EN: Zombies die during 0% threat -->
+    <ZombiesDieOnZeroThreat>Зомбі помирають при загрозі 0%</ZombiesDieOnZeroThreat>
+    <!-- EN: threat level -->
+    <ThreatLevel>рівень загрози</ThreatLevel>
+    <!-- EN: Threat Forecast -->
+    <ThreatForecast>Прогноз загроз</ThreatForecast>
+    <!-- EN: Next 14 days -->
+    <Next14Days>Наступні 14 днів</Next14Days>
+    <!-- EN: Next 4 quadrums -->
+    <Next4Quadrums>Наступні 4 квадруми</Next4Quadrums>
+    <!-- EN: Zombie event -->
+    <ZombieEventTitle>Подія зомбі</ZombieEventTitle>
+    <!-- EN: Zombies per colonist -->
+    <ZombiesPerColonistInEvent>Зомбі на колоніста</ZombiesPerColonistInEvent>
+    <!-- EN: Extra days between events -->
+    <ExtraDaysBetweenEvents>Додаткові дні між подіями</ExtraDaysBetweenEvents>
+    <!-- EN: Arriving groups are infected -->
+    <InfectedRaidsChance>Групи, що прибувають, інфіковані</InfectedRaidsChance>
+    <!-- EN: Zombie speed -->
+    <ZombieSpeedTitle>Швидкість зомбі</ZombieSpeedTitle>
+    <!-- EN: If they are calm -->
+    <MoveSpeedIdle>Якщо вони спокійні</MoveSpeedIdle>
+    <!-- EN: If they feel excited -->
+    <MoveSpeedTracking>Якщо вони схвильовані</MoveSpeedTracking>
+    <!-- EN: Zombie damage -->
+    <ZombieDamageTitle>Пошкодження зомбі</ZombieDamageTitle>
+    <!-- EN: Damage multiplier -->
+    <ZombieDamageFactor>Множник шкоди</ZombieDamageFactor>
+    <!-- EN: Safe melee limit -->
+    <SafeMeleeLimit>Безпечний ліміт ближнього бою</SafeMeleeLimit>
+    <!-- EN: Example: [_]{0}[_] melee level, [_]{1}[_] zombies => {2}% chance -->
+    <SafeMeleeExample>Приклад: [_]{0}[_] рівень ближнього бою, [_]{1}[_] зомбі => {2}% шанс</SafeMeleeExample>
+    <!-- EN: Zombies can anger animals -->
+    <ZombiesCauseManhunting>Зомбі можуть розлютити тварин</ZombiesCauseManhunting>
+    <!-- EN: Game tweaks -->
+    <ZombieGameTweaks>Налаштування гри</ZombieGameTweaks>
+    <!-- EN: Reduce turret gun consumption -->
+    <ReduceTurretConsumption>Зменшити споживання баштової гармати</ReduceTurretConsumption>
+    <!-- EN: Risk that a zombie bite is infectious -->
+    <ZombieBiteInfectionChance>Ризик того, що укус зомбі може бути заразним</ZombieBiteInfectionChance>
+    <!-- EN: Time until infection is known -->
+    <ZombieBiteInfectionUnknown>Час до моменту зараження відомий</ZombieBiteInfectionUnknown>
+    <!-- EN: Time infection is treatable -->
+    <ZombieBiteInfectionTreatable>Час, за який інфекцію можна вилікувати</ZombieBiteInfectionTreatable>
+    <!-- EN: Duration of infection -->
+    <ZombieBiteInfectionPersists>Тривалість інфекції</ZombieBiteInfectionPersists>
+    <!-- EN: Treatment in a bed stops infections -->
+    <AnyTreatmentStopsInfection>Лікування в ліжку зупиняє інфекцію</AnyTreatmentStopsInfection>
+    <!-- EN: Hours to become a zombie after death -->
+    <HoursAfterDeathToBecomeZombie>Години, щоб стати зомбі після смерті</HoursAfterDeathToBecomeZombie>
+    <!-- EN: Immediately -->
+    <Immediately>Негайно</Immediately>
+    <!-- EN: Show a message when someone turns into a zombie -->
+    <DeadBecomesZombieMessage>Показувати повідомлення, коли хтось перетворюється на зомбі</DeadBecomesZombieMessage>
+    <!-- EN: Show a message when in danger -->
+    <DangerousSituationMessage>Показувати повідомлення в разі небезпеки</DangerousSituationMessage>
+    <!-- EN: Loot from zombies -->
+    <ZombieHarvestingTitle>Здобич від зомбі</ZombieHarvestingTitle>
+    <!-- EN: Amount of zombie extract per zombie -->
+    <CorpsesExtractAmount>Кількість екстракту зомбі на одного зомбі</CorpsesExtractAmount>
+    <!-- EN: Chance -->
+    <CorpsesExtractChance>Шанс</CorpsesExtractChance>
+    <!-- EN: Amount of loot that zombies drop -->
+    <LootExtractAmount>Кількість здобичі, яку скидають зомбі</LootExtractAmount>
+    <!-- EN: Hours until zombie corpses disappear -->
+    <CorpsesDaysToDessicated>Години до зникнення трупів зомбі</CorpsesDaysToDessicated>
+    <!-- EN: Restrict extracting to area -->
+    <ExtractZombieArea>Обмежити вилучення певною областю</ExtractZombieArea>
+    <!-- EN: Everywhere -->
+    <Everywhere>Всюди</Everywhere>
+    <!-- EN: Blacklisted Apparel -->
+    <BlacklistedApparel>Одяг з чорного списку</BlacklistedApparel>
+    <!-- EN: Select All -->
+    <SelectAll>Обрати все</SelectAll>
+    <!-- EN: Deselect All -->
+    <DeselectAll>Скасувати вибір</DeselectAll>
+    <!-- EN: Zombie senses -->
+    <ZombieInstinctTitle>Відчуття зомбі</ZombieInstinctTitle>
+    <!-- EN: Limited -->
+    <ZombieInstinct_Dull>Обмежені</ZombieInstinct_Dull>
+    <!-- EN: Normal -->
+    <ZombieInstinct_Normal>Звичайні</ZombieInstinct_Normal>
+    <!-- EN: Elevated -->
+    <ZombieInstinct_Sensitive>Підвищені</ZombieInstinct_Sensitive>
+    <!-- EN: Zombies rage if a group gets too large -->
+    <RagingZombies>Зомбі лютують, якщо група стає занадто великою</RagingZombies>
+    <!-- EN: Rage level -->
+    <RageLevel>Рівень люті</RageLevel>
+    <!-- EN: Very low -->
+    <RageLevelVeryLow>Дуже низький</RageLevelVeryLow>
+    <!-- EN: Low -->
+    <RageLevelLow>Низький</RageLevelLow>
+    <!-- EN: Normal -->
+    <RageLevelNormal>Звичайний</RageLevelNormal>
+    <!-- EN: High -->
+    <RageLevelHigh>Високий</RageLevelHigh>
+    <!-- EN: Very high -->
+    <RageLevelVeryHigh>Дуже високий</RageLevelVeryHigh>
+    <!-- EN: Zombie health -->
+    <ZombieHealthTitle>Здоров'я зомбі</ZombieHealthTitle>
+    <!-- EN: Health -->
+    <ZombieHealthFactor>Здоров'я</ZombieHealthFactor>
+    <!-- EN: Zombies recover from injuries -->
+    <DoubleTapRequired>Зомбі відновлюються після поранень</DoubleTapRequired>
+    <!-- EN: Zombies are easy to kill -->
+    <ZombiesDieVeryEasily>Зомбі легко вбити</ZombiesDieVeryEasily>
+    <!-- EN: Zombies will eat -->
+    <ZombieEatingTitle>Зомбі будуть їсти</ZombieEatingTitle>
+    <!-- EN: Injured creatures -->
+    <ZombiesEatDowned>Поранених істот</ZombiesEatDowned>
+    <!-- EN: Corpses -->
+    <ZombiesEatCorpses>Трупи</ZombiesEatCorpses>
+    <!-- EN: Special zombies -->
+    <SpecialZombiesTitle>Особливі зомбі</SpecialZombiesTitle>
+    <!-- EN: Suicide bomber zombies -->
+    <SuicideBomberChance>Зомбі-смертники</SuicideBomberChance>
+    <!-- EN: Toxic splasher zombies -->
+    <ToxicSplasherChance>Токсичні зомбі-розбризкувачі</ToxicSplasherChance>
+    <!-- EN: Tanky operator zombies -->
+    <TankyOperatorChance>Танкові зомбі</TankyOperatorChance>
+    <!-- EN: Mining zombies -->
+    <MinerChance>Зомбі-шахтарі</MinerChance>
+    <!-- EN: Electrifying zombies -->
+    <ElectrifierChance>Наелектризовані зомбі</ElectrifierChance>
+    <!-- EN: Albino zombies -->
+    <AlbinoChance>Зомбі-альбіноси</AlbinoChance>
+    <!-- EN: Dark slimer zombies -->
+    <DarkSlimerChance>Темні стрункі зомбі</DarkSlimerChance>
+    <!-- EN: Healer zombies -->
+    <HealerChance>Зомбі-цілителі</HealerChance>
+    <!-- EN: Ordinary zombies: {0} -->
+    <NormalZombieChance>Звичайні зомбі: {0}</NormalZombieChance>
+    <!-- EN: Zombie children -->
+    <ChildZombieChance>Зомбі-діти</ChildZombieChance>
+    <!-- EN: Zombie spitter difficulty -->
+    <SpitterThreat>Складність зомбі-плюваки</SpitterThreat>
+    <!-- EN: Amount of zombies that will push zombies over walls -->
+    <WallPushing>Кількість зомбі, яка буде штовхати зомбі через стіни</WallPushing>
+    <!-- EN: Miscellaneous -->
+    <ZombieMiscTitle>Інше</ZombieMiscTitle>
+    <!-- EN: Use custom textures -->
+    <UseCustomTextures>Використовувати власні текстури</UseCustomTextures>
+    <!-- EN: Change survival meals to Twinkies -->
+    <ReplaceTwinkie>Змінити їжу для виживання на печиво</ReplaceTwinkie>
+    <!-- EN: Zombies affect danger music -->
+    <ZombiesTriggerDangerMusic>Зомбі впливають на музику небезпеки</ZombiesTriggerDangerMusic>
+    <!-- EN: Play creepy ambient sound at night -->
+    <PlayCreepyAmbientSound>Вмикайте моторошний атмосферний звук вночі</PlayCreepyAmbientSound>
+    <!-- EN: Automatic avoidance of zombies -->
+    <BetterZombieAvoidance>Автоматичне уникнення зомбі</BetterZombieAvoidance>
+    <!-- EN: Zombies drop blood -->
+    <ZombiesDropBlood>Зомбі стікають кров'ю</ZombiesDropBlood>
+    <!-- EN: Zombies burn longer -->
+    <ZombiesBurnLonger>Зомбі горять довше</ZombiesBurnLonger>
+    <!-- EN: Actions -->
+    <ZombieActionsTitle>Дії</ZombieActionsTitle>
+    <!-- EN: Restore default settings -->
+    <ZombieSettingsReset>Відновлення налаштувань за замовчуванням</ZombieSettingsReset>
+    <!-- EN: Factory Reset -->
+    <FactoryResetButton>Скидання до заводських налаштувань</FactoryResetButton>
+    <!-- EN: Reset -->
+    <ResetButton>Скинути</ResetButton>
+    <!-- EN: Remove Zombieland from current game -->
+    <UninstallZombieland>Видалити Zombieland з поточної гри</UninstallZombieland>
+    <!-- EN: If you continue, you can choose a new save file name and you will return to the main menu after the game is saved. The new save can be loaded without Zombieland.\n\nDo you really want to remove all Zombieland content from the current game? -->
+    <ConfirmUninstallZombieland>Якщо ви продовжите, ви можете вибрати нове ім'я файлу збереження, і ви повернетеся до головного меню після збереження гри. Нове збереження можна завантажити без Zombieland.\n\nВи дійсно хочете видалити весь вміст Zombieland з поточної гри?</ConfirmUninstallZombieland>
+    <!-- EN: Uninstall -->
+    <UninstallButton>Видалити</UninstallButton>
+    <!-- EN: Clipboard -->
+    <ClipboardActionTitle>Буфер обміну</ClipboardActionTitle>
+    <!-- EN: Copy settings to clipboard -->
+    <CopySettings>Копіювання налаштувань до буфера обміну</CopySettings>
+    <!-- EN: Copy -->
+    <CopyButton>Копіювати</CopyButton>
+    <!-- EN: Duplicate -->
+    <DuplicateButton>Дублювати</DuplicateButton>
+    <!-- EN: Replace settings from clipboard -->
+    <PasteSettings>Замінити налаштування з буфера обміну</PasteSettings>
+    <!-- EN: Paste -->
+    <PasteButton>Вставити</PasteButton>
+    <!-- EN: Capture this zombie -->
+    <RopeZombie>Зловити цього зомбі</RopeZombie>
+    <!-- EN: Activate -->
+    <Activate>Активувати</Activate>
+    <!-- EN: Activates the device. Zombies in the room loose consciousness. -->
+    <ActivateDescription>Активує пристрій. Зомбі в кімнаті втрачають свідомість.</ActivateDescription>
+    <!-- EN: The device cannot be placed here. -->
+    <WrongPlacementZombieShocker>Пристрій не може бути розміщений тут.</WrongPlacementZombieShocker>
+    <!-- EN: Colonist bitten by zombie -->
+    <ColonistsBittenByZombie>Колоніста вкусив зомбі</ColonistsBittenByZombie>
+    <!-- EN: These colonists have been bitten by a zombie. At this point, it is unclear if they develop an infection:\n\n{0}\nMonitor their wounds closely because infections take some time to develop. -->
+    <ColonistsBittenByZombieDesc>Цих колоністів вкусив зомбі. На даний момент неясно, чи розвивається у них інфекція:\n\n{0}\nУважно стежте за їхніми ранами, тому що інфекції потрібен певний час, щоб розвинутись.</ColonistsBittenByZombieDesc>
+    <!-- EN: Imminent zombie infection -->
+    <ImminentZombiInfection>Неминуча зомбі-інфекція</ImminentZombiInfection>
+    <!-- EN: These colonists are about to be infected from a zombie bite:\n\n{0}\nYou may rescue them by immediately giving them optimal treatment under best conditions. But it requires a good doctor, a quality medical bed and a sterile room with a vitals monitor. -->
+    <ImminentZombiInfectionDesc>Ці колоністи ось-ось будуть інфіковані укусом зомбі:\n\n{0}\nВи можете врятувати їх, негайно надавши їм оптимальне лікування в найкращих умовах. Але для цього потрібен хороший лікар, якісне медичне ліжко та стерильна кімната з монітором життєво важливих функцій.</ImminentZombiInfectionDesc>
+    <!-- EN: Zombie infection -->
+    <ZombieInfection>Зомбі-інфекція</ZombieInfection>
+    <!-- EN: These colonists have been infected and will become a zombie. There is no way anymore to rescue them:\n\n{0}\nDuring their infection they are indifferent to thoughts, feelings, pain and hunger. At the end, they die and become a zombie. -->
+    <ZombieInfectionDesc>Ці колоністи були інфіковані і стануть зомбі. Їх вже неможливо врятувати:\n\n{0}\nПід час зараження вони байдужі до думок, почуттів, болю і голоду. Врешті-решт, вони помирають і стають зомбі.</ZombieInfectionDesc>
+    <!-- EN: No infection risk -->
+    <NoInfectionRisk>Без ризику зараження</NoInfectionRisk>
+    <!-- EN: {0} to infection -->
+    <HoursBeforeBecomingInfected>{0} до інфекції</HoursBeforeBecomingInfected>
+    <!-- EN: {0} to become a zombie -->
+    <HoursBeforeBecomingAZombie>{0} до того, щоб стати зомбі</HoursBeforeBecomingAZombie>
+    <!-- EN: Dangerous situation -->
+    <DangerousSituation>Небезпечна ситуація</DangerousSituation>
+    <!-- EN: There are zombies being pushed over your walls! Prevent zombies from cumulating to dense groups. -->
+    <ZombiesAreBeingPushedOverYourWalls>Через ваші стіни проштовхуються зомбі! Не дозволяйте зомбі скупчуватися в щільні групи.</ZombiesAreBeingPushedOverYourWalls>
+    <!-- EN: A colonist turned into a zombie -->
+    <ColonistBecameAZombieLabel>Колоніст перетворився на зомбі</ColonistBecameAZombieLabel>
+    <!-- EN: Someone turned into a zombie -->
+    <OtherBecameAZombieLabel>Хтось перетворився на зомбі</OtherBecameAZombieLabel>
+    <!-- EN: {0} turned into a powerful zombie. -->
+    <BecameAZombieDesc>{0} перетворився на потужного зомбі.</BecameAZombieDesc>
+    <!-- EN: This body is infected with the zombie virus! -->
+    <BodyIsInfectedLabel>Це тіло заражене вірусом зомбі!</BodyIsInfectedLabel>
+    <!-- EN: Infected bodies will turn into zombies when they start to rot. -->
+    <BodyIsInfectedTooltip>Заражені тіла перетворяться на зомбі, коли почнуть гнити.</BodyIsInfectedTooltip>
+    <!-- EN: Cure zombie infection -->
+    <CureZombieInfection>Вилікувати зомбі-інфекцію</CureZombieInfection>
+    <!-- EN: Extracting zombie serum -->
+    <ExtractingZombieSerum>Видобуток зомбі-сироватки</ExtractingZombieSerum>
+    <!-- EN: Cannot extract zombie serum (no doctor) -->
+    <AutoExtractDisabledDescription>Неможливо видобути сироватку зомбі (немає лікаря)</AutoExtractDisabledDescription>
+    <!-- EN: Automatically extract zombie serum when no zombies are nearby -->
+    <AutoExtractAllowedDescription>Автоматично видобувати сироватку зомбі, коли поблизу немає зомбі</AutoExtractAllowedDescription>
+    <!-- EN: Only extract zombie serum when ordered -->
+    <AutoExtractForbiddenDescription>Екстрагувати сироватку зомбі тільки за запитом</AutoExtractForbiddenDescription>
+    <!-- EN: Cannot double tap (no hunting) -->
+    <AutoDoubleTapDisabledDescription>Неможливо двічі натиснути (відсутнє полювання) (?)</AutoDoubleTapDisabledDescription>
+    <!-- EN: Automatically double tap corpses to prevent them from becoming zombies -->
+    <AutoDoubleTapAllowedDescription>Автоматично виконувати подвійне клацання по трупах, щоб запобігти їх перетворенню в зомбі</AutoDoubleTapAllowedDescription>
+    <!-- EN: Only double tap when ordered -->
+    <AutoDoubleTapForbiddenDescription>Тільки подвійне натискання при запиті</AutoDoubleTapForbiddenDescription>
+    <!-- EN: Automatically avoid zombies, except when standing drafted -->
+    <AutoAvoidZombiesEnabledDescription>Автоматично уникати зомбі, за винятком випадків, коли ви стоїте за призовом</AutoAvoidZombiesEnabledDescription>
+    <!-- EN: Ignore zombies. You need to manually control all actions -->
+    <AutoAvoidZombiesDisabledDescription>Ігнорувати зомбі. Потрібно вручну контролювати всі дії</AutoAvoidZombiesDisabledDescription>
+    <!-- EN: Start zombie shocker -->
+    <ZapZombies>Запуск зомбі-шокера</ZapZombies>
+    <!-- EN: The device cannot be placed here -->
+    <ZombieShockerWrongPlacement>Пристрій не може бути розміщений тут</ZombieShockerWrongPlacement>
+    <!-- EN: The device has no battery attached -->
+    <ZombieShockerHasNoBattery>Пристрій не має акумулятора</ZombieShockerHasNoBattery>
+    <!-- EN: The device has no valid room attached -->
+    <ZombieShockerHasNoRoom>Пристрій не приєднано до жодної дійсної кімнати</ZombieShockerHasNoRoom>
+    <!-- EN: The device has depleted the attached batteries -->
+    <ZombieShockerLowBatteryState>Пристрій розрядив підключені батареї</ZombieShockerLowBatteryState>
+    <!-- EN: Zombies health bar -->
+    <ShowHealthBar>Індикатор здоров'я зомбі</ShowHealthBar>
+    <!-- EN: Show zombie statistics -->
+    <ShowZombieStats>Показати статистику зомбування</ShowZombieStats>
+    <!-- EN: Show zombie risk -->
+    <ShowZombieRisk>Показати ризик зомбування</ShowZombieRisk>
+    <!-- EN: Colonist inside -->
+    <ColonistInside>Колоніст всередині</ColonistInside>
+    <!-- EN: Colonist outside -->
+    <ColonistOutside>Колоніст зовні</ColonistOutside>
+    <!-- EN: Zombie inside -->
+    <ZombieInside>Зомбі всередині</ZombieInside>
+    <!-- EN: Zombie outside -->
+    <ZombieOutside>Зомбі зовні</ZombieOutside>
+    <!-- EN: Highlight risk areas -->
+    <HighlightDangerousAreas>Виділіть зони ризику</HighlightDangerousAreas>
+    <!-- EN: Turn off random apparel for zombies -->
+    <DisableRandomApparel>Вимкнути випадковий одяг для зомбі</DisableRandomApparel>
+    <!-- EN: Floating zombies in space -->
+    <FloatingZombiesInSOS2>Плаваючі зомбі в космосі</FloatingZombiesInSOS2>
+    <!-- EN: Broken -->
+    <Broken>Зламаний</Broken>
+    <!-- EN: {0}% fuel -->
+    <StatsFuel>{0}% палива</StatsFuel>
+    <!-- EN: Chainsaw is broken -->
+    <ChainsawBroken>Бензопила зламана</ChainsawBroken>
+    <!-- EN: Chainsaw cannot be used right now -->
+    <ChainsawDisabled>Бензопилою зараз не можна користуватися</ChainsawDisabled>
+    <!-- EN: Chainsaw needs refueling -->
+    <ChainsawNoFuel>Бензопила потребує заправки</ChainsawNoFuel>
+    <!-- EN: Turn chainsaw on to attack any nearby zombies -->
+    <ChainsawTurnOn>Увімкніть бензопилу, щоб атакувати найближчих зомбі</ChainsawTurnOn>
+    <!-- EN: Turn chainsaw off to conserve fuel -->
+    <ChainsawTurnOff>Вимкніть бензопилу, щоб заощадити паливо</ChainsawTurnOff>
+    <!-- EN: (stalling) -->
+    <ChainsawStalling>(заглухнула)</ChainsawStalling>
+    <!-- EN: Chainsaw -->
+    <ChainsawDesc>Бензопила</ChainsawDesc>
+    <!-- EN: Broken chainsaw -->
+    <ChainsawDescBroken>Зламана бензопила</ChainsawDescBroken>
+    <!-- EN: Stalling chainsaw -->
+    <ChainsawDescStalling>Заглухла Бензопила</ChainsawDescStalling>
+    <!-- EN:  with {0}% fuel -->
+    <ChainsawDescFuel>з {0}% пального</ChainsawDescFuel>
+    <!-- EN:  with no fuel -->
+    <ChainsawDescNoFuel>без палива</ChainsawDescNoFuel>
+    <!-- EN:  blocking {0}% of incoming attacks -->
+    <ChainsawDescBlockingChance>блокує {0}% вхідних атак</ChainsawDescBlockingChance>
+    <!-- EN: Settings -->
+    <ThumperControl>Налаштування</ThumperControl>
+    <!-- EN: Define Intensity and Interval for this Zombie Thumper -->
+    <ThumperControlDesc>Визначте інтенсивність та інтервал для цього Вибивача зомбі</ThumperControlDesc>
+    <!-- EN: Intensity -->
+    <Intensity>Інтенсивність</Intensity>
+    <!-- EN: Interval -->
+    <Interval>Інтервал</Interval>
+    <!-- EN: On / Off -->
+    <ToggleStateLabel>Увімкнутий / Вимкнутий</ToggleStateLabel>
+    <!-- EN: Turns the device on or off. -->
+    <ToggleStateDesc>Вмикає чи вимикає пристрій.</ToggleStateDesc>
+    <!-- EN: Idle -->
+    <SpitterStateIdle>Очікує</SpitterStateIdle>
+    <!-- EN: Searching -->
+    <SpitterStateSearching>Шукає</SpitterStateSearching>
+    <!-- EN: Moving -->
+    <SpitterStateMoving>Переміщується</SpitterStateMoving>
+    <!-- EN: Preparing -->
+    <SpitterStatePreparing>Готується</SpitterStatePreparing>
+    <!-- EN: Spitting -->
+    <SpitterStateSpitting>Плює</SpitterStateSpitting>
+    <!-- EN: Leaving -->
+    <SpitterStateLeaving>Йде</SpitterStateLeaving>
+    <!-- EN: Mode -->
+    <Mode>Режим</Mode>
+    <!-- EN: Waves -->
+    <Waves>Хвилі</Waves>
+    <!-- EN: Aggressive -->
+    <Aggressive>Агресивність</Aggressive>
+    <!-- EN: Calm -->
+    <Calm>Спокій</Calm>
+    <!-- EN: Zombie Contamination -->
+    <ZombieContamination>Зараження зомбі</ZombieContamination>
+    <!-- EN: Contamination caused by the zombie apocalypse is transferred via touch and handling things. It spreads around and can lead to strange behaviour in colonists. -->
+    <ContaminationHelp>Зараження, спричинене зомбі-апокаліпсисом, передається через дотики та маніпуляції з речами. Він поширюється навколо і може призвести до дивної поведінки колоністів.</ContaminationHelp>
+    <!-- EN: Toggle zombie contamination overlay.\n\nThis shows how contaminated things and the ground are, which in turn affects pawns. -->
+    <ShowContaminationOverlayToggleButton>Перемкнути накладання зомбі-зараження.\n\nЦе показує, наскільки заражені речі та земля, що, в результаті, впливає на пішаків.</ShowContaminationOverlayToggleButton>
+</LanguageData>

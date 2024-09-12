@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NamerWeaponArchon.rulePack.rulesStrings.0>r_weapon_name(p=4)->[archoNoun][archoVerber]</NamerWeaponArchon.rulePack.rulesStrings.0>
+  <NamerWeaponArchon.rulePack.rulesStrings.1>r_weapon_name(p=3)->[archoBeginSyl][archoMiddleSyl][archoEndSyl]</NamerWeaponArchon.rulePack.rulesStrings.1>
+  <NamerWeaponArchon.rulePack.rulesStrings.2>r_weapon_name(p=2)->[archoBeginSyl][archoMiddleSyl][archoMiddleSyl][archoEndSyl]</NamerWeaponArchon.rulePack.rulesStrings.2>
+  <NamerWeaponArchon.rulePack.rulesStrings.3>r_weapon_name(p=1)->[archoBeginSyl][archoEndSyl]</NamerWeaponArchon.rulePack.rulesStrings.3>
+  <NamerWeaponArchon.rulePack.rulesStrings.4>r_weapon_name(p=1)->[archoBeginSyl][archoMiddleSyl][archoEndSyl][archoVerber]</NamerWeaponArchon.rulePack.rulesStrings.4>
+  <NamerWeaponArchon.rulePack.rulesStrings.5>archoNoun->зар</NamerWeaponArchon.rulePack.rulesStrings.5>
+  <NamerWeaponArchon.rulePack.rulesStrings.6>archoNoun->кі</NamerWeaponArchon.rulePack.rulesStrings.6>
+  <NamerWeaponArchon.rulePack.rulesStrings.7>archoNoun->янк</NamerWeaponArchon.rulePack.rulesStrings.7>
+  <NamerWeaponArchon.rulePack.rulesStrings.8>archoNoun->віт</NamerWeaponArchon.rulePack.rulesStrings.8>
+  <NamerWeaponArchon.rulePack.rulesStrings.9>archoNoun->лак</NamerWeaponArchon.rulePack.rulesStrings.9>
+  <NamerWeaponArchon.rulePack.rulesStrings.10>archoNoun->рес</NamerWeaponArchon.rulePack.rulesStrings.10>
+  <NamerWeaponArchon.rulePack.rulesStrings.11>archoNoun->архо</NamerWeaponArchon.rulePack.rulesStrings.11>
+  <NamerWeaponArchon.rulePack.rulesStrings.12>archoNoun->зера</NamerWeaponArchon.rulePack.rulesStrings.12>
+  <NamerWeaponArchon.rulePack.rulesStrings.13>archoNoun->тра</NamerWeaponArchon.rulePack.rulesStrings.13>
+  <NamerWeaponArchon.rulePack.rulesStrings.14>archoNoun->варк</NamerWeaponArchon.rulePack.rulesStrings.14>
+  <NamerWeaponArchon.rulePack.rulesStrings.15>archoNoun->ріл</NamerWeaponArchon.rulePack.rulesStrings.15>
+  <NamerWeaponArchon.rulePack.rulesStrings.16>archoNoun->зал</NamerWeaponArchon.rulePack.rulesStrings.16>
+  <NamerWeaponArchon.rulePack.rulesStrings.17>archoVerber->винищувач</NamerWeaponArchon.rulePack.rulesStrings.17>
+  <NamerWeaponArchon.rulePack.rulesStrings.18>archoVerber->володар</NamerWeaponArchon.rulePack.rulesStrings.18>
+  <NamerWeaponArchon.rulePack.rulesStrings.19>archoVerber->покликач</NamerWeaponArchon.rulePack.rulesStrings.19>
+  <NamerWeaponArchon.rulePack.rulesStrings.20>archoVerber->binder</NamerWeaponArchon.rulePack.rulesStrings.20>
+  <NamerWeaponArchon.rulePack.rulesStrings.21>archoVerber->провидець</NamerWeaponArchon.rulePack.rulesStrings.21>
+  <NamerWeaponArchon.rulePack.rulesStrings.22>archoVerber->ходок</NamerWeaponArchon.rulePack.rulesStrings.22>
+  <NamerWeaponArchon.rulePack.rulesStrings.23>archoVerber->співак</NamerWeaponArchon.rulePack.rulesStrings.23>
+  <NamerWeaponArchon.rulePack.rulesStrings.24>archoVerber->коваль</NamerWeaponArchon.rulePack.rulesStrings.24>
+  <NamerWeaponArchon.rulePack.rulesStrings.25>archoVerber->хранитель</NamerWeaponArchon.rulePack.rulesStrings.25>
+  <NamerWeaponArchon.rulePack.rulesStrings.26>archoVerber->носій</NamerWeaponArchon.rulePack.rulesStrings.26>
+  <NamerWeaponArchon.rulePack.rulesStrings.27>archoVerber->відправник</NamerWeaponArchon.rulePack.rulesStrings.27>
+  <NamerWeaponArchon.rulePack.rulesStrings.28>archoVerber->даритель</NamerWeaponArchon.rulePack.rulesStrings.28>
+  <NamerWeaponArchon.rulePack.rulesStrings.29>archoVerber->творець</NamerWeaponArchon.rulePack.rulesStrings.29>
+  <NamerWeaponArchon.rulePack.rulesStrings.30>archoVerber->дробитель</NamerWeaponArchon.rulePack.rulesStrings.30>
+  <NamerWeaponArchon.rulePack.rulesStrings.31>archoVerber->винищувач</NamerWeaponArchon.rulePack.rulesStrings.31>
+  <NamerWeaponArchon.rulePack.rulesStrings.32>archoVerber->розбишака</NamerWeaponArchon.rulePack.rulesStrings.32>
+  <NamerWeaponArchon.rulePack.rulesStrings.33>archoVerber->згинач</NamerWeaponArchon.rulePack.rulesStrings.33>
+  <NamerWeaponArchon.rulePack.rulesStrings.34>archoVerber->знавець</NamerWeaponArchon.rulePack.rulesStrings.34>
+  <NamerWeaponArchon.rulePack.rulesStrings.35>archoVerber->виконавець</NamerWeaponArchon.rulePack.rulesStrings.35>
+  <NamerWeaponArchon.rulePack.rulesStrings.36>archoBeginSyl->zar</NamerWeaponArchon.rulePack.rulesStrings.36>
+  <NamerWeaponArchon.rulePack.rulesStrings.37>archoBeginSyl->кі</NamerWeaponArchon.rulePack.rulesStrings.37>
+  <NamerWeaponArchon.rulePack.rulesStrings.38>archoBeginSyl->янк</NamerWeaponArchon.rulePack.rulesStrings.38>
+  <NamerWeaponArchon.rulePack.rulesStrings.39>archoBeginSyl->віт</NamerWeaponArchon.rulePack.rulesStrings.39>
+  <NamerWeaponArchon.rulePack.rulesStrings.40>archoBeginSyl->тра</NamerWeaponArchon.rulePack.rulesStrings.40>
+  <NamerWeaponArchon.rulePack.rulesStrings.41>archoBeginSyl->варк</NamerWeaponArchon.rulePack.rulesStrings.41>
+  <NamerWeaponArchon.rulePack.rulesStrings.42>archoBeginSyl->ріл</NamerWeaponArchon.rulePack.rulesStrings.42>
+  <NamerWeaponArchon.rulePack.rulesStrings.43>archoBeginSyl->зал</NamerWeaponArchon.rulePack.rulesStrings.43>
+  <NamerWeaponArchon.rulePack.rulesStrings.44>archoBeginSyl->драк</NamerWeaponArchon.rulePack.rulesStrings.44>
+  <NamerWeaponArchon.rulePack.rulesStrings.45>archoBeginSyl->тор</NamerWeaponArchon.rulePack.rulesStrings.45>
+  <NamerWeaponArchon.rulePack.rulesStrings.46>archoBeginSyl->лір</NamerWeaponArchon.rulePack.rulesStrings.46>
+  <NamerWeaponArchon.rulePack.rulesStrings.47>archoMiddleSyl->лак</NamerWeaponArchon.rulePack.rulesStrings.47>
+  <NamerWeaponArchon.rulePack.rulesStrings.48>archoMiddleSyl->рай</NamerWeaponArchon.rulePack.rulesStrings.48>
+  <NamerWeaponArchon.rulePack.rulesStrings.49>archoMiddleSyl->архо</NamerWeaponArchon.rulePack.rulesStrings.49>
+  <NamerWeaponArchon.rulePack.rulesStrings.50>archoMiddleSyl->зерп</NamerWeaponArchon.rulePack.rulesStrings.50>
+  <NamerWeaponArchon.rulePack.rulesStrings.51>archoMiddleSyl->тор</NamerWeaponArchon.rulePack.rulesStrings.51>
+  <NamerWeaponArchon.rulePack.rulesStrings.52>archoMiddleSyl->драк</NamerWeaponArchon.rulePack.rulesStrings.52>
+  <NamerWeaponArchon.rulePack.rulesStrings.53>archoMiddleSyl-лір</NamerWeaponArchon.rulePack.rulesStrings.53>
+  <NamerWeaponArchon.rulePack.rulesStrings.54>archoMiddleSyl->варк</NamerWeaponArchon.rulePack.rulesStrings.54>
+  <NamerWeaponArchon.rulePack.rulesStrings.55>archoMiddleSyl->тра</NamerWeaponArchon.rulePack.rulesStrings.55>
+  <NamerWeaponArchon.rulePack.rulesStrings.56>archoEndSyl->тх</NamerWeaponArchon.rulePack.rulesStrings.56>
+  <NamerWeaponArchon.rulePack.rulesStrings.57>archoEndSyl->кі</NamerWeaponArchon.rulePack.rulesStrings.57>
+  <NamerWeaponArchon.rulePack.rulesStrings.58>archoEndSyl->зар</NamerWeaponArchon.rulePack.rulesStrings.58>
+  <NamerWeaponArchon.rulePack.rulesStrings.59>archoEndSyl->рай</NamerWeaponArchon.rulePack.rulesStrings.59>
+  <NamerWeaponArchon.rulePack.rulesStrings.60>archoEndSyl->лір</NamerWeaponArchon.rulePack.rulesStrings.60>
+  <NamerWeaponArchon.rulePack.rulesStrings.61>archoEndSyl->варк</NamerWeaponArchon.rulePack.rulesStrings.61>
+  <NamerWeaponArchon.rulePack.rulesStrings.62>archoEndSyl->тра</NamerWeaponArchon.rulePack.rulesStrings.62>
+  <NamerWeaponArchon.rulePack.rulesStrings.63>archoEndSyl->зал</NamerWeaponArchon.rulePack.rulesStrings.63>
+  <NamerWeaponArchon.rulePack.rulesStrings.64>archoEndSyl->драк</NamerWeaponArchon.rulePack.rulesStrings.64>
+
+
+</LanguageData>

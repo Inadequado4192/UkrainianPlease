@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: enemies present -->
+    <KCSG_EnnemiesPresence.label>присутність ворогів</KCSG_EnnemiesPresence.label>
+    <!-- EN: Enemies are present in this place. -->
+    <KCSG_EnnemiesPresence.description>Ворог знаходиться на цьому місці.</KCSG_EnnemiesPresence.description>
+</LanguageData>

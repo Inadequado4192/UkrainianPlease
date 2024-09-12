@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--consumed mayo (from meal)-->
+  <VCE_ConsumedMayo.label>спожито майонез (в страві)</VCE_ConsumedMayo.label>
+  <!--Mayo is a thick emulsion of egg, oil, and other herbs. Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. It lowers hunger rate by 15% for 12 hours.-->
+  <VCE_ConsumedMayo.description>Майонез – це густа емульсія з яйця, олії та інших трав. Майонез, хоч і шкідливий для організму, але додає приємного присмаку і дуже калорійний. Він знижує приріст голоду на 15% протягом 12 годин.</VCE_ConsumedMayo.description>
+  
+  <!--consumed agave nectar (from meal)-->
+  <VCE_ConsumedAgave.label>спожито нектар агави (в страві)</VCE_ConsumedAgave.label>
+  <!--Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Gives a 15% immunity gain speed boost for 12 hours.-->
+  <VCE_ConsumedAgave.description>Нектар агави – рідкий напівсолодкий нектар, відомий своїми цілющими та протизапальними властивостями. Дає 15% бонусу до швидкості здобуття імунітету на 12 годин.</VCE_ConsumedAgave.description>
+  
+  <!--consumed spices (from meal)-->
+  <VCE_ConsumedSpices.label>спожито спеції (в страві)</VCE_ConsumedSpices.label>
+  <!--Consumed a variety of aromatic and pungent spices. It increases manipulation stat by 5% for 12 hours.-->
+  <VCE_ConsumedSpices.description>Спожито різноманітні ароматичні та гострі спеції. Показник маніпуляції збільшився на 5% на 12 годин.</VCE_ConsumedSpices.description>
+  
+  <!--well fed (from grilled meal)-->
+  <VCE_WellFed.label>ситий (зі страв на грилі)</VCE_WellFed.label>
+  <!--I have eaten a delicious and filling grilled meat. It lowers hunger rate by 35% for 12 hours.-->
+  <VCE_WellFed.description>Я з'їв смачне і ситне м'ясо на грилі. Воно знижує приріст голоду на 35% протягом 12 годин.</VCE_WellFed.description>
+  
+  <!--well fed (from grilled meal)-->
+  <VCE_WellFedSimple.label>ситий (зі страв на грилі)</VCE_WellFedSimple.label>
+  <!--I have eaten a delicious and filling grilled meat. It lowers hunger rate by 35% for 12 hours.-->
+  <VCE_WellFedSimple.description>Я з'їв смачне і ситне м'ясо на грилі. Воно знижує приріст голоду на 35% протягом 12 годин.</VCE_WellFedSimple.description>
+  
+  <!--well fed (from grilled meal)-->
+  <VCE_WellFedFine.label>ситий (зі страв на грилі)</VCE_WellFedFine.label>
+  <!--I have eaten a delicious and filling grilled meat. It lowers hunger rate by 35% for 12 hours.-->
+  <VCE_WellFedFine.description>Я з'їв смачне і ситне м'ясо на грилі. Воно знижує приріст голоду на 35% протягом 12 годин.</VCE_WellFedFine.description>
+  
+  <!--well fed (from grilled meal)-->
+  <VCE_WellFedLavish.label>ситий (зі страв на грилі)</VCE_WellFedLavish.label>
+  <!--I have eaten a delicious and filling grilled meat. It lowers hunger rate by 35% for 12 hours.-->
+  <VCE_WellFedLavish.description>Я з'їв смачне і ситне м'ясо на грилі. Воно знижує приріст голоду на 35% протягом 12 годин.</VCE_WellFedLavish.description>
+  
+  <!--well fed (from grilled meal)-->
+  <VCE_WellFedGourmet.label>ситий (зі страв на грилі)</VCE_WellFedGourmet.label>
+  <!--I have eaten a delicious and filling grilled meat. It lowers hunger rate by 35% for 12 hours.-->
+  <VCE_WellFedGourmet.description>Я з'їв смачне і ситне м'ясо на грилі. Воно знижує приріст голоду на 35% протягом 12 годин.</VCE_WellFedGourmet.description>
+  
+  <!--consumed resurrector nanites (from meal)-->
+  <VCE_ConsumedDigestibleResurrectorNanites.label>спожито наніти-воскресителі (в страві)</VCE_ConsumedDigestibleResurrectorNanites.label>
+  <!--Resurrector nanites will resurrect this person as long as they are active. The effect lasts for 12 hours.-->
+  <VCE_ConsumedDigestibleResurrectorNanites.description>Наніти-воскресителі будуть воскрешати цю людину, поки вони активні. Ефект триває 12 годин.</VCE_ConsumedDigestibleResurrectorNanites.description>
+  
+  <!--consumed sugar (from meal)-->
+  <VCE_SugarRush.label>спожито цукор (в страві)</VCE_SugarRush.label>
+  <!--Sugar is easily converted into energy by the body, which may result in a nice burst of energy. It increases moving stat by 15% for 12 hours.-->
+  <VCE_SugarRush.description>Цукор легко перетворюється організмом на енергію, що може призвести до приємного припливу енергії. Він збільшує швидкість переміщення на 15% протягом 12 годин.</VCE_SugarRush.description>
+  
+  <!--consumed gourmet food (from meal)-->
+  <VCE_AteGourmetMeal.label>спожито гурманську страву</VCE_AteGourmetMeal.label>
+  <!--This colonist consumed an incredible food.-->
+  <VCE_AteGourmetMeal.description>Цей поселенець спожив неймовірну їжу.</VCE_AteGourmetMeal.description>
+</LanguageData>

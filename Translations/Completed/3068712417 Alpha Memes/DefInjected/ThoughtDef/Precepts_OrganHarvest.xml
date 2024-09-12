@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Harvested organ -->
+
+  <AM_OrganUse_Torturous.stages.0.label>вирізав орган</AM_OrganUse_Torturous.stages.0.label>
+  <AM_OrganUse_Torturous.stages.0.description>Я катував когось і вилучав органи, поки він був ще живий. Яке вишукане звільнення від страждань.</AM_OrganUse_Torturous.stages.0.description>
+
+  <AM_OrganUse_Know_Torturous.stages.0.label>harvested organ</AM_OrganUse_Know_Torturous.stages.0.label>
+
+  <AM_OrganUse_Know_Torturous_Mood.stages.0.label>хтось вирізав орган</AM_OrganUse_Know_Torturous_Mood.stages.0.label>
+  <AM_OrganUse_Know_Torturous_Mood.stages.0.description>Колоніст катував людину і вилучав органи, поки вона була ще жива. Чудово!</AM_OrganUse_Know_Torturous_Mood.stages.0.description>
+
+
+</LanguageData>

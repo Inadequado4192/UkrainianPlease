@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--electric pot-->
+  <VCE_ElectricPot.label>термопот</VCE_ElectricPot.label>
+  <!--An electric pot, also called a thermo pot, is a small appliance used for boiling water and maintaining it at a constant temperature. It is typically used to simmer soup over an extended period of time. Ingredients are submerged in water and left to cook over an extended period, allowing the flavors of the ingredients to gradually deepen and blend over time.\n\nSoup on an unpowered electric pot will spoil extremely rapidly. Beware of solar flares!-->
+  <VCE_ElectricPot.description>Електрична каструля, яку також називають термопотом, – це невеликий прилад для кип'ятіння води та підтримання її постійної температури. Зазвичай її використовують для тривалого варіння супу. Інгредієнти занурюються у воду і залишаються варитися протягом тривалого часу, дозволяючи смакам інгредієнтів поступово поглиблюватися і змішуватися з часом.\n\nСуп в електричній каструлі без живлення зіпсується надзвичайно швидко. Остерігайтеся сонячних спалахів!</VCE_ElectricPot.description>
+  
+  <!--grill-->
+  <VCE_Grill.label>гриль</VCE_Grill.label>
+  <!--A grill is a device that cooks food by applying heat from below. This is a wood fired grill that needs wood as fuel to work.-->
+  <VCE_Grill.description>Гриль – це пристрій, який готує їжу, подаючи тепло знизу. Це дров'яний гриль, для роботи якого потрібні дрова.</VCE_Grill.description>
+  
+  <!--deep fryer-->
+  <VCE_DeepFrier.label>фритюрниця</VCE_DeepFrier.label>
+  <!--A deep fryer is a kitchen appliance used for deep frying. Deep frying is a method of cooking by submerging food into oil at high heat, typically between temperatures of 350 °F and 375 °F (175 °C to 190 °C).-->
+  <VCE_DeepFrier.description>Фритюрниця – це кухонний прилад для смаження у фритюрі. Фритюр – це спосіб приготування їжі шляхом занурення продуктів у олію при високій температурі, як правило, від 175 °C до 190 °C.</VCE_DeepFrier.description>
+  
+  <!--canning machine-->
+  <VCE_CanningMachine.label>консервна машина</VCE_CanningMachine.label>
+  <!--A canning machine is an appliance to store preserved food inside metallic cans. Each canning operation needs a certain amount of Steel.-->
+  <VCE_CanningMachine.description>Консервна машина – це пристрій для зберігання їжі в металевих банках. Кожна операція консервування потребує певної кількості сталі.</VCE_CanningMachine.description>
+  
+  <!--condiment prep table-->
+  <VCE_CondimentPrepTable.label>столик для приправ</VCE_CondimentPrepTable.label>
+  <!--A working table to cut, slice and prepare condiments used in gourmet recipes.-->
+  <VCE_CondimentPrepTable.description>Робочий стіл для нарізки, подрібнення та приготування приправ, що використовуються в рецептах для гурманів.</VCE_CondimentPrepTable.description>
+  
+  <!--cheese press-->
+  <VCE_CheesePress.label>прес для сиру</VCE_CheesePress.label>
+  <!--A cheese press is a device for pressing whey from curds when making cheese. Pressing influences the cheese's hardness and texture and will also determine the shape of the block or wheel of cheese. This press also works as a ripening chamber, so the longer the cheese is left ripening, the higher its quality will be.-->
+  <VCE_CheesePress.description>Прес для сиру – це пристрій для віджимання сироватки при виготовленні сиру. Пресування впливає на твердість і текстуру сиру, а також визначає форму сирного блоку або колеса. Прес також працює як камера дозрівання, тому чим довше сир залишається дозрівати, тим вищою буде його якість.</VCE_CheesePress.description>
+  
+  <!--simple bake-->
+  <VCE_SimpleBake.label>проста випічка</VCE_SimpleBake.label>
+  <!--A simple bake quickly cooked from a few ingredients and flour.-->
+  <VCE_SimpleBake.description>Проста випічка, яка швидко готується з кількох інгредієнтів та борошна.</VCE_SimpleBake.description>
+  
+  <!--fine bake-->
+  <VCE_FineBake.label>вишукана випічка</VCE_FineBake.label>
+  <!--A complex bake assembled with care from a wide selection of ingredients and flour.-->
+  <VCE_FineBake.description>Складна випічка, виготовлена із ретельно відібраного асортименту інгредієнтів та борошна.</VCE_FineBake.description>
+  
+  <!--lavish bake-->
+  <VCE_LavishBake.label>розкішна випічка</VCE_LavishBake.label>
+  <!--A masterpiece of the culinary arts, this bake nourishes the body, mind, and soul.-->
+  <VCE_LavishBake.description>Шедевр кулінарного мистецтва, ця випічка живить тіло, розум і душу.</VCE_LavishBake.description>
+  
+  <!--gourmet bake-->
+  <VCE_GourmetBake.label>гурманська випічка</VCE_GourmetBake.label>
+  <!--A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity bake.-->
+  <VCE_GourmetBake.description>Кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості випічки.</VCE_GourmetBake.description>
+  
+  <!--canned meat-->
+  <VCE_CannedMeat.label>м'ясні консерви</VCE_CannedMeat.label>
+  <!--Meat vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal.-->
+  <VCE_CannedMeat.description>М'ясо, герметично запаяне і закрите в сталевій банці, ефективно подовжує термін зберігання на невизначений час. Хоча м'ясо їстівне в холодному вигляді прямо з банки, воно набагато поживніше, якщо його змішати з їжею і підігріти.\n\nКонсерви призначені для того, щоб зберегти їжу і використовувати її як інгредієнт пізніше, а не як кінцеву їжу.</VCE_CannedMeat.description>
+  
+  <!--canned produce-->
+  <VCE_CannedProduce.label>консервовані овочі</VCE_CannedProduce.label>
+  <!--Produce vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal.-->
+  <VCE_CannedProduce.description>Овочі, герметично запаяні та закриті у сталевій банці, ефективно подовжують термін зберігання на невизначений час. Холодні овочі можна їсти прямо з банки, але вони набагато поживніші, якщо їх змішати та підігріти.\n\nКонсерви призначені для того, щоб зберегти їжу і використовувати її як інгредієнт пізніше, а не як кінцеву їжу.</VCE_CannedProduce.description>
+  
+  <!--canned fruit-->
+  <VCE_CannedFruit.label>консервовані фрукти</VCE_CannedFruit.label>
+  <!--Cooked and preserved fruit in a hermetically sealed, durable container. Preserved food lasts indefinitely without refrigeration.\n\nFruit differs from produce in that it is specifically required in the production of desserts.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal.-->
+  <VCE_CannedFruit.description>Приготовані і законсервовані фрукти в герметично закритому, міцному контейнері. Консервовані продукти зберігаються без охолодження необмежений час.\n\nФрукти відрізняються від овочів тим, що вони особливо необхідні у виробництві десертів.\n\nКонсерви призначені для того, щоб зберегти їжу і використовувати її як інгредієнт пізніше, а не як кінцеву їжу.</VCE_CannedFruit.description>
+  
+  <!--canned eggs-->
+  <VCE_CannedAP.label>консервовані яйця</VCE_CannedAP.label>
+  <!--Boiled eggs vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal.-->
+  <VCE_CannedAP.description>Відварені яйця, герметично запаяні у сталевій банці, ефективно продовжують термін зберігання на невизначений час. Хоча яйця можна їсти холодними прямо з банки, вони набагато більш поживні, якщо їх змішати з їжею та підігріти.\n\nКонсерви призначені для того, щоб зберегти їжу і використовувати її як інгредієнт пізніше, а не як кінцеву їжу.</VCE_CannedAP.description>
+  
+  <!--canned fish-->
+  <VCE_CannedFish.label>рибні консерви</VCE_CannedFish.label>
+  <!--Fish vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal.-->
+  <VCE_CannedFish.description>Риба, герметично запаяна та закрита у сталевій банці, що ефективно подовжує термін її зберігання на невизначений час. Холодна риба, яку можна їсти прямо з банки, набагато поживніша, якщо її змішати з іншими продуктами та розігріти.\n\nКонсерви призначені для того, щоб зберегти їжу і використовувати її як інгредієнт пізніше, а не як кінцеву їжу.</VCE_CannedFish.description>
+  
+  <!--cheese-->
+  <VCE_Cheese.label>сир</VCE_Cheese.label>
+  <!--Cheese is a dairy product, derived from milk and produced in a wide range of flavors, textures and forms by coagulation of the milk protein casein. Cheese is valued for its portability, long life, and high content of fat, protein, calcium, and phosphorus. It is more compact and has a longer shelf life than milk.-->
+  <VCE_Cheese.description>Сир – це молочний продукт, що має широкий спектр смаків, текстури та форм. Виготовляється щщшляхом коагуляції молочного білка казеїну. Сир цінується за портативність, довгий термін зберігання та високий вміст жиру, білка, кальцію і фосфору. Він більш компактний і має довший термін зберігання, ніж молоко.</VCE_Cheese.description>
+ 
+  <!--agave nectar-->
+  <VCE_AgaveNectar.label>нектар агави</VCE_AgaveNectar.label>
+  <!--A thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Although healthier than sugar, its high fructose content may be harmful if taken constantly.-->
+  <VCE_AgaveNectar.description>Рідкий і напівсолодкий нектар, відомий своїми цілющими та протизапальними властивостями. Хоча він корисніший за цукор, його високий вміст фруктози може бути шкідливим, якщо вживати його постійно.</VCE_AgaveNectar.description>
+  
+  <!--sugar-->
+  <VCE_RawSugar.label>цукор</VCE_RawSugar.label>
+  <!--Simple crystalline cane sugar, adds a much desired sweetness. Sugar is easily converted into energy by the body, which may result in a nice burst of energy.-->
+  <VCE_RawSugar.description>Простий кристалічний тростинний цукор, додає бажаної солодкості. Цукор легко перетворюється організмом в енергію, що може призвести до приємного припливу бадьорості.</VCE_RawSugar.description>
+  
+  <!--spices-->
+  <VCE_RawSpices.label>спеції</VCE_RawSpices.label>
+  <!--A variety of aromatic and pungent spices, adds several sharp notes on the tongue and puts a bit of a pep in your step.-->
+  <VCE_RawSpices.description>Різноманітність ароматних і гострих спецій, додає кілька гострих ноток на язиці і додає трохи бадьорості вашому кроку.</VCE_RawSpices.description>
+  
+  <!--salt-->
+  <VCE_Salt.label>сіль</VCE_Salt.label>
+  <!--Rock salt, like common salt, enhances the flavor profile of other ingredients it is cooked with.-->
+  <VCE_Salt.description>Кам'яна сіль, як і звичайна сіль, покращує смакові якості інших інгредієнтів, з якими вона готується.</VCE_Salt.description>
+  
+  <!--mayo-->
+  <VCE_Mayo.label>майонез</VCE_Mayo.label>
+  <!--A thick emulsion of egg, oil, and other herbs. Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense.-->
+  <VCE_Mayo.description>Густа емульсія з яйця, олії та інших трав. Майонез, хоч і жахливий для організму, але додає приємного присмаку і дуже калорійний.</VCE_Mayo.description>
+  
+  <!--insect jelly preserves-->
+  <VCE_InsectJellyPreserves.label>желейне варення</VCE_InsectJellyPreserves.label>
+  <!--Insect jelly cut with sweetener then sealed as a preserve. Very rich and sweet, while being surprisingly healthy.-->
+  <VCE_InsectJellyPreserves.description>Комашине желе, нарізане з підсолоджувачем, а потім законсервоване. Дуже насичене і солодке, але напрочуд корисне.</VCE_InsectJellyPreserves.description>
+  
+  <!--smokeleaf butter-->
+  <VCE_SmokeleafButter.label>масло з димолисту</VCE_SmokeleafButter.label>
+  <!--A thickened, fatty substance made by churning milk into very thick cream, combining with smokeleaf oil and allowing it to set. Very unhealthy and hits quite a bit harder than a joint.-->
+  <VCE_SmokeleafButter.description>Загусла, жирна речовина, яку виготовляють шляхом збивання молока до дуже густих вершків, поєднуючи з олією димолисту і даючи їй застигнути. Дуже шкідливе для здоров'я.</VCE_SmokeleafButter.description>
+  
+  <!--chocolate syrup-->
+  <VCE_ChocolateSyrup.label>шоколадний сироп</VCE_ChocolateSyrup.label>
+  <!--A mixture of cocoa, water and sugar, forming a bitter-sweet pourable syrup, perfect for coating desserts. While still not good for you, chocolate syrup is not quite as bad as straight sugar.-->
+  <VCE_ChocolateSyrup.description>Суміш какао, води та цукру, що утворює гіркувато-солодкий сироп, ідеально підходить для поливання десертів. Хоча шоколадний сироп і не є корисним, він не такий шкідливий, як звичайний цукор.</VCE_ChocolateSyrup.description>
+  
+  <!--digestible resurrector nanites-->
+  <VCE_DigestibleResurrectorNanites.label>наніти-воскресителі</VCE_DigestibleResurrectorNanites.label>
+  <!--An extremely high tech glitterworld concoction, unsafe to drink directly due to bitter taste and a mild case of intraventricular hemorrhaging. However, when cooked properly into food, these effects inexplicably seem nullified. Any pawns with this present upon death will immediately be revived as if by miracle.-->
+  <VCE_DigestibleResurrectorNanites.description>Надзвичайно високотехнологічна суміш із блискосвіту, яку небезпечно пити безпосередньо через гіркий смак і невелику можливість внутрішньошлуночкового крововиливу. Однак при правильному приготуванні ці ефекти незрозумілим чином зводяться нанівець. Будь-яка жива істота, споживша їх, після смерті одразу ж оживе, наче за помахом чарівної палички.</VCE_DigestibleResurrectorNanites.description>
+  
+  <!--deep fried meat-->
+  <VCE_DeepFriedBigMeat.label>м'ясо у фритюрі</VCE_DeepFriedBigMeat.label>
+  <!--Meat tenderized then filleted, then rolled in a thick batter before being submerged in hot oil and fried. The end result is a crunchy, unhealthy yet tasty soul food - Not quite as filling as a meal, but very pleasing to eat. Deep frying meats in this matter reduces shelf life as well unless frozen.-->
+  <VCE_DeepFriedBigMeat.description>М'ясо відварюється, потім нарізається, обвалюється в густому клярі, занурюється в розпечену олію і смажиться. Кінцевим результатом є хрустка, нездорова, але смачна для душі їжа – не така ситна, як звичайні страви, але дуже приємна на смак. Смаження у фритюрі скорочує термін зберігання м'яса, якщо його не заморозити.</VCE_DeepFriedBigMeat.description>
+  
+  <!--deep fried vegetables-->
+  <VCE_DeepFriedVegetables.label>овочі у фритюрі</VCE_DeepFriedVegetables.label>
+  <!--Vegetables julienned then patted dry before being dunked into hot oil until golden brown. As crispy and pleasing as they are, these deep fried treats are not as filling as a normal meal, nor as healthy. Deep frying vegetables in this matter reduces shelf life as well unless frozen.-->
+  <VCE_DeepFriedVegetables.description>Овочі нарізають соломкою, потім обсушують і занурюють у розпечену олію та смажать до золотистої скоринки. Незважаючи на те, що вони хрусткі та приємні на смак, не такі ситні, як звичайні страви і не такі корисні. Смаження овочів у фритюрі також скорочує термін їх зберігання, якщо їх не заморозити.</VCE_DeepFriedVegetables.description>
+  
+  <!--deep fried fish-->
+  <VCE_DeepFriedFish.label>риба у фритюрі</VCE_DeepFriedFish.label>
+  <!--Fish tenderized then filleted, then rolled in a thick batter before being submerged in hot oil and fried. The end result is a crunchy, unhealthy yet tasty soul food - Not quite as filling as a meal, but very pleasing to eat. Deep frying meats in this matter reduces shelf life as well unless frozen-->
+  <VCE_DeepFriedFish.description>Рибу відварюють, потім нарізають, обвалюють у густому клярі, занурюють у гарячу олію і смажать. В результаті виходить хрустка, нездорова, але смачна для душі їжа – не така ситна, як звичайні страви, але дуже приємна на смак. Смаження у фритюрі скорочує термін зберігання м'яса, якщо його не заморозити.</VCE_DeepFriedFish.description>
+ 
+  <!--simple dessert-->
+  <VCE_SimpleDessert.label>простий десерт</VCE_SimpleDessert.label>
+  <!--A simple dessert quickly made from a few fruits and other ingredients.-->
+  <VCE_SimpleDessert.description>Простий десерт, який швидко готується з кількох фруктів та інших інгредієнтів.</VCE_SimpleDessert.description>
+  
+  <!--fine dessert-->
+  <VCE_FineDessert.label>вишуканий десерт</VCE_FineDessert.label>
+  <!--A complex dessert assembled with care from a wide selection of ingredients.-->
+  <VCE_FineDessert.description>Складний десерт, виготовлений із ретельно відібраного асортименту інгредієнтів.</VCE_FineDessert.description>
+  
+  <!--lavish dessert-->
+  <VCE_LavishDessert.label>розкішний десерт</VCE_LavishDessert.label>
+  <!--A masterpiece of the culinary arts, this dessert nourishes the body, mind, and soul.-->
+  <VCE_LavishDessert.description>Шедевр кулінарного мистецтва, цей десерт живить тіло, розум і душу.</VCE_LavishDessert.description>
+  
+  <!--gourmet dessert-->
+  <VCE_GourmetDessert.label>гурманський десерт</VCE_GourmetDessert.label>
+  <!--A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity dessert.-->
+  <VCE_GourmetDessert.description>Кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості десерту.</VCE_GourmetDessert.description>
+  
+  <!--gourmet meal-->
+  <VCE_MealGourmet.label>гурманська страва</VCE_MealGourmet.label>
+  <!--A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity meal.-->
+  <VCE_MealGourmet.description>Кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості їжі.</VCE_MealGourmet.description>
+  
+  <!--simple grill-->
+  <VCE_SimpleGrill.label>просте м'ясо на грилі</VCE_SimpleGrill.label>
+  <!--A simple grilled meat cooked from a few ingredients. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect.-->
+  <VCE_SimpleGrill.description>Просте м'ясо на грилі, приготоване з кількох інгредієнтів. Дуже ситне, м'ясо на грилі дозволяє людям довго не відчувати голоду. Заморожування руйнує цей ефект.</VCE_SimpleGrill.description>
+  
+  <!--ruined simple grill-->
+  <VCE_RuinedSimpleGrill.label>зіпсоване просте м'ясо на грилі</VCE_RuinedSimpleGrill.label>
+  <!--A simple grilled meat cooked from a few ingredients. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the "well fed" buff.-->
+  <VCE_RuinedSimpleGrill.description>Просте м'ясо на грилі, приготоване з кількох інгредієнтів. Цей гриль був заморожений, і як такий він все ще їстівний, але набагато менш ситний. Він не забезпечить бонус "ситий".</VCE_RuinedSimpleGrill.description>
+  
+  <!--fine grill-->
+  <VCE_FineGrill.label>вишукане м'ясо на грилі</VCE_FineGrill.label>
+  <!--A complex grilled meat assembled with care from a wide selection of ingredients. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect.-->
+  <VCE_FineGrill.description>Складна страва із м'яса на грилі, виготовлений із ретельно відібраного асортименту інгредієнтів. Дуже ситне, м'ясо на грилі дозволяє людям не відчувати голоду протягом тривалого часу. Заморожування руйнує цей ефект.</VCE_FineGrill.description>
+  
+  <!--ruined fine grill-->
+  <VCE_RuinedFineGrill.label>зіпсоване вишукане м'ясо на грилі</VCE_RuinedFineGrill.label>
+  <!--A complex grilled meat assembled with care from a wide selection of ingredients. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the "well fed" buff.-->
+  <VCE_RuinedFineGrill.description>Складна страва із м'яса на грилі, виготовлений із ретельно відібраного асортименту інгредієнтів. Цей гриль був заморожений, і як такий він все ще їстівний, але набагато менш ситний. Він не забезпечить бонус "ситий".</VCE_RuinedFineGrill.description>
+  
+  <!--lavish grill-->
+  <VCE_LavishGrill.label>розкішне м'ясо на грилі</VCE_LavishGrill.label>
+  <!--A masterpiece of the culinary arts, this grilled meat nourishes the body, mind, and soul. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect.-->
+  <VCE_LavishGrill.description>Шедевр кулінарного мистецтва, цей гриль живить тіло, розум і душу. Дуже ситне, м'ясо на грилі дозволяє людям не відчувати голоду протягом тривалого часу. Заморожування руйнує цей ефект.</VCE_LavishGrill.description>
+  
+  <!--ruined lavish grill-->
+  <VCE_RuinedLavishGrill.label>зіпсоване розкішне м'ясо на грилі</VCE_RuinedLavishGrill.label>
+  <!--A masterpiece of the culinary arts, this grilled meat nourishes the body, mind, and soul. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the "well fed" buff.-->
+  <VCE_RuinedLavishGrill.description>Шедевр кулінарного мистецтва, цей гриль живить тіло, розум і душу. Цей гриль був заморожений, і як такий він все ще їстівний, але набагато менш ситний. Він не забезпечить бонус "ситий".</VCE_RuinedLavishGrill.description>
+  
+  <!--gourmet grill-->
+  <VCE_GourmetGrill.label>гурманське м'ясо на грилі</VCE_GourmetGrill.label>
+  <!--A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity grilled meat. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect.-->
+  <VCE_GourmetGrill.description>Кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості м'яса. Дуже ситне, м'ясо на грилі дозволяє людям не відчувати голоду протягом тривалого часу. Заморожування руйнує цей ефект.</VCE_GourmetGrill.description>
+  
+  <!--ruined gourmet grill-->
+  <VCE_RuinedGourmetGrill.label>зіпсоване гурманське м'ясо на грилі</VCE_RuinedGourmetGrill.label>
+  <!--A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity grilled meat. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the "well fed" buff.-->
+  <VCE_RuinedGourmetGrill.description>Кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості м'яса. Цей гриль був заморожений, і як такий він все ще їстівний, але набагато менш ситний. Він не забезпечить бонус "ситий".</VCE_RuinedGourmetGrill.description>
+  
+  <!--flour-->
+  <VCE_Flour.label>борошно</VCE_Flour.label>
+  <!--Wheat flour, used in baking. Wheat flour takes a very long time to go bad, if stored in a dry environment. It was produced by wheat that has been genetically engineered to gently break into flour with a mere touch.-->
+  <VCE_Flour.description>Пшеничне борошно, що використовується у випічці. Пшеничне борошно дуже довго псується, якщо зберігається в сухому середовищі. Воно виробляється з пшениці, яка була генетично модифікована, щоб м'яко розщеплюватися на борошно від одного дотику.</VCE_Flour.description>
+  
+  <!--uncooked simple soup-->
+  <VCE_UncookedSoupSimple.label>простий неварений суп</VCE_UncookedSoupSimple.label>
+  <!--An uncooked simple soup. This needs to be cooked in an electric pot to be edible.-->
+  <VCE_UncookedSoupSimple.description>Простий неварений суп. Щоб він був їстівним, його потрібно зварити на термопоті.</VCE_UncookedSoupSimple.description>
+  
+  <!--simple soup-->
+  <VCE_CookedSoupSimple.label>простий суп</VCE_CookedSoupSimple.label>
+  <!--A simple soup slow cooked from a few ingredients.-->
+  <VCE_CookedSoupSimple.description>Простий суп, приготований на повільному вогні з кількох інгредієнтів.</VCE_CookedSoupSimple.description>
+  
+  <!--uncooked fine soup-->
+  <VCE_UncookedSoupFine.label>вишуканий неварений суп</VCE_UncookedSoupFine.label>
+  <!--An uncooked fine soup. This needs to be cooked in an electric pot to be edible.-->
+  <VCE_UncookedSoupFine.description>Вишуканий неварений суп. Щоб він був їстівним, його потрібно зварити на термопоті.</VCE_UncookedSoupFine.description>
+  
+  <!--fine soup-->
+  <VCE_CookedSoupFine.label>вишуканий суп</VCE_CookedSoupFine.label>
+  <!--A complex soup assembled with care from a wide selection of ingredients.-->
+  <VCE_CookedSoupFine.description>Складний суп, виготовлений із ретельно відібраного асортименту інгредієнтів.</VCE_CookedSoupFine.description>
+  
+  <!--uncooked lavish soup-->
+  <VCE_UncookedSoupLavish.label>розкішний неварений суп</VCE_UncookedSoupLavish.label>
+  <!--An uncooked lavish soup. This needs to be cooked in an electric pot to be edible.-->
+  <VCE_UncookedSoupLavish.description>Розкішний неварений суп. Щоб він був їстівним, його потрібно зварити на термопоті.</VCE_UncookedSoupLavish.description>
+  
+  <!--lavish soup-->
+  <VCE_CookedSoupLavish.label>розкішний суп</VCE_CookedSoupLavish.label>
+  <!--A masterpiece of the culinary arts, this soup nourishes the body, mind, and soul.-->
+  <VCE_CookedSoupLavish.description>Шедевр кулінарного мистецтва, цей суп живить тіло, розум і душу.</VCE_CookedSoupLavish.description>
+  
+  <!--uncooked gourmet soup-->
+  <VCE_UncookedSoupGourmet.label>гурманський неварений суп</VCE_UncookedSoupGourmet.label>
+  <!--An uncooked gourmet soup. This needs to be cooked in an electric pot to be edible.-->
+  <VCE_UncookedSoupGourmet.description>Гурманський неварений суп. Щоб він був їстівним, його потрібно зварити на термопоті.</VCE_UncookedSoupGourmet.description>
+  
+  <!--gourmet soup-->
+  <VCE_CookedSoupGourmet.label>гурманський суп</VCE_CookedSoupGourmet.label>
+  <!--A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity soup.-->
+  <VCE_CookedSoupGourmet.description>Кулінарний витвір мистецтва, що характеризується вишуканим, навіть витонченим приготуванням і подачею естетично збалансованої, хоч і невеликої кількості супу.</VCE_CookedSoupGourmet.description>
+  
+  <!--sugarcane plant-->
+  <VCE_Sugarcane.label>цукрова тростина</VCE_Sugarcane.label>
+  <!--A thick, tall, tropical grass with jointed stems. While not exactly the most nutritious thing to eat on its own, this genetically modified sugarcane is easily milled into sugar and then used for a variety of culinary creations - Particularly desserts.-->
+  <VCE_Sugarcane.description>Густа, висока, тропічна трава зі з'єднаними стеблами. Хоча ця генетично модифікована цукрова тростина не є найпоживнішим продуктом для самостійного споживання, її легко перетирають на цукор, а потім використовують для приготування різноманітних кулінарних страв, зокрема десертів.</VCE_Sugarcane.description>
+  
+  <!--allspice plant-->
+  <VCE_Allspice.label>духмяний перець</VCE_Allspice.label>
+  <!--An anomalous, leafy vine bearing tiny unpalatable green fruits. When ground finely during cooking the fruits release a complex, peppery flavor, perfect for spicing dishes.-->
+  <VCE_Allspice.description>Аномальна, облистнена лоза, що приносить крихітні несмачні зелені плоди. При дрібному подрібненні під час приготування плоди виділяють складний, перцевий аромат, що ідеально підходить для приправлення страв.</VCE_Allspice.description>
+  
+  <!--wheat plant-->
+  <VCE_Wheat.label>пшениця</VCE_Wheat.label>
+  <!--An amber cereal plant that takes almost an entire growing season to come to fruition. While fragile and time-consuming, this wheat has been genetically engineered to gently break into flour with a mere touch.-->
+  <VCE_Wheat.description>Бурштинова злакова рослина, якій потрібен майже цілий сезон, щоб дозріти до плодів. Незважаючи на крихкість і трудомісткість, ця пшениця була генетично модифікована таким чином, щоб м'яко розщеплюватися на борошно від одного дотику.</VCE_Wheat.description>
+</LanguageData>

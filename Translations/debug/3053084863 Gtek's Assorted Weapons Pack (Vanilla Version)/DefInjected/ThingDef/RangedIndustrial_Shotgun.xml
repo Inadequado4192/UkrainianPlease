@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Double Barrel Shotgun -->
+
+  <HIDGun_BrowningBSS.label>double barrel shotgun</HIDGun_BrowningBSS.label>
+  <HIDGun_BrowningBSS.description>An ancient design of a double-barrelled shotgun that emits two tight-packed sprays of pellets. Deadly, but short range.</HIDGun_BrowningBSS.description>
+  <HIDGun_BrowningBSS.tools.0.label>stock</HIDGun_BrowningBSS.tools.0.label>
+  <HIDGun_BrowningBSS.tools.1.label>barrel</HIDGun_BrowningBSS.tools.1.label>
+  <HIDGun_BrowningBSS.tools.2.label>muzzle</HIDGun_BrowningBSS.tools.2.label>
+
+
+  <!-- M590A1 -->
+
+  <HIDGun_M590A1Gun.label>Mossberg 590A1</HIDGun_M590A1Gun.label>
+  <HIDGun_M590A1Gun.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</HIDGun_M590A1Gun.description>
+  <HIDGun_M590A1Gun.tools.0.label>stock</HIDGun_M590A1Gun.tools.0.label>
+  <HIDGun_M590A1Gun.tools.1.label>barrel</HIDGun_M590A1Gun.tools.1.label>
+  <HIDGun_M590A1Gun.tools.2.label>muzzle</HIDGun_M590A1Gun.tools.2.label>
+
+
+  <!-- M590A1 Retro -->
+
+  <HIDGun_M590A1Retro.label>Mossberg 590A1 Retrograde</HIDGun_M590A1Retro.label>
+  <HIDGun_M590A1Retro.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</HIDGun_M590A1Retro.description>
+  <HIDGun_M590A1Retro.tools.0.label>stock</HIDGun_M590A1Retro.tools.0.label>
+  <HIDGun_M590A1Retro.tools.1.label>barrel</HIDGun_M590A1Retro.tools.1.label>
+  <HIDGun_M590A1Retro.tools.2.label>muzzle</HIDGun_M590A1Retro.tools.2.label>
+
+
+  <!-- M590A1 Short -->
+
+  <HIDGun_M590A1Short.label>Mossberg 590A1 Class III</HIDGun_M590A1Short.label>
+  <HIDGun_M590A1Short.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</HIDGun_M590A1Short.description>
+  <HIDGun_M590A1Short.tools.0.label>stock</HIDGun_M590A1Short.tools.0.label>
+  <HIDGun_M590A1Short.tools.1.label>barrel</HIDGun_M590A1Short.tools.1.label>
+  <HIDGun_M590A1Short.tools.2.label>muzzle</HIDGun_M590A1Short.tools.2.label>
+
+
+  <!-- SPAS-12 -->
+
+  <HIDGun_SPAS12Gun.label>SPAS-12</HIDGun_SPAS12Gun.label>
+  <HIDGun_SPAS12Gun.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</HIDGun_SPAS12Gun.description>
+  <HIDGun_SPAS12Gun.tools.0.label>stock</HIDGun_SPAS12Gun.tools.0.label>
+  <HIDGun_SPAS12Gun.tools.1.label>barrel</HIDGun_SPAS12Gun.tools.1.label>
+  <HIDGun_SPAS12Gun.tools.2.label>muzzle</HIDGun_SPAS12Gun.tools.2.label>
+
+
+  <!-- SPAS-12 Sport -->
+
+  <HIDGun_SPAS12Sport.label>SPAS-12 Sport</HIDGun_SPAS12Sport.label>
+  <HIDGun_SPAS12Sport.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</HIDGun_SPAS12Sport.description>
+  <HIDGun_SPAS12Sport.tools.0.label>stock</HIDGun_SPAS12Sport.tools.0.label>
+  <HIDGun_SPAS12Sport.tools.1.label>barrel</HIDGun_SPAS12Sport.tools.1.label>
+  <HIDGun_SPAS12Sport.tools.2.label>muzzle</HIDGun_SPAS12Sport.tools.2.label>
+
+
+  <!-- SPAS-12 Stockless -->
+
+  <HIDGun_SPAS12Stockless.label>SPAS-12 (Stockless)</HIDGun_SPAS12Stockless.label>
+  <HIDGun_SPAS12Stockless.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</HIDGun_SPAS12Stockless.description>
+  <HIDGun_SPAS12Stockless.tools.0.label>barrel</HIDGun_SPAS12Stockless.tools.0.label>
+  <HIDGun_SPAS12Stockless.tools.1.label>muzzle</HIDGun_SPAS12Stockless.tools.1.label>
+
+
+  <!-- Remington Model 870 -->
+
+  <HIDGun_RemingtonM870Gun.label>Remington Model 870</HIDGun_RemingtonM870Gun.label>
+  <HIDGun_RemingtonM870Gun.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</HIDGun_RemingtonM870Gun.description>
+  <HIDGun_RemingtonM870Gun.tools.0.label>stock</HIDGun_RemingtonM870Gun.tools.0.label>
+  <HIDGun_RemingtonM870Gun.tools.1.label>barrel</HIDGun_RemingtonM870Gun.tools.1.label>
+  <HIDGun_RemingtonM870Gun.tools.2.label>muzzle</HIDGun_RemingtonM870Gun.tools.2.label>
+
+
+  <!-- M1014 -->
+
+  <HIDGun_M1014Gun.label>M1014</HIDGun_M1014Gun.label>
+  <HIDGun_M1014Gun.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</HIDGun_M1014Gun.description>
+  <HIDGun_M1014Gun.tools.0.label>stock</HIDGun_M1014Gun.tools.0.label>
+  <HIDGun_M1014Gun.tools.1.label>barrel</HIDGun_M1014Gun.tools.1.label>
+  <HIDGun_M1014Gun.tools.2.label>muzzle</HIDGun_M1014Gun.tools.2.label>
+
+
+  <!-- Browning Auto-5 -->
+
+  <HIDGun_BrowningA5Gun.label>Browing Auto-5</HIDGun_BrowningA5Gun.label>
+  <HIDGun_BrowningA5Gun.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</HIDGun_BrowningA5Gun.description>
+  <HIDGun_BrowningA5Gun.tools.0.label>stock</HIDGun_BrowningA5Gun.tools.0.label>
+  <HIDGun_BrowningA5Gun.tools.1.label>barrel</HIDGun_BrowningA5Gun.tools.1.label>
+  <HIDGun_BrowningA5Gun.tools.2.label>muzzle</HIDGun_BrowningA5Gun.tools.2.label>
+
+
+  <!-- AA-12 -->
+
+  <HIDGun_AA12Gun.label>AA-12</HIDGun_AA12Gun.label>
+  <HIDGun_AA12Gun.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</HIDGun_AA12Gun.description>
+  <HIDGun_AA12Gun.tools.0.label>stock</HIDGun_AA12Gun.tools.0.label>
+  <HIDGun_AA12Gun.tools.1.label>barrel</HIDGun_AA12Gun.tools.1.label>
+  <HIDGun_AA12Gun.tools.2.label>muzzle</HIDGun_AA12Gun.tools.2.label>
+
+
+</LanguageData>

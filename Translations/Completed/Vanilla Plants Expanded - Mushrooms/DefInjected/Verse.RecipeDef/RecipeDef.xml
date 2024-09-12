@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--weave cloth from mycothread-->
+  <VPE_WeaveClothFromMycothread.label>зіткати тканину з міконитки</VPE_WeaveClothFromMycothread.label>
+  <!--Weaves cloth from mycothread.-->
+  <VPE_WeaveClothFromMycothread.description>Зіткати тканину з міконитки.</VPE_WeaveClothFromMycothread.description>
+  <!--Making cloth from mycothread.-->
+  <VPE_WeaveClothFromMycothread.jobString>Тче тканину з міконитку.</VPE_WeaveClothFromMycothread.jobString>
+</LanguageData>

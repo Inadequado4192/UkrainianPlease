@@ -1,0 +1,2163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	<!--ship chunk-->
+	<VFEPD_ShipChunk.label>уламок корабля</VFEPD_ShipChunk.label>
+	<!--A chunk of a spacecraft. Upon closer inspection it seems to be made of painted cardboard.-->
+	<VFEPD_ShipChunk.description>При ближчому розгляді здається, що він зроблений з пофарбованого картону.</VFEPD_ShipChunk.description>
+
+	<!--ship part-->
+	<VFEPD_ShipPart.label>частина корабля</VFEPD_ShipPart.label>
+	<!--An ancient ship part. Upon closer inspection it seems to be made of painted cardboard.-->
+	<VFEPD_ShipPart.description>При ближчому розгляді здається, що вона зроблена з пофарбованого картону.</VFEPD_ShipPart.description>
+
+	<!--defoliator ship part-->
+	<VFEPD_ShipPartDefoliator.label>корабельний дефоліатор</VFEPD_ShipPartDefoliator.label>
+	<!--An ancient ship part. Upon closer inspection it seems to be made of painted cardboard.-->
+	<VFEPD_ShipPartDefoliator.description>При ближчому розгляді здається, що він зроблений з пофарбованого картону.</VFEPD_ShipPartDefoliator.description>
+
+	<!--ancient concrete barrier-->
+	<VFEPD_AncientConcreteBarrier.label>старовинний бетонний бар'єр</VFEPD_AncientConcreteBarrier.label>
+	<!--A traffic management solution from long ago.-->
+	<VFEPD_AncientConcreteBarrier.description>Рішення для керування дорожнього трафіку з давніх часів.</VFEPD_AncientConcreteBarrier.description>
+
+	<!--ancient lamppost-->
+	<VFEPD_AncientLamppost.label>старовинний ліхтарний стовп</VFEPD_AncientLamppost.label>
+	<!--Road lighting from long ago. No longer functional.-->
+	<VFEPD_AncientLamppost.description>Освітлення доріг з давніх часів. Більше не функціонує.</VFEPD_AncientLamppost.description>
+
+	<!--urn-->
+	<VFEPD_Urn.label>урна</VFEPD_Urn.label>
+	<!--An ancient-style decorative container.-->
+	<VFEPD_Urn.description>Декоративний контейнер в давньому стилі.</VFEPD_Urn.description>
+
+	<!--ancient cryptosleep pod-->
+	<VFEPD_AncientCryptosleepPod.label>стародавня капсула криптосну</VFEPD_AncientCryptosleepPod.label>
+	<!--A single-use pod for preserving one person in a state of suspended animation. Sealed shut.-->
+	<VFEPD_AncientCryptosleepPod.description>Одноразова капсула для збереження однієї людини в стані анабіозу. Герметично закрита.</VFEPD_AncientCryptosleepPod.description>
+
+	<!--ancient lamp-->
+	<VFEPD_AncientLamp.label>стародавня лампа</VFEPD_AncientLamp.label>
+	<!--An ancient self-powered lamp. Its internal power supply is completely depleted.-->
+	<VFEPD_AncientLamp.description>Старовинна лампа з автономним живленням. Її внутрішній запас енергії повністю вичерпався.</VFEPD_AncientLamp.description>
+
+	<VFE_CarpetBorder_Straight.label>бордюр з тканини</VFE_CarpetBorder_Straight.label>
+	<VFE_CarpetBorder_Straight.description>Простий бордюр з тканини, який можна пофарбувати.</VFE_CarpetBorder_Straight.description>
+
+	<VFE_CarpetBorder_Corner.label>бордюр з тканини – куточок</VFE_CarpetBorder_Corner.label>
+	<VFE_CarpetBorder_Corner.description>Простий бордюр з тканини, який можна пофарбувати. Для розміщення в кутку.</VFE_CarpetBorder_Corner.description>
+
+	<VFE_FlagstoneBorder_Straight.label>бордюр з плитняку</VFE_FlagstoneBorder_Straight.label>
+	<VFE_FlagstoneBorder_Straight.description>Простий бордюр з плитняку, який можна пофарбувати.</VFE_FlagstoneBorder_Straight.description>
+
+	<VFE_FlagstoneBorder_Corner.label>бордюр з плитняку – куточок</VFE_FlagstoneBorder_Corner.label>
+	<VFE_FlagstoneBorder_Corner.description>Простий бордюр з плитняку, який можна пофарбувати. Для розміщення в кутку.</VFE_FlagstoneBorder_Corner.description>
+
+	<VFE_StoneBorder_Straight.label>кам'яний бордюр</VFE_StoneBorder_Straight.label>
+	<VFE_StoneBorder_Straight.description>Простий кам'яний бордюр, який можна фарбувати.</VFE_StoneBorder_Straight.description>
+
+	<VFE_StoneBorder_Corner.label>кам'яний бордюр – куточок</VFE_StoneBorder_Corner.label>
+	<VFE_StoneBorder_Corner.description>Простий кам'яний бордюр, який можна фарбувати. Для розміщення в кутку.</VFE_StoneBorder_Corner.description>
+
+	<VFE_MetalBorder_Straight.label>металевий бордюр</VFE_MetalBorder_Straight.label>
+	<VFE_MetalBorder_Straight.description>Простий металевий бордюр, який можна фарбувати.</VFE_MetalBorder_Straight.description>
+
+	<VFE_MetalBorder_Corner.label>металевий бордюр – куточок</VFE_MetalBorder_Corner.label>
+	<VFE_MetalBorder_Corner.description>Простий металевий бордюр, який можна фарбувати. Для розміщення в кутку.</VFE_MetalBorder_Corner.description>
+
+	<VFE_WoodenBorder_Straight.label>дерев'яний бордюр</VFE_WoodenBorder_Straight.label>
+	<VFE_WoodenBorder_Straight.description>Простий дерев'яний бордюр, який можна фарбувати.</VFE_WoodenBorder_Straight.description>
+
+	<VFE_WoodenBorder_Corner.label>дерев'яний бордюр – куточок</VFE_WoodenBorder_Corner.label>
+	<VFE_WoodenBorder_Corner.description>Простий дерев'яний бордюр, який можна фарбувати. Для розміщення в кутку.</VFE_WoodenBorder_Corner.description>
+
+	<VFE_WarningBorder_Straight.label>попереджувальний бордюр</VFE_WarningBorder_Straight.label>
+	<VFE_WarningBorder_Straight.description>Простий попереджувальний бордюр, який можна фарбувати.</VFE_WarningBorder_Straight.description>
+
+	<VFE_WarningBorder_Corner.label>попереджувальний бордюр – куточок</VFE_WarningBorder_Corner.label>
+	<VFE_WarningBorder_Corner.description>Простий попереджувальний бордюр, який можна фарбувати. Для розміщення в кутку.</VFE_WarningBorder_Corner.description>
+
+	<VFEPD_LargeDecalArrowLong.label>великий символ із довгою стрілкою</VFEPD_LargeDecalArrowLong.label>
+	<VFEPD_LargeDecalArrowLong.description>Велика розмітка на підлозі.</VFEPD_LargeDecalArrowLong.description>
+
+	<VFEPD_LargeDecalArrowShort.label>великий символ із короткою стрілкою</VFEPD_LargeDecalArrowShort.label>
+	<VFEPD_LargeDecalArrowShort.description>Велика розмітка на підлозі.</VFEPD_LargeDecalArrowShort.description>
+
+	<VFEPD_LargeDecalArrowWide.label>великий символ із широкою стрілкою</VFEPD_LargeDecalArrowWide.label>
+	<VFEPD_LargeDecalArrowWide.description>Велика розмітка на підлозі.</VFEPD_LargeDecalArrowWide.description>
+
+	<VFEPD_LargeDecalArrowLeft.label>великий символ зі стрілкою повороту ліворуч</VFEPD_LargeDecalArrowLeft.label>
+	<VFEPD_LargeDecalArrowLeft.description>Велика розмітка на підлозі.</VFEPD_LargeDecalArrowLeft.description>
+
+	<VFEPD_LargeDecalArrowRight.label>великий символ зі стрілкою повороту праворуч</VFEPD_LargeDecalArrowRight.label>
+	<VFEPD_LargeDecalArrowRight.description>Велика розмітка на підлозі.</VFEPD_LargeDecalArrowRight.description>
+
+	<VFEPD_LargeDecalArrowBoth.label>великий символ зі стрілкою повороту ліворуч або праворуч</VFEPD_LargeDecalArrowBoth.label>
+	<VFEPD_LargeDecalArrowBoth.description>Велика розмітка на підлозі.</VFEPD_LargeDecalArrowBoth.description>
+
+	<VFEPD_LargeDecalArrowDouble.label>великий символ із подвійною стрілкою</VFEPD_LargeDecalArrowDouble.label>
+	<VFEPD_LargeDecalArrowDouble.description>Велика розмітка на підлозі.</VFEPD_LargeDecalArrowDouble.description>
+
+	<VFEPD_LargeDecalArrowLeftStraight.label>великий символ зі стрілкою руху прямо або ліворуч</VFEPD_LargeDecalArrowLeftStraight.label>
+	<VFEPD_LargeDecalArrowLeftStraight.description>Велика розмітка на підлозі.</VFEPD_LargeDecalArrowLeftStraight.description>
+
+	<VFEPD_LargeDecalArrowRightStraight.label>великий символ зі стрілкою руху прямо або праворуч</VFEPD_LargeDecalArrowRightStraight.label>
+	<VFEPD_LargeDecalArrowRightStraight.description>Велика розмітка на підлозі.</VFEPD_LargeDecalArrowRightStraight.description>
+
+	<VFEPD_LargeDecalArrowThreeWays.label>великий символ зі стрілкою руху прямо, ліворуч або праворуч</VFEPD_LargeDecalArrowThreeWays.label>
+	<VFEPD_LargeDecalArrowThreeWays.description>Велика розмітка на підлозі.</VFEPD_LargeDecalArrowThreeWays.description>
+
+	<VFEPD_LargeDecalLineDouble.label>великий символ подвійної смуги</VFEPD_LargeDecalLineDouble.label>
+	<VFEPD_LargeDecalLineDouble.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineDouble.description>
+
+	<VFEPD_LargeDecalLineDoubleCornerInner.label>великий символ подвійної смуги – внутрішній кут</VFEPD_LargeDecalLineDoubleCornerInner.label>
+	<VFEPD_LargeDecalLineDoubleCornerInner.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineDoubleCornerInner.description>
+
+	<VFEPD_LargeDecalLineDoubleCornerInnerRound.label>великий символ подвійної смуги – внутрішній кут, заокруглений</VFEPD_LargeDecalLineDoubleCornerInnerRound.label>
+	<VFEPD_LargeDecalLineDoubleCornerInnerRound.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineDoubleCornerInnerRound.description>
+
+	<VFEPD_LargeDecalLineDoubleCornerOuter.label>великий символ подвійної смуги – зовнішній кут</VFEPD_LargeDecalLineDoubleCornerOuter.label>
+	<VFEPD_LargeDecalLineDoubleCornerOuter.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineDoubleCornerOuter.description>
+
+	<VFEPD_LargeDecalLineDoubleCornerOuterRound.label>великий символ подвійної смуги – зовнішній кут, заокруглений</VFEPD_LargeDecalLineDoubleCornerOuterRound.label>
+	<VFEPD_LargeDecalLineDoubleCornerOuterRound.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineDoubleCornerOuterRound.description>
+
+	<VFEPD_LargeDecalLineThin.label>велика розділювальна смуга</VFEPD_LargeDecalLineThin.label>
+	<VFEPD_LargeDecalLineThin.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThin.description>
+
+	<VFEPD_LargeDecalLineThinCornerInner.label>велика розділювальна смуга – внутрішній кут</VFEPD_LargeDecalLineThinCornerInner.label>
+	<VFEPD_LargeDecalLineThinCornerInner.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinCornerInner.description>
+
+	<VFEPD_LargeDecalLineThinCornerInnerRound.label>велика розділювальна смуга – внутрішній кут, заокруглений</VFEPD_LargeDecalLineThinCornerInnerRound.label>
+	<VFEPD_LargeDecalLineThinCornerInnerRound.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinCornerInnerRound.description>
+
+	<VFEPD_LargeDecalLineThinCornerOuter.label>велика розділювальна смуга – зовнішній кут</VFEPD_LargeDecalLineThinCornerOuter.label>
+	<VFEPD_LargeDecalLineThinCornerOuter.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinCornerOuter.description>
+
+	<VFEPD_LargeDecalLineThinCornerOuterRound.label>велика розділювальна смуга – зовнішній кут, заокруглений</VFEPD_LargeDecalLineThinCornerOuterRound.label>
+	<VFEPD_LargeDecalLineThinCornerOuterRound.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinCornerOuterRound.description>
+
+	<VFEPD_LargeDecalSymbolA.label>великий символ "A"</VFEPD_LargeDecalSymbolA.label>
+	<VFEPD_LargeDecalSymbolA.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolA.description>
+
+	<VFEPD_LargeDecalSymbolB.label>великий символ "B"</VFEPD_LargeDecalSymbolB.label>
+	<VFEPD_LargeDecalSymbolB.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolB.description>
+
+	<VFEPD_LargeDecalSymbolC.label>великий символ "C"</VFEPD_LargeDecalSymbolC.label>
+	<VFEPD_LargeDecalSymbolC.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolC.description>
+
+	<VFEPD_LargeDecalSymbolD.label>великий символ "D"</VFEPD_LargeDecalSymbolD.label>
+	<VFEPD_LargeDecalSymbolD.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolD.description>
+
+	<VFEPD_LargeDecalSymbolE.label>великий символ "E"</VFEPD_LargeDecalSymbolE.label>
+	<VFEPD_LargeDecalSymbolE.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolE.description>
+
+	<VFEPD_LargeDecalSymbolF.label>великий символ "F"</VFEPD_LargeDecalSymbolF.label>
+	<VFEPD_LargeDecalSymbolF.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolF.description>
+
+	<VFEPD_LargeDecalSymbolG.label>великий символ "G"</VFEPD_LargeDecalSymbolG.label>
+	<VFEPD_LargeDecalSymbolG.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolG.description>
+
+	<VFEPD_LargeDecalSymbolH.label>великий символ "H"</VFEPD_LargeDecalSymbolH.label>
+	<VFEPD_LargeDecalSymbolH.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolH.description>
+
+	<VFEPD_LargeDecalSymbolI.label>великий символ "I"</VFEPD_LargeDecalSymbolI.label>
+	<VFEPD_LargeDecalSymbolI.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolI.description>
+
+	<VFEPD_LargeDecalSymbolJ.label>великий символ "J"</VFEPD_LargeDecalSymbolJ.label>
+	<VFEPD_LargeDecalSymbolJ.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolJ.description>
+
+	<VFEPD_LargeDecalSymbolK.label>великий символ "K"</VFEPD_LargeDecalSymbolK.label>
+	<VFEPD_LargeDecalSymbolK.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolK.description>
+
+	<VFEPD_LargeDecalSymbolL.label>великий символ "L"</VFEPD_LargeDecalSymbolL.label>
+	<VFEPD_LargeDecalSymbolL.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolL.description>
+
+	<VFEPD_LargeDecalSymbolM.label>великий символ "M"</VFEPD_LargeDecalSymbolM.label>
+	<VFEPD_LargeDecalSymbolM.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolM.description>
+
+	<VFEPD_LargeDecalSymbolN.label>великий символ "N"</VFEPD_LargeDecalSymbolN.label>
+	<VFEPD_LargeDecalSymbolN.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolN.description>
+
+	<VFEPD_LargeDecalSymbolO.label>великий символ "O"</VFEPD_LargeDecalSymbolO.label>
+	<VFEPD_LargeDecalSymbolO.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolO.description>
+
+	<VFEPD_LargeDecalSymbolP.label>великий символ "P"</VFEPD_LargeDecalSymbolP.label>
+	<VFEPD_LargeDecalSymbolP.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolP.description>
+
+	<VFEPD_LargeDecalSymbolQ.label>великий символ "Q"</VFEPD_LargeDecalSymbolQ.label>
+	<VFEPD_LargeDecalSymbolQ.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolQ.description>
+
+	<VFEPD_LargeDecalSymbolV.label>великий символ "V"</VFEPD_LargeDecalSymbolV.label>
+	<VFEPD_LargeDecalSymbolV.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolV.description>
+
+	<VFEPD_LargeDecalSymbolR.label>великий символ "R"</VFEPD_LargeDecalSymbolR.label>
+	<VFEPD_LargeDecalSymbolR.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolR.description>
+
+	<VFEPD_LargeDecalSymbolS.label>великий символ "S"</VFEPD_LargeDecalSymbolS.label>
+	<VFEPD_LargeDecalSymbolS.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolS.description>
+
+	<VFEPD_LargeDecalSymbolT.label>великий символ "T"</VFEPD_LargeDecalSymbolT.label>
+	<VFEPD_LargeDecalSymbolT.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolT.description>
+
+	<VFEPD_LargeDecalSymbolU.label>великий символ "U"</VFEPD_LargeDecalSymbolU.label>
+	<VFEPD_LargeDecalSymbolU.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolU.description>
+
+	<VFEPD_LargeDecalSymbolW.label>великий символ "W"</VFEPD_LargeDecalSymbolW.label>
+	<VFEPD_LargeDecalSymbolW.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolW.description>
+
+	<VFEPD_LargeDecalSymbolX.label>великий символ "X"</VFEPD_LargeDecalSymbolX.label>
+	<VFEPD_LargeDecalSymbolX.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolX.description>
+
+	<VFEPD_LargeDecalSymbolY.label>великий символ "Y"</VFEPD_LargeDecalSymbolY.label>
+	<VFEPD_LargeDecalSymbolY.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolY.description>
+
+	<VFEPD_LargeDecalSymbolZ.label>великий символ "Z"</VFEPD_LargeDecalSymbolZ.label>
+	<VFEPD_LargeDecalSymbolZ.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolZ.description>
+
+	<VFEPD_LargeDecalSymbolOne.label>великий символ "1"</VFEPD_LargeDecalSymbolOne.label>
+	<VFEPD_LargeDecalSymbolOne.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolOne.description>
+
+	<VFEPD_LargeDecalSymbolTwo.label>великий символ "2"</VFEPD_LargeDecalSymbolTwo.label>
+	<VFEPD_LargeDecalSymbolTwo.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolTwo.description>
+
+	<VFEPD_LargeDecalSymbolThree.label>великий символ "3"</VFEPD_LargeDecalSymbolThree.label>
+	<VFEPD_LargeDecalSymbolThree.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolThree.description>
+
+	<VFEPD_LargeDecalSymbolFour.label>великий символ "4"</VFEPD_LargeDecalSymbolFour.label>
+	<VFEPD_LargeDecalSymbolFour.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolFour.description>
+
+	<VFEPD_LargeDecalSymbolFive.label>великий символ "5"</VFEPD_LargeDecalSymbolFive.label>
+	<VFEPD_LargeDecalSymbolFive.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolFive.description>
+
+	<VFEPD_LargeDecalSymbolSix.label>великий символ "6"</VFEPD_LargeDecalSymbolSix.label>
+	<VFEPD_LargeDecalSymbolSix.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolSix.description>
+
+	<VFEPD_LargeDecalSymbolSeven.label>великий символ "7"</VFEPD_LargeDecalSymbolSeven.label>
+	<VFEPD_LargeDecalSymbolSeven.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolSeven.description>
+
+	<VFEPD_LargeDecalSymbolEight.label>великий символ "8"</VFEPD_LargeDecalSymbolEight.label>
+	<VFEPD_LargeDecalSymbolEight.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolEight.description>
+
+	<VFEPD_LargeDecalSymbolNine.label>великий символ "9"</VFEPD_LargeDecalSymbolNine.label>
+	<VFEPD_LargeDecalSymbolNine.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolNine.description>
+
+	<VFEPD_LargeDecalSymbolZero.label>великий символ "0"</VFEPD_LargeDecalSymbolZero.label>
+	<VFEPD_LargeDecalSymbolZero.description>Велика розмітка на підлозі.</VFEPD_LargeDecalSymbolZero.description>
+
+	<VFEPD_LargeDecalWordArmory.label>великий напис "Armory"</VFEPD_LargeDecalWordArmory.label>
+	<VFEPD_LargeDecalWordArmory.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordArmory.description>
+
+	<VFEPD_LargeDecalWordBarracks.label>великий напис "Barracks"</VFEPD_LargeDecalWordBarracks.label>
+	<VFEPD_LargeDecalWordBarracks.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordBarracks.description>
+
+	<VFEPD_LargeDecalWordBlock.label>великий напис "Block"</VFEPD_LargeDecalWordBlock.label>
+	<VFEPD_LargeDecalWordBlock.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordBlock.description>
+
+	<VFEPD_LargeDecalWordCafeteria.label>великий напис "Cafeteria"</VFEPD_LargeDecalWordCafeteria.label>
+	<VFEPD_LargeDecalWordCafeteria.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordCafeteria.description>
+
+	<VFEPD_LargeDecalWordCargo.label>великий напис "Cargo"</VFEPD_LargeDecalWordCargo.label>
+	<VFEPD_LargeDecalWordCargo.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordCargo.description>
+
+	<VFEPD_LargeDecalWordChamber.label>великий напис "Chamber"</VFEPD_LargeDecalWordChamber.label>
+	<VFEPD_LargeDecalWordChamber.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordChamber.description>
+
+	<VFEPD_LargeDecalWordClimate.label>великий напис "Climate"</VFEPD_LargeDecalWordClimate.label>
+	<VFEPD_LargeDecalWordClimate.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordClimate.description>
+
+	<VFEPD_LargeDecalWordCommand.label>великий напис "Command"</VFEPD_LargeDecalWordCommand.label>
+	<VFEPD_LargeDecalWordCommand.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordCommand.description>
+
+	<VFEPD_LargeDecalWordControl.label>великий напис "Control"</VFEPD_LargeDecalWordControl.label>
+	<VFEPD_LargeDecalWordControl.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordControl.description>
+
+	<VFEPD_LargeDecalWordEngineer.label>великий напис "Engineer"</VFEPD_LargeDecalWordEngineer.label>
+	<VFEPD_LargeDecalWordEngineer.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordEngineer.description>
+
+	<VFEPD_LargeDecalWordFarming.label>великий напис "Farming"</VFEPD_LargeDecalWordFarming.label>
+	<VFEPD_LargeDecalWordFarming.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordFarming.description>
+
+	<VFEPD_LargeDecalWordFreezer.label>великий напис "Freezer"</VFEPD_LargeDecalWordFreezer.label>
+	<VFEPD_LargeDecalWordFreezer.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordFreezer.description>
+
+	<VFEPD_LargeDecalWordFridge.label>великий напис "Fridge"</VFEPD_LargeDecalWordFridge.label>
+	<VFEPD_LargeDecalWordFridge.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordFridge.description>
+
+	<VFEPD_LargeDecalWordHangar.label>великий напис "Hangar"</VFEPD_LargeDecalWordHangar.label>
+	<VFEPD_LargeDecalWordHangar.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordHangar.description>
+
+	<VFEPD_LargeDecalWordHospital.label>великий напис "Hospital"</VFEPD_LargeDecalWordHospital.label>
+	<VFEPD_LargeDecalWordHospital.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordHospital.description>
+
+	<VFEPD_LargeDecalWordKill.label>великий напис "Kill"</VFEPD_LargeDecalWordKill.label>
+	<VFEPD_LargeDecalWordKill.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordKill.description>
+
+	<VFEPD_LargeDecalWordKitchen.label>великий напис "Kitchen"</VFEPD_LargeDecalWordKitchen.label>
+	<VFEPD_LargeDecalWordKitchen.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordKitchen.description>
+
+	<VFEPD_LargeDecalWordLanding.label>великий напис "Landing"</VFEPD_LargeDecalWordLanding.label>
+	<VFEPD_LargeDecalWordLanding.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordLanding.description>
+
+	<VFEPD_LargeDecalWordMedical.label>великий напис "Medical"</VFEPD_LargeDecalWordMedical.label>
+	<VFEPD_LargeDecalWordMedical.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordMedical.description>
+
+	<VFEPD_LargeDecalWordMess.label>великий напис "Mess"</VFEPD_LargeDecalWordMess.label>
+	<VFEPD_LargeDecalWordMess.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordMess.description>
+
+	<VFEPD_LargeDecalWordMorgue.label>великий напис "Morgue"</VFEPD_LargeDecalWordMorgue.label>
+	<VFEPD_LargeDecalWordMorgue.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordMorgue.description>
+
+	<VFEPD_LargeDecalWordMortar.label>великий напис "Mortar"</VFEPD_LargeDecalWordMortar.label>
+	<VFEPD_LargeDecalWordMortar.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordMortar.description>
+
+	<VFEPD_LargeDecalWordPlay.label>великий напис "Play"</VFEPD_LargeDecalWordPlay.label>
+	<VFEPD_LargeDecalWordPlay.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordPlay.description>
+
+	<VFEPD_LargeDecalWordPrison.label>великий напис "Prison"</VFEPD_LargeDecalWordPrison.label>
+	<VFEPD_LargeDecalWordPrison.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordPrison.description>
+
+	<VFEPD_LargeDecalWordReactor.label>великий напис "Reactor"</VFEPD_LargeDecalWordReactor.label>
+	<VFEPD_LargeDecalWordReactor.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordReactor.description>
+
+	<VFEPD_LargeDecalWordRecreation.label>великий напис "Recreation"</VFEPD_LargeDecalWordRecreation.label>
+	<VFEPD_LargeDecalWordRecreation.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordRecreation.description>
+
+	<VFEPD_LargeDecalWordRefinery.label>великий напис "Refinery"</VFEPD_LargeDecalWordRefinery.label>
+	<VFEPD_LargeDecalWordRefinery.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordRefinery.description>
+
+	<VFEPD_LargeDecalWordRelax.label>великий напис "Relax"</VFEPD_LargeDecalWordRelax.label>
+	<VFEPD_LargeDecalWordRelax.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordRelax.description>
+
+	<VFEPD_LargeDecalWordResearch.label>великий напис "Research"</VFEPD_LargeDecalWordResearch.label>
+	<VFEPD_LargeDecalWordResearch.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordResearch.description>
+
+	<VFEPD_LargeDecalWordSecurity.label>великий напис "Security"</VFEPD_LargeDecalWordSecurity.label>
+	<VFEPD_LargeDecalWordSecurity.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSecurity.description>
+
+	<VFEPD_LargeDecalWordShipping.label>великий напис "Shipping"</VFEPD_LargeDecalWordShipping.label>
+	<VFEPD_LargeDecalWordShipping.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordShipping.description>
+
+	<VFEPD_LargeDecalWordSleeping.label>великий напис "Sleeping"</VFEPD_LargeDecalWordSleeping.label>
+	<VFEPD_LargeDecalWordSleeping.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSleeping.description>
+
+	<VFEPD_LargeDecalWordSmelting.label>великий напис "Smelting"</VFEPD_LargeDecalWordSmelting.label>
+	<VFEPD_LargeDecalWordSmelting.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmelting.description>
+
+	<VFEPD_LargeDecalWordStorage.label>великий напис "Storage"</VFEPD_LargeDecalWordStorage.label>
+	<VFEPD_LargeDecalWordStorage.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordStorage.description>
+
+	<VFEPD_LargeDecalWordWarning.label>великий напис "Warning"</VFEPD_LargeDecalWordWarning.label>
+	<VFEPD_LargeDecalWordWarning.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordWarning.description>
+
+	<VFEPD_LargeDecalWordWorkshop.label>великий напис "Workshop"</VFEPD_LargeDecalWordWorkshop.label>
+	<VFEPD_LargeDecalWordWorkshop.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordWorkshop.description>
+
+	<VFEPD_LargeDecalWordSmallBase.label>великий напис "Base"</VFEPD_LargeDecalWordSmallBase.label>
+	<VFEPD_LargeDecalWordSmallBase.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallBase.description>
+
+	<VFEPD_LargeDecalWordSmallBay.label>великий напис "Bay"</VFEPD_LargeDecalWordSmallBay.label>
+	<VFEPD_LargeDecalWordSmallBay.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallBay.description>
+
+	<VFEPD_LargeDecalWordSmallBox.label>великий напис "Box"</VFEPD_LargeDecalWordSmallBox.label>
+	<VFEPD_LargeDecalWordSmallBox.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallBox.description>
+
+	<VFEPD_LargeDecalWordSmallCell.label>великий напис "Cell"</VFEPD_LargeDecalWordSmallCell.label>
+	<VFEPD_LargeDecalWordSmallCell.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallCell.description>
+
+	<VFEPD_LargeDecalWordSmallClear.label>великий напис "Clear"</VFEPD_LargeDecalWordSmallClear.label>
+	<VFEPD_LargeDecalWordSmallClear.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallClear.description>
+
+	<VFEPD_LargeDecalWordSmallDock.label>великий напис "Dock"</VFEPD_LargeDecalWordSmallDock.label>
+	<VFEPD_LargeDecalWordSmallDock.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallDock.description>
+
+	<VFEPD_LargeDecalWordSmallGas.label>великий напис "Gas"</VFEPD_LargeDecalWordSmallGas.label>
+	<VFEPD_LargeDecalWordSmallGas.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallGas.description>
+
+	<VFEPD_LargeDecalWordSmallHall.label>великий напис "Hall"</VFEPD_LargeDecalWordSmallHall.label>
+	<VFEPD_LargeDecalWordSmallHall.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallHall.description>
+
+	<VFEPD_LargeDecalWordSmallKeep.label>великий напис "Keep"</VFEPD_LargeDecalWordSmallKeep.label>
+	<VFEPD_LargeDecalWordSmallKeep.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallKeep.description>
+
+	<VFEPD_LargeDecalWordSmallLab.label>великий напис "Lab"</VFEPD_LargeDecalWordSmallLab.label>
+	<VFEPD_LargeDecalWordSmallLab.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallLab.description>
+
+	<VFEPD_LargeDecalWordSmallPad.label>великий напис "Pad"</VFEPD_LargeDecalWordSmallPad.label>
+	<VFEPD_LargeDecalWordSmallPad.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallPad.description>
+
+	<VFEPD_LargeDecalWordSmallRoom.label>великий напис "Room"</VFEPD_LargeDecalWordSmallRoom.label>
+	<VFEPD_LargeDecalWordSmallRoom.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallRoom.description>
+
+	<VFEPD_LargeDecalWordSmallWing.label>великий напис "Wing"</VFEPD_LargeDecalWordSmallWing.label>
+	<VFEPD_LargeDecalWordSmallWing.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallWing.description>
+
+	<VFEPD_LargeDecalWordSmallZone.label>великий напис "Zone"</VFEPD_LargeDecalWordSmallZone.label>
+	<VFEPD_LargeDecalWordSmallZone.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallZone.description>
+
+	<VFEPD_LargeDecalWordSmallDanger.label>великий напис "Danger"</VFEPD_LargeDecalWordSmallDanger.label>
+	<VFEPD_LargeDecalWordSmallDanger.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWordSmallDanger.description>
+
+	<VFEPD_LargeDecalWarningGeneric.label>великий попереджувальний символ</VFEPD_LargeDecalWarningGeneric.label>
+	<VFEPD_LargeDecalWarningGeneric.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWarningGeneric.description>
+
+	<VFEPD_LargeDecalWarningRadiation.label>великий символ радіації</VFEPD_LargeDecalWarningRadiation.label>
+	<VFEPD_LargeDecalWarningRadiation.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWarningRadiation.description>
+
+	<VFEPD_LargeDecalWarningElectric.label>великий символ електронебезпеки</VFEPD_LargeDecalWarningElectric.label>
+	<VFEPD_LargeDecalWarningElectric.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWarningElectric.description>
+
+	<VFEPD_LargeDecalWarningBiohazard.label>великий символ біонебезпеки</VFEPD_LargeDecalWarningBiohazard.label>
+	<VFEPD_LargeDecalWarningBiohazard.description>Велика розмітка на підлозі.</VFEPD_LargeDecalWarningBiohazard.description>
+
+	<VFEPD_LargeDecalLineThinDiagonal.label>велика розділювальна смуга – діагональна</VFEPD_LargeDecalLineThinDiagonal.label>
+	<VFEPD_LargeDecalLineThinDiagonal.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinDiagonal.description>
+
+	<VFEPD_LargeDecalLineThinCornerInnerDiagonal.label>велика розділювальна смуга – внутрішній кут, діагональний</VFEPD_LargeDecalLineThinCornerInnerDiagonal.label>
+	<VFEPD_LargeDecalLineThinCornerInnerDiagonal.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinCornerInnerDiagonal.description>
+
+	<VFEPD_LargeDecalLineThinCornerOuterDiagonal.label>велика розділювальна смуга – зовнішній кут, діагональний</VFEPD_LargeDecalLineThinCornerOuterDiagonal.label>
+	<VFEPD_LargeDecalLineThinCornerOuterDiagonal.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinCornerOuterDiagonal.description>
+
+	<VFEPD_LargeDecalFakeStairs.label>великі фальшиві сходи</VFEPD_LargeDecalFakeStairs.label>
+	<VFEPD_LargeDecalFakeStairs.description>Велика розмітка на підлозі.</VFEPD_LargeDecalFakeStairs.description>
+
+	<VFEPD_LargeDecalFakeStairsCorner.label>великі фальшиві сходи – кут</VFEPD_LargeDecalFakeStairsCorner.label>
+	<VFEPD_LargeDecalFakeStairsCorner.description>Велика розмітка на підлозі.</VFEPD_LargeDecalFakeStairsCorner.description>
+
+	<VFEPD_LargeDecalLineThinCentered.label>велика розділювальна смуга – центрована</VFEPD_LargeDecalLineThinCentered.label>
+	<VFEPD_LargeDecalLineThinCentered.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinCentered.description>
+
+	<VFEPD_LargeDecalLineThinCenteredCorner.label>велика розділювальна смуга – центрована, кут</VFEPD_LargeDecalLineThinCenteredCorner.label>
+	<VFEPD_LargeDecalLineThinCenteredCorner.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinCenteredCorner.description>
+
+	<VFEPD_LargeDecalLineThinCenteredDiagonal.label>велика розділювальна смуга – центрована, діагональна</VFEPD_LargeDecalLineThinCenteredDiagonal.label>
+	<VFEPD_LargeDecalLineThinCenteredDiagonal.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinCenteredDiagonal.description>
+
+	<VFEPD_LargeDecalLineThinCenteredRound.label>велика розділювальна смуга – центрована, заокруглена</VFEPD_LargeDecalLineThinCenteredRound.label>
+	<VFEPD_LargeDecalLineThinCenteredRound.description>Велика розмітка на підлозі.</VFEPD_LargeDecalLineThinCenteredRound.description>
+
+	<VFEPD_DecalHelipadSquareLarge.label>великий квадратний гелікоптерний майданчик</VFEPD_DecalHelipadSquareLarge.label>
+	<VFEPD_DecalHelipadSquareLarge.description>Велика розмітка на підлозі.</VFEPD_DecalHelipadSquareLarge.description>
+
+	<VFEPD_DecalHelipadRoundLarge.label>великий круглий гелікоптерний майданчик</VFEPD_DecalHelipadRoundLarge.label>
+	<VFEPD_DecalHelipadRoundLarge.description>Велика розмітка на підлозі.</VFEPD_DecalHelipadRoundLarge.description>
+
+	<VFEPD_DecalWarningStripesLarge.label>великі попереджувальні смуги</VFEPD_DecalWarningStripesLarge.label>
+	<VFEPD_DecalWarningStripesLarge.description>Велика розмітка на підлозі.</VFEPD_DecalWarningStripesLarge.description>
+
+	<VFEPD_DecalWarningStripesCleanLarge.label>великі попереджувальні смуги – чисті</VFEPD_DecalWarningStripesCleanLarge.label>
+	<VFEPD_DecalWarningStripesCleanLarge.description>Велика розмітка на підлозі.</VFEPD_DecalWarningStripesCleanLarge.description>
+
+	<VFEPD_DecalArrowLong.label>символ із довгою стрілкою</VFEPD_DecalArrowLong.label>
+	<VFEPD_DecalArrowLong.description>Мала розмітка на підлозі.</VFEPD_DecalArrowLong.description>
+
+	<VFEPD_DecalArrowShort.label>символ із короткою стрілкою</VFEPD_DecalArrowShort.label>
+	<VFEPD_DecalArrowShort.description>Мала розмітка на підлозі.</VFEPD_DecalArrowShort.description>
+
+	<VFEPD_DecalArrowWide.label>символ із широкою стрілкою</VFEPD_DecalArrowWide.label>
+	<VFEPD_DecalArrowWide.description>Мала розмітка на підлозі.</VFEPD_DecalArrowWide.description>
+
+	<VFEPD_DecalArrowLeft.label>символ зі стрілкою повороту ліворуч</VFEPD_DecalArrowLeft.label>
+	<VFEPD_DecalArrowLeft.description>Мала розмітка на підлозі.</VFEPD_DecalArrowLeft.description>
+
+	<VFEPD_DecalArrowRight.label>символ зі стрілкою повороту праворуч</VFEPD_DecalArrowRight.label>
+	<VFEPD_DecalArrowRight.description>Мала розмітка на підлозі.</VFEPD_DecalArrowRight.description>
+
+	<VFEPD_DecalArrowBoth.label>символ зі стрілкою повороту ліворуч або праворуч</VFEPD_DecalArrowBoth.label>
+	<VFEPD_DecalArrowBoth.description>Мала розмітка на підлозі.</VFEPD_DecalArrowBoth.description>
+
+	<VFEPD_DecalArrowDouble.label>символ із подвійною стрілкою</VFEPD_DecalArrowDouble.label>
+	<VFEPD_DecalArrowDouble.description>Мала розмітка на підлозі.</VFEPD_DecalArrowDouble.description>
+
+	<VFEPD_DecalArrowLeftStraight.label>символ зі стрілкою руху прямо або ліворуч</VFEPD_DecalArrowLeftStraight.label>
+	<VFEPD_DecalArrowLeftStraight.description>Мала розмітка на підлозі.</VFEPD_DecalArrowLeftStraight.description>
+
+	<VFEPD_DecalArrowRightStraight.label>символ зі стрілкою руху прямо або праворуч</VFEPD_DecalArrowRightStraight.label>
+	<VFEPD_DecalArrowRightStraight.description>Мала розмітка на підлозі.</VFEPD_DecalArrowRightStraight.description>
+
+	<VFEPD_DecalArrowThreeWays.label>символ зі стрілкою руху прямо, ліворуч або праворуч</VFEPD_DecalArrowThreeWays.label>
+	<VFEPD_DecalArrowThreeWays.description>Мала розмітка на підлозі.</VFEPD_DecalArrowThreeWays.description>
+
+	<VFEPD_DecalLineDouble.label>символ подвійної смуги</VFEPD_DecalLineDouble.label>
+	<VFEPD_DecalLineDouble.description>Мала розмітка на підлозі.</VFEPD_DecalLineDouble.description>
+
+	<VFEPD_DecalLineDoubleCornerInner.label>символ подвійної смуги – внутрішній кут</VFEPD_DecalLineDoubleCornerInner.label>
+	<VFEPD_DecalLineDoubleCornerInner.description>Мала розмітка на підлозі.</VFEPD_DecalLineDoubleCornerInner.description>
+
+	<VFEPD_DecalLineDoubleCornerInnerRound.label>символ подвійної смуги – внутрішній кут, заокруглений</VFEPD_DecalLineDoubleCornerInnerRound.label>
+	<VFEPD_DecalLineDoubleCornerInnerRound.description>Мала розмітка на підлозі.</VFEPD_DecalLineDoubleCornerInnerRound.description>
+
+	<VFEPD_DecalLineDoubleCornerOuter.label>символ подвійної смуги – зовнішній кут</VFEPD_DecalLineDoubleCornerOuter.label>
+	<VFEPD_DecalLineDoubleCornerOuter.description>Мала розмітка на підлозі.</VFEPD_DecalLineDoubleCornerOuter.description>
+
+	<VFEPD_DecalLineDoubleCornerOuterRound.label>символ подвійної смуги – зовнішній кут, заокруглений</VFEPD_DecalLineDoubleCornerOuterRound.label>
+	<VFEPD_DecalLineDoubleCornerOuterRound.description>Мала розмітка на підлозі.</VFEPD_DecalLineDoubleCornerOuterRound.description>
+
+	<VFEPD_DecalLineThin.label>розділювальна смуга</VFEPD_DecalLineThin.label>
+	<VFEPD_DecalLineThin.description>Мала розмітка на підлозі.</VFEPD_DecalLineThin.description>
+
+	<VFEPD_DecalLineThinCornerInner.label>розділювальна смуга – внутрішній кут</VFEPD_DecalLineThinCornerInner.label>
+	<VFEPD_DecalLineThinCornerInner.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinCornerInner.description>
+
+	<VFEPD_DecalLineThinCornerInnerRound.label>розділювальна смуга – внутрішній кут, заокруглений</VFEPD_DecalLineThinCornerInnerRound.label>
+	<VFEPD_DecalLineThinCornerInnerRound.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinCornerInnerRound.description>
+
+	<VFEPD_DecalLineThinCornerOuter.label>розділювальна смуга – зовнішній кут</VFEPD_DecalLineThinCornerOuter.label>
+	<VFEPD_DecalLineThinCornerOuter.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinCornerOuter.description>
+
+	<VFEPD_DecalLineThinCornerOuterRound.label>розділювальна смуга – зовнішній кут, заокруглений</VFEPD_DecalLineThinCornerOuterRound.label>
+	<VFEPD_DecalLineThinCornerOuterRound.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinCornerOuterRound.description>
+
+	<VFEPD_DecalSymbolA.label>символ "A"</VFEPD_DecalSymbolA.label>
+	<VFEPD_DecalSymbolA.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolA.description>
+
+	<VFEPD_DecalSymbolB.label>символ "B"</VFEPD_DecalSymbolB.label>
+	<VFEPD_DecalSymbolB.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolB.description>
+
+	<VFEPD_DecalSymbolC.label>символ "C"</VFEPD_DecalSymbolC.label>
+	<VFEPD_DecalSymbolC.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolC.description>
+
+	<VFEPD_DecalSymbolD.label>символ "D"</VFEPD_DecalSymbolD.label>
+	<VFEPD_DecalSymbolD.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolD.description>
+
+	<VFEPD_DecalSymbolE.label>символ "E"</VFEPD_DecalSymbolE.label>
+	<VFEPD_DecalSymbolE.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolE.description>
+
+	<VFEPD_DecalSymbolF.label>символ "F"</VFEPD_DecalSymbolF.label>
+	<VFEPD_DecalSymbolF.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolF.description>
+
+	<VFEPD_DecalSymbolG.label>символ "G"</VFEPD_DecalSymbolG.label>
+	<VFEPD_DecalSymbolG.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolG.description>
+
+	<VFEPD_DecalSymbolH.label>символ "H"</VFEPD_DecalSymbolH.label>
+	<VFEPD_DecalSymbolH.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolH.description>
+
+	<VFEPD_DecalSymbolI.label>символ "I"</VFEPD_DecalSymbolI.label>
+	<VFEPD_DecalSymbolI.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolI.description>
+
+	<VFEPD_DecalSymbolJ.label>символ "J"</VFEPD_DecalSymbolJ.label>
+	<VFEPD_DecalSymbolJ.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolJ.description>
+
+	<VFEPD_DecalSymbolK.label>символ "K"</VFEPD_DecalSymbolK.label>
+	<VFEPD_DecalSymbolK.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolK.description>
+
+	<VFEPD_DecalSymbolL.label>символ "L"</VFEPD_DecalSymbolL.label>
+	<VFEPD_DecalSymbolL.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolL.description>
+
+	<VFEPD_DecalSymbolM.label>символ "M"</VFEPD_DecalSymbolM.label>
+	<VFEPD_DecalSymbolM.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolM.description>
+
+	<VFEPD_DecalSymbolN.label>символ "N"</VFEPD_DecalSymbolN.label>
+	<VFEPD_DecalSymbolN.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolN.description>
+
+	<VFEPD_DecalSymbolO.label>символ "O"</VFEPD_DecalSymbolO.label>
+	<VFEPD_DecalSymbolO.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolO.description>
+
+	<VFEPD_DecalSymbolP.label>символ "P"</VFEPD_DecalSymbolP.label>
+	<VFEPD_DecalSymbolP.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolP.description>
+
+	<VFEPD_DecalSymbolQ.label>символ "Q"</VFEPD_DecalSymbolQ.label>
+	<VFEPD_DecalSymbolQ.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolQ.description>
+
+	<VFEPD_DecalSymbolV.label>символ "V"</VFEPD_DecalSymbolV.label>
+	<VFEPD_DecalSymbolV.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolV.description>
+
+	<VFEPD_DecalSymbolR.label>символ "R"</VFEPD_DecalSymbolR.label>
+	<VFEPD_DecalSymbolR.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolR.description>
+
+	<VFEPD_DecalSymbolS.label>символ "S"</VFEPD_DecalSymbolS.label>
+	<VFEPD_DecalSymbolS.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolS.description>
+
+	<VFEPD_DecalSymbolT.label>символ "T"</VFEPD_DecalSymbolT.label>
+	<VFEPD_DecalSymbolT.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolT.description>
+
+	<VFEPD_DecalSymbolU.label>символ "U"</VFEPD_DecalSymbolU.label>
+	<VFEPD_DecalSymbolU.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolU.description>
+
+	<VFEPD_DecalSymbolW.label>символ "W"</VFEPD_DecalSymbolW.label>
+	<VFEPD_DecalSymbolW.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolW.description>
+
+	<VFEPD_DecalSymbolX.label>символ "X"</VFEPD_DecalSymbolX.label>
+	<VFEPD_DecalSymbolX.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolX.description>
+
+	<VFEPD_DecalSymbolY.label>символ "Y"</VFEPD_DecalSymbolY.label>
+	<VFEPD_DecalSymbolY.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolY.description>
+
+	<VFEPD_DecalSymbolZ.label>символ "Z"</VFEPD_DecalSymbolZ.label>
+	<VFEPD_DecalSymbolZ.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolZ.description>
+
+	<VFEPD_DecalSymbolOne.label>символ "1"</VFEPD_DecalSymbolOne.label>
+	<VFEPD_DecalSymbolOne.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolOne.description>
+
+	<VFEPD_DecalSymbolTwo.label>символ "2"</VFEPD_DecalSymbolTwo.label>
+	<VFEPD_DecalSymbolTwo.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolTwo.description>
+
+	<VFEPD_DecalSymbolThree.label>символ "3"</VFEPD_DecalSymbolThree.label>
+	<VFEPD_DecalSymbolThree.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolThree.description>
+
+	<VFEPD_DecalSymbolFour.label>символ "4"</VFEPD_DecalSymbolFour.label>
+	<VFEPD_DecalSymbolFour.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolFour.description>
+
+	<VFEPD_DecalSymbolFive.label>символ "5"</VFEPD_DecalSymbolFive.label>
+	<VFEPD_DecalSymbolFive.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolFive.description>
+
+	<VFEPD_DecalSymbolSix.label>символ "6"</VFEPD_DecalSymbolSix.label>
+	<VFEPD_DecalSymbolSix.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolSix.description>
+
+	<VFEPD_DecalSymbolSeven.label>символ "7"</VFEPD_DecalSymbolSeven.label>
+	<VFEPD_DecalSymbolSeven.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolSeven.description>
+
+	<VFEPD_DecalSymbolEight.label>символ "8"</VFEPD_DecalSymbolEight.label>
+	<VFEPD_DecalSymbolEight.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolEight.description>
+
+	<VFEPD_DecalSymbolNine.label>символ "9"</VFEPD_DecalSymbolNine.label>
+	<VFEPD_DecalSymbolNine.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolNine.description>
+
+	<VFEPD_DecalSymbolZero.label>символ "0"</VFEPD_DecalSymbolZero.label>
+	<VFEPD_DecalSymbolZero.description>Мала розмітка на підлозі.</VFEPD_DecalSymbolZero.description>
+
+	<VFEPD_DecalWordArmory.label>напис "Armory"</VFEPD_DecalWordArmory.label>
+	<VFEPD_DecalWordArmory.description>Мала розмітка на підлозі.</VFEPD_DecalWordArmory.description>
+
+	<VFEPD_DecalWordBarracks.label>напис "Barracks"</VFEPD_DecalWordBarracks.label>
+	<VFEPD_DecalWordBarracks.description>Мала розмітка на підлозі.</VFEPD_DecalWordBarracks.description>
+
+	<VFEPD_DecalWordBlock.label>напис "Block"</VFEPD_DecalWordBlock.label>
+	<VFEPD_DecalWordBlock.description>Мала розмітка на підлозі.</VFEPD_DecalWordBlock.description>
+
+	<VFEPD_DecalWordCafeteria.label>напис "Cafeteria"</VFEPD_DecalWordCafeteria.label>
+	<VFEPD_DecalWordCafeteria.description>Мала розмітка на підлозі.</VFEPD_DecalWordCafeteria.description>
+
+	<VFEPD_DecalWordCargo.label>напис "Cargo"</VFEPD_DecalWordCargo.label>
+	<VFEPD_DecalWordCargo.description>Мала розмітка на підлозі.</VFEPD_DecalWordCargo.description>
+
+	<VFEPD_DecalWordChamber.label>напис "Chamber"</VFEPD_DecalWordChamber.label>
+	<VFEPD_DecalWordChamber.description>Мала розмітка на підлозі.</VFEPD_DecalWordChamber.description>
+
+	<VFEPD_DecalWordClimate.label>напис "Climate"</VFEPD_DecalWordClimate.label>
+	<VFEPD_DecalWordClimate.description>Мала розмітка на підлозі.</VFEPD_DecalWordClimate.description>
+
+	<VFEPD_DecalWordCommand.label>напис "Command"</VFEPD_DecalWordCommand.label>
+	<VFEPD_DecalWordCommand.description>Мала розмітка на підлозі.</VFEPD_DecalWordCommand.description>
+
+	<VFEPD_DecalWordControl.label>напис "Control"</VFEPD_DecalWordControl.label>
+	<VFEPD_DecalWordControl.description>Мала розмітка на підлозі.</VFEPD_DecalWordControl.description>
+
+	<VFEPD_DecalWordEngineer.label>напис "Engineer"</VFEPD_DecalWordEngineer.label>
+	<VFEPD_DecalWordEngineer.description>Мала розмітка на підлозі.</VFEPD_DecalWordEngineer.description>
+
+	<VFEPD_DecalWordFarming.label>напис "Farming"</VFEPD_DecalWordFarming.label>
+	<VFEPD_DecalWordFarming.description>Мала розмітка на підлозі.</VFEPD_DecalWordFarming.description>
+
+	<VFEPD_DecalWordFreezer.label>напис "Freezer"</VFEPD_DecalWordFreezer.label>
+	<VFEPD_DecalWordFreezer.description>Мала розмітка на підлозі.</VFEPD_DecalWordFreezer.description>
+
+	<VFEPD_DecalWordFridge.label>напис "Fridge"</VFEPD_DecalWordFridge.label>
+	<VFEPD_DecalWordFridge.description>Мала розмітка на підлозі.</VFEPD_DecalWordFridge.description>
+
+	<VFEPD_DecalWordHangar.label>напис "Hangar"</VFEPD_DecalWordHangar.label>
+	<VFEPD_DecalWordHangar.description>Мала розмітка на підлозі.</VFEPD_DecalWordHangar.description>
+
+	<VFEPD_DecalWordHospital.label>напис "Hospital"</VFEPD_DecalWordHospital.label>
+	<VFEPD_DecalWordHospital.description>Мала розмітка на підлозі.</VFEPD_DecalWordHospital.description>
+
+	<VFEPD_DecalWordKill.label>напис "Kill"</VFEPD_DecalWordKill.label>
+	<VFEPD_DecalWordKill.description>Мала розмітка на підлозі.</VFEPD_DecalWordKill.description>
+
+	<VFEPD_DecalWordKitchen.label>напис "Kitchen"</VFEPD_DecalWordKitchen.label>
+	<VFEPD_DecalWordKitchen.description>Мала розмітка на підлозі.</VFEPD_DecalWordKitchen.description>
+
+	<VFEPD_DecalWordLanding.label>напис "Landing"</VFEPD_DecalWordLanding.label>
+	<VFEPD_DecalWordLanding.description>Мала розмітка на підлозі.</VFEPD_DecalWordLanding.description>
+
+	<VFEPD_DecalWordMedical.label>напис "Medical"</VFEPD_DecalWordMedical.label>
+	<VFEPD_DecalWordMedical.description>Мала розмітка на підлозі.</VFEPD_DecalWordMedical.description>
+
+	<VFEPD_DecalWordMess.label>напис "Mess"</VFEPD_DecalWordMess.label>
+	<VFEPD_DecalWordMess.description>Мала розмітка на підлозі.</VFEPD_DecalWordMess.description>
+
+	<VFEPD_DecalWordMorgue.label>напис "Morgue"</VFEPD_DecalWordMorgue.label>
+	<VFEPD_DecalWordMorgue.description>Мала розмітка на підлозі.</VFEPD_DecalWordMorgue.description>
+
+	<VFEPD_DecalWordMortar.label>напис "Mortar"</VFEPD_DecalWordMortar.label>
+	<VFEPD_DecalWordMortar.description>Мала розмітка на підлозі.</VFEPD_DecalWordMortar.description>
+
+	<VFEPD_DecalWordPlay.label>напис "Play"</VFEPD_DecalWordPlay.label>
+	<VFEPD_DecalWordPlay.description>Мала розмітка на підлозі.</VFEPD_DecalWordPlay.description>
+
+	<VFEPD_DecalWordPrison.label>напис "Prison"</VFEPD_DecalWordPrison.label>
+	<VFEPD_DecalWordPrison.description>Мала розмітка на підлозі.</VFEPD_DecalWordPrison.description>
+
+	<VFEPD_DecalWordReactor.label>напис "Reactor"</VFEPD_DecalWordReactor.label>
+	<VFEPD_DecalWordReactor.description>Мала розмітка на підлозі.</VFEPD_DecalWordReactor.description>
+
+	<VFEPD_DecalWordRecreation.label>напис "Recreation"</VFEPD_DecalWordRecreation.label>
+	<VFEPD_DecalWordRecreation.description>Мала розмітка на підлозі.</VFEPD_DecalWordRecreation.description>
+
+	<VFEPD_DecalWordRefinery.label>напис "Refinery"</VFEPD_DecalWordRefinery.label>
+	<VFEPD_DecalWordRefinery.description>Мала розмітка на підлозі.</VFEPD_DecalWordRefinery.description>
+
+	<VFEPD_DecalWordRelax.label>напис "Relax"</VFEPD_DecalWordRelax.label>
+	<VFEPD_DecalWordRelax.description>Мала розмітка на підлозі.</VFEPD_DecalWordRelax.description>
+
+	<VFEPD_DecalWordResearch.label>напис "Research"</VFEPD_DecalWordResearch.label>
+	<VFEPD_DecalWordResearch.description>Мала розмітка на підлозі.</VFEPD_DecalWordResearch.description>
+
+	<VFEPD_DecalWordSecurity.label>напис "Security"</VFEPD_DecalWordSecurity.label>
+	<VFEPD_DecalWordSecurity.description>Мала розмітка на підлозі.</VFEPD_DecalWordSecurity.description>
+
+	<VFEPD_DecalWordShipping.label>напис "Shipping"</VFEPD_DecalWordShipping.label>
+	<VFEPD_DecalWordShipping.description>Мала розмітка на підлозі.</VFEPD_DecalWordShipping.description>
+
+	<VFEPD_DecalWordSleeping.label>напис "Sleeping"</VFEPD_DecalWordSleeping.label>
+	<VFEPD_DecalWordSleeping.description>Мала розмітка на підлозі.</VFEPD_DecalWordSleeping.description>
+
+	<VFEPD_DecalWordSmelting.label>напис "Smelting"</VFEPD_DecalWordSmelting.label>
+	<VFEPD_DecalWordSmelting.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmelting.description>
+
+	<VFEPD_DecalWordStorage.label>напис "Storage"</VFEPD_DecalWordStorage.label>
+	<VFEPD_DecalWordStorage.description>Мала розмітка на підлозі.</VFEPD_DecalWordStorage.description>
+
+	<VFEPD_DecalWordWarning.label>напис "Warning"</VFEPD_DecalWordWarning.label>
+	<VFEPD_DecalWordWarning.description>Мала розмітка на підлозі.</VFEPD_DecalWordWarning.description>
+
+	<VFEPD_DecalWordWorkshop.label>напис "Workshop"</VFEPD_DecalWordWorkshop.label>
+	<VFEPD_DecalWordWorkshop.description>Мала розмітка на підлозі.</VFEPD_DecalWordWorkshop.description>
+
+	<VFEPD_DecalWordSmallBase.label>напис "Base"</VFEPD_DecalWordSmallBase.label>
+	<VFEPD_DecalWordSmallBase.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallBase.description>
+
+	<VFEPD_DecalWordSmallBay.label>напис "Bay"</VFEPD_DecalWordSmallBay.label>
+	<VFEPD_DecalWordSmallBay.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallBay.description>
+
+	<VFEPD_DecalWordSmallBox.label>напис "Box"</VFEPD_DecalWordSmallBox.label>
+	<VFEPD_DecalWordSmallBox.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallBox.description>
+
+	<VFEPD_DecalWordSmallCell.label>напис "Cell"</VFEPD_DecalWordSmallCell.label>
+	<VFEPD_DecalWordSmallCell.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallCell.description>
+
+	<VFEPD_DecalWordSmallClear.label>напис "Clear"</VFEPD_DecalWordSmallClear.label>
+	<VFEPD_DecalWordSmallClear.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallClear.description>
+
+	<VFEPD_DecalWordSmallDock.label>напис "Dock"</VFEPD_DecalWordSmallDock.label>
+	<VFEPD_DecalWordSmallDock.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallDock.description>
+
+	<VFEPD_DecalWordSmallGas.label>напис "Gas"</VFEPD_DecalWordSmallGas.label>
+	<VFEPD_DecalWordSmallGas.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallGas.description>
+
+	<VFEPD_DecalWordSmallHall.label>напис "Hall"</VFEPD_DecalWordSmallHall.label>
+	<VFEPD_DecalWordSmallHall.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallHall.description>
+
+	<VFEPD_DecalWordSmallKeep.label>напис "Keep"</VFEPD_DecalWordSmallKeep.label>
+	<VFEPD_DecalWordSmallKeep.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallKeep.description>
+
+	<VFEPD_DecalWordSmallLab.label>напис "Lab"</VFEPD_DecalWordSmallLab.label>
+	<VFEPD_DecalWordSmallLab.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallLab.description>
+
+	<VFEPD_DecalWordSmallPad.label>напис "Pad"</VFEPD_DecalWordSmallPad.label>
+	<VFEPD_DecalWordSmallPad.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallPad.description>
+
+	<VFEPD_DecalWordSmallRoom.label>напис "Room"</VFEPD_DecalWordSmallRoom.label>
+	<VFEPD_DecalWordSmallRoom.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallRoom.description>
+
+	<VFEPD_DecalWordSmallWing.label>напис "Wing"</VFEPD_DecalWordSmallWing.label>
+	<VFEPD_DecalWordSmallWing.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallWing.description>
+
+	<VFEPD_DecalWordSmallZone.label>напис "Zone"</VFEPD_DecalWordSmallZone.label>
+	<VFEPD_DecalWordSmallZone.description>Мала розмітка на підлозі.</VFEPD_DecalWordSmallZone.description>
+
+	<VFEPD_DecalWordDanger.label>напис "Danger"</VFEPD_DecalWordDanger.label>
+	<VFEPD_DecalWordDanger.description>Мала розмітка на підлозі.</VFEPD_DecalWordDanger.description>
+
+	<VFEPD_DecalWarningGeneric.label>попереджувальний символ</VFEPD_DecalWarningGeneric.label>
+	<VFEPD_DecalWarningGeneric.description>Мала розмітка на підлозі.</VFEPD_DecalWarningGeneric.description>
+
+	<VFEPD_DecalWarningRadiation.label>символ радіації</VFEPD_DecalWarningRadiation.label>
+	<VFEPD_DecalWarningRadiation.description>Мала розмітка на підлозі.</VFEPD_DecalWarningRadiation.description>
+
+	<VFEPD_DecalWarningElectric.label>символ електронебезпеки</VFEPD_DecalWarningElectric.label>
+	<VFEPD_DecalWarningElectric.description>Мала розмітка на підлозі.</VFEPD_DecalWarningElectric.description>
+
+	<VFEPD_DecalWarningBiohazard.label>символ біонебезпеки</VFEPD_DecalWarningBiohazard.label>
+	<VFEPD_DecalWarningBiohazard.description>Мала розмітка на підлозі.</VFEPD_DecalWarningBiohazard.description>
+
+	<VFEPD_DecalLineThinDiagonal.label>розділювальна смуга – діагональна</VFEPD_DecalLineThinDiagonal.label>
+	<VFEPD_DecalLineThinDiagonal.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinDiagonal.description>
+
+	<VFEPD_DecalLineThinCornerInnerDiagonal.label>розділювальна смуга – внутрішній кут, діагональний</VFEPD_DecalLineThinCornerInnerDiagonal.label>
+	<VFEPD_DecalLineThinCornerInnerDiagonal.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinCornerInnerDiagonal.description>
+
+	<VFEPD_DecalLineThinCornerOuterDiagonal.label>розділювальна смуга – зовнішній кут, діагональний</VFEPD_DecalLineThinCornerOuterDiagonal.label>
+	<VFEPD_DecalLineThinCornerOuterDiagonal.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinCornerOuterDiagonal.description>
+
+	<VFEPD_DecalFakeStairs.label>фальшиві сходи</VFEPD_DecalFakeStairs.label>
+	<VFEPD_DecalFakeStairs.description>Мала розмітка на підлозі.</VFEPD_DecalFakeStairs.description>
+
+	<VFEPD_DecalFakeStairsCorner.label>фальшиві сходи – кут</VFEPD_DecalFakeStairsCorner.label>
+	<VFEPD_DecalFakeStairsCorner.description>Мала розмітка на підлозі.</VFEPD_DecalFakeStairsCorner.description>
+
+	<VFEPD_DecalLineThinCentered.label>розділювальна смуга – центрована</VFEPD_DecalLineThinCentered.label>
+	<VFEPD_DecalLineThinCentered.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinCentered.description>
+
+	<VFEPD_DecalLineThinCenteredCorner.label>розділювальна смуга – центрована, кут</VFEPD_DecalLineThinCenteredCorner.label>
+	<VFEPD_DecalLineThinCenteredCorner.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinCenteredCorner.description>
+
+	<VFEPD_DecalLineThinCenteredDiagonal.label>розділювальна смуга – центрована, діагональна</VFEPD_DecalLineThinCenteredDiagonal.label>
+	<VFEPD_DecalLineThinCenteredDiagonal.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinCenteredDiagonal.description>
+
+	<VFEPD_DecalLineThinCenteredRound.label>розділювальна смуга – центрована, заокруглена</VFEPD_DecalLineThinCenteredRound.label>
+	<VFEPD_DecalLineThinCenteredRound.description>Мала розмітка на підлозі.</VFEPD_DecalLineThinCenteredRound.description>
+
+	<VFEPD_DecalHelipadSquare.label>квадратний гелікоптерний майданчик</VFEPD_DecalHelipadSquare.label>
+	<VFEPD_DecalHelipadSquare.description>Мала розмітка на підлозі.</VFEPD_DecalHelipadSquare.description>
+
+	<VFEPD_DecalHelipadRound.label>круглий гелікоптерний майданчик</VFEPD_DecalHelipadRound.label>
+	<VFEPD_DecalHelipadRound.description>Мала розмітка на підлозі.</VFEPD_DecalHelipadRound.description>
+
+	<VFEPD_DecalWarningStripes.label>попереджувальні смуги</VFEPD_DecalWarningStripes.label>
+	<VFEPD_DecalWarningStripes.description>Мала розмітка на підлозі.</VFEPD_DecalWarningStripes.description>
+
+	<VFEPD_DecalWarningStripesClean.label>попереджувальні смуги – чисті</VFEPD_DecalWarningStripesClean.label>
+	<VFEPD_DecalWarningStripesClean.description>Мала розмітка на підлозі.</VFEPD_DecalWarningStripesClean.description>
+
+	<VFEPD_CleanEffect.label>чистка</VFEPD_CleanEffect.label>
+	<VFEPD_CleanEffect.description>Ефект "Чистка". Викликає лаги, використовуйте помірно.</VFEPD_CleanEffect.description>
+
+	<VFEPD_PaintEffect.label>фарбування</VFEPD_PaintEffect.label>
+	<VFEPD_PaintEffect.description>Ефект "Фарбування". Викликає лаги, використовуйте помірно.</VFEPD_PaintEffect.description>
+
+	<VFEPD_ConstructMetalEffect.label>будування – метал</VFEPD_ConstructMetalEffect.label>
+	<VFEPD_ConstructMetalEffect.description>Ефект "Будування – Метал". Викликає лаги, використовуйте помірно.</VFEPD_ConstructMetalEffect.description>
+
+	<VFEPD_ConstructWoodEffect.label>будування – дерево</VFEPD_ConstructWoodEffect.label>
+	<VFEPD_ConstructWoodEffect.description>Ефект "Будування – Дерево". Викликає лаги, використовуйте помірно.</VFEPD_ConstructWoodEffect.description>
+
+	<VFEPD_ConstructDirtEffect.label>будування – бруд</VFEPD_ConstructDirtEffect.label>
+	<VFEPD_ConstructDirtEffect.description>Ефект "Будування – Бруд". Викликає лаги, використовуйте помірно.</VFEPD_ConstructDirtEffect.description>
+
+	<VFEPD_BuryPawnEffect.label>поховання</VFEPD_BuryPawnEffect.label>
+	<VFEPD_BuryPawnEffect.description>Ефект "Поховання". Викликає лаги, використовуйте помірно.</VFEPD_BuryPawnEffect.description>
+
+	<VFEPD_RoofWorkEffect.label>покрівельні роботи</VFEPD_RoofWorkEffect.label>
+	<VFEPD_RoofWorkEffect.description>Ефект "Покрівельні Роботи". Викликає лаги, використовуйте помірно.</VFEPD_RoofWorkEffect.description>
+
+	<VFEPD_EatMeatEffect.label>вживання м'яса</VFEPD_EatMeatEffect.label>
+	<VFEPD_EatMeatEffect.description>Ефект "Вживання М'яса". Викликає лаги, використовуйте помірно.</VFEPD_EatMeatEffect.description>
+
+	<VFEPD_EatVegetarianEffect.label>вживання вегетаріанської їжі</VFEPD_EatVegetarianEffect.label>
+	<VFEPD_EatVegetarianEffect.description>Ефект "Вживання Вегетаріанської Їжі". Викликає лаги, використовуйте помірно.</VFEPD_EatVegetarianEffect.description>
+
+	<VFEPD_DrillEffect.label>буріння</VFEPD_DrillEffect.label>
+	<VFEPD_DrillEffect.description>Ефект "Буріння". Викликає лаги, використовуйте помірно.</VFEPD_DrillEffect.description>
+
+	<VFEPD_ResearchEffect.label>дослідження</VFEPD_ResearchEffect.label>
+	<VFEPD_ResearchEffect.description>Ефект "Дослідження". Викликає лаги, використовуйте помірно.</VFEPD_ResearchEffect.description>
+
+	<VFEPD_ClearSnowEffect.label>чистка снігу</VFEPD_ClearSnowEffect.label>
+	<VFEPD_ClearSnowEffect.description>Ефект "Чистка Снігу". Викликає лаги, використовуйте помірно.</VFEPD_ClearSnowEffect.description>
+
+	<VFEPD_SowEffect.label>сіяння</VFEPD_SowEffect.label>
+	<VFEPD_SowEffect.description>Ефект "Сіяння". Викликає лаги, використовуйте помірно.</VFEPD_SowEffect.description>
+
+	<VFEPD_Harvest_PlantEffect.label>жнивацтво</VFEPD_Harvest_PlantEffect.label>
+	<VFEPD_Harvest_PlantEffect.description>Ефект "Жнивацтво". Викликає лаги, використовуйте помірно.</VFEPD_Harvest_PlantEffect.description>
+
+	<VFEPD_VomitEffect.label>блювання</VFEPD_VomitEffect.label>
+	<VFEPD_VomitEffect.description>Ефект "Блювання". Викликає лаги, використовуйте помірно.</VFEPD_VomitEffect.description>
+
+	<VFEPD_PlayPokerEffect.label>гра в покер</VFEPD_PlayPokerEffect.label>
+	<VFEPD_PlayPokerEffect.description>Ефект "Гра в Покер". Викликає лаги, використовуйте помірно.</VFEPD_PlayPokerEffect.description>
+
+	<VFEPD_DisabledByEMPEffect.label>вимкнено ЕМІ</VFEPD_DisabledByEMPEffect.label>
+	<VFEPD_DisabledByEMPEffect.description>Ефект "Вимкнено ЕМІ". Викликає лаги, використовуйте помірно.</VFEPD_DisabledByEMPEffect.description>
+
+	<VFEPD_SurgeryEffect.label>операція</VFEPD_SurgeryEffect.label>
+	<VFEPD_SurgeryEffect.description>Ефект "Операція". Викликає лаги, використовуйте помірно.</VFEPD_SurgeryEffect.description>
+
+	<VFEPD_ButcherMechanoidEffect.label>розбирання механоїду</VFEPD_ButcherMechanoidEffect.label>
+	<VFEPD_ButcherMechanoidEffect.description>Ефект "Розбирання Механоїду". Викликає лаги, використовуйте помірно.</VFEPD_ButcherMechanoidEffect.description>
+
+	<VFEPD_RepairEffect.label>ремонт</VFEPD_RepairEffect.label>
+	<VFEPD_RepairEffect.description>Ефект "Ремонт". Викликає лаги, використовуйте помірно.</VFEPD_RepairEffect.description>
+
+	<VFEPD_Smoke_JointEffect.label>дим</VFEPD_Smoke_JointEffect.label>
+	<VFEPD_Smoke_JointEffect.description>Ефект "Дим". Викликає лаги, використовуйте помірно.</VFEPD_Smoke_JointEffect.description>
+
+	<VFEPD_Power_Cell_BurningEffect.label>горіння акумулятора</VFEPD_Power_Cell_BurningEffect.label>
+	<VFEPD_Power_Cell_BurningEffect.description>Ефект "Горіння Акумулятора". Викликає лаги, використовуйте помірно.</VFEPD_Power_Cell_BurningEffect.description>
+
+	<VFEPD_Power_Cell_SparksEffect.label>іскри акумулятора</VFEPD_Power_Cell_SparksEffect.label>
+	<VFEPD_Power_Cell_SparksEffect.description>Ефект "Іскри Акумулятора". Викликає лаги, використовуйте помірно.</VFEPD_Power_Cell_SparksEffect.description>
+
+	<VFEPD_CutStoneEffect.label>кам'яні шматки</VFEPD_CutStoneEffect.label>
+	<VFEPD_CutStoneEffect.description>Ефект "Тесання каменю, Шиття, Ковання та Створення Скульптури" (розділяють спільний ефект). Викликає лаги, використовуйте помірно.</VFEPD_CutStoneEffect.description>
+
+	<VFEPD_CookEffect.label>куховарення</VFEPD_CookEffect.label>
+	<VFEPD_CookEffect.description>Ефект "Куховарення". Викликає лаги, використовуйте помірно.</VFEPD_CookEffect.description>
+
+	<VFEPD_FalseFire.label>фальшивий вогонь</VFEPD_FalseFire.label>
+	<VFEPD_FalseFire.description>Лише дим і показуха.</VFEPD_FalseFire.description>
+
+	<VFEPD_BigFalseFire.label>великий фальшивий вогонь</VFEPD_BigFalseFire.label>
+	<VFEPD_BigFalseFire.description>Лише дим і показуха.</VFEPD_BigFalseFire.description>
+
+	<VFEPD_FoodBox.label>порожні ящики з-під їжі</VFEPD_FoodBox.label>
+	<VFEPD_FoodBox.description>Стос порожніх ящиків з-під їжі.</VFEPD_FoodBox.description>
+
+	<VFEPD_HayBaleLarge.label>великий тюк сіна</VFEPD_HayBaleLarge.label>
+	<VFEPD_HayBaleLarge.description>Просто тюк сіна.</VFEPD_HayBaleLarge.description>
+
+	<VFEPD_HayBaleMedium.label>середній тюк сіна</VFEPD_HayBaleMedium.label>
+	<VFEPD_HayBaleMedium.description>Просто тюк сіна.</VFEPD_HayBaleMedium.description>
+
+	<VFEPD_HayBaleSmall.label>малий тюк сіна</VFEPD_HayBaleSmall.label>
+	<VFEPD_HayBaleSmall.description>Просто тюк сіна.</VFEPD_HayBaleSmall.description>
+
+	<VFEPD_Hedge.label>живопліт</VFEPD_Hedge.label>
+	<VFEPD_Hedge.description>Природний живопліт.</VFEPD_Hedge.description>
+
+	<VFEPD_WoodenLogs.label>штабель колод</VFEPD_WoodenLogs.label>
+	<VFEPD_WoodenLogs.description>Невеликий, прохідний штабель дерев'яних колод.</VFEPD_WoodenLogs.description>
+
+	<VFEPD_WoodenLogsLarge.label>великий штабель колод</VFEPD_WoodenLogsLarge.label>
+	<VFEPD_WoodenLogsLarge.description>Великий, непрохідний штабель дерев'яних колод</VFEPD_WoodenLogsLarge.description>
+
+	<VFEPD_WoodenWagon.label>дерев'яний віз</VFEPD_WoodenWagon.label>
+	<VFEPD_WoodenWagon.description>Великий візок для перевезення вантажів.</VFEPD_WoodenWagon.description>
+
+	<!--dirt-->
+	<VFEPD_FilthDirt.label>земля</VFEPD_FilthDirt.label>
+	<!--A small amount of dirt.-->
+	<VFEPD_FilthDirt.description>Невелика кількість бруду.</VFEPD_FilthDirt.description>
+
+	<!--animal filth-->
+	<VFEPD_FilthAnimalFilth.label>тваринний бруд</VFEPD_FilthAnimalFilth.label>
+	<!--A small amount of animal filth.-->
+	<VFEPD_FilthAnimalFilth.description>Невелика кількість тваринного бруду.</VFEPD_FilthAnimalFilth.description>
+
+	<!--sand-->
+	<VFEPD_FilthSand.label>пісок</VFEPD_FilthSand.label>
+	<!--A small amount of sand.-->
+	<VFEPD_FilthSand.description>Невелика кількість піску.</VFEPD_FilthSand.description>
+
+	<!--trash-->
+	<VFEPD_FilthTrash.label>сміття</VFEPD_FilthTrash.label>
+	<!--A small amount of trash.-->
+	<VFEPD_FilthTrash.description>Невелика кількість сміття.</VFEPD_FilthTrash.description>
+
+	<!--rock rubble-->
+	<VFEPD_FilthRubbleRock.label>щебінь</VFEPD_FilthRubbleRock.label>
+	<!--A small amount of rock rubble.-->
+	<VFEPD_FilthRubbleRock.description>Невелика кількість щебню.</VFEPD_FilthRubbleRock.description>
+
+	<!--scattered slag-->
+	<VFEPD_FilthRubbleSlag.label>розкиданий шлак</VFEPD_FilthRubbleSlag.label>
+	<!--A small amount of scattered slag.-->
+	<VFEPD_FilthRubbleSlag.description>Невелика кількість розкиданого шлаку.</VFEPD_FilthRubbleSlag.description>
+
+	<!--scattered sandbags-->
+	<VFEPD_FilthRubbleSandbags.label>розкидані мішки піску</VFEPD_FilthRubbleSandbags.label>
+	<!--A small amount of scattered sandbags.-->
+	<VFEPD_FilthRubbleSandbags.description>Невелика кількість розкиданих мішків з піском.</VFEPD_FilthRubbleSandbags.description>
+
+	<!--blood-->
+	<VFEPD_FilthBlood.label>кров</VFEPD_FilthBlood.label>
+	<!--A splatter of blood.-->
+	<VFEPD_FilthBlood.description>Бризки крові.</VFEPD_FilthBlood.description>
+
+	<!--bugblood-->
+	<VFEPD_FilthBugBlood.label>кров комах</VFEPD_FilthBugBlood.label>
+	<!--A splatter of insect blood.-->
+	<VFEPD_FilthBugBlood.description>Бризки комашиної крові.</VFEPD_FilthBugBlood.description>
+
+	<!--machine bits-->
+	<VFEPD_FilthMachineBits.label>рештки машини</VFEPD_FilthMachineBits.label>
+	<!--A bunch of machine bits.-->
+	<VFEPD_FilthMachineBits.description>Купка решток машин.</VFEPD_FilthMachineBits.description>
+
+	<!--amniotic fluid-->
+	<VFEPD_FilthAmnioticFluid.label>амніотична рідина</VFEPD_FilthAmnioticFluid.label>
+	<!--A pool of amniotic fluid.-->
+	<VFEPD_FilthAmnioticFluid.description>Калюжа амніотичної рідини.</VFEPD_FilthAmnioticFluid.description>
+
+	<!--slime-->
+	<VFEPD_FilthSlime.label>слиз</VFEPD_FilthSlime.label>
+	<!--A spatter of slime.-->
+	<VFEPD_FilthSlime.description>Калюжа слизу.</VFEPD_FilthSlime.description>
+
+	<!--vomit-->
+	<VFEPD_FilthVomit.label>блювота</VFEPD_FilthVomit.label>
+	<!--A small, oozing pool of vomit.-->
+	<VFEPD_FilthVomit.description>Невелика калюжа блювоти, котра сочиться.</VFEPD_FilthVomit.description>
+
+	<!--firefoam-->
+	<VFEPD_FilthFireFoam.label>вогнегасна піна</VFEPD_FilthFireFoam.label>
+	<!--A large pile of firefoam.-->
+	<VFEPD_FilthFireFoam.description>Велика купа вогнегасної піни.</VFEPD_FilthFireFoam.description>
+
+	<VFEPD_FilthChemfuel.label>калюжа хімпалива</VFEPD_FilthChemfuel.label>
+	<VFEPD_FilthChemfuel.description>Калюжа легкозаймистого хімпалива.</VFEPD_FilthChemfuel.description>
+
+	<!--corpse bile-->
+	<VFEPD_FilthCorpseBile.label>трупна жовч</VFEPD_FilthCorpseBile.label>
+	<!--A small spatter of corpse bile.-->
+	<VFEPD_FilthCorpseBile.description>Невеликі вкраплення трупної жовчі.</VFEPD_FilthCorpseBile.description>
+
+	<!--ash-->
+	<VFEPD_FilthAsh.label>попіл</VFEPD_FilthAsh.label>
+	<!--A pile of ash.-->
+	<VFEPD_FilthAsh.description>Купка попелу.</VFEPD_FilthAsh.description>
+
+	<!--fake door-->
+	<VFEPD_FakeDoor.label>фальшиві двері</VFEPD_FakeDoor.label>
+	<!--A non-functional door. It's just two painted plywood panels and won't open. Can be traversed.-->
+	<VFEPD_FakeDoor.description>Це просто дві пофарбовані фанерні панелі, які не відчиняються. Можна пройти.</VFEPD_FakeDoor.description>
+
+	<!--fake flap door-->
+	<VFEPD_FakeAnimalDoor.label>фальшива завіса</VFEPD_FakeAnimalDoor.label>
+	<!--A non-functional flap door. It's just two painted cloth sheets. Can be traversed.-->
+	<VFEPD_FakeAnimalDoor.description>Це просто два пофарбовані полотнища тканини. Через них можна пройти.</VFEPD_FakeAnimalDoor.description>
+
+	<!--fake autodoor-->
+	<VFEPD_FakeAutoDoor.label>фальшиві авто-двері</VFEPD_FakeAutoDoor.label>
+	<!--A non-functional autodoor. It's just two painted metal sheets. Can be traversed.-->
+	<VFEPD_FakeAutoDoor.description>Це просто два пофарбовані металеві листа. Можна пройти.</VFEPD_FakeAutoDoor.description>
+
+	<!--fake fence door-->
+	<VFEPD_FakeFenceDoor.label>фальшива хвіртка</VFEPD_FakeFenceDoor.label>
+	<!--A non-functional fence door. It's just two painted plywood panels and won't open. Can be traversed.-->
+	<VFEPD_FakeFenceDoor.description>Це просто дві пофарбовані фанерні панелі, які не відчиняються. Можна перелізти.</VFEPD_FakeFenceDoor.description>
+
+	<!--fake column-->
+	<VFEPD_FakeColumn.label>фальшива колона</VFEPD_FakeColumn.label>
+	<!--A fake, painted plywood column that won't hold any ceiling.-->
+	<VFEPD_FakeColumn.description>Фальшива, пофарбована фанерна колона, яка не витримає жодної стелі.</VFEPD_FakeColumn.description>
+
+	<VFEPD_SteelATM.label>банкомат</VFEPD_SteelATM.label>
+	<VFEPD_SteelATM.description>Непрацюючий банкомат для видачі грошей.</VFEPD_SteelATM.description>
+
+	<VFEPD_SteelBookshelf.label>книжкова полиця</VFEPD_SteelBookshelf.label>
+	<VFEPD_SteelBookshelf.description>Книжкова полиця з безліччю нечитабельних фоліантів і видань.</VFEPD_SteelBookshelf.description>
+
+	<VFEPD_WoodenCupboard.label>буфет</VFEPD_WoodenCupboard.label>
+	<VFEPD_WoodenCupboard.description>Пустий, великий буфет.</VFEPD_WoodenCupboard.description>
+
+	<VFEPD_WoodenCupboardDouble.label>подвійний буфет</VFEPD_WoodenCupboardDouble.label>
+	<VFEPD_WoodenCupboardDouble.description>Пустий, великий буфет, з перегородкою.</VFEPD_WoodenCupboardDouble.description>
+
+	<VFEPD_WoodenCupboardPlates.label>буфет з тарілками</VFEPD_WoodenCupboardPlates.label>
+	<VFEPD_WoodenCupboardPlates.description>Просто великий буфет з тарілками.</VFEPD_WoodenCupboardPlates.description>
+
+	<VFEPD_WoodenCupboardNarrow.label>вузький буфет</VFEPD_WoodenCupboardNarrow.label>
+	<VFEPD_WoodenCupboardNarrow.description>Вузький, пустий буфет.</VFEPD_WoodenCupboardNarrow.description>
+
+	<VFEPD_WoodenTallCabinet.label>висока шафа</VFEPD_WoodenTallCabinet.label>
+	<VFEPD_WoodenTallCabinet.description>Звичайна висока шафа, з прибитими дверцями.</VFEPD_WoodenTallCabinet.description>
+
+	<VFEPD_WoodenShortCupboard.label>низький буфет</VFEPD_WoodenShortCupboard.label>
+	<VFEPD_WoodenShortCupboard.description>Низький, пустий буфет.</VFEPD_WoodenShortCupboard.description>
+
+	<VFEPD_WoodenShortCupboardPlates.label>низький буфет з тарілками</VFEPD_WoodenShortCupboardPlates.label>
+	<VFEPD_WoodenShortCupboardPlates.description>Низький, пустий буфет з тарілками.</VFEPD_WoodenShortCupboardPlates.description>
+
+	<VFEPD_Desk.label>письмовий стіл</VFEPD_Desk.label>
+	<VFEPD_Desk.description>Великий письмовий стіл.</VFEPD_Desk.description>
+
+	<VFEPD_CoffeeTable.label>журнальний столик (2x1)</VFEPD_CoffeeTable.label>
+	<VFEPD_CoffeeTable.description>Довгий журнальний столик.</VFEPD_CoffeeTable.description>
+
+	<VFEPD_CoffeeTableSmall.label>журнальний столик (1x1)</VFEPD_CoffeeTableSmall.label>
+	<VFEPD_CoffeeTableSmall.description>Маленький журнальний столик.</VFEPD_CoffeeTableSmall.description>
+
+	<VFEPD_WoodenDivider.label>ширма</VFEPD_WoodenDivider.label>
+	<VFEPD_WoodenDivider.description>Висока, непрохідна ширма.</VFEPD_WoodenDivider.description>
+
+	<VFEPD_SteelPlankDivider.label>дощата експопанель</VFEPD_SteelPlankDivider.label>
+	<VFEPD_SteelPlankDivider.description>Висока, непрохідна перегородка між кімнатами.</VFEPD_SteelPlankDivider.description>
+
+	<VFEPD_WoodenMirror.label>дзеркало</VFEPD_WoodenMirror.label>
+	<VFEPD_WoodenMirror.description>Рама дзеркала, з фарбованим листом металу, замість, власне, дзеркала.</VFEPD_WoodenMirror.description>
+
+	<VFEPD_SteelVendingMachine.label>торговельний автомат</VFEPD_SteelVendingMachine.label>
+	<VFEPD_SteelVendingMachine.description>Непрацюючий торговельний автомат.</VFEPD_SteelVendingMachine.description>
+
+	<VFEPD_WashingMachine.label>пральна машина</VFEPD_WashingMachine.label>
+	<VFEPD_WashingMachine.description>Звичайна пральна машина.</VFEPD_WashingMachine.description>
+
+	<VFEPD_WarehouseShelfEmpty.label>складський стелаж</VFEPD_WarehouseShelfEmpty.label>
+	<VFEPD_WarehouseShelfEmpty.description>Непрохідний, порожній складський стелаж.</VFEPD_WarehouseShelfEmpty.description>
+
+	<VFEPD_WarehouseShelfBoxes.label>складський стелаж з коробками</VFEPD_WarehouseShelfBoxes.label>
+	<VFEPD_WarehouseShelfBoxes.description>Непрохідний, порожній складський стелаж з коробками.</VFEPD_WarehouseShelfBoxes.description>
+
+	<!--fake sarcophagus-->
+	<VFEPD_FakeSarcophagus.label>фальшивий саркофаг</VFEPD_FakeSarcophagus.label>
+	<!--A fake sarcophagus with nothing inside. Sealed shut.-->
+	<VFEPD_FakeSarcophagus.description>Фальшивий саркофаг, пустий всередині. Запечатаний.</VFEPD_FakeSarcophagus.description>
+
+	<!--fake grave-->
+	<VFEPD_FakeGrave.label>фальшива могила</VFEPD_FakeGrave.label>
+	<!--A fake grave with nothing buried beneath it.-->
+	<VFEPD_FakeGrave.description>Фальшива могила, в якій нічого не поховано.</VFEPD_FakeGrave.description>
+
+	<VFEPD_PlasteelATM.label>пласталевий банкомат</VFEPD_PlasteelATM.label>
+	<VFEPD_PlasteelATM.description>Непрацюючий пласталевий банкомат для видачі грошей.</VFEPD_PlasteelATM.description>
+
+	<VFEPD_SilverATM.label>срібний банкомат</VFEPD_SilverATM.label>
+	<VFEPD_SilverATM.description>Непрацюючий срібний банкомат для видачі грошей.</VFEPD_SilverATM.description>
+
+	<VFEPD_WoodenATM.label>дерев'яний банкомат</VFEPD_WoodenATM.label>
+	<VFEPD_WoodenATM.description>Непрацюючий дерев'яний банкомат для видачі грошей.</VFEPD_WoodenATM.description>
+
+	<VFEPD_PlasteelBookshelf.label>пласталева книжкова полиця</VFEPD_PlasteelBookshelf.label>
+	<VFEPD_PlasteelBookshelf.description>Пласталева книжкова полиця з безліччю нечитабельних фоліантів і видань.</VFEPD_PlasteelBookshelf.description>
+
+	<VFEPD_SilverBookshelf.label>срібна книжкова полиця</VFEPD_SilverBookshelf.label>
+	<VFEPD_SilverBookshelf.description>Срібна книжкова полиця з безліччю нечитабельних фоліантів і видань.</VFEPD_SilverBookshelf.description>
+
+	<VFEPD_WoodenBookshelf.label>дерев'яна книжкова полиця</VFEPD_WoodenBookshelf.label>
+	<VFEPD_WoodenBookshelf.description>Дерев'яна книжкова полиця з безліччю нечитабельних фоліантів і видань.</VFEPD_WoodenBookshelf.description>
+
+	<VFEPD_SteelCupboard.label>сталевий буфет</VFEPD_SteelCupboard.label>
+	<VFEPD_SteelCupboard.description>Пустий, великий буфет.</VFEPD_SteelCupboard.description>
+
+	<VFEPD_PlasteelCupboard.label>пласталевий буфет</VFEPD_PlasteelCupboard.label>
+	<VFEPD_PlasteelCupboard.description>Пустий, великий буфет.</VFEPD_PlasteelCupboard.description>
+
+	<VFEPD_SilverCupboard.label>срібний буфет</VFEPD_SilverCupboard.label>
+	<VFEPD_SilverCupboard.description>Пустий, великий буфет.</VFEPD_SilverCupboard.description>
+
+	<VFEPD_SteelCupboardDouble.label>сталевий подвійний буфет</VFEPD_SteelCupboardDouble.label>
+	<VFEPD_SteelCupboardDouble.description>Пустий, великий буфет, з перегородкою.</VFEPD_SteelCupboardDouble.description>
+
+	<VFEPD_PlasteelCupboardDouble.label>пласталевий подвійний буфет</VFEPD_PlasteelCupboardDouble.label>
+	<VFEPD_PlasteelCupboardDouble.description>Пустий, великий буфет, з перегородкою.</VFEPD_PlasteelCupboardDouble.description>
+
+	<VFEPD_SilverCupboardDouble.label>срібний подвійний буфет</VFEPD_SilverCupboardDouble.label>
+	<VFEPD_SilverCupboardDouble.description>Пустий, великий буфет, з перегородкою.</VFEPD_SilverCupboardDouble.description>
+
+	<VFEPD_SteelCupboardPlates.label>сталевий буфет з тарілками</VFEPD_SteelCupboardPlates.label>
+	<VFEPD_SteelCupboardPlates.description>Просто великий буфет з тарілками.</VFEPD_SteelCupboardPlates.description>
+
+	<VFEPD_PlasteelCupboardPlates.label>пласталевий буфет з тарілками</VFEPD_PlasteelCupboardPlates.label>
+	<VFEPD_PlasteelCupboardPlates.description>Просто великий буфет з тарілками.</VFEPD_PlasteelCupboardPlates.description>
+
+	<VFEPD_SilverCupboardPlates.label>срібний буфет з тарілками</VFEPD_SilverCupboardPlates.label>
+	<VFEPD_SilverCupboardPlates.description>Просто великий буфет з тарілками.</VFEPD_SilverCupboardPlates.description>
+
+	<VFEPD_SteelCupboardNarrow.label>сталевий вузький буфет</VFEPD_SteelCupboardNarrow.label>
+	<VFEPD_SteelCupboardNarrow.description>Вузький, пустий буфет.</VFEPD_SteelCupboardNarrow.description>
+
+	<VFEPD_PlasteelCupboardNarrow.label>пласталевий вузький буфет</VFEPD_PlasteelCupboardNarrow.label>
+	<VFEPD_PlasteelCupboardNarrow.description>Вузький, пустий буфет.</VFEPD_PlasteelCupboardNarrow.description>
+
+	<VFEPD_SilverCupboardNarrow.label>срібний вузький буфет</VFEPD_SilverCupboardNarrow.label>
+	<VFEPD_SilverCupboardNarrow.description>Вузький, пустий буфет.</VFEPD_SilverCupboardNarrow.description>
+
+	<VFEPD_SteelTallCabinet.label>сталева висока шафа</VFEPD_SteelTallCabinet.label>
+	<VFEPD_SteelTallCabinet.description>Звичайна висока шафа, з прибитими дверцями.</VFEPD_SteelTallCabinet.description>
+
+	<VFEPD_PlasteelTallCabinet.label>пласталева висока шафа</VFEPD_PlasteelTallCabinet.label>
+	<VFEPD_PlasteelTallCabinet.description>Звичайна висока шафа, з прибитими дверцями.</VFEPD_PlasteelTallCabinet.description>
+
+	<VFEPD_SilverTallCabinet.label>срібна висока шафа</VFEPD_SilverTallCabinet.label>
+	<VFEPD_SilverTallCabinet.description>Звичайна висока шафа, з прибитими дверцями.</VFEPD_SilverTallCabinet.description>
+
+	<VFEPD_SteelShortCupboard.label>сталевий низький буфет</VFEPD_SteelShortCupboard.label>
+	<VFEPD_SteelShortCupboard.description>Низький, пустий буфет.</VFEPD_SteelShortCupboard.description>
+
+	<VFEPD_PlasteelShortCupboard.label>пласталевий низький буфет</VFEPD_PlasteelShortCupboard.label>
+	<VFEPD_PlasteelShortCupboard.description>Низький, пустий буфет.</VFEPD_PlasteelShortCupboard.description>
+
+	<VFEPD_SilverShortCupboard.label>срібний низький буфет</VFEPD_SilverShortCupboard.label>
+	<VFEPD_SilverShortCupboard.description>Низький, пустий буфет.</VFEPD_SilverShortCupboard.description>
+
+	<VFEPD_SteelShortCupboardPlates.label>сталевий низький буфет з тарілками</VFEPD_SteelShortCupboardPlates.label>
+	<VFEPD_SteelShortCupboardPlates.description>Низький, пустий буфет з тарілками.</VFEPD_SteelShortCupboardPlates.description>
+
+	<VFEPD_PlasteelShortCupboardPlates.label>пласталевий низький буфет з тарілками</VFEPD_PlasteelShortCupboardPlates.label>
+	<VFEPD_PlasteelShortCupboardPlates.description>Низький, пустий буфет з тарілками.</VFEPD_PlasteelShortCupboardPlates.description>
+
+	<VFEPD_SilverShortCupboardPlates.label>срібний низький буфет з тарілками</VFEPD_SilverShortCupboardPlates.label>
+	<VFEPD_SilverShortCupboardPlates.description>Низький, пустий буфет з тарілками.</VFEPD_SilverShortCupboardPlates.description>
+
+	<VFEPD_SteelDivider.label>сталева ширма</VFEPD_SteelDivider.label>
+	<VFEPD_SteelDivider.description>Висока, непрохідна ширма.</VFEPD_SteelDivider.description>
+
+	<VFEPD_PlasteelDivider.label>пласталева ширма</VFEPD_PlasteelDivider.label>
+	<VFEPD_PlasteelDivider.description>Висока, непрохідна ширма.</VFEPD_PlasteelDivider.description>
+
+	<VFEPD_SilverDivider.label>срібна ширма</VFEPD_SilverDivider.label>
+	<VFEPD_SilverDivider.description>Висока, непрохідна ширма.</VFEPD_SilverDivider.description>
+
+	<VFEPD_PlasteelPlankDivider.label>пласталева дощата експопанель</VFEPD_PlasteelPlankDivider.label>
+	<VFEPD_PlasteelPlankDivider.description>Висока, непрохідна перегородка між кімнатами.</VFEPD_PlasteelPlankDivider.description>
+
+	<VFEPD_SilverPlankDivider.label>срібна дощата експопанель</VFEPD_SilverPlankDivider.label>
+	<VFEPD_SilverPlankDivider.description>Висока, непрохідна перегородка між кімнатами.</VFEPD_SilverPlankDivider.description>
+
+	<VFEPD_WoodenPlankDivider.label>дерев'яна дощата експопанель</VFEPD_WoodenPlankDivider.label>
+	<VFEPD_WoodenPlankDivider.description>Висока, непрохідна перегородка між кімнатами.</VFEPD_WoodenPlankDivider.description>
+
+	<VFEPD_SteelMirror.label>сталеве дзеркало</VFEPD_SteelMirror.label>
+	<VFEPD_SteelMirror.description>Рама дзеркала, з фарбованим листом металу, замість, власне, дзеркала.</VFEPD_SteelMirror.description>
+
+	<VFEPD_PlasteelMirror.label>пласталеве дзеркало</VFEPD_PlasteelMirror.label>
+	<VFEPD_PlasteelMirror.description>Рама дзеркала, з фарбованим листом металу, замість, власне, дзеркала.</VFEPD_PlasteelMirror.description>
+
+	<VFEPD_SilverMirror.label>срібне дзеркало</VFEPD_SilverMirror.label>
+	<VFEPD_SilverMirror.description>Рама дзеркала, з фарбованим листом металу, замість, власне, дзеркала.</VFEPD_SilverMirror.description>
+
+	<VFEPD_PlasteelVendingMachine.label>пласталевий торговельний автомат</VFEPD_PlasteelVendingMachine.label>
+	<VFEPD_PlasteelVendingMachine.description>Непрацюючий торговельний автомат.</VFEPD_PlasteelVendingMachine.description>
+
+	<VFEPD_SilverVendingMachine.label>срібний торговельний автомат</VFEPD_SilverVendingMachine.label>
+	<VFEPD_SilverVendingMachine.description>Непрацюючий торговельний автомат.</VFEPD_SilverVendingMachine.description>
+
+	<VFEPD_WoodenVendingMachine.label>дерев'яний торговельний автомат</VFEPD_WoodenVendingMachine.label>
+	<VFEPD_WoodenVendingMachine.description>Непрацюючий торговельний автомат.</VFEPD_WoodenVendingMachine.description>
+
+	<VFEPD_BinBag.label>сміттєвий пакет</VFEPD_BinBag.label>
+	<VFEPD_BinBag.description>Чорний пакет з різним сміттям. Ідеально підходить для свинолюдей.</VFEPD_BinBag.description>
+
+	<VFEPD_BoxLarge.label>великий ящик</VFEPD_BoxLarge.label>
+	<VFEPD_BoxLarge.description>Великий ящик з різними речами.</VFEPD_BoxLarge.description>
+
+	<VFEPD_BoxSmall.label>маленький ящик</VFEPD_BoxSmall.label>
+	<VFEPD_BoxSmall.description>Маленький ящик з різними речами.</VFEPD_BoxSmall.description>
+
+	<VFEPD_CardboardBoxLarge.label>велика картонна коробка</VFEPD_CardboardBoxLarge.label>
+	<VFEPD_CardboardBoxLarge.description>Велика картонна коробка з різними речами.</VFEPD_CardboardBoxLarge.description>
+
+	<VFEPD_CardboardBoxSmall.label>маленька картонна коробка</VFEPD_CardboardBoxSmall.label>
+	<VFEPD_CardboardBoxSmall.description>Маленька картонна коробка з різними речами.</VFEPD_CardboardBoxSmall.description>
+
+	<VFEPD_BrickPile.label>купка цегли</VFEPD_BrickPile.label>
+	<VFEPD_BrickPile.description>Просто купа цегли.</VFEPD_BrickPile.description>
+
+	<VFEPD_BarrelGreen.label>бочка</VFEPD_BarrelGreen.label>
+	<VFEPD_BarrelGreen.description>Маленька металева бочка.</VFEPD_BarrelGreen.description>
+
+	<VFEPD_PalletCardboard.label>піддон з картонними коробками</VFEPD_PalletCardboard.label>
+	<VFEPD_PalletCardboard.description>Великий піддон з кількома картонними коробками.</VFEPD_PalletCardboard.description>
+
+	<VFEPD_PalletBoxes.label>піддон з ящиками</VFEPD_PalletBoxes.label>
+	<VFEPD_PalletBoxes.description>Великий піддон з кількома ящиками.</VFEPD_PalletBoxes.description>
+
+	<VFEPD_Pallet.label>піддон</VFEPD_Pallet.label>
+	<VFEPD_Pallet.description>великий піддон.</VFEPD_Pallet.description>
+
+	<VFEPD_PalletBarrelGreen.label>піддон з бочками</VFEPD_PalletBarrelGreen.label>
+	<VFEPD_PalletBarrelGreen.description>Купа металевих бочок на дерев'яному піддоні.</VFEPD_PalletBarrelGreen.description>
+
+	<VFEPD_ContainerGreen.label>вантажний контейнер</VFEPD_ContainerGreen.label>
+	<VFEPD_ContainerGreen.description>Металевий вантажний контейнер. Непрохідний. Не підтримує дах.</VFEPD_ContainerGreen.description>
+
+	<VFEPD_Pipes.label>труби</VFEPD_Pipes.label>
+	<VFEPD_Pipes.description>Великий штабель промислових труб.</VFEPD_Pipes.description>
+
+	<VFEPD_Planks.label>дошки</VFEPD_Planks.label>
+	<VFEPD_Planks.description>Великий штабель дощок.</VFEPD_Planks.description>
+
+	<VFEPD_Cone.label>конус</VFEPD_Cone.label>
+	<VFEPD_Cone.description>Промисловий вуличний конус.</VFEPD_Cone.description>
+
+	<VFEPD_ConcreteBags.label>мішки з бетоном</VFEPD_ConcreteBags.label>
+	<VFEPD_ConcreteBags.description>Великий штабель мішків з бетоном.</VFEPD_ConcreteBags.description>
+
+	<VFEPD_WaterTank.label>водяний бак</VFEPD_WaterTank.label>
+	<VFEPD_WaterTank.description>Промисловий водяний бак.</VFEPD_WaterTank.description>
+
+	<VFEPD_VentilationShaft.label>вентиляційна шахта</VFEPD_VentilationShaft.label>
+	<VFEPD_VentilationShaft.description>Витяжка у вентиляційну систему.</VFEPD_VentilationShaft.description>
+
+	<VFEPD_ElectricalCabinet.label>електричний щиток</VFEPD_ElectricalCabinet.label>
+	<VFEPD_ElectricalCabinet.description>Невелика металева шафа, що містить різні дроти, запобіжники та лічильники.</VFEPD_ElectricalCabinet.description>
+
+	<VFEPD_Lockers.label>шафки</VFEPD_Lockers.label>
+	<VFEPD_Lockers.description>Металеві шафки, що дозволяють працівникам зберігати особисті речі.</VFEPD_Lockers.description>
+
+	<VFEPD_GasTank.label>газовий бак</VFEPD_GasTank.label>
+	<VFEPD_GasTank.description>Великий металевий газовий бак.</VFEPD_GasTank.description>
+
+	<VCHE_FakePipes.label>фальшива труба</VCHE_FakePipes.label>
+	<VCHE_FakePipes.description>Сталеві труби. Нічого не транспортують.</VCHE_FakePipes.description>
+
+	<VFEPD_BarrelGrey.label>сіра бочка</VFEPD_BarrelGrey.label>
+	<VFEPD_BarrelGrey.description>Маленька, сіра металева бочка.</VFEPD_BarrelGrey.description>
+
+	<VFEPD_BarrelRed.label>червона бочка</VFEPD_BarrelRed.label>
+	<VFEPD_BarrelRed.description>Маленька, червона металева бочка.</VFEPD_BarrelRed.description>
+
+	<VFEPD_BarrelYellow.label>жовта бочка</VFEPD_BarrelYellow.label>
+	<VFEPD_BarrelYellow.description>Маленька, жовта металева бочка.</VFEPD_BarrelYellow.description>
+
+	<VFEPD_BarrelBlue.label>синя бочка</VFEPD_BarrelBlue.label>
+	<VFEPD_BarrelBlue.description>Маленька, синя металева бочка.</VFEPD_BarrelBlue.description>
+
+	<VFEPD_PalletBarrelGrey.label>піддон із сірими бочками</VFEPD_PalletBarrelGrey.label>
+	<VFEPD_PalletBarrelGrey.description>Купа сірих, металевих бочок на дерев'яному піддоні.</VFEPD_PalletBarrelGrey.description>
+
+	<VFEPD_PalletBarrelRed.label>піддон із червоними бочками</VFEPD_PalletBarrelRed.label>
+	<VFEPD_PalletBarrelRed.description>Купа червоних, металевих бочок на дерев'яному піддоні.</VFEPD_PalletBarrelRed.description>
+
+	<VFEPD_PalletBarrelYellow.label>піддон із жовтими бочками</VFEPD_PalletBarrelYellow.label>
+	<VFEPD_PalletBarrelYellow.description>Купа жовтих, металевих бочок на дерев'яному піддоні.</VFEPD_PalletBarrelYellow.description>
+
+	<VFEPD_PalletBarrelBlue.label>піддон із синіми бочками</VFEPD_PalletBarrelBlue.label>
+	<VFEPD_PalletBarrelBlue.description>Купа синіх, металевих бочок на дерев'яному піддоні.</VFEPD_PalletBarrelBlue.description>
+
+	<VFEPD_ContainerGrey.label>сірий вантажний контейнер</VFEPD_ContainerGrey.label>
+	<VFEPD_ContainerGrey.description>Сірий металевий вантажний контейнер. Непрохідний. Не підтримує дах.</VFEPD_ContainerGrey.description>
+
+	<VFEPD_ContainerRed.label>червоний вантажний контейнер</VFEPD_ContainerRed.label>
+	<VFEPD_ContainerRed.description>Червоний металевий вантажний контейнер. Непрохідний. Не підтримує дах.</VFEPD_ContainerRed.description>
+
+	<VFEPD_ContainerYellow.label>жовтий вантажний контейнер</VFEPD_ContainerYellow.label>
+	<VFEPD_ContainerYellow.description>Жовтий металевий вантажний контейнер. Непрохідний. Не підтримує дах.</VFEPD_ContainerYellow.description>
+
+	<VFEPD_ContainerBlue.label>синій вантажний контейнер</VFEPD_ContainerBlue.label>
+	<VFEPD_ContainerBlue.description>Синій металевий вантажний контейнер. Непрохідний. Не підтримує дах.</VFEPD_ContainerBlue.description>
+
+	<VFEPD_MopBucket.label>відро для швабри</VFEPD_MopBucket.label>
+	<VFEPD_MopBucket.description>Стерильне відро для швабри. Ідеально підходить для миття підлоги.</VFEPD_MopBucket.description>
+
+	<!--brewing barrel-->
+	<VFEPD_BrewingBarrel.label>бродильна бочка</VFEPD_BrewingBarrel.label>
+	<!--A large, empty brewing barrel.-->
+	<VFEPD_BrewingBarrel.description>Велика порожня пивоварна бочка.</VFEPD_BrewingBarrel.description>
+
+	<VFEPD_Cooker.label>кухонна плита</VFEPD_Cooker.label>
+	<VFEPD_Cooker.description>Звичайна кухонна плита.</VFEPD_Cooker.description>
+
+	<VFEPD_Microwave.label>мікрохвильовка</VFEPD_Microwave.label>
+	<VFEPD_Microwave.description>Настільна мікрохвильова піч.</VFEPD_Microwave.description>
+
+	<VFEPD_Oven.label>духовка</VFEPD_Oven.label>
+	<VFEPD_Oven.description>Велика духовка.</VFEPD_Oven.description>
+
+	<VFEPD_Fridge.label>холодильник</VFEPD_Fridge.label>
+	<VFEPD_Fridge.description>Великий холодильник з вбудованою морозильною камерою.</VFEPD_Fridge.description>
+
+	<VFEPD_WaterDispenser.label>кулер</VFEPD_WaterDispenser.label>
+	<VFEPD_WaterDispenser.description>Великий, стаціонарний кулер для прісної води.</VFEPD_WaterDispenser.description>
+
+	<VFEPD_FoodTrolley.label>візок для їжі</VFEPD_FoodTrolley.label>
+	<VFEPD_FoodTrolley.description>Чотириколісний візок для порожніх тарілок і підносів.</VFEPD_FoodTrolley.description>
+
+	<VFEPD_KitchenSurface.label>кухонна тумбочка</VFEPD_KitchenSurface.label>
+	<VFEPD_KitchenSurface.description>Проста кухонна тумбочка з дощечкою та ножами.</VFEPD_KitchenSurface.description>
+
+	<VFEPD_KitchenSurfaceEmpty.label>кухонна тумбочка, пуста</VFEPD_KitchenSurfaceEmpty.label>
+	<VFEPD_KitchenSurfaceEmpty.description>Проста кухонна тумбочка.</VFEPD_KitchenSurfaceEmpty.description>
+
+	<VFEPD_KitchenSink.label>кухонна мийка</VFEPD_KitchenSink.label>
+	<VFEPD_KitchenSink.description>Довга кухонна мийка.</VFEPD_KitchenSink.description>
+
+	<VFEPD_WineRack.label>винна полиця</VFEPD_WineRack.label>
+	<VFEPD_WineRack.description>Стелаж для зберігання пляшок вина.</VFEPD_WineRack.description>
+
+	<VFEPD_CookingAppliances.label>каструля</VFEPD_CookingAppliances.label>
+	<VFEPD_CookingAppliances.description>Велика каструля.</VFEPD_CookingAppliances.description>
+
+	<VFEPD_CookingPan.label>пательня</VFEPD_CookingPan.label>
+	<VFEPD_CookingPan.description>Велика пательня.</VFEPD_CookingPan.description>
+
+	<VFEPD_CuttingBoard.label>дощечка</VFEPD_CuttingBoard.label>
+	<VFEPD_CuttingBoard.description>Дерев'яна дощечка для нарізки.</VFEPD_CuttingBoard.description>
+
+	<VFEPD_Knives.label>ножі</VFEPD_Knives.label>
+	<VFEPD_Knives.description>Набір кухонних ножів.</VFEPD_Knives.description>
+
+	<VFEPD_DinnerSet.label>столовий сервіз</VFEPD_DinnerSet.label>
+	<VFEPD_DinnerSet.description>Простий столовий набір з усім необхідним посудом.</VFEPD_DinnerSet.description>
+
+	<VFEPD_Spices.label>спеції</VFEPD_Spices.label>
+	<VFEPD_Spices.description>Широкий асортимент різноманітних спецій</VFEPD_Spices.description>
+
+	<VFEPD_Banner.label>стяг</VFEPD_Banner.label>
+	<VFEPD_Banner.description>Декоративний стяг, що звисає з вертикальної дерев'яної рами.</VFEPD_Banner.description>
+
+	<VFEPD_WoodenPlatform.label>дерев'яний поміст</VFEPD_WoodenPlatform.label>
+	<VFEPD_WoodenPlatform.description>Дерев'яний поміст для ходьби.</VFEPD_WoodenPlatform.description>
+
+	<VFEPD_Anvil.label>ковадло</VFEPD_Anvil.label>
+	<VFEPD_Anvil.description>Важке ковадло.</VFEPD_Anvil.description>
+
+	<VFEPD_ArmorStandEmpty.label>порожня підставка для обладунків</VFEPD_ArmorStandEmpty.label>
+	<VFEPD_ArmorStandEmpty.description>Наразі на ній не встановлено жодних обладунків.</VFEPD_ArmorStandEmpty.description>
+
+	<VFEPD_ArmorStandFull.label>підставка для обладунків</VFEPD_ArmorStandFull.label>
+	<VFEPD_ArmorStandFull.description>На ній встановлений комплект латних обладунків.</VFEPD_ArmorStandFull.description>
+
+	<VFEPD_ArrowCage.label>горщик зі стрілами</VFEPD_ArrowCage.label>
+	<VFEPD_ArrowCage.description>Маленький горщик зі стрілами</VFEPD_ArrowCage.description>
+
+	<VFEPD_CageBrazier.label>горщик</VFEPD_CageBrazier.label>
+	<VFEPD_CageBrazier.description>Порожній металевий горщик.</VFEPD_CageBrazier.description>
+
+	<VFEPD_BrazierEmpty.label>пуста жаровня</VFEPD_BrazierEmpty.label>
+	<VFEPD_BrazierEmpty.description>Виріб у формі чаші, що використовувався для підтримання вогню.</VFEPD_BrazierEmpty.description>
+
+	<VFEPD_BucketEmpty.label>порожнє відро</VFEPD_BucketEmpty.label>
+	<VFEPD_BucketEmpty.description>Дерев'яне відро.</VFEPD_BucketEmpty.description>
+
+	<VFEPD_BucketwithWater.label>відро з водою</VFEPD_BucketwithWater.label>
+	<VFEPD_BucketwithWater.description>Дерев'яне відро з водою.</VFEPD_BucketwithWater.description>
+
+	<VFEPD_WoodenChest.label>дерев'яна скриня</VFEPD_WoodenChest.label>
+	<VFEPD_WoodenChest.description>Дерев'яна скриня середнього розміру.</VFEPD_WoodenChest.description>
+
+	<VFEPD_WoodenChestLarge.label>велика дерев'яна скриня</VFEPD_WoodenChestLarge.label>
+	<VFEPD_WoodenChestLarge.description>Дерев'яна скриня великого розміру.</VFEPD_WoodenChestLarge.description>
+
+	<VFEPD_WeaponRackEmpty.label>порожня стійка для зброї</VFEPD_WeaponRackEmpty.label>
+	<VFEPD_WeaponRackEmpty.description>Довга стійка для зброї. Наразі пуста.</VFEPD_WeaponRackEmpty.description>
+
+	<VFEPD_WeaponRackSwords.label>стійка для зброї з мечами</VFEPD_WeaponRackSwords.label>
+	<VFEPD_WeaponRackSwords.description>Довга стійка для зброї. На ньому є кілька мечів.</VFEPD_WeaponRackSwords.description>
+
+	<VFEPD_WeaponRackSpears.label>стійка для зброї зі списами</VFEPD_WeaponRackSpears.label>
+	<VFEPD_WeaponRackSpears.description>Довга стійка для зброї. На ньому є кілька списів.</VFEPD_WeaponRackSpears.description>
+
+	<VFEPD_WoodenSign.label>дерев'яна табличка</VFEPD_WoodenSign.label>
+	<VFEPD_WoodenSign.description>Високий стовп з табличками, що вказують у різні боки.</VFEPD_WoodenSign.description>
+
+	<VFEPD_TanningRack.label>стійка для дублення шкіри</VFEPD_TanningRack.label>
+	<VFEPD_TanningRack.description>Стійка для дублення із закріпленою на ній шкурою.</VFEPD_TanningRack.description>
+
+	<VFEPD_CagePlatform.label>клітчастий поміст</VFEPD_CagePlatform.label>
+	<VFEPD_CagePlatform.description>Клітчастий поміст для ходьби.</VFEPD_CagePlatform.description>
+
+	<VFEPD_FakeSnowman.label>фальшивий сніговик</VFEPD_FakeSnowman.label>
+	<VFEPD_FakeSnowman.description>Це не сніг, а дуже фальшивий на вигляд пінополіуретан.</VFEPD_FakeSnowman.description>
+
+	<VFEPD_Present.label>подарунок</VFEPD_Present.label>
+	<VFEPD_Present.description>Святковий подарунок. Насправді просто розмальована картонна коробка. Буууу.</VFEPD_Present.description>
+
+	<VFEPD_Hive.label>фальшивий вулик</VFEPD_Hive.label>
+	<VFEPD_Hive.description>Не справжній інсектоїдний вулик.</VFEPD_Hive.description>
+
+	<VFEPD_GlowPod.label>фальшивий яскравий кокон</VFEPD_GlowPod.label>
+	<VFEPD_GlowPod.description>Він навіть не світиться! Я хочу поговорити з менеджером!</VFEPD_GlowPod.description>
+
+	<VFEPD_Geyser.label>фальшивий паровий гейзер</VFEPD_Geyser.label>
+	<VFEPD_Geyser.description>Це просто неглибока яма з крихітним пристроєм, що вивергає теплу пару. Не дає тепла чи енергії, але виглядає круто.</VFEPD_Geyser.description>
+
+	<VFEPD_FakeBridge.label>фальшива опора мосту</VFEPD_FakeBridge.label>
+	<VFEPD_FakeBridge.description>Це фальшива опора мосту, яка не витримає жодного мосту.</VFEPD_FakeBridge.description>
+
+	<!--glowstool-->
+	<VFEPD_Glowstool.label>світлогриб</VFEPD_Glowstool.label>
+	<!--A fake small brown mushroom typically found in caves. It smells like an old, dirty rag pulled from the stomach of a rotting muffalo - but it tastes surprisingly good when cooked.-->
+	<VFEPD_Glowstool.description>Несправжній маленький коричневий гриб, який зазвичай зустрічається в печерах. Він пахне старою брудною ганчіркою, витягнутою зі шлунку гниючого муфлона, але напрочуд смачний, коли його приготувати.</VFEPD_Glowstool.description>
+
+	<!--agarilux-->
+	<VFEPD_Agarilux.label>агарілюкс</VFEPD_Agarilux.label>
+	<!--A fake, enormous purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at.-->
+	<VFEPD_Agarilux.description>Несправжній, величезний фіолетовий гриб. Його розмір і сяючі випинання роблять цей гриб красивим на вигляд.</VFEPD_Agarilux.description>
+
+	<!--bryolux-->
+	<VFEPD_Bryolux.label>бріолюкс</VFEPD_Bryolux.label>
+	<!--A fake blue moss typically found in deep, dark caves. It is sticky, with tangled fibers, which slows anyone walking over it.-->
+	<VFEPD_Bryolux.description>Несправжній синій мох, який зазвичай зустрічається в глибоких темних печерах. Він липкий, зі сплутаними ворсинками, що сповільнює прохід по ньому.</VFEPD_Bryolux.description>
+
+	<!--rose-->
+	<VFEPD_Rose.label>троянда</VFEPD_Rose.label>
+	<!--A fake beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era.-->
+	<VFEPD_Rose.description>Фальшива, але красива культивована квітка. На Землі троянда була символом кохання з давніх-давен.</VFEPD_Rose.description>
+
+	<!--daylily-->
+	<VFEPD_Daylily.label>лілія</VFEPD_Daylily.label>
+	<!--A cultivated fake flower with wide petals and a short lifespan. Daylilies are very beautiful, but must be replanted often.-->
+	<VFEPD_Daylily.description>Фальшива, але красива культивована квітка, з широкими пелюстками і коротким терміном життя. Лілії дуже красиві, але їх потрібно часто пересаджувати.</VFEPD_Daylily.description>
+
+	<!--rice plant-->
+	<VFEPD_Rice.label>рис</VFEPD_Rice.label>
+	<!--A fake, short, fast-growing crop that yields small edible grains. Its great nutritional ouput and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil.-->
+	<VFEPD_Rice.description>Фальшива, низькоросла, швидкозростаюча культура, яка дає дрібні їстівні зерна. Завдяки високій поживності та простоті вирощування він став економічним ядром багатьох великих цивілізацій. Хоча рис швидко росте, він чутливий до родючості ґрунту і не буде добре рости на бідних ґрунтах.</VFEPD_Rice.description>
+
+	<!--potato plant-->
+	<VFEPD_Potato.label>картопля</VFEPD_Potato.label>
+	<!--A fake, highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil.-->
+	<VFEPD_Potato.description>Фальшива, дуже поживна бульба. Картопля росте добре навіть у порівняно бідних ґрунтах. Обсмажена в олії картопля утворює смачну та хрустку скоринку.</VFEPD_Potato.description>
+
+	<!--corn plant-->
+	<VFEPD_Corn.label>кукурудза</VFEPD_Corn.label>
+	<!--A fake tall grain plant which produces ears of soft, edible seeds. While corn takes a long time to grow, it yields lots of food compared to other crops. Harvested corn takes a long time to spoil.-->
+	<VFEPD_Corn.description>Фальшива, висока злакова рослина, що дає качани м'якого їстівного насіння. Росте довго, але має більшу врожайність, у порівнянні з іншими культурами. Зібрана кукурудза може довго зберігатися у сирому вигляді.</VFEPD_Corn.description>
+
+	<!--strawberry plant-->
+	<VFEPD_Strawberry.label>полуниця</VFEPD_Strawberry.label>
+	<!--A fake, low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw.-->
+	<VFEPD_Strawberry.description>Фальшива кущова рослина , що плодить дрібні та смачні ягоди. Хоч у перерахунку на калорії ці кущі менш плодовиті, ніж інші рослини, полуниці смачні навіть у сирому вигляді.</VFEPD_Strawberry.description>
+
+	<!--haygrass-->
+	<VFEPD_Haygrass.label>сінотрава</VFEPD_Haygrass.label>
+	<!--A fake mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.-->
+	<VFEPD_Haygrass.description>Фальшива суміш поживних трав, що дають багато сіна. Скошені та висушені стебла цих трав застосовуються як харчові продукти для сільськогосподарських тварин.</VFEPD_Haygrass.description>
+
+	<!--cotton plant-->
+	<VFEPD_Cotton.label>бавовна</VFEPD_Cotton.label>
+	<!--A fake mid-size crop that yields fine white cotton fibers. These are used to make cloth.-->
+	<VFEPD_Cotton.description>Фальшива рослина середнього розміру. Дає тонкі білі волокна, з яких можна прясти тканину.</VFEPD_Cotton.description>
+
+	<!--devilstrand-->
+	<VFEPD_Devilstrand.label>дияволокно</VFEPD_Devilstrand.label>
+	<!--This fake fragile mushroom was genetically engineered to produce a silk net that is both difficult to tear and soft to the touch. While the mushroom takes a very long time to grow, only exotic ultra-tech fabrics outperform its devilstrand fibers.\n\nSome say it's called devilstrand because of its red color. Others think it owes its name to the greed it inspires in people.-->
+	<VFEPD_Devilstrand.description>Фальшивий, крихкий гриб, був генетично розроблений для створення шовкової сітки найвищої якості, яку важко порвати та при цьому вона буде залишатися м'якою на дотик. Попри те, що гриб росте дуже повільно, його нитки поступаються за властивостями лише ультратехнологічним волокнам.\n\nХтось каже , що його називають дияволокном через червоний колір. Інші вважають, що воно завдячує своїм ім'ям жадібності, яку прободжує в серцях людей.</VFEPD_Devilstrand.description>
+
+	<!--healroot-->
+	<VFEPD_Healroot.label>цілющий корінь</VFEPD_Healroot.label>
+	<!--A fake, slow-growing plant which yields herbal medicine when harvested. Sowing and harvesting healroot are both very labor-intensive tasks because of its delicate shoots.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.-->
+	<VFEPD_Healroot.description>Фальшива, трав'яниста рослина, що повільно росте, але дає рослинні ліки після збору. Посів та збір лікарських трав є дуже трудомістким через його ніжні пагони.\n\nПротягом століть ця рослина селекційно розводилася колонізаторами. Іноді місцеві жителі називають її «рукою цілителя» - цим прізвиськом вона завдячує своїм п'ятьом основним лікувальним властивостям.</VFEPD_Healroot.description>
+
+	<!--hop plant-->
+	<VFEPD_Hops.label>хміль</VFEPD_Hops.label>
+	<!--A fake flowering crop that yields hops, an essential ingredient in beer.-->
+	<VFEPD_Hops.description>Фальшива квітуча рослина, що є важливим інгредієнтом пива.</VFEPD_Hops.description>
+
+	<!--smokeleaf plant-->
+	<VFEPD_Smokeleaf.label>димолист</VFEPD_Smokeleaf.label>
+	<!--A fake leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive.-->
+	<VFEPD_Smokeleaf.description>Фальшива листяна культура, вирощена заради психологічного впливу хімічних речовин у її листі. Димолист можна приготувати власноруч. При курінні змушує почуватися розслабленим, але знижує мотивацію та може викликати залежність.</VFEPD_Smokeleaf.description>
+
+	<!--psychoid plant-->
+	<VFEPD_Psychoid.label>психолист</VFEPD_Psychoid.label>
+	<!--A fake leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive.-->
+	<VFEPD_Psychoid.description>Фальшива листяна рослина, яка виробляє хімічну сполуку психін. Спочатку розвинений як захисний механізм для захисту від рослиноїдних тварин шляхом надмірної стимуляції та викликання у них нудоти, психотропний препарат можна видобути та переробити в різні форми для рекреаційного використання. Це викликає звикання.</VFEPD_Psychoid.description>
+
+	<!--burned tree-->
+	<VFEPD_BurnedTree.label>обгорілий пеньок</VFEPD_BurnedTree.label>
+	<!--A fake burned tree stump. It's ugly and yields no usable wood.-->
+	<VFEPD_BurnedTree.description>Фальшивий обгорілий пеньок. Жахливий на вигляд, з нього не можна отримати деревину.</VFEPD_BurnedTree.description>
+
+	<!--willow tree-->
+	<VFEPD_WillowTree.label>верба</VFEPD_WillowTree.label>
+	<!--One of the fastest growing shade trees, fake willows provide a beautiful, leafy canopy. It doesn't yield much usable wood.-->
+	<VFEPD_WillowTree.description>Одне з найшвидше зростаючих дерев, фальшиві верби створюють красивий, листяний навіс. Вона не дає деревини.</VFEPD_WillowTree.description>
+
+	<!--cypress tree-->
+	<VFEPD_CypressTree.label>болотяний кипарис</VFEPD_CypressTree.label>
+	<!--A fake, tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood.-->
+	<VFEPD_CypressTree.description>Несправжнє високе хвойне дерево, яке часто зустрічається на болотах.</VFEPD_CypressTree.description>
+
+	<!--maple tree-->
+	<VFEPD_MapleTree.label>клен</VFEPD_MapleTree.label>
+	<!--A fake, common medium-sized tree, easily identifiable by its distinct three-pointed leaf.-->
+	<VFEPD_MapleTree.description>Фальшиве звичайне дерево середнього розміру, яке легко впізнати за виразною формою листя.</VFEPD_MapleTree.description>
+
+	<!--chokevine-->
+	<VFEPD_Chokevine.label>лозовий кущ</VFEPD_Chokevine.label>
+	<!--A fake, tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatky slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark.-->
+	<VFEPD_Chokevine.description>Фальшиві, переплутані масиви жорсткої та шипастої лози, які згортаються великими масивами вздовж землі, через що дуже уповільнює будь-кого, хто рухається крізь неї. Кілька племен незалежно один від одного створили історії про те, як лозовий кущ душив дітей, що потрапили у нього вночі до смерті, щоб налякати дітей, аби вони повертались додому до настання темряви.</VFEPD_Chokevine.description>
+
+	<!--oak tree-->
+	<VFEPD_OakTree.label>дуб</VFEPD_OakTree.label>
+	<!--A fake hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures.-->
+	<VFEPD_OakTree.description>Фальшиве широколисте дерево твердих сортів.</VFEPD_OakTree.description>
+
+	<!--poplar tree-->
+	<VFEPD_PoplarTree.label>тополя</VFEPD_PoplarTree.label>
+	<!--A fake softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees.-->
+	<VFEPD_PoplarTree.description>Фальшиве швидкоросле дерево м'яких сортів.</VFEPD_PoplarTree.description>
+
+	<!--pine tree-->
+	<VFEPD_PineTree.label>сосна</VFEPD_PineTree.label>
+	<!--A fake large conifer covered with prickly pine cones. It grows in a distinctive conical shape.-->
+	<VFEPD_PineTree.description>Фальшивий великий хвойник, вкритий колючими сосновими шишками.</VFEPD_PineTree.description>
+
+	<!--birch tree-->
+	<VFEPD_BirchTree.label>береза</VFEPD_BirchTree.label>
+	<!--A fake temperate-biome tree known for its thin, white, paper-like bark.-->
+	<VFEPD_BirchTree.description>Фальшиве дерево з помірного біому, відоме своєю тонкою, паперово-білою корою.</VFEPD_BirchTree.description>
+
+	<!--teak tree-->
+	<VFEPD_TeakTree.label>тикове дерево</VFEPD_TeakTree.label>
+	<!--A fake, exceptionally strong hardwood tree that grows in warm climates. Because teak wood is so durable and water-resistant, it was used to form the keel of wooden sailing ships in ancient times.-->
+	<VFEPD_TeakTree.description>Фальшиве, виключно міцне, листяне дерево, яке росте в теплому кліматі.</VFEPD_TeakTree.description>
+
+	<!--cecropia tree-->
+	<VFEPD_CecropiaTree.label>цекропія</VFEPD_CecropiaTree.label>
+	<!--One of the most common rainforest trees. Cecropia grows very fast, but yields little usable wood.-->
+	<VFEPD_CecropiaTree.description>Фальшиве, одне з найпоширеніших, тропічне дерево.</VFEPD_CecropiaTree.description>
+
+	<!--palm tree-->
+	<VFEPD_PalmTree.label>пальма</VFEPD_PalmTree.label>
+	<!--A fake tropical tree with a tall, naked trunk topped by a cluster of very broad leaves. Unfortunately, this variety doesn't produce any edible coconuts.-->
+	<VFEPD_PalmTree.description>Фальшиве тропічне дерево з високим стовбуром, увінчаним пучком дуже широкого листя.</VFEPD_PalmTree.description>
+
+	<!--bamboo tree-->
+	<VFEPD_BambooTree.label>бамбук</VFEPD_BambooTree.label>
+	<!--A fake, fast-growing tree-like plant that grows in dense groves. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful.-->
+	<VFEPD_BambooTree.description>Фальшива гінка, схожа на дерево рослина, яка росте густими гаями.</VFEPD_BambooTree.description>
+
+	<!--drago tree-->
+	<VFEPD_DragoTree.label>драконяче дерево</VFEPD_DragoTree.label>
+	<!--A fake, hardy desert tree topped with thick, pointed leaves.-->
+	<VFEPD_DragoTree.description>Фальшиве пустельне дерево з товстим загостреним листям.</VFEPD_DragoTree.description>
+
+	<!--saguaro cactus-->
+	<VFEPD_SaguaroCactus.label>кактус сагуаро</VFEPD_SaguaroCactus.label>
+	<!--A fake, large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood.-->
+	<VFEPD_SaguaroCactus.description>Фальшивий великий кактус, корінний для сухих Земних умов.</VFEPD_SaguaroCactus.description>
+
+	<!--agave-->
+	<VFEPD_Agave.label>агава</VFEPD_Agave.label>
+	<!--A fake, large-leafed desert plant with edible flowers and stalks.-->
+	<VFEPD_Agave.description>Фальшива пустельна рослина з великим листям та їстівними квітками та стеблами.</VFEPD_Agave.description>
+
+	<!--pincushion cactus-->
+	<VFEPD_PincushionCactus.label>кактус-голечник</VFEPD_PincushionCactus.label>
+	<!--A fake short cactus. It is so named because it resembles a pincushion.-->
+	<VFEPD_PincushionCactus.description>Фальшивий короткий кактус. Названий він так тому, що схожий на подушечку для шпильок.</VFEPD_PincushionCactus.description>
+
+	<!--short grass-->
+	<VFEPD_GrassShort.label>коротка трава</VFEPD_GrassShort.label>
+	<!--Fake wild grass. Grows anywhere there is a little light and minimally fertile ground.-->
+	<VFEPD_GrassShort.description>Фальшива дика трава. Росте скрізь, де є трохи світла і мінімально родючий ґрунт.</VFEPD_GrassShort.description>
+
+	<!--long grass-->
+	<VFEPD_GrassLong.label>довга трава</VFEPD_GrassLong.label>
+	<!--Fake wild tall grass. Slows down anyone moving over it..-->
+	<VFEPD_GrassLong.description>Фальшива дика висока трава. Уповільнює тих, хто ходить крізь неї.</VFEPD_GrassLong.description>
+
+	<!--bush-->
+	<VFEPD_Bush.label>кущ</VFEPD_Bush.label>
+	<!--A fake, short shrub. Does not typically talk.-->
+	<VFEPD_Bush.description>Фальшивий короткий кущ. Зазвичай, не говорить.</VFEPD_Bush.description>
+
+	<!--brambles-->
+	<VFEPD_Brambles.label>колючки</VFEPD_Brambles.label>
+	<!--Fake, tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them.-->
+	<VFEPD_Brambles.description>Фальшиві, переплутані, гострі, дерев'янисті пагони, вкриті листям. Колючки ростуть кущами, і уповільнюють усіх, хто рухається ними.</VFEPD_Brambles.description>
+
+	<!--berry bush-->
+	<VFEPD_BerryBush.label>ягідний кущ</VFEPD_BerryBush.label>
+	<!--A fake bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw.-->
+	<VFEPD_BerryBush.description>Фальшива кущиста дика рослина, але не плодить смачними ягодами.</VFEPD_BerryBush.description>
+
+	<!--alocasia-->
+	<VFEPD_Alocasia.label>алоказія</VFEPD_Alocasia.label>
+	<!--A fake tropical plant. Its extremely broad leaves are a commonly-recognized signifier of tropical forests.-->
+	<VFEPD_Alocasia.description>Фальшива тропічна рослина. Її дуже широке листя – відома ознака тропічних лісів.</VFEPD_Alocasia.description>
+
+	<!--clivia-->
+	<VFEPD_Clivia.label>клівія</VFEPD_Clivia.label>
+	<!--An unusual plant with tall, pretty flowers. Some call it the 'bush lily'.-->
+	<VFEPD_Clivia.description>Незвичайна рослина, з високими й красивими квітками. Деякі називають її "кущом-лілією".</VFEPD_Clivia.description>
+
+	<!--giant rafflesia-->
+	<VFEPD_Rafflesia.label>гігантська рафлезія</VFEPD_Rafflesia.label>
+	<!--A rare, giant flower which can be found deep in steaming jungles. You would think a giant flower would be beautiful, but this one looks and smells like rotting flesh.-->
+	<VFEPD_Rafflesia.description>Рідкісна, гігантська квітка, яку можна знайти глибоко в джунглях. Можна подумати, що гігантська квітка має бути красивою, але ця виглядає й пахне наче гниле м'ясо.</VFEPD_Rafflesia.description>
+
+	<VFEPD_SteelTank.label>великий сталевий бак</VFEPD_SteelTank.label>
+	<VFEPD_SteelTank.description>Велика сталева цистерна.</VFEPD_SteelTank.description>
+
+	<VFEPD_ChemfuelTank.label>великий хімпаливний бак</VFEPD_ChemfuelTank.label>
+	<VFEPD_ChemfuelTank.description>Велика цистерна, наповнена вибухонебезпечним хімічним паливом.</VFEPD_ChemfuelTank.description>
+
+	<VFEPD_LiquidTank.label>великий бак для рідин</VFEPD_LiquidTank.label>
+	<VFEPD_LiquidTank.description>Велика цистерна, наповнена рідиною.</VFEPD_LiquidTank.description>
+
+	<VFEPD_AdvancedRotor.label>просунутий ротор</VFEPD_AdvancedRotor.label>
+	<VFEPD_AdvancedRotor.description>Фальшивий просунутий ротор.</VFEPD_AdvancedRotor.description>
+
+	<VFEPD_Rotor.label>ротор</VFEPD_Rotor.label>
+	<VFEPD_Rotor.description>Звичайний ротор.</VFEPD_Rotor.description>
+
+	<VFEPD_Battery.label>акумулятор</VFEPD_Battery.label>
+	<VFEPD_Battery.description>Простий пристрій, який зберігає енергію. Але не цей. Цей вийшов з ладу.</VFEPD_Battery.description>
+
+	<VFEPD_Exhaust.label>вихлопний отвір</VFEPD_Exhaust.label>
+	<VFEPD_Exhaust.description>Вихлопний отвір для промислового диму.</VFEPD_Exhaust.description>
+
+	<VFEPD_SmallExhaust.label>маленький вихлопний отвір</VFEPD_SmallExhaust.label>
+	<VFEPD_SmallExhaust.description>Маленький вихлопний отвір для промислового диму.</VFEPD_SmallExhaust.description>
+
+	<!--generator-->
+	<VFEPD_Generator.label>генератор</VFEPD_Generator.label>
+	<!--A very basic generator unit.-->
+	<VFEPD_Generator.description>Найпростіший генераторний блок.</VFEPD_Generator.description>
+
+	<VFEPD_IndustrialGenerator.label>промисловий генератор</VFEPD_IndustrialGenerator.label>
+	<VFEPD_IndustrialGenerator.description>Велика промислова генераторна установка.</VFEPD_IndustrialGenerator.description>
+
+	<VFEPD_GeneratorUnitLarge.label>генераторна установка</VFEPD_GeneratorUnitLarge.label>
+	<VFEPD_GeneratorUnitLarge.description>Велика частина промислової генераторної установки.</VFEPD_GeneratorUnitLarge.description>
+
+	<VFEPD_GeneratorUnitSmall.label>невелика генераторна установка</VFEPD_GeneratorUnitSmall.label>
+	<VFEPD_GeneratorUnitSmall.description>Невелика частина промислової генераторної установки.</VFEPD_GeneratorUnitSmall.description>
+
+	<VFEPD_GasStorageUnit.label>газосховище</VFEPD_GasStorageUnit.label>
+	<VFEPD_GasStorageUnit.description>Газосховище промислового типу.</VFEPD_GasStorageUnit.description>
+
+	<VFEPD_ToxicWasteBarrel.label>бочка для токсичних відходів</VFEPD_ToxicWasteBarrel.label>
+	<VFEPD_ToxicWasteBarrel.description>Невелика бочка з токсичними відходами.</VFEPD_ToxicWasteBarrel.description>
+
+	<VFEPD_PowerConverter.label>трансформатор</VFEPD_PowerConverter.label>
+	<VFEPD_PowerConverter.description>Великий трансформатор. Дуже великий та дуже непрацюючий.</VFEPD_PowerConverter.description>
+
+	<VFEPD_CoalBurner.label>вугільний пальник</VFEPD_CoalBurner.label>
+	<VFEPD_CoalBurner.description>Вугільний пальник у промисловому стилі.</VFEPD_CoalBurner.description>
+
+	<VFEPD_PowerPole.label>стовп електропередач</VFEPD_PowerPole.label>
+	<VFEPD_PowerPole.description>Високий стовп для кріплення кабелів.</VFEPD_PowerPole.description>
+
+	<VFEPD_DataConsole.label>інформаційна консоль</VFEPD_DataConsole.label>
+	<VFEPD_DataConsole.description>Передова інформаційна консоль з підтримкою декількох різних типів форматування файлів.</VFEPD_DataConsole.description>
+
+	<VFEPD_DataConveyor.label>передавач даних</VFEPD_DataConveyor.label>
+	<VFEPD_DataConveyor.description>Велика коробка з кабелями та трубами для передачі даних.</VFEPD_DataConveyor.description>
+
+	<VFEPD_DisplayScreen.label>дисплей</VFEPD_DisplayScreen.label>
+	<VFEPD_DisplayScreen.description>Великий екран для відображення даних.</VFEPD_DisplayScreen.description>
+
+	<VFEPD_DisplayTable.label>стіл з дисплеєм</VFEPD_DisplayTable.label>
+	<VFEPD_DisplayTable.description>Екран великого розміру, встановлений на великому столі.</VFEPD_DisplayTable.description>
+
+	<VFEPD_SmallDisplayTable.label>маленький стіл з дисплеєм</VFEPD_SmallDisplayTable.label>
+	<VFEPD_SmallDisplayTable.description>Невеликий екран, встановлений на крихітному столику.</VFEPD_SmallDisplayTable.description>
+
+	<VFEPD_LongCommandConsole.label>довга командна консоль</VFEPD_LongCommandConsole.label>
+	<VFEPD_LongCommandConsole.description>Довга консоль з декількома різними командними модулями.</VFEPD_LongCommandConsole.description>
+
+	<VFEPD_PlanningScreen.label>екран планування</VFEPD_PlanningScreen.label>
+	<VFEPD_PlanningScreen.description>Скляний екран, що ідеально підходить для планування бойових сценаріїв.</VFEPD_PlanningScreen.description>
+
+	<VFEPD_PlanningTable.label>стіл планування</VFEPD_PlanningTable.label>
+	<VFEPD_PlanningTable.description>Екран для планування великого розміру, встановлений на великому столі.</VFEPD_PlanningTable.description>
+
+	<VFEPD_SmallPlanningTable.label>маленький стіл планування</VFEPD_SmallPlanningTable.label>
+	<VFEPD_SmallPlanningTable.description>Невеликий екран для планування, встановлений на крихітному столику.</VFEPD_SmallPlanningTable.description>
+
+	<VFEPD_TripleDisplay.label>потрійна приладова панель</VFEPD_TripleDisplay.label>
+	<VFEPD_TripleDisplay.description>Велика інформаційна панель з декількома екранами для отримання актуальної інформації.</VFEPD_TripleDisplay.description>
+
+	<VFEPD_SingleDisplay.label>одинарна приладова панель</VFEPD_SingleDisplay.label>
+	<VFEPD_SingleDisplay.description>Велика інформаційна панель з одним екраном для отримання актуальної інформації.</VFEPD_SingleDisplay.description>
+
+	<VFEPD_SpacerContainer.label>космічний контейнер</VFEPD_SpacerContainer.label>
+	<VFEPD_SpacerContainer.description>Коробка середнього розміру, з потрійним замком та захистом паролем.</VFEPD_SpacerContainer.description>
+
+	<VFEPD_SpacerContainerLarge.label>великий космічний контейнер</VFEPD_SpacerContainerLarge.label>
+	<VFEPD_SpacerContainerLarge.description>Коробка великого розміру, з потрійним замком та захистом паролем.</VFEPD_SpacerContainerLarge.description>
+
+	<VFEPD_SpacerContainerStack.label>стос космічних контейнерів</VFEPD_SpacerContainerStack.label>
+	<VFEPD_SpacerContainerStack.description>Великий стос коробок різного розміру, потрійно запечатаних, захищених паролем.</VFEPD_SpacerContainerStack.description>
+
+	<VFEPD_SpacerStorage.label>просунутий накопичувач даних</VFEPD_SpacerStorage.label>
+	<VFEPD_SpacerStorage.description>Великий багатокамерний вдосконалений накопичувач.</VFEPD_SpacerStorage.description>
+
+	<VFEPD_SwitchPanel.label>панель вимикачів</VFEPD_SwitchPanel.label>
+	<VFEPD_SwitchPanel.description>Панель середнього розміру з різноманітними важелями та перемикачами.</VFEPD_SwitchPanel.description>
+
+	<VFEPD_ServerRack.label>серверна стійка</VFEPD_ServerRack.label>
+	<VFEPD_ServerRack.description>Велика серверна стійка, що містить кілька жорстких дисків і просунуті комп'ютерні компоненти.</VFEPD_ServerRack.description>
+
+	<VFEPD_ServerRackAlternate.label>серверна стійка</VFEPD_ServerRackAlternate.label>
+	<VFEPD_ServerRackAlternate.description>Велика серверна стійка, що містить кілька жорстких дисків і просунуті комп'ютерні компоненти.</VFEPD_ServerRackAlternate.description>
+
+	<VFEPD_ServerRackAlternateTwo.label>серверна стійка</VFEPD_ServerRackAlternateTwo.label>
+	<VFEPD_ServerRackAlternateTwo.description>Велика серверна стійка, що містить кілька жорстких дисків і просунуті комп'ютерні компоненти.</VFEPD_ServerRackAlternateTwo.description>
+
+	<VFEPD_SensorPlatform.label>платформа датчиків</VFEPD_SensorPlatform.label>
+	<VFEPD_SensorPlatform.description>Невелика платформа, що містить різноманітні датчики.</VFEPD_SensorPlatform.description>
+
+	<VFEPD_PersonalConsole.label>особиста консоль</VFEPD_PersonalConsole.label>
+	<VFEPD_PersonalConsole.description>Невелика футуристична консоль персонального зв'язку.</VFEPD_PersonalConsole.description>
+
+	<VFEPD_Superpod.label>суперкапсула</VFEPD_Superpod.label>
+	<VFEPD_Superpod.description>Велика, неробоча, багатофункціональна капсула для десантування</VFEPD_Superpod.description>
+
+	<VFEPD_SkipBlack.label>скіп</VFEPD_SkipBlack.label>
+	<VFEPD_SkipBlack.description>Легкий, непрацюючий скіп, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipBlack.description>
+
+	<VFEPD_AlbatrossBlack.label>військовий корабель</VFEPD_AlbatrossBlack.label>
+	<VFEPD_AlbatrossBlack.description>Великий багатомісний транспортний корабель, який наразі не експлуатується.</VFEPD_AlbatrossBlack.description>
+
+	<VFEPD_SkipWhite.label>білий скіп</VFEPD_SkipWhite.label>
+	<VFEPD_SkipWhite.description>Легкий, непрацюючий скіп, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipWhite.description>
+
+	<VFEPD_AlbatrossWhite.label>білий військовий корабель</VFEPD_AlbatrossWhite.label>
+	<VFEPD_AlbatrossWhite.description>Великий багатомісний транспортний корабель, який наразі не експлуатується.</VFEPD_AlbatrossWhite.description>
+
+	<VFEPD_SkipSilver.label>срібний скіп</VFEPD_SkipSilver.label>
+	<VFEPD_SkipSilver.description>Легкий, непрацюючий скіп, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipSilver.description>
+
+	<VFEPD_AlbatrossSilver.label>срібний військовий корабель</VFEPD_AlbatrossSilver.label>
+	<VFEPD_AlbatrossSilver.description>Великий багатомісний транспортний корабель, який наразі не експлуатується.</VFEPD_AlbatrossSilver.description>
+
+	<VFEPD_SkipBlue.label>синій скіп</VFEPD_SkipBlue.label>
+	<VFEPD_SkipBlue.description>Легкий, непрацюючий скіп, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipBlue.description>
+
+	<VFEPD_AlbatrossBlue.label>синій військовий корабель</VFEPD_AlbatrossBlue.label>
+	<VFEPD_AlbatrossBlue.description>Великий багатомісний транспортний корабель, який наразі не експлуатується.</VFEPD_AlbatrossBlue.description>
+
+	<VFEPD_SkipRed.label>червоний скіп</VFEPD_SkipRed.label>
+	<VFEPD_SkipRed.description>Легкий, непрацюючий скіп, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipRed.description>
+
+	<VFEPD_AlbatrossRed.label>червоний військовий корабель</VFEPD_AlbatrossRed.label>
+	<VFEPD_AlbatrossRed.description>Великий багатомісний транспортний корабель, який наразі не експлуатується.</VFEPD_AlbatrossRed.description>
+
+	<VFEPD_CarForklift.label>навантажувач</VFEPD_CarForklift.label>
+	<VFEPD_CarForklift.description>Навантажувач в індустріальному стилі. Не функціонує: вся внутрішня проводка та двигун зняті.</VFEPD_CarForklift.description>
+
+	<VFEPD_CarDeliveryBlack.label>вантажівка</VFEPD_CarDeliveryBlack.label>
+	<VFEPD_CarDeliveryBlack.description>Велика вантажівка. Не функціонує: вся внутрішня проводка та двигун зняті.</VFEPD_CarDeliveryBlack.description>
+
+	<VFEPD_CarFamilyBlack.label>сімейне авто</VFEPD_CarFamilyBlack.label>
+	<VFEPD_CarFamilyBlack.description>Не функціонує: вся внутрішня проводка та двигун зняті.</VFEPD_CarFamilyBlack.description>
+
+	<VFEPD_CarPickupBlack.label>пікап</VFEPD_CarPickupBlack.label>
+	<VFEPD_CarPickupBlack.description>Не функціонує: вся внутрішня проводка та двигун зняті.</VFEPD_CarPickupBlack.description>
+
+	<VFEPD_CarVintageBlack.label>ретроавто</VFEPD_CarVintageBlack.label>
+	<VFEPD_CarVintageBlack.description>Не функціонує: вся внутрішня проводка та двигун зняті.</VFEPD_CarVintageBlack.description>
+
+	<VFEPD_CarDeliveryWhite.label>біла вантажівка</VFEPD_CarDeliveryWhite.label>
+	<VFEPD_CarDeliveryWhite.description>Велика біла вантажівка.</VFEPD_CarDeliveryWhite.description>
+
+	<VFEPD_CarFamilyWhite.label>біле сімейне авто</VFEPD_CarFamilyWhite.label>
+	<VFEPD_CarFamilyWhite.description>Біле сімейне авто.</VFEPD_CarFamilyWhite.description>
+
+	<VFEPD_CarPickupWhite.label>білий пікап</VFEPD_CarPickupWhite.label>
+	<VFEPD_CarPickupWhite.description>Білий пікап.</VFEPD_CarPickupWhite.description>
+
+	<VFEPD_CarVintageWhite.label>біле ретроавто</VFEPD_CarVintageWhite.label>
+	<VFEPD_CarVintageWhite.description>Біле ретроавто.</VFEPD_CarVintageWhite.description>
+
+	<VFEPD_CarDeliverySilver.label>срібна вантажівка</VFEPD_CarDeliverySilver.label>
+	<VFEPD_CarDeliverySilver.description>Велика срібна вантажівка.</VFEPD_CarDeliverySilver.description>
+
+	<VFEPD_CarFamilySilver.label>срібне сімейне авто</VFEPD_CarFamilySilver.label>
+	<VFEPD_CarFamilySilver.description>Срібне сімейне авто.</VFEPD_CarFamilySilver.description>
+
+	<VFEPD_CarPickupSilver.label>срібний пікап</VFEPD_CarPickupSilver.label>
+	<VFEPD_CarPickupSilver.description>Срібний пікап.</VFEPD_CarPickupSilver.description>
+
+	<VFEPD_CarVintageSilver.label>срібне ретроавто</VFEPD_CarVintageSilver.label>
+	<VFEPD_CarVintageSilver.description>Срібне ретроавто.</VFEPD_CarVintageSilver.description>
+
+	<VFEPD_CarDeliveryBlue.label>синя вантажівка</VFEPD_CarDeliveryBlue.label>
+	<VFEPD_CarDeliveryBlue.description>Велика синя вантажівка.</VFEPD_CarDeliveryBlue.description>
+
+	<VFEPD_CarFamilyBlue.label>синє сімейне авто</VFEPD_CarFamilyBlue.label>
+	<VFEPD_CarFamilyBlue.description>Синє сімейне авто.</VFEPD_CarFamilyBlue.description>
+
+	<VFEPD_CarPickupBlue.label>синій пікап</VFEPD_CarPickupBlue.label>
+	<VFEPD_CarPickupBlue.description>Синій пікап.</VFEPD_CarPickupBlue.description>
+
+	<VFEPD_CarVintageBlue.label>синє ретроавто</VFEPD_CarVintageBlue.label>
+	<VFEPD_CarVintageBlue.description>Синє ретроавто.</VFEPD_CarVintageBlue.description>
+
+	<VFEPD_CarDeliveryRed.label>червона вантажівка</VFEPD_CarDeliveryRed.label>
+	<VFEPD_CarDeliveryRed.description>Велика червона вантажівка.</VFEPD_CarDeliveryRed.description>
+
+	<VFEPD_CarFamilyRed.label>червоне сімейне авто</VFEPD_CarFamilyRed.label>
+	<VFEPD_CarFamilyRed.description>Червоне сімейне авто.</VFEPD_CarFamilyRed.description>
+
+	<VFEPD_CarPickupRed.label>червоний пікап</VFEPD_CarPickupRed.label>
+	<VFEPD_CarPickupRed.description>Червоний пікап.</VFEPD_CarPickupRed.description>
+
+	<VFEPD_CarVintageRed.label>червоне ретроавто</VFEPD_CarVintageRed.label>
+	<VFEPD_CarVintageRed.description>Червоне ретроавто.</VFEPD_CarVintageRed.description>
+
+	<!--empty hi-tech research bench-->
+	<VPEPD_EmptyAdvResearch.label>порожній високотехнологічний дослідницький стіл</VPEPD_EmptyAdvResearch.label>
+	<!--A working surface to fill with laboratory stuff. Non-functional for research purposes.-->
+	<VPEPD_EmptyAdvResearch.description>Робоча поверхня для заповнення лабораторним приладдям. Для дослідницьких цілей не використовується.</VPEPD_EmptyAdvResearch.description>
+
+	<!--empty brewery-->
+	<VPEPD_EmptyBrewery.label>порожня пивоварня</VPEPD_EmptyBrewery.label>
+	<!--A working surface to fill with brewery stuff. Non-functional for crafting purposes.-->
+	<VPEPD_EmptyBrewery.description>Робоча поверхня для заповнення пивоварним приладдям. Для пивоваріння не використовується.</VPEPD_EmptyBrewery.description>
+
+	<!--empty smelter-->
+	<VPEPD_EmptyElectricSmelter.label>порожня плавильня</VPEPD_EmptyElectricSmelter.label>
+	<!--A working surface to fill with smeltery stuff. Non-functional for crafting purposes.-->
+	<VPEPD_EmptyElectricSmelter.description>Робоча поверхня для заповнення металургійним приладдям. Для робочих цілей не використовується.</VPEPD_EmptyElectricSmelter.description>
+
+	<!--empty fabrication bench-->
+	<VPEPD_EmptyFabrication.label>порожній верстат для виробництва</VPEPD_EmptyFabrication.label>
+	<!--A working surface to fill with fabrication stuff. Non-functional for crafting purposes.-->
+	<VPEPD_EmptyFabrication.description>Робоча поверхня для заповнення виробничим приладдям. Для виробничих цілей не використовується.</VPEPD_EmptyFabrication.description>
+
+	<!--empty research bench-->
+	<VPEPD_EmptyResearch.label>порожній дослідницький стіл</VPEPD_EmptyResearch.label>
+	<!--A working surface to fill with laboratory stuff. Non-functional for research purposes.-->
+	<VPEPD_EmptyResearch.description>Робоча поверхня для заповнення лабораторним приладдям. Для дослідницьких цілей не використовується.</VPEPD_EmptyResearch.description>
+
+	<!--empty sculpting table-->
+	<VPEPD_EmptyScultingTable.label>порожній мистецький стіл</VPEPD_EmptyScultingTable.label>
+	<!--A working surface to fill with sculpting stuff. Non-functional for crafting purposes.-->
+	<VPEPD_EmptyScultingTable.description>Робоча поверхня для заповнення робочим приладдям. Для мистецьких цілей не використовується.</VPEPD_EmptyScultingTable.description>
+
+	<!--empty smithing table-->
+	<VPEPD_EmptySmithy.label>порожня кузня</VPEPD_EmptySmithy.label>
+	<!--A working surface to fill with smithing stuff. Non-functional for crafting purposes.-->
+	<VPEPD_EmptySmithy.description>Робоча поверхня для заповнення ковальським приладдям. Для ковальських цілей не використовується.</VPEPD_EmptySmithy.description>
+
+	<!--empty stonecutting table-->
+	<VPEPD_EmptyStonecutter.label>порожній стіл каменяра</VPEPD_EmptyStonecutter.label>
+	<!--A working surface to fill with stonecutting stuff. Non-functional for crafting purposes.-->
+	<VPEPD_EmptyStonecutter.description>Робоча поверхня для заповнення каменеобробним приладдям. Для різки каменя не використовується.</VPEPD_EmptyStonecutter.description>
+
+	<!--empty machining table-->
+	<VPEPD_EmptyTableMachining.label>порожній верстак</VPEPD_EmptyTableMachining.label>
+	<!--A working surface to fill with machining stuff. Non-functional for crafting purposes.-->
+	<VPEPD_EmptyTableMachining.description>Робоча поверхня для заповнення машинним приладдям. Для робочих цілей не використовується.</VPEPD_EmptyTableMachining.description>
+
+	<!--empty tailoring table-->
+	<VPEPD_EmptyTailoring.label>порожній стіл кравця</VPEPD_EmptyTailoring.label>
+	<!--A working surface to fill with tailoring stuff. Non-functional for crafting purposes.-->
+	<VPEPD_EmptyTailoring.description>Робоча поверхня для заповнення кравецьким приладдям. Для шиття не використовується.</VPEPD_EmptyTailoring.description>
+
+	<VPEPD_EmptyWorkbench.label>порожній робочий стіл</VPEPD_EmptyWorkbench.label>
+	<VPEPD_EmptyWorkbench.description>Робоча поверхня для заповнення виробничим приладдям. Нефункціональний.</VPEPD_EmptyWorkbench.description>
+
+	<VFEPD_Smelter.label>плавильна піч</VFEPD_Smelter.label>
+	<VFEPD_Smelter.description>Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Smelter.description>
+
+	<VFEPD_ChemfuelTankSmall.label>бак для хімпалива</VFEPD_ChemfuelTankSmall.label>
+	<VFEPD_ChemfuelTankSmall.description>Невеликий бак для хімпалива. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_ChemfuelTankSmall.description>
+
+	<VFEPD_SmelterExhaust.label>вихлопні труби плавильної печі</VFEPD_SmelterExhaust.label>
+	<VFEPD_SmelterExhaust.description>Невеликі вихлопні труби. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SmelterExhaust.description>
+
+	<VFEPD_ConveyorInput.label>вхід на конвеєр</VFEPD_ConveyorInput.label>
+	<VFEPD_ConveyorInput.description>Невеликий вхід на конвеєр. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_ConveyorInput.description>
+
+	<VFEPD_SmelterGizmo.label>плавильний агрегат</VFEPD_SmelterGizmo.label>
+	<VFEPD_SmelterGizmo.description>Невеликий плавильний агрегат. Бог зна для чого він. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SmelterGizmo.description>
+
+	<VFEPD_BrownSmelterGizmo.label>плавильний агрегат, сірий</VFEPD_BrownSmelterGizmo.label>
+	<VFEPD_BrownSmelterGizmo.description>Невеликий плавильний агрегат. Бог зна для чого він. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_BrownSmelterGizmo.description>
+
+	<VFEPD_SmelterHeater.label>нагрівач плавильної печі</VFEPD_SmelterHeater.label>
+	<VFEPD_SmelterHeater.description>Невеликий нагрівач плавильної печі. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SmelterHeater.description>
+
+	<VFEPD_AdjustableWrench.label>розвідний ключ</VFEPD_AdjustableWrench.label>
+	<VFEPD_AdjustableWrench.description>Невеликий розвідний ключ. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_AdjustableWrench.description>
+
+	<VFEPD_SmallAlembic.label>малий аламбік</VFEPD_SmallAlembic.label>
+	<VFEPD_SmallAlembic.description>Невеликий аламбік. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SmallAlembic.description>
+
+	<VFEPD_Alembic.label>аламбік</VFEPD_Alembic.label>
+	<VFEPD_Alembic.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Alembic.description>
+
+	<VFEPD_DoubleAlembic.label>подвійний аламбік</VFEPD_DoubleAlembic.label>
+	<VFEPD_DoubleAlembic.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_DoubleAlembic.description>
+
+	<VFEPD_AssortedVials.label>набір фіалів</VFEPD_AssortedVials.label>
+	<VFEPD_AssortedVials.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_AssortedVials.description>
+
+	<VFEPD_AssortedVialsB.label>набір фіалів</VFEPD_AssortedVialsB.label>
+	<VFEPD_AssortedVialsB.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_AssortedVialsB.description>
+
+	<VFEPD_AssortedVialsC.label>набір фіалів</VFEPD_AssortedVialsC.label>
+	<VFEPD_AssortedVialsC.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_AssortedVialsC.description>
+
+	<VFEPD_Beakers.label>колби</VFEPD_Beakers.label>
+	<VFEPD_Beakers.description>Набір колб. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Beakers.description>
+
+	<VFEPD_BioRefineryLargeBarrel.label>велика бочка біопаливного заводу</VFEPD_BioRefineryLargeBarrel.label>
+	<VFEPD_BioRefineryLargeBarrel.description>Призначена для розміщення біля порожнього верстаку. Просто в декоративних цілях.</VFEPD_BioRefineryLargeBarrel.description>
+
+	<VFEPD_BioRefineryLargeBarrelHorizontal.label>велика бочка біопаливного заводу</VFEPD_BioRefineryLargeBarrelHorizontal.label>
+	<VFEPD_BioRefineryLargeBarrelHorizontal.description>Призначена для розміщення біля порожнього верстаку. Просто в декоративних цілях.</VFEPD_BioRefineryLargeBarrelHorizontal.description>
+
+	<VFEPD_BioRefineryMediumBarrel.label>середня бочка біопаливного заводу</VFEPD_BioRefineryMediumBarrel.label>
+	<VFEPD_BioRefineryMediumBarrel.description>Призначена для розміщення біля порожнього верстаку. Просто в декоративних цілях.</VFEPD_BioRefineryMediumBarrel.description>
+
+	<VFEPD_BioRefineryMediumBarrelHorizontal.label>середня бочка біопаливного заводу</VFEPD_BioRefineryMediumBarrelHorizontal.label>
+	<VFEPD_BioRefineryMediumBarrelHorizontal.description>Призначена для розміщення біля порожнього верстаку. Просто в декоративних цілях.</VFEPD_BioRefineryMediumBarrelHorizontal.description>
+
+	<VFEPD_BioRefinerySmallBarrel.label>мала бочка біопаливного заводу</VFEPD_BioRefinerySmallBarrel.label>
+	<VFEPD_BioRefinerySmallBarrel.description>Призначена для розміщення біля порожнього верстаку. Просто в декоративних цілях.</VFEPD_BioRefinerySmallBarrel.description>
+
+	<VFEPD_BlocksPileA.label>купа брил</VFEPD_BlocksPileA.label>
+	<VFEPD_BlocksPileA.description>Купа брил у процесі обробки. Призначені для розміщення біля порожнього верстаку. Просто в декоративних цілях.</VFEPD_BlocksPileA.description>
+
+	<VFEPD_BlocksPileB.label>купа брил</VFEPD_BlocksPileB.label>
+	<VFEPD_BlocksPileB.description>Купа брил у процесі обробки. Призначені для розміщення біля порожнього верстаку. Просто в декоративних цілях.</VFEPD_BlocksPileB.description>
+
+	<VFEPD_BlocksPileC.label>купа брил</VFEPD_BlocksPileC.label>
+	<VFEPD_BlocksPileC.description>Купа брил у процесі обробки. Призначені для розміщення біля порожнього верстаку. Просто в декоративних цілях.</VFEPD_BlocksPileC.description>
+
+	<VFEPD_BloodSplatter.label>бризки крові</VFEPD_BloodSplatter.label>
+	<VFEPD_BloodSplatter.description>Бризки крові зі столу м'ясника. Призначений для розміщення біля порожнього верстаку. Просто в декоративних цілях.</VFEPD_BloodSplatter.description>
+
+	<VFEPD_BreweryBarrel.label>пивоварна діжка</VFEPD_BreweryBarrel.label>
+	<VFEPD_BreweryBarrel.description>Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_BreweryBarrel.description>
+
+	<VFEPD_BreweryTablet.label>пивоварний килимок</VFEPD_BreweryTablet.label>
+	<VFEPD_BreweryTablet.description>Пивоварний килимок для переробки рослин на сусло. Чи щось таке. Не дивіться на мене так, я не пивовар. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_BreweryTablet.description>
+
+	<VFEPD_Chisel.label>зубило</VFEPD_Chisel.label>
+	<VFEPD_Chisel.description>Призначене для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Chisel.description>
+
+	<VFEPD_Cleaver.label>тесак</VFEPD_Cleaver.label>
+	<VFEPD_Cleaver.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Cleaver.description>
+
+	<VFEPD_ConeWrench.label>конусний ключ</VFEPD_ConeWrench.label>
+	<VFEPD_ConeWrench.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_ConeWrench.description>
+
+	<VFEPD_CuttingTableWithKnife.label>дощечка з ножем</VFEPD_CuttingTableWithKnife.label>
+	<VFEPD_CuttingTableWithKnife.description>Дощечка з гострозаточеним ножем. Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_CuttingTableWithKnife.description>
+
+	<VFEPD_Docs.label>розкидані документи</VFEPD_Docs.label>
+	<VFEPD_Docs.description>Купка розкиданих наукових документів. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Docs.description>
+
+	<VFEPD_ManyDocs.label>багато розкиданих документів</VFEPD_ManyDocs.label>
+	<VFEPD_ManyDocs.description>Ціла купа розкиданих наукових документів. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_ManyDocs.description>
+
+	<VFEPD_DoubleOven.label>подвійна духовка</VFEPD_DoubleOven.label>
+	<VFEPD_DoubleOven.description>Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_DoubleOven.description>
+
+	<VFEPD_FabricationComputer.label>виробничий комп'ютер</VFEPD_FabricationComputer.label>
+	<VFEPD_FabricationComputer.description>Виробничий комп'ютер. Він комп'ютирує. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_FabricationComputer.description>
+
+	<VFEPD_FabricationGizmoA.label>токарний верстат</VFEPD_FabricationGizmoA.label>
+	<VFEPD_FabricationGizmoA.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_FabricationGizmoA.description>
+
+	<VFEPD_FabricationGizmoB.label>токарний верстат</VFEPD_FabricationGizmoB.label>
+	<VFEPD_FabricationGizmoB.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_FabricationGizmoB.description>
+
+	<VFEPD_FabricationGizmoC.label>токарний верстат</VFEPD_FabricationGizmoC.label>
+	<VFEPD_FabricationGizmoC.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_FabricationGizmoC.description>
+
+	<VFEPD_FabricationLargeGizmo.label>виробничі комп'ютери</VFEPD_FabricationLargeGizmo.label>
+	<VFEPD_FabricationLargeGizmo.description>Купка виробничих конструкцій. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_FabricationLargeGizmo.description>
+
+	<VFEPD_FabricationLaser.label>виробничий лазер</VFEPD_FabricationLaser.label>
+	<VFEPD_FabricationLaser.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_FabricationLaser.description>
+
+	<VFEPD_FabricationLathe.label>малий токарний верстат</VFEPD_FabricationLathe.label>
+	<VFEPD_FabricationLathe.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_FabricationLathe.description>
+
+	<VFEPD_FabricRollA.label>рулони тканини</VFEPD_FabricRollA.label>
+	<VFEPD_FabricRollA.description>Кілька рулонів тканини. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_FabricRollA.description>
+
+	<VFEPD_FabricRollB.label>рулони тканини</VFEPD_FabricRollB.label>
+	<VFEPD_FabricRollB.description>Кілька рулонів тканини. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_FabricRollB.description>
+
+	<VFEPD_FabricRollC.label>рулони тканини</VFEPD_FabricRollC.label>
+	<VFEPD_FabricRollC.description>Кілька рулонів тканини. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_FabricRollC.description>
+
+	<VFEPD_File.label>долото</VFEPD_File.label>
+	<VFEPD_File.description>Призначене для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_File.description>
+
+	<VFEPD_HalfFinishedGun.label>недороблений пістолет</VFEPD_HalfFinishedGun.label>
+	<VFEPD_HalfFinishedGun.description>Невеликий недороблений пістолет. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_HalfFinishedGun.description>
+
+	<VFEPD_HeavyHammer.label>важкий молоток</VFEPD_HeavyHammer.label>
+	<VFEPD_HeavyHammer.description>Великий та важкий молоток. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_HeavyHammer.description>
+
+	<VFEPD_SmallScreen.label>маленький екран</VFEPD_SmallScreen.label>
+	<VFEPD_SmallScreen.description>Маленький екран комп'ютера. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SmallScreen.description>
+
+	<VFEPD_MediumScreen.label>середній екран</VFEPD_MediumScreen.label>
+	<VFEPD_MediumScreen.description>Середній екран комп'ютера. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_MediumScreen.description>
+
+	<VFEPD_LargeScreen.label>великий екран</VFEPD_LargeScreen.label>
+	<VFEPD_LargeScreen.description>Великий екран комп'ютера. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_LargeScreen.description>
+
+	<VFEPD_MachiningHammer.label>обробний молоток</VFEPD_MachiningHammer.label>
+	<VFEPD_MachiningHammer.description>Невеликий обробний молоток. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_MachiningHammer.description>
+
+	<VFEPD_MustBucket.label>відро із суслом</VFEPD_MustBucket.label>
+	<VFEPD_MustBucket.description>Невелике відро із суслом. Призначене для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_MustBucket.description>
+
+	<VFEPD_MustBuckets.label>відра із суслом</VFEPD_MustBuckets.label>
+	<VFEPD_MustBuckets.description>Два невеликих відра із суслом. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_MustBuckets.description>
+
+	<VFEPD_Potentiometer.label>потенціометр</VFEPD_Potentiometer.label>
+	<VFEPD_Potentiometer.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Potentiometer.description>
+
+	<VFEPD_PotentiometerOven.label>переобладнана піч</VFEPD_PotentiometerOven.label>
+	<VFEPD_PotentiometerOven.description>Піч, переобладнана для плавильних печей. Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_PotentiometerOven.description>
+
+	<VFEPD_ResearchDatabase.label>дослідницька база даних</VFEPD_ResearchDatabase.label>
+	<VFEPD_ResearchDatabase.description>Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_ResearchDatabase.description>
+
+	<VFEPD_ResearchStructure.label>дослідницька структура</VFEPD_ResearchStructure.label>
+	<VFEPD_ResearchStructure.description>Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_ResearchStructure.description>
+
+	<VFEPD_ResearchStructureB.label>дослідницька структура</VFEPD_ResearchStructureB.label>
+	<VFEPD_ResearchStructureB.description>Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_ResearchStructureB.description>
+
+	<VFEPD_Sandpaper.label>наждачка</VFEPD_Sandpaper.label>
+	<VFEPD_Sandpaper.description>Шмат наждачки. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Sandpaper.description>
+
+	<VFEPD_Saw.label>пила</VFEPD_Saw.label>
+	<VFEPD_Saw.description>Невелика пила. Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Saw.description>
+
+	<VFEPD_Scissors.label>ножиці</VFEPD_Scissors.label>
+	<VFEPD_Scissors.description>Маленькі ножиці. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Scissors.description>
+
+	<VFEPD_Scraper.label>шкребок</VFEPD_Scraper.label>
+	<VFEPD_Scraper.description>Невеликий шкребок. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Scraper.description>
+
+	<VFEPD_SewingMachine.label>швацька машина</VFEPD_SewingMachine.label>
+	<VFEPD_SewingMachine.description>Невелика швацька машина. Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SewingMachine.description>
+
+	<VFEPD_SingleBeaker.label>колба</VFEPD_SingleBeaker.label>
+	<VFEPD_SingleBeaker.description>Невелика колба. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SingleBeaker.description>
+
+	<VFEPD_SmallKnife.label>маленький ніж</VFEPD_SmallKnife.label>
+	<VFEPD_SmallKnife.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SmallKnife.description>
+
+	<VFEPD_SmallVent.label>невеликий вентиляційний отвір</VFEPD_SmallVent.label>
+	<VFEPD_SmallVent.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SmallVent.description>
+
+	<VFEPD_SmallWrench.label>маленький гайковий ключ</VFEPD_SmallWrench.label>
+	<VFEPD_SmallWrench.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SmallWrench.description>
+
+	<VFEPD_SpinningWheel.label>прядка</VFEPD_SpinningWheel.label>
+	<VFEPD_SpinningWheel.description>Невелика прядка. Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_SpinningWheel.description>
+
+	<VFEPD_StoneGrinder.label>шліфувальна машина</VFEPD_StoneGrinder.label>
+	<VFEPD_StoneGrinder.description>Невелика шліфувальна машина. Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_StoneGrinder.description>
+
+	<VFEPD_TextilesCardboardBox.label>коробка для текстилю</VFEPD_TextilesCardboardBox.label>
+	<VFEPD_TextilesCardboardBox.description>Невелика коробка для текстилю. Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_TextilesCardboardBox.description>
+
+	<VFEPD_TinyVent.label>вентиляційний отвір</VFEPD_TinyVent.label>
+	<VFEPD_TinyVent.description>Невеликий вентиляційний отвір. Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_TinyVent.description>
+
+	<VFEPD_Tongs.label>щипці</VFEPD_Tongs.label>
+	<VFEPD_Tongs.description>Невеликі щипці. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Tongs.description>
+
+	<VFEPD_Tools.label>інструменти</VFEPD_Tools.label>
+	<VFEPD_Tools.description>Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_Tools.description>
+
+	<VFEPD_ToolsBoard.label>лоток для інструментів</VFEPD_ToolsBoard.label>
+	<VFEPD_ToolsBoard.description>Призначений для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_ToolsBoard.description>
+
+	<VFEPD_UnfinishedCloth.label>незакінчена кравецька робота</VFEPD_UnfinishedCloth.label>
+	<VFEPD_UnfinishedCloth.description>Обрізки незавершеної кравецької роботи. Призначені для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_UnfinishedCloth.description>
+
+	<VFEPD_WoodenMallet.label>киянка</VFEPD_WoodenMallet.label>
+	<VFEPD_WoodenMallet.description>Невелика киянка. Призначена для розміщення над порожнім верстаком. Просто в декоративних цілях.</VFEPD_WoodenMallet.description>
+	
+	<VFEPD_Galactivine.label>галактивін</VFEPD_Galactivine.label>
+	<VFEPD_Galactivine.description>Екзотична космічна рослина. Це фальшива.</VFEPD_Galactivine.description>
+	
+	<VFEPD_Nebulafrond.label>небулафронд</VFEPD_Nebulafrond.label>
+	<VFEPD_Nebulafrond.description>Екзотична космічна рослина. Це фальшива.</VFEPD_Nebulafrond.description>
+	
+	<VFEPD_Biofluxium.label>біофлюцій</VFEPD_Biofluxium.label>
+	<VFEPD_Biofluxium.description>Екзотична космічна рослина. Це фальшива.</VFEPD_Biofluxium.description>
+	
+	<VFEPD_Levitree.label>левітрі</VFEPD_Levitree.label>
+	<VFEPD_Levitree.description>Екзотична космічна рослина. Це фальшива.</VFEPD_Levitree.description>
+	
+	<VFEPD_Quasarbloom.label>квазароцвіт</VFEPD_Quasarbloom.label>
+	<VFEPD_Quasarbloom.description>Екзотична космічна рослина. Це фальшива.</VFEPD_Quasarbloom.description>
+	
+	<VFEPD_Plasmablossom.label>плазмоцвіт</VFEPD_Plasmablossom.label>
+	<VFEPD_Plasmablossom.description>Екзотична космічна рослина. Це фальшива.</VFEPD_Plasmablossom.description>
+</LanguageData>

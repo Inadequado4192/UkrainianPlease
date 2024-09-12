@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VendingMachines_VendingMachine>Торгомат</VendingMachines_VendingMachine>
+  <VendingMachines_VendingMachineContains>Містить:</VendingMachines_VendingMachineContains>
+  <VendingMachines_VendingMachineTotal>Зароблено за весь час:</VendingMachines_VendingMachineTotal>
+  <VendingMachines_VendingMachineToggleDesc>Дозволити гостям користуватися цією послугою.</VendingMachines_VendingMachineToggleDesc>
+  <!-- pricing -->
+  <VendingMachines_SetPricing>Встановити ціну</VendingMachines_SetPricing>
+  <VendingMachines_Free>Віддавати безкоштовно</VendingMachines_Free>
+  <VendingMachines_Low>Знижка 25%</VendingMachines_Low>
+  <VendingMachines_Medium>Звичайна ціна</VendingMachines_Medium>
+  <VendingMachines_High>Дорожче на 25%</VendingMachines_High>
+  <EmptyAfterHours>Спорожнити кожен торговий автомат після X годин</EmptyAfterHours>
+  <EmptyAfterHoursTooltip>Якщо торгомат не спорожнився після цієї кількості годин, хтось повинен прийти і спорожнити його.</EmptyAfterHoursTooltip>
+
+</LanguageData>

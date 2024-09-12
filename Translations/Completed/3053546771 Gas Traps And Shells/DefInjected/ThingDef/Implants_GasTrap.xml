@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ToxicGasImplant -->
+
+  <GasTrapImplantToxic.label>імплантована отруйна газова пастка</GasTrapImplantToxic.label>
+  <GasTrapImplantToxic.description>Грудний імплантат, який змушує пішаків, що помирають, виділяти в повітря токсичний газ.</GasTrapImplantToxic.description>
+
+
+  <!-- AcidGasImplant -->
+
+  <GasTrapImplantAcid.label>імплантована кислотна газова пастка</GasTrapImplantAcid.label>
+  <GasTrapImplantAcid.description>Грудний імплантат, який змушує пішаків, що помирають, випускати в повітря кислотний газ.</GasTrapImplantAcid.description>
+
+
+  <!-- RageGasImplant -->
+
+  <GasTrapImplantRage.label>імплантована пастка з газом гніву</GasTrapImplantRage.label>
+  <GasTrapImplantRage.description>Грудний імплантат, який змушує пішаків, що помирають, випускати в повітря газ гніву.</GasTrapImplantRage.description>
+
+
+</LanguageData>

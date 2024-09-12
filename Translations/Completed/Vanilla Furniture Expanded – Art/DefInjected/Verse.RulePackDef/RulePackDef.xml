@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	<ArtDescription_Rug.rulePack.rulesStrings>
+	  <li>physical_description_root->[rug_1] [depicts] [image]. [desc_sentence_group]</li>
+	  <li>physical_description_root->[rug_1] містить [depiction] [image]. [desc_sentence_group]</li>
+	  <li>physical_description_root->На [rug_2] виконано [depiction] [image]. [desc_sentence_group]</li>
+	  
+	  <li>rug_1->Цей килимок</li>
+	  <li>rug_1->Ця робота</li>
+	  <li>rug_1->Ця верета</li>
+
+	  <li>rug_2->цьому килимку</li>
+	  <li>rug_2->цій роботі</li>
+	  <li>rug_2->цій вереті</li>
+	</ArtDescription_Rug.rulePack.rulesStrings>
+  
+	<ArtDescription_Pottery.rulePack.rulesStrings>
+	  <li>physical_description_root->[pottery_1] [depicts] [image]. [desc_sentence_group]</li>
+	  <li>physical_description_root->[pottery_1] містить [depiction] [image]. [desc_sentence_group]</li>
+	  <li>physical_description_root->На [pottery_2] виконано [depiction] [image]. [desc_sentence_group]</li>
+	  
+	  <li>pottery_1->Ця кераміка</li>
+	  <li>pottery_1->Ця робота</li>
+	  <li>pottery_1->Цей набір</li>
+
+	  <li>pottery_2->цій кераміці</li>
+	  <li>pottery_2->цій роботі</li>
+	  <li>pottery_2->цьому наборові</li>
+	</ArtDescription_Pottery.rulePack.rulesStrings>
+
+	<ArtDescription_Hologram.rulePack.rulesStrings>
+	  <li>physical_description_root->[hologram_1] [depicts] [image]. [desc_sentence_group]</li>
+	  <li>physical_description_root->[hologram_1] містить [depiction] [image]. [desc_sentence_group]</li>
+	  <li>physical_description_root->На [hologram_2] показано [depiction] [image]. [desc_sentence_group]</li>
+	  
+	  <li>hologram_1->Ця голограма</li>
+	  <li>hologram_1->Ця світлова скульптура</li>
+	  <li>hologram_1->Ця модель</li>
+
+	  <li>hologram_2->цій голограмі</li>
+	  <li>hologram_2->цій світловій скульптурі</li>
+	  <li>hologram_2->цій моделі</li>
+	</ArtDescription_Hologram.rulePack.rulesStrings>
+  
+	<ArtDescription_Archotech.rulePack.rulesStrings>
+	  <li>physical_description_root->[machine] [imprints] [image]. [desc_sentence_group]</li>
+	  
+	  <li>machine->Ця машина</li>
+	  <li>machine->Цей стародавній пристрій</li>
+	  <li>machine->Ця незрозуміла структура</li>
+	  <li>machine->Ця cкульптура архотехів</li>
+	  
+	  <li>imprints->передає зображення</li>
+	  <li>imprints->промиває мозок зображенням</li>
+	  <li>imprints->зумушує людей думати про зображення</li>
+	</ArtDescription_Archotech.rulePack.rulesStrings>
+</LanguageData>

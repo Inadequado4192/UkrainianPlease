@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VSIE_MealTogether.label>романтична вечеря</VSIE_MealTogether.label>
+  <VSIE_MovieNight.label>вечір кіно</VSIE_MovieNight.label>
+  <VSIE_BuildingSnowmen.label>ліплення сніговиків</VSIE_BuildingSnowmen.label>
+  <VSIE_ViewingArtTogether.label>споглядання мистецтва</VSIE_ViewingArtTogether.label>
+  <VSIE_Skygazing.label>споглядання неба</VSIE_Skygazing.label>
+  <VSIE_GoingForAWalk.label>прогулянка</VSIE_GoingForAWalk.label>
+  <VSIE_GrabbingBeer.label>пивна вечірка</VSIE_GrabbingBeer.label>
+  <VSIE_Funeral.label>похорони</VSIE_Funeral.label>
+  <VSIE_OutdoorParty.label>вечірка на природі</VSIE_OutdoorParty.label>
+  <VSIE_BingeParty.label>п'янка</VSIE_BingeParty.label>
+</LanguageData>

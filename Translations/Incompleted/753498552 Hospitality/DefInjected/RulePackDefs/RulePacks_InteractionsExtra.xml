@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] радісно плескав [RECIPIENT_possessive] в долоні.</li>
+    <li>sent->[RECIPIENT_nameDef] посміхнувся.</li>
+    <li>sent->[RECIPIENT_nameDef] кивнув на знак згоди.</li>
+    <li>sent->[RECIPIENT_nameDef] був зацікавлений почути ще.</li>
+    <li>sent->[RECIPIENT_nameDef] виглядав збудженим.</li>
+    <li>sent->[RECIPIENT_nameDef] виглядав засмаглим.</li>
+    <li>sent->[RECIPIENT_nameDef] з захопленням дивився на [INITIATOR_nameDef].</li>
+  </Sentence_CharmAttemptAccepted.rulePack.rulesStrings>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] почав сердито нервуватись.</li>
+    <li>sent->[RECIPIENT_nameDef] несхвально похитав головою.</li>
+    <li>sent->[RECIPIENT_nameDef] абсолютно байдуже.</li>
+    <li>sent->[RECIPIENT_nameDef] це вже набридло.</li>
+    <li>sent->[RECIPIENT_nameDef] зітхнув, дивлячись на нудне оточення кімнати.</li>
+    <li>sent->[RECIPIENT_nameDef] згадав, що скоро збирається йти.</li>
+    <li>sent->[RECIPIENT_nameDef] перекотив [RECIPIENT_possessive] очі.</li>
+  </Sentence_CharmAttemptRejected.rulePack.rulesStrings>
+</LanguageData>

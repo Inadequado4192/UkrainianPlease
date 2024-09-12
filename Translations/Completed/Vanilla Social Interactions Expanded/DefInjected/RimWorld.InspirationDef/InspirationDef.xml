@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VSIE_Inspired_Planting.label>садівництво</VSIE_Inspired_Planting.label>
+  <VSIE_Inspired_Planting.baseInspectLine>Натхнення: садівництво</VSIE_Inspired_Planting.baseInspectLine>
+  <VSIE_Inspired_Planting.beginLetter>Протягом наступних 8 днів [PAWN_pronoun] зможе висаджувати будь-які рослини незалежно від навички рослинництва.\n\n[PAWN_pronoun] хоче посіяти щонайменше 50 рослин.</VSIE_Inspired_Planting.beginLetter>
+  <VSIE_Inspired_Planting.endMessage>{0} більше не відчуває натхення (садівництво).</VSIE_Inspired_Planting.endMessage>
+  
+  <VSIE_Party_Frenzy.label>релаксація</VSIE_Party_Frenzy.label>
+  <VSIE_Party_Frenzy.baseInspectLine>Натхнення: релаксація</VSIE_Party_Frenzy.baseInspectLine>
+  <VSIE_Party_Frenzy.beginLetter>Наступні 8 днів [PAWN_pronoun] буде відпочивати вдвічі швидше.\n\n[PAWN_pronoun] хоті{PAWN_gender ? в : ла} би відвідати вечірку.</VSIE_Party_Frenzy.beginLetter>
+  <VSIE_Party_Frenzy.endMessage>{0} більше не відчуває натхення (релаксація).</VSIE_Party_Frenzy.endMessage>
+  
+  <VSIE_Inspired_Research.label>дослідження</VSIE_Inspired_Research.label>
+  <VSIE_Inspired_Research.baseInspectLine>Натхнення: дослідження</VSIE_Inspired_Research.baseInspectLine>
+  <VSIE_Inspired_Research.beginLetter>[PAWN_pronoun] буде проводити дослідження у 5 разів швидше протягом наступних 8 днів або до завершення дослідницького проєкту.\n\n[PAWN_pronoun] хоті{PAWN_gender ? в : ла} би завершити поточний дослідницький проєкт.</VSIE_Inspired_Research.beginLetter>
+  <VSIE_Inspired_Research.endMessage>{0} більше не відчуває натхення (дослідження).</VSIE_Inspired_Research.endMessage>
+  
+  <VSIE_Inspired_Mining.label>шахтарство</VSIE_Inspired_Mining.label>
+  <VSIE_Inspired_Mining.baseInspectLine>Натхнення: шахтарство</VSIE_Inspired_Mining.baseInspectLine>
+  <VSIE_Inspired_Mining.beginLetter>[PAWN_pronoun] буде отримувати вдвічі більше каміння або руди під час шахтарства протягом наступних 8 днів.\n\n[PAWN_pronoun] хоті{PAWN_gender ? в : ла} би видобути не менше 50 одиниць каміння.</VSIE_Inspired_Mining.beginLetter>
+  <VSIE_Inspired_Mining.endMessage>{0} більше не відчуває натхення (шахтарство).</VSIE_Inspired_Mining.endMessage>
+  
+  <VSIE_Learning_Frenzy.label>завзяте навчання</VSIE_Learning_Frenzy.label>
+  <VSIE_Learning_Frenzy.baseInspectLine>Натхнення: завзяте навчання</VSIE_Learning_Frenzy.baseInspectLine>
+  <VSIE_Learning_Frenzy.beginLetter>Протягом наступних 8 днів [PAWN_pronoun] отримуватиме вдвічі більше досвіду, ніж зазвичай.\n\n[PAWN_pronoun] хоті{PAWN_gender ? в : ла} би підвищити рівень будь-якої навички до 10-го.</VSIE_Learning_Frenzy.beginLetter>
+  <VSIE_Learning_Frenzy.endMessage>{0} більше не відчуває натхення (завзяте навчання).</VSIE_Learning_Frenzy.endMessage>
+  
+  <VSIE_Inspired_Cooking.label>кулінарна іскра</VSIE_Inspired_Cooking.label>
+  <VSIE_Inspired_Cooking.baseInspectLine>Натхнення: кулінарна іскра</VSIE_Inspired_Cooking.baseInspectLine>
+  <VSIE_Inspired_Cooking.beginLetter>[PAWN_pronoun] буде готувати вдвічі швидше наступні 8 днів.\n\n[PAWN_pronoun] хоті{PAWN_gender ? в : ла} би приготувати щонайменше 50 страв.</VSIE_Inspired_Cooking.beginLetter>
+  <VSIE_Inspired_Cooking.endMessage>{0} більше не відчуває натхення (кулінарна іскра).</VSIE_Inspired_Cooking.endMessage>
+  
+  <VSIE_Flirting_Frenzy.label>романтизм</VSIE_Flirting_Frenzy.label>
+  <VSIE_Flirting_Frenzy.baseInspectLine>Натхнення: романтизм</VSIE_Flirting_Frenzy.baseInspectLine>
+  <VSIE_Flirting_Frenzy.beginLetter>[PAWN_pronoun] буде набагато люб'язніш{PAWN_gender ? им : ою} з іншими в соціальних контактах, а також набагато витонченіш{PAWN_gender ? им : ою} у романтичних стосунках, що знизить [PAWN_possessive] шанси бути відшит{PAWN_gender ? им : ою} протягом наступних 8 днів.\n\n[PAWN_pronoun] хоті{PAWN_gender ? в : ла} би зайнятися коханням.</VSIE_Flirting_Frenzy.beginLetter>
+  <VSIE_Flirting_Frenzy.endMessage>{0} більше не відчуває натхення (романтизм).</VSIE_Flirting_Frenzy.endMessage>
+  
+  <VSIE_Melee_Frenzy.label>бойовий дух</VSIE_Melee_Frenzy.label>
+  <VSIE_Melee_Frenzy.baseInspectLine>Натхнення: Бойовий дух</VSIE_Melee_Frenzy.baseInspectLine>
+  <VSIE_Melee_Frenzy.beginLetter>Протягом наступних 8 днів всі [PAWN_possessive] удари ближнього бою будуть влучати в ціль.\n\n[PAWN_pronoun] хоті{PAWN_gender ? в : ла} би перемогти ворога в ближньому бою.</VSIE_Melee_Frenzy.beginLetter>
+  <VSIE_Melee_Frenzy.endMessage>{0} більше не відчуває натхення (бойовий дух).</VSIE_Melee_Frenzy.endMessage>
+</LanguageData>

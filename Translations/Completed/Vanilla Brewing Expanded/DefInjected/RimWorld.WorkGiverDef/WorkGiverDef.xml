@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--mix drinks at bar-->
+  <VBE_DoBillsBar.label>змішувати напої за баром</VBE_DoBillsBar.label>
+  <!--mixing drinks at-->
+  <VBE_DoBillsBar.gerund>змішувати напої за</VBE_DoBillsBar.gerund>
+  <!--mix drinks-->
+  <VBE_DoBillsBar.verb>змішувати напої за</VBE_DoBillsBar.verb>
+</LanguageData>

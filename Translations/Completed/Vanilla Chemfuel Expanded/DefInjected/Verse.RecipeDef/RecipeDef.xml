@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCHE_Make_ChemfuelFromDeepchem.label>Зробити хімпаливо з нафти</VCHE_Make_ChemfuelFromDeepchem.label>
+  <VCHE_Make_ChemfuelFromDeepchem.description>Зробити партію хімічного палива шляхом переробки нафти.</VCHE_Make_ChemfuelFromDeepchem.description>
+  <VCHE_Make_ChemfuelFromDeepchem.jobString>Перероблює нафту на хімпаливо.</VCHE_Make_ChemfuelFromDeepchem.jobString>
+</LanguageData>

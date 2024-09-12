@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>	
+	<VEF_Art_ConstructFinishFrames.label>побудувати розміщені креслення</VEF_Art_ConstructFinishFrames.label>
+	<VEF_Art_ConstructFinishFrames.verb>працює над</VEF_Art_ConstructFinishFrames.verb>
+	<VEF_Art_ConstructFinishFrames.gerund>працюючий над</VEF_Art_ConstructFinishFrames.gerund>
+	
+	<VEF_Art_ConstructDeliverResourcesToFrames.label>доставити ресурси до розміщених креслень</VEF_Art_ConstructDeliverResourcesToFrames.label>
+	<VEF_Art_ConstructDeliverResourcesToFrames.verb>працює над</VEF_Art_ConstructDeliverResourcesToFrames.verb>
+	<VEF_Art_ConstructDeliverResourcesToFrames.gerund>працюючий над</VEF_Art_ConstructDeliverResourcesToFrames.gerund>
+	
+	<VEF_Art_ConstructDeliverResourcesToBlueprints.label>доставити ресурси до проєктів</VEF_Art_ConstructDeliverResourcesToBlueprints.label>
+	<VEF_Art_ConstructDeliverResourcesToBlueprints.verb>працює над</VEF_Art_ConstructDeliverResourcesToBlueprints.verb>
+	<VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>працюючий над</VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>
+</LanguageData>

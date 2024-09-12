@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_PsychicStorm.label>психічна буря</VREA_PsychicStorm.label>
+  <VREA_PsychicStorm.description>Надприродні психічні явища відбуваються над усім цим регіоном. Психічна енергія вражає у випадкових місцях, пошкоджуючи все, що потрапляє під удар. Психічна чутливість кожного, хто потрапив під вплив бурі, подвоюється.</VREA_PsychicStorm.description>
+  <VREA_PsychicStorm.endMessage>Психічна буря закінчується.</VREA_PsychicStorm.endMessage>
+  <VREA_PsychicStorm.letterText>Надприродні психічні явища викликають велике занепокоєння в цьому районі.\n\nПсихічна енергія буде вдаряти навмання, і кожна жива істота матиме подвоєну психічну чутливість.\n\nЦе триватиме від кількох днів до цілого кварталу.</VREA_PsychicStorm.letterText>
+
+
+</LanguageData>

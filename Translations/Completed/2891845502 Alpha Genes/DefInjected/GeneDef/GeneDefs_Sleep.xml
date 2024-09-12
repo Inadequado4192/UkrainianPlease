@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: night owl -->
+  <AG_NightOwl.label>нічна сова</AG_NightOwl.label>
+  <!-- EN: Carriers of this gene prefer staying awake during the night and sleeping during daytime. -->
+  <AG_NightOwl.description>Носії цього гена воліють не спати вночі і спати вдень.</AG_NightOwl.description>
+  
+</LanguageData>

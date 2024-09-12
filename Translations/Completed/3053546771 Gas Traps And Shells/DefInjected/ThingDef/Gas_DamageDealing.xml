@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- OLD This is from the old version the code is still there but is no longer used by this mod 
+  <ThingDef Class="GasTrap.Thing_AddAcidDamageDef" ParentName="BaseGas">
+    <defName>AcidGas</defName>
+    <label>corrosive gas</label>
+    <graphicData>
+      <texPath>Things/Gas/Puff</texPath>
+      <drawSize>2.5</drawSize>
+      <color>(0.5,0.8,0.3,0.6)</color>
+    </graphicData>
+
+	<thingClass>GasTrap.Thing_AddAcidDamage</thingClass>
+    <gas>
+      <expireSeconds>
+        <min>50</min>
+        <max>60</max>
+      </expireSeconds>
+      <blockTurretTracking>true</blockTurretTracking>
+      <accuracyPenalty>0.4</accuracyPenalty>
+      <rotationSpeed>10</rotationSpeed>
+    </gas>
+  </ThingDef> -->
+
+  <AcidGas.label>Газоподібна кислота</AcidGas.label>
+  <DefNaniteGas.label>Хмара наномашин</DefNaniteGas.label>
+
+
+</LanguageData>

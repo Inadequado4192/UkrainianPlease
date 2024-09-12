@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Fermenting Item-->
+  <VCE_InsertSoybeansDesc>Ферментувати рослини</VCE_InsertSoybeansDesc>
+  
+  <!--Bring Soybeans-->
+  <VCE_StartSoybeanInsertion>Принести соєві боби</VCE_StartSoybeanInsertion>
+  <!--Bring soybeans to the fermenter to start fermentation process-->
+  <VCE_StartSoybeanInsertionDesc>Принести соєві боби до ферментатора, щоб почати процес ферментації</VCE_StartSoybeanInsertionDesc>
+  
+  <!--Cancel Bringing Soybeans-->
+  <VCE_CancelBringingSoybeans>Скасувати доставку соєвих бобів</VCE_CancelBringingSoybeans>
+  <!--Cancel bringing soybeans to the fermenter.-->
+  <VCE_CancelBringingSoybeansDesc>Скасувати доставку соєвих бобів до ферментатора.</VCE_CancelBringingSoybeansDesc>
+  
+  <!--Remove Soy Sauce ({0})-->
+  <VCE_RemoveSoySauce>Вилучити соєвий соус ({0})</VCE_RemoveSoySauce>
+  <!--Remove soy sauce from the fermenter. The sauce will be ready at the present quality level ({0})-->
+  <VCE_RemoveSoySauceDesc>Вилучити соєвий соус із ферментатора. Соус буде готовий із поточномим рівнем якості ({0})</VCE_RemoveSoySauceDesc>
+  
+  <!--Consuming meals that include this condiment increases mood by 5 and increases blood pumping and filtration by 5% for 12 hours.-->
+  <VCE_CondimentEffectsSoy>Споживання страв, до складу яких входить ця приправа, підвищує настрій на 5 пунктів та покращує кровообіг та фільтрацію крові на 5% протягом 12 годин.</VCE_CondimentEffectsSoy>
+  <!--Consuming meals that include this condiment increases consciousness and breathing by 5%, decreases mood by 1 and decreases minimum lower temperature by 10ºC, all for 12 hours.-->
+  <VCE_CondimentEffectsWasabi>Споживання страв, до складу яких входить ця приправа, покращує свідомість і дихання на 5%, покращує настрій на 1 пункт та знижує мінімальну нижню температуру на 10ºC, і все це на 12 годин.</VCE_CondimentEffectsWasabi>
+</LanguageData>

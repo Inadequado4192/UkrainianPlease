@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Red Haze need -->
+  <ReviaRaceRedHazeAddiction.label>Потрібен "Червоний туман"</ReviaRaceRedHazeAddiction.label>
+  <!-- EN: An almost rabid bloodthirst grips this person. A constant supply of powdered bloodstone appears to be the only way to keep it under control. Without a supply of it, this person will frequently enter a state of berserk rage, slaking his or her bloodthirst on anyone nearby. -->
+  <ReviaRaceRedHazeAddiction.description>Цю людину охоплює майже шалена жага крові. Постійний запас порошкоподібного кривавого каменю - єдиний спосіб тримати її під контролем. Без нього ця людина часто впадає в стан несамовитої люті, виливаючи свою кровожерливість на всіх, хто опиняється поруч.</ReviaRaceRedHazeAddiction.description>
+  <!-- EN: unmet -->
+  <ReviaRaceRedHazeAddiction.stages.unmet.label>незадоволений</ReviaRaceRedHazeAddiction.stages.unmet.label>
+  
+</LanguageData>

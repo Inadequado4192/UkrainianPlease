@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VAE>Vanilla Achievements Expanded</VAE>
+  <DebugWriter>Увімкнути DebugWriter</DebugWriter>
+  <DebugWriterConfirmation>Ви впевнені, що хочете ввімкнути DebugWriter? Це значно знизить продуктивність в обмін на дані, пов'язані з досягненнями. Його слід вмикати лише для відстеження цінної інформації під час дебагінгу.</DebugWriterConfirmation>
+  <GenerateLogInfo>Записати до Файлу</GenerateLogInfo>
+  <GenerateLogInfoTooltip>Зберегти лог досягнень у файл. Тільки в цілях дебагінгу.</GenerateLogInfoTooltip>
+  <SuccessfulWriteToFile>Успішно записано лог досягнень до файлу AchievementLog.txt</SuccessfulWriteToFile>
+  <SideBarInfo>Розблоковуйте досягнення та заробляйте бали оповідача, які можна витратити на різні події.</SideBarInfo>
+  <StorytellerPoints>Бали Оповідача</StorytellerPoints>
+  <PointsRedeem>Списати Бали</PointsRedeem>
+  <PointsAvailable>Доступно: {0}</PointsAvailable>
+  <PointsEarned>Всього зароблено: {0}</PointsEarned>
+  <UnlockedDevMode>Розблоковано в режимі розробки</UnlockedDevMode>
+  <AchievementLocked>Заблоковано</AchievementLocked>
+  <AchievementsUnlocked>Розблоковані Досягнення: {0}</AchievementsUnlocked>
+  <AchievementsTotalUnlocked>Всього Розблоковано Досягнень: {0}</AchievementsTotalUnlocked>
+  <AchievementUnlocked>Досягнення Розблоковано!</AchievementUnlocked>
+  <FailedRewardEvent>Не вдалося купити винагороду {0}</FailedRewardEvent>
+  <FailedTargetFinder>Має бути завантажена мапа або вибрана ціль на мапі світу</FailedTargetFinder>
+  <NoValidMap>Потрібно купувати на мапі з колонією гравця.</NoValidMap>
+  <IncidentNotAvailable>Інцидент зараз недоступний.</IncidentNotAvailable>
+  <NotEnoughPoints>Не Вистачає Балів</NotEnoughPoints>
+  <RandomQuestRewardItemLetter>Квестовий Предмет</RandomQuestRewardItemLetter>
+  <RandomQuestRewardItem>Випадковий квестовий предмет скинуто!</RandomQuestRewardItem>
+</LanguageData>

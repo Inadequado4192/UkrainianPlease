@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shard cannon -->
+  <ReviaFlechetteCannon.label>осколкова гармата</ReviaFlechetteCannon.label>
+  <!-- EN: A large-bore shotgun that fires plasteel-coated uranium shards at the enemy. Highly dangerous at close range, and is also equipped with a heavy-duty bayonet. -->
+  <ReviaFlechetteCannon.description>Великокаліберна рушниця, що стріляє у ворога урановими осколками, покритими пластиком. Дуже небезпечна на близькій відстані, а також оснащена надміцним багнетом.</ReviaFlechetteCannon.description>
+  <!-- EN: stock -->
+  <ReviaFlechetteCannon.tools.stock.label>приклад</ReviaFlechetteCannon.tools.stock.label>
+  <!-- EN: bayonet -->
+  <ReviaFlechetteCannon.tools.bayonet.label>багнет</ReviaFlechetteCannon.tools.bayonet.label>
+  <!-- EN: shard cannon -->
+  <ReviaFlechetteCannon.verbs.Verb_Shoot.label>осколкова гармата</ReviaFlechetteCannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: flechette -->
+  <ReviaFlechetteCannonShard.label>флешет</ReviaFlechetteCannonShard.label>
+  
+</LanguageData>

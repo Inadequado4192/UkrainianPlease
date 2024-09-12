@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Armour Expanded</name>
+        <id>1814988282</id>
+        <packageId>VanillaExpanded.VARME</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3125135079</sourceTranslationId>
+    <lastUpdate>2023-12-28T19:37:01.000Z</lastUpdate>
+</TranslationDetails>

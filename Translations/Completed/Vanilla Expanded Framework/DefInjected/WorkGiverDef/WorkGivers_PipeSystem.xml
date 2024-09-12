@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	<PS_DrainOutOfStorage.label>зливати зі сховища</PS_DrainOutOfStorage.label>
+	<PS_DrainOutOfStorage.verb>зливати зі сховища</PS_DrainOutOfStorage.verb>
+	<PS_DrainOutOfStorage.gerund>злити зі сховища</PS_DrainOutOfStorage.gerund>
+	
+	<PS_FillStorage.label>заповнення сховища</PS_FillStorage.label>
+	<PS_FillStorage.verb>заповнення сховища до</PS_FillStorage.verb>
+	<PS_FillStorage.gerund>заповнити сховище</PS_FillStorage.gerund>
+	
+	<PS_PickUpProcessor.label>забрати готовий продукт з переробника</PS_PickUpProcessor.label>
+	<PS_PickUpProcessor.verb>забирає готовий продукт</PS_PickUpProcessor.verb>
+	<PS_PickUpProcessor.gerund>забрати готовий продукт</PS_PickUpProcessor.gerund>
+	
+	<PS_BringToProcessor.label>доставити інгредієнт до переробника</PS_BringToProcessor.label>
+	<PS_BringToProcessor.verb>доставляє інгредієнт</PS_BringToProcessor.verb>
+	<PS_BringToProcessor.gerund>доставити інгредієнт</PS_BringToProcessor.gerund>
+</LanguageData>

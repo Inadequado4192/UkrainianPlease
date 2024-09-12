@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_TerribleFuneral.stages.0.label>ганебне поховання</AM_TerribleFuneral.stages.0.label>
+  <AM_TerribleFuneral.stages.0.description>Це поховання було на межі образи для всіх, хто брав у ньому участь</AM_TerribleFuneral.stages.0.description>
+
+  <AM_LacklusterFuneral.stages.0.label>невдале поховання</AM_LacklusterFuneral.stages.0.label>
+  <AM_LacklusterFuneral.stages.0.description>Це поховання було справді не натхненним і нічого не вирішувало.</AM_LacklusterFuneral.stages.0.description>
+
+  <AM_GoodFuneral.stages.0.label>гарне поховання</AM_GoodFuneral.stages.0.label>
+  <AM_GoodFuneral.stages.0.description>Те, що поховання пройшло добре - гарний спосіб попрощатися.</AM_GoodFuneral.stages.0.description>
+
+  <AM_AmazingFuneral.stages.0.label>дивовижне поховання</AM_AmazingFuneral.stages.0.label>
+  <AM_AmazingFuneral.stages.0.description>Це поховання пройшло чудово - воно викликало багато хороших спогадів і показало нам шлях вперед.</AM_AmazingFuneral.stages.0.description>
+
+  <AM_TerribleBlastOff.stages.0.label>ганебний запуск</AM_TerribleBlastOff.stages.0.label>
+  <AM_TerribleBlastOff.stages.0.description>Цей запуск був жахливим, щось, мабуть, було дуже погано з цією капсулою.</AM_TerribleBlastOff.stages.0.description>
+
+  <AM_LacklusterBlastOff.stages.0.label>невдалий запуск</AM_LacklusterBlastOff.stages.0.label>
+  <AM_LacklusterBlastOff.stages.0.description>Цей запуск був досить розчаровуючим. Я сумніваюся, що вони долетять навіть до межі атмосфери</AM_LacklusterBlastOff.stages.0.description>
+
+  <AM_GoodBlastOff.stages.0.label>вдалий запуск</AM_GoodBlastOff.stages.0.label>
+  <AM_GoodBlastOff.stages.0.description>Запуск пройшов добре, гарні проводи.</AM_GoodBlastOff.stages.0.description>
+
+  <AM_AmazingBlastOff.stages.0.label>дивовижний запуск</AM_AmazingBlastOff.stages.0.label>
+  <AM_AmazingBlastOff.stages.0.description>Той запуск був приголомшливим! Я досі відчуваю смак хімічного палива, ідеальний спосіб попрощатися.</AM_AmazingBlastOff.stages.0.description>
+
+
+</LanguageData>

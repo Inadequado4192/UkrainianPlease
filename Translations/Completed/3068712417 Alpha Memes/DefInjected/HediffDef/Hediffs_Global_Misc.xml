@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_CatharsisHediff.label>катарсис адреналіну</AM_CatharsisHediff.label>
+  <AM_CatharsisHediff.description>Збудження, викликане після психічної перерви, призводить до того, що у людини підвищується толерантність до болю і сила. Це триватиме близько доби.</AM_CatharsisHediff.description>
+
+  <AM_UtilityDryadHediff.label>посилення допоміжної дріади</AM_UtilityDryadHediff.label>
+  <AM_UtilityDryadHediff.description>Ця дріада посилюється завдяки покращеному психічному зв'язку між деревами Гауранлен і вашими колоністами.</AM_UtilityDryadHediff.description>
+
+  <AM_CombatDryadHediff.label>посилення бойової дріади</AM_CombatDryadHediff.label>
+  <AM_CombatDryadHediff.description>Ця дріада посилюється завдяки покращеному психічному зв'язку між деревами Гауранлен і вашими колоністами.</AM_CombatDryadHediff.description>
+
+  <AM_GenericDryadHediff.label>>посилення універсальної дріади</AM_GenericDryadHediff.label>
+  <AM_GenericDryadHediff.description>Ця дріада посилюється завдяки покращеному психічному зв'язку між деревами Гауранлен і вашими колоністами.</AM_GenericDryadHediff.description>
+
+  <AM_IconoclastHediff.label>відчуваю себе праведником.</AM_IconoclastHediff.label>
+  <AM_IconoclastHediff.description>Знищення стародавньої реліквії наповнює цю людину зростаючою впевненістю і праведністю.</AM_IconoclastHediff.description>
+
+
+</LanguageData>

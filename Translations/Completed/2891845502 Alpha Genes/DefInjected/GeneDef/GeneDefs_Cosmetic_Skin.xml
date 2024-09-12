@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deep blue skin -->
+  <AG_Skin_DeepBlue.label>темно-синя шкіра</AG_Skin_DeepBlue.label>
+  <!-- EN: Carriers of this gene produce a pigment that turns their skin a deep blue color. -->
+  <AG_Skin_DeepBlue.description>Носії цього гена виробляють пігмент, який забарвлює їхню шкіру в темно-синій колір.</AG_Skin_DeepBlue.description>
+  <!-- EN: blue -->
+  <AG_Skin_DeepBlue.labelShortAdj>синій</AG_Skin_DeepBlue.labelShortAdj>
+  <!-- EN: blue -->
+  <AG_Skin_DeepBlue.symbolPack.prefixSymbols.0.symbol>синій</AG_Skin_DeepBlue.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ice -->
+  <AG_Skin_DeepBlue.symbolPack.prefixSymbols.1.symbol>льодовий</AG_Skin_DeepBlue.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sky -->
+  <AG_Skin_DeepBlue.symbolPack.prefixSymbols.2.symbol>небесний</AG_Skin_DeepBlue.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: deeper red skin -->
+  <AG_Skin_DeeperRed.label>темно-червона шкіра</AG_Skin_DeeperRed.label>
+  <!-- EN: Carriers of this gene produce a deeper-red pigment that gives their skin an almost bloody appearance. -->
+  <AG_Skin_DeeperRed.description>Носії цього гена виробляють більш темно-червоний пігмент, який надає їхній шкірі майже кривавого вигляду.</AG_Skin_DeeperRed.description>
+  <!-- EN: red -->
+  <AG_Skin_DeeperRed.labelShortAdj>червоний</AG_Skin_DeeperRed.labelShortAdj>
+  <!-- EN: red -->
+  <AG_Skin_DeeperRed.symbolPack.prefixSymbols.0.symbol>червоний</AG_Skin_DeeperRed.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: crim -->
+  <AG_Skin_DeeperRed.symbolPack.prefixSymbols.1.symbol>багряний</AG_Skin_DeeperRed.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: fire -->
+  <AG_Skin_DeeperRed.symbolPack.prefixSymbols.2.symbol>вогонь</AG_Skin_DeeperRed.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: rose -->
+  <AG_Skin_DeeperRed.symbolPack.prefixSymbols.3.symbol>троянда</AG_Skin_DeeperRed.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: wine -->
+  <AG_Skin_DeeperRed.symbolPack.prefixSymbols.4.symbol>винний</AG_Skin_DeeperRed.symbolPack.prefixSymbols.4.symbol>
+  
+  <!-- EN: deep green skin -->
+  <AG_Skin_DeepGreen.label>темно-зелена шкіра</AG_Skin_DeepGreen.label>
+  <!-- EN: Carriers of this gene produce a pigment that gives their skin a deep green color. -->
+  <AG_Skin_DeepGreen.description>Носії цього гена виробляють пігмент, який надає їхній шкірі темно-зеленого кольору.</AG_Skin_DeepGreen.description>
+  <!-- EN: green -->
+  <AG_Skin_DeepGreen.labelShortAdj>зелений</AG_Skin_DeepGreen.labelShortAdj>
+  <!-- EN: green -->
+  <AG_Skin_DeepGreen.symbolPack.prefixSymbols.0.symbol>зелений</AG_Skin_DeepGreen.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: lime -->
+  <AG_Skin_DeepGreen.symbolPack.prefixSymbols.1.symbol>вапняний</AG_Skin_DeepGreen.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: jade -->
+  <AG_Skin_DeepGreen.symbolPack.prefixSymbols.2.symbol>нефритовий</AG_Skin_DeepGreen.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: leaf -->
+  <AG_Skin_DeepGreen.symbolPack.prefixSymbols.3.symbol>листок</AG_Skin_DeepGreen.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: greenskin -->
+  <AG_Skin_DeepGreen.symbolPack.wholeNameSymbols.0.symbol>зеленошкірий</AG_Skin_DeepGreen.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: deep purple skin -->
+  <AG_Skin_DeepPurple.label>темно-фіолетова шкіра</AG_Skin_DeepPurple.label>
+  <!-- EN: Carriers of this gene produce a deep purple pigment that gives their skin a sickly appearance. -->
+  <AG_Skin_DeepPurple.description>Носії цього гена виробляють темно-фіолетовий пігмент, який надає їхній шкірі хворобливого вигляду.</AG_Skin_DeepPurple.description>
+  <!-- EN: purple -->
+  <AG_Skin_DeepPurple.labelShortAdj>фіолетовий</AG_Skin_DeepPurple.labelShortAdj>
+  <!-- EN: purp -->
+  <AG_Skin_DeepPurple.symbolPack.prefixSymbols.0.symbol>пурпурний</AG_Skin_DeepPurple.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: golden skin -->
+  <AG_Skin_Gold.label>золотиста шкіра</AG_Skin_Gold.label>
+  <!-- EN: Carriers of this gene produce a pigment that turns their skin an iridescent golden color. -->
+  <AG_Skin_Gold.description>Носії цього гена виробляють пігмент, який надає їхній шкірі переливчастий золотистий колір.</AG_Skin_Gold.description>
+  <!-- EN: golden -->
+  <AG_Skin_Gold.labelShortAdj>золотий</AG_Skin_Gold.labelShortAdj>
+  <!-- EN: aurum -->
+  <AG_Skin_Gold.symbolPack.prefixSymbols.0.symbol>золотистий</AG_Skin_Gold.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: gold -->
+  <AG_Skin_Gold.symbolPack.prefixSymbols.1.symbol>золотий</AG_Skin_Gold.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: plant green skin -->
+  <AG_Skin_PlantGreen.label>рослинна шкіра</AG_Skin_PlantGreen.label>
+  <!-- EN: Carriers of this gene produce a pigment that gives their skin a green, plant-like colour. -->
+  <AG_Skin_PlantGreen.description>Носії цього гена виробляють пігмент, який надає їхній шкірі зеленого, схожого на рослинний, кольору.</AG_Skin_PlantGreen.description>
+  <!-- EN: green -->
+  <AG_Skin_PlantGreen.labelShortAdj>зелений</AG_Skin_PlantGreen.labelShortAdj>
+  <!-- EN: green -->
+  <AG_Skin_PlantGreen.symbolPack.prefixSymbols.0.symbol>зелений</AG_Skin_PlantGreen.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: phyto -->
+  <AG_Skin_PlantGreen.symbolPack.prefixSymbols.1.symbol>фіто</AG_Skin_PlantGreen.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: plant -->
+  <AG_Skin_PlantGreen.symbolPack.prefixSymbols.2.symbol>рослина</AG_Skin_PlantGreen.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: leaf -->
+  <AG_Skin_PlantGreen.symbolPack.prefixSymbols.3.symbol>листок</AG_Skin_PlantGreen.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: greenskin -->
+  <AG_Skin_PlantGreen.symbolPack.wholeNameSymbols.0.symbol>зеленошкірий</AG_Skin_PlantGreen.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: Silver skin -->
+  <AG_Skin_Silver.label>срібна шкіра</AG_Skin_Silver.label>
+  <!-- EN: Carriers of this gene produce a pigment that turns their skin an iridescent silver color. -->
+  <AG_Skin_Silver.description>Носії цього гена виробляють пігмент, який надає їхній шкірі переливчастого сріблястого кольору.</AG_Skin_Silver.description>
+  <!-- EN: Silver -->
+  <AG_Skin_Silver.labelShortAdj>срібний</AG_Skin_Silver.labelShortAdj>
+  <!-- EN: argent -->
+  <AG_Skin_Silver.symbolPack.prefixSymbols.0.symbol>гроші</AG_Skin_Silver.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: silver -->
+  <AG_Skin_Silver.symbolPack.prefixSymbols.1.symbol>срібний</AG_Skin_Silver.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: deep black skin -->
+  <AG_Skin_TrueBlack.label>темно-чорна шкіра</AG_Skin_TrueBlack.label>
+  <!-- EN: Carriers of this gene produce a pigment that turns their skin a very very deep black. -->
+  <AG_Skin_TrueBlack.description>Носії цього гена виробляють пігмент, який робить їхню шкіру дуже, дуже темно-чорного кольору.</AG_Skin_TrueBlack.description>
+  <!-- EN: golden -->
+  <AG_Skin_TrueBlack.labelShortAdj>чорний</AG_Skin_TrueBlack.labelShortAdj>
+  <!-- EN: coal -->
+  <AG_Skin_TrueBlack.symbolPack.prefixSymbols.0.symbol>вугільний</AG_Skin_TrueBlack.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: void -->
+  <AG_Skin_TrueBlack.symbolPack.prefixSymbols.1.symbol>порожнеча</AG_Skin_TrueBlack.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: pitch -->
+  <AG_Skin_TrueBlack.symbolPack.prefixSymbols.2.symbol>крок</AG_Skin_TrueBlack.symbolPack.prefixSymbols.2.symbol>
+  
+</LanguageData>

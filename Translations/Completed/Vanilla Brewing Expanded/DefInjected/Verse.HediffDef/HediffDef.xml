@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--drank soda-->
+  <VBE_DrankSoda.label>випито газованку</VBE_DrankSoda.label>
+  <!--A burst of sugar enters the bloodstream, providing some short-lived energy. Provides a 5% manipulation buff for 5 hours.-->
+  <VBE_DrankSoda.description>У кров потрапляє велика кількість цукру, що забезпечує короткочасну енергію. Забезпечує 5% бонусу до маніпуляції протягом 5 годин.</VBE_DrankSoda.description>
+  
+  <!--drank tea-->
+  <VBE_DrankTea.label>випито чай</VBE_DrankTea.label>
+  <!--Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours.-->
+  <VBE_DrankTea.description>Таніни, що містяться в чаї, після метаболізму підвищують збудливість нервової системи, пригнічуючи бажання спати, а також підвищують імунітет. Збільшує швидкість зміцнення імунітету на 15% і на 10% знижує швидкість набуття втоми протягом 5 годин.</VBE_DrankTea.description>
+  
+  <!--drank tequila based cocktail-->
+  <VBE_TequilaAsIngredient.label>випито коктейль на основі текіли</VBE_TequilaAsIngredient.label>
+  <!--This colonist drank a cocktail that had tequila as one of its ingredients. Provides an animal tame chance bonus of 15%.-->
+  <VBE_TequilaAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого була текіла. Збільшує шанс приручення тварин на 15%.</VBE_TequilaAsIngredient.description>
+  
+  <!--drank whiskey based cocktail-->
+  <VBE_WhiskeyAsIngredient.label>випито коктейль на основі віскі</VBE_WhiskeyAsIngredient.label>
+  <!--This colonist drank a cocktail that had whiskey as one of its ingredients. Provides a shooting accuracy bonus.-->
+  <VBE_WhiskeyAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого було віскі. Збільшує точність стрільби.</VBE_WhiskeyAsIngredient.description>
+  
+  <!--drank vodka based cocktail-->
+  <VBE_VodkaAsIngredient.label>випито коктейль на основі горілки</VBE_VodkaAsIngredient.label>
+  <!--This colonist drank a cocktail that had vodka as one of its ingredients. Increases dodge chance by 20%.-->
+  <VBE_VodkaAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого була горілка. Збільшує шанс ухилитися в ближньому бою на 20%.</VBE_VodkaAsIngredient.description>
+  
+  <!--drank gin based cocktail-->
+  <VBE_GinAsIngredient.label>випито коктейль на основі джину</VBE_GinAsIngredient.label>
+  <!--This colonist drank a cocktail that had gin as one of its ingredients.-->
+  <VBE_GinAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого був джин.</VBE_GinAsIngredient.description>
+  
+  <!--drank ambrandy based cocktail-->
+  <VBE_AmbrandyAsIngredient.label>випито коктейль на основі амбренді</VBE_AmbrandyAsIngredient.label>
+  <!--This colonist drank a cocktail that had ambrandy as one of its ingredients.-->
+  <VBE_AmbrandyAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого було амбренді.</VBE_AmbrandyAsIngredient.description>
+  
+  <!--drank mead based cocktail-->
+  <VBE_RBMeadAsIngredient.label>випито коктейль на основі медовухи</VBE_RBMeadAsIngredient.label>
+  <!--This colonist drank a cocktail that had mead as one of its ingredients.-->
+  <VBE_RBMeadAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого була медовуха.</VBE_RBMeadAsIngredient.description>
+  
+  <!--drank wine based cocktail-->
+  <VBE_WineAsIngredient.label>випито коктейль на основі вина</VBE_WineAsIngredient.label>
+  <!--This colonist drank a cocktail that had wine as one of its ingredients. You monster.-->
+  <VBE_WineAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого було вино. Ти чудовисько...</VBE_WineAsIngredient.description>
+  
+  <!--consumed luciferium powder (from meal)-->
+  <VBE_ConsumedLuciferiumPowder.label>вжито порошок люциферію (в страві)</VBE_ConsumedLuciferiumPowder.label>
+  <!--Luciferium powder is a very finely blended powder made from luciferium. So diluted, the drug won't certainly heal any wounds, but it will reinvigorate its consumer considerably.-->
+  <VBE_ConsumedLuciferiumPowder.description>Порошок люциферію – це ретельно змішаний порошок, виготовлений з люциферія. У такому вигляді препарат, звісно, не загоїть жодної рани, але значно підбадьорить свого споживача.</VBE_ConsumedLuciferiumPowder.description>
+  
+  <!--consumed go-juice stock (from meal)-->
+  <VBE_ConsumedGoStock.label>вжито кубик го-соку (в страві)</VBE_ConsumedGoStock.label>
+  <!--Go-juice stock is a gelatinized cube of Go-Juice, able to be digested rather than injected. So diluted, the drug won't block so much pain, and combat advantages will be much more subtle.-->
+  <VBE_ConsumedGoStock.description>Кубик го-соку – це желатинізований кубик го-соку, який можна перетравлювати, а не вводити ін'єкційно. У такому вигляді препарат не буде блокувати багато болю, а бойові переваги будуть набагато меншими.</VBE_ConsumedGoStock.description>
+  
+  <!--consumed wake-up powder (from meal)-->
+  <VBE_ConsumedWakeupPowder.label>вжито порошок бадьорину (в страві)</VBE_ConsumedWakeupPowder.label>
+  <!--Wake-up powder is a crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso. So diluted, the drug won't be as stimulating. Note that, while not addictive, wake-up powder still carries risk (albeit very small) of a heart attack.-->
+  <VBE_ConsumedWakeupPowder.description>Порошок бадьорину – це подрібнена і порошкоподібна форма бадьорину, напрочуд солодка, її іноді використовують як замінник цукру в десертах або розчиняють у ранковому еспресо. У такому вигляді препарат не буде таким потужним. Зауважте, що хоча порошок бадьоринуу не викликає звикання, він все ж несе ризик (хоч і дуже малий) серцевого нападу.</VBE_ConsumedWakeupPowder.description>
+  
+  <!--ambrandy inspiration-->
+  <VBE_AmbrandyInspiration.label>натхнення амбренді</VBE_AmbrandyInspiration.label>
+  <!--Consumed ambrandy. High quality ambrandy will provide an artistic inspiration if the colonist is capable of getting it.-->
+  <VBE_AmbrandyInspiration.description>Вжито амбренді. Високоякісне амбренді забезпечить мистецьке натхнення, якщо колоністу вдасться його дістати.</VBE_AmbrandyInspiration.description>
+  <!--an ambrandy inspiration-->
+  <VBE_AmbrandyInspiration.labelNoun>натхнення амбренді</VBE_AmbrandyInspiration.labelNoun>
+  
+  <!--gin high-->
+  <VBE_GinHigh.label>сп'яніння від джину</VBE_GinHigh.label>
+  <!--Drank some gin. Increases social impact.-->
+  <VBE_GinHigh.description>Випив трохи джину. Збільшує соціальний вплив.</VBE_GinHigh.description>
+  <!--a gin high-->
+  <VBE_GinHigh.labelNoun>сп'яніння джином</VBE_GinHigh.labelNoun>
+  <!--warm-->
+  <VBE_GinHigh.stages.warm.label>трохи випив</VBE_GinHigh.stages.warm.label>
+  <!--tipsy-->
+  <VBE_GinHigh.stages.tipsy.label>напідпитку</VBE_GinHigh.stages.tipsy.label>
+  <!--drunk-->
+  <VBE_GinHigh.stages.drunk.label>п’яний</VBE_GinHigh.stages.drunk.label>
+  <!--hammered-->
+  <VBE_GinHigh.stages.hammered.label>валиться з ніг</VBE_GinHigh.stages.hammered.label>
+  <!--blackout-->
+  <VBE_GinHigh.stages.blackout.label>на автопілоті</VBE_GinHigh.stages.blackout.label>
+  
+  <!--tequila high-->
+  <VBE_TequilaHigh.label>сп'яніння від текіли</VBE_TequilaHigh.label>
+  <!--Drank some tequila. Imbibers of tequila are known to excel at extended combat.-->
+  <VBE_TequilaHigh.description>Випив трохи текіли. Відомо, що споживачі текіли відмінно справляються з тривалими боями.</VBE_TequilaHigh.description>
+  <!--a tequila high-->
+  <VBE_TequilaHigh.labelNoun>сп'яніння текілою</VBE_TequilaHigh.labelNoun>
+  <!--warm-->
+  <VBE_TequilaHigh.stages.warm.label>трохи випив</VBE_TequilaHigh.stages.warm.label>
+  <!--tipsy-->
+  <VBE_TequilaHigh.stages.tipsy.label>напідпитку</VBE_TequilaHigh.stages.tipsy.label>
+  <!--drunk-->
+  <VBE_TequilaHigh.stages.drunk.label>п’яний</VBE_TequilaHigh.stages.drunk.label>
+  <!--hammered-->
+  <VBE_TequilaHigh.stages.hammered.label>валиться з ніг</VBE_TequilaHigh.stages.hammered.label>
+  <!--blackout-->
+  <VBE_TequilaHigh.stages.blackout.label>на автопілоті</VBE_TequilaHigh.stages.blackout.label>
+  
+  <!--vodka high-->
+  <VBE_VodkaHigh.label>сп'яніння від горілки</VBE_VodkaHigh.label>
+  <!--Drank some vodka. Provides a melee accuracy buff that scales with drunkeness.-->
+  <VBE_VodkaHigh.description>Випив трохи горілки. Надає бонус до точності ближнього бою, який збільшується з рівнем алкогольного сп'яніння.</VBE_VodkaHigh.description>
+  <!--a vodka high-->
+  <VBE_VodkaHigh.labelNoun>сп'яніння горілкою</VBE_VodkaHigh.labelNoun>
+  <!--warm-->
+  <VBE_VodkaHigh.stages.warm.label>трохи випив</VBE_VodkaHigh.stages.warm.label>
+  <!--tipsy-->
+  <VBE_VodkaHigh.stages.tipsy.label>напідпитку</VBE_VodkaHigh.stages.tipsy.label>
+  <!--drunk-->
+  <VBE_VodkaHigh.stages.drunk.label>п’яний</VBE_VodkaHigh.stages.drunk.label>
+  <!--hammered-->
+  <VBE_VodkaHigh.stages.hammered.label>валиться з ніг</VBE_VodkaHigh.stages.hammered.label>
+  <!--blackout-->
+  <VBE_VodkaHigh.stages.blackout.label>на автопілоті</VBE_VodkaHigh.stages.blackout.label>
+  
+  <!--whiskey high-->
+  <VBE_WhiskeyHigh.label>сп'яніння від віскі</VBE_WhiskeyHigh.label>
+  <!--Drank some whiskey. Increases global work speed by 15%.-->
+  <VBE_WhiskeyHigh.description>Випив трохи віскі. Збільшує загальну швидкість роботи на 15%.</VBE_WhiskeyHigh.description>
+  <!--a whiskey high-->
+  <VBE_WhiskeyHigh.labelNoun>сп'яніння від віскі</VBE_WhiskeyHigh.labelNoun>
+  
+  <!--double whiskey high-->
+  <VBE_DoubleWhiskeyHigh.label>сп'яніння від віскі подвійної витримки</VBE_DoubleWhiskeyHigh.label>
+  <!--Drank some double whiskey. Increases global work speed by 20% and trade pricing by 20%.-->
+  <VBE_DoubleWhiskeyHigh.description>Випив трохи віскі подвійної витримки. Збільшує загальну швидкість роботи на 20% та збивання ціни на 20%.</VBE_DoubleWhiskeyHigh.description>
+  <!--a double whiskey high-->
+  <VBE_DoubleWhiskeyHigh.labelNoun>сп'яніння від віскі подвійної витримки</VBE_DoubleWhiskeyHigh.labelNoun>
+  
+  <!--hot coffee high-->
+  <VBE_HotCoffeeHigh.label>піднесення гарячою кавою</VBE_HotCoffeeHigh.label>
+  <!--Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia, cold reduces heatstroke.-->
+  <VBE_HotCoffeeHigh.description>Кофеїн, що міститься в каві, після метаболізму збільшує стимули в нервовій системі, пригнічуючи бажання спати, а також прояснює розум. Збільшує швидкість навчання на 15% і на 15% знижує швидкість набуття втоми. Гаряча кава зменшує ризик переохолодження, а холодна – теплового удару.</VBE_HotCoffeeHigh.description>
+  <!--a coffee high-->
+  <VBE_HotCoffeeHigh.labelNoun>піднесення кавою</VBE_HotCoffeeHigh.labelNoun>
+  
+  <!--iced coffee high-->
+  <VBE_IcedCoffeeHigh.label>піднесення холодною кавою</VBE_IcedCoffeeHigh.label>
+  <!--Caffeine naturally found in coffee once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia, cold reduces heatstroke.-->
+  <VBE_IcedCoffeeHigh.description>Кофеїн, що міститься в каві, після метаболізму збільшує стимули в нервовій системі, пригнічуючи бажання спати, а також прояснює розум. Збільшує швидкість навчання на 15% і на 15% знижує швидкість набуття втоми. Гаряча кава зменшує ризик переохолодження, а холодна – теплового удару.</VBE_IcedCoffeeHigh.description>
+  <!--a coffee high-->
+  <VBE_IcedCoffeeHigh.labelNoun>піднесення кавою</VBE_IcedCoffeeHigh.labelNoun>
+  
+  <!--caffeine tolerance-->
+  <VBE_CaffeineTolerance.label>толерантність до кофеїну</VBE_CaffeineTolerance.label>
+  <!--A built-up tolerance to caffeine. The more severe this tolerance is, the more caffeine it takes to get the same effect.-->
+  <VBE_CaffeineTolerance.description>Набута толерантність до кофеїну. Чим більшою є ця толерантність, тим більше потрібно кофеїну для здобуття того ж ефекту.</VBE_CaffeineTolerance.description>
+  <!--small-->
+  <VBE_CaffeineTolerance.stages.small.label>мала</VBE_CaffeineTolerance.stages.small.label>
+  <!--large-->
+  <VBE_CaffeineTolerance.stages.large.label>значна</VBE_CaffeineTolerance.stages.large.label>
+  <!--massive-->
+  <VBE_CaffeineTolerance.stages.massive.label>величезна</VBE_CaffeineTolerance.stages.massive.label>
+  
+  <!--caffeine addiction-->
+  <VBE_CaffeineAddiction.label>кофеїнова залежність</VBE_CaffeineAddiction.label>
+  <!--A chemical addiction to caffeine. Long-term presence of caffeine has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of caffeine, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.-->
+  <VBE_CaffeineAddiction.description>Хімічна залежність від кофеїну. Довготривале вживання кофеїну спричинило неврологічні зміни на клітинному рівні, таким чином мозок тепер не може нормально функціонувати без цього наркотику.\n\nБез регулярних доз кофеїну почнуться симптоми синдрому відміни. Однак, тривале утримання змушуватиме мозок повернутись назад в нормальний стан, усуваючи залежність.</VBE_CaffeineAddiction.description>
+  <!--withdrawal-->
+  <VBE_CaffeineAddiction.stages.withdrawal.label>синдром відміни</VBE_CaffeineAddiction.stages.withdrawal.label>
+  
+  <!--energy drink high-->
+  <VBE_EnergyDrinkHigh.label>енергетик</VBE_EnergyDrinkHigh.label>
+  <!--Energy drinks restore rest immediately, and increase moving speed, but at the cost of a later crash.-->
+  <VBE_EnergyDrinkHigh.description>Енергетичні напої миттєво відновлюють показник сну і збільшують швидкість пересування, але ціною пізнішого упадку сил.</VBE_EnergyDrinkHigh.description>
+  <!--an energy drink high-->
+  <VBE_EnergyDrinkHigh.labelNoun>піднесення енергетиком</VBE_EnergyDrinkHigh.labelNoun>
+  
+  <!--energy drink crash-->
+  <VBE_EnergyDrinkCrash.label>упадок сил від енергетику</VBE_EnergyDrinkCrash.label>
+  <!--An unpleasant delayed after-effect of energy drink consumption.-->
+  <VBE_EnergyDrinkCrash.description>Неприємний відкладений ефект від вживання енергетиків.</VBE_EnergyDrinkCrash.description>
+  <!--an energy drink crash-->
+  <VBE_EnergyDrinkCrash.labelNoun>упадок сил</VBE_EnergyDrinkCrash.labelNoun>
+  
+  <!--consumed cocktail-->
+  <VBE_ConsumedCocktail.label>вжито коктейль</VBE_ConsumedCocktail.label>
+  <!--Consumed a nice cocktail. Has a chance to provide a random inspiration.-->
+  <VBE_ConsumedCocktail.description>Спожито непоганий коктейль. Є шанс отримати випадкове натхнення.</VBE_ConsumedCocktail.description>
+  <!--a cocktail drink-->
+  <VBE_ConsumedCocktail.labelNoun>вживання коктейлю</VBE_ConsumedCocktail.labelNoun>
+  
+  <!--tobacco high-->
+  <VBE_TobaccoHigh.label>піднесення від нікотину</VBE_TobaccoHigh.label>
+  <!--Nicotine in the bloodstream. Generates a soft feeling of fuzzy well-being.-->
+  <VBE_TobaccoHigh.description>Нікотин у крові. Викликає м'яке відчуття нечіткого благополуччя.</VBE_TobaccoHigh.description>
+  <!--a tobacco high-->
+  <VBE_TobaccoHigh.labelNoun>піднесення нікотином</VBE_TobaccoHigh.labelNoun>
+  
+  <!--high-quality tobacco high-->
+  <VBE_DeluxeTobaccoHigh.label>піднесення від високоякісного нікотину</VBE_DeluxeTobaccoHigh.label>
+  <!--Nicotine in the bloodstream. Generates a soft feeling of fuzzy well-being.-->
+  <VBE_DeluxeTobaccoHigh.description>Нікотин у крові. Викликає м'яке відчуття нечіткого благополуччя.</VBE_DeluxeTobaccoHigh.description>
+  <!--a high-quality tobacco high-->
+  <VBE_DeluxeTobaccoHigh.labelNoun>піднесення високоякісним нікотином</VBE_DeluxeTobaccoHigh.labelNoun>
+  
+  <!--tobacco tolerance-->
+  <VBE_TobaccoTolerance.label>толерантність до нікотину</VBE_TobaccoTolerance.label>
+  <!--A built-up tolerance to tobacco. The more severe this tolerance is, the more tobacco it takes to get the same effect.-->
+  <VBE_TobaccoTolerance.description>Набута толерантність до нікотину. Чим більшою є ця толерантність, тим більше потрібно тютюну для здобуття того ж ефекту.</VBE_TobaccoTolerance.description>
+  <!--small-->
+  <VBE_TobaccoTolerance.stages.small.label>мала</VBE_TobaccoTolerance.stages.small.label>
+  <!--large-->
+  <VBE_TobaccoTolerance.stages.large.label>значна</VBE_TobaccoTolerance.stages.large.label>
+  <!--massive-->
+  <VBE_TobaccoTolerance.stages.massive.label>величезна</VBE_TobaccoTolerance.stages.massive.label>
+  
+  <!--tobacco dependence-->
+  <VBE_TobaccoAddiction.label>нікотинова залежність</VBE_TobaccoAddiction.label>
+  <!--A chemical addiction to tobacco. Long-term use of tobacco has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of tobacco, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.-->
+  <VBE_TobaccoAddiction.description>Хімічна залежність від нікотину. Довготривале вживання тютюну спричинило неврологічні зміни на клітинному рівні, таким чином мозок тепер не може нормально функціонувати без цього наркотику.\n\nБез регулярних доз тютюну почнуться симптоми синдрому відміни. Однак, тривале утримання змушуватиме мозок повернутись назад в нормальний стан, усуваючи залежність.</VBE_TobaccoAddiction.description>
+  <!--withdrawal-->
+  <VBE_TobaccoAddiction.stages.withdrawal.label>синдром відміни</VBE_TobaccoAddiction.stages.withdrawal.label>
+</LanguageData>

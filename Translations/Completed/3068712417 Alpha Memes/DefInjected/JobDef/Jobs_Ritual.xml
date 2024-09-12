@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_DeliverCorpseToCell.reportString>доставляє TargetA.</AM_DeliverCorpseToCell.reportString>
+  <AM_DeliverStuffToCell.reportString>доставляє TargetA.</AM_DeliverStuffToCell.reportString>
+  <AM_LoadCorpseToThing.reportString>доставляє TargetA.</AM_LoadCorpseToThing.reportString>
+  <AM_DeliverThingsToCell.reportString>доставляє TargetB.</AM_DeliverThingsToCell.reportString>
+
+
+</LanguageData>

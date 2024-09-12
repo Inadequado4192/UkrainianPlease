@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: exotic organism -->
+  <AlphaGenes_ExoticOrganism.label>екзотичний організм</AlphaGenes_ExoticOrganism.label>
+  <!-- EN: Once a custom player created xenotype receives this gene, that xenotype will never be automatically loaded into the two factions added by this mod. -->
+  <AlphaGenes_ExoticOrganism.description>Після того, як створений користувацьким гравцем ксенотип отримає цей ген, цей ксенотип ніколи не буде автоматично завантажений у дві фракції, додані цим модом.</AlphaGenes_ExoticOrganism.description>
+  
+  <!-- EN: randomizer -->
+  <AlphaGenes_Randomizer.label>рандомайзер</AlphaGenes_Randomizer.label>
+  <!-- EN: Once a pawn receives this gene, it will transform its xenotype into one of the custom xenotypes made by the player. -->
+  <AlphaGenes_Randomizer.description>Як тільки пішак отримає цей ген, він перетворить свій ксенотип на один з користувацьких ксенотипів, створених гравцем.</AlphaGenes_Randomizer.description>
+  
+</LanguageData>

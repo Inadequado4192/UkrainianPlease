@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<EyePatch.label>Пов'язка на око</EyePatch.label>
+	<HookHand.label>Рука-гак</HookHand.label>
+	<WoodenFoot.label>Дерев'яна ступня</WoodenFoot.label>
+	<SteelArm.label>Сталева рука</SteelArm.label>
+	<denture.label>Зубний протез</denture.label>
+	<PegLeg.label>Дерев'яна нога</PegLeg.label>
+	<EarBandage.label>Пов'язка на вухо</EarBandage.label>
+</LanguageData>

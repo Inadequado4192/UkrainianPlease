@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VTE_TechnophobeTantrum.label>істерика технофоба</VTE_TechnophobeTantrum.label>
+  <VTE_TechnophobeTantrum.baseInspectLine>Психічний стан: істерика технофоба</VTE_TechnophobeTantrum.baseInspectLine>
+  <VTE_TechnophobeTantrum.beginLetter>Артем впав в істерику від наявності технологій навколо {PAWN_gender ? нього : неї}.\n\n[PAWN_pronoun] збирається зігнати свою злість на технологіях.</VTE_TechnophobeTantrum.beginLetter>
+  <VTE_TechnophobeTantrum.recoveryMessage>{0} більше не істерить через технології.</VTE_TechnophobeTantrum.recoveryMessage>
+  
+  <VTE_PanicFreezing.label>панічне завмирання</VTE_PanicFreezing.label>
+  <VTE_PanicFreezing.baseInspectLine>Психічний стан: панічне завмирання</VTE_PanicFreezing.baseInspectLine>
+  <VTE_PanicFreezing.beginLetter>{0} застигає у паніці.</VTE_PanicFreezing.beginLetter>
+  <VTE_PanicFreezing.beginLetterLabel>Панічна атака</VTE_PanicFreezing.beginLetterLabel>
+  <VTE_PanicFreezing.recoveryMessage>{0} is no longer freezing in panic.</VTE_PanicFreezing.recoveryMessage>
+  
+  <VTE_Kleptomaniac.label>клептоманія</VTE_Kleptomaniac.label>
+  <VTE_Kleptomaniac.baseInspectLine>Психічний стан: Клептоманія</VTE_Kleptomaniac.baseInspectLine>
+  <VTE_Kleptomaniac.beginLetter>{0} краде речі у відвідувачів.</VTE_Kleptomaniac.beginLetter>
+  <VTE_Kleptomaniac.beginLetterLabel>Клептоманія</VTE_Kleptomaniac.beginLetterLabel>
+  <VTE_Kleptomaniac.recoveryMessage>{0} більше не краде речі у відвідувачів.</VTE_Kleptomaniac.recoveryMessage>
+</LanguageData>

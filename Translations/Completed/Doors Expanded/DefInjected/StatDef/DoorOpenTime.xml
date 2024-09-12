@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- *DoorOpenTime stats are shown instead of the DoorOpenSpeed stat -->
+  <DoorOpenTime.label>час відчинення дверей</DoorOpenTime.label>
+  <DoorOpenTime.description>Кількість секунд, за які двері відчиняються.\n\nПовільні двері сповільнюють всіх, хто ними користується.</DoorOpenTime.description>
+  <DoorOpenTime.formatString>{0} сек</DoorOpenTime.formatString>
+
+  <!-- This is hidden if DoorOpenTime stat would show the same value -->
+  <PoweredDoorOpenTime.label>час відчинення автодверей</PoweredDoorOpenTime.label>
+  <PoweredDoorOpenTime.description>Кількість секунд, необхідних для відкриття дверей, якщо вони увімкнені.\n\nПовільні двері сповільнюють всіх, хто ними користується.</PoweredDoorOpenTime.description>
+  <PoweredDoorOpenTime.formatString>{0} сек</PoweredDoorOpenTime.formatString>
+
+  <!-- This is hidden if DoorOpenTime stat would show the same value -->
+  <UnpoweredDoorOpenTime.label>час відчинення автодверей без живлення</UnpoweredDoorOpenTime.label>
+  <UnpoweredDoorOpenTime.description>Кількість секунд, за які двері відчиняються без живлення.\n\nПовільні двері сповільнюють всіх, хто ними користується.</UnpoweredDoorOpenTime.description>
+  <UnpoweredDoorOpenTime.formatString>{0} сек</UnpoweredDoorOpenTime.formatString>
+
+</LanguageData>

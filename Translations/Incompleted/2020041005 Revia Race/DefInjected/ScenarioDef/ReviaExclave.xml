@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Revian Frontiersmen -->
+  <ReviaExclave.label>Ревійські Прикордонники</ReviaExclave.label>
+  <!-- EN: After one too many arguments with the High Templar of your hometown, you and two of your fellows decide to embark on an adventure. An adventure to establish a Revian exclave where you were free to establish your own rules. Two quadrums of wandering later, and you decide to settle down before your supplies ran out completely. -->
+  <ReviaExclave.description>Після чергової суперечки з верховним тамплієром вашого рідного міста, ви та двоє ваших товаришів вирішуєте вирушити у пригоду. Заснувати ревійський ексклав, де ви могли б вільно встановлювати власні правила. Через два квадранти блукань ви вирішили осісти, поки ваші припаси не вичерпалися остаточно.</ReviaExclave.description>
+  <!-- EN: After one too many arguments with the High Templar of your hometown, you and two of your fellows decide to embark on an adventure. An adventure to establish a Revian exclave where you were free to establish your own rules. Two quadrums of wandering later, and you decide to settle down before your supplies ran out completely. -->
+  <ReviaExclave.scenario.description>Після чергової суперечки з верховним тамплієром вашого рідного міста, ви та двоє ваших товаришів вирішуєте вирушити у пригоду. Заснувати ревійський ексклав, де ви могли б вільно встановлювати власні правила. Через два квадранти блукань ви вирішили осісти, поки ваші припаси не вичерпалися остаточно.</ReviaExclave.scenario.description>
+  <!-- EN: Revian Frontiersmen -->
+  <ReviaExclave.scenario.name>Ревійські Прикордонники</ReviaExclave.scenario.name>
+  <!-- EN: Three Revian renegades, trying to establish their independence. -->
+  <ReviaExclave.scenario.summary>Троє ревійських ренегатів, які намагаються встановити свою незалежність.</ReviaExclave.scenario.summary>
+  
+</LanguageData>

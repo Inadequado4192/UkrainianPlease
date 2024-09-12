@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chameleon vision -->
+  <AG_ChameleonVision.label>хамелеонівський зір</AG_ChameleonVision.label>
+  <!-- EN: Carriers of this gene have protruding eyes that provide a panoramic sight, while also being able to move and focus independently. This allows the carrier to watch an approaching object while simultaneously scanning the rest of their environment. -->
+  <AG_ChameleonVision.description>Носії цього гена мають мають випуклі очі, що надають панорамний огляд, а також можуть рухатися та фокусуватися незалежно один від одного. Це дозволяє носію спостерігати наближаючийся об'єкт, одночасно скануючи решту свого оточення.</AG_ChameleonVision.description>
+  
+  <!-- EN: devil eyes -->
+  <AG_DevilEyes.label>очі диявола</AG_DevilEyes.label>
+  <!-- EN: Carriers of this gene have large, deep yellow eyes. -->
+  <AG_DevilEyes.description>Носії цього гена мають великі, темно-жовті очі.</AG_DevilEyes.description>
+  
+  <!-- EN: eye of Shub-Niggurath -->
+  <AG_EyeOfShubNiggurath.label>око Шаб-Ніггурат</AG_EyeOfShubNiggurath.label>
+  <!-- EN: Carriers of this gene will grow a vicious looking, fanged mouth instead of one of their eyes. This mouth is inexplicably capable of sight. -->
+  <AG_EyeOfShubNiggurath.description>У носіїв цього гена замість одного ока виростає злісний, ікластий рот. Цей рот незбагненним чином здатний бачити</AG_EyeOfShubNiggurath.description>
+  
+  <!-- EN: feralisk eyes -->
+  <AG_FeraliskEyes.label>очі фераліска</AG_FeraliskEyes.label>
+  <!-- EN: Carriers of this gene have four eyes, with correspondingly better vision. -->
+  <AG_FeraliskEyes.description>Носії цього гена мають чотири ока, що забезпечують кращий зір.</AG_FeraliskEyes.description>
+  
+  <!-- EN: near blindness -->
+  <AG_NearBlindness.label>майже сліпота</AG_NearBlindness.label>
+  <!-- EN: Carriers of this gene have almost completely useless eyes, with close to total blindness -->
+  <AG_NearBlindness.description>Носії цього гена мають майже повністю непридатні очі, з майже повною сліпотою.</AG_NearBlindness.description>
+  <!-- EN: blind -->
+  <AG_NearBlindness.symbolPack.prefixSymbols.0.symbol>сліпий</AG_NearBlindness.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: blur -->
+  <AG_NearBlindness.symbolPack.prefixSymbols.1.symbol>розмиття</AG_NearBlindness.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: squint -->
+  <AG_NearBlindness.symbolPack.prefixSymbols.2.symbol>примружився</AG_NearBlindness.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: peek -->
+  <AG_NearBlindness.symbolPack.prefixSymbols.3.symbol>погляд</AG_NearBlindness.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: cross -->
+  <AG_NearBlindness.symbolPack.prefixSymbols.4.symbol>хрест</AG_NearBlindness.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: sighter -->
+  <AG_NearBlindness.symbolPack.suffixSymbols.0.symbol>прицільний</AG_NearBlindness.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: peeker -->
+  <AG_NearBlindness.symbolPack.suffixSymbols.1.symbol>глядач</AG_NearBlindness.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: third eye -->
+  <AG_ThirdEye.label>третє око</AG_ThirdEye.label>
+  <!-- EN: Carriers of this gene will grow a third eye in their forehead. This third eye gives increased vision, and due to its, errr, psychic properties it cannot be hurt by... others... and... Look, Biotech parts are not real body parts and can't be harmed in attacks, ok? -->
+  <AG_ThirdEye.description>У носіїв цього гена виростає третє око на лобі. Це третє око забезпечує збільшений зір і, завдяки його, еммм, психічним властивостям, його не можуть пошкодити інші... і... Подивіться, біотехнологічні деталі не є справжніми частинами тіла і не можуть бути пошкоджені в атаках, ок?</AG_ThirdEye.description>
+  
+</LanguageData>

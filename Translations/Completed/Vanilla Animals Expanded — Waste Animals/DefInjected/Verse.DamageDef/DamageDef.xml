@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--acid spit-->
+  <VAEWaste_AcidBolt.label>ураження кислотною слиною</VAEWaste_AcidBolt.label>
+  <!--{0} has been corroded to death.-->
+  <VAEWaste_AcidBolt.deathMessage>{0} {0_gender ? був роз'їдений: була роз'їдена} до смерті.</VAEWaste_AcidBolt.deathMessage>
+  
+  <!--toxic sting-->
+  <VAEWaste_Sting.label>удар отруйним жалом</VAEWaste_Sting.label>
+  <!--{0} has been stung to death.-->
+  <VAEWaste_Sting.deathMessage>{0} {0_gender ? загинув : загинула} від отруйного укусу.</VAEWaste_Sting.deathMessage>
+  
+  <!--toxflu bite-->
+  <VAEWaste_FluBite.label>заражений укус</VAEWaste_FluBite.label>
+  <!--{0} has been bitten to death.-->
+  <VAEWaste_FluBite.deathMessage>{0} {0_gender ? загризений : загризена}.</VAEWaste_FluBite.deathMessage>
+  
+  <!--ripping bite-->
+  <VAEWaste_RippingBite.label>рваний укус</VAEWaste_RippingBite.label>
+  <!--{0} has been bitten to death.-->
+  <VAEWaste_RippingBite.deathMessage>{0} {0_gender ? загризений : загризена}.</VAEWaste_RippingBite.deathMessage>
+  
+  <!--toxflu claws-->
+  <VAEWaste_FluClaws.label>заражений поріз</VAEWaste_FluClaws.label>
+  <!--{0} has been cut to death.-->
+  <VAEWaste_FluClaws.deathMessage>{0} {0_gender ? зарізаний : зарізана}.</VAEWaste_FluClaws.deathMessage>
+</LanguageData>

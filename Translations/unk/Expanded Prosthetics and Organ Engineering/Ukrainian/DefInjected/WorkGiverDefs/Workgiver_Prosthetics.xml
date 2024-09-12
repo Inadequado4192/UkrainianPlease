@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsTableSurrogates.verb>створює</DoBillsTableSurrogates.verb>
+  <DoBillsTableSurrogates.gerund>створювання</DoBillsTableSurrogates.gerund>
+
+  <DoBillsTableSynthetics.verb>створює</DoBillsTableSynthetics.verb>
+  <DoBillsTableSynthetics.gerund>створювання</DoBillsTableSynthetics.gerund>
+
+  <DoBillsUpgradingStation.verb>поліпшує</DoBillsUpgradingStation.verb>
+  <DoBillsUpgradingStation.gerund>поліпшення</DoBillsUpgradingStation.gerund>
+
+  <DoBillsSimpleProstheticWorkbench.verb>монтує</DoBillsSimpleProstheticWorkbench.verb>
+  <DoBillsSimpleProstheticWorkbench.gerund>монтаж</DoBillsSimpleProstheticWorkbench.gerund>
+
+  <DoBillsBasicProstheticWorkbench.verb>монтує</DoBillsBasicProstheticWorkbench.verb>
+  <DoBillsBasicProstheticWorkbench.gerund>монтаж</DoBillsBasicProstheticWorkbench.gerund>
+
+  <DoBillsBionicWorkbench.verb>монтує</DoBillsBionicWorkbench.verb>
+  <DoBillsBionicWorkbench.gerund>монтаж</DoBillsBionicWorkbench.gerund>
+
+</LanguageData>

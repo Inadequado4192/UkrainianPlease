@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VESWW_OrbitalBombardement.label>Орбітальне бомбардування</VESWW_OrbitalBombardement.label>
+  <VESWW_OrbitalBombardement.description>Орбітальне бомбардування націлене на ваше поселення.</VESWW_OrbitalBombardement.description>
+  <VESWW_OrbitalBombardement.endMessage>Орбітальне бомбардування закінчується.</VESWW_OrbitalBombardement.endMessage>
+  <VESWW_OrbitalBombardement.letterText>Орбітальне бомбардування</VESWW_OrbitalBombardement.letterText>
+  
+  <VESWW_FullMapFlashstorm.label>Гроза</VESWW_FullMapFlashstorm.label>
+  <VESWW_FullMapFlashstorm.description>Гроза накриває вашу колонію.</VESWW_FullMapFlashstorm.description>
+  <VESWW_FullMapFlashstorm.endMessage>Гроза закінчується.</VESWW_FullMapFlashstorm.endMessage>
+  <VESWW_FullMapFlashstorm.letterText>Гроза</VESWW_FullMapFlashstorm.letterText>
+  
+  <VESWW_MeteorStorm.label>метеоритний дощ</VESWW_MeteorStorm.label>
+  <VESWW_MeteorStorm.description>Метеоритний дощ накриває вашу колонію.</VESWW_MeteorStorm.description>
+  <VESWW_MeteorStorm.endMessage>Метеоритний дощ закінчується.</VESWW_MeteorStorm.endMessage>
+  <VESWW_MeteorStorm.letterText>Метеоритний дощ</VESWW_MeteorStorm.letterText>
+</LanguageData>

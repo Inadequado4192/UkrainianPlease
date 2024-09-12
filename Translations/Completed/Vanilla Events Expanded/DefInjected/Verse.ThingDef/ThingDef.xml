@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEE_ShipChunkHuman.label>уламок корабля</VEE_ShipChunkHuman.label>
+  <VEE_ShipChunkHuman.description>Шматок космічного корабля. Схоже, що він був відірваний неконтрольованими силами при вході в атмосферу, або якоюсь зброєю.\n\nПісля недавньої посадки він все ще містить корисні ресурси, які ви можете отримати, розібравши його.</VEE_ShipChunkHuman.description>
+  
+  <VEE_Shuttle.label>Уламок шатла</VEE_Shuttle.label>
+  <VEE_Shuttle.description>Шматок космічного шатла.\n\nПісля недавньої посадки він все ще містить корисні ресурси, які ви можете отримати, розібравши його.</VEE_Shuttle.description>
+  
+  <ShuttleChunkIncoming.label>уламок шатла (прибуває)</ShuttleChunkIncoming.label>
+  
+  <SlagIncoming.label>космічний шлак (прибуває)</SlagIncoming.label>
+  
+  <VEE_Plant_Bluebell.label>гіацинтоїдес</VEE_Plant_Bluebell.label>
+  <VEE_Plant_Bluebell.description>Весняна багаторічна цибулинна квітка. Їх цвітіння яскраве і пишне. Забарвлення бутонів, в основному, синього кольору.</VEE_Plant_Bluebell.description>
+  
+  <VEE_Plant_Gardenia.label>гарденія</VEE_Plant_Gardenia.label>
+  <VEE_Plant_Gardenia.description>Вічнозелена декоративна квітка з дуже красивими та ароматними квітами білого кольору та темно-зеленим листям.</VEE_Plant_Gardenia.description>
+  
+  <VEE_Plant_Gentian.label>тирлич</VEE_Plant_Gentian.label>
+  <VEE_Plant_Gentian.description>Почвопокривна квітка. Листочки дрібні, щільно притиснуті до землі, темно-зеленого кольору. Квіти яскраво-синього кольору. </VEE_Plant_Gentian.description>
+  
+  <VEE_Plant_Petunia.label>петунія</VEE_Plant_Petunia.label>
+  <VEE_Plant_Petunia.description>Напівчагарникова, багаторічна квітка. Квіти в формі воронки розташовані поодиноко, мають короткий махровий або простий цветонос, іноді з бахромою. Забарвлення пелюсток пурпурне, рожеве, фіолетове з наявністю облямівки, ореолу, білої зірочки або темних жилок.</VEE_Plant_Petunia.description>
+</LanguageData>

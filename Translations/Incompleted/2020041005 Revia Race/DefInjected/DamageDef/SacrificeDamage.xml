@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: torn out -->
+  <ReviaRaceSacrificeDamage.label>Вирвано</ReviaRaceSacrificeDamage.label>
+  <!-- EN: {0} has died from ritual-inflicted wounds. -->
+  <ReviaRaceSacrificeDamage.deathMessage>{0} {0_gender ? помер : померла} від ритуальних поранень.</ReviaRaceSacrificeDamage.deathMessage>
+  
+</LanguageData>

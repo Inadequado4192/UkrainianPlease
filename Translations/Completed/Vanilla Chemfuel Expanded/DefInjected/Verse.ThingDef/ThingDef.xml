@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCHE_ChemfuelPipe.label>хімпаливна труба</VCHE_ChemfuelPipe.label>
+  <VCHE_ChemfuelPipe.description>Сталеві труби, призначені для хімпаливе з нафтопереробних заводів до паливних резервуарів для зберігання або до паливомістких конструкцій для автоматичного заправлення.</VCHE_ChemfuelPipe.description>
+  <VCHE_UndergroundChemfuelPipe.label>підземна хімпаливна труба</VCHE_UndergroundChemfuelPipe.label>
+  <VCHE_UndergroundChemfuelPipe.description>підземні сталеві труби, призначені для хімпаливе з нафтопереробних заводів до паливних резервуарів для зберігання або до паливомістких конструкцій для автоматичного заправлення.</VCHE_UndergroundChemfuelPipe.description>
+  <VCHE_ChemfuelValve.label>Паливний клапан</VCHE_ChemfuelValve.label>
+  <VCHE_ChemfuelValve.description>Вмикає/вимикає подачу палива.</VCHE_ChemfuelValve.description>
+  <PS_ChemfuelTank.label>Паливний резервуар</PS_ChemfuelTank.label>
+  <PS_ChemfuelTank.description>Промисловий резервуар для зберігання рідкого хімпалива, що постачається через мережу труб. Резервуари можуть бути призначені для зливу придатного для використання палива за потреби. У разі навіть легкого пошкодження випари, що виходять, дуже швидко створять газоподібну вогняну кулю, розмір якої буде залежати від того, скільки в резервуарі зберігалось палива.</PS_ChemfuelTank.description>
+  <VCHE_ChemfuelTap.label>паливний кран</VCHE_ChemfuelTap.label>
+  <VCHE_ChemfuelTap.description>Воронкоподібне сховище, призначене для видачі хімпалива з резервуарів для подальшого використання.</VCHE_ChemfuelTap.description>
+  <VCHE_ChemfuelDrain.label>Лійка для палива</VCHE_ChemfuelDrain.label>
+  <VCHE_ChemfuelDrain.description>Воронкоподібне сховище, призначене для вливання палива в мережу труб.</VCHE_ChemfuelDrain.description>
+  <VCHE_DeepchemPipe.label>нафтова труба</VCHE_DeepchemPipe.label>
+  <VCHE_DeepchemPipe.description>Важкі сталеві труби для транспортування нафти від насосів до нафтопереробних заводів або нафтових цистерн для зберігання.</VCHE_DeepchemPipe.description>
+  <VCHE_UndergroundDeepchemPipe.label>підземна нафтова труба</VCHE_UndergroundDeepchemPipe.label>
+  <VCHE_UndergroundDeepchemPipe.description>Підземні сталеві труби для транспортування нафти від насосів до нафтопереробних заводів або нафтових цистерн для зберігання.</VCHE_UndergroundDeepchemPipe.description>
+  <VCHE_DeepchemValve.label>Нафтовий клапан</VCHE_DeepchemValve.label>
+  <VCHE_DeepchemValve.description>Вмикає/вимикає подачу нафти.</VCHE_DeepchemValve.description>
+  <PS_DeepchemTank.label>Нафтова цистерна</PS_DeepchemTank.label>
+  <PS_DeepchemTank.description>Важка промислова цистерна для зберігання нафти, доставленої через мережу нафтових труб. Цистерни можуть бути призначені для зливу, за потреби. У разі навіть легкого пошкодження випари, що виходять, дуже швидко створять газоподібну вогняну кулю, розмір якої буде залежати від того, скільки в цистерні зберігалось нафти.</PS_DeepchemTank.description>
+  <PS_DeepchemRefinery.label>Нафтопереробний завод</PS_DeepchemRefinery.label>
+  <PS_DeepchemRefinery.description>Складна машина, здатна перероблювати нафту, доставлену через нафтові труби, у хімпаливо. Якщо не буде виявлено жодного виходу, паливо автоматично заправлятиметься в каністри. Якщо вихід з'єднаний з резервуаром або краном за допомогою паливних труб - готовий продукт буде транспортуватися до них, для зберігання або роздачі.</PS_DeepchemRefinery.description>
+  <VCHE_DeepchemPumpjack.label>Свердловинний насос</VCHE_DeepchemPumpjack.label>
+  <VCHE_DeepchemPumpjack.description>Бурова установка для глибокого буріння для видобутку нафти з-під землі. Використовуйте геопроникаючий сканер для виявлення родовищ. Після видобутку нафта може бути перероблена в хімпаливо. Можна вільно переставляти.</VCHE_DeepchemPumpjack.description>
+  <VCHE_DeepchemTap.label>нафтовий кран</VCHE_DeepchemTap.label>
+  <VCHE_DeepchemTap.description>Воронкоподібне сховище, призначене для видачі нафти з цистерн для подальшого використання.</VCHE_DeepchemTap.description>
+  <VCHE_DeepchemDrain.label>Лійка для нафти</VCHE_DeepchemDrain.label>
+  <VCHE_DeepchemDrain.description>Воронкоподібне сховище, призначене для вливання нафти в мережу труб.</VCHE_DeepchemDrain.description>
+  <VCHE_Deepchem.label>Нафта</VCHE_Deepchem.label>
+  <VCHE_Deepchem.description>Леткий рідкий хімічний мул, витягнутий з глибоких підземних шахт. Вона занадто густа, щоб використовуватись в якості палива для двигунів та ракет, або бути паливом для снарядів, але вона може бути перероблена у хімпаливо.</VCHE_Deepchem.description>
+</LanguageData>

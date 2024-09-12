@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData> 
+  <!--bar-->
+  <VBE_Bar.label>бар</VBE_Bar.label>
+  <!--A somewhat ornate countertop stocked to the brim with different vessels and devices for making a variety of drinks. An ice box, a series of taps, hoses, and carbonators means anybody tending it can brew much quicker than at a rudimentary brewery.-->
+  <VBE_Bar.description>Дещо витіювата стільниця, вщерть заставлена різними посудинами та пристроями для приготування різноманітних напоїв. Коробка для льоду, низка кранів, шлангів і карбонаторів означає, що будь-хто може приготувати напій набагато швидше, ніж за примітивною пивоварнею.</VBE_Bar.description>
+  
+  <!--soda fountain-->
+  <VBE_SodaFountain.label>диспенсер для газованки</VBE_SodaFountain.label>
+  <!--An all-in-one soda manufacturing unit. Syrup is mixed with water thoroughly, carbonated and then deeply chilled before being dispensed into sterilized bottles.-->
+  <VBE_SodaFountain.description>Універсальна установка для виробництва газованки. Сироп ретельно змішується з водою, газується, а потім глибоко охолоджується перед розливом у стерилізовані пляшки.</VBE_SodaFountain.description>
+  
+  <!--ambrandy distillery-->
+  <VBE_AmbrandyDistillery.label>дистилятор амбренді</VBE_AmbrandyDistillery.label>
+  <!--A gilded distillery of very delicate craftsmanship meant for aging ambrosia must into a drinkable form.-->
+  <VBE_AmbrandyDistillery.description>Вишукана винокурня дуже делікатної роботи з позолотою, призначена для витримки сусла з амброзії до стану, придатного для вживання в якості напою.</VBE_AmbrandyDistillery.description>
+  
+  <!--whiskey cask-->
+  <VBE_WhiskeyCask.label>діжка для віскі</VBE_WhiskeyCask.label>
+  <!--A huge barrel meant for aging a high volume of whiskey at once. Natural woody flavors are imparted into the mixture as the barrel itself absorbs a portion of the liquid during the fermenting process. Any sunlight hitting the barrel may slow down the fermenting process, or even ruin the whole batch.-->
+  <VBE_WhiskeyCask.description>Величезна діжка, призначена для витримки великої кількості віскі за один раз. Природні деревні аромати додаються до суміші, оскільки бочка сама поглинає частину рідини під час процесу бродіння. Будь-яке сонячне світло, що потрапляє на бочку, може сповільнити процес бродіння або навіть зіпсувати всю партію.</VBE_WhiskeyCask.description>
+  
+  <!--tequila barrel-->
+  <VBE_TequilaBarrel.label>діжка для текіли</VBE_TequilaBarrel.label>
+  <!--A small still and fermenter combo unit, perfect for storing behind the counter of a warm saloon, but doesn’t fare very well in rain.-->
+  <VBE_TequilaBarrel.description>Невеликий комбінований апарат, що поєднує в собі охмелювач і бродильний апарат, ідеально підходить для зберігання за прилавком теплого салуну, але не дуже добре працює під час дощу.</VBE_TequilaBarrel.description>
+  
+  <!--vodka drum-->
+  <VBE_VodkaDrum.label>горілчана бочка</VBE_VodkaDrum.label>
+  <!--A cheap container meant for storing water retrofitted to be air tight for short-term fermenting.-->
+  <VBE_VodkaDrum.description>Дешева ємність для зберігання води, загерметизована для короткочасного бродіння.</VBE_VodkaDrum.description>
+  
+  <!--gin still-->
+  <VBE_GinStill.label>дистилятор джину</VBE_GinStill.label>
+  <!--A fully metal industrial distilling device, meant to purify and ferment gin into a drinkable form. The metallic design means aging is possible in a wide range of temperatures and conditions.-->
+  <VBE_GinStill.description>Повністю металевий промисловий дистиляційний апарат, призначений для очищення та зброджування джину до стану, придатного для пиття. Металева конструкція означає, що бродіння можливе в широкому діапазоні температур і умов.</VBE_GinStill.description>
+  
+  <!--ambrandy (awful)-->
+  <VBE_AmbrandyAwful.label>амбренді (жахливе)</VBE_AmbrandyAwful.label>
+  <!--Also known as “liquid sunshine” ambrandy is a twice-fermented, distilled liquor of the highest calibre. Glitterworld aristocrats are known to send entire private militias to assist in shipping singular bottles.\n\nBeyond being flavorful enough to bring one to tears, studies have found this liquor when deeply aged causes increased stimulation in the section of the human brain known for artistic creativity and expression while also dampening the section of the brain in control of emotions.\n\nEven the bottle itself is a beauty to behold, when hit with even the tiniest amount of light golden flecks are seen dancing in the liquid within, like embers rising from a campfire. While Ambrandy can be mixed into cocktails, those few who have had the privilege to drink it say it is best on its own.-->
+  <VBE_AmbrandyAwful.description>Також відоме як "рідке сонце", амбренді – це двічі ферментований, дистильований лікер найвищого ґатунку. Відомо, що аристократи з блискосвіту посилають цілі приватні ополчення, щоб допомогти у доставці унікальних пляшок.\n\nКрім того, що цей напій досить ароматний, щоб довести когось до сліз, дослідження показали, що при глибокій витримці він викликає підвищену стимуляцію у відділі людського мозку, який відповідає за художню творчість і самовираження, а також пригнічує відділ мозку, що контролює емоції. \n\nНавіть сама пляшка – це краса для споглядання, коли на неї потрапляє навіть найменша кількість легких золотистих вкраплень, які танцюють у рідині всередині, як вуглинки, що піднімаються з багаття. Хоча амбренді можна змішувати з коктейлями, ті, кому пощастило його спробувати, кажуть, що найкраще він смакує сам по собі.</VBE_AmbrandyAwful.description>
+  <!--Drink {0}-->
+  <VBE_AmbrandyAwful.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyAwful.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_AmbrandyAwful.ingestible.ingestReportString>П'є {0}.</VBE_AmbrandyAwful.ingestible.ingestReportString>
+  
+  <!--ambrandy (poor)-->
+  <VBE_AmbrandyPoor.label>амбренді (погане)</VBE_AmbrandyPoor.label>
+  <!--Also known as “liquid sunshine” ambrandy is a twice-fermented, distilled liquor of the highest calibre. Glitterworld aristocrats are known to send entire private militias to assist in shipping singular bottles.\n\nBeyond being flavorful enough to bring one to tears, studies have found this liquor when deeply aged causes increased stimulation in the section of the human brain known for artistic creativity and expression while also dampening the section of the brain in control of emotions.\n\nEven the bottle itself is a beauty to behold, when hit with even the tiniest amount of light golden flecks are seen dancing in the liquid within, like embers rising from a campfire. While Ambrandy can be mixed into cocktails, those few who have had the privilege to drink it say it is best on its own.-->
+  <VBE_AmbrandyPoor.description>Також відоме як "рідке сонце", амбренді – це двічі ферментований, дистильований лікер найвищого ґатунку. Відомо, що аристократи з блискосвіту посилають цілі приватні ополчення, щоб допомогти у доставці унікальних пляшок.\n\nКрім того, що цей напій досить ароматний, щоб довести когось до сліз, дослідження показали, що при глибокій витримці він викликає підвищену стимуляцію у відділі людського мозку, який відповідає за художню творчість і самовираження, а також пригнічує відділ мозку, що контролює емоції. \n\nНавіть сама пляшка – це краса для споглядання, коли на неї потрапляє навіть найменша кількість легких золотистих вкраплень, які танцюють у рідині всередині, як вуглинки, що піднімаються з багаття. Хоча амбренді можна змішувати з коктейлями, ті, кому пощастило його спробувати, кажуть, що найкраще він смакує сам по собі.</VBE_AmbrandyPoor.description>
+  <!--Drink {0}-->
+  <VBE_AmbrandyPoor.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyPoor.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_AmbrandyPoor.ingestible.ingestReportString>П'є {0}.</VBE_AmbrandyPoor.ingestible.ingestReportString>
+  
+  <!--ambrandy (normal)-->
+  <VBE_AmbrandyNormal.label>амбренді (нормальне)</VBE_AmbrandyNormal.label>
+  <!--Also known as “liquid sunshine” ambrandy is a twice-fermented, distilled liquor of the highest calibre. Glitterworld aristocrats are known to send entire private militias to assist in shipping singular bottles.\n\nBeyond being flavorful enough to bring one to tears, studies have found this liquor when deeply aged causes increased stimulation in the section of the human brain known for artistic creativity and expression while also dampening the section of the brain in control of emotions.\n\nEven the bottle itself is a beauty to behold, when hit with even the tiniest amount of light golden flecks are seen dancing in the liquid within, like embers rising from a campfire. While Ambrandy can be mixed into cocktails, those few who have had the privilege to drink it say it is best on its own.-->
+  <VBE_AmbrandyNormal.description>Також відоме як "рідке сонце", амбренді – це двічі ферментований, дистильований лікер найвищого ґатунку. Відомо, що аристократи з блискосвіту посилають цілі приватні ополчення, щоб допомогти у доставці унікальних пляшок.\n\nКрім того, що цей напій досить ароматний, щоб довести когось до сліз, дослідження показали, що при глибокій витримці він викликає підвищену стимуляцію у відділі людського мозку, який відповідає за художню творчість і самовираження, а також пригнічує відділ мозку, що контролює емоції. \n\nНавіть сама пляшка – це краса для споглядання, коли на неї потрапляє навіть найменша кількість легких золотистих вкраплень, які танцюють у рідині всередині, як вуглинки, що піднімаються з багаття. Хоча амбренді можна змішувати з коктейлями, ті, кому пощастило його спробувати, кажуть, що найкраще він смакує сам по собі.</VBE_AmbrandyNormal.description>
+  <!--Drink {0}-->
+  <VBE_AmbrandyNormal.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyNormal.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_AmbrandyNormal.ingestible.ingestReportString>П'є {0}.</VBE_AmbrandyNormal.ingestible.ingestReportString>
+  
+  <!--ambrandy (good)-->
+  <VBE_AmbrandyGood.label>амбренді (хороше)</VBE_AmbrandyGood.label>
+  <!--Also known as “liquid sunshine” ambrandy is a twice-fermented, distilled liquor of the highest calibre. Glitterworld aristocrats are known to send entire private militias to assist in shipping singular bottles.\n\nBeyond being flavorful enough to bring one to tears, studies have found this liquor when deeply aged causes increased stimulation in the section of the human brain known for artistic creativity and expression while also dampening the section of the brain in control of emotions.\n\nEven the bottle itself is a beauty to behold, when hit with even the tiniest amount of light golden flecks are seen dancing in the liquid within, like embers rising from a campfire. While Ambrandy can be mixed into cocktails, those few who have had the privilege to drink it say it is best on its own.-->
+  <VBE_AmbrandyGood.description>Також відоме як "рідке сонце", амбренді – це двічі ферментований, дистильований лікер найвищого ґатунку. Відомо, що аристократи з блискосвіту посилають цілі приватні ополчення, щоб допомогти у доставці унікальних пляшок.\n\nКрім того, що цей напій досить ароматний, щоб довести когось до сліз, дослідження показали, що при глибокій витримці він викликає підвищену стимуляцію у відділі людського мозку, який відповідає за художню творчість і самовираження, а також пригнічує відділ мозку, що контролює емоції. \n\nНавіть сама пляшка – це краса для споглядання, коли на неї потрапляє навіть найменша кількість легких золотистих вкраплень, які танцюють у рідині всередині, як вуглинки, що піднімаються з багаття. Хоча амбренді можна змішувати з коктейлями, ті, кому пощастило його спробувати, кажуть, що найкраще він смакує сам по собі.</VBE_AmbrandyGood.description>
+  <!--Drink {0}-->
+  <VBE_AmbrandyGood.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyGood.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_AmbrandyGood.ingestible.ingestReportString>П'є {0}.</VBE_AmbrandyGood.ingestible.ingestReportString>
+  
+  <!--ambrandy (excellent)-->
+  <VBE_AmbrandyExcellent.label>амбренді (чудове)</VBE_AmbrandyExcellent.label>
+  <!--Also known as “liquid sunshine” ambrandy is a twice-fermented, distilled liquor of the highest calibre. Glitterworld aristocrats are known to send entire private militias to assist in shipping singular bottles.\n\nBeyond being flavorful enough to bring one to tears, studies have found this liquor when deeply aged causes increased stimulation in the section of the human brain known for artistic creativity and expression while also dampening the section of the brain in control of emotions.\n\nEven the bottle itself is a beauty to behold, when hit with even the tiniest amount of light golden flecks are seen dancing in the liquid within, like embers rising from a campfire. While Ambrandy can be mixed into cocktails, those few who have had the privilege to drink it say it is best on its own.-->
+  <VBE_AmbrandyExcellent.description>Також відоме як "рідке сонце", амбренді – це двічі ферментований, дистильований лікер найвищого ґатунку. Відомо, що аристократи з блискосвіту посилають цілі приватні ополчення, щоб допомогти у доставці унікальних пляшок.\n\nКрім того, що цей напій досить ароматний, щоб довести когось до сліз, дослідження показали, що при глибокій витримці він викликає підвищену стимуляцію у відділі людського мозку, який відповідає за художню творчість і самовираження, а також пригнічує відділ мозку, що контролює емоції. \n\nНавіть сама пляшка – це краса для споглядання, коли на неї потрапляє навіть найменша кількість легких золотистих вкраплень, які танцюють у рідині всередині, як вуглинки, що піднімаються з багаття. Хоча амбренді можна змішувати з коктейлями, ті, кому пощастило його спробувати, кажуть, що найкраще він смакує сам по собі.</VBE_AmbrandyExcellent.description>
+  <!--Drink {0}-->
+  <VBE_AmbrandyExcellent.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyExcellent.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_AmbrandyExcellent.ingestible.ingestReportString>П'є {0}.</VBE_AmbrandyExcellent.ingestible.ingestReportString>
+  
+  <!--ambrandy (masterwork)-->
+  <VBE_AmbrandyMasterwork.label>амбренді (майстерне)</VBE_AmbrandyMasterwork.label>
+  <!--Also known as “liquid sunshine” ambrandy is a twice-fermented, distilled liquor of the highest calibre. Glitterworld aristocrats are known to send entire private militias to assist in shipping singular bottles.\n\nBeyond being flavorful enough to bring one to tears, studies have found this liquor when deeply aged causes increased stimulation in the section of the human brain known for artistic creativity and expression while also dampening the section of the brain in control of emotions.\n\nEven the bottle itself is a beauty to behold, when hit with even the tiniest amount of light golden flecks are seen dancing in the liquid within, like embers rising from a campfire. While Ambrandy can be mixed into cocktails, those few who have had the privilege to drink it say it is best on its own.-->
+  <VBE_AmbrandyMasterwork.description>Також відоме як "рідке сонце", амбренді – це двічі ферментований, дистильований лікер найвищого ґатунку. Відомо, що аристократи з блискосвіту посилають цілі приватні ополчення, щоб допомогти у доставці унікальних пляшок.\n\nКрім того, що цей напій досить ароматний, щоб довести когось до сліз, дослідження показали, що при глибокій витримці він викликає підвищену стимуляцію у відділі людського мозку, який відповідає за художню творчість і самовираження, а також пригнічує відділ мозку, що контролює емоції. \n\nНавіть сама пляшка – це краса для споглядання, коли на неї потрапляє навіть найменша кількість легких золотистих вкраплень, які танцюють у рідині всередині, як вуглинки, що піднімаються з багаття. Хоча амбренді можна змішувати з коктейлями, ті, кому пощастило його спробувати, кажуть, що найкраще він смакує сам по собі.</VBE_AmbrandyMasterwork.description>
+  <!--Drink {0}-->
+  <VBE_AmbrandyMasterwork.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyMasterwork.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_AmbrandyMasterwork.ingestible.ingestReportString>П'є {0}.</VBE_AmbrandyMasterwork.ingestible.ingestReportString>
+  
+  <!--ambrandy (legendary)-->
+  <VBE_AmbrandyLegendary.label>амбренді (легендарне)</VBE_AmbrandyLegendary.label>
+  <!--Also known as “liquid sunshine” ambrandy is a twice-fermented, distilled liquor of the highest calibre. Glitterworld aristocrats are known to send entire private militias to assist in shipping singular bottles.\n\nBeyond being flavorful enough to bring one to tears, studies have found this liquor when deeply aged causes increased stimulation in the section of the human brain known for artistic creativity and expression while also dampening the section of the brain in control of emotions.\n\nEven the bottle itself is a beauty to behold, when hit with even the tiniest amount of light golden flecks are seen dancing in the liquid within, like embers rising from a campfire. While Ambrandy can be mixed into cocktails, those few who have had the privilege to drink it say it is best on its own.-->
+  <VBE_AmbrandyLegendary.description>Також відоме як "рідке сонце", амбренді – це двічі ферментований, дистильований лікер найвищого ґатунку. Відомо, що аристократи з блискосвіту посилають цілі приватні ополчення, щоб допомогти у доставці унікальних пляшок.\n\nКрім того, що цей напій досить ароматний, щоб довести когось до сліз, дослідження показали, що при глибокій витримці він викликає підвищену стимуляцію у відділі людського мозку, який відповідає за художню творчість і самовираження, а також пригнічує відділ мозку, що контролює емоції. \n\nНавіть сама пляшка – це краса для споглядання, коли на неї потрапляє навіть найменша кількість легких золотистих вкраплень, які танцюють у рідині всередині, як вуглинки, що піднімаються з багаття. Хоча амбренді можна змішувати з коктейлями, ті, кому пощастило його спробувати, кажуть, що найкраще він смакує сам по собі.</VBE_AmbrandyLegendary.description>
+  <!--Drink {0}-->
+  <VBE_AmbrandyLegendary.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyLegendary.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_AmbrandyLegendary.ingestible.ingestReportString>П'є {0}.</VBE_AmbrandyLegendary.ingestible.ingestReportString>
+  
+  <!--gin-->
+  <VBE_Gin.label>джин</VBE_Gin.label>
+  <!--A particularly mild and colorless spirit, aromatically speaking this bottle has a pine-tree like scent as well as subtle fruity notes. This liquor has a reputation for being light-hearted and fun to drink and for causing what is known as  “gin drunkenness”, during which one feels increased empathy and understanding.-->
+  <VBE_Gin.description>Особливо м'який і безбарвний напій, ароматично ця пляшка має хвойний аромат, а також тонкі фруктові нотки. Цей напій має репутацію безтурботного і веселого напою, що викликає так зване "джинове сп'яніння", під час якого людина відчуває підвищену емпатію і розуміння.</VBE_Gin.description>
+  <!--Drink {0}-->
+  <VBE_Gin.ingestible.ingestCommandString>Випити {0}</VBE_Gin.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_Gin.ingestible.ingestReportString>П'є {0}.</VBE_Gin.ingestible.ingestReportString>
+  <!--bottle-->
+  <VBE_Gin.tools.bottle.label>пляшка</VBE_Gin.tools.bottle.label>
+  <!--neck-->
+  <VBE_Gin.tools.neck.label>горловина</VBE_Gin.tools.neck.label>
+  
+  <!--tequila-->
+  <VBE_Tequila.label>текіла</VBE_Tequila.label>
+  <!--A fermented liquor made from agave sap, a favorite of wild, rowdy banditos and muffalo wranglers alike. Includes a high-protein snack at the bottom of the bottle believed to bring good luck. Imbibers are known to excel at extended combat.-->
+  <VBE_Tequila.description>Ферментований напій із соку агави – улюблений напій диких, буйних бандитів та мисливців на муфало. На дні пляшки міститься закуска із високим вмістом білка, яка, за повір'ям, приносить удачу.</VBE_Tequila.description>
+  <!--Drink {0}-->
+  <VBE_Tequila.ingestible.ingestCommandString>Випити {0}</VBE_Tequila.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_Tequila.ingestible.ingestReportString>П'є {0}.</VBE_Tequila.ingestible.ingestReportString>
+  <!--bottle-->
+  <VBE_Tequila.tools.bottle.label>пляшка</VBE_Tequila.tools.bottle.label>
+  <!--neck-->
+  <VBE_Tequila.tools.neck.label>горловина</VBE_Tequila.tools.neck.label>
+  
+  <!--vodka-->
+  <VBE_Vodka.label>горілка</VBE_Vodka.label>
+  <!--A clear and mostly flavorless alcohol made from fermented potatoes. While vodka is drinkable alone it is mostly known for being a perfect mixing agent and for causing foolishly high levels of boldness in those who choose to drink it.-->
+  <VBE_Vodka.description>Прозорий алкогольний напій без запаху, виготовлений із перебродившої картоплі. Хоча горілку можна пити окремо, вона відома тим, що є ідеальним засобом для змішування і викликає нерозумно високий рівень зухвалості у тих, хто вирішив її випити.</VBE_Vodka.description>
+  <!--Drink {0}-->
+  <VBE_Vodka.ingestible.ingestCommandString>Випити {0}</VBE_Vodka.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_Vodka.ingestible.ingestReportString>П'є {0}.</VBE_Vodka.ingestible.ingestReportString>
+  <!--bottle-->
+  <VBE_Vodka.tools.bottle.label>пляшка</VBE_Vodka.tools.bottle.label>
+  <!--neck-->
+  <VBE_Vodka.tools.neck.label>горловина</VBE_Vodka.tools.neck.label>
+  
+  <!--whiskey-->
+  <VBE_Whiskey.label>віскі</VBE_Whiskey.label>
+  <!--A potent liquor distilled from fermented grain. The flavors of the aging barrel tend to permeate this spirit more than others. A woody, almost smokey flavor is pronounced throughout. Simple whiskeys are stereotypically associated with rough manual laborers and hard workers, a common sight in steamworlds across the galaxy.-->
+  <VBE_Whiskey.description>Міцний алкогольний напій, виготовлений з ферментованого зерна. Аромати витриманої бочки мають тенденцію проникати в цей спирт більше, ніж в інші. Деревний, майже димчастий присмак яскраво виражений у всьому смаку. Прості віскі стереотипно асоціюються із грубими ручними робітниками і працьовитими людьми, що є звичайним явищем у стімсвітах по всій галактиці.</VBE_Whiskey.description>
+  <!--Drink {0}-->
+  <VBE_Whiskey.ingestible.ingestCommandString>Випити {0}</VBE_Whiskey.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_Whiskey.ingestible.ingestReportString>П'є {0}.</VBE_Whiskey.ingestible.ingestReportString>
+  <!--bottle-->
+  <VBE_Whiskey.tools.bottle.label>пляшка</VBE_Whiskey.tools.bottle.label>
+  <!--neck-->
+  <VBE_Whiskey.tools.neck.label>горловина</VBE_Whiskey.tools.neck.label>
+  
+  <!--double-aged whiskey-->
+  <VBE_DoubleWhiskey.label>віскі подвійної витримки</VBE_DoubleWhiskey.label>
+  <!--The result of whiskey being aged once more in an unused or lightly used secondary barrel. Flavor profiles are stronger and the afterburn in one's throat notably reduced. The increased aging time for fine whiskey generally portrays a sense of mercantilism and class among its consumers.-->
+  <VBE_DoubleWhiskey.description>Результат повторної витримки віскі у невикористаній або мало використовуваній вторинній бочці. Смакові профілі стають сильнішими, а післясмак у горлі помітно зменшується. Збільшення часу витримки вишуканого віскі, як правило, демонструє почуття меркантильності та класу серед його споживачів.</VBE_DoubleWhiskey.description>
+  <!--Drink {0}-->
+  <VBE_DoubleWhiskey.ingestible.ingestCommandString>Випити {0}</VBE_DoubleWhiskey.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_DoubleWhiskey.ingestible.ingestReportString>П'є {0}.</VBE_DoubleWhiskey.ingestible.ingestReportString>
+  <!--bottle-->
+  <VBE_DoubleWhiskey.tools.bottle.label>пляшка</VBE_DoubleWhiskey.tools.bottle.label>
+  <!--neck-->
+  <VBE_DoubleWhiskey.tools.neck.label>горловина</VBE_DoubleWhiskey.tools.neck.label>
+  
+  <!--coffee-->
+  <VBE_HotCoffee.label>кава</VBE_HotCoffee.label>
+  <!--A warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma.-->
+  <VBE_HotCoffee.description>Теплий, гіркуватий напій, який зазвичай доповнюють молоком і цукром. Улюбленець студентів та офісних працівників по всій галактиці завдяки високому вмісту кофеїну та приємному аромату.</VBE_HotCoffee.description>
+  <!--Drink {0}-->
+  <VBE_HotCoffee.ingestible.ingestCommandString>Випити {0}</VBE_HotCoffee.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_HotCoffee.ingestible.ingestReportString>П'є {0}.</VBE_HotCoffee.ingestible.ingestReportString>
+  
+  <!--iced coffee-->
+  <VBE_IceCoffee.label>холодна кава</VBE_IceCoffee.label>
+  <!--An icy, chilled coffee. Chilling coffee is preferred by many in warmer climates, anecdotally it also smooths out bitter flavors and brings out noticeable, albeit subtle nuttiness. Just like its warm counterpart, it is ubiquitous among students and professionals alike.-->
+  <VBE_IceCoffee.description>Крижана, охолоджена кава. Холодній каві багато хто віддає перевагу в теплому кліматі, оскільки, за чутками, вона також згладжує гіркий присмак і підкреслює помітну, хоча й ледь вловиму горіхову нотку. Так само, як і її теплий аналог, вона поширена як серед студентів, так і серед професіоналів.</VBE_IceCoffee.description>
+  <!--Drink {0}-->
+  <VBE_IceCoffee.ingestible.ingestCommandString>Випити {0}</VBE_IceCoffee.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_IceCoffee.ingestible.ingestReportString>П'є {0}.</VBE_IceCoffee.ingestible.ingestReportString>
+  
+  <!--energy drink-->
+  <VBE_EnergyDrink.label>енергетик</VBE_EnergyDrink.label>
+  <!--A sour and fizzy drink finished off with a hint of bitterness. The combination of sugar and caffeine means a burst of energy upfront, but with a crash later. Notable aftertaste of radiation.-->
+  <VBE_EnergyDrink.description>Кислувато-шипучий напій з легким присмаком гіркоти. Поєднання цукру та кофеїну означає приплив енергії спочатку, але з виснаженням згодом. Помітний післясмак радіації.</VBE_EnergyDrink.description>
+  <!--Drink {0}-->
+  <VBE_EnergyDrink.ingestible.ingestCommandString>Випити {0}</VBE_EnergyDrink.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_EnergyDrink.ingestible.ingestReportString>П'є {0}.</VBE_EnergyDrink.ingestible.ingestReportString>
+  
+  <!--juice-->
+  <VBE_Juice.label>сік</VBE_Juice.label>
+  <!--Juiced fruit, tart and tangy, can be made from a singular fruit or a mixed variety - Also known as a juice medley. Many drinks can be brewed or mixed using juices as base. While no more nutritious than non juiced fruit it is much easier to store and transport.-->
+  <VBE_Juice.description>Фруктовий сік, терпкий і гострий, може бути виготовлений з одного фрукта або змішаного сорту – також відомий як асорті соків. Багато напоїв можна приготувати або змішати, використовуючи соки як основу. Хоча вони не більш поживні, ніж свіжі фрукти, їх набагато легше зберігати і транспортувати.</VBE_Juice.description>
+  
+  <!--soda-->
+  <VBE_Soda.label>газованка</VBE_Soda.label>
+  <!--A very sweet and semi-citrusy beverage best enjoyed chilled. Whilst not exactly nutritious the sugar rush is welcomed and the effervescence is quite refreshing.-->
+  <VBE_Soda.description>Дуже солодкий і напівцитрусовий напій, який найкраще смакує охолодженим. Хоча він і не дуже поживний, наявний цукор дарує незабутній смак, а шипучість дуже освіжає.</VBE_Soda.description>
+  <!--Drink {0}-->
+  <VBE_Soda.ingestible.ingestCommandString>Випити {0}</VBE_Soda.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_Soda.ingestible.ingestReportString>П'є {0}.</VBE_Soda.ingestible.ingestReportString>
+  <!--bottle-->
+  <VBE_Soda.tools.bottle.label>пляшка</VBE_Soda.tools.bottle.label>
+  <!--neck-->
+  <VBE_Soda.tools.neck.label>горловина</VBE_Soda.tools.neck.label>
+  
+  <!--tea-->
+  <VBE_Tea.label>чай</VBE_Tea.label>
+  <!--A pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water. Tea can range anywhere from citrusy to bitter to spicy flavor profiles. Tea has been one of humanity's favorite beverages since ancient times and is believed to possess many natural healing properties.-->
+  <VBE_Tea.description>Приємний, ароматний напій, який готується шляхом заварювання пакетика чайного листя в окропі. Чай може мати будь-який смак – від цитрусового до гіркувато-пряного. Чай є одним з найулюбленіших напоїв людства з давніх часів, і вважається, що він має багато природних цілющих властивостей.</VBE_Tea.description>
+  <!--Drink {0}-->
+  <VBE_Tea.ingestible.ingestCommandString>Випити {0}</VBE_Tea.ingestible.ingestCommandString>
+  <!--Drinking {0}.-->
+  <VBE_Tea.ingestible.ingestReportString>П'є {0}.</VBE_Tea.ingestible.ingestReportString>
+  
+  <!--simple cocktail-->
+  <VBE_SimpleCocktail.label>звичайний коктейль</VBE_SimpleCocktail.label>
+  <!--A simple cocktail quickly mixed from a duo of ingredients.-->
+  <VBE_SimpleCocktail.description>Звичайний коктейль, швидко змішаний з пари інгредієнтів.</VBE_SimpleCocktail.description>
+  
+  <!--fine cocktail-->
+  <VBE_FineCocktail.label>вишуканий коктейль</VBE_FineCocktail.label>
+  <!--A fine complex cocktail, mixed precisely from multiple ingredients.-->
+  <VBE_FineCocktail.description>Вишуканий та складний коктейль, змішаний з кількох, ретельно відібраних, інгредієнтів.</VBE_FineCocktail.description>
+  
+  <!--lavish cocktail-->
+  <VBE_LavishCocktail.label>розкішний коктейль</VBE_LavishCocktail.label>
+  <!--A masterpiece of bartending incarnate, this cocktail was mixed from a wide variety of ingredients and chilled to perfection before meticulously shaken and served.-->
+  <VBE_LavishCocktail.description>Втілений шедевр барменського мистецтва, цей коктейль був змішаний з найрізноманітніших інгредієнтів і охолоджений до ідеального стану, а потім ретельно збовтаний і поданий до столу.</VBE_LavishCocktail.description>
+  
+  <!--gourmet cocktail-->
+  <VBE_GourmetCocktail.label>гурманський коктейль</VBE_GourmetCocktail.label>
+  <!--A veritable miracle of mixology. This cocktails every factor from temperature of glass, choice of stirring instrument and type of garnish has been precisely calculated for the maximum flavor and body possible.-->
+  <VBE_GourmetCocktail.description>Справжнє диво міксології. У цьому коктейлі кожен фактор, від температури скла, вибору інструменту для перемішування до типу гарніру, був точно розрахований для максимального розкриття смаку, який тільки може сприйняти живий організм.</VBE_GourmetCocktail.description>
+  
+  <!--soda syrup-->
+  <VBE_SodaSyrup.label>сироп для газованки</VBE_SodaSyrup.label>
+  <!--A thick and disgustingly sweet mixture made by boiling citric acid and natural sugars together - Usually derived straight from cane sugar or as corn syrup. Must be cut with water and left to carbonate briefly in a sealed environment before consumption.-->
+  <VBE_SodaSyrup.description>Густа і огидна солодка суміш, виготовлена шляхом кип'ятіння лимонної кислоти і натуральних цукрів разом – зазвичай виготовляють безпосередньо з тростинного цукру або кукурудзяного сиропу. Перед вживанням розбавляють водою і залишають на короткий час карбонізуватися в герметичному середовищі.</VBE_SodaSyrup.description>
+  
+  <!--ambrosia mush-->
+  <VBE_AmbrandyMush.label>амброзієва суміш</VBE_AmbrandyMush.label>
+  <!--Sliced and pressed ambrosia, can be left alone to ripen into must to be further distilled into an extremely fine liquor.-->
+  <VBE_AmbrandyMush.description>Нарізану і віджату амброзію залишають у спокої, щоб вона перетворилася на сусло для подальшої дистиляції в надзвичайно вишуканий лікер.</VBE_AmbrandyMush.description>
+  
+  <!--ambrandy must-->
+  <VBE_AmbrandyMust.label>сусло для амбренді</VBE_AmbrandyMust.label>
+  <!--Fully ripened ambrosia liquified into essentially a thick juice and left alone to grow bacteria for fermenting. Ready to be distilled into a drinkable form.-->
+  <VBE_AmbrandyMust.description>Повністю стиглу амброзію розтирають до стану густого соку і залишають у спокої, щоб виросли бактерії для бродіння. Готовий до дистиляції в придатну для пиття форму.</VBE_AmbrandyMust.description>
+  
+  <!--whiskey mash-->
+  <VBE_WhiskeyMash.label>суміш для віскі</VBE_WhiskeyMash.label>
+  <!--A starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged.-->
+  <VBE_WhiskeyMash.description>Крохмалиста і здебільшого рідка суміш із розкиданими по ній шматочками м'якоті. Готова до витримки.</VBE_WhiskeyMash.description>
+  
+  <!--tequila must-->
+  <VBE_TequilaMust.label>сусло для текіли</VBE_TequilaMust.label>
+  <!--A thin mixture of juiced agave sap or prickly cactus pear and insect meat starter, ready to be cut and fermented in a barrel.-->
+  <VBE_TequilaMust.description>Рідка суміш соку агави або опунції та закваски з комашиного м'яса, готова до нарізки та бродіння в бочці.</VBE_TequilaMust.description>
+  
+  <!--vodka mash-->
+  <VBE_VodkaMash.label>суміш для горілки</VBE_VodkaMash.label>
+  <!--A thick, starchy mash of raw potatoes and a starter, ready to be fermented.-->
+  <VBE_VodkaMash.description>Густа, крохмалиста суміш сирої картоплі та закваски, готова до бродіння.</VBE_VodkaMash.description>
+  
+  <!--gin mush-->
+  <VBE_GinMush.label>суміш для джину</VBE_GinMush.label>
+  <!--A clear but cloudy mixture of juiced berries and miscellaneous grain, ready to be fermented.-->
+  <VBE_GinMush.description>Прозора, але каламутна суміш соковитих ягід і різних зерен, готова до бродіння.</VBE_GinMush.description>
+  
+  <!--coffee beans-->
+  <VBE_RawCoffee.label>кавові зерна</VBE_RawCoffee.label>
+  <!--The pits of coffee plant berries, known succinctly as “coffee beans”. They can be roasted to bring out a robust and bitter flavor, as well as natural caffeine.-->
+  <VBE_RawCoffee.description>Кісточки ягід кавової рослини, відомі як "кавові зерна". Їх можна обсмажити, щоб отримати міцний і гіркий смак, а також натуральний кофеїн.</VBE_RawCoffee.description>
+  
+  <!--tea leaves-->
+  <VBE_RawTea.label>чайне листя</VBE_RawTea.label>
+  <!--The leaves of the tea plant. They can be boiled into a variety of earthy and soothing beverages.-->
+  <VBE_RawTea.description>Листя чайної рослини. З них можна заварювати різноманітні земляні та заспокійливі напої.</VBE_RawTea.description>
+  
+  <!--tobacco leaves-->
+  <VBE_RawTobacco.label>тютюнове листя</VBE_RawTobacco.label>
+  <!--The leaves of the tobacco plant. Tobacco leaves can be dried quite easily to then be rolled and smoked, providing a mild stimulating effect.-->
+  <VBE_RawTobacco.description>Листя тютюнової рослини. Листя тютюну можна досить легко висушити, скрутити в трубочку і курити, забезпечуючи легкий стимулюючий ефект.</VBE_RawTobacco.description>
+  
+  <!--cigarettes-->
+  <VBE_Cigarettes.label>цигарки</VBE_Cigarettes.label>
+  <!--A small, rolled paper tube stuffed loosely with tobacco leaves. Offers a brief euphoria as well as mental stimulation, and is very addictive. The pungent odor is generally disliked at first, but becomes much more pleasurable as the smoker becomes more addicted. Can be crafted without equipment, at a crafting spot.-->
+  <VBE_Cigarettes.description>Невелика скручена паперова трубочка, нещільно набита тютюновим листям. Дає короткочасну ейфорію, а також стимулює розумову діяльність і викликає сильну залежність. Різкий запах, як правило, спочатку не подобається, але стає набагато приємнішим, коли курець стає більш залежним. Можуть бути виготовлені без обладнання, на місці для виготовлення.</VBE_Cigarettes.description>
+  <!--Smoke {0}-->
+  <VBE_Cigarettes.ingestible.ingestCommandString>Скурити {0}</VBE_Cigarettes.ingestible.ingestCommandString>
+  <!--Smoking {0}.-->
+  <VBE_Cigarettes.ingestible.ingestReportString>Курить {0}.</VBE_Cigarettes.ingestible.ingestReportString>
+  <!--Consuming {0}.-->
+  <VBE_Cigarettes.ingestible.ingestReportStringEat>Їсть {0}.</VBE_Cigarettes.ingestible.ingestReportStringEat>
+  
+  <!--cigars-->
+  <VBE_Cigars.label>сигари</VBE_Cigars.label>
+  <!--A fat, dried tobacco leaf stuffed to the brim with more tobacco leaves and a gold foil wrap around it. Cigars have a historically posh presentation and are usually only affordable by those who mingle with glitterworld elite regularly. Cigars are often flavored with citrus or vanilla to make their flavor and odor less acrid.-->
+  <VBE_Cigars.description>Товстий, висушений тютюновий лист, вщерть набитий іншим тютюновим листям і обгорнутий золотою фольгою. Сигари мають історично вишуканий вигляд і зазвичай доступні лише тим, хто регулярно спілкується з елітою блискосвіту. Сигари часто ароматизують цитрусовими або ваніллю, щоб зробити їх смак і запах менш їдким.</VBE_Cigars.description>
+  <!--Smoke {0}-->
+  <VBE_Cigars.ingestible.ingestCommandString>Скурити {0}</VBE_Cigars.ingestible.ingestCommandString>
+  <!--Smoking {0}.-->
+  <VBE_Cigars.ingestible.ingestReportString>Курить {0}.</VBE_Cigars.ingestible.ingestReportString>
+  <!--Consuming {0}.-->
+  <VBE_Cigars.ingestible.ingestReportStringEat>Їсть {0}.</VBE_Cigars.ingestible.ingestReportStringEat>
+  
+  <!--coffee plant-->
+  <VBE_Plant_Coffee.label>кавове дерево</VBE_Plant_Coffee.label>
+  <!--A low-lying bush of tropical origin, dotted by small reddish berries when fully grown. The pits of these berries are known succinctly as “coffee beans” and can be roasted to bring out a robust and bitter flavor, as well as natural caffeine. This particular genus has been selectively bred for quick maturing compared to its ancient counterpart.-->
+  <VBE_Plant_Coffee.description>Низькорослий кущ тропічного походження, всіяний дрібними червонуватими ягодами, коли повністю виростає. Кісточки цих ягід відомі під короткою назвою "кавові зерна" і можуть бути обсмажені, щоб отримати міцний і гіркий смак, а також натуральний кофеїн. Цей конкретний вид був селекціоновано для швидкого дозрівання порівняно з його стародавнім аналогом.</VBE_Plant_Coffee.description>
+  
+  <!--tea grass-->
+  <VBE_Plant_Tea.label>чайна трава</VBE_Plant_Tea.label>
+  <!--A very leafy shrub that is particularly easy to cultivate. Since early mankind it was discovered the leaves of these plants can be boiled into a variety of earthy and soothing tea. This particular genus has been selectively bred for quick maturing compared to its ancient counterpart.-->
+  <VBE_Plant_Tea.description>Дуже облистнений чагарник, який особливо легко вирощувати. Ще на початку людства було виявлено, що з листя цих рослин можна заварювати різноманітні земляні та заспокійливі чаї. Саме цей рід був селекціоновано для швидкого дозрівання порівняно з його стародавнім аналогом.</VBE_Plant_Tea.description>
+  
+  <!--tobacco plant-->
+  <VBE_Plant_Tobacco.label>тютюн</VBE_Plant_Tobacco.label>
+  <!--A short, broad-leafed plant that thrives in warm climates. Tobacco leaves can be dried quite easily to then be rolled and smoked, providing a mild stimulating effect.-->
+  <VBE_Plant_Tobacco.description>Низькоросла, широколиста рослина, яка процвітає в теплому кліматі. Листя тютюну можна досить легко висушити, скрутити в трубочку і курити, забезпечуючи легкий стимулюючий ефект.</VBE_Plant_Tobacco.description>
+</LanguageData>

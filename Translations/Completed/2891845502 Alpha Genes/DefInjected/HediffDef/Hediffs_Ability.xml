@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acidic blood -->
+  <AG_AcidicExploder.label>кислотна кров</AG_AcidicExploder.label>
+  <!-- EN: An unstable, acidic blood will cause this person to blow up in a cloud of caustic acid when killed. -->
+  <AG_AcidicExploder.description>Нестабільна, кисла кров призведе до того, що ця людина вибухне хмарою їдкої кислоти, коли її вб'ють.</AG_AcidicExploder.description>
+  
+  <!-- EN: electric shock -->
+  <AG_Electric.label>електричний шок</AG_Electric.label>
+  <!-- EN: A dangerous electric shock. It might have damaged the heart, and the higher the intensity the higher the possibility of a heart attack. -->
+  <AG_Electric.description>Небезпечний удар струмом. Він міг пошкодити серце, і чим вища інтенсивність, тим вища ймовірність серцевого нападу.</AG_Electric.description>
+  <!-- EN: initial -->
+  <AG_Electric.stages.initial.label>початковий</AG_Electric.stages.initial.label>
+  <!-- EN: shocked -->
+  <AG_Electric.stages.shocked.label>шокований</AG_Electric.stages.shocked.label>
+  <!-- EN: very shocked -->
+  <AG_Electric.stages.very_shocked.label>дуже шокований</AG_Electric.stages.very_shocked.label>
+  <!-- EN: paralysed -->
+  <AG_Electric.stages.paralysed.label>паралізовано</AG_Electric.stages.paralysed.label>
+  
+  <!-- EN: electrified -->
+  <AG_Electrified.label>наелектризований</AG_Electrified.label>
+  <!-- EN: This colonist had its blood genetically modified to accumulate electrical energy, allowing them to recharge electrical batteries merely by being close to them. This change is permanent, and quite traumatic. -->
+  <AG_Electrified.description>Кров цього колоніста була генетично модифікована для накопичення електричної енергії, що дозволяє йому підзаряджати електричні батареї, просто перебуваючи поруч з ними. Ця зміна є незворотною і досить травматичною.</AG_Electrified.description>
+  
+  <!-- EN: chemfuel nodules -->
+  <AG_Exploder.label>хімпаливні вузлики</AG_Exploder.label>
+  <!-- EN: Genetically grown nodules of chemfuel will cause this person to blow up when killed. -->
+  <AG_Exploder.description>Генетично вирощені вузлики хімічного палива призведуть до того, що ця людина вибухне, коли її вб'ють.</AG_Exploder.description>
+  
+  <!-- EN: insect rally -->
+  <AG_InsectRally.label>зліт комах</AG_InsectRally.label>
+  <!-- EN: This person is secreting a cloud of pheromonal compounds that are irresistible to all insects. They'll feel re-invigorated and strengthened when close to the carrier. -->
+  <AG_InsectRally.description>Ця людина виділяє хмару феромонних сполук, які непереборні для всіх комах. Перебуваючи поруч з носієм, вони відчувають себе бадьорими та сильними.</AG_InsectRally.description>
+  
+  <!-- EN: insect rally -->
+  <AG_InsectRally_Buff.label>зліт комах</AG_InsectRally_Buff.label>
+  <!-- EN: This insect feels strengthened by being immersed in a pheromonal cloud. -->
+  <AG_InsectRally_Buff.description>Ця комаха відчуває себе сильнішою, занурюючись у феромонну хмару.</AG_InsectRally_Buff.description>
+  
+  <!-- EN: lung rot strength -->
+  <AG_LungRotStrengthHediff.label>сила легеневої гнилі</AG_LungRotStrengthHediff.label>
+  <!-- EN: Special structures in this person's lungs strengthen their bodies when they are affected by lung rot, making piles of corpses... a pleasant prospect.. -->
+  <AG_LungRotStrengthHediff.description>Спеціальні структури в легенях цієї людини зміцнюють їхні тіла, коли вони уражаються легеневою гниллю, роблячи купи трупів... приємною перспективою.</AG_LungRotStrengthHediff.description>
+  
+  <!-- EN: petrification -->
+  <AG_Petrification.label>скам'яніння</AG_Petrification.label>
+  <!-- EN: The victim's skin is hardening and turning into brittle stone. This condition is reversible and will naturally dissipate after a few hours, but if it reaches a severity of 1 it will kill its victim. -->
+  <AG_Petrification.description>Шкіра жертви твердне і перетворюється на крихкий камінь. Цей стан є оборотним і природним чином минає через кілька годин, але якщо він досягає ступеня тяжкості 1, то вбиває жертву.</AG_Petrification.description>
+  <!-- EN: initial -->
+  <AG_Petrification.stages.initial.label>початкове</AG_Petrification.stages.initial.label>
+  <!-- EN: stiff joints -->
+  <AG_Petrification.stages.stiff_joints.label>жорсткі суглоби</AG_Petrification.stages.stiff_joints.label>
+  <!-- EN: rocky skin -->
+  <AG_Petrification.stages.rocky_skin.label>кам'яниста шкіра</AG_Petrification.stages.rocky_skin.label>
+  <!-- EN: brittle bones -->
+  <AG_Petrification.stages.brittle_bones.label>ламкість кісток</AG_Petrification.stages.brittle_bones.label>
+  <!-- EN: turned to stone -->
+  <AG_Petrification.stages.turned_to_stone.label>перетворився на камінь</AG_Petrification.stages.turned_to_stone.label>
+  
+  <!-- EN: scrambled IFF -->
+  <AG_ScrambledIFF.label>зашифрований IFF</AG_ScrambledIFF.label>
+  <!-- EN: This mechanoid's IFF sensors have been scrambled, making it unable to properly identify its foes. It will fight on the side of the colony for a day, and after that it will revert to its former allegiance. -->
+  <AG_ScrambledIFF.description>IFF сенсори цього механоїда були зашифровані, тому він не може правильно ідентифікувати своїх ворогів. Він воюватиме на боці колонії один день, а потім повернеться до колишньої вірності.</AG_ScrambledIFF.description>
+  
+  <!-- EN: temporary bandwidth -->
+  <AG_TempNodeEffect.label>тимчасова пропускна здатність</AG_TempNodeEffect.label>
+  <!-- EN: This person is receiving a boost to their bandwidth due to the presence of a temporary band node. -->
+  <AG_TempNodeEffect.description>Ця людина отримує збільшення пропускної здатності завдяки наявності тимчасового вузла зв'язку.</AG_TempNodeEffect.description>
+  
+  <!-- EN: summoned -->
+  <AG_TemporarySummon.label>викликаний</AG_TemporarySummon.label>
+  <!-- EN: This creature has been summoned via innate psychic means, and will vanish after a period of 4 hours. -->
+  <AG_TemporarySummon.description>Ця істота була викликана за допомогою вроджених екстрасенсорних здібностей і зникне через 4 години.</AG_TemporarySummon.description>
+  
+  <!-- EN: summoned -->
+  <AG_TemporarySummonMech.label>викликаний</AG_TemporarySummonMech.label>
+  <!-- EN: This mech has been summoned via innate psychic means, and will vanish after a period of 1 day. -->
+  <AG_TemporarySummonMech.description>Цей мех був викликаний за допомогою вроджених екстрасенсорних здібностей і зникне через 1 день.</AG_TemporarySummonMech.description>
+  
+</LanguageData>

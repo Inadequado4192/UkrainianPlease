@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.decent_library_room.label>непогана бібліотека</VBE_JoyActivityInImpressiveLibraryRoom.stages.decent_library_room.label>
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.decent_library_room.description>Я непогано пров{PAWN_gender ? ів : ела} час в непоганій бібліотеці.</VBE_JoyActivityInImpressiveLibraryRoom.stages.decent_library_room.description>
+  
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.slightly_impressive_library_room.label>трохи дивовижна бібліотека</VBE_JoyActivityInImpressiveLibraryRoom.stages.slightly_impressive_library_room.label>
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.slightly_impressive_library_room.description>Я непогано пров{PAWN_gender ? ів : ела} час в пристойній бібліотеці.</VBE_JoyActivityInImpressiveLibraryRoom.stages.slightly_impressive_library_room.description>
+  
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.somewhat_impressive_library_room.label>дещо дивовижна бібліотека</VBE_JoyActivityInImpressiveLibraryRoom.stages.somewhat_impressive_library_room.label>
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.somewhat_impressive_library_room.description>Я чудово пров{PAWN_gender ? ів : ела} час у вражаючій бібліотеці.</VBE_JoyActivityInImpressiveLibraryRoom.stages.somewhat_impressive_library_room.description>
+  
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.very_impressive_library_room.label>дуже дивовижна бібліотека</VBE_JoyActivityInImpressiveLibraryRoom.stages.very_impressive_library_room.label>
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.very_impressive_library_room.description>Я чудово пров{PAWN_gender ? ів : ела} час у дуже вражаючій бібліотеці.</VBE_JoyActivityInImpressiveLibraryRoom.stages.very_impressive_library_room.description>
+  
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.extremely_impressive_library_room.label>надзвичайно дивовижна бібліотека</VBE_JoyActivityInImpressiveLibraryRoom.stages.extremely_impressive_library_room.label>
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.extremely_impressive_library_room.description>Я чудово пров{PAWN_gender ? ів : ела} час у надзвичайно вражаючій бібліотеці. Я {PAWN_gender ? міг : могла} би залишитися там назавжди.</VBE_JoyActivityInImpressiveLibraryRoom.stages.extremely_impressive_library_room.description>
+  
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.unbelievably_impressive_library_room.label>неймовірно дивовижна бібліотека</VBE_JoyActivityInImpressiveLibraryRoom.stages.unbelievably_impressive_library_room.label>
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.unbelievably_impressive_library_room.description>Я чудово пров{PAWN_gender ? ів : ела} час у неймовірно вражаючій бібліотеці. Я {PAWN_gender ? міг : могла} би залишитися там назавжди.</VBE_JoyActivityInImpressiveLibraryRoom.stages.unbelievably_impressive_library_room.description>
+  
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.wondrously_impressive_library_room.label>надзвичайно дивовижна бібліотека</VBE_JoyActivityInImpressiveLibraryRoom.stages.wondrously_impressive_library_room.label>
+  <VBE_JoyActivityInImpressiveLibraryRoom.stages.wondrously_impressive_library_room.description>Я чудово пров{PAWN_gender ? ів : ела} час у надзвичайно дивовижній бібліотеці. Я {PAWN_gender ? міг : могла} би залишитися там назавжди.</VBE_JoyActivityInImpressiveLibraryRoom.stages.wondrously_impressive_library_room.description>
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_SkyBurialOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_SkyBurialOutcome.description>
+  <AM_SkyBurialOutcome.outcomeChances.0.label>Жахливо</AM_SkyBurialOutcome.outcomeChances.0.label>
+  <AM_SkyBurialOutcome.outcomeChances.0.description> {0} пройшло жахливо The speech was boring and it was disrespectful of their legacy.</AM_SkyBurialOutcome.outcomeChances.0.description>
+  <AM_SkyBurialOutcome.outcomeChances.1.label>Нудно</AM_SkyBurialOutcome.outcomeChances.1.label>
+  <AM_SkyBurialOutcome.outcomeChances.1.description> {0} пройшло нудно The speech was long-winded and did not honour them.</AM_SkyBurialOutcome.outcomeChances.1.description>
+  <AM_SkyBurialOutcome.outcomeChances.2.label>Добре</AM_SkyBurialOutcome.outcomeChances.2.label>
+  <AM_SkyBurialOutcome.outcomeChances.2.description> {0} пройшло Добре The speaker's final words provided a path for everyone to move on.</AM_SkyBurialOutcome.outcomeChances.2.description>
+  <AM_SkyBurialOutcome.outcomeChances.3.label>Неймовірно</AM_SkyBurialOutcome.outcomeChances.3.label>
+  <AM_SkyBurialOutcome.outcomeChances.3.description> {0} пройшло неймовірно The speech was captivating and heartfelt, and everyone came away focused on good memories.</AM_SkyBurialOutcome.outcomeChances.3.description>
+  <AM_SkyBurialOutcome.comps.0.label>присутній моральний наставник</AM_SkyBurialOutcome.comps.0.label>
+  <AM_SkyBurialOutcome.comps.1.label>кількість учасників</AM_SkyBurialOutcome.comps.1.label>
+  <AM_SkyBurialOutcome.comps.2.label>artifical buildings</AM_SkyBurialOutcome.comps.2.label>
+
+
+</LanguageData>

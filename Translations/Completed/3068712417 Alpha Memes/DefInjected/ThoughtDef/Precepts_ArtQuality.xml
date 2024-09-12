@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_ArtQuality_Expected.stages.0.label>жахливе мистецтво</AM_ArtQuality_Expected.stages.0.label>
+  <AM_ArtQuality_Expected.stages.0.description>Кажуть, що мистецтво не є марним, доки воно викликає якусь емоційну реакцію. Проблема починається тоді, коли цією реакцією стає відраза...</AM_ArtQuality_Expected.stages.0.description>
+  <AM_ArtQuality_Expected.stages.1.label>погане мистецтво</AM_ArtQuality_Expected.stages.1.label>
+  <AM_ArtQuality_Expected.stages.1.description>Не буду брехати... це мистецтво зроблено ДУЖЕ погано.</AM_ArtQuality_Expected.stages.1.description>
+  <AM_ArtQuality_Expected.stages.2.label>нормальне мистецтво</AM_ArtQuality_Expected.stages.2.label>
+  <AM_ArtQuality_Expected.stages.2.description>У колонії є кілька значущих творів мистецтва.</AM_ArtQuality_Expected.stages.2.description>
+  <AM_ArtQuality_Expected.stages.3.label>гарне мистецтво</AM_ArtQuality_Expected.stages.3.label>
+  <AM_ArtQuality_Expected.stages.3.description>У цій колонії є твори мистецтва дуже високої якості, я вражений.</AM_ArtQuality_Expected.stages.3.description>
+  <AM_ArtQuality_Expected.stages.4.label>чудове мистецтво</AM_ArtQuality_Expected.stages.4.label>
+  <AM_ArtQuality_Expected.stages.4.description>Ого! Деякі з творів мистецтва в цій колонії є неймовірними зразками витонченого мистецтва! Дивовижно!</AM_ArtQuality_Expected.stages.4.description>
+  <AM_ArtQuality_Expected.stages.5.label>шедевральне мистецтво</AM_ArtQuality_Expected.stages.5.label>
+  <AM_ArtQuality_Expected.stages.5.description>Деякі з цих творів мистецтва в майбутньому вважатимуться шедеврами, як славнозвісна Мона Ліза чи Давид Мікеланджело.</AM_ArtQuality_Expected.stages.5.description>
+  <AM_ArtQuality_Expected.stages.6.label>легендарне мистецтво</AM_ArtQuality_Expected.stages.6.label>
+  <AM_ArtQuality_Expected.stages.6.description>Наша колонія відома на весь світ своєю неймовірною колекцією образотворчого мистецтва. Жоден музей старої Землі не зрівняється з нею.</AM_ArtQuality_Expected.stages.6.description>
+
+
+</LanguageData>

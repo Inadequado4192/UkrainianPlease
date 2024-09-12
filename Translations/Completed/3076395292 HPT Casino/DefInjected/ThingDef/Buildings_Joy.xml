@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HC_SlotMachineRed.label>Рім Рілс</HC_SlotMachineRed.label>
+  <HC_SlotMachineRed.description>Класичні слоти, стандартна ставка всього 2$, ідеально підходить для новачків.</HC_SlotMachineRed.description>
+  <HC_SlotMachineRed_Blueprint.label>Рім Рілс (креслення)</HC_SlotMachineRed_Blueprint.label>
+  <HC_SlotMachineRed_Blueprint_Install.label>Рім Рілс (креслення)</HC_SlotMachineRed_Blueprint_Install.label>
+  <HC_SlotMachineRed_Frame.label>Рім Рілс (будується)</HC_SlotMachineRed_Frame.label>
+  <HC_SlotMachineRed_Frame.description>Класичні слоти, стандартна ставка всього 2$, ідеально підходить для новачків.</HC_SlotMachineRed_Frame.description>
+
+  <HC_SlotMachineGreen.label>Ріма Муула</HC_SlotMachineGreen.label>
+  <HC_SlotMachineGreen.description>Середні за ціною слоти, стандартна ставка - 4$.</HC_SlotMachineGreen.description>
+  <HC_SlotMachineGreen_Blueprint.label>Ріма Муула (креслення)</HC_SlotMachineGreen_Blueprint.label>
+  <HC_SlotMachineGreen_Blueprint_Install.label>Ріма Муула (креслення)</HC_SlotMachineGreen_Blueprint_Install.label>
+  <HC_SlotMachineGreen_Frame.label>Ріма Муула (будується)</HC_SlotMachineGreen_Frame.label>
+  <HC_SlotMachineGreen_Frame.description>Середні за ціною слоти, стандартна ставка - 4$.</HC_SlotMachineGreen_Frame.description>
+
+  <HC_SlotMachineBlue.label>Рім фортуни</HC_SlotMachineBlue.label>
+  <HC_SlotMachineBlue.description>Слоти з високими ставками, стандартна ставка - 6$.</HC_SlotMachineBlue.description>
+  <HC_SlotMachineBlue_Blueprint.label>Рім фортуни (креслення)</HC_SlotMachineBlue_Blueprint.label>
+  <HC_SlotMachineBlue_Blueprint_Install.label>Рім фортуни (креслення)</HC_SlotMachineBlue_Blueprint_Install.label>
+  <HC_SlotMachineBlue_Frame.label>Рім фортуни (будується)</HC_SlotMachineBlue_Frame.label>
+  <HC_SlotMachineBlue_Frame.description>Слоти з високими ставками, стандартна ставка - 6$.</HC_SlotMachineBlue_Frame.description>
+
+
+</LanguageData>

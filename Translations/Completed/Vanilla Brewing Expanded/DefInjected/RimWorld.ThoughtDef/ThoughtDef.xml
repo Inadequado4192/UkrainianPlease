@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Brewed awakening-->
+  <VBE_HotCoffeeHigh.stages.Brewed_awakening.label>Гаряче пробудження</VBE_HotCoffeeHigh.stages.Brewed_awakening.label>
+  <!--That coffee hit the spot, now let’s get some work done.-->
+  <VBE_HotCoffeeHigh.stages.Brewed_awakening.description>Та кава подарувала саме те, чого мені не вистачало. А тепер давайте попрацюємо.</VBE_HotCoffeeHigh.stages.Brewed_awakening.description>
+  
+  <!--Icy awakening-->
+  <VBE_IcedCoffeeHigh.stages.Icy_awakening.label>Крижане пробудження</VBE_IcedCoffeeHigh.stages.Icy_awakening.label>
+  <!--Nothing better than iced coffee to refresh yourself.-->
+  <VBE_IcedCoffeeHigh.stages.Icy_awakening.description>Немає нічого кращого, ніж холодна кава, щоб освіжитися.</VBE_IcedCoffeeHigh.stages.Icy_awakening.description>
+  
+  <!--caffeine withdrawal-->
+  <VBE_CaffeineWithdrawal.stages.caffeine_withdrawal.label>синдром відміни кофеїну</VBE_CaffeineWithdrawal.stages.caffeine_withdrawal.label>
+  <!--God I'm tired. Everything's so annoying, my hands are shaking and my head is pounding.-->
+  <VBE_CaffeineWithdrawal.stages.caffeine_withdrawal.description>Боже, як я втоми{PAWN_gender ? в : ла}ся. Все так дратує, руки тремтять, голова стукає.</VBE_CaffeineWithdrawal.stages.caffeine_withdrawal.description>
+  
+  <!--I feel like I’ve been given wings!-->
+  <VBE_EnergyDrinkHigh.stages.I_feel_like_Ive_been_given_wings.label>Я відчуваю, наче у мене з'явилися крила!</VBE_EnergyDrinkHigh.stages.I_feel_like_Ive_been_given_wings.label>
+  <!--Oof, that energy drink has me bouncing off the walls!-->
+  <VBE_EnergyDrinkHigh.stages.I_feel_like_Ive_been_given_wings.description>Цей енергетик наче подарував мені крила!</VBE_EnergyDrinkHigh.stages.I_feel_like_Ive_been_given_wings.description>
+  
+  <!--smooth and mild-->
+  <VBE_TobaccoHigh.stages.smooth_and_mild.label>м'яко та легко</VBE_TobaccoHigh.stages.smooth_and_mild.label>
+  <!--That cigarette was just what I needed, such a smooth flavor.-->
+  <VBE_TobaccoHigh.stages.smooth_and_mild.description>Ця сигарета була саме тим, що мені було потрібно, такий м'який смак.</VBE_TobaccoHigh.stages.smooth_and_mild.description>
+  
+  <!--puffing on luxury-->
+  <VBE_DeluxeTobaccoHigh.stages.puffing_on_luxury.label>розкішно покури{PAWN_gender ? в : ла}</VBE_DeluxeTobaccoHigh.stages.puffing_on_luxury.label>
+  <!--A cigar makes me feel like I’ve made it big in life.-->
+  <VBE_DeluxeTobaccoHigh.stages.puffing_on_luxury.description>Сигара дає мені відчуття, що я чогось {PAWN_gender ? досяг : досягла} у житті.</VBE_DeluxeTobaccoHigh.stages.puffing_on_luxury.description>
+  
+  <!--tobacco withdrawal-->
+  <VBE_TobaccoWithdrawal.stages.tobacco_withdrawal.label>синдром відміни нікотину</VBE_TobaccoWithdrawal.stages.tobacco_withdrawal.label>
+  <!--I really wish I could smoke. I'd kill for a cigarette.-->
+  <VBE_TobaccoWithdrawal.stages.tobacco_withdrawal.description>Дуже хочеться покурити. Я б уби{PAWN_gender ? в : ла} за цигарку.</VBE_TobaccoWithdrawal.stages.tobacco_withdrawal.description>
+  
+  <!--Sugar rushed-->
+  <VBE_DrankSoda.stages.Sugar_rushed.label>Вибух цукру</VBE_DrankSoda.stages.Sugar_rushed.label>
+  <!--I drank a sweet, fizzy soda, a small but welcomed luxury.-->
+  <VBE_DrankSoda.stages.Sugar_rushed.description>Я випи{PAWN_gender ? в : ла} солодкої газованки – маленька, але приємна розкіш.</VBE_DrankSoda.stages.Sugar_rushed.description>
+  
+  <!--Fancied a cuppa-->
+  <VBE_DrankTea.stages.Fancied_a_cuppa.label>Непоганий чай</VBE_DrankTea.stages.Fancied_a_cuppa.label>
+  <!--A delightfully simple cup of tea really brightens the day.-->
+  <VBE_DrankTea.stages.Fancied_a_cuppa.description>Чудова чашка чаю дійсно прикрашає день.</VBE_DrankTea.stages.Fancied_a_cuppa.description>
+  
+  <!--Drank tequila-based cocktail-->
+  <VBE_TequilaAsIngredient.stages.Drank_tequilabased_cocktail.label>Випи{PAWN_gender ? в : ла} коктейль на основі текіли</VBE_TequilaAsIngredient.stages.Drank_tequilabased_cocktail.label>
+  <!--Yummy.-->
+  <VBE_TequilaAsIngredient.stages.Drank_tequilabased_cocktail.description>Нямка.</VBE_TequilaAsIngredient.stages.Drank_tequilabased_cocktail.description>
+  
+  <!--Drank whiskey-based cocktail-->
+  <VBE_WhiskeyAsIngredient.stages.Drank_whiskeybased_cocktail.label>Випи{PAWN_gender ? в : ла} коктейль на основі віскі</VBE_WhiskeyAsIngredient.stages.Drank_whiskeybased_cocktail.label>
+  <!--Yummy.-->
+  <VBE_WhiskeyAsIngredient.stages.Drank_whiskeybased_cocktail.description>Нямка.</VBE_WhiskeyAsIngredient.stages.Drank_whiskeybased_cocktail.description>
+  
+  <!--Drank vodka-based cocktail-->
+  <VBE_VodkaAsIngredient.stages.Drank_vodkabased_cocktail.label>Випи{PAWN_gender ? в : ла} коктейль на основі горілки</VBE_VodkaAsIngredient.stages.Drank_vodkabased_cocktail.label>
+  <!--Yummy.-->
+  <VBE_VodkaAsIngredient.stages.Drank_vodkabased_cocktail.description>Нямка.</VBE_VodkaAsIngredient.stages.Drank_vodkabased_cocktail.description>
+  
+  <!--Drank gin-based cocktail-->
+  <VBE_GinAsIngredient.stages.Drank_ginbased_cocktail.label>Випи{PAWN_gender ? в : ла} коктейль на основі джину</VBE_GinAsIngredient.stages.Drank_ginbased_cocktail.label>
+  <!--Yummy.-->
+  <VBE_GinAsIngredient.stages.Drank_ginbased_cocktail.description>Нямка.</VBE_GinAsIngredient.stages.Drank_ginbased_cocktail.description>
+  
+  <!--Drank ambrandy-based cocktail-->
+  <VBE_AmbrandyAsIngredient.stages.Drank_ambrandybased_cocktail.label>Випи{PAWN_gender ? в : ла} коктейль на основі амбренді</VBE_AmbrandyAsIngredient.stages.Drank_ambrandybased_cocktail.label>
+  <!--Yummy.-->
+  <VBE_AmbrandyAsIngredient.stages.Drank_ambrandybased_cocktail.description>Нямка.</VBE_AmbrandyAsIngredient.stages.Drank_ambrandybased_cocktail.description>
+  
+  <!--Drank mead-based cocktail-->
+  <VBE_RBMeadAsIngredient.stages.Drank_meadbased_cocktail.label>Випи{PAWN_gender ? в : ла} коктейль на основі медовухи</VBE_RBMeadAsIngredient.stages.Drank_meadbased_cocktail.label>
+  <!--Yummy.-->
+  <VBE_RBMeadAsIngredient.stages.Drank_meadbased_cocktail.description>Нямка.</VBE_RBMeadAsIngredient.stages.Drank_meadbased_cocktail.description>
+  
+  <!--Drank wine-based cocktail-->
+  <VBE_WineAsIngredient.stages.Drank_winebased_cocktail.label>Випи{PAWN_gender ? в : ла} коктейль на основі вина</VBE_WineAsIngredient.stages.Drank_winebased_cocktail.label>
+  <!--Yummy.-->
+  <VBE_WineAsIngredient.stages.Drank_winebased_cocktail.description>Нямка.</VBE_WineAsIngredient.stages.Drank_winebased_cocktail.description>
+  
+  <!--Consumed luciferium powder-->
+  <VBE_ConsumedLuciferiumPowder.stages.Consumed_luciferium_powder.label>Вжи{PAWN_gender ? в : ла} порошок люциферію</VBE_ConsumedLuciferiumPowder.stages.Consumed_luciferium_powder.label>
+  <!--Yummy.-->
+  <VBE_ConsumedLuciferiumPowder.stages.Consumed_luciferium_powder.description>Нямка.</VBE_ConsumedLuciferiumPowder.stages.Consumed_luciferium_powder.description>
+  
+  <!--Consumed go-juice stock-->
+  <VBE_ConsumedGoStock.stages.Consumed_gojuice_stock.label>Вжи{PAWN_gender ? в : ла} кубик го-соку</VBE_ConsumedGoStock.stages.Consumed_gojuice_stock.label>
+  <!--Yummy.-->
+  <VBE_ConsumedGoStock.stages.Consumed_gojuice_stock.description>Нямка.</VBE_ConsumedGoStock.stages.Consumed_gojuice_stock.description>
+  
+  <!--Consumed wake-up powder-->
+  <VBE_ConsumedWakeupPowder.stages.Consumed_wakeup_powder.label>Вжи{PAWN_gender ? в : ла} порошок бадьорину</VBE_ConsumedWakeupPowder.stages.Consumed_wakeup_powder.label>
+  <!--Yummy.-->
+  <VBE_ConsumedWakeupPowder.stages.Consumed_wakeup_powder.description>Нямка.</VBE_ConsumedWakeupPowder.stages.Consumed_wakeup_powder.description>
+</LanguageData>

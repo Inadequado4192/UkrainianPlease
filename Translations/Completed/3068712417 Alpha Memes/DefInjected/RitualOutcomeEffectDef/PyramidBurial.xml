@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_PyramidBurialOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_PyramidBurialOutcome.description>
+  <AM_PyramidBurialOutcome.outcomeChances.0.label>Жахливо</AM_PyramidBurialOutcome.outcomeChances.0.label>
+  <AM_PyramidBurialOutcome.outcomeChances.0.description> {0} пройшло жахливо The speech was boring and the entombing was very sloppy. This horrible experience will forever affect our opinion of this pyramid.</AM_PyramidBurialOutcome.outcomeChances.0.description>
+  <AM_PyramidBurialOutcome.outcomeChances.1.label>Нудно</AM_PyramidBurialOutcome.outcomeChances.1.label>
+  <AM_PyramidBurialOutcome.outcomeChances.1.description> {0} пройшло нудно The speech was long-winded and did not honour them.</AM_PyramidBurialOutcome.outcomeChances.1.description>
+  <AM_PyramidBurialOutcome.outcomeChances.2.label>Добре</AM_PyramidBurialOutcome.outcomeChances.2.label>
+  <AM_PyramidBurialOutcome.outcomeChances.2.description> {0} пройшло Добре The speaker's final words provided a path for everyone to move on.</AM_PyramidBurialOutcome.outcomeChances.2.description>
+  <AM_PyramidBurialOutcome.outcomeChances.3.label>Неймовірно</AM_PyramidBurialOutcome.outcomeChances.3.label>
+  <AM_PyramidBurialOutcome.outcomeChances.3.description> {0} пройшло неймовірно The speech was captivating and heartfelt, and everyone came away focused on good memories. This pyramid will forever be part of our people's history.</AM_PyramidBurialOutcome.outcomeChances.3.description>
+  <AM_PyramidBurialOutcome.comps.0.label>присутній моральний наставник</AM_PyramidBurialOutcome.comps.0.label>
+  <AM_PyramidBurialOutcome.comps.1.label>кількість учасників</AM_PyramidBurialOutcome.comps.1.label>
+
+
+</LanguageData>

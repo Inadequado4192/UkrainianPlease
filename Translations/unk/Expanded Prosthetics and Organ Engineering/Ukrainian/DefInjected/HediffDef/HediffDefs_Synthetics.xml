@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AIChip.label>Чіп ШІ</AIChip.label>
+	<SyntheticStomach.label>Синтетичний шлунок</SyntheticStomach.label>
+	<SyntheticLung.label>Синтетичне легеня</SyntheticLung.label>
+	<SyntheticLiver.label>Синтетична печінка</SyntheticLiver.label>
+	<SyntheticKidney.label>Синтетична нирка</SyntheticKidney.label>
+	<SyntheticHeart.label>Штучне серце</SyntheticHeart.label>
+	
+</LanguageData>

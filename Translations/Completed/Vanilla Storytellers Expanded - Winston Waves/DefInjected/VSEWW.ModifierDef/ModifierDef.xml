@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Double trouble-->
+  <VSEWW_DoubleTrouble.label>Подвійні проблеми</VSEWW_DoubleTrouble.label>
+  <!--Raid size in points is doubled-->
+  <VSEWW_DoubleTrouble.description>Розмір рейдів збільшено вдвічі</VSEWW_DoubleTrouble.description>
+  
+  <!--Bullet sponges-->
+  <VSEWW_BulletSponges.label>"Губки" для куль</VSEWW_BulletSponges.label>
+  <!--Health of the enemies is doubled-->
+  <VSEWW_BulletSponges.description>Здоров'я ворогів подвоюється</VSEWW_BulletSponges.description>
+  
+  <!--Sprinters-->
+  <VSEWW_Sprinters.label>Спринтери</VSEWW_Sprinters.label>
+  <!--Movement speed of all the enemies is doubled-->
+  <VSEWW_Sprinters.description>Швидкість пересування всіх ворогів подвоюється</VSEWW_Sprinters.description>
+  
+  <!--Veterans-->
+  <VSEWW_Veterans.label>Ветерани</VSEWW_Veterans.label>
+  <!--All stats of the enemies (Manipulation, sight etc) is multiplied by x1.5-->
+  <VSEWW_Veterans.description>Усі показники ворогів (маніпуляція, прицілювання тощо) множаться на х1.5</VSEWW_Veterans.description>
+  
+  <!--Boom!-->
+  <VSEWW_Boom.label>Бум!</VSEWW_Boom.label>
+  <!--All enemies explode when killed-->
+  <VSEWW_Boom.description>Всі вороги вибухають після вбивства</VSEWW_Boom.description>
+  
+  <!--Reinforcements-->
+  <VSEWW_Reinforcements.label>Підкріплення</VSEWW_Reinforcements.label>
+  <!--Enemies receive reinforcements from the same faction, worth 50% of the initial wave size, after about 20% of the raid size is defeated-->
+  <VSEWW_Reinforcements.description>Вороги отримують підкріплення з тієї ж фракції на 50% від початкового розміру хвилі, після того, як буде розгромлено приблизно 20% рейду</VSEWW_Reinforcements.description>
+  
+  <!--Orbital bombardment-->
+  <VSEWW_OrbitalBombardment.label>Орбітальне бомбардування</VSEWW_OrbitalBombardment.label>
+  <!--During the wave, orbital bombardment falls on the entire map-->
+  <VSEWW_OrbitalBombardment.description>Під час хвилі вся мапа потрапляє під орбітальне бомбардування</VSEWW_OrbitalBombardment.description>
+  
+  <!--Flashstorm-->
+  <VSEWW_Flashstorm.label>Гроза</VSEWW_Flashstorm.label>
+  <!--During the wave, flashstorm is present on the map and rain won’t trigger to extinguish the flames-->
+  <VSEWW_Flashstorm.description>Під час хвилі на карті присутня гроза, і дощ не буде гасити полум'я</VSEWW_Flashstorm.description>
+  
+  <!--Ninjas-->
+  <VSEWW_Ninjas.label>Ніндзя</VSEWW_Ninjas.label>
+  <!--All enemies are invisible for the first 30 seconds-->
+  <VSEWW_Ninjas.description>Усі вороги невидимі протягом перших 30 секунд</VSEWW_Ninjas.description>
+  
+  <!--Bulletproof-->
+  <VSEWW_Bulletproof.label>Кулестійкість</VSEWW_Bulletproof.label>
+  <!--All enemies have their natural armor increased by 50%-->
+  <VSEWW_Bulletproof.description>Природна броня всіх ворогів збільшується на 50%</VSEWW_Bulletproof.description>
+  
+  <!--No Pain No Gain-->
+  <VSEWW_NoPainNoGain.label>Нема Болю Нема Зиску</VSEWW_NoPainNoGain.label>
+  <!--All enemies don’t feel pain-->
+  <VSEWW_NoPainNoGain.description>Усі вороги не відчувають болю</VSEWW_NoPainNoGain.description>
+  
+  <!--No retreat!-->
+  <VSEWW_NoRetreat.label>Не відступати!</VSEWW_NoRetreat.label>
+  <!--Enemies will not retreat-->
+  <VSEWW_NoRetreat.description>Вороги не відступатимуть</VSEWW_NoRetreat.description>
+  
+  <!--Acidifiers for everyone!-->
+  <VSEWW_AcidifiersForEveryone.label>Окислювачі для всіх!</VSEWW_AcidifiersForEveryone.label>
+  <!--All enemies have death acidifiers-->
+  <VSEWW_AcidifiersForEveryone.description>У всіх ворогів є смертельний окислювачі</VSEWW_AcidifiersForEveryone.description>
+  
+  <!--Body modders-->
+  <VSEWW_BodyModder.label>Кіборги</VSEWW_BodyModder.label>
+  <!--All enemies use bionics part. Lower raid size in points.-->
+  <VSEWW_BodyModder.description>Усі вороги використовують біоніку. Розмір рейду зменшено.</VSEWW_BodyModder.description>
+  
+  <!--Snipers for everyone!-->
+  <VSEWW_SniperForEveryone.label>Снайпери для всіх!</VSEWW_SniperForEveryone.label>
+  <!--All enemies get a sniper.-->
+  <VSEWW_SniperForEveryone.description>Усі вороги отримують снайпера.</VSEWW_SniperForEveryone.description>
+  
+  <!--Melee only!-->
+  <VSEWW_OnlyMelee.label>Бійцівський клуб!</VSEWW_OnlyMelee.label>
+  <!--All pawns get a melee weapon and a shield belt.-->
+  <VSEWW_OnlyMelee.description>Всі отримують зброю ближнього бою та пояс-щит.</VSEWW_OnlyMelee.description>
+  
+  <!--Charge weapons for everyone!-->
+  <VSEWW_ChargeForEveryone.label>Енергетична зброя для всіх!</VSEWW_ChargeForEveryone.label>
+  <!--All enemies have a charge weapon.-->
+  <VSEWW_ChargeForEveryone.description>Усі вороги мають енергетичну зброю.</VSEWW_ChargeForEveryone.description>
+  
+  <!--Strategic approach-->
+  <VSEWW_StrategicApproach.label>Стратегічний підхід</VSEWW_StrategicApproach.label>
+  <!--Enemies use a combination of : grenades, rocket launcher and sniper. Wave raid point is multiplied by 0.7.-->
+  <VSEWW_StrategicApproach.description>Вороги використовують комбінацію: гранати, гранатомет і снайпер. Розмір рейду множиться на 0.7.</VSEWW_StrategicApproach.description>
+  
+  <!--Meteor storm-->
+  <VSEWW_MeteorStorm.label>Метеоритний дощ</VSEWW_MeteorStorm.label>
+  <!--During the wave, meteors fall on the map.-->
+  <VSEWW_MeteorStorm.description>Під час хвилі на карті падатимуть метеорити.</VSEWW_MeteorStorm.description>
+  
+  <!--Mystery-->
+  <VSEWW_Mystery.label>Інтрига</VSEWW_Mystery.label>
+  <!--A random modifier has been applied. You will discover it soon enough.-->
+  <VSEWW_Mystery.description>Було застосовано випадковий модифікатор. Ви дізнаєтесь про нього досить скоро.</VSEWW_Mystery.description>
+  
+  <!--Big Bosses-->
+  <VSEWW_BigBosses.label>Великі Боси</VSEWW_BigBosses.label>
+  <!--All enemies are mercenaries. Wave raid point is divided by two.-->
+  <VSEWW_BigBosses.description>Усі вороги – найманці. Точка нальоту хвилі ділиться на дві.</VSEWW_BigBosses.description>
+</LanguageData>

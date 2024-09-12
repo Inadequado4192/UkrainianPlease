@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+ <VEF_XenophobicRage.label>ксенофобська лють</VEF_XenophobicRage.label>
+ <VEF_XenophobicRage.baseInspectLine>Психічний стан: Ксенофобська лють</VEF_XenophobicRage.baseInspectLine>
+ <VEF_XenophobicRage.beginLetter>{0} впадає в ксенофобську лють.\n\n [PAWN_pronoun] прагне вбити {1}.</VEF_XenophobicRage.beginLetter>
+ <VEF_XenophobicRage.recoveryMessage>{0} більше не перебуває в ксенофобській люті.</VEF_XenophobicRage.recoveryMessage>
+</LanguageData>

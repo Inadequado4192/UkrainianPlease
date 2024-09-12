@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Books Expanded</name>
+        <id>2193152410</id>
+        <packageId>vanillaexpanded.vbookse</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3111068044</sourceTranslationId>
+    <lastUpdate>2023-12-10T23:22:03.000Z</lastUpdate>
+</TranslationDetails>

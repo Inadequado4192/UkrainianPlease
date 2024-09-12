@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--  Чорноногий тхір  -->
+  <!--black-footed ferret-->
+  <AEXP_BlackFootedFerret.label>чорноногий тхір</AEXP_BlackFootedFerret.label>
+  <AEXP_BlackFootedFerret.labelFemale>чорнонога тхориха</AEXP_BlackFootedFerret.labelFemale>
+  <AEXP_BlackFootedFerret.labelMale>чорноногий тхір</AEXP_BlackFootedFerret.labelMale>
+  <AEXP_BlackFootedFerret.labelPlural>чорноногі тхори</AEXP_BlackFootedFerret.labelPlural>
+  
+  <AEXP_BlackFootedFerret.lifeStages.0.label>щеня чорноногого тхора</AEXP_BlackFootedFerret.lifeStages.0.label>
+  <AEXP_BlackFootedFerret.lifeStages.0.labelPlural>щенята чорноногого тхора</AEXP_BlackFootedFerret.lifeStages.0.labelPlural>
+  
+  <AEXP_BlackFootedFerret.lifeStages.1.labelFemale>молода чорнонога тхориха</AEXP_BlackFootedFerret.lifeStages.1.labelFemale>
+  <AEXP_BlackFootedFerret.lifeStages.1.labelMale>молодий чорноногий тхір</AEXP_BlackFootedFerret.lifeStages.1.labelMale>
+  <AEXP_BlackFootedFerret.lifeStages.1.labelPlural>молоді чорноногі тхори</AEXP_BlackFootedFerret.lifeStages.1.labelPlural>
+  
+  <!--  Чорний носоріг  -->
+  <!--black rhinoceros-->
+  <AEXP_BlackRhino.label>чорний носоріг</AEXP_BlackRhino.label>
+  <!--black rhinoceroses-->
+  <AEXP_BlackRhino.labelPlural>чорні носороги</AEXP_BlackRhino.labelPlural>
+  
+  <AEXP_BlackRhino.lifeStages.0.label>теля чорного носорога</AEXP_BlackRhino.lifeStages.0.label>
+  <AEXP_BlackRhino.lifeStages.0.labelPlural>телята чорного носорога</AEXP_BlackRhino.lifeStages.0.labelPlural>
+  
+  <AEXP_BlackRhino.lifeStages.1.label>молодий чорний носоріг</AEXP_BlackRhino.lifeStages.1.label>
+  <AEXP_BlackRhino.lifeStages.1.labelPlural>молоді чорні носороги</AEXP_BlackRhino.lifeStages.1.labelPlural>
+  
+  <!--  Бонобо  -->
+  <!--bonobo-->
+  <AEXP_Bonobo.label>бонобо</AEXP_Bonobo.label>
+  <AEXP_Bonobo.labelPlural>бонобо</AEXP_Bonobo.labelPlural>
+  
+  <AEXP_Bonobo.lifeStages.0.label>дитинча бонобо</AEXP_Bonobo.lifeStages.0.label>
+  <AEXP_Bonobo.lifeStages.0.labelPlural>дитинчата бонобо</AEXP_Bonobo.lifeStages.0.labelPlural>
+  
+  <AEXP_Bonobo.lifeStages.1.label>молодий бонобо</AEXP_Bonobo.lifeStages.1.label>
+  <AEXP_Bonobo.lifeStages.1.labelPlural>молоді бонобо</AEXP_Bonobo.lifeStages.1.labelPlural>
+  
+  <!--  Моа  -->
+  <!--moa-->
+  <AEXP_Moa.label>моа</AEXP_Moa.label>
+  <AEXP_Moa.labelPlural>моа</AEXP_Moa.labelPlural>
+  
+  <AEXP_Moa.lifeStages.0.label>пташеня моа</AEXP_Moa.lifeStages.0.label>
+  <AEXP_Moa.lifeStages.0.labelPlural>пташенята моа</AEXP_Moa.lifeStages.0.labelPlural>
+  
+  <AEXP_Moa.lifeStages.1.label>молодий моа</AEXP_Moa.lifeStages.1.label>
+  <AEXP_Moa.lifeStages.1.labelPlural>молоді моа</AEXP_Moa.lifeStages.1.labelPlural>
+  
+  <!--  Велика панда  -->
+  <!--giant panda-->
+  <AEXP_Panda.label>велика панда</AEXP_Panda.label>
+  <AEXP_Panda.labelPlural>великі панди</AEXP_Panda.labelPlural>
+  
+  <AEXP_Panda.lifeStages.0.label>велике панденя</AEXP_Panda.lifeStages.0.label>
+  <AEXP_Panda.lifeStages.0.labelPlural>великі панденята</AEXP_Panda.lifeStages.0.labelPlural>
+  
+  <AEXP_Panda.lifeStages.1.label>молода велика панда</AEXP_Panda.lifeStages.1.label>
+  <AEXP_Panda.lifeStages.1.labelPlural>молоді великі панди</AEXP_Panda.lifeStages.1.labelPlural>
+  
+  <!--  Квага  -->
+  <!--quagga-->
+  <AEXP_Quagga.label>квага</AEXP_Quagga.label>
+  <AEXP_Quagga.labelPlural>кваги</AEXP_Quagga.labelPlural>
+  
+  <!--quagga foal-->
+  <AEXP_Quagga.lifeStages.quagga_foal.label>лоша кваги</AEXP_Quagga.lifeStages.quagga_foal.label>
+  <!--quagga foals-->
+  <AEXP_Quagga.lifeStages.quagga_foal.labelPlural>лошата кваги</AEXP_Quagga.lifeStages.quagga_foal.labelPlural>
+  
+  <AEXP_Quagga.lifeStages.1.label>молода квага</AEXP_Quagga.lifeStages.1.label>
+  <AEXP_Quagga.lifeStages.1.labelPlural>молоді кваги</AEXP_Quagga.lifeStages.1.labelPlural>
+  
+  <!--  Чубатий пінгвін  -->
+  <!--rockhopper penguin-->
+  <AEXP_RockhopperPenguin.label>чубатий пінгвін</AEXP_RockhopperPenguin.label>
+  <AEXP_RockhopperPenguin.labelFemale>чубата пінгвіниха</AEXP_RockhopperPenguin.labelFemale>
+  <AEXP_RockhopperPenguin.labelMale>чубатий пінгвін</AEXP_RockhopperPenguin.labelMale>
+  <!--rockhopper penguin-->
+  <AEXP_RockhopperPenguin.labelPlural>чубаті пінгвіни</AEXP_RockhopperPenguin.labelPlural>
+  
+  <AEXP_RockhopperPenguin.lifeStages.0.label>чубате пінгвіненя</AEXP_RockhopperPenguin.lifeStages.0.label>
+  <AEXP_RockhopperPenguin.lifeStages.0.labelPlural>чубаті пінгвіненята</AEXP_RockhopperPenguin.lifeStages.0.labelPlural>
+  
+  <AEXP_RockhopperPenguin.lifeStages.1.labelFemale>молода чубата пінгвіниха</AEXP_RockhopperPenguin.lifeStages.1.labelFemale>
+  <AEXP_RockhopperPenguin.lifeStages.1.labelMale>молодий чубатий пінгвін</AEXP_RockhopperPenguin.lifeStages.1.labelMale>
+  <AEXP_RockhopperPenguin.lifeStages.1.labelPlural>молоді чубаті пінгвіни</AEXP_RockhopperPenguin.lifeStages.1.labelPlural>
+  
+  <!--  Тасманійський диявол  -->
+  <!--tasmanian devil-->
+  <AEXP_TasmanianDevil.label>тасманійський диявол</AEXP_TasmanianDevil.label>
+  <AEXP_TasmanianDevil.labelFemale>тасманійська дияволиця</AEXP_TasmanianDevil.labelFemale>
+  <AEXP_TasmanianDevil.labelMale>тасманійський диявол</AEXP_TasmanianDevil.labelMale>
+  <AEXP_TasmanianDevil.labelPlural>тасманійські дияволи</AEXP_TasmanianDevil.labelPlural>
+  
+  <AEXP_TasmanianDevil.lifeStages.0.label>дитинча тасманійського диявола</AEXP_TasmanianDevil.lifeStages.0.label>
+  <AEXP_TasmanianDevil.lifeStages.0.labelPlural>дитинчата тасманійського диявола</AEXP_TasmanianDevil.lifeStages.0.labelPlural>
+  
+  <AEXP_TasmanianDevil.lifeStages.1.labelFemale>молода тасманійська дияволиця</AEXP_TasmanianDevil.lifeStages.1.labelFemale>
+  <AEXP_TasmanianDevil.lifeStages.1.labelMale>молодий тасманійський диявол</AEXP_TasmanianDevil.lifeStages.1.labelMale>
+  <AEXP_TasmanianDevil.lifeStages.1.labelPlural>молоді тасманійські дияволи</AEXP_TasmanianDevil.lifeStages.1.labelPlural>
+  
+  <!--  Тилацин  -->
+  <!--thylacine-->
+  <AEXP_Thylacine.label>тилацин</AEXP_Thylacine.label>
+  <AEXP_Thylacine.labelPlural>тилацини</AEXP_Thylacine.labelPlural>
+  
+  <AEXP_Thylacine.lifeStages.0.label>дитинча тилацина</AEXP_Thylacine.lifeStages.0.label>
+  <AEXP_Thylacine.lifeStages.0.labelPlural>дитинчата тилацина</AEXP_Thylacine.lifeStages.0.labelPlural>
+  
+  <AEXP_Thylacine.lifeStages.1.label>молодий тилацин</AEXP_Thylacine.lifeStages.1.label>
+  <AEXP_Thylacine.lifeStages.1.labelPlural>молоді тилацини</AEXP_Thylacine.lifeStages.1.labelPlural>
+  
+  <!--  Африканський гієновий собака  -->
+  <!--african wild dog-->
+  <AEXP_AfricanWildDog.label>африканський гієновий собака</AEXP_AfricanWildDog.label>
+  <AEXP_AfricanWildDog.labelFemale>африканська гієнова собака</AEXP_AfricanWildDog.labelFemale>
+  <AEXP_AfricanWildDog.labelMale>африканський гієновий собака</AEXP_AfricanWildDog.labelMale>
+  <AEXP_AfricanWildDog.labelPlural>африканські гієнові собаки</AEXP_AfricanWildDog.labelPlural>
+  
+  <!--african wild dog puppy-->
+  <AEXP_AfricanWildDog.lifeStages.african_wild_dog_puppy.label>щеня африканського гієнового собаки</AEXP_AfricanWildDog.lifeStages.african_wild_dog_puppy.label>
+  <!--african wild dog puppies-->
+  <AEXP_AfricanWildDog.lifeStages.african_wild_dog_puppy.labelPlural>щенята африканського гієнового собаки</AEXP_AfricanWildDog.lifeStages.african_wild_dog_puppy.labelPlural>
+  
+  <AEXP_AfricanWildDog.lifeStages.1.labelFemale>молода африканська гієнова собака</AEXP_AfricanWildDog.lifeStages.1.labelFemale>
+  <AEXP_AfricanWildDog.lifeStages.1.labelMale>молодий африканський гієновий собака</AEXP_AfricanWildDog.lifeStages.1.labelMale>
+  <AEXP_AfricanWildDog.lifeStages.1.labelPlural>молоді африканські гієнові собаки</AEXP_AfricanWildDog.lifeStages.1.labelPlural>
+  
+  <!--  Велетенський панґолін  -->
+  <!--giant pangolin-->
+  <AEXP_Pangolin.label>велетенський панґолін</AEXP_Pangolin.label>
+  <AEXP_Pangolin.labelPlural>велетенські панґоліни</AEXP_Pangolin.labelPlural>
+  
+  <AEXP_Pangolin.lifeStages.0.label>дитинча велетенського панґоліна</AEXP_Pangolin.lifeStages.0.label>
+  <AEXP_Pangolin.lifeStages.0.labelPlural>дитинчата велетенського панґоліна</AEXP_Pangolin.lifeStages.0.labelPlural>
+  
+  <AEXP_Pangolin.lifeStages.1.label>молодий велетенський панґолін</AEXP_Pangolin.lifeStages.1.label>
+  <AEXP_Pangolin.lifeStages.1.labelPlural>молоді велетенські панґоліни</AEXP_Pangolin.lifeStages.1.labelPlural>
+</LanguageData>

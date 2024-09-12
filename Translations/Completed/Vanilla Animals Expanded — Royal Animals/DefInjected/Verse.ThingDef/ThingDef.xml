@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--swan nest-->
+  <VAERoy_SwanNest.label>лебедине гніздо</VAERoy_SwanNest.label>
+  <!--A beautiful nest of a swan.-->
+  <VAERoy_SwanNest.description>Прекрасне гніздо лебедя.</VAERoy_SwanNest.description>
+  
+  <!--crane egg (fert.)-->
+  <VAERoy_EggCraneFertilized.label>журавлине яйце (заплід.)</VAERoy_EggCraneFertilized.label>
+  <!--A fertilized crane egg. If all goes well, it should hatch into a baby crane. It can be eaten raw, but it's much better cooked.-->
+  <VAERoy_EggCraneFertilized.description>Запліднене журавлине яйце. За потрібних умов вилуплюється журавленя. Його можна їсти сирим, проте краще приготувати.</VAERoy_EggCraneFertilized.description>
+  
+  <!--peacock egg (fert.)-->
+  <VAERoy_EggPeacockFertilized.label>павичеве яйце (заплід.)</VAERoy_EggPeacockFertilized.label>
+  <!--A fertilized peacock egg. If all goes well, it should hatch into a peacock. It can be eaten raw, but it's much better cooked.-->
+  <VAERoy_EggPeacockFertilized.description>Запліднене павичеве яйце. За потрібних умов вилуплюється пташеня павича. Його можна їсти сирим, проте краще приготувати.</VAERoy_EggPeacockFertilized.description>
+  
+  <!--pheasant egg (fert.)-->
+  <VAERoy_EggPheasantFertilized.label>фазаняче яйце (заплід.)</VAERoy_EggPheasantFertilized.label>
+  <!--A fertilized pheasant egg. If all goes well, it should hatch into a peacock. It can be eaten raw, but it's much better cooked.-->
+  <VAERoy_EggPheasantFertilized.description>Запліднене фазаняче яйце. За потрібних умов вилуплюється фазаненя. Його можна їсти сирим, проте краще приготувати.</VAERoy_EggPheasantFertilized.description>
+  
+  <!--quail egg (unfert.)-->
+  <VAERoy_EggQuailUnfertilized.label>перепелине яйце (незаплід.)</VAERoy_EggQuailUnfertilized.label>
+  <!--An unfertilized quail egg. It can be eaten raw, but it's much, much better cooked.-->
+  <VAERoy_EggQuailUnfertilized.description>Незапліднене перепелине яйце. Його можна їсти сирим, проте краще приготувати.</VAERoy_EggQuailUnfertilized.description>
+  
+  <!--quail egg (fert.)-->
+  <VAERoy_EggQuailFertilized.label>перепелине яйце (заплід.)</VAERoy_EggQuailFertilized.label>
+  <!--A fertilized quail egg. If all goes well, it should hatch into a quail. It can be eaten raw, but it's much better cooked.-->
+  <VAERoy_EggQuailFertilized.description>Запліднене перепелине яйце. За потрібних умов вилуплюється пташеня перепілки. Його можна їсти сирим, проте краще приготувати.</VAERoy_EggQuailFertilized.description>
+  
+  <!--swan egg (unfert.)-->
+  <VAERoy_EggSwanUnfertilized.label>лебедине яйце (незаплід)</VAERoy_EggSwanUnfertilized.label>
+  <!--An unfertilized swan egg. It can be eaten raw, but it's much, much better cooked.-->
+  <VAERoy_EggSwanUnfertilized.description>Незапліднене лебедине яйце. Його можна їсти сирим, проте краще приготувати.</VAERoy_EggSwanUnfertilized.description>
+  
+  <!--swan egg (fert.)-->
+  <VAERoy_EggSwanFertilized.label>лебедине яйце (заплід.)</VAERoy_EggSwanFertilized.label>
+  <!--A fertilized swan egg. If all goes well, it should hatch into a baby swan. It can be eaten raw, but it's much better cooked.-->
+  <VAERoy_EggSwanFertilized.description>Запліднене лебедине яйце. За потрібних умов вилуплюється лебедя. Його можна їсти сирим, проте краще приготувати.</VAERoy_EggSwanFertilized.description>
+  
+  <!--megachicken egg (fert.)-->
+  <VAERoy_EggMegaChickenFertilized.label>яйце мегакурки (заплід.)</VAERoy_EggMegaChickenFertilized.label>
+  <!--A fertilized megachicken egg. If all goes well, it should hatch into a megachicken. It can be eaten raw, but it's much better cooked.-->
+  <VAERoy_EggMegaChickenFertilized.description>Запліднене яйце мегакурки. За потрібних умов вилуплюється мегакурча. Його можна їсти сирим, проте краще приготувати.</VAERoy_EggMegaChickenFertilized.description>
+  
+  <!--royal poultry-->
+  <VAERoy_QuailMeat.label>м'ясо королівської птиці</VAERoy_QuailMeat.label>
+  <!--Raw meat from a quail, extremely tasty. Instantly turns any simple or fine meal it’s used in into a lavish meal. It will also turn grills and bakes from Vanilla Cooking expanded into their lavish variations.-->
+  <VAERoy_QuailMeat.description>Сире м'ясо перепілки надзвичайно смачне. Миттєво перетворює будь-яку звичайну або вишукану страву, в якій воно використовується, на розкішну. Воно також перетворить страви на грилі та випічку з Vanilla Cooking у їхні розкішні варіації.</VAERoy_QuailMeat.description>
+  
+  <!--angora rabbit-->
+  <VAERoy_AngoraRabbit.label>ангорський кріль</VAERoy_AngoraRabbit.label>
+  <!--Small, domestic rabbit that has developed an ability to enhance the neural heat dissipation of anyone they bond with. Unfortunately, as a side effect, it the bonded master of the angora rabbit dies, the rabbit will also die of sadness and loss.\n\n<color=#E5E54C>Gameplay effect:</color> As long as an Angora Rabbit is bonded to a colonist, this colonist will receive a psychic connection that helps with neural heat dissipation.-->
+  <VAERoy_AngoraRabbit.description>Маленький домашній кролик, який розвинув здатність посилювати зменшення нервової напруги, з ким він пов'язаний. На жаль, як побічний ефект, якщо господар ангорського кролика помирає, кролик також помре від смутку і втрати.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Поки ангорський кролик прив'язаний до колоніста, цей колоніст отримає психічний зв'язок, який допомагає в зменшенні нервової напруги.</VAERoy_AngoraRabbit.description>
+  <!--head-->
+  <VAERoy_AngoraRabbit.tools.head.label>голова</VAERoy_AngoraRabbit.tools.head.label>
+  
+  <!--crane-->
+  <VAERoy_Crane.label>журавель</VAERoy_Crane.label>
+  <!--A large, long legged bird species, cranes are a symbol of royalty and nobility and often populate royal gardens. It is believed that people of imperial rank will appreciate having plenty of cranes around them.\n\n<color=#E5E54C>Gameplay effect:</color> If you have at least 5 cranes under your control, any pawn with a nobility rank of any kind receives a +5 mood boost.-->
+  <VAERoy_Crane.description>Великі, довгоногі птахи, журавлі є символом королівської влади і знатності і часто населяють королівські сади. Вважається, що люди імператорського рангу оцінять наявність великої кількості журавлів навколо себе.\n\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Якщо у вас під контролем є принаймні 5 журавлів, будь-який пішак з будь-яким рангом дворянства отримує +5 до настрою.</VAERoy_Crane.description>
+  <!--claws-->
+  <VAERoy_Crane.tools.claws.label>кігті</VAERoy_Crane.tools.claws.label>
+  <!--beak-->
+  <VAERoy_Crane.tools.beak.label>дзьоб</VAERoy_Crane.tools.beak.label>
+  <!--head-->
+  <VAERoy_Crane.tools.head.label>голова</VAERoy_Crane.tools.head.label>
+  
+  <!--megachicken-->
+  <VAERoy_Megachicken.label>мегакурка</VAERoy_Megachicken.label>
+  <!--The unusual royal farm bird, the megachicken is raised by spoiled royalty as a pet project. This bird simply never stops growing, and if taken care of, it can reach gargantuan sizes. Royalty is known to compare their megacocks, and usually the one with the biggest specimen wins. Those that lose often argue that it’s not about the size, it’s about what you do with it.\n\n<color=#E5E54C>Gameplay effect:</color> Megachicken have five growth stages, at 0, 3, 8, 12 and 18 years of age. Their abilities get increasingly powerful as they age.-->
+  <VAERoy_Megachicken.description>Незвичайну королівську фермерську птицю, мегакурку, вирощують розпещені члени королівської сім'ї як домашнього улюбленця. Цей птах просто ніколи не припиняє рости, і якщо про нього піклуватися, він може досягти гігантських розмірів. Відомо, що члени королівської сім'ї порівнюють своїх мегапівнів, і зазвичай перемагає той, у кого найбільший екземпляр. Ті, хто програє, часто стверджують, що справа не в розмірі, а в тому, як з ним управлятися.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Мегакурчата проходять п'ять стадій росту: у віці 0, 3, 8, 12 і 18 років. З віком їхні здібності стають дедалі потужнішими.</VAERoy_Megachicken.description>
+  <!--claws-->
+  <VAERoy_Megachicken.tools.claws.label>кігті</VAERoy_Megachicken.tools.claws.label>
+  <!--beak-->
+  <VAERoy_Megachicken.tools.beak.label>дзьоб</VAERoy_Megachicken.tools.beak.label>
+  <!--head-->
+  <VAERoy_Megachicken.tools.head.label>голова</VAERoy_Megachicken.tools.head.label>
+  
+  <!--orangutan-->
+  <VAERoy_Orangutan.label>орангутанг</VAERoy_Orangutan.label>
+  <!--A great ape invented and patented on Sophiamunda, orangutans are intelligent and can hold a normal conversation with humans. They are often used as home teachers in the Empire, educating young nobles in history, arts and correct etiquette.\n\n<color=#E5E54C>Gameplay effect:</color> When holding sophisticated conversations with humans, they boost their social recreation. Furthermore, each conversation with an orangutan gives a little bit of XP to a random skill.-->
+  <VAERoy_Orangutan.description>Гомініди, винайдені і запатентовані на Софіамунді, орангутанги розумні і можуть вести нормальну розмову з людьми. Їх часто використовують як домашніх вчителів в Імперії, навчаючи молодих дворян історії, мистецтву і правильному етикету.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Ведучи складні бесіди з людьми, вони підвищують їх соціальний відпочинок. Крім того, кожна розмова з орангутангом додає трохи ОД до випадкової навички.</VAERoy_Orangutan.description>
+  <!--primate meat-->
+  <VAERoy_Orangutan.race.meatLabel>м'ясо примата</VAERoy_Orangutan.race.meatLabel>
+  <!--left fist-->
+  <VAERoy_Orangutan.tools.left_fist.label>лівий кулак</VAERoy_Orangutan.tools.left_fist.label>
+  <!--right fist-->
+  <VAERoy_Orangutan.tools.right_fist.label>правий кулак</VAERoy_Orangutan.tools.right_fist.label>
+  <!--head-->
+  <VAERoy_Orangutan.tools.head.label>голова</VAERoy_Orangutan.tools.head.label>
+  
+  <!--peacock-->
+  <VAERoy_Peacock.label>павич</VAERoy_Peacock.label>
+  <!--Beautiful, majestic royal birds genetically altered to be able to bestow psychic energy onto people they nuzzle.\n\n<color=#E5E54C>Gameplay effect:</color> Peacocks will periodically nuzzle your colonists. This increases Psychic Sensitivity of the nuzzled person by 25% for 12 hours. This stacks up to 8 times, resulting in +200% Psychic sensitivity if nuzzled by 8 peacocks.-->
+  <VAERoy_Peacock.description>Красиві, величні королівські птахи, генетично змінені, щоб мати можливість дарувати психічну енергію людям, яких вони пестять.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Павичі будуть періодично пестити ваших колоністів. Це збільшує психічну чутливість людини, яку погладили, на 25% на 12 годин. Цей ефект підсумовується до 8 разів, що призводить до +200% психічної чутливості, якщо до нього притулилися 8 павичів.</VAERoy_Peacock.description>
+  <!--claws-->
+  <VAERoy_Peacock.tools.claws.label>кігті</VAERoy_Peacock.tools.claws.label>
+  <!--beak-->
+  <VAERoy_Peacock.tools.beak.label>дзьоб</VAERoy_Peacock.tools.beak.label>
+  <!--head-->
+  <VAERoy_Peacock.tools.head.label>голова</VAERoy_Peacock.tools.head.label>
+  
+  <!--pheasant-->
+  <VAERoy_Pheasant.label>фазан</VAERoy_Pheasant.label>
+  <!--Small, noble poultry that was genetically engineered to be an excellent small game animal. When pheasants run away from danger, they emit a psychic invisibility blast, making their allies hidden from sight.\n\n<color=#E5E54C>Gameplay effect:</color> Whenever a pheasant is in danger (it starts fleeing), it emits a psychic shockwave in radius of 6 cells around itself. It only does it once every 24 hours. This shockwave gives all pawns under player control in that radius Psychic Invisibility for a short period of time, making them untargetable by enemies.-->
+  <VAERoy_Pheasant.description>Невелика, благородна домашня птиця, яка була генетично модифікована, щоб стати відмінним мисливцем на дрібну дичину. Коли фазани тікають від небезпеки, вони випромінюють психічний вибух невидимості, роблячи своїх союзників невидимими.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Щоразу, коли фазан опиняється в небезпеці (він починає тікати), він випромінює психічну ударну хвилю в радіусі 6 клітин навколо себе. Він робить це лише раз на 24 години. Ця ударна хвиля дає всім поселенцям під контролем гравця в цьому радіусі психічну невидимість на короткий проміжок часу, роблячи їх недосяжними для ворогів.</VAERoy_Pheasant.description>
+  <!--claws-->
+  <VAERoy_Pheasant.tools.claws.label>кігті</VAERoy_Pheasant.tools.claws.label>
+  <!--beak-->
+  <VAERoy_Pheasant.tools.beak.label>дзьоб</VAERoy_Pheasant.tools.beak.label>
+  <!--head-->
+  <VAERoy_Pheasant.tools.head.label>голова</VAERoy_Pheasant.tools.head.label>
+  
+  <!--quail-->
+  <VAERoy_Quail.label>перепілка</VAERoy_Quail.label>
+  <!--Royal poultry bred specifically for human consumption, quail meat is one of a kind, with a taste so succulent it turns any meal into a lavish meal.\n\n<color=#E5E54C>Gameplay effect:</color> Their extremely tasty meat instantly turns any simple or fine meal it’s used in into a lavish meal. It will also turn grills and bakes from Vanilla Cooking expanded into their lavish variations.-->
+  <VAERoy_Quail.description>Королівська птиця, виведена спеціально для споживання людиною, перепелине м'ясо є єдиним у своєму роді, з настільки соковитим смаком, що перетворює будь-яку страву на розкішну трапезу.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Їх надзвичайно смачне м'ясо миттєво перетворює будь-яку звичайну або вишукану страву, в якій воно використовується, на розкішну. Воно також перетворить гриль і випічку від Vanilla Cooking в їх розкішні варіації.</VAERoy_Quail.description>
+  <!--claws-->
+  <VAERoy_Quail.tools.claws.label>кігті</VAERoy_Quail.tools.claws.label>
+  <!--beak-->
+  <VAERoy_Quail.tools.beak.label>дзьоб</VAERoy_Quail.tools.beak.label>
+  <!--head-->
+  <VAERoy_Quail.tools.head.label>голова</VAERoy_Quail.tools.head.label>
+  
+  <!--royal tiger-->
+  <VAERoy_RoyalTiger.label>королівський тигр</VAERoy_RoyalTiger.label>
+  <!--A large, genetically engineered sabretooth tiger that evolved in captivity. Nobility often buys them for their spoiled children, as in reality, royal tiger is not dangerous at all, and prefers fleeing at the first sight of danger.-->
+  <VAERoy_RoyalTiger.description>Великий шаблезубий тигр, виведений за допомогою генної інженерії, який еволюціонував у неволі. Знать часто купує їх для своїх розпещених дітей, адже насправді королівський тигр зовсім не небезпечний, і вважає за краще тікати при першому ж сигналі небезпеки.</VAERoy_RoyalTiger.description>
+  <!--left claw-->
+  <VAERoy_RoyalTiger.tools.left_claw.label>ліва лапа</VAERoy_RoyalTiger.tools.left_claw.label>
+  <!--right claw-->
+  <VAERoy_RoyalTiger.tools.right_claw.label>права лапа</VAERoy_RoyalTiger.tools.right_claw.label>
+  <!--head-->
+  <VAERoy_RoyalTiger.tools.head.label>голова</VAERoy_RoyalTiger.tools.head.label>
+  
+  <!--swan-->
+  <VAERoy_Swan.label>лебідь</VAERoy_Swan.label>
+  <!--One of the largest birds capable of flying, swans are often kept by royalty due to the beautiful nests of flowers they build for themselves. These nests have an extremely high beauty, but a swan will never build more than one.\n\n<color=#E5E54C>Gameplay effect:</color> Swans create their own sleeping spots that have extremely high beauty. These nests are auto-asigned to them as sleeping spots on creation.-->
+  <VAERoy_Swan.description>Одні з найбільших птахів, здатних літати, лебеді часто утримуються королівськими особами через красиві гнізда з квітів, які вони будують для себе. Ці гнізда надзвичайно красиві, але лебідь ніколи не побудує більше одного.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Лебеді створюють свої власні місця для сну, які мають надзвичайно високу красу. Ці гнізда автоматично призначаються їм як спальні місця при створенні.</VAERoy_Swan.description>
+  <!--claws-->
+  <VAERoy_Swan.tools.claws.label>кігті</VAERoy_Swan.tools.claws.label>
+  <!--beak-->
+  <VAERoy_Swan.tools.beak.label>дзьоб</VAERoy_Swan.tools.beak.label>
+  <!--head-->
+  <VAERoy_Swan.tools.head.label>голова</VAERoy_Swan.tools.head.label>
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--till soil-->
+  <VPE_TillSoilWorkDeliverBp.label>орати ґрунт</VPE_TillSoilWorkDeliverBp.label>
+  <!--tilling-->
+  <VPE_TillSoilWorkDeliverBp.gerund>обробити</VPE_TillSoilWorkDeliverBp.gerund>
+  <!--till-->
+  <VPE_TillSoilWorkDeliverBp.verb>обробити</VPE_TillSoilWorkDeliverBp.verb>
+
+  <!--till soil-->
+  <VPE_TillSoilWorkBuild.label>орати ґрунт</VPE_TillSoilWorkBuild.label>
+  <!--tilling-->
+  <VPE_TillSoilWorkBuild.gerund>обробити</VPE_TillSoilWorkBuild.gerund>
+  <!--till-->
+  <VPE_TillSoilWorkBuild.verb>обробити</VPE_TillSoilWorkBuild.verb>
+
+  <!--till soil-->
+  <VPE_TillSoilWorkDeliverFr.label>орати ґрунт</VPE_TillSoilWorkDeliverFr.label>
+  <!--tilling-->
+  <VPE_TillSoilWorkDeliverFr.gerund>обробити</VPE_TillSoilWorkDeliverFr.gerund>
+  <!--till-->
+  <VPE_TillSoilWorkDeliverFr.verb>обробити</VPE_TillSoilWorkDeliverFr.verb>
+</LanguageData>

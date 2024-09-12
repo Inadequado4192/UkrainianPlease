@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_AnimalAnalysis_Expected.label>бажаний</AM_AnimalAnalysis_Expected.label>
+  <AM_AnimalAnalysis_Expected.description>Належним чином каталогізувавши всіх генетично модифікованих тварин на Краю, ми робимо свій внесок у те, щоб зробити галактику кращим місцем.\n\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;\n - Колоністи з "Низькими" очікуваннями або вище отримуватимуть підвищення настрою від кількості тварин, відсканованих і збережених в базі даних тварин. Для того, щоб це працювало, вам потрібно створити базу даних.</AM_AnimalAnalysis_Expected.description>
+
+
+</LanguageData>

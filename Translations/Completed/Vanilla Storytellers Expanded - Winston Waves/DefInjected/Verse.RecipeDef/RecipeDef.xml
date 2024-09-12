@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--install death super acidifier-->
+  <VESWW_InstallDeathSuperAcidifier.label>вживити смертельний суперокислювач</VESWW_InstallDeathSuperAcidifier.label>
+  <!--Install a death super acidifier.-->
+  <VESWW_InstallDeathSuperAcidifier.description>Вживити смертельний суперокислювач.</VESWW_InstallDeathSuperAcidifier.description>
+  <!--Installing death super acidifier.-->
+  <VESWW_InstallDeathSuperAcidifier.jobString>Вживлює смертельний суперокислювач.</VESWW_InstallDeathSuperAcidifier.jobString>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: inserting ingredient. -->
+    <IP_InsertFirstIngredient.reportString>вставлення інгредієнта.</IP_InsertFirstIngredient.reportString>
+
+    <!-- EN: inserting ingredient. -->
+    <IP_InsertSecondIngredient.reportString>вставлення інгредієнта.</IP_InsertSecondIngredient.reportString>
+
+    <!-- EN: inserting ingredient. -->
+    <IP_InsertThirdIngredient.reportString>вставлення інгредієнта.</IP_InsertThirdIngredient.reportString>
+
+    <!-- EN: removing finished product. -->
+    <IP_RemoveProduct.reportString>видалення завершеного продукту.</IP_RemoveProduct.reportString>
+</LanguageData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateSimpleProstheticLeg.label>Створити простий протез ноги</CreateSimpleProstheticLeg.label>
+	<CreateSimpleProstheticLeg.description>Створити простий протез ноги з металу, суперсталі та компонентів.</CreateSimpleProstheticLeg.description>
+    <CreateSimpleProstheticLeg.jobString>Створює простий протез ноги</CreateSimpleProstheticLeg.jobString>
+	
+	<CreateSimpleProstheticArm.label>Створити простий протез руки</CreateSimpleProstheticArm.label>
+	<CreateSimpleProstheticArm.description>Створити простий протез руки з металу, суперсталі та компонентів.</CreateSimpleProstheticArm.description>
+    <CreateSimpleProstheticArm.jobString>Створює простий протез руки</CreateSimpleProstheticArm.jobString>
+	
+	<CreateSimpleProstheticHand.label>Створити простий протез долоні</CreateSimpleProstheticHand.label>
+	<CreateSimpleProstheticHand.description>Створити простий протез долоні з металу, суперсталі та компонентів.</CreateSimpleProstheticHand.description>
+    <CreateSimpleProstheticHand.jobString>Створює простий протез долоні</CreateSimpleProstheticHand.jobString>
+	
+	<CreateSimpleProstheticFoot.label>Створити простий протез стопи</CreateSimpleProstheticFoot.label>
+	<CreateSimpleProstheticFoot.description>Створити простий протез стопи з металу та суперсталі.</CreateSimpleProstheticFoot.description>
+    <CreateSimpleProstheticFoot.jobString>Створює простий протез стопи</CreateSimpleProstheticFoot.jobString>
+	
+	<CreateArtificialNose.label>Створити штучний ніс</CreateArtificialNose.label>
+	<CreateArtificialNose.description>Створити штучний ніс з суперсталі.</CreateArtificialNose.description>
+    <CreateArtificialNose.jobString>Створює штучний ніс</CreateArtificialNose.jobString>
+	
+	<CreateArtificialPelvis.label>Створити штучний таз</CreateArtificialPelvis.label>
+	<CreateArtificialPelvis.description>Створити штучний таз з металу та суперсталі.</CreateArtificialPelvis.description>
+    <CreateArtificialPelvis.jobString>Створює штучний таз</CreateArtificialPelvis.jobString>
+	
+	<CreateHydraulicJaw.label>Створити гідравлічну щелепу</CreateHydraulicJaw.label>
+	<CreateHydraulicJaw.description>Створити гідравлічну щелепу з металу та суперсталі.</CreateHydraulicJaw.description>
+    <CreateHydraulicJaw.jobString>Створює гідравлічну щелепу</CreateHydraulicJaw.jobString>
+
+	<CreateGoldenEye.label>Створити золоте око</CreateGoldenEye.label>
+	<CreateGoldenEye.description>Золотий слиток + кувалда = золоте око</CreateGoldenEye.description>
+	<CreateGoldenEye.jobString>Створює золоте око</CreateGoldenEye.jobString>
+	
+</LanguageData>

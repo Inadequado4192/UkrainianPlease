@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administer metal -->
+  <AG_AdministerMetal.label>ввести метал</AG_AdministerMetal.label>
+  <!-- EN: feeding -->
+  <AG_AdministerMetal.gerund>годує</AG_AdministerMetal.gerund>
+  <!-- EN: feed -->
+  <AG_AdministerMetal.verb>годувати</AG_AdministerMetal.verb>
+  
+  <!-- EN: eat metal -->
+  <AG_ForceEatMetal.label>їсти метал</AG_ForceEatMetal.label>
+  <!-- EN: eating -->
+  <AG_ForceEatMetal.gerund>їсть</AG_ForceEatMetal.gerund>
+  <!-- EN: eat -->
+  <AG_ForceEatMetal.verb>їсти</AG_ForceEatMetal.verb>
+  
+  <!-- EN: bank alphapack -->
+  <AG_HaulToAlphaGeneBank.label>банк альфапаку</AG_HaulToAlphaGeneBank.label>
+  <!-- EN: banking -->
+  <AG_HaulToAlphaGeneBank.gerund>зберігає</AG_HaulToAlphaGeneBank.gerund>
+  <!-- EN: bank -->
+  <AG_HaulToAlphaGeneBank.verb>зберігати</AG_HaulToAlphaGeneBank.verb>
+  
+  <!-- EN: bank mixedpack -->
+  <AG_HaulToMixedGeneBank.label>банк мікспаку</AG_HaulToMixedGeneBank.label>
+  <!-- EN: banking -->
+  <AG_HaulToMixedGeneBank.gerund>зберігає</AG_HaulToMixedGeneBank.gerund>
+  <!-- EN: bank -->
+  <AG_HaulToMixedGeneBank.verb>зберігати</AG_HaulToMixedGeneBank.verb>
+  
+  <!-- EN: deliver metal -->
+  <AG_Warden_DeliverMetal.label>доставити метал</AG_Warden_DeliverMetal.label>
+  <!-- EN: delivering food for -->
+  <AG_Warden_DeliverMetal.gerund>доставляє їжу для</AG_Warden_DeliverMetal.gerund>
+  <!-- EN: deliver food for -->
+  <AG_Warden_DeliverMetal.verb>доставляти їжу для</AG_Warden_DeliverMetal.verb>
+  
+</LanguageData>

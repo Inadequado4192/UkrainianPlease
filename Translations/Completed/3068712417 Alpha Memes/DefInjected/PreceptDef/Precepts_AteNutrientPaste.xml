@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_NutrientPasteEating_Indifferent.label>байдуже</AM_NutrientPasteEating_Indifferent.label>
+  <AM_NutrientPasteEating_Indifferent.description>Поживна паста є необхідністю на Краю. Вона може бути несмачною, але це набагато краще ніж голодна смерть.</AM_NutrientPasteEating_Indifferent.description>
+
+  <AM_NutrientPasteEating_Preferred.label>бажано</AM_NutrientPasteEating_Preferred.label>
+  <AM_NutrientPasteEating_Preferred.description>Поживна паста - божественна амброзія. Безформна каша з переробленого м'яса, овочів і... "інших речей". Хто від такого відмовиться?</AM_NutrientPasteEating_Preferred.description>
+
+
+</LanguageData>

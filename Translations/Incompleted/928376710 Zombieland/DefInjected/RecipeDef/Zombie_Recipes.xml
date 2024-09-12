@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: cure zombie infection -->
+    <CureZombieInfection.label>вилікувати зомбі-інфекцію</CureZombieInfection.label>
+    <!-- EN: Removes an early stage zombie infection from a body part. Requires one zombie serum (better percentage gives less failure risk). -->
+    <CureZombieInfection.description>Видаляє ранню стадію зомбі-інфекції з частини тіла. Потрібна одна зомбі-сироватка (кращий відсоток дає менший ризик невдачі).</CureZombieInfection.description>
+    <!-- EN: Curing zombie infection. -->
+    <CureZombieInfection.jobString>Лікує зомбі-інфекцію.</CureZombieInfection.jobString>
+    <!-- EN: make serum out of zombie extract -->
+    <MakeZombieSerum.label>зробити сироватку з екстракту зомбі</MakeZombieSerum.label>
+    <!-- EN: Craft one zombie serum from zombie extract that cures zombie infections during operations. -->
+    <MakeZombieSerum.description>Створити з екстракту зомбі сироватку, яка вилікує зомбі-інфекції під час операцій.</MakeZombieSerum.description>
+    <!-- EN: Making zombie serum. -->
+    <MakeZombieSerum.jobString>Створює зомбі-сироватку.</MakeZombieSerum.jobString>
+</LanguageData>

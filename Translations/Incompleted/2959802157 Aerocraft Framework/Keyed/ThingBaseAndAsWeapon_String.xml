@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Загальний батьківський клас-->
+  <AerocraftFramework_ShowRadiusofRange_Label>Показати Діапазон</AerocraftFramework_ShowRadiusofRange_Label>
+  <AerocraftFramework_ShowRadiusofRange_Description>Показати Діапазон</AerocraftFramework_ShowRadiusofRange_Description>
+  <AerocraftFramework_ShowRadiusofRange_SelectAll_Label>Обрати Всіх</AerocraftFramework_ShowRadiusofRange_SelectAll_Label>
+  <AerocraftFramework_ShowRadiusofRange_SelectAll_Desc>Обрати всі повітряні засоби того ж типу з тієї ж фракції</AerocraftFramework_ShowRadiusofRange_SelectAll_Desc>
+  <AerocraftFramework_CurrentWeaponName>Поточна зброя</AerocraftFramework_CurrentWeaponName>
+  <!--Корпус-->
+  <AerocraftFramework_ExtraWeaponName>Зброя</AerocraftFramework_ExtraWeaponName>
+  <AerocraftFramework_GoBack_Label>Повернутися</AerocraftFramework_GoBack_Label>
+  <AerocraftFramework_GoBack_Desc>Повернутися до позиції під час зльоту</AerocraftFramework_GoBack_Desc>
+  <AerocraftFramework_NeedFuel>Потрібне паливо</AerocraftFramework_NeedFuel>
+  <AerocraftFramework_NeedEnergy>Потрібна електроенергія</AerocraftFramework_NeedEnergy>
+  <AerocraftFramework_SetAngle_Label>Встановити кут на {0}</AerocraftFramework_SetAngle_Label>
+  <AerocraftFramework_SetAngle_Desc>Налаштування та встановлення кута повітряного засобу</AerocraftFramework_SetAngle_Desc>
+  <!--Як зброя-->
+  <AerocraftFramework_AsWeapon_IfBreakDown>Зламати</AerocraftFramework_AsWeapon_IfBreakDown>
+  <AerocraftFramework_SelectBaseThing_Label>Обрати повітряний засіб</AerocraftFramework_SelectBaseThing_Label>
+  <AerocraftFramework_SelectBaseThing_Desc>Обрати повітряний засіб</AerocraftFramework_SelectBaseThing_Desc>
+</LanguageData>

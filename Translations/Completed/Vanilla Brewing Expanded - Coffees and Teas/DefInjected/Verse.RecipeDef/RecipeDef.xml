@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--make espresso coffee-->
+  <VBE_MakeCoffeeFast.label>заварити еспресо</VBE_MakeCoffeeFast.label>
+  <!--Make a warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma. Brewing coffee in a espresso machine is generally much faster.-->
+  <VBE_MakeCoffeeFast.description>Заварити теплий, гіркуватий напій, який зазвичай доповнюють молоком і цукром. Улюбленець студентів та офісних працівників по всій галактиці завдяки високому вмісту кофеїну та приємному аромату. Приготування кави в цій кавоварці, як правило, відбувається набагато швидше.</VBE_MakeCoffeeFast.description>
+  <!--Making coffee.-->
+  <VBE_MakeCoffeeFast.jobString>Заварює каву.</VBE_MakeCoffeeFast.jobString>
+  
+  <!--reheat iced coffee-->
+  <VBE_ReheatCoffee.label>розігріти холодну каву</VBE_ReheatCoffee.label>
+  <!--This espresso machine has a small built-in grill to reheat iced coffee.-->
+  <VBE_ReheatCoffee.description>Ця кавоварка має невеликий вбудований гриль для підігріву холодної кави.</VBE_ReheatCoffee.description>
+  <!--Reheating iced coffee.-->
+  <VBE_ReheatCoffee.jobString>Розігріває холодну каву.</VBE_ReheatCoffee.jobString>
+  
+  <!--brew latte coffee-->
+  <VBE_BrewLatteCoffee.label>заварити лате</VBE_BrewLatteCoffee.label>
+  <!--Brew a potent espresso mixed with fresh milk to help ease bitterness before pouring and serving. Lattes have a reputation of being particularly meant for “sophisticated” individuals.-->
+  <VBE_BrewLatteCoffee.description>Заварити міцний еспресо, змішаний зі свіжим молоком, щоб пом'якшити гіркоту перед розливанням і подачею. Латте має репутацію напою для "витончених" людей.</VBE_BrewLatteCoffee.description>
+  <!--Brewing latte coffee.-->
+  <VBE_BrewLatteCoffee.jobString>Заварює лате.</VBE_BrewLatteCoffee.jobString>
+  
+  <!--brew mocha coffee-->
+  <VBE_BrewMochaCoffee.label>заварити мокачино</VBE_BrewMochaCoffee.label>
+  <!--Brew a coffee mixed with sweet and luxurious chocolate. Those of snobbish persuasion would argue mocha is more of a dessert than an actual coffee drink.-->
+  <VBE_BrewMochaCoffee.description>Заварити каву, змішану із солодким і розкішним шоколадом, дуже приємну на смак. Сноби стверджують, що мокачино – це скоріше десерт, ніж справжня кава.</VBE_BrewMochaCoffee.description>
+  <!--Brewing mocha coffee.-->
+  <VBE_BrewMochaCoffee.jobString>Заварює мокачино.</VBE_BrewMochaCoffee.jobString>
+  
+  <!--brew irish coffee-->
+  <VBE_BrewIrishCoffee.label>заварити каву по-ірландськи</VBE_BrewIrishCoffee.label>
+  <!--Brew a drink made with whiskey and coffee blended thoroughly before forming a head and being topped with a spoonful of whipped cream. Perfect for those who just got out of bed and are already wanting to go back to it.-->
+  <VBE_BrewIrishCoffee.description>Заварити напій, зроблений ретельно змішаних кави та віскі та прикрашений зверху збитими вершками. Ідеальний напій для тих, хто щойно встав з ліжка і вже хоче повернутися до нього.</VBE_BrewIrishCoffee.description>
+  <!--Brewing irish coffee.-->
+  <VBE_BrewIrishCoffee.jobString>Заварює каву по-ірландськи.</VBE_BrewIrishCoffee.jobString>
+  
+  <!--brew cannibal coffee-->
+  <VBE_BrewCannibalCoffee.label>заварити канібальську каву</VBE_BrewCannibalCoffee.label>
+  <!--Brew a drink... for a very particular... refined coffee drinker.-->
+  <VBE_BrewCannibalCoffee.description>Заварити напій... для дуже особливого... вишуканого кавомана.</VBE_BrewCannibalCoffee.description>
+  <!--Brewing cannibal coffee.-->
+  <VBE_BrewCannibalCoffee.jobString>Заварює канібальську каву.</VBE_BrewCannibalCoffee.jobString>
+  
+  <!--make fast tea-->
+  <VBE_MakeTeaFast.label>зробити чай нашвидкуруч</VBE_MakeTeaFast.label>
+  <!--Make a pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water. Brewing tea in this specially prepared espresso machine is generally much faster.-->
+  <VBE_MakeTeaFast.description>Зробити приємний, ароматний напій, зануривши пакетик чайного листя в киплячу воду. Заварювання чаю в цій спеціально підготовленій кавоварці відбувається набагато швидше.</VBE_MakeTeaFast.description>
+  <!--Making fast tea.-->
+  <VBE_MakeTeaFast.jobString>робить чай нашвидкуруч.</VBE_MakeTeaFast.jobString>
+  
+  <!--make black tea-->
+  <VBE_MakeBlackTea.label>зробити чорний чай</VBE_MakeBlackTea.label>
+  <!--Make a particularly bitter tea cut with creamy milk, wakes one up a bit and relaxes one's mind.-->
+  <VBE_MakeBlackTea.description>beverage особливо гіркий чай з вершковим молоком, що трохи пробуджує і розслабляє розум.</VBE_MakeBlackTea.description>
+  <!--Making black tea.-->
+  <VBE_MakeBlackTea.jobString>робить чорний чай.</VBE_MakeBlackTea.jobString>
+  
+  <!--make yuenyeung-->
+  <VBE_MakeYuenYeung.label>змішати юаньян</VBE_MakeYuenYeung.label>
+  <!--Make a mixture of coffee and tea. Tea and coffee drinkers respectively set their differences aside while concocting this unholy amalgamation. Whether it’s served hot or cold it’s equally confusing to the imbiber.-->
+  <VBE_MakeYuenYeung.description>Зробити суміш кави та чаю. Любителі чаю та кави, відповідно, відкидають свої розбіжності, готуючи цей нечестивий напій. Зазвичай його подають холодним, але незалежно від того, гарячим чи холодним він подається, він однаково збиває з пантелику поціновувачів кави та чаю.</VBE_MakeYuenYeung.description>
+  <!--Making yuenyeung.-->
+  <VBE_MakeYuenYeung.jobString>Змішує юаньян.</VBE_MakeYuenYeung.jobString>
+  
+  <!--make kombucha tea-->
+  <VBE_MakeKombucha.label>зробити комбучу</VBE_MakeKombucha.label>
+  <!--Make a sugary tea left out to ferment, after fermenting the end product is a sweet and sour, sometimes even naturally fizzy drink known as kombucha. Praised for health benefits, though some remain skeptical.-->
+  <VBE_MakeKombucha.description>Зробити цукристий чай, залишений для бродіння, після ферментації кінцевим продуктом є кисло-солодкий, іноді навіть натурально шипучий напій, відомий як чайний гриб, або комбуча. Його хвалять за користь для здоров'я, хоча дехто ставиться до нього скептично.</VBE_MakeKombucha.description>
+  <!--Making kombucha tea.-->
+  <VBE_MakeKombucha.jobString>Робить комбучу.</VBE_MakeKombucha.jobString>
+</LanguageData>

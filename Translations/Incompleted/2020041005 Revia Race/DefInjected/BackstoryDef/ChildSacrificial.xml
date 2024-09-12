@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was considered to be inferior in physical prowess. [PAWN_pronoun] was slated to be sacrificed on the altar of the moon, but [PAWN_pronoun] managed to escape [PAWN_possessive] holding cell. Living in the wilderness has improved [PAWN_possessive] survival skills, but the terror of having nearly been killed like an animal has left [PAWN_possessive] unwilling to communicate with other humanlikes. -->
+  <ReviaRaceBackstoryChildSacrificial.baseDesc>[PAWN_nameDef] вважався меншим у фізичних здібностях. Він був призначений бути жертвою на алтарі Місяця, але [PAWN_pronoun] вдалося втекти зі своєї камери. Життя в дикій природі покращило [PAWN_possessive] навички виживання, але страх того, що його майже вбили як тварину, залишив [PAWN_possessive] неохочим спілкуватися з іншими схожими на людей.</ReviaRaceBackstoryChildSacrificial.baseDesc>
+  <!-- EN: Revian Sacrificial Child -->
+  <ReviaRaceBackstoryChildSacrificial.title>Ревійська Дитина-Жертва</ReviaRaceBackstoryChildSacrificial.title>
+  <!-- EN: Sacrifice -->
+  <ReviaRaceBackstoryChildSacrificial.titleShort>Жертва</ReviaRaceBackstoryChildSacrificial.titleShort>
+  
+</LanguageData>

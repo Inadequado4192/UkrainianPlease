@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--fore-flipper-->
+  <AEXP_ForeFlipper.label>передній ласт</AEXP_ForeFlipper.label>
+  
+  <!--hind-flippers-->
+  <AEXP_HindFlippers.label>задній ласт</AEXP_HindFlippers.label>
+  
+  <!--antlers-->
+  <AEXP_Antlers.label>роги</AEXP_Antlers.label>
+</LanguageData>

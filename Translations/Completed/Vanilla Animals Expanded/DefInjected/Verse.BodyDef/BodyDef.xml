@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--antlered quadruped-->
+  <AEXP_AntleredQuadruped.label>рогаті чотириногі</AEXP_AntleredQuadruped.label>
+  <!--left lung-->
+  <AEXP_AntleredQuadruped.corePart.parts.left_lung.customLabel>ліва легеня</AEXP_AntleredQuadruped.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <AEXP_AntleredQuadruped.corePart.parts.right_lung.customLabel>права легеня</AEXP_AntleredQuadruped.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <AEXP_AntleredQuadruped.corePart.parts.left_kidney.customLabel>ліва нирка</AEXP_AntleredQuadruped.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <AEXP_AntleredQuadruped.corePart.parts.right_kidney.customLabel>права нирка</AEXP_AntleredQuadruped.corePart.parts.right_kidney.customLabel>
+  <!--left eye-->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!--right eye-->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!--left ear-->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!--right ear-->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!--front left leg-->
+  <AEXP_AntleredQuadruped.corePart.parts.front_left_leg.customLabel>передня ліва нога</AEXP_AntleredQuadruped.corePart.parts.front_left_leg.customLabel>
+  <!--front left hoof-->
+  <AEXP_AntleredQuadruped.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>переднє ліве копито</AEXP_AntleredQuadruped.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!--front right leg-->
+  <AEXP_AntleredQuadruped.corePart.parts.front_right_leg.customLabel>передня права нога</AEXP_AntleredQuadruped.corePart.parts.front_right_leg.customLabel>
+  <!--front right hoof-->
+  <AEXP_AntleredQuadruped.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>переднє праве копито</AEXP_AntleredQuadruped.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!--rear left leg-->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.customLabel>задня ліва нога</AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.customLabel>
+  <!--rear left hoof-->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>заднє ліве копито</AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!--rear right leg-->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.customLabel>задня права нога</AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.customLabel>
+  <!--rear right hoof-->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>заднє праве копито</AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!--large lizardlike-->
+  <AEXP_LargeLizardlike.label>великі ящероподібні</AEXP_LargeLizardlike.label>
+  <!--left lung-->
+  <AEXP_LargeLizardlike.corePart.parts.left_lung.customLabel>ліва легеня</AEXP_LargeLizardlike.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <AEXP_LargeLizardlike.corePart.parts.right_lung.customLabel>права легеня</AEXP_LargeLizardlike.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <AEXP_LargeLizardlike.corePart.parts.left_kidney.customLabel>ліва нирка</AEXP_LargeLizardlike.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <AEXP_LargeLizardlike.corePart.parts.right_kidney.customLabel>права нирка</AEXP_LargeLizardlike.corePart.parts.right_kidney.customLabel>
+  <!--left eye-->
+  <AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!--right eye-->
+  <AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!--front left leg-->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.customLabel>передня ліва нога</AEXP_LargeLizardlike.corePart.parts.front_left_leg.customLabel>
+  <!--front left leg first claw-->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>перший кіготь передньої лівої лапи</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <!--front left leg second claw-->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>другий кіготь передньої лівої лапи</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <!--front left leg third claw-->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>третій кіготь передньої лівої лапи</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <!--front right leg-->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.customLabel>передня права нога</AEXP_LargeLizardlike.corePart.parts.front_right_leg.customLabel>
+  <!--front right leg first claw-->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>перший кіготь передньої правої лапи</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <!--front right leg second claw-->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>другий кіготь передньої правої лапи</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <!--front right leg third claw-->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>третій кіготь передньої правої лапи</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <!--rear left leg-->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>задня ліва нога</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>
+  <!--rear left leg first claw-->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>перший кіготь задньої лівої лапи</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <!--rear left leg second claw-->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>другий кіготь задньої лівої лапи</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <!--rear left leg third claw-->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>третій кіготь задньої лівої лапи</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <!--rear right leg-->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>задня права нога</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>
+  <!--rear right leg first claw-->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>перший кіготь задньої правої лапи</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <!--rear right leg second claw-->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>другий кіготь задньої правої лапи</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <!--rear right leg third claw-->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>третій кіготь задньої правої лапи</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  
+  <!--simple pinniped-->
+  <AEXP_SimplePinniped.label>звичайні ластоногі</AEXP_SimplePinniped.label>
+  <!--left lung-->
+  <AEXP_SimplePinniped.corePart.parts.left_lung.customLabel>ліва легеня</AEXP_SimplePinniped.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <AEXP_SimplePinniped.corePart.parts.right_lung.customLabel>права легеня</AEXP_SimplePinniped.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <AEXP_SimplePinniped.corePart.parts.left_kidney.customLabel>ліва нирка</AEXP_SimplePinniped.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <AEXP_SimplePinniped.corePart.parts.right_kidney.customLabel>права нирка</AEXP_SimplePinniped.corePart.parts.right_kidney.customLabel>
+  <!--left eye-->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!--right eye-->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!--left ear-->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!--right ear-->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!--left fore-flipper-->
+  <AEXP_SimplePinniped.corePart.parts.left_foreflipper.customLabel>лівий передній плавник</AEXP_SimplePinniped.corePart.parts.left_foreflipper.customLabel>
+  <!--right fore-flipper-->
+  <AEXP_SimplePinniped.corePart.parts.right_foreflipper.customLabel>правий передній плавник</AEXP_SimplePinniped.corePart.parts.right_foreflipper.customLabel>
+  
+  <!--tusked pinniped-->
+  <AEXP_TuskedPinniped.label>ікласті ластоногі</AEXP_TuskedPinniped.label>
+  <!--left lung-->
+  <AEXP_TuskedPinniped.corePart.parts.left_lung.customLabel>ліва легеня</AEXP_TuskedPinniped.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <AEXP_TuskedPinniped.corePart.parts.right_lung.customLabel>права легеня</AEXP_TuskedPinniped.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <AEXP_TuskedPinniped.corePart.parts.left_kidney.customLabel>ліва нирка</AEXP_TuskedPinniped.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <AEXP_TuskedPinniped.corePart.parts.right_kidney.customLabel>права нирка</AEXP_TuskedPinniped.corePart.parts.right_kidney.customLabel>
+  <!--left eye-->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!--right eye-->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!--left ear-->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!--right ear-->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!--left tusk-->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>лівий бивень</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!--right tusk-->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>правий бивень</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!--left fore-flipper-->
+  <AEXP_TuskedPinniped.corePart.parts.left_foreflipper.customLabel>лівий передній плавник</AEXP_TuskedPinniped.corePart.parts.left_foreflipper.customLabel>
+  <!--right fore-flipper-->
+  <AEXP_TuskedPinniped.corePart.parts.right_foreflipper.customLabel>правий передній плавник</AEXP_TuskedPinniped.corePart.parts.right_foreflipper.customLabel>
+  
+  <!--platypus-->
+  <AEXP_PlatypusBody.label>качкодзьобові</AEXP_PlatypusBody.label>
+  <!--left lung-->
+  <AEXP_PlatypusBody.corePart.parts.left_lung.customLabel>ліва легеня</AEXP_PlatypusBody.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <AEXP_PlatypusBody.corePart.parts.right_lung.customLabel>права легеня</AEXP_PlatypusBody.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <AEXP_PlatypusBody.corePart.parts.left_kidney.customLabel>ліва нирка</AEXP_PlatypusBody.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <AEXP_PlatypusBody.corePart.parts.right_kidney.customLabel>права нирка</AEXP_PlatypusBody.corePart.parts.right_kidney.customLabel>
+  <!--left eye-->
+  <AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!--right eye-->
+  <AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!--left ear-->
+  <AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!--right ear-->
+  <AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!--front left leg-->
+  <AEXP_PlatypusBody.corePart.parts.front_left_leg.customLabel>передня ліва нога</AEXP_PlatypusBody.corePart.parts.front_left_leg.customLabel>
+  <!--front left paw-->
+  <AEXP_PlatypusBody.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>передня ліва лапа</AEXP_PlatypusBody.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!--front right leg-->
+  <AEXP_PlatypusBody.corePart.parts.front_right_leg.customLabel>передня права нога</AEXP_PlatypusBody.corePart.parts.front_right_leg.customLabel>
+  <!--front right paw-->
+  <AEXP_PlatypusBody.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>передня права лапа</AEXP_PlatypusBody.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!--rear left leg-->
+  <AEXP_PlatypusBody.corePart.parts.rear_left_leg.customLabel>задня ліва нога</AEXP_PlatypusBody.corePart.parts.rear_left_leg.customLabel>
+  <!--rear left spur-->
+  <AEXP_PlatypusBody.corePart.parts.rear_left_leg.parts.rear_left_spur.customLabel>задня ліва шпора</AEXP_PlatypusBody.corePart.parts.rear_left_leg.parts.rear_left_spur.customLabel>
+  <!--rear right leg-->
+  <AEXP_PlatypusBody.corePart.parts.rear_right_leg.customLabel>задня права нога</AEXP_PlatypusBody.corePart.parts.rear_right_leg.customLabel>
+  <!--rear right spur-->
+  <AEXP_PlatypusBody.corePart.parts.rear_right_leg.parts.rear_right_spur.customLabel>задня права шпора</AEXP_PlatypusBody.corePart.parts.rear_right_leg.parts.rear_right_spur.customLabel>
+  
+  <!--great ape-->
+  <AEXP_GreatApe.label>гомініди</AEXP_GreatApe.label>
+  <!--left clavicle-->
+  <AEXP_GreatApe.corePart.parts.left_clavicle.customLabel>ліва ключиця</AEXP_GreatApe.corePart.parts.left_clavicle.customLabel>
+  <!--right clavicle-->
+  <AEXP_GreatApe.corePart.parts.right_clavicle.customLabel>права ключиця</AEXP_GreatApe.corePart.parts.right_clavicle.customLabel>
+  <!--left lung-->
+  <AEXP_GreatApe.corePart.parts.left_lung.customLabel>ліва легеня</AEXP_GreatApe.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <AEXP_GreatApe.corePart.parts.right_lung.customLabel>права легеня</AEXP_GreatApe.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <AEXP_GreatApe.corePart.parts.left_kidney.customLabel>ліва нирка</AEXP_GreatApe.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <AEXP_GreatApe.corePart.parts.right_kidney.customLabel>права нирка</AEXP_GreatApe.corePart.parts.right_kidney.customLabel>
+  <!--left eye-->
+  <AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!--right eye-->
+  <AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!--left ear-->
+  <AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!--right ear-->
+  <AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!--left shoulder-->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.customLabel>ліве плече</AEXP_GreatApe.corePart.parts.left_shoulder.customLabel>
+  <!--left arm-->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.customLabel>ліва рука</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!--left humerus-->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>ліва плечова кістка</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!--left radius-->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>ліва променева кістка</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!--left hand-->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>ліва долоня</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!--left pinky-->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>мізинець лівої руки</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!--left ring finger-->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>підмізинний палець лівої руки</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!--left middle finger-->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>середній палець лівої руки</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!--left index finger-->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>вказівний палець лівої руки</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!--left thumb-->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>великий палець лівої руки</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!--right shoulder-->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.customLabel>праве плече</AEXP_GreatApe.corePart.parts.right_shoulder.customLabel>
+  <!--right arm-->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.customLabel>права рука</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!--right humerus-->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>права плечова кістка</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!--right radius-->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>права променева кістка</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!--right hand-->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>права долоня</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!--right pinky-->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>мізинець правої руки</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!--right ring finger-->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>підмізинний палець правої руки</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!--right middle finger-->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>середній палець правої руки</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!--right index finger-->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>вказівний палець правої руки</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!--right thumb-->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>великий палець правої руки</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!--left leg-->
+  <AEXP_GreatApe.corePart.parts.left_leg.customLabel>ліва нога</AEXP_GreatApe.corePart.parts.left_leg.customLabel>
+  <!--left femur-->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_femur.customLabel>ліве стегно</AEXP_GreatApe.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!--left tibia-->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_tibia.customLabel>ліва гомілка</AEXP_GreatApe.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!--left foot-->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.customLabel>ліва ступня</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!--left little toe-->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>мізинець лівої ноги</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!--left fourth toe-->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>четвертий палець лівої ноги</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!--left middle toe-->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>середній палець лівої ноги</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!--left second toe-->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>другий палець лівої ноги</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!--left big toe-->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>великий палець лівої ноги</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!--right leg-->
+  <AEXP_GreatApe.corePart.parts.right_leg.customLabel>права нога</AEXP_GreatApe.corePart.parts.right_leg.customLabel>
+  <!--right femur-->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_femur.customLabel>праве стегно</AEXP_GreatApe.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!--right tibia-->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_tibia.customLabel>права гомілка</AEXP_GreatApe.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!--right foot-->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.customLabel>права ступня</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!--right little toe-->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>мізинець правої ноги</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!--right fourth toe-->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>четвертий палець правої ноги</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!--right middle toe-->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>середній палець правої ноги</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!--right second toe-->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>другий палець правої ноги</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!--right big toe-->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>великий палець правої ноги</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+  <!--tailed biped-->
+  <AEXP_TailedBiped.label>хвостаті двоногі</AEXP_TailedBiped.label>
+  <!--left lung-->
+  <AEXP_TailedBiped.corePart.parts.left_lung.customLabel>ліва легеня</AEXP_TailedBiped.corePart.parts.left_lung.customLabel>
+  <!--right lung-->
+  <AEXP_TailedBiped.corePart.parts.right_lung.customLabel>права легеня</AEXP_TailedBiped.corePart.parts.right_lung.customLabel>
+  <!--left kidney-->
+  <AEXP_TailedBiped.corePart.parts.left_kidney.customLabel>ліва нирка</AEXP_TailedBiped.corePart.parts.left_kidney.customLabel>
+  <!--right kidney-->
+  <AEXP_TailedBiped.corePart.parts.right_kidney.customLabel>права нирка</AEXP_TailedBiped.corePart.parts.right_kidney.customLabel>
+  <!--left eye-->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!--right eye-->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!--left ear-->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!--right ear-->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!--left arm-->
+  <AEXP_TailedBiped.corePart.parts.left_arm.customLabel>ліва рука</AEXP_TailedBiped.corePart.parts.left_arm.customLabel>
+  <!--right arm-->
+  <AEXP_TailedBiped.corePart.parts.right_arm.customLabel>права рука</AEXP_TailedBiped.corePart.parts.right_arm.customLabel>
+  <!--left leg-->
+  <AEXP_TailedBiped.corePart.parts.left_leg.customLabel>ліва нога</AEXP_TailedBiped.corePart.parts.left_leg.customLabel>
+  <!--right leg-->
+  <AEXP_TailedBiped.corePart.parts.right_leg.customLabel>права нога</AEXP_TailedBiped.corePart.parts.right_leg.customLabel>
+</LanguageData>

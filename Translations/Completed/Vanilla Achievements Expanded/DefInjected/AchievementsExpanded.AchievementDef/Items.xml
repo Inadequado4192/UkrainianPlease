@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <oneStepCloser.label>На Крок Ближче</oneStepCloser.label>
+  <oneStepCloser.description>Отримайте ядро ШІ</oneStepCloser.description>
+  
+  <humanLeatherHat.label>Файний Капелюх, Пане Іствуд</humanLeatherHat.label>
+  <humanLeatherHat.description>Створіть ковбойський капелюх зі шкіри людини</humanLeatherHat.description>
+  
+  <midas.label>Мідас</midas.label>
+  <midas.description>Мати 5000 од. золота</midas.description>
+  
+  <fourtwentyblazeIt.label>Всупереч «Батьківщині»</fourtwentyblazeIt.label>
+  <fourtwentyblazeIt.description>Мати 420 од. димолисту</fourtwentyblazeIt.description>
+  
+  <silenceOfTheLambs.label>Мовчання Ягнят</silenceOfTheLambs.label>
+  <silenceOfTheLambs.description>Отримати 100 од. людського м'яса</silenceOfTheLambs.description>
+  
+  <theStuffOfLegends.label>Речі з Легенд</theStuffOfLegends.label>
+  <theStuffOfLegends.description>Створіть будь-який легендарний предмет</theStuffOfLegends.description>
+  
+  <futureCaveman.label>Печерна Людина з Майбутнього</futureCaveman.label>
+  <futureCaveman.description>Зробіть пласталеву дубину</futureCaveman.description>
+</LanguageData>

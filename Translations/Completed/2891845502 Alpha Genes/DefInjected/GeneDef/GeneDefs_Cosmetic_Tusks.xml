@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bee mandibles -->
+  <AG_BeeMandibles.label>бджолині щелепи</AG_BeeMandibles.label>
+  <!-- EN: Carriers of this gene grow two large bee mandibles protruding from their jaw. -->
+  <AG_BeeMandibles.description>У носіїв цього гена виростають дві великі бджолині щелепи, що виступають із щелепи.</AG_BeeMandibles.description>
+  <!-- EN: mandib -->
+  <AG_BeeMandibles.symbolPack.prefixSymbols.0.symbol>мандибула</AG_BeeMandibles.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ento -->
+  <AG_BeeMandibles.symbolPack.prefixSymbols.1.symbol>енто</AG_BeeMandibles.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: insect -->
+  <AG_BeeMandibles.symbolPack.prefixSymbols.2.symbol>комаха</AG_BeeMandibles.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: beetle mandibles -->
+  <AG_BeetleMandibles.label>щелепи жуків</AG_BeetleMandibles.label>
+  <!-- EN: Carriers of this gene grow two large beetle mandibles protruding from their jaw. -->
+  <AG_BeetleMandibles.description>У носіїв цього гена виростають дві великі щелепи жука, що виступають із щелепи.</AG_BeetleMandibles.description>
+  <!-- EN: mandib -->
+  <AG_BeetleMandibles.symbolPack.prefixSymbols.0.symbol>мандибула</AG_BeetleMandibles.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ento -->
+  <AG_BeetleMandibles.symbolPack.prefixSymbols.1.symbol>енто</AG_BeetleMandibles.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: insect -->
+  <AG_BeetleMandibles.symbolPack.prefixSymbols.2.symbol>комаха</AG_BeetleMandibles.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: face tentacles -->
+  <AG_FaceTentacles.label>лицьові щупальця</AG_FaceTentacles.label>
+  <!-- EN: Carriers of this gene grow a series of slimy tentacles protruding from their jaw. -->
+  <AG_FaceTentacles.description>Носії цього гена вирощують серію слизьких щупалець, що стирчать з їхньої щелепи.</AG_FaceTentacles.description>
+  <!-- EN: tentacl -->
+  <AG_FaceTentacles.symbolPack.prefixSymbols.0.symbol>щупальце</AG_FaceTentacles.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: octop -->
+  <AG_FaceTentacles.symbolPack.prefixSymbols.1.symbol>восьминіг</AG_FaceTentacles.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: no tusks / mandibles -->
+  <AG_NoTusks.label>без іклів / щелеп</AG_NoTusks.label>
+  <!-- EN: Carriers of this gene don't have tusks or mandibles. -->
+  <AG_NoTusks.description>Носії цього гена не мають іклів або нижньої щелепи.</AG_NoTusks.description>
+  <!-- EN: With this gene you can create xenotypes in which a pawn can have tusks/mandibles or a lack of them at random -->
+  <AG_NoTusks.customEffectDescriptions.0>За допомогою цього гена ви можете створювати ксенотипи, в яких пішак може мати ікла/щелепи або їх відсутність у довільному порядку</AG_NoTusks.customEffectDescriptions.0>
+  
+  <!-- EN: pincer mandibles -->
+  <AG_PincerMandibles.label>щелепи кліщі</AG_PincerMandibles.label>
+  <!-- EN: Carriers of this gene grow two large pincer mandibles protruding from their jaw. -->
+  <AG_PincerMandibles.description>У носіїв цього гена виростають дві великі клішні, що виступають із щелепи.</AG_PincerMandibles.description>
+  <!-- EN: mandib -->
+  <AG_PincerMandibles.symbolPack.prefixSymbols.0.symbol>мандибула</AG_PincerMandibles.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ento -->
+  <AG_PincerMandibles.symbolPack.prefixSymbols.1.symbol>енто</AG_PincerMandibles.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: insect -->
+  <AG_PincerMandibles.symbolPack.prefixSymbols.2.symbol>комаха</AG_PincerMandibles.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: tusks -->
+  <AG_Tusks.label>ікла</AG_Tusks.label>
+  <!-- EN: Carriers of this gene grow two large tusks protruding from the jaw. -->
+  <AG_Tusks.description>У носіїв цього гена виростають два великі ікла, що виступають із щелепи.</AG_Tusks.description>
+  <!-- EN: tusk -->
+  <AG_Tusks.symbolPack.prefixSymbols.0.symbol>бивень</AG_Tusks.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tusken -->
+  <AG_Tusks.symbolPack.prefixSymbols.1.symbol>бивень</AG_Tusks.symbolPack.prefixSymbols.1.symbol>
+  
+</LanguageData>

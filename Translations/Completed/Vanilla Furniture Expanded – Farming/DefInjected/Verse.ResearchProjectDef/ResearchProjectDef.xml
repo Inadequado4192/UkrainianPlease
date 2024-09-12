@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFE_Res_AdvancedHydroponics.label>штучні екосистеми</VFE_Res_AdvancedHydroponics.label>
+  <VFE_Res_AdvancedHydroponics.description>Навчіться будувати штучні екосистеми – високотехнологічні тераріуми, які значно покращують гідропоніку.</VFE_Res_AdvancedHydroponics.description>
+  
+  <VFE_Res_Sprinkler.label>спринклери</VFE_Res_Sprinkler.label>
+  <VFE_Res_Sprinkler.description>Вивчіть схему пристрою, який може автоматично поливати поля, збільшуючи швидкість росту сільськогосподарських культур.</VFE_Res_Sprinkler.description>
+  
+  <VFE_Res_FarmingTechniques.label>фермерство</VFE_Res_FarmingTechniques.label>
+  <VFE_Res_FarmingTechniques.description>Розробити теоретичну базу для більш масштабних фермерських господарств, включаючи централізовану годівлю та спеціальні опудала, які не дадуть тваринам з'їсти ваш врожай.</VFE_Res_FarmingTechniques.description>
+</LanguageData>

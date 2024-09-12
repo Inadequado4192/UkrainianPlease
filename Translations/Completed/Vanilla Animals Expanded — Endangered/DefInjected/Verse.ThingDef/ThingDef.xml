@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--moa egg (fert.)-->
+  <AEXP_EggMoaFertilized.label>яйце моа (заплід.)</AEXP_EggMoaFertilized.label>
+  <!--A fertilized moa egg. If all goes well, it should hatch into a baby moa. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggMoaFertilized.description>Запліднене яйце моа. За потрібних умов вилуплюється пташеня моа. Його можна їсти сирим, проте краще приготувати.</AEXP_EggMoaFertilized.description>
+  
+  <!--rockhopper penguin egg (fert.)-->
+  <AEXP_EggRockhopperPenguinFertilized.label>яйце чубатого пінгвіна (заплід.)</AEXP_EggRockhopperPenguinFertilized.label>
+  <!--A fertilized rockhopper penguin egg. If all goes well, it should hatch into a baby rockhopper penguin. It can be eaten raw, but it's much better cooked.-->
+  <AEXP_EggRockhopperPenguinFertilized.description>Запліднене яйце чубатого пінгвіна. За потрібних умов вилуплюється пташеня чубатого пінгвіна. Його можна їсти сирим, проте краще приготувати.</AEXP_EggRockhopperPenguinFertilized.description>
+  
+  <!--raw fish-->
+  <AEXP_RawFish.label>сира риба</AEXP_RawFish.label>
+  <!--Raw fish. A resourceful penguin has fished this.-->
+  <AEXP_RawFish.description>Сира риба. Її зловив кмітливий пінгвін.</AEXP_RawFish.description>
+  <!--raw fish-->
+  <AEXP_RawFish.tools.raw_fish.label>сира риба</AEXP_RawFish.tools.raw_fish.label>
+  
+  <!--black-footed ferret-->
+  <AEXP_BlackFootedFerret.label>чорноногий тхір</AEXP_BlackFootedFerret.label>
+  <!--A small, nocturnal member of the weasel family that feeds on other, smaller mammals. It has a long body and yellowish-brown fur with a blackish wash of fur on its back, and a black mask around its eyes.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. Black-footed ferrets are the most endangered mammals in North America, and they were thought extinct in 1976. A small group was rediscovered in 1981, bred in captivity and carefully released. As of 2020, fewer than 500 black-footed ferrets live in the wild at 17 reintroduction sites —a population well below the 3,000 needed to fully recover the species.-->
+  <AEXP_BlackFootedFerret.description>Невеликий, нічний представник родини куницевих, який живиться іншими, меншими ссавцями. Має довге тіло і жовтувато-коричневе хутро з чорнуватими плямами на спині, а також чорну маску навколо очей.\n\n&lt;color=#33d733&gt;Реальний природоохоронний статус:&lt;/color&gt; Зникаючий. Чорноногі тхори є найбільш зникаючими ссавцями в Північній Америці, і вважалися вимерлими в 1976 році. Невелика група була знову відкрита в 1981 році, розведена в неволі і обережно випущена на волю. Станом на 2020 рік у 17 місцях реінтродукції в дикій природі живе менше 500 чорноногих тхорів – популяція значно менша за 3 000 особин, необхідних для повного відновлення виду.</AEXP_BlackFootedFerret.description>
+  <!--left claw-->
+  <AEXP_BlackFootedFerret.tools.left_claw.label>ліва лапа</AEXP_BlackFootedFerret.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_BlackFootedFerret.tools.right_claw.label>права лапа</AEXP_BlackFootedFerret.tools.right_claw.label>
+  <!--head-->
+  <AEXP_BlackFootedFerret.tools.head.label>голова</AEXP_BlackFootedFerret.tools.head.label>
+  
+  <!--black rhinoceros-->
+  <AEXP_BlackRhino.label>чорний носоріг</AEXP_BlackRhino.label>
+  <!--A huge herbivorous mammal with a temperamental disposition. Black rhinos differ from their white relatives in their slightly smaller size and in lip shape. The black rhino has a pointed upper lip, while whites have a squared lip, a difference related to the animals' diets: Black rhinos are browsers that get most of their sustenance from eating from bushes.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Critically endangered. Three of the seven subspecies of black rhino have become extinct since 1850  and one is on the brink of extinction. As of 2020, thanks to the persistent efforts of conservation programmes across Africa, black rhino numbers have risen to a current population of between 5,366 and 5,627 individuals.-->
+  <AEXP_BlackRhino.description>Величезний травоїдний ссавець з темпераментним характером. Чорні носороги відрізняються від своїх білих родичів трохи меншим розміром і формою губ. У чорного носорога верхня губа загострена, в той час як у білого – квадратна, що пов'язано з раціоном харчування тварин: Чорні носороги харчуються переважно кущами.\n\n&lt;color=#33d733&gt;Реальний природоохоронний статус:&lt;/color&gt; Під загрозою зникнення. Три із семи підвидів чорного носорога вимерли з 1850 року, а один знаходиться на межі зникнення. Станом на 2020 рік, завдяки наполегливим зусиллям природоохоронних програм по всій Африці, чисельність чорного носорога зросла до поточної популяції від 5 366 до 5 627 особин.</AEXP_BlackRhino.description>
+  <!--horn-->
+  <AEXP_BlackRhino.tools.horn-0.label>ріг</AEXP_BlackRhino.tools.horn-0.label>
+  <!--horn-->
+  <AEXP_BlackRhino.tools.horn-1.label>ріг</AEXP_BlackRhino.tools.horn-1.label>
+  <!--head-->
+  <AEXP_BlackRhino.tools.head.label>голова</AEXP_BlackRhino.tools.head.label>
+  
+  <!--bonobo-->
+  <AEXP_Bonobo.label>бонобо</AEXP_Bonobo.label>
+  <!--The bonobo is a great ape, a smaller relative of the chimpanzee with a rounder skull and flatter face. Bonobos have longer legs, shorter arms, and a narrower trunk. Bonobos exhibit remarkably different social behavior from chimpanzees, with an emphasis on peacemaking, and sex as a tool to manage and diffuse tension.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. Populations have declined rapidly over the last 30 years, but there are no reliable estimates for current bonobo numbers. Their habitat inside the Democratic Republic of the Congo is often threatened by political instability.-->
+  <AEXP_Bonobo.description>Бонобо, або карликовий шимпанзе, – це людиноподібна мавпа, менший родич шимпанзе з більш круглим черепом і пласким обличчям. У бонобо довші ноги, коротші руки і вужчий тулуб. Соціальна поведінка бонобо значно відрізняється від шимпанзе, з акцентом на миротворчість і секс як інструмент управління та розрядки напруги.\n\n&lt;color=#33d733&gt;Реальний природоохоронний статус:&lt;/color&gt; Зникаючий вид. Популяції швидко скорочувалися протягом останніх 30 років, але достовірних оцінок поточної чисельності бонобо не існує. Їхньому середовищу існування в Демократичній Республіці Конго часто загрожує політична нестабільність.</AEXP_Bonobo.description>
+  <!--left fist-->
+  <AEXP_Bonobo.tools.left_fist.label>лівий кулак</AEXP_Bonobo.tools.left_fist.label>
+  <!--right fist-->
+  <AEXP_Bonobo.tools.right_fist.label>правий кулак</AEXP_Bonobo.tools.right_fist.label>
+  <!--head-->
+  <AEXP_Bonobo.tools.head.label>голова</AEXP_Bonobo.tools.head.label>
+  
+  <!--moa-->
+  <AEXP_Moa.label>моа</AEXP_Moa.label>
+  <!--A very large herbivore flightless bird native to the Old Earth islands of New Zealand. The moas lacked even the vestigial wings that all other ratites have. Moas feed on a range of plant species and plant parts, including fibrous twigs and leaves taken from low trees and shrubs.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Recently extinct. Moa were the dominant herbivore in New Zealand before the arrival of humans. Polynesians arrived sometime before 1300, and all moa genera were soon driven to extinction by hunting and, to a lesser extent, by habitat reduction due to forest clearance. By 1445, all moa had become extinct.-->
+  <AEXP_Moa.description>Дуже великий травоїдний нелітаючий птах, що походить з островів Старої Землі в Новій Зеландії. У моа відсутні навіть рудиментарні крила, які є у всіх інших птахів. Живляться різними видами рослин та їх частинами, в тому числі волокнистими гілочками та листям з низьких дерев і чагарників.\n\n&lt;color=#33d733&gt;Реальний природоохоронний статус:&lt;/color&gt; Нещодавно вимерлий. Моа були домінуючими травоїдними тваринами в Новій Зеландії до приходу людей. Полінезійці прибули десь до 1300 року, і незабаром всі роди моа були винищені полюванням і, меншою мірою, скороченням середовища існування через вирубку лісів. До 1445 року всі моа вимерли.</AEXP_Moa.description>
+  <!--claws-->
+  <AEXP_Moa.tools.claws.label>кігті</AEXP_Moa.tools.claws.label>
+  <!--beak-->
+  <AEXP_Moa.tools.beak.label>дзьоб</AEXP_Moa.tools.beak.label>
+  <!--head-->
+  <AEXP_Moa.tools.head.label>голова</AEXP_Moa.tools.head.label>
+  
+  <!--giant panda-->
+  <AEXP_Panda.label>велика панда</AEXP_Panda.label>
+  <!--The panda, with its distinctive and luxuriant black and white fur, is a herviborous bear adapted to life in bamboo forests. The average giant panda eats as much as 9 to 14 kg of bamboo shoots a day to compensate for the limited energy content of its diet. Pandas are generally less agressive than other bear species.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Vulnerable. Recently upgraded from endangered status (as of 2020), wild panda numbers are finally rebounding after years of decline. Habitat loss is their main threat.-->
+  <AEXP_Panda.description>Панда, з її характерним і розкішним чорно-білим хутром, – це вибагливий ведмідь, пристосований до життя в бамбукових лісах. В середньому гігантська панда з'їдає від 9 до 14 кг бамбукових пагонів на день, щоб компенсувати обмежену енергетичну цінність свого раціону. Панди загалом менш агресивні, ніж інші види ведмедів. \n\n&lt;color=#33d733&gt;Реальний природоохоронний статус:&lt;/color&gt; Вразливий. Нещодавно підвищений зі статусу зникаючого виду (станом на 2020 рік), чисельність диких панд нарешті відновлюється після багатьох років спаду. Основна загроза для них – втрата середовища існування.</AEXP_Panda.description>
+  <!--left claw-->
+  <AEXP_Panda.tools.left_claw.label>ліва лапа</AEXP_Panda.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Panda.tools.right_claw.label>права лапа</AEXP_Panda.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Panda.tools.head.label>голова</AEXP_Panda.tools.head.label>
+  
+  <!--quagga-->
+  <AEXP_Quagga.label>квага</AEXP_Quagga.label>
+  <!--The quagga is a subspecies of the plains zebra. It is distinguished from other zebras by its limited pattern of primarily brown and white stripes, mainly on the front part of the body. The rear is brown and without stripes, and appears more horse-like.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Recently Extinct. Quaggas became extinct late in the 19th century due to overhunting by Afrikaners. The Quagga Project was started in 1987 in South Africa to create a quagga-like zebra population by selectively breeding for a reduced stripe pattern from plains zebra stock, with the eventual aim of introducing them to the quagga's former range.-->
+  <AEXP_Quagga.description>Квага – підвид рівнинної зебри. Від інших зебр її відрізняє обмежений візерунок з переважно коричневих і білих смуг, переважно на передній частині тіла. Задня частина тіла коричнева, без смуг, і виглядає більш схожою на коня. \n\n&lt;color=#33d733&gt;Реальний природоохоронний статус:&lt;/color&gt; Нещодавно вимерлий. Кваги вимерли наприкінці 19 століття через надмірне полювання африканців. Проєкт "The Quagga Project South Africa" був започаткований у 1987 році в Південній Африці для створення популяції зебр, схожих на квагу, шляхом селективної селекції на зменшення смугастості від популяції рівнинних зебр, з кінцевою метою заселення ними колишнього ареалу розповсюдження кваг.</AEXP_Quagga.description>
+  <!--head-->
+  <AEXP_Quagga.tools.head.label>голова</AEXP_Quagga.tools.head.label>
+  <!--left hoof-->
+  <AEXP_Quagga.tools.left_hoof.label>ліве копито</AEXP_Quagga.tools.left_hoof.label>
+  <!--right hoof-->
+  <AEXP_Quagga.tools.right_hoof.label>праве копито</AEXP_Quagga.tools.right_hoof.label>
+  
+  <!--rockhopper penguin-->
+  <AEXP_RockhopperPenguin.label>чубатий пінгвін</AEXP_RockhopperPenguin.label>
+  <!--Much smaller in size than the emperor penguin, rockhopper penguins weigh less than 10 pounds. They were named for their distinctive hopping movements over the rocky hills and cliffs where they live and breed.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Vulnerable. In the last 30 years, it is estimated that the population of rockhoppers has fallen by nearly 25%—and now climate change could place them at even greater risk.-->
+  <AEXP_RockhopperPenguin.description>Набагато менші за розміром, ніж імператорських пінгвінів, чубаті пінгвіни важать менше 4,3 кг. Він має великий досвід по частині лазання по дуже крутих гірських схилах за допомогою обох ніг, де вони живуть і розмножуються. \n\n&lt;color=#33d733&gt;Реальний природоохоронний статус:&lt;/color&gt; Вразливий. За останні 30 років, за оцінками, популяція стрибунів скоротилася майже на 25%, а тепер зміна клімату може поставити їх під ще більшу загрозу.</AEXP_RockhopperPenguin.description>
+  <!--claws-->
+  <AEXP_RockhopperPenguin.tools.claws.label>кігті</AEXP_RockhopperPenguin.tools.claws.label>
+  <!--beak-->
+  <AEXP_RockhopperPenguin.tools.beak.label>дзьоб</AEXP_RockhopperPenguin.tools.beak.label>
+  <!--head-->
+  <AEXP_RockhopperPenguin.tools.head.label>голова</AEXP_RockhopperPenguin.tools.head.label>
+  
+  <!--tasmanian devil-->
+  <AEXP_TasmanianDevil.label>тасманійський диявол</AEXP_TasmanianDevil.label>
+  <!--A carnivorous marsupial characterised by its stocky and muscular build, black fur, pungent odour, extremely loud and disturbing screech, keen sense of smell, and ferocity when feeding.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. Experts estimate that the devil has suffered a more than 80% decline in its population since the mid-1990s. It is estimated that fewer than 25,000 Tasmanian devils still live in the wild.-->
+  <AEXP_TasmanianDevil.description>Хижий сумчастий ссавець, що характеризується кремезною і м'язистою статурою, чорним хутром, різким запахом, надзвичайно гучним і тривожним криком, гострим нюхом і жорстокістю під час харчування.\n\n&lt;color=#33d733&gt;Реальний природоохоронний статус:&lt;/color&gt; Зникаючий. За оцінками експертів, із середини 1990-х років чисельність диявола скоротилася більш ніж на 80%. За оцінками, в дикій природі залишилося менше 25 000 тасманійських дияволів.</AEXP_TasmanianDevil.description>
+  <!--left claw-->
+  <AEXP_TasmanianDevil.tools.left_claw.label>ліва лапа</AEXP_TasmanianDevil.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_TasmanianDevil.tools.right_claw.label>права лапа</AEXP_TasmanianDevil.tools.right_claw.label>
+  <!--head-->
+  <AEXP_TasmanianDevil.tools.head.label>голова</AEXP_TasmanianDevil.tools.head.label>
+  
+  <!--thylacine-->
+  <AEXP_Thylacine.label>тилацин</AEXP_Thylacine.label>
+  <!--Commonly known as the Tasmanian tiger because of its striped lower back, the Thylacine is a shy and nocturnal carnivorous predator, with the general appearance of a medium-to-large-size dog, except for its stiff tail and abdominal pouch similar to a kangaroo's.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Recently Extinct. The last known thylacine died from exposure at the Beaumaris Zoo in Hobart in 1936. While it is estimated there were around 5000 thylacines in Tasmania at the time of European settlement, excessive hunting, combined with factors such as habitat destruction and introduced disease, led to the rapid extinction of the species.-->
+  <AEXP_Thylacine.description>Відомий як сумчастий вовк, через те, що самиці цього виду мають розродну сумку, в якій доношують дитинчат, тилацин – це полохливий хижак, який веде нічний спосіб життя і має загальний вигляд собаки середнього або великого розміру, за винятком жорсткого хвоста і черевної сумки.\n\n&lt;color=#33d733&gt; Реальний природоохоронний статус:&lt;/color&gt;Нещодавно вимерлий. Останній відомий тилацин загинув від опромінення в зоопарку Бомаріс у Хобарті в 1936 році. За оцінками, на момент заселення Тасманії європейцями налічувалося близько 5000 тилацинів, але надмірне полювання в поєднанні з такими факторами, як руйнування середовища існування та інтродуковані хвороби, призвели до швидкого вимирання виду.</AEXP_Thylacine.description>
+  <!--left claw-->
+  <AEXP_Thylacine.tools.left_claw.label>ліва лапа</AEXP_Thylacine.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Thylacine.tools.right_claw.label>права лапа</AEXP_Thylacine.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Thylacine.tools.head.label>голова</AEXP_Thylacine.tools.head.label>
+  
+  <!--african wild dog-->
+  <AEXP_AfricanWildDog.label>африканський гієновий собака</AEXP_AfricanWildDog.label>
+  <!--A large canine, distinguished from dogs and wolves by dentition highly specialised for a hypercarnivorous diet, and a lack of dewclaws. The African wild dog is a highly social animal, living in packs. Like most wild canines, they prefer to stay as far away from humans as possible.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. The African wild dog is primarily threatened by habitat fragmentation, which results in human–wildlife conflict, transmission of infectious diseases and high mortality rates. It is estimated that about 6,600 adults survive as of 2020.-->
+  <AEXP_AfricanWildDog.description>Великий псовий, що відрізняється від собак і вовків зубами, пристосованими до гіперм'ясоїдної дієти, і відсутністю росяних кігтів. Африканський дикий собака - дуже соціальна тварина, живе у зграях. Як і більшість диких псових, вони воліють триматися якомога далі від людини.\n\n&lt;color=#33d733&gt;Реальний природоохоронний статус:&lt;/color&gt; Зникаючий. Африканському гієновому собаці насамперед загрожує фрагментація ареалу, що призводить до конфлікту між людиною і дикою природою, передачі інфекційних захворювань і високої смертності. За оцінками, станом на 2020 рік в живих залишилося близько 6 600 дорослих особин.</AEXP_AfricanWildDog.description>
+  <!--left claw-->
+  <AEXP_AfricanWildDog.tools.left_claw.label>ліва лапа</AEXP_AfricanWildDog.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_AfricanWildDog.tools.right_claw.label>права лапа</AEXP_AfricanWildDog.tools.right_claw.label>
+  <!--head-->
+  <AEXP_AfricanWildDog.tools.head.label>голова</AEXP_AfricanWildDog.tools.head.label>
+  
+  <!--giant pangolin-->
+  <AEXP_Pangolin.label>велетенський панґолін</AEXP_Pangolin.label>
+  <!--Sometimes known as scaly anteaters, pangolins are mammals with large, protective keratin scales covering their skin. Pangolins are nocturnal, and their diet consists of mainly ants and termites, which they capture using their long tongues. They tend to be solitary animals, meeting only to mate.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. The giant pangolin is threatened by habitat destruction and deforestation, and hunting for the bushmeat trade. Pangolins have become the most heavily trafficked wild mammal in the world.-->
+  <AEXP_Pangolin.description>Панґоліни – це ссавці з великими захисними кератиновими лусочками, що вкривають їхню шкіру. Панґоліни ведуть нічний спосіб життя, а їхній раціон складається переважно з мурах і термітів, яких вони хапають своїм довгим язиком. Це, як правило, поодинокі тварини, які зустрічаються лише для спарювання.\n\n&lt;color=#33d733&gt;Реальний природоохоронний статус:&lt;/color&gt; Під загрозою зникнення. Велетенському панґоліну загрожує знищення середовища існування, вирубка лісів, а також полювання заради торгівлі їхнім м'ясом. Панґоліни стали найбільшими жертвами незаконного вилову диких ссавців у світі.</AEXP_Pangolin.description>
+  <!--left claw-->
+  <AEXP_Pangolin.tools.left_claw.label>ліва лапа</AEXP_Pangolin.tools.left_claw.label>
+  <!--right claw-->
+  <AEXP_Pangolin.tools.right_claw.label>права лапа</AEXP_Pangolin.tools.right_claw.label>
+  <!--head-->
+  <AEXP_Pangolin.tools.head.label>голова</AEXP_Pangolin.tools.head.label>
+</LanguageData>

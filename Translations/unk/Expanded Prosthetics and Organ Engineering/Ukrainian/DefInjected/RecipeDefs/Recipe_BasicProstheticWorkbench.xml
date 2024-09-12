@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateSteelArm.label>Створити сталеву руку</CreateSteelArm.label>
+	<CreateSteelArm.description>Створити сталеву руку з металу.</CreateSteelArm.description>
+	<CreateSteelArm.jobString>Створює сталеву руку</CreateSteelArm.jobString>
+	
+	<CreatePegLeg.label>Створити дерев'яну ногу</CreatePegLeg.label>
+	<CreatePegLeg.description>Створити дерев'яну ноги з дерева.</CreatePegLeg.description>
+	<CreatePegLeg.jobString>Створює дерев'яну ногу</CreatePegLeg.jobString>
+
+	<CreateEyePatch.label>Зшити пов'язку на око</CreateEyePatch.label>
+	<CreateEyePatch.description>Зшити пов'язку на око.</CreateEyePatch.description>
+	<CreateEyePatch.jobString>Шиє пов'язку на око</CreateEyePatch.jobString>
+
+	<CreateHookHand.label>Створити руку-крюк</CreateHookHand.label>
+	<CreateHookHand.description>Створити руку-крюк з тканини і металу.</CreateHookHand.description>
+	<CreateHookHand.jobString>Створює руку-крюк</CreateHookHand.jobString>
+
+	<CreateDenture.label>Створити дерев'яну щелепу</CreateDenture.label>
+	<CreateDenture.description>Створити дерев'яний зубний протез, легкий для виготовлення.</CreateDenture.description>
+	<CreateDenture.jobString>Створює дерев'яну щелепу</CreateDenture.jobString>
+
+	<CreateWoodenFoot.label>Створити дерев'яну стопу</CreateWoodenFoot.label>
+	<CreateWoodenFoot.description>Вирізати дерев'яний брусок у формі стопи.</CreateWoodenFoot.description>
+	<CreateWoodenFoot.jobString>Створює дерев'яну стопу</CreateWoodenFoot.jobString>
+	
+	<CreateEarBandage.label>Зшити бандаж на вухо</CreateEarBandage.label>
+	<CreateEarBandage.description>Зшити бандаж на вухо з тканини.</CreateEarBandage.description>
+	<CreateEarBandage.jobString>Шиє бандаж на вухо</CreateEarBandage.jobString>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <Computer_LearningBoost.label>Прискорення навчання</Computer_LearningBoost.label>
+  <Computer_LearningBoost.description>Бонус до навчання, завдяки грі за комп'ютером</Computer_LearningBoost.description>
+  
+  <Computer_LearningBoost.stages.Minor.label>Незначне</Computer_LearningBoost.stages.Minor.label>
+  <Computer_LearningBoost.stages.Major.label>Середнє</Computer_LearningBoost.stages.Major.label>
+  <Computer_LearningBoost.stages.Max.label>Найліпше</Computer_LearningBoost.stages.Max.label>
+</LanguageData>

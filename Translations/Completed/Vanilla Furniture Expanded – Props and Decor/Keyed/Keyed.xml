@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFE_ChoosePropCategory>Оберіть категорію реквізіту:</VFE_ChoosePropCategory>
+  <VFE_GoBack>Назад</VFE_GoBack>
+  <VFE_PrefabSearch>Пошук</VFE_PrefabSearch>
+  <VFE_NoSilver>Недостатньо срібла. Вам потрібно мати принаймні {0} срібла, щоб побудувати цей реквізит</VFE_NoSilver>
+  <VFE_PropCostMultiplier>Множник вартості реквізиту</VFE_PropCostMultiplier>
+  <VFE_PropCostMultiplierDesc>Вартість реквізиту та декору, які купуються за срібло, розраховується залежно від їхнього розміру, хіт-поінтів і покриття. За допомогою цього повзунка ви можете змінювати їхню вартість. 0 вимикає всі витрати на срібло.</VFE_PropCostMultiplierDesc>
+  <VFE_SilverReturnMultiplier>Множник повернення срібла</VFE_SilverReturnMultiplier>
+  <VFE_SilverReturnMultiplierDesc>При знищенні реквізиту повертається його купівельна вартість у сріблі. За замовчуванням це буде 100% від цієї вартості, але її можна зменшити за допомогою цього налаштування.</VFE_SilverReturnMultiplierDesc>
+  <VFE_Reset>Скинути</VFE_Reset>
+  <VPE_NeedsMats>Накреслено</VPE_NeedsMats>
+  <VPE_NeedsMatsDesc>Для створення цього реквізиту замість срібла потрібні будівельні матеріали, і колоністи мають будувати його власноруч</VPE_NeedsMatsDesc>
+  <VFEPD_BuildProps>реквізити</VFEPD_BuildProps>
+  <VFEPD_BuildPropsDesc>Відкрийте меню, щоб купити реквізити за срібло.</VFEPD_BuildPropsDesc>
+  <VFEPD_ResearchNeeded>Неможливо побудувати, поки {0} не буде досліджено поселенням</VFEPD_ResearchNeeded>
+  <VFEPD_MakeCopy>Побудувати копію</VFEPD_MakeCopy>
+  <VFEPD_MakeCopyDesc>Побудувати копію цього реквізиту. Для цього вам потрібно мати в запасі достатньо срібла для реквізиту.</VFEPD_MakeCopyDesc>
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IntestinalFailure.label>кишкова недостатність</IntestinalFailure.label>
+  <IntestinalFailure.description>Кишкова недостатність</IntestinalFailure.description>
+  <IntestinalFailure.stages.2.label>присмерті</IntestinalFailure.stages.2.label>
+
+  <LiverFailure.label>печінкова недостатність</LiverFailure.label>
+  <LiverFailure.description>Гостра печінкова недостатність</LiverFailure.description>
+  <LiverFailure.stages.1.label>присмерті</LiverFailure.stages.1.label>
+
+  <KidneyFailure.label>гостра ниркова недостатність</KidneyFailure.label>
+  <KidneyFailure.description>Гостра ниркова недостатність</KidneyFailure.description>
+  <KidneyFailure.stages.1.label>присмерті</KidneyFailure.stages.1.label>
+
+  <ClinicalDeathNoHeartbeat.label>нема пульса</ClinicalDeathNoHeartbeat.label>
+  <ClinicalDeathNoHeartbeat.description>Зупинка серця</ClinicalDeathNoHeartbeat.description>
+  <ClinicalDeathNoHeartbeat.stages.1.label>клінічна смерть</ClinicalDeathNoHeartbeat.stages.1.label>
+
+  <ClinicalDeathAsphyxiation.label>киснева недостатність</ClinicalDeathAsphyxiation.label>
+  <ClinicalDeathAsphyxiation.description>Мозок страждає від нестачі кисню</ClinicalDeathAsphyxiation.description>-->
+  <ClinicalDeathAsphyxiation.stages.1.label>клінічна смерть</ClinicalDeathAsphyxiation.stages.1.label>
+
+  <Coma.label>кома</Coma.label>-->
+  <Coma.description>Жертва впала в кому</Coma.description>
+
+  <BrainDamage.label>пошкодження мозку</BrainDamage.label>
+  <BrainDamage.description>Мозок жертви пошкоджено</BrainDamage.description>
+  <BrainDamage.stages.0.label>мінімальне</BrainDamage.stages.0.label>
+  <BrainDamage.stages.1.label>незначне</BrainDamage.stages.1.label>
+  <BrainDamage.stages.2.label>відчутне</BrainDamage.stages.2.label>
+  <BrainDamage.stages.3.label>серйозне</BrainDamage.stages.3.label>
+  <BrainDamage.stages.4.label>екстремальне</BrainDamage.stages.4.label>
+  <BrainDamage.stages.5.label>стан овоча</BrainDamage.stages.5.label>
+
+
+   These two are legacy Hediffs, only present for save compatibility 
+
+  <SevereBrainDamage.label>сильне пошкодження мозку</SevereBrainDamage.label>
+  <SevereBrainDamage.description>Жертва має сильне пошкодження мозку</SevereBrainDamage.description>
+
+  <VegetativeState.label>овоч</VegetativeState.label>-->
+  <VegetativeState.description>Жертва в овочевому стані</VegetativeState.description>
+
+
+</LanguageData>

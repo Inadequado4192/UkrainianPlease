@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--  Ангорський кріль  -->
+  <!--angora rabbit-->
+  <VAERoy_AngoraRabbit.label>ангорський кріль</VAERoy_AngoraRabbit.label>
+  <VAERoy_AngoraRabbit.labelMale>ангорський кріль</VAERoy_AngoraRabbit.labelMale>
+  <VAERoy_AngoraRabbit.labelFemale>ангорська кролиха</VAERoy_AngoraRabbit.labelFemale>
+  <VAERoy_AngoraRabbit.labelPlural>ангорські кролі</VAERoy_AngoraRabbit.labelPlural>
+  
+  <VAERoy_AngoraRabbit.lifeStages.0.label>ангорське кроля</VAERoy_AngoraRabbit.lifeStages.0.label>
+  <VAERoy_AngoraRabbit.lifeStages.0.labelPlural>ангорські кролята</VAERoy_AngoraRabbit.lifeStages.0.labelPlural>
+
+  <VAERoy_AngoraRabbit.lifeStages.1.labelMale>молодий ангорський кріль</VAERoy_AngoraRabbit.lifeStages.1.labelMale>
+  <VAERoy_AngoraRabbit.lifeStages.1.labelFemale>молода ангорська кролиха</VAERoy_AngoraRabbit.lifeStages.1.labelFemale>
+  <VAERoy_AngoraRabbit.lifeStages.1.labelPlural>молоді ангорські кролі</VAERoy_AngoraRabbit.lifeStages.1.labelPlural>
+
+  <!--  Журавель  -->
+  <!--crane-->
+  <VAERoy_Crane.label>журавель</VAERoy_Crane.label>
+  <VAERoy_Crane.labelPlural>журавлі</VAERoy_Crane.labelPlural>
+  <!--crane chick-->
+  <VAERoy_Crane.lifeStages.crane_chick.label>журавленя</VAERoy_Crane.lifeStages.crane_chick.label>
+  <VAERoy_Crane.lifeStages.crane_chick.labelPlural>журавленята</VAERoy_Crane.lifeStages.crane_chick.labelPlural>
+  
+  <VAERoy_AngoraRabbit.lifeStages.1.label>молодий журавель</VAERoy_AngoraRabbit.lifeStages.1.label>
+  <VAERoy_AngoraRabbit.lifeStages.1.labelPlural>молоді журавлі</VAERoy_AngoraRabbit.lifeStages.1.labelPlural>
+  
+  <!--  Мегакурка  -->
+  <!--megachicken-->
+  <VAERoy_Megachicken.label>мегакурка</VAERoy_Megachicken.label>
+  <!--megahen-->
+  <VAERoy_Megachicken.labelFemale>мегакурка</VAERoy_Megachicken.labelFemale>
+  <!--megacock-->
+  <VAERoy_Megachicken.labelMale>мегапівень</VAERoy_Megachicken.labelMale>
+  <VAERoy_Megachicken.labelPlural>мегакурки</VAERoy_Megachicken.labelPlural>
+  
+  <!--megachick-->
+  <VAERoy_Megachicken.lifeStages.megachick.label>мегакурча</VAERoy_Megachicken.lifeStages.megachick.label>
+  <VAERoy_Megachicken.lifeStages.megachick.labelPlural>мегакурчата</VAERoy_Megachicken.lifeStages.megachick.labelPlural>
+  
+  <!--megacockerel-->
+  <VAERoy_Megachicken.lifeStages.megacockerel.labelMale>мегапівник</VAERoy_Megachicken.lifeStages.megacockerel.labelMale>
+  <VAERoy_Megachicken.lifeStages.megacockerel.labelFemale>мегакурочка</VAERoy_Megachicken.lifeStages.megacockerel.labelFemale>
+  <VAERoy_Megachicken.lifeStages.megacockerel.labelPlural>молоді мегакурки</VAERoy_Megachicken.lifeStages.megacockerel.labelPlural>
+
+  <VAERoy_Megachicken.lifeStages.2.labelMale>молодий мегапівень</VAERoy_Megachicken.lifeStages.2.labelMale>
+  <VAERoy_Megachicken.lifeStages.2.labelFemale>молода мегакурка</VAERoy_Megachicken.lifeStages.2.labelFemale>
+  <VAERoy_Megachicken.lifeStages.2.labelPlural>молоді мегакурки</VAERoy_Megachicken.lifeStages.2.labelPlural>
+   
+  <!--  Орангутанг  -->
+  <!--orangutan-->
+  <VAERoy_Orangutan.label>орангутанг</VAERoy_Orangutan.label>
+  <VAERoy_Orangutan.labelPlural>орангутанги</VAERoy_Orangutan.labelPlural>
+  
+  <VAERoy_Orangutan.lifeStages.0.label>дитинча орангутанга</VAERoy_Orangutan.lifeStages.0.label>
+  <VAERoy_Orangutan.lifeStages.0.labelPlural>дитинчата орангутанга</VAERoy_Orangutan.lifeStages.0.labelPlural>
+  
+  <VAERoy_Orangutan.lifeStages.1.label>молодий орангутанг</VAERoy_Orangutan.lifeStages.1.label>
+  <VAERoy_Orangutan.lifeStages.1.labelPlural>молоді орангутанги</VAERoy_Orangutan.lifeStages.1.labelPlural>
+  
+  <!--  Павич  -->
+  <!--peacock-->
+  <VAERoy_Peacock.label>павич</VAERoy_Peacock.label>
+  <VAERoy_Peacock.labelMale>павич</VAERoy_Peacock.labelMale>
+  <VAERoy_Peacock.labelFemale>пава</VAERoy_Peacock.labelFemale>
+  <VAERoy_Peacock.labelPlural>павичі</VAERoy_Peacock.labelPlural>
+  
+  <!--peachick-->
+  <VAERoy_Peacock.lifeStages.peachick.label>пташеня павича</VAERoy_Peacock.lifeStages.peachick.label>
+  <VAERoy_Peacock.lifeStages.peachick.labelPlural>пташенята павича</VAERoy_Peacock.lifeStages.peachick.labelPlural>
+  
+  <VAERoy_Peacock.lifeStages.1.labelMale>молодий павич</VAERoy_Peacock.lifeStages.1.labelMale>
+  <VAERoy_Peacock.lifeStages.1.labelFemale>молода пава</VAERoy_Peacock.lifeStages.1.labelFemale>
+  <VAERoy_Peacock.lifeStages.1.labelPlural>молоді павичі</VAERoy_Peacock.lifeStages.1.labelPlural>
+  
+  <!--  Фазан  -->
+  <!--pheasant-->
+  <VAERoy_Pheasant.label>фазан</VAERoy_Pheasant.label>
+  <VAERoy_Pheasant.labelPlural>фазани</VAERoy_Pheasant.labelPlural>
+  
+  <!--pheasant chick-->
+  <VAERoy_Pheasant.lifeStages.pheasant_chick.label>фазаненя</VAERoy_Pheasant.lifeStages.pheasant_chick.label>
+  <VAERoy_Pheasant.lifeStages.pheasant_chick.labelPlural>фазаненята</VAERoy_Pheasant.lifeStages.pheasant_chick.labelPlural>
+  
+  <VAERoy_Pheasant.lifeStages.1.label>молодий фазан</VAERoy_Pheasant.lifeStages.1.label>
+  <VAERoy_Pheasant.lifeStages.1.labelPlural>молоді фазани</VAERoy_Pheasant.lifeStages.1.labelPlural>
+  
+  <!--  Перепілка  -->
+  <!--quail-->
+  <VAERoy_Quail.label>перепілка</VAERoy_Quail.label>
+  <VAERoy_Quail.labelMale>перепел</VAERoy_Quail.labelMale>
+  <VAERoy_Quail.labelFemale>перепілка</VAERoy_Quail.labelFemale>
+  <VAERoy_Quail.labelPlural>перепілки</VAERoy_Quail.labelPlural>
+  
+  <!--quail chick-->
+  <VAERoy_Quail.lifeStages.quail_chick.label>пташеня перепілки</VAERoy_Quail.lifeStages.quail_chick.label>
+  <VAERoy_Quail.lifeStages.quail_chick.labelPlural>пташенята перепілки</VAERoy_Quail.lifeStages.quail_chick.labelPlural>
+  
+  <VAERoy_Quail.lifeStages.1.labelMale>молодий перепел</VAERoy_Quail.lifeStages.1.labelMale>
+  <VAERoy_Quail.lifeStages.1.labelFemale>молода перепілка</VAERoy_Quail.lifeStages.1.labelFemale>
+  <VAERoy_Quail.lifeStages.1.labelPlural>молоді перепілки</VAERoy_Quail.lifeStages.1.labelPlural>
+
+  <!--  Королівський тигр  -->
+  <!--royal tiger-->
+  <VAERoy_RoyalTiger.label>королівський тигр</VAERoy_RoyalTiger.label>
+  <VAERoy_RoyalTiger.labelMale>королівський тигр</VAERoy_RoyalTiger.labelMale>
+  <VAERoy_RoyalTiger.labelFemale>королівська тигриця</VAERoy_RoyalTiger.labelFemale>
+  <VAERoy_RoyalTiger.labelPlural>королівські тигри</VAERoy_RoyalTiger.labelPlural>
+  
+  <VAERoy_RoyalTiger.lifeStages.0.label>королівське тигреня</VAERoy_RoyalTiger.lifeStages.0.label>
+  <VAERoy_RoyalTiger.lifeStages.0.labelPlural>королівські тигренята</VAERoy_RoyalTiger.lifeStages.0.labelPlural>
+
+  <VAERoy_RoyalTiger.lifeStages.1.labelMale>молодий королівський тигр</VAERoy_RoyalTiger.lifeStages.1.labelMale>
+  <VAERoy_RoyalTiger.lifeStages.1.labelFemale>молода королівська тигриця</VAERoy_RoyalTiger.lifeStages.1.labelFemale>
+  <VAERoy_RoyalTiger.lifeStages.1.labelPlural>молоді королівські тигри</VAERoy_RoyalTiger.lifeStages.1.labelPlural>
+  
+  <!--  Лебідь  -->
+  <!--swan-->
+  <VAERoy_Swan.label>лебідь</VAERoy_Swan.label>
+  <VAERoy_Swan.labelMale>лебідь</VAERoy_Swan.labelMale>
+  <VAERoy_Swan.labelFemale>лебедиця</VAERoy_Swan.labelFemale>
+  <VAERoy_Swan.labelPlural>лебеді</VAERoy_Swan.labelPlural>
+  
+  <!--cygnet-->
+  <VAERoy_Swan.lifeStages.cygnet.label>лебедя</VAERoy_Swan.lifeStages.cygnet.label>
+  <VAERoy_Swan.lifeStages.cygnet.labelPlural>лебедята</VAERoy_Swan.lifeStages.cygnet.labelPlural>
+  
+  <VAERoy_Swan.lifeStages.1.labelMale>молодий лебідь</VAERoy_Swan.lifeStages.1.labelMale>
+  <VAERoy_Swan.lifeStages.1.labelFemale>молода лебедиця</VAERoy_Swan.lifeStages.1.labelFemale>
+  <VAERoy_Swan.lifeStages.1.labelPlural>молоді лебеді</VAERoy_Swan.lifeStages.1.labelPlural>
+</LanguageData>

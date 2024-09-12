@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_Art_Desired.stages.0.label>немає мистецтва поблизу</AM_Art_Desired.stages.0.label>
+  <AM_Art_Desired.stages.0.description>Ця колонія безплідна на образотворче мистецтво. Це ганьба.</AM_Art_Desired.stages.0.description>
+  <AM_Art_Desired.stages.1.label>дуже мало мистецтва навколо</AM_Art_Desired.stages.1.label>
+  <AM_Art_Desired.stages.1.description>Навколо лише купа творів мистецтва: там, де дух не працює з рукою, немає мистецтва.</AM_Art_Desired.stages.1.description>
+  <AM_Art_Desired.stages.2.label>кілька творів мистецтва навколо</AM_Art_Desired.stages.2.label>
+  <AM_Art_Desired.stages.2.description>Ця колонія починає нагадувати справжню художню галерею. Життя б'є і розчавлює душу, а мистецтво нагадує, що вона в тебе є.</AM_Art_Desired.stages.2.description>
+  <AM_Art_Desired.stages.3.label>твори мистецтва навколо</AM_Art_Desired.stages.3.label>
+  <AM_Art_Desired.stages.3.description>Колонію прикрашають кілька мистецьких творів. Людське життя сповнене хаосу та страждань, а ліками від них є краса.</AM_Art_Desired.stages.3.description>
+  <AM_Art_Desired.stages.4.label>багато творів мистецтва навколо</AM_Art_Desired.stages.4.label>
+  <AM_Art_Desired.stages.4.description>У цій колонії дуже багато творів мистецтва. Це зігріває мою душу.</AM_Art_Desired.stages.4.description>
+  <AM_Art_Desired.stages.5.label>в оточенні мистецтва</AM_Art_Desired.stages.5.label>
+  <AM_Art_Desired.stages.5.description>Мистецтво змиває з душі пил повсякденності.</AM_Art_Desired.stages.5.description>
+
+
+</LanguageData>

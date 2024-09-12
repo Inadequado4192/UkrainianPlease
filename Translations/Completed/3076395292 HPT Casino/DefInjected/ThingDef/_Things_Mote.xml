@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <Mote_ReelBlurA.label>Mote</Mote_ReelBlurA.label>
+  <Mote_ReelBlurB.label>Mote</Mote_ReelBlurB.label>
+  <Mote_ReelBlurC.label>Mote</Mote_ReelBlurC.label>
+  <Mote_ReelOutcomeSeven.label>Mote</Mote_ReelOutcomeSeven.label>
+  <Mote_ReelOutcomeFruit.label>Mote</Mote_ReelOutcomeFruit.label>
+  <Mote_ReelOutcomeBar.label>Mote</Mote_ReelOutcomeBar.label>
+
+
+</LanguageData>

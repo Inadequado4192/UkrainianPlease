@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: using endogenefier. -->
+  <AG_UseEndogenefier.reportString>використовує ендогенізатор.</AG_UseEndogenefier.reportString>
+  
+  <!-- EN: using genepack disruptor. -->
+  <AG_UseGenepackDisruptor.reportString>використовує дезорганізатор генпакету.</AG_UseGenepackDisruptor.reportString>
+  
+  <!-- EN: using genepack tweaker. -->
+  <AG_UseGenepackTweaker.reportString>використовує коригувач генпакету.</AG_UseGenepackTweaker.reportString>
+  
+  <!-- EN: using gene remover. -->
+  <AG_UseGeneRemover.reportString>використовує видаляч генів.</AG_UseGeneRemover.reportString>
+  
+  <!-- EN: using germline mutator. -->
+  <AG_UseGermlineMutator.reportString>використовує мутатор зародкової лінії.</AG_UseGermlineMutator.reportString>
+  
+  <!-- EN: using xenogenefier. -->
+  <AG_UseXenogenefier.reportString>використовує ксеногенізатор.</AG_UseXenogenefier.reportString>
+  
+  <!-- EN: using xenotype injector. -->
+  <AG_UseXenotypeInjector.reportString>використовує інжектор ксенотипу.</AG_UseXenotypeInjector.reportString>
+  
+  <!-- EN: using xenotype nullifier. -->
+  <AG_UseXenotypeNullifier.reportString>використовує нуліфікатор ксенотипу.</AG_UseXenotypeNullifier.reportString>
+  
+</LanguageData>

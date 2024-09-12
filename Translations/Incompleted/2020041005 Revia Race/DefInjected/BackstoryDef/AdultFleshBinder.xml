@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: There are few healers in Revian society, but those that are healers earn the begrudging trust of the others. [PAWN_nameDef] apprenticed under other acolytes, learning the functions of various body parts as [PAWN_pronoun] sees them extracted from sacrifices. [PAWN_possessive] bedside manners may be lacking, but [PAWN_pronoun] certainly does not lack for practical knowledge of bodily functions. -->
+  <ReviaRaceBackstoryAdultFleshBinder.baseDesc>У ревіанському суспільстві мало цілителів, але ті, що є, заслуговують на заздрісну довіру інших. [PAWN_nameDef] {PAWN_gender ? навчався : навчалась} під керівництвом інших служителів, вивчаючи функції різних частин тіла, які [PAWN_pronoun] {PAWN_gender ? бачив : бачила}, як їх витягують з жертвоприношень. [PAWN_possessive] може не володіти лікарськими манерами, але [PAWN_pronoun], безумовно, не бракує практичних знань про функції тіла.</ReviaRaceBackstoryAdultFleshBinder.baseDesc>
+  <!-- EN: Revian Fleshbinder -->
+  <ReviaRaceBackstoryAdultFleshBinder.title>Ревійський Зв'язувач Тіл</ReviaRaceBackstoryAdultFleshBinder.title>
+  <!-- EN: Healer -->
+  <ReviaRaceBackstoryAdultFleshBinder.titleShort>Цілитель</ReviaRaceBackstoryAdultFleshBinder.titleShort>
+  
+</LanguageData>

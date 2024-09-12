@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VNPE_NutValve>Перемикнути потік.</VNPE_NutValve>
+  <VNPE_NutValveDesc>Ввімкнути/вимкнути подачу поживної пасти. Поселенець незабаром прийде та перемикне його.</VNPE_NutValveDesc>
+  <VNPE_Drain>Злити</VNPE_Drain>
+  <VNPE_DrainDesc>Злити вміст чану. Це повністю очистить його.</VNPE_DrainDesc>
+  <VNPE_Extract5>Видати 5 порцій</VNPE_Extract5>
+  <VNPE_Extract10>Видати 10 порцій</VNPE_Extract10>
+  <VNPE_Extract20>Видати 20 порцій</VNPE_Extract20>
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: healing touch -->
+  <AG_HealingTouch.label>цілющий дотик</AG_HealingTouch.label>
+  <!-- EN: Carriers of this gene can repurpose their tumors to heal other people, consuming the cancerous masses in the process. -->
+  <AG_HealingTouch.description>Носії цього гена можуть перепрофілювати свої пухлини для зцілення інших людей, поглинаючи при цьому ракові маси.</AG_HealingTouch.description>
+  
+  <!-- EN: teratogenesis -->
+  <AG_Teratogenesis.label>тератогенез</AG_Teratogenesis.label>
+  <!-- EN: Carriers of this gene constantly generate tumors all over their body. They are not immune to death from these tumors. -->
+  <AG_Teratogenesis.description>У носіїв цього гена постійно утворюються пухлини по всьому тілу. Вони не застраховані від смерті від цих пухлин.</AG_Teratogenesis.description>
+  <!-- EN: A new carcinoma will be generated every 42000 to 72000 ticks (0.7 to 1.2 days), and no more than ten carcinomas may be present at the same time on the body. -->
+  <AG_Teratogenesis.customEffectDescriptions.0>Нова карцинома утворюється кожні 42000-72000 тіків (0,7-1,2 дні), і одночасно на тілі може бути присутнім не більше десяти карцином.</AG_Teratogenesis.customEffectDescriptions.0>
+  
+  <!-- EN: teratogenic touch -->
+  <AG_TeratogenicBurst.label>тератогенний дотик</AG_TeratogenicBurst.label>
+  <!-- EN: Carriers of this gene can transfer their tumors to another person, which is generally as painful and dangerous as it sounds. -->
+  <AG_TeratogenicBurst.description>Носії цього гена можуть передавати свої пухлини іншій людині, що, як правило, так само болісно і небезпечно, як і звучить.</AG_TeratogenicBurst.description>
+  
+  <!-- EN: teratogenic healing -->
+  <AG_TeratogenicHealing.label>тератогенне загоювання</AG_TeratogenicHealing.label>
+  <!-- EN: Carriers of this gene can repurpose their tumors to heal them, consuming the cancerous masses in the process. -->
+  <AG_TeratogenicHealing.description>Носії цього гена можуть перепрофілювати свої пухлини для їхнього зцілення, поглинаючи при цьому ракові маси.</AG_TeratogenicHealing.description>
+  
+  <!-- EN: teratogenic coordination -->
+  <AG_TeratogenicManipulation.label>тератогенна координація</AG_TeratogenicManipulation.label>
+  <!-- EN: Carriers of this gene can repurpose their tumors to provide them a huge boost to their manipulation and dexterity. -->
+  <AG_TeratogenicManipulation.description>Носії цього гена можуть перепрофілювати свої пухлини, що дає їм величезний поштовх до маніпуляцій та спритності.</AG_TeratogenicManipulation.description>
+  
+  <!-- EN: teratogenic stamina -->
+  <AG_TeratogenicStamina.label>тератогенна витривалість</AG_TeratogenicStamina.label>
+  <!-- EN: Carriers of this gene can repurpose their tumors to provide them a huge boost to their immune system, and overall stamina. -->
+  <AG_TeratogenicStamina.description>Носії цього гена можуть перепрофілювати свої пухлини, щоб забезпечити величезний імпульс для імунної системи та загальної витривалості.</AG_TeratogenicStamina.description>
+  
+  <!-- EN: teratogenic swiftness -->
+  <AG_TeratogenicSwiftness.label>тератогенна швидкість</AG_TeratogenicSwiftness.label>
+  <!-- EN: Carriers of this gene can repurpose their tumors to provide them a huge boost to their movement and working speed. -->
+  <AG_TeratogenicSwiftness.description>Носії цього гена можуть перепрофілювати свої пухлини, щоб надати їм величезний поштовх до руху та швидкості роботи.</AG_TeratogenicSwiftness.description>
+  
+</LanguageData>

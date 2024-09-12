@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gas canisters -->
+
+  <Canister_ToxicGas.label>каністра з отруйним газом</Canister_ToxicGas.label>
+  <Canister_ToxicGas.description>Каністра із запашною речовиною, готовою зіпсувати ваш день</Canister_ToxicGas.description>
+
+  <Canister_RageGas.label>каністра з газом гніву </Canister_RageGas.label>
+  <Canister_RageGas.description>Каністра з погано пахнучою речовиною, що готова зіпсувати ваш день</Canister_RageGas.description>
+
+  <Canister_TearGas.label>каністра з сльозоточивим газом</Canister_TearGas.label>
+  <Canister_TearGas.description>Каністра з погано пахнучою речовиною, що готова зіпсувати ваш день</Canister_TearGas.description>
+
+  <Canister_SleepGas.label>каністра з снодійним газом</Canister_SleepGas.label>
+  <Canister_SleepGas.description>Каністра з речовиною, що не пахне, готова зіпсувати вам день</Canister_SleepGas.description>
+
+  <Canister_FearGas.label>каністра з жахаючим газом</Canister_FearGas.label>
+  <Canister_FearGas.description>Каністра з речовиною, що не пахне, готова зіпсувати вам день</Canister_FearGas.description>
+
+  <Canister_AcidGas.label>каністра з кислотним газом</Canister_AcidGas.label>
+  <Canister_AcidGas.description>Каністра із зеленою рідкою речовиною, готовою зіпсувати вам день</Canister_AcidGas.description>
+
+  <Canister_MechVirusGas.label>каністра з протимех. вірусом</Canister_MechVirusGas.label>
+  <Canister_MechVirusGas.description>Каністра з нанітами, готовими знищити механоїда</Canister_MechVirusGas.description>
+
+  <Canister_AntibugGas.label>каністра з протижук. газом</Canister_AntibugGas.label>
+  <Canister_AntibugGas.description>Каністра зі спреєм від жуків</Canister_AntibugGas.description>
+
+
+</LanguageData>

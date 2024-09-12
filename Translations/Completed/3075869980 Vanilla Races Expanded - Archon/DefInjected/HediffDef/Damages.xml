@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_Sear.label>Обпалення</VREA_Sear.label>
+  <VREA_Sear.description>Обпалення.</VREA_Sear.description>
+  <VREA_Sear.comps.0.labelTendedWell>перев'язане</VREA_Sear.comps.0.labelTendedWell>
+  <VREA_Sear.comps.0.labelTendedWellInner>зашито</VREA_Sear.comps.0.labelTendedWellInner>
+  <VREA_Sear.comps.0.labelSolidTendedWell>set</VREA_Sear.comps.0.labelSolidTendedWell>
+  <VREA_Sear.injuryProps.destroyedLabel>Випалено</VREA_Sear.injuryProps.destroyedLabel>
+  <VREA_Sear.injuryProps.destroyedOutLabel>Випалено</VREA_Sear.injuryProps.destroyedOutLabel>
+  <VREA_Sear.labelNoun>припікання</VREA_Sear.labelNoun>
+
+
+</LanguageData>

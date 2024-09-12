@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<DruggedRibThought.label>Медичне ребро</DruggedRibThought.label>
+	<DruggedRibThought.description>Я не знаю чому, але мені добре.</DruggedRibThought.description>
+
+	<SilentJawThought.label>Тиха щелепа</SilentJawThought.label>
+	<SilentJawThought.description>Я хочу говорити! Це жахливо!</SilentJawThought.description>
+
+</LanguageData>

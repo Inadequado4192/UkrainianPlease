@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PatientLandingSpot.label>Пацієнти приземляються тут.</PatientLandingSpot.label>
+  <PatientLandingSpot.description>Позначає місце, де будуть висаджувати пацієнтів.</PatientLandingSpot.description>
+  <PatientLandingSpot_Blueprint.label>пацієнти приземляються тут (креслення)</PatientLandingSpot_Blueprint.label>
+  <PatientLandingSpot_Frame.label>Пацієнти приземляються тут (будується)</PatientLandingSpot_Frame.label>
+  <PatientLandingSpot_Frame.description>Позначає місце, де будуть висаджувати пацієнтів.</PatientLandingSpot_Frame.description>
+
+
+</LanguageData>

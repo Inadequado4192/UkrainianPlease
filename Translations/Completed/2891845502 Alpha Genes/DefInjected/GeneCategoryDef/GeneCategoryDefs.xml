@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal affinity -->
+  <AG_AnimalAffinity.label>спорідненість з тваринами</AG_AnimalAffinity.label>
+  
+  <!-- EN: animal summoning -->
+  <AG_AnimalSummons.label>виклик тварин</AG_AnimalSummons.label>
+  
+  <!-- EN: natural armour -->
+  <AG_Armour.label>природна броня</AG_Armour.label>
+  
+  <!-- EN: blood type -->
+  <AG_BloodType.label>група крові</AG_BloodType.label>
+  
+  <!-- EN: body size -->
+  <AG_BodySize.label>розмір тіла</AG_BodySize.label>
+  
+  <!-- EN: cosmetic - bodies -->
+  <AG_Cosmetic_Bodies.label>косметичні - тіла</AG_Cosmetic_Bodies.label>
+  
+  <!-- EN: cosmetic - ears -->
+  <AG_Cosmetic_Ears.label>косметичні - вуха</AG_Cosmetic_Ears.label>
+  
+  <!-- EN: cosmetic - heads -->
+  <AG_Cosmetic_Heads.label>косметичні - голови</AG_Cosmetic_Heads.label>
+  
+  <!-- EN: cosmetic - horns, tusks, antennae -->
+  <AG_Cosmetic_Horns.label>косметичні - роги, ікла, вусики</AG_Cosmetic_Horns.label>
+  
+  <!-- EN: cosmetic - tails -->
+  <AG_Cosmetic_Tails.label>косметичні - хвости</AG_Cosmetic_Tails.label>
+  
+  <!-- EN: food consumption -->
+  <AG_FoodConsumption.label>споживання їжі</AG_FoodConsumption.label>
+  
+  <!-- EN: gender -->
+  <AG_Gender.label>стать</AG_Gender.label>
+  
+  <!-- EN: mechanitor -->
+  <AG_Mechanitor.label>механізатор</AG_Mechanitor.label>
+  
+  <!-- EN: metallic -->
+  <AG_Metallic.label>металік</AG_Metallic.label>
+  
+  <!-- EN: special effects -->
+  <AG_SpecialEffectsCategory.label>спецефекти</AG_SpecialEffectsCategory.label>
+  
+  <!-- EN: teratogenic -->
+  <AG_Teratogenic.label>тератогенні</AG_Teratogenic.label>
+  
+  <!-- EN: vomit type -->
+  <AG_VomitType.label>тип блювоти</AG_VomitType.label>
+  
+  <!-- EN: functional wings -->
+  <AG_Wings.label>функціональні крила</AG_Wings.label>
+  
+</LanguageData>

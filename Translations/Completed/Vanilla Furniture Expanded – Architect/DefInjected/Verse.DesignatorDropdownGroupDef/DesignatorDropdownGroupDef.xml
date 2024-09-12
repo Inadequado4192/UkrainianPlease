@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFEArch_StoneBridge.label>кам'яний міст</VFEArch_StoneBridge.label>
+  <VFEArch_WoodFloor.label>дерев'яна підлога</VFEArch_WoodFloor.label>
+  <VFEArch_CobblestoneFloor.label>бруківка</VFEArch_CobblestoneFloor.label>
+  <VFEArch_PolishedStoneFloor.label>шліфована кам'яна плитка</VFEArch_PolishedStoneFloor.label>
+  <VFEArch_StoneSlabs.label>кам'яні плити</VFEArch_StoneSlabs.label>
+  <VFEArch_PicketFence.label>штахетник</VFEArch_PicketFence.label>
+  <VFEArch_WoodenParquet.label>дерев'яний паркет</VFEArch_WoodenParquet.label>
+  <VFEArch_WoolCarpet.label>вовняний килим</VFEArch_WoolCarpet.label>
+  <VFEArch_FineWoodenFloor.label>гарна дерев'яна підлога</VFEArch_FineWoodenFloor.label>
+</LanguageData>

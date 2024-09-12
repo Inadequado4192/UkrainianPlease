@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCHE_ExtractChemfuel>Злити 150 од. палива</VCHE_ExtractChemfuel>
+  <VCHE_ExtractChemfuelDesc>Злити 150 каністр палива з резервуара. Поселенець незабаром прийде та зіллє їх.</VCHE_ExtractChemfuelDesc>
+  <VCHE_ExtractDeepchem>Злити 150 од. нафти</VCHE_ExtractDeepchem>
+  <VCHE_ExtractDeepchemDesc>Злити 150 бочок нафти з резервуара. Поселенець незабаром прийде та зіллє їх.</VCHE_ExtractDeepchemDesc>
+  <VCHE_CantRefine>Неможливо переробити: резервуари заповнені</VCHE_CantRefine>
+  <VCHE_CantPump>Неможливо видобути: цистерни заповнені</VCHE_CantPump>
+  <VCHE_CantPlaceHere>Свердловинний насос може бути розміщений лише на нафтовому родовищі. Використовуйте геопроникающий сканер, щоб знайти родовища.</VCHE_CantPlaceHere>
+  <VCHE_ChemValve>Перемкнути подачу палива.</VCHE_ChemValve>
+  <VCHE_ChemValveDesc>Перемкнути подачу палива. Поселенець незабаром прийде та перемикне її.</VCHE_ChemValveDesc>
+  <VCHE_DeepChemValve>Перемкнути подачу нафти.</VCHE_DeepChemValve>
+  <VCHE_DeepChemValveDesc>Перемкнути подачу нафти. Поселенець незабаром прийде та перемикне її.</VCHE_DeepChemValveDesc>
+</LanguageData>

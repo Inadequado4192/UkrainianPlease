@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HC_WonSlotMachineGame.stages.0.label>виграв у слоти</HC_WonSlotMachineGame.stages.0.label>
+  <HC_WonSlotMachineGame.stages.0.description>Мені сьогодні щастить !</HC_WonSlotMachineGame.stages.0.description>
+
+  <RiggedSlotmachine.stages.0.label>неможливо виграти</RiggedSlotmachine.stages.0.label>
+  <RiggedSlotmachine.stages.0.description>Я думаю, що вони щось підкрутили в автоматі.</RiggedSlotmachine.stages.0.description>
+
+  <GenerousSlotmachine.stages.0.label>щедрий ігровий автомат</GenerousSlotmachine.stages.0.label>
+  <GenerousSlotmachine.stages.0.description>Відчуття, що ігровий автомат сьогодні дуже щедрий.</GenerousSlotmachine.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuestCantAffordBed.stages.0.label>не може дозволити собі ліжко</GuestCantAffordBed.stages.0.label>
+  <GuestCantAffordBed.stages.0.description>Я не можу дозволити собі жодне з ліжок.</GuestCantAffordBed.stages.0.description>
+
+  <GuestHasNoFood.stages.0.label>немає їжі</GuestHasNoFood.stages.0.label>
+  <GuestHasNoFood.stages.0.description>Я не маю що їсти.</GuestHasNoFood.stages.0.description>
+
+  <GuestBedCount.stages.0.label>немає гостьових ліжок</GuestBedCount.stages.0.label>
+  <GuestBedCount.stages.0.description>У них тут навіть ліжок немає.</GuestBedCount.stages.0.description>
+  <GuestBedCount.stages.1.label>не вистачає гостьових ліжок</GuestBedCount.stages.1.label>
+  <GuestBedCount.stages.1.description>Для гостей має бути більше ліжок.</GuestBedCount.stages.1.description>
+  <GuestBedCount.stages.2.label>достатньо ліжок</GuestBedCount.stages.2.label>
+  <GuestBedCount.stages.2.description>Ліжок у нашій кімнаті вистачає на всіх.</GuestBedCount.stages.2.description>
+  <GuestBedCount.stages.3.label>багато ліжок</GuestBedCount.stages.3.label>
+  <GuestBedCount.stages.3.description>Ого, так багато ліжок!</GuestBedCount.stages.3.description>
+
+
+</LanguageData>

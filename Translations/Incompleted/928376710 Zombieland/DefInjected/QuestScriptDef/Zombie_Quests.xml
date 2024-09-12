@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN:
+    <li>questDescription->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] offers help with reducing contamination. You can to send one colonist away a few days for decontamination.</li>
+  -->
+    <Decontamination.questDescriptionRules.rulesStrings>
+        <li>questDescription->[asker_faction_leaderTitle] [asker_nameFull] з [asker_faction_name] пропонує допомогу у зменшенні рівня зараження. Ви можете відправити одного колоніста на кілька днів на дезінфекцію.</li>
+    </Decontamination.questDescriptionRules.rulesStrings>
+    <!-- EN:
+    <li>questName->decontamination offer</li>
+  -->
+    <Decontamination.questNameRules.rulesStrings>
+        <li>questName->пропозиція знезараження</li>
+    </Decontamination.questNameRules.rulesStrings>
+    <!-- EN: {SUBJECT} returned after getting decontaminated. -->
+    <Decontamination.root.nodes.Set.value.slateRef>{SUBJECT} {SUBJECT_gender ? повернувся : повернулася} після дезінфекції.</Decontamination.root.nodes.Set.value.slateRef>
+    <!-- EN: Shuttle arrived -->
+    <Decontamination.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>Шатл прибув</Decontamination.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+    <!-- EN: The shuttle has arrived to collect one of your colonists. -->
+    <Decontamination.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>Шатл прибув, щоб забрати одного з ваших колоністів.</Decontamination.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+    <!-- EN: Shuttle destroyed -->
+    <Decontamination.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>Шатл зруйновано</Decontamination.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>
+    <!-- EN: The shuttle sent to collect colonists has been destroyed. -->
+    <Decontamination.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>Шатл, відправлений за колоністами, було знищено.</Decontamination.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>
+    <!-- EN: Colonists returned -->
+    <Decontamination.root.nodes.ColonistsReturned.node.nodes.Letter.label.slateRef>Колоністи повернулися</Decontamination.root.nodes.ColonistsReturned.node.nodes.Letter.label.slateRef>
+</LanguageData>

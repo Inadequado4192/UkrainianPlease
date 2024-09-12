@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HospitalityCasino_VendingMachine>Ігровий автомат</HospitalityCasino_VendingMachine>
+  <HospitalityCasino_VendingMachineContains>Містить:</HospitalityCasino_VendingMachineContains>
+  <HospitalityCasino_VendingMachineTotal>Зароблено усього:</HospitalityCasino_VendingMachineTotal>
+  <HospitalityCasino_VendingMachineToggleDesc>Дозволити гостям користуватися цією послугою.</HospitalityCasino_VendingMachineToggleDesc>
+  <!-- pricing -->
+  <HospitalityCasino_SetPricing>Встановити ціну</HospitalityCasino_SetPricing>
+  <HospitalityCasino_Free>Безкоштовна гра</HospitalityCasino_Free>
+  <HospitalityCasino_Low>Низька ставка - низький прибуток</HospitalityCasino_Low>
+  <HospitalityCasino_Medium>Звичайна ставка - звичайний прибуток</HospitalityCasino_Medium>
+  <HospitalityCasino_High>Висока ставка - високий прибуток</HospitalityCasino_High>
+  <HospitalityCasino_EmptyAfterHours>Спорожнювати кожен ігровий автомат після X годин</HospitalityCasino_EmptyAfterHours>
+  <HospitalityCasino_EmptyAfterHoursTooltip>Якщо ігровий автомат не спорожнився після закінчення цієї кількості годин, хтось повинен буде прийти і спорожнити його.</HospitalityCasino_EmptyAfterHoursTooltip>
+
+</LanguageData>

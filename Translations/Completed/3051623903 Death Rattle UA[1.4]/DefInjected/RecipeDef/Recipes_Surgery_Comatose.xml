@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArtificialComa.label>Штучна кома</ArtificialComa.label>
+  <ArtificialComa.description>Ввести пацієнта в штучну кому. З часом може пошкодити мозок. Вивести з коми можна за допомогою Бадьорину.</ArtificialComa.description>
+  <ArtificialComa.jobString>ввести в штучну кому</ArtificialComa.jobString>
+
+
+</LanguageData>

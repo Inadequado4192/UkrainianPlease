@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HIGH EFFECT -->
+
+  <AngelGraceHigh.label>осяяний янгольскою благодаттю</AngelGraceHigh.label>
+  <AngelGraceHigh.description>Активна Янгольська Благодать у мозку. Генерує короткий, але інтенсивний стан блаженства і спокою, який, як кажуть, схожий на прогулянку по хмарах.</AngelGraceHigh.description>
+  <AngelGraceHigh.labelNoun>осяяний янгольскою благодаттю</AngelGraceHigh.labelNoun>
+
+
+  <!-- Chemical need -->
+
+  <AngelsGraceAddiction.label>залежність від янгольської благодаті</AngelsGraceAddiction.label>
+  <AngelsGraceAddiction.description>Залежність від янгольської благодаті веде небезпечним шляхом туги та слабкості. Спочатку приваблива, вона перетворюється на підступного бранця, що поглинає думки і руйнує зв'язки зі смертним світом. Ломка приносить страждання і нестерпне відчуття втрати, нагадуючи споживачеві про крихку рівновагу між небесним блаженством і руйнівним потягом до нього..</AngelsGraceAddiction.description>
+  <AngelsGraceAddiction.stages.1.label>ломка</AngelsGraceAddiction.stages.1.label>
+
+
+</LanguageData>

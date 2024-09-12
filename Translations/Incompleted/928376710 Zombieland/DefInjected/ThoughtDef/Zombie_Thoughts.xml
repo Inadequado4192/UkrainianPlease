@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: scared by {0} -->
+    <ZombieScare.stages.scared_by.label>{0} налякав мене</ZombieScare.stages.scared_by.label>
+    <!-- EN: I was scared by someone that acted like a zombie and are worried. -->
+    <ZombieScare.stages.scared_by.description>Я був наляканий та схвильований тим що хтось поводив себе як зомбі.</ZombieScare.stages.scared_by.description>
+</LanguageData>

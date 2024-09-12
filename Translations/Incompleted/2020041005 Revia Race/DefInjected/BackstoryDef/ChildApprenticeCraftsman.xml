@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days at the great forges, learning how to shape wood and metal. [PAWN_possessive] work was much appreciated by the warriors, who often left [PAWN_possessive] snacks and gifts in exchange for equipment repairs. However, [PAWN_possessive] love of flames continued to grow unchecked... -->
+  <ReviaRaceBackstoryChildApprenticeCraftsman.baseDesc>[PAWN_nameDef] проводив свої дні на великих ковалях, вивчаючи, як формувати дерево і метал. [PAWN_possessive] роботу було дуже вдячно оцінено воїнами, які часто залишали [PAWN_possessive] смаколики та подарунки в обмін на ремонт обладнання. Однак [PAWN_possessive] любов до вогню продовжувала зростати безперешкодно...</ReviaRaceBackstoryChildApprenticeCraftsman.baseDesc>
+  <!-- EN: Revian Apprentice Craftsman -->
+  <ReviaRaceBackstoryChildApprenticeCraftsman.title>Ревійський Учнівський Ремісник</ReviaRaceBackstoryChildApprenticeCraftsman.title>
+  <!-- EN: Apprentice -->
+  <ReviaRaceBackstoryChildApprenticeCraftsman.titleShort>Учень</ReviaRaceBackstoryChildApprenticeCraftsman.titleShort>
+  
+</LanguageData>

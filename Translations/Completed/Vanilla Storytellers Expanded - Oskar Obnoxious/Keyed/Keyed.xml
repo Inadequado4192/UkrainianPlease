@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--RimWorld {0} "{1}"-->
+  <PatchTitle>RimWorld {0} "{1}"</PatchTitle>
+  <!--RimWorld {0}-->
+  <PatchTitleNoName>RimWorld {0}</PatchTitleNoName>
+  <!--Oskar Obnoxious-->
+  <OskarObnoxious>Нестерпний Оскар</OskarObnoxious>
+  <!--New Update Released-->
+  <PatchNotes>Випущено Нове Оновлення</PatchNotes>
+  
+  <!--{0} changed from {1} to {2}-->
+  <ValueChanged>Значення {0} змінилось з {1} на {2}</ValueChanged>
+  <!--{0} will stay the same. Current value is {1}-->
+  <ValueUnchanged>{0} залишиться незмінним. Поточне значення дорівнює {1}</ValueUnchanged>
+  <!--{0} defaultValue changed from {1} to {2}-->
+  <ValueChangedDefault>Значення {0} за замовчуванням змінилось з {1} на {2}</ValueChangedDefault>
+  <!--{0} defaultValue will stay the same. Current value is {1}-->
+  <ValueUnchangedDefault>Значення {0} за замовчуванням залишиться незмінним. Поточне значення дорівнює {1}</ValueUnchangedDefault>
+  
+  <!--Ticks Between Patch Notes-->
+  <TicksBetweenPatchNotes>Тіки Між Випуском Патчів</TicksBetweenPatchNotes>
+  <!--Ticks till the next patch notes will be released. Google the RimWorld time wiki if you're unsure what the values would be. 60,000 ticks = 1 Day-->
+  <TicksBetweenPatchNotesTooltip>Час до виходу наступної версії патчу. Якщо ви не впевнені, якими мають бути значення, ви знайдете це на вікі RimWorld. 60,000 тіків = 1 день</TicksBetweenPatchNotesTooltip>
+  
+  <!--Defs-->
+  <DefsChangedPerPatch>Def`и</DefsChangedPerPatch>
+  <!--Number of Defs patched per Patch Notes-->
+  <DefsChangedPerPatchTooltip>Кількість пропатчених Def`ів на один Патч</DefsChangedPerPatchTooltip>
+  <!--Fields-->
+  <FieldsChangedPerDef>Поля</FieldsChangedPerDef>
+  <!--Number of fields patched per Def-->
+  <FieldsChangedPerDefTooltip>Кількість пропатчених полів на кожному Def`і</FieldsChangedPerDefTooltip>
+  <!--Patch Notes Stored-->
+  <PatchNotesStored>Максимальна Кількість Приміток</PatchNotesStored>
+  <!--Max number of patch notes that will be stored and viewable in the Patch Notes window. It will only show the most recent patches up to this amount, but all previous patches will still apply their changes.-->
+  <PatchNotesStoredTooltip>Максимальна кількість приміток до патчів, які буде збережено і відображено у вікні "Примітки до патчів". У ньому буде показано лише найновіші патчі до вказаної кількості, але всі попередні патчі все одно буде застосовано.</PatchNotesStoredTooltip>
+  
+  <!--Open Patch Notes-->
+  <ShowAllPatchNotes>Відкрити Примітки До Патчів</ShowAllPatchNotes>
+  <!--Reset Settings-->
+  <ResetPatchNotesToDefault>Скинути Налаштування</ResetPatchNotesToDefault>
+  <!--Log Patch Generation-->
+  <DebugShowPatchGeneration>Логувати Генерацію Патчів</DebugShowPatchGeneration>
+  <!--Output all patch generation steps into Message logs. (For debugging only)-->
+  <DebugShowPatchGenerationTooltip>Виводити всі кроки генерації патчів до журналу повідомлень. (Виключно для дебагінгу)</DebugShowPatchGenerationTooltip>
+</LanguageData>

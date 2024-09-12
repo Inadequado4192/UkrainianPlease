@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lab door -->
+  <AG_LabDoor.label>двері лабораторії</AG_LabDoor.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <AG_LabDoor.description>Розділяє приміщення. Прості двері потрібно відкривати вручну, що уповільнює рух людей. Наскільки сповільнюються, залежить від того, з чого зроблені двері.</AG_LabDoor.description>
+  
+  <!-- EN: rusted biotech lab wall -->
+  <AG_RustedWall.label>іржава стіна біотехнологічної лабораторії</AG_RustedWall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
+  <AG_RustedWall.description>Непрохідна стіна. Здатна втримати дах.</AG_RustedWall.description>
+  
+</LanguageData>

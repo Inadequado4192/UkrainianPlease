@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--harvest mushroom crops-->
+  <VPE_HarvestMushroom.label>збирати грибні культури</VPE_HarvestMushroom.label>
+  <!--harvesting mushrooms-->
+  <VPE_HarvestMushroom.gerund>збирати</VPE_HarvestMushroom.gerund>
+  <!--harvest mushrooms-->
+  <VPE_HarvestMushroom.verb>зібрати</VPE_HarvestMushroom.verb>
+  
+  <!--sow mushroom crops-->
+  <VPE_SowMushroom.label>сіяти грибні культури</VPE_SowMushroom.label>
+  <!--sowing mushrooms-->
+  <VPE_SowMushroom.gerund>сіяти</VPE_SowMushroom.gerund>
+  <!--sow mushrooms-->
+  <VPE_SowMushroom.verb>сіяти</VPE_SowMushroom.verb>
+</LanguageData>

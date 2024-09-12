@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sacrifice thrumbo horn -->
+  <ReviaRaceSacrificeThrumboHorn.label>приносити в жертву рог трумбо</ReviaRaceSacrificeThrumboHorn.label>
+  <!-- EN: Sacrifice a thrumbo horn to honour the bloody gods of the Revian pantheon. -->
+  <ReviaRaceSacrificeThrumboHorn.description>Принесіть в жертву ріг трумбо на честь кривавих богів ревійського пантеону.</ReviaRaceSacrificeThrumboHorn.description>
+  <!-- EN: Sacrificing to the gods. -->
+  <ReviaRaceSacrificeThrumboHorn.jobString>жертвує богам</ReviaRaceSacrificeThrumboHorn.jobString>
+  
+</LanguageData>

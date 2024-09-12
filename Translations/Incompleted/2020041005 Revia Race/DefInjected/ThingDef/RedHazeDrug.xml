@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Red Haze -->
+  <ReviaRaceRedHaze.label>Червоний туман</ReviaRaceRedHaze.label>
+  <!-- EN: A scarlet powder made from ground-up bloodstones. When taken, it is said that the user is given a small portion of Skarne's undying rage. -->
+  <ReviaRaceRedHaze.description>Червоний порошок, виготовлений з подрібнених кривавих каменів. Вважається, що при його вживанні користувач отримує невелику порцію невгасимої люті Скарна.</ReviaRaceRedHaze.description>
+  <!-- EN: Consume {0} -->
+  <ReviaRaceRedHaze.ingestible.ingestCommandString>Споживати {0}</ReviaRaceRedHaze.ingestible.ingestCommandString>
+  <!-- EN: Consuming {0} -->
+  <ReviaRaceRedHaze.ingestible.ingestReportString>Споживає {0}</ReviaRaceRedHaze.ingestible.ingestReportString>
+  
+</LanguageData>

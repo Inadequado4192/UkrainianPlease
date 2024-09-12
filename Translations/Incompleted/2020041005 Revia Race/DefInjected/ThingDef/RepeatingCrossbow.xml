@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: repeating crossbow -->
+  <ReviaRepeatingCrossbow.label>повторюваний арбалет</ReviaRepeatingCrossbow.label>
+  <!-- EN: A repeating crossbow made with complex mechanical parts. -->
+  <ReviaRepeatingCrossbow.description>Повторюваний арбалет, виготовлений зі складних механічних деталей.</ReviaRepeatingCrossbow.description>
+  <!-- EN: stock -->
+  <ReviaRepeatingCrossbow.tools.stock.label>приклад</ReviaRepeatingCrossbow.tools.stock.label>
+  <!-- EN: repeating crossbow -->
+  <ReviaRepeatingCrossbow.verbs.Verb_Shoot.label>повторюваний арбалет</ReviaRepeatingCrossbow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Repeating crossbow bolt -->
+  <ReviaRepeatingCrossbowBolt.label>Повторюваний арбалетний болт</ReviaRepeatingCrossbowBolt.label>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: royal jelly production -->
+  <AG_RoyalJellyProduction.label>виробництво маточного молочка</AG_RoyalJellyProduction.label>
+  <!-- EN: The carrier of this gene constantly exudes and produces globs of royal jelly, which provides some extra food for the colony. -->
+  <AG_RoyalJellyProduction.description>Носій цього гена постійно виділяє і виробляє кульки маточного молочка, що забезпечує колонію додатковою їжею.</AG_RoyalJellyProduction.description>
+  <!-- EN: Produces 12 units of royal jelly per day -->
+  <AG_RoyalJellyProduction.customEffectDescriptions.0>Виробляє 12 одиниць маточного молочка на добу</AG_RoyalJellyProduction.customEffectDescriptions.0>
+  <!-- EN: This gene is balanced to produce more nutrition (0.05 * 12 = 0.6) than its metabolic impact (-1 -> 25%, which for a normal pawn is 0.4 nutrition per day) -->
+  <AG_RoyalJellyProduction.customEffectDescriptions.1>Цей ген збалансований таким чином, щоб виробляти більше поживних речовин (0,05 * 12 = 0,6), ніж його метаболічний вплив (-1 -> 25%, що для нормального пішака становить 0,4 поживних речовини на день)</AG_RoyalJellyProduction.customEffectDescriptions.1>
+  <!-- EN: Royal jelly boosts immunity, but will ultimately turn people into megaspiders -->
+  <AG_RoyalJellyProduction.customEffectDescriptions.2>Маточне молочко підвищує імунітет, але зрештою перетворить людей на мегапавуків</AG_RoyalJellyProduction.customEffectDescriptions.2>
+  
+</LanguageData>

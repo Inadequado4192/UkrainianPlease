@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PatientsTab>Пацієнти</PatientsTab>
+  <BedsFilled>Ліжка використовуються: {0}/{1}</BedsFilled>
+  <DiagnosisWounds>травми</DiagnosisWounds>
+  <CureWounds>лікувати рани</CureWounds>
+  <CureDisease>застосовувати ліки</CureDisease>
+  <DiagnosisSurgeryOnPart>проблема з {0}</DiagnosisSurgeryOnPart>
+  <DiagnosisSurgeryNoPart>потрібна операція</DiagnosisSurgeryNoPart>
+  <DiagnosisArtificialBodyPart>хоче  {0}</DiagnosisArtificialBodyPart>
+  <Dismiss>Виписати</Dismiss>
+  <Disallow>Відмовитися від операції</Disallow>
+  <RefusedOperations>Відмовлено в операціях:</RefusedOperations>
+  <!-- settings -->
+  <MapSettings>Налаштування мапи...</MapSettings>
+  <AcceptPatients>Приймати пацієнтів</AcceptPatients>
+  <AcceptPatientsTooltip>зніміть галочку, якщо хочете заборонити пацієнтам відвідувати вас</AcceptPatientsTooltip>
+  <AcceptSurgery>Операції</AcceptSurgery>
+  <AcceptSurgeryTooltip>зніміть галочку, якщо не хочете отримувати події про операції</AcceptSurgeryTooltip>
+  <BedsReserved>Ліжка для колоністів</BedsReserved>
+  <BedsReservedTooltip>Щоб переконатися, що ваші ліжка не всі заповнені пацієнтами</BedsReservedTooltip>
+  <ShowMessageAtArrival>Показати повідомлення замість листа</ShowMessageAtArrival>
+  <ShowMessageAtArrivalTooltip>Відображається у вигляді повідомлення замість листа, коли прибуває новий пацієнт.</ShowMessageAtArrivalTooltip>
+  <!-- button -->
+  <CommandBedSetAsHospitalLabel>Лікарняне ліжко</CommandBedSetAsHospitalLabel>
+  <CommandBedSetAsHospitalDesc>Чи призначене це ліжко для пацієнтів.</CommandBedSetAsHospitalDesc>
+  <CommandBedSetAsSurgeryLabel>Операційне ліжко</CommandBedSetAsSurgeryLabel>
+  <CommandBedSetAsSurgeryDesc>Чи призначене це ліжко для хірургічних пацієнтів.</CommandBedSetAsSurgeryDesc>
+
+</LanguageData>

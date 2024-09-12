@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VTE_SlowWorkSpeed.label>Повільна робота</VTE_SlowWorkSpeed.label>
+  <VTE_SlowWorkSpeed.description>Повільна робота</VTE_SlowWorkSpeed.description>
+  <VTE_SlowWorkSpeed.labelNoun>Повільна робота</VTE_SlowWorkSpeed.labelNoun>
+  
+  <VTE_RestSlowFallFactor.label>Безсоння</VTE_RestSlowFallFactor.label>
+  <VTE_RestSlowFallFactor.description>Порушення сну, зумовлене ослабленням гальмівного процесу в корі головного мозку. Безсоння означає, що людина часто відчуває себе млявою або виснаженою і майже не здатна заснути..</VTE_RestSlowFallFactor.description>
+  <VTE_RestSlowFallFactor.labelNoun>Безсоння</VTE_RestSlowFallFactor.labelNoun>
+  
+  <VTE_SlowerBleedingRate.label>Гіперкоагуляція</VTE_SlowerBleedingRate.label>
+  <VTE_SlowerBleedingRate.description>Підвищена кількість еритроцитів означає, що відбувається гіперкоагуляція, внаслідок чого рани кровоточать набагато менше.</VTE_SlowerBleedingRate.description>
+  <VTE_SlowerBleedingRate.labelNoun>Гіперкоагуляція</VTE_SlowerBleedingRate.labelNoun>
+  
+  <VTE_HigherBleedingRate.label>Гемофілія</VTE_HigherBleedingRate.label>
+  <VTE_HigherBleedingRate.description>Гемофілія - це нездатність крові згортатися належним чином, через що рани кровоточать набагато сильніше.</VTE_HigherBleedingRate.description>
+  <VTE_HigherBleedingRate.labelNoun>Гемофілія</VTE_HigherBleedingRate.labelNoun>
+</LanguageData>

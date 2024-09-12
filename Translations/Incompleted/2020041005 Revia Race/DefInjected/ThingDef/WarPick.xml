@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shatterer -->
+  <ReviaWarPick.label>руйнівник</ReviaWarPick.label>
+  <!-- EN: A dagger-shaped blade with a heavy weight behind it, mounted on a two-handed wooden haft. Designed to shatter fortifications and armour, though decidedly unwieldy against nimble opponents. -->
+  <ReviaWarPick.description>Кинджалоподібне лезо з важким тягарем позаду, закріплене на дворучному дерев'яному держаку. Призначений для руйнування укріплень та обладунків, хоча, безумовно, громіздкий проти спритних супротивників.</ReviaWarPick.description>
+  <!-- EN: handle -->
+  <ReviaWarPick.tools.handle.label>руків'я</ReviaWarPick.tools.handle.label>
+  <!-- EN: point -->
+  <ReviaWarPick.tools.point.label>вістря</ReviaWarPick.tools.point.label>
+  <!-- EN: head -->
+  <ReviaWarPick.tools.head.label>навершя</ReviaWarPick.tools.head.label>
+  
+</LanguageData>

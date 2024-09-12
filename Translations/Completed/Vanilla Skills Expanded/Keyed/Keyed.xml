@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VSE.Expertise0>Зацікавився в цьому</VSE.Expertise0>
+  <VSE.Expertise1>Аматор</VSE.Expertise1>
+  <VSE.Expertise2>Учень-початківець</VSE.Expertise2>
+  <VSE.Expertise3>Учень</VSE.Expertise3>
+  <VSE.Expertise4>Відмінний учень</VSE.Expertise4>
+  <VSE.Expertise5>Слабкий професіонал</VSE.Expertise5>
+  <VSE.Expertise6>Професіонал</VSE.Expertise6>
+  <VSE.Expertise7>Працездатний професіонал</VSE.Expertise7>
+  <VSE.Expertise8>Солідний професіонал</VSE.Expertise8>
+  <VSE.Expertise9>Кваліфікований професіонал</VSE.Expertise9>
+  <VSE.Expertise10>Дуже кваліфікований професіонал</VSE.Expertise10>
+  <VSE.Expertise11>Майже експерт</VSE.Expertise11>
+  <VSE.Expertise12>Самопроголошений експерт</VSE.Expertise12>
+  <VSE.Expertise13>Експерт</VSE.Expertise13>
+  <VSE.Expertise14>Здібний експерт</VSE.Expertise14>
+  <VSE.Expertise15>Могутній експерт</VSE.Expertise15>
+  <VSE.Expertise16>Колоніально відомий експерт</VSE.Expertise16>
+  <VSE.Expertise17>Регіонально відомий експерт</VSE.Expertise17>
+  <VSE.Expertise18>Провідний експерт регіону</VSE.Expertise18>
+  <VSE.Expertise19>Планетарно відомий експерт</VSE.Expertise19>
+  <VSE.Expertise20>Легендарний експерт</VSE.Expertise20>
+  <VSE.Expertise>Експертиза</VSE.Expertise>
+  <VSE.ForgetSpeed>Швидкість забування</VSE.ForgetSpeed>
+  <VSE.Effects>Ефекти:</VSE.Effects>
+  <VSE.Effects.PerLevel>Ефекти (за рівень):</VSE.Effects.PerLevel>
+  <VSE.ExpertiseAvailable>Поселенець може отримати експертизу</VSE.ExpertiseAvailable>
+  <VSE.ExpertiseAvailableMultiple>Поселенеці можуть отримати експертизу</VSE.ExpertiseAvailableMultiple>
+  <VSE.ExpertiseAvailableDesc>Ваш поселенець досяг достатньо високого рівня в навичці, до якої має пристрасть, щоб отримати експертизу.\n\nПодумайте про те, щоб підібрати для нього підходящу експертизу, яка дасть найбільш корисні бонуси для тієї роботи, що він робить.\n\nКолоніст(-и), що можуть отримати експертизу:\n\n</VSE.ExpertiseAvailableDesc>
+  <VSE.SelectExpertise>Обрати експертизу</VSE.SelectExpertise>
+  <VSE.ExpertiseDesc>Обравши експертизу, ви відкриєте нову навичку, яку ваш поселенець зможе розвивати, даючи йому потужні та специфічні бонуси.\nВи можете вибрати обрати експертизу тільки в тій сфері, до яких поселенець має хист. Експертиз доступно для вибору : {0}</VSE.ExpertiseDesc>
+  <VSE.LearnsForgets>\n   - Вчиться {0}\n   - Забуває {1}</VSE.LearnsForgets>
+  <VSE.LearnOther>\n   - Навчає інших {0}</VSE.LearnOther>
+  <VSE.NoPassion>Нема пристрасті</VSE.NoPassion>
+  <VSE.SkillTooLow>Замало навичок</VSE.SkillTooLow>
+  <VSE.AtMaxExpertise>Макс. експертиз</VSE.AtMaxExpertise>
+  <VSE.ExpertiseOverlap>Вже обрано</VSE.ExpertiseOverlap>
+  <VSE>Vanilla Skills Expanded</VSE>
+  <VSE.MaxExpertise>Максимум експертиз на колоніста:</VSE.MaxExpertise>
+  <VSE.EnableAlert>Увімкнути сповіщення "Поселенець може отримати експертизу"</VSE.EnableAlert>
+  <VSE.AllowMultiCritical>Дозволити кілька критичних пристратей</VSE.AllowMultiCritical>
+  <VSE.AllowMultiCritical.Desc>Якщо вимкнено, гарантує, що на колоніста буде згенеровано лише одну критичну пристрасть, щоб уникнути їхнього перекриття та марності обох пристрастей.</VSE.AllowMultiCritical.Desc>
+  <VSE.CriticalEffectPassions>Вплив критичної пристрасті на інші навички</VSE.CriticalEffectPassions>
+  <VSE.CriticalEffectPassions.Desc>Якщо вимкнено - негативний ефект, від критичної пристрасті, на швидкість навчання інших навичок не впливатиме на навички, до яких колоніст має пристрасть.</VSE.CriticalEffectPassions.Desc>
+  <VSE.AllowExpertiseOverlap>Дозволити кілька експертиз в одній сфері</VSE.AllowExpertiseOverlap>
+  <VSE.AllowExpertiseOverlap.Desc>Якщо вимкнено - тільки одна експертиза може бути вибрана на навичку.</VSE.AllowExpertiseOverlap.Desc>
+  <VSE.Commonalities>Редагувати рідкість пристрастей, групи розділені</VSE.Commonalities>
+  <VSE.Reset>Скидання до налаштувань за замовчуванням</VSE.Reset>
+  <VSE.Bad>Погані пристрасті:</VSE.Bad>
+  <VSE.Good>Хороші пристрасті:</VSE.Good>
+  <VSE.EnableSkillLoss>Увімкнути втрату навичок</VSE.EnableSkillLoss>
+  <VSE.EnableSkillsLoss.Desc>За замовчуванням, "Ducks' Insane Skills" вимикає забування навичок. Вибравши цю опцію, цей мод замінить Ducks і знову увімкне його. Використовуйте цю опцію, якщо ви все ще хочете мати можливість користуватися перевагами зміни швидкості забування нових пристрастей.</VSE.EnableSkillsLoss.Desc>
+</LanguageData>

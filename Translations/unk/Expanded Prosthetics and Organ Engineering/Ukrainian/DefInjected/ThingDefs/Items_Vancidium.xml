@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Vancidium.label>Ванцидій</Vancidium.label>
+  <Vancidium.description>Дорогоцінний матеріал високої якості, отриманий у дуже передовому технологічному процесі. Світиться яскраво.</Vancidium.description>
+  <Vancidium.stuffProps.stuffAdjective>ванцидій</Vancidium.stuffProps.stuffAdjective>
+
+  <AdvancedComponents.label>Вдосконалений компонент</AdvancedComponents.label>
+  <AdvancedComponents.description>Той самий, що й звичайний, тільки кращий... і синій.</AdvancedComponents.description>
+</LanguageData>

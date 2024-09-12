@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateAIChip.label>Створити чип-ШІ</CreateAIChip.label>
+	<CreateAIChip.description>Створити чип-ШІ. Вам знадобиться багато золота та передових компонентів, щоб отримати найкращу якість.</CreateAIChip.description>
+    <CreateAIChip.jobString>Створює чип-ШІ</CreateAIChip.jobString>
+	
+	<CreateJoywire.label>Створити чип щастя</CreateJoywire.label>
+	<CreateJoywire.description>Створити чип щастя. Вам знадобиться багато золота та передових компонентів, щоб отримати найкращу якість.</CreateJoywire.description>
+    <CreateJoywire.jobString>Створює чип щастя</CreateJoywire.jobString>
+	
+	<CreatePainstopper.label>Створити чип знеболення</CreatePainstopper.label>
+	<CreatePainstopper.description>Створити чип знеболення. Вам знадобиться багато золота та передових компонентів, щоб отримати найкращу якість.</CreatePainstopper.description>
+    <CreatePainstopper.jobString>Створює чип знеболення</CreatePainstopper.jobString>
+	
+	<CreateSyntheticLung.label>Створити синтетичну легеню</CreateSyntheticLung.label>
+	<CreateSyntheticLung.description>Створити синтетичну легеню з його штучного еквівалента, нановолокна та передових компонентів.</CreateSyntheticLung.description>
+    <CreateSyntheticLung.jobString>Створює синтетичну легеню</CreateSyntheticLung.jobString>
+	
+	<CreateSyntheticStomach.label>Створити синтетичний шлунок</CreateSyntheticStomach.label>
+	<CreateSyntheticStomach.description>Створити синтетичний шлунок з його штучного еквівалента, нановолокна та передових компонентів.</CreateSyntheticStomach.description>
+    <CreateSyntheticStomach.jobString>Створює синтетичний шлунок</CreateSyntheticStomach.jobString>
+   
+	<CreateSyntheticLiver.label>Створити синтетичну печінку</CreateSyntheticLiver.label>
+	<CreateSyntheticLiver.description>Створити синтетичну печінку з її штучного еквівалента, нановолокна та передових компонентів.</CreateSyntheticLiver.description>
+    <CreateSyntheticLiver.jobString>Створює синтетичну печінку</CreateSyntheticLiver.jobString>
+   
+	<CreateSyntheticKidney.label>Створити синтетичну нирку</CreateSyntheticKidney.label>
+	<CreateSyntheticKidney.description>Створити синтетичну нирку з її штучного еквівалента, нановолокна та передових компонентів.</CreateSyntheticKidney.description>
+    <CreateSyntheticKidney.jobString>Створює синтетичну нирку</CreateSyntheticKidney.jobString>
+	
+	<CreateSyntheticHeart.label>Створити синтетичне серце</CreateSyntheticHeart.label>
+	<CreateSyntheticHeart.description>Створити синтетичне серце з його штучного еквівалента, нановолокна та передових компонентів.</CreateSyntheticHeart.description>
+	<CreateSyntheticHeart.jobString>Створює синтетичне серце</CreateSyntheticHeart.jobString>
+   
+	<CreateSyntheticSkin.label>Створити синтетичну шкіру</CreateSyntheticSkin.label>
+	<CreateSyntheticSkin.description>Створити синтетичну шкіру з нановолокон та людської шкіри.</CreateSyntheticSkin.description>
+	<CreateSyntheticSkin.jobString>Створює синтетичну шкіру</CreateSyntheticSkin.jobString>
+	
+</LanguageData>

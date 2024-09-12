@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mineral absorber -->
+  <AG_MetalEater.label>поглинач мінералів</AG_MetalEater.label>
+  <!-- EN: Carriers of this gene have a reserve of metallurgic strength that replaces their need to eat traditional food with metals from the ground, having their needs last much longer.\n\nCarriers lose 25% of their minerals to their metabolism per day. -->
+  <AG_MetalEater.description>Носії цього гена мають запас металургійної міцності, який замінює їхню потребу в традиційній їжі металами з землі, при цьому їхніх потреб вистачає набагато довше.\n\nНосії втрачають 25% мінералів у своєму метаболізмі в день..</AG_MetalEater.description>
+  <!-- EN: A mineral energy reseve used directly by {PAWN_nameDef} to not grow hungry -->
+  <AG_MetalEater.resourceDescription>Запас мінеральної енергії, що використовується безпосередньо {PAWN_nameDef}, щоб не голодувати</AG_MetalEater.resourceDescription>
+  <!-- EN: minerals -->
+  <AG_MetalEater.resourceLabel>мінерали</AG_MetalEater.resourceLabel>
+  <!-- EN: metal -->
+  <AG_MetalEater.symbolPack.prefixSymbols.0.symbol>металевий</AG_MetalEater.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: great mineral absorbtion -->
+  <AG_MineralEfficencyGood.label>відмінне поглинання мінералів</AG_MineralEfficencyGood.label>
+  <!-- EN: Carriers of this gene have amazing efficiency in converting metals into minerals their body can use. This requires them to consume much less metals than most. -->
+  <AG_MineralEfficencyGood.description>Носії цього гена мають дивовижну ефективність у перетворенні металів на мінерали, які їхній організм може використовувати. Завдяки цьому вони споживають набагато менше металів, ніж більшість інших.</AG_MineralEfficencyGood.description>
+  <!-- EN: metal -->
+  <AG_MineralEfficencyGood.symbolPack.prefixSymbols.0.symbol>металевий</AG_MineralEfficencyGood.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: poor mineral absorbtion -->
+  <AG_MineralEfficencyPoor.label>погане поглинання мінералів</AG_MineralEfficencyPoor.label>
+  <!-- EN: Carriers of this gene have terrible efficiency in converting metals into minerals their body can use. This requires them to consume much more minerals than most. -->
+  <AG_MineralEfficencyPoor.description>Носії цього гена мають жахливу ефективність у перетворенні металів на мінерали, які їхній організм може використовувати. Це вимагає від них споживання набагато більшої кількості мінералів, ніж у більшості інших.</AG_MineralEfficencyPoor.description>
+  <!-- EN: metal -->
+  <AG_MineralEfficencyPoor.symbolPack.prefixSymbols.0.symbol>металевий</AG_MineralEfficencyPoor.symbolPack.prefixSymbols.0.symbol>
+  
+</LanguageData>

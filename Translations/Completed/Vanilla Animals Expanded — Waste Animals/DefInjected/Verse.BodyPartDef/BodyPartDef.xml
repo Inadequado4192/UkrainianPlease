@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--thorax-->
+  <VAEWaste_Thorax.label>грудна клітина</VAEWaste_Thorax.label>
+  <!--tail-->
+  <VAEWaste_InsectTail.label>хвіст</VAEWaste_InsectTail.label>
+  <!--mouth-->
+  <VAEWaste_InsectMouth.label>рот</VAEWaste_InsectMouth.label>
+  <!--stinger-->
+  <VAEWaste_InsectSting.label>жало</VAEWaste_InsectSting.label>
+  <!--left pincer-->
+  <VAEWaste_LeftPincer.label>ліва клішня</VAEWaste_LeftPincer.label>
+  <!--right pincer-->
+  <VAEWaste_RightPincer.label>права клішня</VAEWaste_RightPincer.label>
+</LanguageData>

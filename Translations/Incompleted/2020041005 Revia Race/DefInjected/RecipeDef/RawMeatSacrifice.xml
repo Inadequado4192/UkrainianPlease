@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sacrifice raw meat -->
+  <ReviaRaceSacrificeRawMeat.label>приносити в жертву сире м'ясо</ReviaRaceSacrificeRawMeat.label>
+  <!-- EN: Sacrifice some raw meat to honour the bloody gods of the Revian pantheon. -->
+  <ReviaRaceSacrificeRawMeat.description>Принесіть в жертву сире м'ясо на честь кривавих богів ревійського пантеону.</ReviaRaceSacrificeRawMeat.description>
+  <!-- EN: Sacrificing to the gods. -->
+  <ReviaRaceSacrificeRawMeat.jobString>жертвує богам</ReviaRaceSacrificeRawMeat.jobString>
+  
+</LanguageData>

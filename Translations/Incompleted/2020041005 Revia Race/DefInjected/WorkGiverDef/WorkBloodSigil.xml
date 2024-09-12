@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sacrifice things at blood sigil -->
+  <ReviaDoBillsUseBloodSigil.label>приносити в жертву речі на кривавому хресті</ReviaDoBillsUseBloodSigil.label>
+  <!-- EN: sacrificing at -->
+  <ReviaDoBillsUseBloodSigil.gerund>жертвує на</ReviaDoBillsUseBloodSigil.gerund>
+  <!-- EN: sacrifice -->
+  <ReviaDoBillsUseBloodSigil.verb>жертвувати</ReviaDoBillsUseBloodSigil.verb>
+  
+</LanguageData>

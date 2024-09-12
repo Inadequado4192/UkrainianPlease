@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_Barracks_Preferred.label>монастир</AM_Barracks_Preferred.label>
+  <AM_Barracks_Preferred.description>Спільний житловий простір дозволяє нам разом медитувати і роздумувати над сенсом цього життя. Приватні кімнати - непотрібна легковажність.\n\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;\n - Колоністи отримують позитивний настрій, сплячи в спільній кімнаті, але кімната повинна бути вище Жахливого і нижче Надзвичайно вражаючого.\n - Колоністи отримують негативний настрій, сплячи в приватній кімнаті.</AM_Barracks_Preferred.description>
+
+  <AM_Barracks_PreferredTrue.label>бажано</AM_Barracks_PreferredTrue.label>
+  <AM_Barracks_PreferredTrue.description>Спільна спальня приносить певне відчуття безпеки на Краю. Хто захоче спати на самоті в такому страшному світі?\n\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;\n - Колоністи отримують невелике підвищення настрою, сплячи в спільній кімнаті.\n - Колоністи отримують негативний настрій, сплячи в окремій кімнаті.</AM_Barracks_PreferredTrue.description>
+
+
+</LanguageData>

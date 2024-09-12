@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_Armour_Expected.stages.0.label>немає надійної броні</AM_Armour_Expected.stages.0.label>
+  <AM_Armour_Expected.stages.0.description>Ти називаєш це захистом? Я відчуваю себе голим.</AM_Armour_Expected.stages.0.description>
+  <AM_Armour_Expected.stages.1.label>сильна броня</AM_Armour_Expected.stages.1.label>
+  <AM_Armour_Expected.stages.1.description>Я почуваюся добре захищеним.</AM_Armour_Expected.stages.1.description>
+
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <EPOE_DamagedScytherBlade.label>Пошкоджене лезо скіфа</EPOE_DamagedScytherBlade.label>
+    <EPOE_DamagedScytherBlade.description>Пошкоджене лезо, витягнуте з мертвого механічного скіфера. У нинішньому стані не дуже корисний. Можна відновити в протезній майстерні або переплавити на сталь.</EPOE_DamagedScytherBlade.description>
+    <EPOE_MAAI_Chip.label>Чип MA-AI</EPOE_MAAI_Chip.label>
+    <EPOE_MAAI_Chip.description>Чип Медичного асистента АІ. Використовується як спеціалізований компонент у складних і делікатних імплантатах, з ШІ-системою, яка може керувати всіма складними процесами пристрою, не обтяжуючи користувача.</EPOE_MAAI_Chip.description>
+</LanguageData> 

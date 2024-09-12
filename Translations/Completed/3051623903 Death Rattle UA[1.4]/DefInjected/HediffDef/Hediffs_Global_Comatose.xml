@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <ArtificialComa.label>Штучна кома</ArtificialComa.label>
+ <ArtificialComa.description>Жертва в штучній комі</ArtificialComa.description>
+ <ArtificialComa.stages.1.label>небезпечно</ArtificialComa.stages.1.label>
+ <ArtificialComa.stages.2.label>загроза життю</ArtificialComa.stages.2.label>
+
+
+</LanguageData>

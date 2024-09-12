@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFE_PlanterBox.label>ящик для розсади</VFE_PlanterBox.label>
+  <VFE_PlanterBox.description>Вирощує рослини в ящику з ґрунтом. Не потребує живлення для роботи.</VFE_PlanterBox.description>
+  
+  <VFE_Ecosystem.label>штучна екосистема</VFE_Ecosystem.label>
+  <VFE_Ecosystem.description>Швидко вирощує рослини у штучній, закритій екосистемі. Потребує великої кількості енергії для роботи; рослини загинуть, якщо живлення буде відключено.\n\nМістить вбудовану сонячну лампу для забезпечення рослин світлом.</VFE_Ecosystem.description>
+  
+  <VFE_PlanterBox_Tilable.label>гнучкий ящик для розсади</VFE_PlanterBox_Tilable.label>
+  <VFE_PlanterBox_Tilable.description>Вирощує рослини в ящику з ґрунтом. Не потребує живлення для роботи.\n\nМоже бути сконструйований у будь-якій бажаній формі.</VFE_PlanterBox_Tilable.description>
+  
+  <VFE_Hydroponics_Tilable.label>гнучкий гідропонний басейн</VFE_Hydroponics_Tilable.label>
+  <VFE_Hydroponics_Tilable.description>Ванна зі штучними поживними речовинами для вирощування рослин. Насоси для поживних речовин повинні працювати постійно; рослини загинуть при відключенні живлення.\n\nЦя версія є модульною і може бути зібрана в будь-якій формі.</VFE_Hydroponics_Tilable.description>
+  
+  <VFE_Ecosystem_Tilable.label>гнучка штучна екосистема</VFE_Ecosystem_Tilable.label>
+  <VFE_Ecosystem_Tilable.description>Швидко вирощує рослини у штучній, закритій екосистемі. Потребує великої кількості енергії для роботи; рослини загинуть, якщо живлення буде відключено.\n\nМістить вбудовану сонячну лампу для забезпечення рослин світлом\n\nЦя версія є модульною і може бути зібрана в будь-якій формі.</VFE_Ecosystem_Tilable.description>
+  
+  <VFE_Scarecrow.label>опудало</VFE_Scarecrow.label>
+  <VFE_Scarecrow.description>Людиноподібна фігура із сіна, одягнена в старий одяг, щоб відлякувати тварин у великому радіусі. Дрібні тварини будуть занадто налякані, щоб наблизитися.</VFE_Scarecrow.description>
+  
+  <VFE_Sprinkler.label>спринклер</VFE_Sprinkler.label>
+  <VFE_Sprinkler.description>Розбризкувач води, що забезпечує водою територію навколо себе. Пришвидшує ріст навколишніх рослин.</VFE_Sprinkler.description>
+  <VFEF_Mote_SprinklerWater.label>Mote</VFEF_Mote_SprinklerWater.label>
+</LanguageData>

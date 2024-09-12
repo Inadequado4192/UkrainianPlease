@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--cook at grill-->
+  <VCE_DoBillsGrill.label>готувати на грилі</VCE_DoBillsGrill.label>
+  <!--grilling at-->
+  <VCE_DoBillsGrill.gerund>смажити на</VCE_DoBillsGrill.gerund>
+  <!--grill-->
+  <VCE_DoBillsGrill.verb>смажити на</VCE_DoBillsGrill.verb>
+  
+  <!--cook at deep fryer-->
+  <VCE_DoBillsFryer.label>готувати на фритюрниці</VCE_DoBillsFryer.label>
+  <!--deep frying at-->
+  <VCE_DoBillsFryer.gerund>смажити на</VCE_DoBillsFryer.gerund>
+  <!--deep fry-->
+  <VCE_DoBillsFryer.verb>смажити на</VCE_DoBillsFryer.verb>
+  
+  <!--work at canning machine-->
+  <VCE_DoBillsCanning.label>працювати за консервною машиною</VCE_DoBillsCanning.label>
+  <!--canning food at-->
+  <VCE_DoBillsCanning.gerund>консервувати на</VCE_DoBillsCanning.gerund>
+  <!--can food-->
+  <VCE_DoBillsCanning.verb>консервувати їжу</VCE_DoBillsCanning.verb>
+  
+  <!--work on condiments at prep table-->
+  <VCE_DoBillsPrep.label>працювати за столиком для приправ</VCE_DoBillsPrep.label>
+  <!--working on condiments at-->
+  <VCE_DoBillsPrep.gerund>готувати приправи за</VCE_DoBillsPrep.gerund>
+  <!--prep condiments-->
+  <VCE_DoBillsPrep.verb>готувати приправи за</VCE_DoBillsPrep.verb>
+</LanguageData>

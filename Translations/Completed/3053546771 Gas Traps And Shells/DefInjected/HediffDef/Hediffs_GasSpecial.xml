@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MechanoidVirus.label>Протимеханоїдний вірус</MechanoidVirus.label>
+  <MechanoidVirus.description>Спеціально розроблені для боротьби з механоїдами наномашини що створюють всередині них хаос.</MechanoidVirus.description>
+  <MechanoidVirus.stages.0.label>вторгнення</MechanoidVirus.stages.0.label>
+  <MechanoidVirus.stages.1.label>початкова підготовка</MechanoidVirus.stages.1.label>
+  <MechanoidVirus.stages.2.label>дія</MechanoidVirus.stages.2.label>
+  <MechanoidVirus.stages.3.label>ХАОС</MechanoidVirus.stages.3.label>
+
+
+  <!-- Virus Effect  
+	<effectType> Special, Hediff, MentalBreak Default Special
+	<effectDef> name of the effect def or special command (Special commands: Join joins player faction, freeze stops gaining severity, cure severity = 0) Default null
+	<weight> Random effect weight (INT value) DEFAULT 0
+	<useVirusSeverity> if this is a Hediff its severity will = virus severity (BOOL value) DEFAULT false
+	<severityMin> if above is false use random severity min (FLOAT value) Default 0
+	<severityMax> same as above -->
+
+  <MechStunLoop.label>Протимеханоїдний вірус</MechStunLoop.label>
+  <MechStunLoop.description>АГОНІЯ</MechStunLoop.description>
+
+
+</LanguageData>

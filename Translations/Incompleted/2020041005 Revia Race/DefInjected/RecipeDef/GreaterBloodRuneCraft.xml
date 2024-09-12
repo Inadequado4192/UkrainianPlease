@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Craft Greater Blood Rune -->
+  <ReviaRaceCraftGreaterBloodRune.label>Створіть велику руну крові</ReviaRaceCraftGreaterBloodRune.label>
+  <!-- EN: Craft an inert Greater Blood Rune. -->
+  <ReviaRaceCraftGreaterBloodRune.description>Створіть інертну велику руну крові.</ReviaRaceCraftGreaterBloodRune.description>
+  <!-- EN: Carving Greater Blood Rune. -->
+  <ReviaRaceCraftGreaterBloodRune.jobString>Різьбить велику руну крові.</ReviaRaceCraftGreaterBloodRune.jobString>
+  
+</LanguageData>

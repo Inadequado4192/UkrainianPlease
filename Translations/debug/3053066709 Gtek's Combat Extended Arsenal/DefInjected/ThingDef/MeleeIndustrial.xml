@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HIDMelee_BaseballBat.label>бейсбольна бита</HIDMelee_BaseballBat.label>
+  <HIDMelee_BaseballBat.description>Довга, дворучна фігурна палиця для гри в бейсбол. Хоча вона не призначена для бою, це, по суті, вишукана дубина, що ідеально підходить для ударів.</HIDMelee_BaseballBat.description>
+  <HIDMelee_BaseballBat.tools.0.label>руків'я</HIDMelee_BaseballBat.tools.0.label>
+  <HIDMelee_BaseballBat.tools.1.label>головка</HIDMelee_BaseballBat.tools.1.label>
+
+  <HIDMelee_PoolCue.label>кий</HIDMelee_PoolCue.label>
+  <HIDMelee_PoolCue.description>Довга, дворучна фігурна палиця для більярду. Легка вага та велика довжина роблять її напрочуд ефективною, з вістрям на кінці для швидких ударів.</HIDMelee_PoolCue.description>
+  <HIDMelee_PoolCue.tools.0.label>руків'я</HIDMelee_PoolCue.tools.0.label>
+  <HIDMelee_PoolCue.tools.1.label>шийка</HIDMelee_PoolCue.tools.1.label>
+  <HIDMelee_PoolCue.tools.2.label>кінчик</HIDMelee_PoolCue.tools.2.label>
+
+  <HIDMelee_PoliceTonfa.label>поліцейська тонфа</HIDMelee_PoliceTonfa.label>
+  <HIDMelee_PoliceTonfa.description>Простий, але ефективний інструмент для того, щоб показати людям, хто в домі господар. Атакує швидко, але не дуже смертоносно.</HIDMelee_PoliceTonfa.description>
+  <HIDMelee_PoliceTonfa.tools.0.label>руків'я</HIDMelee_PoliceTonfa.tools.0.label>
+  <HIDMelee_PoliceTonfa.tools.1.label>головка</HIDMelee_PoliceTonfa.tools.1.label>
+  <HIDMelee_PoliceTonfa.tools.2.label>головка</HIDMelee_PoliceTonfa.tools.2.label>
+
+  <HIDMelee_SurvivalHatchet.label>сокира виживальника</HIDMelee_SurvivalHatchet.label>
+  <HIDMelee_SurvivalHatchet.description>Переважно призначена для рубання дров, але чудово функціонує і як зброя.</HIDMelee_SurvivalHatchet.description>
+  <HIDMelee_SurvivalHatchet.tools.0.label>руків'я</HIDMelee_SurvivalHatchet.tools.0.label>
+  <HIDMelee_SurvivalHatchet.tools.1.label>лезо</HIDMelee_SurvivalHatchet.tools.1.label>
+
+  <HIDMelee_Crowbar.label>лом</HIDMelee_Crowbar.label>
+  <HIDMelee_Crowbar.description>Суцільний сталевий прут з гаком.Важкий і громіздкий, але руйнівний, якщо влучить.</HIDMelee_Crowbar.description>
+  <HIDMelee_Crowbar.tools.0.label>руків'я</HIDMelee_Crowbar.tools.0.label>
+  <HIDMelee_Crowbar.tools.1.label>гак</HIDMelee_Crowbar.tools.1.label>
+
+
+</LanguageData>

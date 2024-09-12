@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Behavior -->
+
+  <AM_SkyBurialBehavior.spectatorFilter.description>Глядачі повинні бути живими.</AM_SkyBurialBehavior.spectatorFilter.description>
+  <AM_SkyBurialBehavior.roles.0.label>промовець</AM_SkyBurialBehavior.roles.0.label>
+  <AM_SkyBurialBehavior.roles.1.label>Тіло</AM_SkyBurialBehavior.roles.1.label>
+
+
+</LanguageData>

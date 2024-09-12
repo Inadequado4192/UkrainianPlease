@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name->[ColorBadass] [Geography] [fortname]</li>
+    <li>r_name->[ColorBadass] [fortname]</li>
+    <li>fortname->Citadel</li>
+    <li>fortname->Fortress</li>
+    <li>fortname->Fort</li>
+    <li>fortname->Castle</li>
+    <li>fortname->Stronghold</li>
+  -->
+  <NamerSettlementReviaTemplar.rulePack.rulesStrings>
+    <li>r_name->[Geography] [fortname] [ColorBadass]</li>
+    <li>r_name->[fortname] [ColorBadass]</li>
+    <li>fortname->Цитадель</li>
+    <li>fortname->Фортеця</li>
+    <li>fortname->Форт</li>
+    <li>fortname->Замок</li>
+    <li>fortname->Сторожова застава</li>
+  </NamerSettlementReviaTemplar.rulePack.rulesStrings>
+  
+</LanguageData>

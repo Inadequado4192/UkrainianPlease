@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--consumed soy sauce (from meal)-->
+  <VCE_ConsumedSoySauce.label>спожито соєвий соус (в страві)</VCE_ConsumedSoySauce.label>
+  <!--A fermented paste of soybeans, roasted grain, brine, and Aspergillus bacteria. Soy sauce can be added directly to food, and is used as a dip or salt flavor in cooking, as well as providing a rich umami taste. Soy sauce contains 10 times the antioxidants of red wine, and can help prevent cardiovascular diseases (increases blood pumping and filtration).-->
+  <VCE_ConsumedSoySauce.description>Ферментована паста із соєвих бобів, смаженого зерна, розсолу та бактерій Aspergillus. Соєвий соус можна додавати безпосередньо в їжу, задіювати як соус або приправу в кулінарії, а також використовувати для надання насиченого смаку умамі. Соєвий соус містить в 10 разів більше антиоксидантів, ніж червоне вино, і може допомогти запобігти серцево-судинним захворюванням (посилює кровообіг та фільтрацію крові).</VCE_ConsumedSoySauce.description>
+  
+  <!--consumed wasabi (from meal)-->
+  <VCE_ConsumedWasabi.label>спожито васабі (в страві)</VCE_ConsumedWasabi.label>
+  <!--A paste made from ground wasabi rhizomes and used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. Wasabi clears your breathing and makes you feel warmer for a while.-->
+  <VCE_ConsumedWasabi.description>Паста із мелених кореневищ васабі, яку використовують як гостру приправу до суші та інших страв. За смаком вона більше схожа на гостру гірчицю, ніж на перець чилі, оскільки більше стимулює ніс, ніж язик. Васабі прочищає дихальні шляхи та, на деякий час, зігріває.</VCE_ConsumedWasabi.description>
+  
+  <!--consumed simple sushi (from meal)-->
+  <VCE_AteSimpleSushi.label>спожито прості суші</VCE_AteSimpleSushi.label>
+  <!--I have eaten a delicious and filling sushi meal.-->
+  <VCE_AteSimpleSushi.description>Ці суші були доволі смачними та ситними.</VCE_AteSimpleSushi.description>
+  
+  <!--consumed fine sushi (from meal)-->
+  <VCE_AteFineSushi.label>спожито вишукані суші</VCE_AteFineSushi.label>
+  <!--I have eaten a delicious and filling sushi meal.-->
+  <VCE_AteFineSushi.description>Ці суші були доволі смачними та ситними.</VCE_AteFineSushi.description>
+  
+  <!--consumed lavish sushi (from meal)-->
+  <VCE_AteLavishSushi.label>спожито розкішні суші</VCE_AteLavishSushi.label>
+  <!--I have eaten a delicious and filling sushi meal.-->
+  <VCE_AteLavishSushi.description>Ці суші були доволі смачними та ситними.</VCE_AteLavishSushi.description>
+  
+  <!--consumed gourmet sushi (from meal)-->
+  <VCE_AteGourmetSushi.label>спожито гурманські суші</VCE_AteGourmetSushi.label>
+  <!--I have eaten a delicious and filling sushi meal.-->
+  <VCE_AteGourmetSushi.description>Ці суші були доволі смачними та ситними.</VCE_AteGourmetSushi.description>
+</LanguageData>

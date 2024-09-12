@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ESNext",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "strict": true,
+        "downlevelIteration": true,
+        "resolveJsonModule": true,
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "allowSyntheticDefaultImports": true,
+        "isolatedModules": true,
+        "useUnknownInCatchVariables": true,
+        "alwaysStrict": true,
+        "noUncheckedIndexedAccess": true,
+        "skipLibCheck": true,
+        "incremental": true
+    },
+    "include": ["**/*.ts", "**/*.tsx"],
+    "exclude": ["node_modules"]
+}

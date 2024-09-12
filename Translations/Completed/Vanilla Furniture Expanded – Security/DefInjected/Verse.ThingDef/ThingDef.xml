@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFES_Mote_SpotLight.label>Mote</VFES_Mote_SpotLight.label>
+  
+  <VFES_DeployableBarrier.label>висувний бар'єр</VFES_DeployableBarrier.label>
+  <VFES_DeployableBarrier.description>Висувний бар'єр, який без живлення діє як звичайна підлога. Забезпечує відмінне прикриття від далекобійних атак. У зануреному стані отримує вдвічі менше пошкоджень.</VFES_DeployableBarrier.description>
+
+  <VFES_Turret_FloorTurret.label>висувна турель</VFES_Turret_FloorTurret.label>
+  <VFES_Turret_FloorTurret.description>Висувна двоствольна автоматична турель військового класу, яка без живлення діє як звичайна підлога. У зануреному стані отримує вдвічі менше пошкоджень. Потребує сталі для оновлення її стволів після важкого використання. Може вибухнути, якщо пошкодити. Її слабкий ШІ не може бути напряму контрольований, тому стережіться дружнього вогню.</VFES_Turret_FloorTurret.description>
+  <VFES_Turret_FloorTurret.comps.CompRefuelable.fuelGizmoLabel>Міцність стволів</VFES_Turret_FloorTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_FloorTurret.comps.CompRefuelable.fuelLabel>Пострілів до заміни стволів</VFES_Turret_FloorTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_FloorTurret.comps.CompRefuelable.outOfFuelMessage>Необхідна заміна стволів</VFES_Turret_FloorTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Gun_FloorTurret.label>висувна турель</VFES_Gun_FloorTurret.label>
+  <VFES_Gun_FloorTurret.description>Дві прості автоматичні гармати, виготовлені для встановлення на турелі.</VFES_Gun_FloorTurret.description>
+  <VFES_Gun_FloorTurret.verbs.Verb_Shoot.label>висувна турель</VFES_Gun_FloorTurret.verbs.Verb_Shoot.label>
+
+  <VFES_Turret_HMGComplex.label>комплекс ВКК</VFES_Turret_HMGComplex.label>
+  <VFES_Turret_HMGComplex.description>Стаціонарний великокаліберний кулемет, з кількома мішками з піском, для прикриття.</VFES_Turret_HMGComplex.description>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.fuelGizmoLabel>Боєприпас</VFES_Turret_HMGComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.fuelLabel>Пострілів до перезарядки</VFES_Turret_HMGComplex.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.outOfFuelMessage>Закінчилися набої</VFES_Turret_HMGComplex.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Gun_HMGComplex.label>комплекс ВКК</VFES_Gun_HMGComplex.label>
+  <VFES_Gun_HMGComplex.description>Навісний варіант великокаліберного кулемета.</VFES_Gun_HMGComplex.description>
+  <VFES_Gun_HMGComplex.verbs.Verb_Shoot.label>комплекс ВКК</VFES_Gun_HMGComplex.verbs.Verb_Shoot.label>
+
+  <VFES_Bullet_HMGComplex.label>Куля ВКК</VFES_Bullet_HMGComplex.label>
+  
+  <VFES_Turret_AutocannonDouble.label>турель з подвійною автопушкою</VFES_Turret_AutocannonDouble.label>
+  <VFES_Turret_AutocannonDouble.description>Важка автоматична турель із двома стволами. Її крупнокаліберні снаряди наносять важкі пошкодження на значних дистанціях, але її стволи треба оновляти після використання. Не може стріляти по близьким цілям, і може вибухнути при пошкодженні.</VFES_Turret_AutocannonDouble.description>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>Міцність стволів</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>Пострілів до заміни стволів</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>Необхідна заміна стволів</VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_TurretDoubleAutocannon_Top.label>турель з подвійною автопушкою</VFES_TurretDoubleAutocannon_Top.label>
+  <VFES_TurretDoubleAutocannon_Top.description>Самозарядна великокаліберна двоствольна гармата, призначена для кріплення на турелі.</VFES_TurretDoubleAutocannon_Top.description>
+  <VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>турель з подвійною автопушкою</VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>
+  
+  <VFES_Turret_Artillery.label>артилерія</VFES_Turret_Artillery.label>
+  <VFES_Turret_Artillery.description>Керована артилерія, яка може стріляти всіма видами снарядів. Здатна завдати нищівної шкоди як живій силі, так і спорудам супротивника, ця військова техніка відмінно справляється з вогневою підтримкою солдатів на полі бою.\n\nЗдатна вражати інші райони світу в середньому радіусі.</VFES_Turret_Artillery.description>
+  
+  <VFES_Artillery_Weapon.label>артилерія</VFES_Artillery_Weapon.label>
+  <VFES_Artillery_Weapon.description>Артилерійська гармата, здатна вести вогонь на великі відстані.</VFES_Artillery_Weapon.description>
+  <VFES_Artillery_Weapon.verbs.Verb_Shoot.label>артилерія</VFES_Artillery_Weapon.verbs.Verb_Shoot.label>
+
+  <VFES_Turret_ChargeComplex.label>комплекс зарядної гармати</VFES_Turret_ChargeComplex.label>
+  <VFES_Turret_ChargeComplex.description>Стаціонарна зарядна гармата, встановлена на металевому бар'єрі. Здатна вести вогонь до тих пір, доки батарея не розрядиться.</VFES_Turret_ChargeComplex.description>
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelGizmoLabel>Пострілів залишилось</VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelLabel>Пострілів до заміни батареї</VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.outOfFuelMessage>Необхідна заміна батареї</VFES_Turret_ChargeComplex.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Gun_ChargeComplex.label>кріплення зарядної гармати</VFES_Gun_ChargeComplex.label>
+  <VFES_Gun_ChargeComplex.description>Зарядна гармата, виготовлена для встановлення на турелі.</VFES_Gun_ChargeComplex.description>
+  <VFES_Gun_ChargeComplex.verbs.Verb_Shoot.label>кріплення зарядної гармати</VFES_Gun_ChargeComplex.verbs.Verb_Shoot.label>
+
+  <VFES_Bullet_ChargeComplex.label>заряджений снаряд</VFES_Bullet_ChargeComplex.label>
+  
+  <VFES_Turret_Decoy.label>приманка</VFES_Turret_Decoy.label>
+  <VFES_Turret_Decoy.description>Манекен з тканини з дерев'яною гвинтівкою в руках. Привертає увагу ворога.</VFES_Turret_Decoy.description>
+  
+  <VFES_Gun_None.label>макет рушниці</VFES_Gun_None.label>
+  <VFES_Gun_None.description>Репліка гармати з дерева.</VFES_Gun_None.description>
+  <VFES_Gun_None.verbs.Verb_Shoot.label>макет рушниці</VFES_Gun_None.verbs.Verb_Shoot.label>
+
+  <VFES_Bullet_Invisible.label>невидимі снаряди</VFES_Bullet_Invisible.label>
+  
+  <VFES_BarbedWire.label>колючий дріт</VFES_BarbedWire.label>
+  <VFES_BarbedWire.description>Різновид сталевого колючого дроту, що складається з гострих країв і вістря, розташованих через певні проміжки. Він не лише сповільнює пересування ворогів, але й завдає порізів та колотих ран.</VFES_BarbedWire.description>
+  
+  <VFES_Trench.label>окоп</VFES_Trench.label>
+  <VFES_Trench.description>Довгий вузький рів, виритий у землі. Щоб перетнути його, потрібно спускатися і підніматися, тому він значно сповільнює швидкість пересування. Солдати всередині окопу отримують штраф до дальності стрільби, але отримують значне укриття.</VFES_Trench.description>
+  
+  <VFES_Platform.label>платформа</VFES_Platform.label>
+  <VFES_Platform.description>Довга, вузька дерев'яна платформа. Щоб перетнути її, потрібно підніматися і спускатися, тому вона значно сповільнює швидкість пересування. Солдати на вершині платформи отримують значний бонус до дальності стрільби, але також в них легше поцілити.</VFES_Platform.description>
+  
+  <VFES_AmmoCrate.label>ящик для набоїв</VFES_AmmoCrate.label>
+  <VFES_AmmoCrate.description>Призначений для зберігання снарядів. Підвищує швидкість стрільби солдатів, що знаходяться поруч.</VFES_AmmoCrate.description>
+  
+  <VFES_Turret_MilitaryTurret.label>військова турель</VFES_Turret_MilitaryTurret.label>
+  <VFES_Turret_MilitaryTurret.description>Двоствольна автоматична турель військового класу. Потребує сталі для оновлення її стволів після важкого використання. Може вибухнути, якщо пошкодити. Її слабкий ШІ не може бути напряму контрольований, тому стережіться дружнього вогню.</VFES_Turret_MilitaryTurret.description>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>Міцність стволів</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>Пострілів до заміни стволів</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>Необхідна заміна стволів</VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_MilitaryTurret.label>військова турель</VFES_Gun_MilitaryTurret.label>
+  <VFES_Gun_MilitaryTurret.description>Дві прості автоматичні гармати, виготовлені для встановлення на турелі.</VFES_Gun_MilitaryTurret.description>
+  <VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>військова турель</VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Turret_Searchlight.label>прожектор</VFES_Turret_Searchlight.label>
+  <VFES_Turret_Searchlight.description>Пристрій, що поєднує надзвичайно яскраву лампу і дзеркальний параболічний рефлектор, корисний для освітлення і засліплення цілей.</VFES_Turret_Searchlight.description>
+  
+  <VFES_Gun_Searchlight.label>прожектор</VFES_Gun_Searchlight.label>
+  <VFES_Gun_Searchlight.description>Прожектор для турелі.</VFES_Gun_Searchlight.description>
+  <VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>прожектор</VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>
+
+  <VFES_Turret_Flame.label>вогнеметна турель</VFES_Turret_Flame.label>
+  <VFES_Turret_Flame.description>Переносна вогнеметна турель. Може вибухнути, якщо пошкодити. Її слабкий ШІ не може бути напряму контрольований, тому стережіться дружнього вогню.</VFES_Turret_Flame.description>
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>Пальне</VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>Залишилось пального</VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>Необхідна заправка</VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Gun_FlameTurret.label>вогнеметна турель</VFES_Gun_FlameTurret.label>
+  <VFES_Gun_FlameTurret.description>Вогнемет, виготовлений для встановлення на турелі.</VFES_Gun_FlameTurret.description>
+  <VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>вогнеметна турель</VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>
+
+  <VFES_Bullet_FlameTurret.label>вогнеметний постріл</VFES_Bullet_FlameTurret.label>
+  
+  <VFES_Turret_SentryGun.label>оборонна гармата</VFES_Turret_SentryGun.label>
+  <VFES_Turret_SentryGun.description>Автономна турель з невеликим кулеметом, встановленим на вершині. Досить легка, щоб її можна було переносити та розгортати будь-де. Може вибухнути, якщо пошкодити. Її слабкий ШІ не може бути напряму контрольований, тому стережіться дружнього вогню.</VFES_Turret_SentryGun.description>
+  <VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>Міцність стволів</VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>Пострілів до заміни стволів</VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>Необхідна заміна стволів</VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_SentryTurret.label>оборонна гармата</VFES_Gun_SentryTurret.label>
+  <VFES_Gun_SentryTurret.description>Кулемет Гатлінга, призначений для встановлення на башті.</VFES_Gun_SentryTurret.description>
+  <VFES_Gun_SentryTurret.verbs.Verb_Shoot.label>оборонна гармата</VFES_Gun_SentryTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_BearTrap.label>ведмежа пастка</VFES_BearTrap.label>
+  <VFES_BearTrap.description>Набір шипів під напругою, з'єднаних із спусковим механізмом, що активується дотиком. Коли жертва натискає на спусковий гачок шипи вискакують і б'ють, як правило, по ногах або ступнях. Шипи не завдадуть шкоди занадто маленьким жертвам, тоді як занадто великі жертви просто розчавлять цю пастку. Оскільки пастка прихована в навколишньому ландшафті, її не можна розміщувати поруч з іншими пастками.</VFES_BearTrap.description>
+  
+  <VFES_Turret_Ballista.label>баліста</VFES_Turret_Ballista.label>
+  <VFES_Turret_Ballista.description>Старовинна військова облогова машина у вигляді арбалета, встановленого на дерев'яній конструкції. Болти, випущені з цієї машини, при ударі розлітаються на друзки.</VFES_Turret_Ballista.description>
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>Болти</VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>Залишилось болтів</VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>Необхідна перезарядка</VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Bullet_Ballista.label>болт балісти</VFES_Bullet_Ballista.label>
+  
+  <VFES_Gun_BallistaTurret.label>баліста</VFES_Gun_BallistaTurret.label>
+  <VFES_Gun_BallistaTurret.description>Старовинна військова облогова машина у вигляді арбалета, встановлена на дерев'яній конструкції.</VFES_Gun_BallistaTurret.description>
+  <VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>баліста</VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+
+  <VFES_Turret_Catapult.label>катапульта</VFES_Turret_Catapult.label>
+  <VFES_Turret_Catapult.description>Катапульта – це балістичний пристрій, що використовується для запуску снаряда на велику відстань без допомоги пороху чи іншого пального. Використовувана з давніх часів, катапульта зарекомендувала себе як один з найбільш стабільно ефективних механізмів у війні.</VFES_Turret_Catapult.description>
+
+  <VFES_Artillery_Catapult.label>катапульта</VFES_Artillery_Catapult.label>
+  <VFES_Artillery_Catapult.description>Катапульта – це балістичний пристрій, що використовується для запуску снаряда на велику відстань без допомоги пороху чи іншого пального. Використовувана з давніх часів, катапульта зарекомендувала себе як один з найбільш стабільно ефективних механізмів у війні.</VFES_Artillery_Catapult.description>
+  <VFES_Artillery_Catapult.verbs.Verb_Shoot.label>катапульта</VFES_Artillery_Catapult.verbs.Verb_Shoot.label>
+  
+  <VFES_Artillery_Rock.label>масивний валун</VFES_Artillery_Rock.label>
+
+  <VFES_CavalrySpikes.label>рогатка</VFES_CavalrySpikes.label>
+  <VFES_CavalrySpikes.description>Дерев'яні кілки, поставлені в ряд для побудови оборонних укріплень. Дуже дешево і швидко будується, забезпечує базове укриття і завдає шкоди людям, які намагаються пройти через нього. Через деякий час руйнується.</VFES_CavalrySpikes.description>
+
+  <VFES_ShieldGenerator_Small.label>малий генератор щита</VFES_ShieldGenerator_Small.label>
+  <VFES_ShieldGenerator_Small.description>Ультратехнологічний пристрій, який проєктує потужне енергетичне поле навколо себе, щоб захистити все всередині, але споживає величезну кількість енергії, коли активний. Працює крізь стіни.\n\nАктивується лише тоді, коли є активна загроза, наприклад, рейд або артилерійський обстріл. В іншому випадку він залишається в неактивному стані і споживає набагато менше енергії.\n\nМоже підпалити навколишню територію, якщо за короткий проміжок часу поглине достатню кількість шкоди.</VFES_ShieldGenerator_Small.description>
+
+  <VFES_ShieldGenerator_Large.label>великий генератор щита</VFES_ShieldGenerator_Large.label>
+  <VFES_ShieldGenerator_Large.description>Ультратехнологічний пристрій, який проєктує велике енергетичне поле навколо себе, щоб захистити все всередині, але споживає величезну кількість енергії, коли активний. Працює крізь стіни.\n\nАктивується лише тоді, коли є активна загроза, наприклад, рейд або артилерійський обстріл. В іншому випадку вони залишається в неактивному стані і споживає набагато менше енергії.</VFES_ShieldGenerator_Large.description>
+
+  <VFES_ShieldGenerator_Archotech.label>генератор щита архотехів</VFES_ShieldGenerator_Archotech.label>
+  <VFES_ShieldGenerator_Archotech.description>Автономний пристрій архотехів, який проєктує навколо себе потужне енергетичне поле, щоб захистити все, що знаходиться всередині. Працює крізь стіни.\n\nАктивується лише тоді, коли є активна загроза, наприклад, рейд або артилерійський обстріл. В іншому випадку вони залишається в неактивному стані і споживає набагато менше енергії.\n\nМоже підпалити навколишню територію, якщо за короткий проміжок часу поглине достатню кількість шкоди.</VFES_ShieldGenerator_Archotech.description>
+
+  <VFES_Turret_ChargeTurret.label>зарядна турель</VFES_Turret_ChargeTurret.label>
+  <VFES_Turret_ChargeTurret.description>Автоматична турель з імпульсною гарматою, яка використовує сучасні датчики, що підвищують точність стрільби. Потребує пласталі для оновлення її ствола після важкого використання. Може вибухнути, якщо пошкодити.</VFES_Turret_ChargeTurret.description>
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>Міцність ствола</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>Пострілів до заміни ствола</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>Потребує заміни ствола</VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Gun_ChargeTurret.label>зарядна турель</VFES_Gun_ChargeTurret.label>
+  <VFES_Gun_ChargeTurret.description>Зарядна гвинтівка, виготовлена для встановлення на турелі.</VFES_Gun_ChargeTurret.description>
+  <VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>зарядна турель</VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>
+
+  <VFES_Turret_ChargeRailgunTurret.label>зарядний рейкотрон</VFES_Turret_ChargeRailgunTurret.label>
+  <VFES_Turret_ChargeRailgunTurret.description>Важкий рейкотрон, що зазвичай встановлюється на космічних кораблях і використовує масив передових датчиків, які забезпечують найвищу точність стрільби. Для роботи потребує періодичної заміни компонентів. Може вибухнути, якщо пошкодити.</VFES_Turret_ChargeRailgunTurret.description>
+  <VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelGizmoLabel>Міцність компонентів</VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelLabel>Пострілів до заміни компонентів</VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.outOfFuelMessage>Потребує заміни компонентів</VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Gun_RailgunTurret.label>зарядний рейкотрон</VFES_Gun_RailgunTurret.label>
+  <VFES_Gun_RailgunTurret.description>Удосконалена рейкова гармата, призначена для одночасного запуску двох електромагнітно прискорених снарядів.</VFES_Gun_RailgunTurret.description>
+  <VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>зарядний рейкотрон</VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>
+
+  <VFES_Bullet_DoubleChargeLance.label>заряджений снаряд</VFES_Bullet_DoubleChargeLance.label>
+  
+  <VFES_Turret_EMPTurret.label>ЕМІ гармата</VFES_Turret_EMPTurret.label>
+  <VFES_Turret_EMPTurret.description>Гармата електромагнітного імпульсу, зазвичай встановлена на космічних кораблях. Потребує уранових стрижнів для оновлення її ствола після важкого використання. Веде вогонь лише по механоїдах та може вибухнути, якщо пошкодити.</VFES_Turret_EMPTurret.description>
+  <VFES_Turret_EMPTurret.comps.CompRefuelable.fuelGizmoLabel>Уранові стрижні</VFES_Turret_EMPTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_EMPTurret.comps.CompRefuelable.fuelLabel>Вистрілів до перезарядки</VFES_Turret_EMPTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_EMPTurret.comps.CompRefuelable.outOfFuelMessage>Потрібен уран</VFES_Turret_EMPTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Gun_EMPTurret.label>ЕМІ гармата</VFES_Gun_EMPTurret.label>
+  <VFES_Gun_EMPTurret.description>Котушкова ЕМІ гармата виготовлена для встановлення на турелі.</VFES_Gun_EMPTurret.description>
+  <VFES_Gun_EMPTurret.verbs.Verb_Shoot.label>ЕМІ гармата</VFES_Gun_EMPTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Bullet_EMPCannon.label>ЕМІ постріл</VFES_Bullet_EMPCannon.label>
+
+  <VFES_ArtilleryStrikeIncoming.label>артилерійський удар (прилітає)</VFES_ArtilleryStrikeIncoming.label>
+  
+  <VFES_ArtilleryStrikeLeaving.label>артилерійський удар (відлітає)</VFES_ArtilleryStrikeLeaving.label>
+
+  <VFES_ActiveArtilleryStrike.label>артилерійський удар</VFES_ActiveArtilleryStrike.label>
+</LanguageData>

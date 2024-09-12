@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <SpacerFurniture.label>футуристичні меблі</SpacerFurniture.label>
+  <SpacerFurniture.description>Будуйте просунуті меблі, які зазвичай можна побачити лише в розвинених поселенях і будівлях блискосвіту.</SpacerFurniture.description>
+  
+  <SpacerElectronics.label>футуристична електроніка</SpacerElectronics.label>
+  <SpacerElectronics.description>Створюйте просунуту електроніку, яку зазвичай можна побачити лише в розвинених поселенях і будівлях блискосвіту.</SpacerElectronics.description>
+  
+  <MechaniteRestoration.label>механітова реставрація</MechaniteRestoration.label>
+  <MechaniteRestoration.description>Використовуйте ультратехнологічних механітів, щоб реставрувати об'єкти, побудувавши механітовий стелаж для ремонту.</MechaniteRestoration.description>
+</LanguageData>

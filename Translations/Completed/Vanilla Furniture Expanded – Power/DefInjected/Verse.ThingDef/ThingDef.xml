@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VPE_Mote_GasPuff.label>Mote</VPE_Mote_GasPuff.label>
+  
+  <VFE_AdvancedWindTurbine.label>просунута вітрова турбина</VFE_AdvancedWindTurbine.label>
+  <VFE_AdvancedWindTurbine.description>Просунутий вітрогенератор, створений за останнім словом науки. Потребує великого вільного простору спереду і ззаду для оптимального потоку повітря.</VFE_AdvancedWindTurbine.description>
+
+  <VFE_AdvancedSolarGenerator.label>просунута сонячна панель</VFE_AdvancedSolarGenerator.label>
+  <VFE_AdvancedSolarGenerator.description>Сонячний генератор, створений за останнім словом науки, здатний видобувати значно більше енергії із сонячного світла. Не працює в темряві або при штучному освітленні.</VFE_AdvancedSolarGenerator.description>
+
+  <VFE_AdvancedWatermillGenerator.label>просунутий гідрогенератор</VFE_AdvancedWatermillGenerator.label>
+  <VFE_AdvancedWatermillGenerator.description>Генератор, створений за останнім словом науки, який виробляє електроенергію з річки. Має бути розміщений колесом у рухомій воді. Якщо водяні млини розмістити занадто близько один до одного, турбулентність, яку вони створюють, буде заважати і зменшувати виробництво електроенергії.</VFE_AdvancedWatermillGenerator.description>
+
+  <VFE_LargeBattery.label>великий акумулятор</VFE_LargeBattery.label>
+  <VFE_LargeBattery.description>Зберігає велику кількість електроенергії для подальшого використання. Заряджені акумулятори вибухають під дощем або у вогні.</VFE_LargeBattery.description>
+
+  <VFE_SmallBattery.label>малий акумулятор</VFE_SmallBattery.label>
+  <VFE_SmallBattery.description>Зберігає невелику кількість електроенергії для подальшого використання. Заряджені акумулятори вибухають під дощем або у вогні.</VFE_SmallBattery.description>
+
+  <VFE_AdvancedBattery.label>просунутий акумулятор</VFE_AdvancedBattery.label>
+  <VFE_AdvancedBattery.description>Зберігає електроенергію для подальшого використання. Завдяки технологічному прогресу цей акумуляторний блок значно ефективніше за звичайні. Заряджені просунуті акумулятори водонепроникні та не вибухають під дощем.</VFE_AdvancedBattery.description>
+
+  <VFE_LargeAdvancedBattery.label>великий просунутий акумулятор</VFE_LargeAdvancedBattery.label>
+  <VFE_LargeAdvancedBattery.description>Зберігає велику кількість електроенергії для подальшого використання. Завдяки технологічному прогресу цей акумуляторний блок значно ефективніше за звичайні. Заряджені просунуті акумулятори водонепроникні та не вибухають під дощем.</VFE_LargeAdvancedBattery.description>
+
+  <VFE_PortableWoodFiredGenerator.label>портативний генератор на дровах</VFE_PortableWoodFiredGenerator.label>
+  <VFE_PortableWoodFiredGenerator.description>Виробляє невелику кількість енергії, споживаючи деревину. Необхідно періодично завантажувати дерево вручну. Цей генератор досить легкий, щоб його можна було переносити.</VFE_PortableWoodFiredGenerator.description>
+
+  <VFE_PortableChemfuelPoweredGenerator.label>портативний генератор на хімпаливі</VFE_PortableChemfuelPoweredGenerator.label>
+  <VFE_PortableChemfuelPoweredGenerator.description>Виробляє невелику кількість енергії, споживаючи хімічне паливо. Періодично необхідно заправляти. Цей генератор досить легкий, щоб його можна було носити з собою.</VFE_PortableChemfuelPoweredGenerator.description>
+
+  <VFE_IndustrialWoodFiredGenerator.label>промисловий генератор на дровах</VFE_IndustrialWoodFiredGenerator.label>
+  <VFE_IndustrialWoodFiredGenerator.description>Виробляє велику кількість енергії, споживаючи деревину. Необхідно періодично завантажувати дерево вручну.</VFE_IndustrialWoodFiredGenerator.description>
+
+  <VFE_IndustrialChemfuelPoweredGenerator.label>промисловий генератор на хімпаливі</VFE_IndustrialChemfuelPoweredGenerator.label>
+  <VFE_IndustrialChemfuelPoweredGenerator.description>Виробляє велику кількість енергії, споживаючи хімічне паливо. Періодично необхідно заправляти.</VFE_IndustrialChemfuelPoweredGenerator.description>
+
+  <VFE_TidalGenerator.label>припливний генератор</VFE_TidalGenerator.label>
+  <VFE_TidalGenerator.description>Виробляє електроенергію з рухомих мас води, зокрема, під час припливів і відпливів. Має бути розміщений на воді.</VFE_TidalGenerator.description>
+
+  <VFE_SmallVanometricPowerCell.label>малий ванометричний елемент живлення</VFE_SmallVanometricPowerCell.label>
+  <VFE_SmallVanometricPowerCell.description>Генерує дуже малу кількість чистої енергії, постійно, без використання палива. Ця технологія розроблена архотехами і знаходиться поза межами розуміння навіть більшості суспільств блискосвіту. Хоча ніхто точно не знає, як цей елемент живлення працює, вчені вважають, що він якимось чином видобуває енергію безпосередньо з флуктуацій квантової піни.</VFE_SmallVanometricPowerCell.description>
+
+  <VFE_LargeVanometricPowerCell.label>великий ванометричний елемент живлення</VFE_LargeVanometricPowerCell.label>
+  <VFE_LargeVanometricPowerCell.description>Генерує велику кількість чистої енергії, постійно, без використання палива. Ця технологія розроблена архотехами і знаходиться поза межами розуміння навіть більшості суспільств блискосвіту. Хоча ніхто точно не знає, як цей елемент живлення працює, вчені вважають, що він якимось чином видобуває енергію безпосередньо з флуктуацій квантової піни.</VFE_LargeVanometricPowerCell.description>
+
+  <!-- VPE SECTION -->
+  
+  <VPE_ArchotechViolenceGenerator.label>психічний генератор архотехів</VPE_ArchotechViolenceGenerator.label>
+  <VPE_ArchotechViolenceGenerator.description>Цей пристрій використовує психічну енергію, що виходить з тіл навколишніх гуманоїдів, перетворюючи її безпосередньо на корисну енергію. Ця технологія розроблена архотехами і незрозуміла навіть для більшості суспільств блискосвіту.</VPE_ArchotechViolenceGenerator.description>
+  
+  <VPE_AdvancedGeothermalGenerator.label>просунутий геотермальний генератор</VPE_AdvancedGeothermalGenerator.label>
+  <VPE_AdvancedGeothermalGenerator.description>Просунутий генератор, створений за останнім словом науки, виробляє електроенергію з геотермальних парових гейзерів. Має бути розміщений на паровому гейзері.</VPE_AdvancedGeothermalGenerator.description>
+  
+  <VPE_NuclearGenerator.label>ядерний реактор</VPE_NuclearGenerator.label>
+  <VPE_NuclearGenerator.description>Великий ядерний реактор, переобладнаний з корабельного енергетичного ядра. Споживає уран для виробництва великої кількості енергії. Може бути перевантажений, що призведе до ще більшої потужності за рахунок локального випромінювання.\n\nЯдерний реактор швидко перегрівається і повинен постійно охолоджуватися.\n\nНе може бути розміщений на відкритому повітрі.</VPE_NuclearGenerator.description>
+</LanguageData>

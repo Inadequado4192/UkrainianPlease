@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lethal UV sensitivity -->
+  <AG_Sensitivity_Lethal.label>смертельна чутливість до УФ-випромінювання</AG_Sensitivity_Lethal.label>
+  <!-- EN: Carriers of this gene have biological compounds in their skin that react lethally to UV radiation. They are so sensitive to sunlight that standing under the sun will burn them and kill them in a few minutes. -->
+  <AG_Sensitivity_Lethal.description>У носіїв цього гена в шкірі є біологічні сполуки, які смертельно реагують на УФ-випромінювання. Вони настільки чутливі до сонячних променів, що перебування на сонці може призвести до опіків і смерті за кілька хвилин.</AG_Sensitivity_Lethal.description>
+  <!-- EN: Will be burned to death under direct sunlight -->
+  <AG_Sensitivity_Lethal.customEffectDescriptions.0>Буде спалений на смерть під прямими сонячними променями</AG_Sensitivity_Lethal.customEffectDescriptions.0>
+  <!-- EN: Bear in mind that adding this gene at game start might mean the colonist will just burn to death when landing unless you can IMMEDIATELY find or build cover -->
+  <AG_Sensitivity_Lethal.customEffectDescriptions.1>Майте на увазі, що додавання цього гена на початку гри може призвести до того, що колоніст просто згорить під час приземлення, якщо ви не зможете НЕГАЙНО знайти або побудувати укриття</AG_Sensitivity_Lethal.customEffectDescriptions.1>
+  <!-- EN: UV-hypersensitive -->
+  <AG_Sensitivity_Lethal.labelShortAdj>УФ-гіперчутливий</AG_Sensitivity_Lethal.labelShortAdj>
+  <!-- EN: dark -->
+  <AG_Sensitivity_Lethal.symbolPack.prefixSymbols.0.symbol>темний</AG_Sensitivity_Lethal.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tunnel -->
+  <AG_Sensitivity_Lethal.symbolPack.prefixSymbols.1.symbol>тунель</AG_Sensitivity_Lethal.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: under -->
+  <AG_Sensitivity_Lethal.symbolPack.prefixSymbols.2.symbol>під</AG_Sensitivity_Lethal.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: cave -->
+  <AG_Sensitivity_Lethal.symbolPack.prefixSymbols.3.symbol>печера</AG_Sensitivity_Lethal.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: crypt -->
+  <AG_Sensitivity_Lethal.symbolPack.prefixSymbols.4.symbol>склеп</AG_Sensitivity_Lethal.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: dim -->
+  <AG_Sensitivity_Lethal.symbolPack.prefixSymbols.5.symbol>дім</AG_Sensitivity_Lethal.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: night -->
+  <AG_Sensitivity_Lethal.symbolPack.prefixSymbols.6.symbol>ніч</AG_Sensitivity_Lethal.symbolPack.prefixSymbols.6.symbol>
+  
+  <!-- EN: vicious UV sensitivity -->
+  <AG_Sensitivity_Vicious.label>підвищена чутливість до УФ-випромінювання</AG_Sensitivity_Vicious.label>
+  <!-- EN: Carriers of this gene have biological compounds in their skin that react viciously to UV radiation. They are so sensitive to sunlight that standing under the sun will knock them unconscious. -->
+  <AG_Sensitivity_Vicious.description>У носіїв цього гена в шкірі є біологічні сполуки, які бурхливо реагують на УФ-випромінювання. Вони настільки чутливі до сонячних променів, що перебування на сонці може призвести до втрати свідомості.</AG_Sensitivity_Vicious.description>
+  <!-- EN: Will be knocked unconscious under direct sunlight -->
+  <AG_Sensitivity_Vicious.customEffectDescriptions.0>Буде знепритомніти під прямими сонячними променями</AG_Sensitivity_Vicious.customEffectDescriptions.0>
+  <!-- EN: Bear in mind that adding this gene at game start will mean the colonist will fall unconscious as soon as it lands, and remain so until night -->
+  <AG_Sensitivity_Vicious.customEffectDescriptions.1>Майте на увазі, що додавання цього гена на початку гри призведе до того, що колоніст знепритомніє одразу після приземлення і залишатиметься непритомним до ночі</AG_Sensitivity_Vicious.customEffectDescriptions.1>
+  <!-- EN: UV-hypersensitive -->
+  <AG_Sensitivity_Vicious.labelShortAdj>УФ-гіперчутливий</AG_Sensitivity_Vicious.labelShortAdj>
+  <!-- EN: dark -->
+  <AG_Sensitivity_Vicious.symbolPack.prefixSymbols.0.symbol>темний</AG_Sensitivity_Vicious.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tunnel -->
+  <AG_Sensitivity_Vicious.symbolPack.prefixSymbols.1.symbol>тунель</AG_Sensitivity_Vicious.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: under -->
+  <AG_Sensitivity_Vicious.symbolPack.prefixSymbols.2.symbol>під</AG_Sensitivity_Vicious.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: cave -->
+  <AG_Sensitivity_Vicious.symbolPack.prefixSymbols.3.symbol>печера</AG_Sensitivity_Vicious.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: crypt -->
+  <AG_Sensitivity_Vicious.symbolPack.prefixSymbols.4.symbol>склеп</AG_Sensitivity_Vicious.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: dim -->
+  <AG_Sensitivity_Vicious.symbolPack.prefixSymbols.5.symbol>дім</AG_Sensitivity_Vicious.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: night -->
+  <AG_Sensitivity_Vicious.symbolPack.prefixSymbols.6.symbol>ніч</AG_Sensitivity_Vicious.symbolPack.prefixSymbols.6.symbol>
+  
+  <!-- EN: UV powered, major -->
+  <AG_UVPowered_Major.label>УФ живлення, велике</AG_UVPowered_Major.label>
+  <!-- EN: Carriers of this gene have biological compounds in their skin that are rejuvenated and recharged when subject to UV radiation. They'll be reinvigorated when exposed to sunlight, but very lethargic and subdued when away from it. -->
+  <AG_UVPowered_Major.description>Носії цього гена мають біологічні сполуки в шкірі, які омолоджуються і підзаряджаються під впливом УФ-випромінювання. Вони будуть бадьорими під впливом сонячного світла, але дуже млявими і пригніченими, коли перебуватимуть далеко від нього.</AG_UVPowered_Major.description>
+  <!-- EN: UV-powered -->
+  <AG_UVPowered_Major.labelShortAdj>УФ-живленний</AG_UVPowered_Major.labelShortAdj>
+  <!-- EN: photo -->
+  <AG_UVPowered_Major.symbolPack.prefixSymbols.0.symbol>фото</AG_UVPowered_Major.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: plant -->
+  <AG_UVPowered_Major.symbolPack.prefixSymbols.1.symbol>рослина</AG_UVPowered_Major.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: chloro -->
+  <AG_UVPowered_Major.symbolPack.prefixSymbols.2.symbol>хлор</AG_UVPowered_Major.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: UV powered -->
+  <AG_UVPowered_Mild.label>УФ живлення</AG_UVPowered_Mild.label>
+  <!-- EN: Carriers of this gene have biological compounds in their skin that are rejuvenated and recharged when subject to UV radiation. They'll be reinvigorated when exposed to sunlight, but lethargic when away from it. -->
+  <AG_UVPowered_Mild.description>Носії цього гена мають біологічні сполуки в шкірі, які омолоджуються та підзаряджаються під впливом УФ-випромінювання. Вони будуть бадьорими під впливом сонячного світла, але млявими, коли не перебуватимуть на сонці.</AG_UVPowered_Mild.description>
+  <!-- EN: UV-powered -->
+  <AG_UVPowered_Mild.labelShortAdj>УФ-живленний</AG_UVPowered_Mild.labelShortAdj>
+  <!-- EN: photo -->
+  <AG_UVPowered_Mild.symbolPack.prefixSymbols.0.symbol>фото</AG_UVPowered_Mild.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: plant -->
+  <AG_UVPowered_Mild.symbolPack.prefixSymbols.1.symbol>рослина</AG_UVPowered_Mild.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: chloro -->
+  <AG_UVPowered_Mild.symbolPack.prefixSymbols.2.symbol>хлор</AG_UVPowered_Mild.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: minor UV sensitivity -->
+  <AG_UVSensitivity_Minor.label>незначна чутливість до УФ-випромінювання</AG_UVSensitivity_Minor.label>
+  <!-- EN: Carriers of this gene have eyes that are sensitive to UV radiation, making them mildly uncomfortable when in direct sunlight. -->
+  <AG_UVSensitivity_Minor.description>Носії цього гена мають очі, чутливі до УФ-випромінювання, через що вони відчувають легкий дискомфорт, перебуваючи під прямими сонячними променями.</AG_UVSensitivity_Minor.description>
+  <!-- EN: -10% Sight when in direct sunlight. -->
+  <AG_UVSensitivity_Minor.customEffectDescriptions.0>-10% Зір під прямими сонячними променями.</AG_UVSensitivity_Minor.customEffectDescriptions.0>
+  <!-- EN: UV-sensitive -->
+  <AG_UVSensitivity_Minor.labelShortAdj>УФ-чутливий</AG_UVSensitivity_Minor.labelShortAdj>
+  <!-- EN: dark -->
+  <AG_UVSensitivity_Minor.symbolPack.prefixSymbols.0.symbol>темний</AG_UVSensitivity_Minor.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tunnel -->
+  <AG_UVSensitivity_Minor.symbolPack.prefixSymbols.1.symbol>тунель</AG_UVSensitivity_Minor.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: under -->
+  <AG_UVSensitivity_Minor.symbolPack.prefixSymbols.2.symbol>під</AG_UVSensitivity_Minor.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: cave -->
+  <AG_UVSensitivity_Minor.symbolPack.prefixSymbols.3.symbol>печера</AG_UVSensitivity_Minor.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: crypt -->
+  <AG_UVSensitivity_Minor.symbolPack.prefixSymbols.4.symbol>склеп</AG_UVSensitivity_Minor.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: dim -->
+  <AG_UVSensitivity_Minor.symbolPack.prefixSymbols.5.symbol>діс</AG_UVSensitivity_Minor.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: night -->
+  <AG_UVSensitivity_Minor.symbolPack.prefixSymbols.6.symbol>ніч</AG_UVSensitivity_Minor.symbolPack.prefixSymbols.6.symbol>
+  
+</LanguageData>

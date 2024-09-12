@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFEC_EquipShield.reportString>екіпірування TargetA</VFEC_EquipShield.reportString>
+  <VFEC_LeaveMap.reportString>уходить</VFEC_LeaveMap.reportString>
+  <VEF_CustomizeItem.reportString>налаштуйте TargetA</VEF_CustomizeItem.reportString>
+  <KCSG_GoToPassage.reportString>вхід до TargetA</KCSG_GoToPassage.reportString>
+  <VEF_UseDoorTeleporter.reportString>використовування TargetA для телепортації до TargetB</VEF_UseDoorTeleporter.reportString>
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ave affinity -->
+  <AG_AveAffinity.label>спорідненість з цезарем</AG_AveAffinity.label>
+  <!-- EN: Carriers of this gene have a mystical psychic bond with a meadow ave. -->
+  <AG_AveAffinity.description>Носії цього гена мають містичний психічний зв'язок з луговим цезарем.</AG_AveAffinity.description>
+  <!-- EN: Begins play with a tamed meadow ave. -->
+  <AG_AveAffinity.customEffectDescriptions.0>Гра починається з прирученим луговим цезарем.</AG_AveAffinity.customEffectDescriptions.0>
+  <!-- EN: This gene can only be chosen (and only has effects) at character creation. It won't appear during gameplay. -->
+  <AG_AveAffinity.customEffectDescriptions.1>Цей ген можна вибрати (і він має тільки ефекти) лише при створенні персонажа. Він не з'являється під час гри.</AG_AveAffinity.customEffectDescriptions.1>
+  <!-- EN: ave -->
+  <AG_AveAffinity.symbolPack.prefixSymbols.0.symbol>цезар</AG_AveAffinity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: avi -->
+  <AG_AveAffinity.symbolPack.prefixSymbols.1.symbol>цезар</AG_AveAffinity.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: fission mouse affinity -->
+  <AG_FissionMouseAffinity.label>спорідненість до мишей-розщеплення</AG_FissionMouseAffinity.label>
+  <!-- EN: Carriers of this gene attract fission mice, and a tame horde of these critters is constantly surrounding them. -->
+  <AG_FissionMouseAffinity.description>Носії цього гена приваблюють мишей-розщеплення, і приручена орда цих тварюк постійно оточує їх.</AG_FissionMouseAffinity.description>
+  <!-- EN: Begins play with 3 tamed fission mice. -->
+  <AG_FissionMouseAffinity.customEffectDescriptions.0>Гра починається з 3 приручених мишей-розщеплення.</AG_FissionMouseAffinity.customEffectDescriptions.0>
+  <!-- EN: This gene can only be chosen (and only has effects) at character creation. It won't appear during gameplay. -->
+  <AG_FissionMouseAffinity.customEffectDescriptions.1>Цей ген можна вибрати (і він має тільки ефекти) лише при створенні персонажа. Він не з'являється під час гри.</AG_FissionMouseAffinity.customEffectDescriptions.1>
+  <!-- EN: fission -->
+  <AG_FissionMouseAffinity.symbolPack.prefixSymbols.0.symbol>розщеплення</AG_FissionMouseAffinity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: pest -->
+  <AG_FissionMouseAffinity.symbolPack.prefixSymbols.1.symbol>шкідник</AG_FissionMouseAffinity.symbolPack.prefixSymbols.1.symbol>
+  
+    <!-- EN: needleroll affinity -->
+  <AG_NeedlerollAffinity.label>спорідненість до голковичків</AG_NeedlerollAffinity.label>
+  <!-- EN: Carriers of this gene attract needlerolls, and a tame horde of these critters is constantly surrounding them. -->
+  <AG_NeedlerollAffinity.description>Носії цього гена приваблюють голковичків, і приручена орда цих істот постійно оточує їх.</AG_NeedlerollAffinity.description>
+  <!-- EN: Begins play with 3 tamed needlerolls. -->
+  <AG_NeedlerollAffinity.customEffectDescriptions.0>Гра починається з 3 прирученими голковичками.</AG_NeedlerollAffinity.customEffectDescriptions.0>
+  <!-- EN: This gene can only be chosen (and only has effects) at character creation. It won't appear during gameplay. -->
+  <AG_NeedlerollAffinity.customEffectDescriptions.1>Цей ген можна вибрати (і він має тільки ефекти) лише при створенні персонажа. Він не з'являється під час гри.</AG_NeedlerollAffinity.customEffectDescriptions.1>
+  <!-- EN: cacti -->
+  <AG_NeedlerollAffinity.symbolPack.prefixSymbols.0.symbol>кактус</AG_NeedlerollAffinity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: plant -->
+  <AG_NeedlerollAffinity.symbolPack.prefixSymbols.1.symbol>рослина</AG_NeedlerollAffinity.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: ocular affinity -->
+  <AG_OcularJellyAffinity.label>спорідненість до окулярок</AG_OcularJellyAffinity.label>
+  <!-- EN: Carriers of this gene have pierced the veil between realities and accessed an extradimensional realm of pure madness. -->
+  <AG_OcularJellyAffinity.description>Носії цього гена пробили завісу між реальностями і отримали доступ до позавимірного царства чистого божевілля.</AG_OcularJellyAffinity.description>
+  <!-- EN: Begins play with a tamed ocular jelly. -->
+  <AG_OcularJellyAffinity.customEffectDescriptions.0>Гра починається з прирученої окулярки.</AG_OcularJellyAffinity.customEffectDescriptions.0>
+  <!-- EN: This gene can only be chosen (and only has effects) at character creation. It won't appear during gameplay. -->
+  <AG_OcularJellyAffinity.customEffectDescriptions.1>Цей ген можна вибрати (і він має тільки ефекти) лише при створенні персонажа. Він не з'являється під час гри.</AG_OcularJellyAffinity.customEffectDescriptions.1>1>
+  <!-- EN: ocul -->
+  <AG_OcularJellyAffinity.symbolPack.prefixSymbols.0.symbol>окул</AG_OcularJellyAffinity.symbolPack.prefixSymbols.0.symbol>
+  
+</LanguageData>

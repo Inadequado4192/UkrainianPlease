@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Zombies -->
+    <Zombies.label>Зомбі</Zombies.label>
+    <!-- EN: Undead creatures. -->
+    <Zombies.description>Немертві істоти.</Zombies.description>
+    <!-- EN: Zombies -->
+    <Zombies.fixedName>Зомбі</Zombies.fixedName>
+    <!-- EN: leader -->
+    <Zombies.leaderTitle>лідер</Zombies.leaderTitle>
+    <!-- EN: zombie -->
+    <Zombies.pawnSingular>зомбі</Zombies.pawnSingular>
+    <!-- EN: zombies -->
+    <Zombies.pawnsPlural>зомбі</Zombies.pawnsPlural>
+</LanguageData>

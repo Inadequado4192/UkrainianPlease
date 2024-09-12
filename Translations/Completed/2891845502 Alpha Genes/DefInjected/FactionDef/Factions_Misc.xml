@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: civil xenohuman union -->
+  <AG_OutlanderCivilUnion.label>громадянський ксенолюдський союз</AG_OutlanderCivilUnion.label>
+  <!-- EN: A loose union of townships established by genetically modified humans of all kinds. This group is generally friendly towards outsiders. -->
+  <AG_OutlanderCivilUnion.description>Вільне об'єднання містечок, створене генетично модифікованими людьми всіх видів. Ця група, як правило, дружелюбно ставиться до чужинців.</AG_OutlanderCivilUnion.description>
+  <!-- EN: prime councilor -->
+  <AG_OutlanderCivilUnion.leaderTitle>прем'єр-міністр</AG_OutlanderCivilUnion.leaderTitle>
+  <!-- EN: outlander -->
+  <AG_OutlanderCivilUnion.pawnSingular>чужинець</AG_OutlanderCivilUnion.pawnSingular>
+  <!-- EN: outlanders -->
+  <AG_OutlanderCivilUnion.pawnsPlural>вигнанці</AG_OutlanderCivilUnion.pawnsPlural>
+  
+  <!-- EN: xenohuman pirate gang -->
+  <AG_XenohumanPirates.label>піратська банда ксенолюдей</AG_XenohumanPirates.label>
+  <!-- EN: A loose confederation of pirate gangs established by genetically modified humans of all kinds.\n\nThey have little interest in building, or farming, preferring to take their sustenance from others using violence.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <AG_XenohumanPirates.description>Вільна конфедерація піратських банд, створена генетично модифікованими людьми всіх видів.\n\nВони мало цікавляться будівництвом або сільським господарством, вважаючи за краще забирати прожиток у інших, використовуючи насильство.\n\nЇх технологічний рівень здебільшого залежить від того, кого вони встигли пограбувати останнім часом. Здебільшого вони носять порохову зброю, хоча деякі вважають за краще колоти жертв з близької відстані.</AG_XenohumanPirates.description>
+  <!-- EN: boss -->
+  <AG_XenohumanPirates.leaderTitle>бос</AG_XenohumanPirates.leaderTitle>
+  <!-- EN: pirate -->
+  <AG_XenohumanPirates.pawnSingular>пірат</AG_XenohumanPirates.pawnSingular>
+  <!-- EN: pirates -->
+  <AG_XenohumanPirates.pawnsPlural>пірати</AG_XenohumanPirates.pawnsPlural>
+  
+</LanguageData>

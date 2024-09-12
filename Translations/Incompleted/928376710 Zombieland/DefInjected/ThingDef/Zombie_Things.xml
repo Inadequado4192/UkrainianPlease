@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: bomb vest -->
+    <Apparel_BombVest.label>бомбовий жилет</Apparel_BombVest.label>
+    <!-- EN: A vest with explosives. -->
+    <Apparel_BombVest.description>Жилет з вибухівкою.</Apparel_BombVest.description>
+    <!-- EN: Mote -->
+    <BumpLarge.label>Частинка</BumpLarge.label>
+    <!-- EN: Mote -->
+    <BumpMedium.label>Частинка</BumpMedium.label>
+    <!-- EN: Mote -->
+    <BumpSmall.label>Частинка</BumpSmall.label>
+    <!-- EN: chainsaw -->
+    <Chainsaw.label>бензопила</Chainsaw.label>
+    <!-- EN: A chainsaw. Looks like it works only against dumb enemies like zombies and will break if used on anything else. Very high risk for friendly fire and dropping it if attacked from too many angles at once. You've been warned. -->
+    <Chainsaw.description>Бензопила. Схоже, вона працює тільки проти тупих ворогів, таких як зомбі, і зламається, якщо її використати на чомусь іншому. Дуже високий ризик дружнього вогню і втрати зброї, якщо вас атакують одразу з багатьох кутів. Тебе попереджено.</Chainsaw.description>
+    <!-- EN: blade -->
+    <Chainsaw.tools.blade.label>лезо</Chainsaw.tools.blade.label>
+    <!-- EN: ElectricalField -->
+    <ElectricalField.label>Електричне поле</ElectricalField.label>
+    <!-- EN: Shock -->
+    <ElectricalField.tools.Shock.label>Удар шокером</ElectricalField.tools.Shock.label>
+    <!-- EN: shock -->
+    <ElectricalField.verbs.shock.label>удар шокером</ElectricalField.verbs.shock.label>
+    <!-- EN: Mote -->
+    <Ghost.label>Частинка</Ghost.label>
+    <!-- EN: Mote -->
+    <Mote_Block.label>Частинка</Mote_Block.label>
+    <!-- EN: toxic & sticky zombie goo -->
+    <StickyGoo.label>токсична та липка зомбі-слизь</StickyGoo.label>
+    <!-- EN: A toxic and sticky substance that probably makes you sick -->
+    <StickyGoo.description>Токсична і липка речовина, яка, ймовірно, викликає у вас нудоту</StickyGoo.description>
+    <!-- EN: super sticky slime -->
+    <TarSlime.label>супер липкий слиз</TarSlime.label>
+    <!-- EN: A very sticky slime that makes you move much slower -->
+    <TarSlime.description>Дуже липкий слиз, який змушує вас рухатися набагато повільніше</TarSlime.description>
+    <!-- EN: smoke -->
+    <TarSmoke.label>дим</TarSmoke.label>
+    <!-- EN: A dark smoke making it hard to see things -->
+    <TarSmoke.description>Темний дим заважає бачити речі</TarSmoke.description>
+    <!-- EN: Zombie Thumper -->
+    <Thumper.label>Вибивач зомбі</Thumper.label>
+    <!-- EN: A stamper to attract zombies. Uses fuel and does damage to the environment per hit. -->
+    <Thumper.description>Штампування для приваблення зомбі. Використовує паливо та завдає шкоди навколишньому середовищу за одне влучання.</Thumper.description>
+    <!-- EN: unfinished zombie serum -->
+    <UnfinishedZombieSerum.label>незавершена зомбі-сироватка</UnfinishedZombieSerum.label>
+    <!-- EN: zombie serum 100% -->
+    <Zombie100Serum.label>зомбі-сироватка 100%</Zombie100Serum.label>
+    <!-- EN: Pure serum from dead zombies that guaranteed cures zombie infections during operations -->
+    <Zombie100Serum.description>Чиста сироватка з мертвих зомбі, яка гарантовано виліковує зомбі-інфекції під час операцій</Zombie100Serum.description>
+    <!-- EN: zombie serum 10% -->
+    <Zombie10Serum.label>зомбі-сироватка 10%</Zombie10Serum.label>
+    <!-- EN: Serum from dead zombies that cures zombie infections during operations (10% success rate) -->
+    <Zombie10Serum.description>Сироватка з мертвих зомбі, яка лікує зомбі-інфекції під час операцій (успішність 10%)</Zombie10Serum.description>
+    <!-- EN: zombie serum 20% -->
+    <Zombie20Serum.label>зомбі-сироватка 20%</Zombie20Serum.label>
+    <!-- EN: Serum from dead zombies that cures zombie infections during operations (20% success rate) -->
+    <Zombie20Serum.description>Сироватка з мертвих зомбі, яка лікує зомбі-інфекції під час операцій (успішність 20%)</Zombie20Serum.description>
+    <!-- EN: zombie serum 30% -->
+    <Zombie30Serum.label>зомбі-сироватка 30%</Zombie30Serum.label>
+    <!-- EN: Serum from dead zombies that cures zombie infections during operations (30% success rate) -->
+    <Zombie30Serum.description>Сироватка з мертвих зомбі, яка лікує зомбі-інфекції під час операцій (успішність 30%)</Zombie30Serum.description>
+    <!-- EN: zombie serum 40% -->
+    <Zombie40Serum.label>зомбі-сироватка 40%</Zombie40Serum.label>
+    <!-- EN: Serum from dead zombies that cures zombie infections during operations (40% success rate) -->
+    <Zombie40Serum.description>Сироватка з мертвих зомбі, яка лікує зомбі-інфекції під час операцій (успішність 40%)</Zombie40Serum.description>
+    <!-- EN: zombie serum 50% -->
+    <Zombie50Serum.label>зомбі-сироватка 50%</Zombie50Serum.label>
+    <!-- EN: Serum from dead zombies that cures zombie infections during operations (50% success rate) -->
+    <Zombie50Serum.description>Сироватка з мертвих зомбі, яка лікує зомбі-інфекції під час операцій (успішність 50%)</Zombie50Serum.description>
+    <!-- EN: zombie serum 60% -->
+    <Zombie60Serum.label>зомбі-сироватка 60%</Zombie60Serum.label>
+    <!-- EN: Serum from dead zombies that cures zombie infections during operations (60% success rate) -->
+    <Zombie60Serum.description>Сироватка з мертвих зомбі, яка лікує зомбі-інфекції під час операцій (успішність 60%)</Zombie60Serum.description>
+    <!-- EN: zombie serum 70% -->
+    <Zombie70Serum.label>зомбі-сироватка 70%</Zombie70Serum.label>
+    <!-- EN: Serum from dead zombies that cures zombie infections during operations (70% success rate) -->
+    <Zombie70Serum.description>Сироватка з мертвих зомбі, яка лікує зомбі-інфекції під час операцій (успішність 70%)</Zombie70Serum.description>
+    <!-- EN: zombie serum 80% -->
+    <Zombie80Serum.label>зомбі-сироватка 80%</Zombie80Serum.label>
+    <!-- EN: Serum from dead zombies that cures zombie infections during operations (80% success rate) -->
+    <Zombie80Serum.description>Сироватка з мертвих зомбі, яка лікує зомбі-інфекції під час операцій (успішність 80%)</Zombie80Serum.description>
+    <!-- EN: zombie serum 90% -->
+    <Zombie90Serum.label>зомбі-сироватка 90%</Zombie90Serum.label>
+    <!-- EN: Serum from dead zombies that cures zombie infections during operations (90% success rate) -->
+    <Zombie90Serum.description>Сироватка з мертвих зомбі, яка лікує зомбі-інфекції під час операцій (успішність 90%)</Zombie90Serum.description>
+    <!-- EN: a zombie ball -->
+    <ZombieBall.label>зомбі-м'яч</ZombieBall.label>
+    <!-- EN: zombie extract -->
+    <ZombieExtract.label>екстракт зомбі</ZombieExtract.label>
+    <!-- EN: Small amount of extract from a dead zombie. Combine up to 100 extract to craft a drug called Zombie Serum that is used in operations on infected body parts. -->
+    <ZombieExtract.description>Невелика кількість екстракту з мертвого зомбі. Поєднайте до 100 екстрактів, щоб створити препарат під назвою "Сироватка зомбі", який використовується при операціях на інфікованих частинах тіла.</ZombieExtract.description>
+    <!-- EN: zombie serum 100% -->
+    <ZombieSerumSimple.label>зомбі-сироватка 100%</ZombieSerumSimple.label>
+    <!-- EN: Pure serum from dead zombies that guaranteed cures zombie infections during operations -->
+    <ZombieSerumSimple.description>Чиста сироватка з мертвих зомбі, яка гарантовано виліковує зомбі-інфекції під час операцій</ZombieSerumSimple.description>
+    <!-- EN: zombie shocker -->
+    <ZombieShocker.label>зомбі шокер</ZombieShocker.label>
+    <!-- EN: A zombie control machine that fits into a wall of a room. Can be activated from the outside and makes every zombie in that room unconscious for a short while. -->
+    <ZombieShocker.description>Машина для контролю зомбі, яка вбудовується в стіну кімнати. Активується ззовні і робить кожного зомбі в кімнаті на короткий час непритомним.</ZombieShocker.description>
+    <!-- EN: Mote -->
+    <ZombieThought.label>Частинка</ZombieThought.label>
+    <!-- EN: Mote -->
+    <ZombieZapA.label>Частинка</ZombieZapA.label>
+    <!-- EN: Mote -->
+    <ZombieZapB.label>Частинка</ZombieZapB.label>
+    <!-- EN: Mote -->
+    <ZombieZapC.label>Частинка</ZombieZapC.label>
+    <!-- EN: Mote -->
+    <ZombieZapD.label>Частинка</ZombieZapD.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<GoldenEye.label>Золоте око</GoldenEye.label>
+	<SimpleProstheticHand.label>Простий протез кисті</SimpleProstheticHand.label>
+	<SimpleProstheticFoot.label>Простий протез стопи</SimpleProstheticFoot.label>
+	<ArtificialPelvis.label>Штучний таз</ArtificialPelvis.label>
+	<ArtificialNose.label>Штучний ніс</ArtificialNose.label>
+	<HydraulicJaw.label>Гідравлічна щелепа</HydraulicJaw.label>
+	<SimpleProstheticArm.label>Простий протез руки</SimpleProstheticArm.label>
+	<SimpleProstheticLeg.label>Простий протез ноги</SimpleProstheticLeg.label>
+
+</LanguageData>

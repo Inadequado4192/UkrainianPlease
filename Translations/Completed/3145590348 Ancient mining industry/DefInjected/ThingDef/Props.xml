@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BreadMoAM_AncientMudCarriage.label>Древній грязьовий вагон</BreadMoAM_AncientMudCarriage.label>
+  <BreadMoAM_AncientMudCarriage.description>Гірничий вагон, навантажений брудом</BreadMoAM_AncientMudCarriage.description>
+  <BreadMoAM_AncientMudCarriage_Blueprint_Install.label>Древній грязьовий вагон (креслення)</BreadMoAM_AncientMudCarriage_Blueprint_Install.label>
+
+  <BreadMoAM_AncientSteelMiningCars.label>Древній вагон зі сталлю</BreadMoAM_AncientSteelMiningCars.label>
+  <BreadMoAM_AncientSteelMiningCars.description>Вагон, навантажений сталлю, зв'язаний брезентом і мотузками, розірвавши їх, можна отримати ресурси.</BreadMoAM_AncientSteelMiningCars.description>
+  <BreadMoAM_AncientSteelMiningCars_Blueprint_Install.label>Древній вагон зі сталлю (креслення)</BreadMoAM_AncientSteelMiningCars_Blueprint_Install.label>
+
+  <BreadMoAM_AncientUraniumMiningCars.label>Древній вагон з ураном</BreadMoAM_AncientUraniumMiningCars.label>
+  <BreadMoAM_AncientUraniumMiningCars.description>Вагон, завантажений ураном, зв'язаний брезентом і мотузками, розірвавши їх, можна отримати ресурси.</BreadMoAM_AncientUraniumMiningCars.description>
+  <BreadMoAM_AncientUraniumMiningCars_Blueprint_Install.label>Древній вагон з ураном (креслення)</BreadMoAM_AncientUraniumMiningCars_Blueprint_Install.label>
+
+  <BreadMoAM_AncientPlasteelMiningCars.label>Древній вагон з пласталлю</BreadMoAM_AncientPlasteelMiningCars.label>
+  <BreadMoAM_AncientPlasteelMiningCars.description>Вагон, завантажений пласталлю, зв'язаний брезентом і мотузками, розірвавши їх, можна отримати  ресурси.</BreadMoAM_AncientPlasteelMiningCars.description>
+  <BreadMoAM_AncientPlasteelMiningCars_Blueprint_Install.label>Древній вагон з пласталлю (креслення)</BreadMoAM_AncientPlasteelMiningCars_Blueprint_Install.label>
+
+  <BreadMoAM_AncientEmptyMiningCar.label>Древній порожній вагон</BreadMoAM_AncientEmptyMiningCar.label>
+  <BreadMoAM_AncientEmptyMiningCar.description>Порожній шахтарський вагон</BreadMoAM_AncientEmptyMiningCar.description>
+  <BreadMoAM_AncientEmptyMiningCar_Blueprint_Install.label>Древній порожній вагон (креслення)</BreadMoAM_AncientEmptyMiningCar_Blueprint_Install.label>
+
+  <BreadMoAM_AncientRockMiningCar.label>Древній вагон з камінням</BreadMoAM_AncientRockMiningCar.label>
+  <BreadMoAM_AncientRockMiningCar.description>Вагон з гірською породою</BreadMoAM_AncientRockMiningCar.description>
+  <BreadMoAM_AncientRockMiningCar_Blueprint_Install.label>Древній вагон з камінням (креслення)</BreadMoAM_AncientRockMiningCar_Blueprint_Install.label>
+
+  <BreadMoAM_AncientIndoorFireHydrants.label>Древній пожежний гідрант</BreadMoAM_AncientIndoorFireHydrants.label>
+  <BreadMoAM_AncientIndoorFireHydrants.description>Древній пожежний гідрант, всередині якого не залишилося води.</BreadMoAM_AncientIndoorFireHydrants.description>
+  <BreadMoAM_AncientIndoorFireHydrants_Blueprint_Install.label>Древній пожежний гідрант (креслення)</BreadMoAM_AncientIndoorFireHydrants_Blueprint_Install.label>
+
+  <BreadMoAM_AncientBarrierGate.label>Древні загороджувальні ворота</BreadMoAM_AncientBarrierGate.label>
+  <BreadMoAM_AncientBarrierGate.description>Древня загороджувальна брама, яка більше не функціонує належним чином.</BreadMoAM_AncientBarrierGate.description>
+  <BreadMoAM_AncientBarrierGate_Blueprint_Install.label>Древні загороджувальні ворота (креслення)</BreadMoAM_AncientBarrierGate_Blueprint_Install.label>
+
+  <BreadMoAM_AncientTruckCompartment.label>Древній кузов вантажівки</BreadMoAM_AncientTruckCompartment.label>
+  <BreadMoAM_AncientTruckCompartment.description>Древній кузов вантажівки заповнений брудом.</BreadMoAM_AncientTruckCompartment.description>
+  <BreadMoAM_AncientTruckCompartment_Blueprint_Install.label>Древній кузов вантажівки (креслення)</BreadMoAM_AncientTruckCompartment_Blueprint_Install.label>
+
+  <BreadMoAM_AncientSemiTrailer.label>Древній напівпричіп</BreadMoAM_AncientSemiTrailer.label>
+  <BreadMoAM_AncientSemiTrailer.description>Багажник старої вантажівки заповнений брудом.</BreadMoAM_AncientSemiTrailer.description>
+  <BreadMoAM_AncientSemiTrailer_Blueprint_Install.label>Древній напівпричіп (креслення)</BreadMoAM_AncientSemiTrailer_Blueprint_Install.label>
+
+  <BreadMoAM_AncientRustedTruck.label>Древня проржавіла вантажівка</BreadMoAM_AncientRustedTruck.label>
+  <BreadMoAM_AncientRustedTruck.description>Вантажівки, які використовуються для перевезень на шахті, втратили свої корисні частини.</BreadMoAM_AncientRustedTruck.description>
+  <BreadMoAM_AncientRustedTruck_Blueprint_Install.label>Древня проржавіла вантажівка (креслення)</BreadMoAM_AncientRustedTruck_Blueprint_Install.label>
+
+  <BreadMoAM_WarningBoard.label>Табличка з попередженнями</BreadMoAM_WarningBoard.label>
+  <BreadMoAM_WarningBoard.description>Остерігайтеся радіації.</BreadMoAM_WarningBoard.description>
+  <BreadMoAM_WarningBoard_Blueprint_Install.label>Табличка з попередженнями (креслення)</BreadMoAM_WarningBoard_Blueprint_Install.label>
+
+  <BreadMoAM_DiscardedRadiationSuit.label>Викинутий протирадіаційний костюм</BreadMoAM_DiscardedRadiationSuit.label>
+
+  <BreadMoAM_PickAxe.label>Кайло</BreadMoAM_PickAxe.label>
+  <BreadMoAM_PickAxe.description>Залишене кайло.</BreadMoAM_PickAxe.description>
+
+  <BreadMoAM_Shovel.label>Лопата</BreadMoAM_Shovel.label>
+  <BreadMoAM_Shovel.description>Залишена лопата.</BreadMoAM_Shovel.description>
+
+  <BreadMoAM_AncientBrokenTurret.label>Древня зламана турель</BreadMoAM_AncientBrokenTurret.label>
+  <BreadMoAM_AncientBrokenTurret.description>Велика дробова турель, сильно пошкоджена, більше не придатна для використання.</BreadMoAM_AncientBrokenTurret.description>
+
+
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+  <PS_DrainFromMarkedStorage.reportString>зливає з TargetA.</PS_DrainFromMarkedStorage.reportString>
+  <PS_FillStorage.reportString>заповнює TargetA.</PS_FillStorage.reportString>
+  <PS_PickUpProcessor.reportString>забирає з TargetA.</PS_PickUpProcessor.reportString>
+  <PS_BringToProcessor.reportString>переносить TargetB до TargetA.</PS_BringToProcessor.reportString>
+</LanguageData>

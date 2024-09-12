@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_Corpses_Sublime_ObservedLayingCorpse.stages.0.label>побачив труп</AM_Corpses_Sublime_ObservedLayingCorpse.stages.0.label>
+  <AM_Corpses_Sublime_ObservedLayingCorpse.stages.0.description>Я побачив мертве тіло, що лежало на землі. Яке чудове видовище!</AM_Corpses_Sublime_ObservedLayingCorpse.stages.0.description>
+
+  <AM_Corpses_Sublime_ObservedLayingRottingCorpse.stages.0.label>побачив гниючий труп</AM_Corpses_Sublime_ObservedLayingRottingCorpse.stages.0.label>
+  <AM_Corpses_Sublime_ObservedLayingRottingCorpse.stages.0.description>Я побачив гниючий труп, що лежав на землі. Яке жахливе видовище!</AM_Corpses_Sublime_ObservedLayingRottingCorpse.stages.0.description>
+
+
+</LanguageData>

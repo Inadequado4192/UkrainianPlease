@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] is a master craftsman of the Revia. [PAWN_pronoun] works metal like a potter would clay, fashioning items of incredible quality. -->
+  <ReviaRaceBackstoryAdultWarsmith.baseDesc>[PAWN_nameDef] - майстер зброї Ревії. [PAWN_pronoun] працює з металом, як гончар з глиною, створюючи предмети неймовірної якості.</ReviaRaceBackstoryAdultWarsmith.baseDesc>
+  <!-- EN: Revian Warsmith -->
+  <ReviaRaceBackstoryAdultWarsmith.title>Ревійський Майстер Зброї</ReviaRaceBackstoryAdultWarsmith.title>
+  <!-- EN: Warsmith -->
+  <ReviaRaceBackstoryAdultWarsmith.titleShort>Майстер</ReviaRaceBackstoryAdultWarsmith.titleShort>
+  
+</LanguageData>

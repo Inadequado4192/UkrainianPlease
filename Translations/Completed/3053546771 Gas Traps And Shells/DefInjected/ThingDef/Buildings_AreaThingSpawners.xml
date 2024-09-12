@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- int ticksBetweenPulse = 120
+how many ticks before it searches the area and spawns again
+
+float changeToFillEachCell = .80f;
+chance the thing will spawn for each EMPTY cell
+
+float areaFillRadius = 3.5f;
+the area covered by the spawn
+
+ThingDef thingToSpawnInArea;
+Def of the thing to spawn in the area
+
+int countOfThingsToSpawnPerCell = 1;
+how many of each to spawn in the cell
+
+float fuelCostPerSpawn = 0f;
+fuel cost per spawn, if there is no refuelable component this will do nothing. -->
+
+  <AreaSpawnerToxicGas.label>Вент.отвір з отруйним газом</AreaSpawnerToxicGas.label>
+  <AreaSpawnerToxicGas.description>Цей Вентиляційний отвір випускає отруйний газ навколо себе.</AreaSpawnerToxicGas.description>
+  <AreaSpawnerToxicGas_Blueprint.label>Вент.отвір з отруйним газом (креслення)</AreaSpawnerToxicGas_Blueprint.label>
+  <AreaSpawnerToxicGas_Frame.label>Вент.отвір з отруйним газом (в процесі будування)</AreaSpawnerToxicGas_Frame.label>
+  <AreaSpawnerToxicGas_Frame.description>Цей Вентиляційний отвір випускає отруйний газ навколо себе.</AreaSpawnerToxicGas_Frame.description>
+
+  <AreaSpawnerAntibugGas.label>Вент.отвір з протижуковим газом</AreaSpawnerAntibugGas.label>
+  <AreaSpawnerAntibugGas.description>Цей Вентиляційний отвір випускає протижуковий газ навколо себе.</AreaSpawnerAntibugGas.description>
+  <AreaSpawnerAntibugGas_Blueprint.label>Вент.отвір з протижуковим газом (креслення)</AreaSpawnerAntibugGas_Blueprint.label>
+  <AreaSpawnerAntibugGas_Frame.label>Вент.отвір з протижуковим газом (в процесі будування)</AreaSpawnerAntibugGas_Frame.label>
+  <AreaSpawnerAntibugGas_Frame.description>Цей Вентиляційний отвір випускає протижуковий газ навколо себе.</AreaSpawnerAntibugGas_Frame.description>
+
+  <AreaSpawnerMechVirusGas.label>Вент.отвір з протимеханоїдним вірусом</AreaSpawnerMechVirusGas.label>
+  <AreaSpawnerMechVirusGas.description>Цей Вентиляційний отвір випускає протимеханоїдний вірус навколо себе.</AreaSpawnerMechVirusGas.description>
+  <AreaSpawnerMechVirusGas_Blueprint.label>Вент.отвір з протимеханоїдним вірусом (креслення)</AreaSpawnerMechVirusGas_Blueprint.label>
+  <AreaSpawnerMechVirusGas_Frame.label>Вент.отвір з протимеханоїдним вірусом (в процесі будування)</AreaSpawnerMechVirusGas_Frame.label>
+  <AreaSpawnerMechVirusGas_Frame.description>Цей Вентиляційний отвір випускає протимеханоїдний вірус навколо себе.</AreaSpawnerMechVirusGas_Frame.description>
+
+  <AreaSpawnerSleepGas.label>Вент.отвір з снодійним газом</AreaSpawnerSleepGas.label>
+  <AreaSpawnerSleepGas.description>Цей Вентиляційний отвір випускає снодійний газ навколо себе.</AreaSpawnerSleepGas.description>
+  <AreaSpawnerSleepGas_Blueprint.label>Вент.отвір з снодійним газом (креслення)</AreaSpawnerSleepGas_Blueprint.label>
+  <AreaSpawnerSleepGas_Frame.label>Вент.отвір з снодійним газом (в процесі будування)</AreaSpawnerSleepGas_Frame.label>
+  <AreaSpawnerSleepGas_Frame.description>Цей Вентиляційний отвір випускає снодійний газ навколо себе.</AreaSpawnerSleepGas_Frame.description>
+
+  <AreaSpawnerRageGas.label>Вент.отвір з газом гніву</AreaSpawnerRageGas.label>
+  <AreaSpawnerRageGas.description>Цей Вентиляційний отвір випускає газ гніву навколо себе.</AreaSpawnerRageGas.description>
+  <AreaSpawnerRageGas_Blueprint.label>Вент.отвір з газом гніву (креслення)</AreaSpawnerRageGas_Blueprint.label>
+  <AreaSpawnerRageGas_Frame.label>Вент.отвір з газом гніву (в процесі будування)</AreaSpawnerRageGas_Frame.label>
+  <AreaSpawnerRageGas_Frame.description>Цей Вентиляційний отвір випускає газ гніву навколо себе.</AreaSpawnerRageGas_Frame.description>
+
+
+</LanguageData>

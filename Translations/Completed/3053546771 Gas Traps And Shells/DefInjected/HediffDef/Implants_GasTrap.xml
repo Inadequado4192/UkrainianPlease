@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ToxicGasImplant -->
+
+  <GasTrapImplantToxic.label>імплантована пастка з отруйним газом</GasTrapImplantToxic.label>
+  <GasTrapImplantToxic.description>Спрацьовує після смерті. Прощальний подарунок</GasTrapImplantToxic.description>
+  <GasTrapImplantToxic.labelNoun>імплантована пастка з отруйним газом</GasTrapImplantToxic.labelNoun>
+
+
+  <!-- AcidGasImplant -->
+
+  <GasTrapImplantAcid.label>імплантована пастка з кислотним газом</GasTrapImplantAcid.label>
+  <GasTrapImplantAcid.description>Спрацьовує після смерті. Прощальний подарунок</GasTrapImplantAcid.description>
+  <GasTrapImplantAcid.labelNoun>імплантована пастка з кислотним газом</GasTrapImplantAcid.labelNoun>
+
+
+  <!-- RageGasImplant -->
+
+  <GasTrapImplantRage.label>імплантована пастка з газом гніву</GasTrapImplantRage.label>
+  <GasTrapImplantRage.description>Спрацьовує після смерті. Прощальний подарунок</GasTrapImplantRage.description>
+  <GasTrapImplantRage.labelNoun>імплантована пастка з газом гніву</GasTrapImplantRage.labelNoun>
+
+
+</LanguageData>

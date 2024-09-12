@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Halo -->
+
+  <GS_Aasimar_Halo.label>янгольський німб</GS_Aasimar_Halo.label>
+  <GS_Aasimar_Halo.description>Носії цього гена випромінюють ореол екстрасенсорного світла навколо своєї голови. Його аура вселяє тонке відчуття трепету і благоговіння, роблячи власників більш здібними переговірниками.</GS_Aasimar_Halo.description>
+
+
+  <!-- EYES -->
+
+  <GS_Eyes_Yellowy.label>сяючі жовті очі</GS_Eyes_Yellowy.label>
+  <GS_Eyes_Yellowy.description>Носії цього гена мають очі, що світяться жовтим кольором.</GS_Eyes_Yellowy.description>
+
+  <GS_Heal.label>божествений дотик</GS_Heal.label>
+  <GS_Heal.description>Носії цього гена здатні спрямовувати відновлювальну енергію ніжним дотиком, загоюючи рани та сцілюючи поранених.</GS_Heal.description>
+
+  <GS_Resurrect_Gene.label>спасіння</GS_Resurrect_Gene.label>
+  <GS_Resurrect_Gene.description>Носії можуть спрямовувати надзвичайну кількість психічної енергії у щойно померле тіло, перезапускаючи його функції та надаючи пішаку другий шанс на життя.</GS_Resurrect_Gene.description>
+
+  <GS_HolyHymnn_Gene.label>святий гімн</GS_HolyHymnn_Gene.label>
+  <GS_HolyHymnn_Gene.description>Носії мають модифіковані, психічно резонуючі голосові зв'язки, які дозволяють їхньому голосу надихати і надавати сили союзникам у небесному гімні.</GS_HolyHymnn_Gene.description>
+
+
+  <!-- Wings -->
+
+  <GS_WingsA.label>Янгольські крила</GS_WingsA.label>
+  <GS_WingsA.description>У носіїв відростає пара пір'ястих крил, які дозволяють їм долати середні відстані у граціозному польоті.</GS_WingsA.description>
+
+
+</LanguageData>

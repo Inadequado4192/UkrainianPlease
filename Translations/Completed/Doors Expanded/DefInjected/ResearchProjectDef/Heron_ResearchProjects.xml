@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ProjectHeron_Curtains.label>Прості штори</ProjectHeron_Curtains.label>
+  <ProjectHeron_Curtains.description>Відкриває прості техніки виготовлення кілець, простих гачків і стрижнів для створення штор, які відкриваються набагато швидше, ніж стандартні двері, але повільно пропускають температуру між кімнатами.</ProjectHeron_Curtains.description>
+
+  <ProjectHeron_PrisonDoors.label>Утримання в'язнів</ProjectHeron_PrisonDoors.label>
+  <ProjectHeron_PrisonDoors.description>Забезпечує прості в'язничні двері, щоб убезпечити ув'язнених, ну, здебільшого.</ProjectHeron_PrisonDoors.description>
+
+  <ProjectHeron_RemoteDoors.label>Двері з дистанційним керуванням</ProjectHeron_RemoteDoors.label>
+  <ProjectHeron_RemoteDoors.description>Розблоковує віддалені двері для дистанційної ізоляції, а також кнопки та важелі для маніпулювання ними.</ProjectHeron_RemoteDoors.description>
+
+  <ProjectHeron_Gates.label>Петлі та Ворота</ProjectHeron_Gates.label>
+  <ProjectHeron_Gates.description>Петлі та способи кріплення дозволяють виготовляти розпашні двері, наприклад, для великих воріт.</ProjectHeron_Gates.description>
+
+  <ProjectHeron_BlastDoors.label>Вибухозахищені двері</ProjectHeron_BlastDoors.label>
+  <ProjectHeron_BlastDoors.description>Дозволяє виготовляти вибухозахищені двері, що поглинають тиск.</ProjectHeron_BlastDoors.description>
+
+
+</LanguageData>

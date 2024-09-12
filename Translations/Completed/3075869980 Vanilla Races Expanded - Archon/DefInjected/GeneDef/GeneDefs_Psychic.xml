@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_ExtremeMeditation.label>швидка медитація</VRE_ExtremeMeditation.label>
+  <VRE_ExtremeMeditation.description>Носії цього гена здатні проводити набагато ефективніші сеанси медитації. Вони значно швидше відновлюють пси-концентрацію.</VRE_ExtremeMeditation.description>
+
+  <VRE_SwiftMeditation.label>пришвидшена медитація</VRE_SwiftMeditation.label>
+  <VRE_SwiftMeditation.description>Носії цього гена здатні до більш швидких сеансів медитації. Вони будуть відновлювати пси-концентрацію трохи швидше, ніж зазвичай.</VRE_SwiftMeditation.description>
+
+  <VRE_SlowMeditation.label>повільна медитація</VRE_SlowMeditation.label>
+  <VRE_SlowMeditation.description>Носіям цього гена важко зосередитися під час сеансів медитації. Вони будуть відновлювати пси-концентрацію значно повільніше, ніж зазвичай.</VRE_SlowMeditation.description>
+
+  <VRE_WeakEntropyCapacity.label>слабке протистояння перегріву</VRE_WeakEntropyCapacity.label>
+  <VRE_WeakEntropyCapacity.description>Носії цього гена мають набагато меншу здатність протистояти хаотичній психічній енергії, накопиченій при використанні пси-здібностей.</VRE_WeakEntropyCapacity.description>
+
+  <VRE_HighEntropyCapacity.label>посилене протистояння перегріву</VRE_HighEntropyCapacity.label>
+  <VRE_HighEntropyCapacity.description>Носії цього гена мають вищу здатність протистояти хаотичній психічній енергії, накопиченій при використанні пси-здібностей.</VRE_HighEntropyCapacity.description>
+
+  <VRE_ExtremeEntropyCapacity.label>сильне протистояння перегріву</VRE_ExtremeEntropyCapacity.label>
+  <VRE_ExtremeEntropyCapacity.description>Носії цього гена мають набагато вищу здатність протистояти хаотичній психічній енергії, накопиченій при використанні пси-здібностей.</VRE_ExtremeEntropyCapacity.description>
+
+
+</LanguageData>

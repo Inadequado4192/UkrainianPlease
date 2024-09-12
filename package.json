@@ -1,0 +1,27 @@
+{
+    "name": "ukrainian-please",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "ts-node ./scripts/test.ts",
+        "build": "ts-node ./scripts/build.ts",
+        "check-updates": "ts-node ./scripts/check-updates.ts",
+        "ust": "ts-node ./scripts/update-source-translations.ts",
+        "iso": "node -e \"console.log(new Date().toISOString())\"",
+        "save": "git add . && git commit -m \"quick save\" && git push origin master --force"
+    },
+    "author": "Inadequado",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^22.5.4",
+        "axios": "^1.7.7",
+        "cheerio": "^1.0.0",
+        "dotenv": "^16.4.5",
+        "fs-extra": "^11.2.0",
+        "xml-js": "^1.6.11"
+    },
+    "devDependencies": {
+        "@types/fs-extra": "^11.0.4"
+    }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lets put things into catagories so they are easier to manage -->
+
+  <WeaponizedGas.label>Воєнізований газ</WeaponizedGas.label>
+  <GasShells.label>Снаряди з газом</GasShells.label>
+
+
+</LanguageData>

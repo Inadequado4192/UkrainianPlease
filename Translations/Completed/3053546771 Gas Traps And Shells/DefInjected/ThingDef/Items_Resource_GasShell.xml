@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gas Shells -->
+
+  <Shell_GasToxic.label> снаряд з отруйним газом</Shell_GasToxic.label>
+  <Shell_GasToxic.description>Снаряд, наповнений отруйним газом. Може використовуватися з мінометів. Токсичний газ спричиняє отруєння пішаків, які швидко накопичують токсини, аж доки не помруть.</Shell_GasToxic.description>
+
+  <Bullet_Shell_GasToxic.label>снаряд з отруйним газом</Bullet_Shell_GasToxic.label>
+
+  <Shell_GasRage.label>снаряд з газом гніву</Shell_GasRage.label>
+  <Shell_GasRage.description>Снаряд, наповнений газом гніву. Можна стріляти з мінометів. Газ люті може викликати кілька ефектів, найпомітнішим з яких є те, що пішак стає несамовитим і атакує найближчого друга чи ворога.</Shell_GasRage.description>
+
+  <Bullet_Shell_GasRage.label>снаряд з газом гніву</Bullet_Shell_GasRage.label>
+
+  <Shell_GasTear.label>снаряд з сльозоточивим газом</Shell_GasTear.label>
+  <Shell_GasTear.description>Снаряд, наповнений сльозогінним газом. Може використовуватися з мінометів. Сльозогінний газ викликає сліпоту і блювоту, що може ускладнити ведення вогню.</Shell_GasTear.description>
+
+  <Bullet_Shell_GasTear.label>снаряд з сльозоточивим газом</Bullet_Shell_GasTear.label>
+
+  <Shell_GasSleep.label>снаряд з снодійним газом</Shell_GasSleep.label>
+  <Shell_GasSleep.description>Снаряд, наповнений снодійним газом. Може використовуватися з мінометів. Снодійний газ викликає сонливість пішаків і навіть може приспати їх</Shell_GasSleep.description>
+
+  <Bullet_Shell_GasSleep.label>снаряд з снодійним газом</Bullet_Shell_GasSleep.label>
+
+  <Shell_GasFear.label>снаряд з жахаючим газом</Shell_GasFear.label>
+  <Shell_GasFear.description>Снаряд, наповнений газом страху. Можна стріляти з мінометів. Цей газ змусить пішаків тікати з карти (НЕ ДОЗВОЛЬТЕ ВАШИМ ІДІОТАМ ПОТРАПИТИ В ГАЗ)</Shell_GasFear.description>
+
+  <Bullet_Shell_GasFear.label>снаряд з жахаючим газом</Bullet_Shell_GasFear.label>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFES_ConstructRearmTrap.label>перезарядка пасток</VFES_ConstructRearmTrap.label>
+  <VFES_ConstructRearmTrap.gerund>перезарядити</VFES_ConstructRearmTrap.gerund>
+  <VFES_ConstructRearmTrap.verb>перезаряджає</VFES_ConstructRearmTrap.verb>
+  
+  <VFES_RearmTrap.label>перезарядка пасток</VFES_RearmTrap.label>
+  <VFES_RearmTrap.gerund>перезарядити</VFES_RearmTrap.gerund>
+  <VFES_RearmTrap.verb>перезаряджає</VFES_RearmTrap.verb>
+</LanguageData>

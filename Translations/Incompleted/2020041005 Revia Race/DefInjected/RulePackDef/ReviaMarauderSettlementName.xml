@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name->[ConceptBadass] Lair</li>
+    <li>r_name->[ConceptBadass] Camp</li>
+    <li>r_name->[ColorBadass] [geography]</li>
+  -->
+  <NamerSettlementReviaMarauder.rulePack.rulesStrings>
+    <li>r_name->Лігво [ConceptBadass]</li>
+    <li>r_name->Табір [ConceptBadass]</li>
+    <li>r_name->[geography] [ColorBadass]</li>
+  </NamerSettlementReviaMarauder.rulePack.rulesStrings>
+  
+</LanguageData>

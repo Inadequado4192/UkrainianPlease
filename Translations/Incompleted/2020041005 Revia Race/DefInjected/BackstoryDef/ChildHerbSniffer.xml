@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was blessed with an exceptional sense of smell. [PAWN_pronoun] was often used to find medicinal herbs for use in apothecaries, as well as small prey for the dinner table. -->
+  <ReviaRaceBackstoryChildHerbSniffer.baseDesc>[PAWN_nameDef] був одарений винятковим чуттям нюху. Його часто використовували для пошуку лікарських трав, які використовуються в аптеках, а також для маленьких здобичей на обідній стол.</ReviaRaceBackstoryChildHerbSniffer.baseDesc>
+  <!-- EN: Revian Herb Sniffer -->
+  <ReviaRaceBackstoryChildHerbSniffer.title>Ревійська Вагоуз</ReviaRaceBackstoryChildHerbSniffer.title>
+  <!-- EN: Sniffer -->
+  <ReviaRaceBackstoryChildHerbSniffer.titleShort>Вагоуз</ReviaRaceBackstoryChildHerbSniffer.titleShort>
+  
+</LanguageData>

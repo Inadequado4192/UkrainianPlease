@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--canola flowers-->
+  <VCE_RawCanola.label>квіти каноли</VCE_RawCanola.label>
+  <!--A bright-yellow flowering variety of the rapeseed, cultivated mainly for its oil-rich seed.-->
+  <VCE_RawCanola.description>Яскраво-жовтий квітучий сорт ріпаку, що вирощується переважно заради багатого на олію насіння.</VCE_RawCanola.description>
+  
+  <!--avocados-->
+  <VCE_RawAvocado.label>авокадо</VCE_RawAvocado.label>
+  <!--A green or nearly black coloured fruit with a large seed or pit in the center. Avocados have a very mild, creamy texture. Hipsters love them.-->
+  <VCE_RawAvocado.description>Плід зеленого або майже чорного кольору з великим насінням або кісточкою в центрі. Авокадо має дуже м'яку, кремову текстуру. Їх люблять хіпстери.</VCE_RawAvocado.description>
+  
+  <!--melons-->
+  <VCE_RawMelon.label>дині</VCE_RawMelon.label>
+  <!--A sweet, edible, and fleshy fruit of considerable size. Melons are usually cultivated in warm regions.-->
+  <VCE_RawMelon.description>Солодкий, їстівний і м'ясистий плід значних розмірів. Дині зазвичай вирощують у теплих регіонах.</VCE_RawMelon.description>
+  
+  <!--pineapples-->
+  <VCE_RawPineapple.label>ананаси</VCE_RawPineapple.label>
+  <!--A sweet tropical fruit with a tough leathery skin and spiky leaves on top. The word pineapple was first used to mean "pine cone," and the fruit was given this name because of its resemblance to a large pine cone.-->
+  <VCE_RawPineapple.description>Солодкий тропічний фрукт із жорсткою шкірястою шкіркою і колючим листям зверху.</VCE_RawPineapple.description>
+  
+  <!--coconuts-->
+  <VCE_RawCoconut.label>кокоси</VCE_RawCoconut.label>
+  <!--The edible fruit of the coconut palm. Coconut flesh is high in fat and can be dried or eaten fresh or processed into coconut milk or coconut oil. The liquid of the nut, known as coconut water, is used in beverages.-->
+  <VCE_RawCoconut.description>Їстівний плід кокосової пальми. М'якоть кокосового горіха містить багато жиру, її можна сушити, їсти свіжою або переробляти на кокосове молоко чи кокосову олію. Рідина з горіха, відома як кокосова вода, використовується в напоях.</VCE_RawCoconut.description>
+  
+  <!--almonds-->
+  <VCE_RawAlmonds.label>мигдаль</VCE_RawAlmonds.label>
+  <!--An oval shaped drupe often eaten on its own, raw or toasted, though it can also be used as a component of various dishes. A wide range of classic sweets feature almonds as a central ingredient.-->
+  <VCE_RawAlmonds.description>Кістянку овальної форми часто їдять самостійно, сирою або підсмаженою, хоча її також можна використовувати як компонент різноманітних страв. Широкий асортимент класичних солодощів містить мигдаль як основний інгредієнт.</VCE_RawAlmonds.description>
+  
+  <!--mangoes-->
+  <VCE_Mangoes.label>манго</VCE_Mangoes.label>
+  <!--An oval fruit, vividly coloured with shades of red and yellow. The single large seed is flattened, and the flesh that surrounds it is yellow to orange in colour, juicy, and of distinctive sweet-spicy flavour.\n\n<color=#E5E54C>Gameplay effect:</color> Mangoes cannot be frozen or they get destroyed. The game won't be smart enough to detect this, so disable them from freezers.-->
+  <VCE_Mangoes.description>Овальний плід, яскраво забарвлений у відтінки червоного та жовтого. Єдине велике насіння сплющене, а м'якоть, що його оточує, від жовтого до оранжевого кольору, соковита, з характерним солодко-пряним смаком.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Манго не можна заморожувати, інакше вони загинуть. Гра недостатньо розумна, щоб виявити це, тому забороніть їх з морозильної камери.</VCE_Mangoes.description>
+  
+  <!--celery-->
+  <VCE_RawCelery.label>селера</VCE_RawCelery.label>
+  <!--A vegetable consisting of a long fibrous stalk tapering into leaves. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery is a staple in many soups.-->
+  <VCE_RawCelery.description>Овоч, що складається з довгого волокнистого стебла, яке звужується до листя. Листя має сильний аромат і використовується рідше, або як приправа до супів і тушкованих страв, або як сушена трава. Селера є основним інгредієнтом багатьох супів.</VCE_RawCelery.description>
+  
+  <!--lettuce-->
+  <VCE_RawLettuce.label>латук</VCE_RawLettuce.label>
+  <!--A leaf vegetable commonly eaten fresh and served as the base of green salads. Lettuce is generally a rich source of vitamins K and A.-->
+  <VCE_RawLettuce.description>Листяний овоч, який зазвичай їдять свіжим і використовують як основу для зелених салатів. Латук, як правило, є цінним джерелом вітамінів К і А.</VCE_RawLettuce.description>
+  
+  <!--radishes-->
+  <VCE_RawRadish.label>редиска</VCE_RawRadish.label>
+  <!--An edible root vegetable that is very easy to grow and quick to harvest. Radishes are often planted by novice gardeners.-->
+  <VCE_RawRadish.description>Їстівний коренеплід, який дуже легко вирощувати і швидко збирати. Редиску часто садять садівники-початківці.</VCE_RawRadish.description>
+  
+  <!--buckwheat-->
+  <VCE_RawBuckwheat.label>гречана крупа</VCE_RawBuckwheat.label>
+  <!--A pseudocereal cultivated for its grain-like seeds. Its white flowers are produced in terminal clusters and after pòllination turn into triangular-shaped seeds that are enclosed by a tough dark brown or gray rind.-->
+  <VCE_RawBuckwheat.description>Псевдозлак, який вирощують заради схожого на зерно насіння. Його білі квіти утворюють кінцеві китиці і після запилення перетворюються на насіння трикутної форми, вкрите міцною темно-коричневою або сірою шкіркою.</VCE_RawBuckwheat.description>
+  
+  <!--peanuts-->
+  <VCE_RawPeanut.label>арахіс</VCE_RawPeanut.label>
+  <!--Seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.-->
+  <VCE_RawPeanut.description>Насіння довгастої форми з паперовою насіннєвою оболонкою. За смаком і поживними властивостями схоже на деревні горіхи, такі як волоські горіхи та мигдаль, але технічно є бобовою культурою.</VCE_RawPeanut.description>
+  
+  <!--sunflower seeds-->
+  <VCE_RawSunflower.label>соняшникове насіння</VCE_RawSunflower.label>
+  <!--The seeds of the sunflower plant are more commonly eaten as a snack than as part of a meal. They can also be used as garnishes or ingredients in various recipes.-->
+  <VCE_RawSunflower.description>Насіння соняшника частіше вживають як перекус, ніж як частину їжі. Його також можна використовувати як гарнір або інгредієнт у різних рецептах.</VCE_RawSunflower.description>
+  
+  <!--okra-->
+  <VCE_RawOkra.label>бамія</VCE_RawOkra.label>
+  <!--Edible green seed pods, famously known for their slimy or sticky texture when cut open. Okra is a powerhouse of valuable nutrients.-->
+  <VCE_RawOkra.description>Їстівні зелені насіннєві стручки, відомі своєю слизькою або липкою текстурою на розрізі. Бамія – джерело цінних поживних речовин.</VCE_RawOkra.description>
+  
+  <!--garlic cloves-->
+  <VCE_RawGarlic.label>зубчики часнику</VCE_RawGarlic.label>
+  <!--A very old crop which is cultivated for its bulb, formed in the base of the leaves. It is highly appreciated in cooking for its pungent and characteristic taste.-->
+  <VCE_RawGarlic.description>Дуже давня культура, яку вирощують заради цибулини, що утворюється в основі листя. Високо цінується в кулінарії за гострий і характерний смак.</VCE_RawGarlic.description>
+  
+  <!--carrots-->
+  <VCE_RawCarrot.label>морква</VCE_RawCarrot.label>
+  <!--A root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist. A versatile food that can be chopped and boiled, fried or steamed, cooked in soups and stews, as well as used for baby and pet foods.-->
+  <VCE_RawCarrot.description>Коренеплід, зазвичай помаранчевого кольору, хоча існують фіолетові, чорні, червоні, білі та жовті сорти. Універсальний продукт харчування, який можна нарізати і варити, смажити або готувати на пару, готувати супи і тушковані страви, а також використовувати для дитячого та домашнього харчування.</VCE_RawCarrot.description>
+  
+  <!--brussels sprouts-->
+  <VCE_RawBrusselsSprouts.label>брюссельська капуста</VCE_RawBrusselsSprouts.label>
+  <!--A form of cabbage grown for its edible buds called "sprouts". Brussels sprouts usually are eaten cooked, and the small young sprouts have a more delicate flavour than older ones.-->
+  <VCE_RawBrusselsSprouts.description>Різновид капусти, яку вирощують заради їстівних бруньок, що називаються "паростками". Брюссельську капусту зазвичай їдять у вареному вигляді, і маленькі молоді паростки мають більш ніжний смак, ніж старі.</VCE_RawBrusselsSprouts.description>
+  
+  <!--olives-->
+  <VCE_RawOlives.label>оливки</VCE_RawOlives.label>
+  <!--A small, egg-shaped black or green fruit that is used as food or for making oil. Olives freshly picked from the tree contain oleuropein, which makes the fruit unpalatable for immediate consumption. They must be brined or fermented to be used.-->
+  <VCE_RawOlives.description>Невеликий, яйцеподібний чорний або зелений плід, який використовується в їжу або для виготовлення олії. Оливки, щойно зірвані з дерева, містять олеуропеїн, який робить плоди несмачними для негайного вживання. Для вживання їх потрібно засолити або заквасити.</VCE_RawOlives.description>
+  
+  <!--sweet potatoes-->
+  <VCE_RawSweetPotatoes.label>батати</VCE_RawSweetPotatoes.label>
+  <!--Large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.-->
+  <VCE_RawSweetPotatoes.description>Великі, крохмалисті, солодкі на смак (схожі на гарбуз), бульбоподібні коренеплоди, які використовують як коренеплід. Батат має віддалену спорідненість із картоплею звичайною.</VCE_RawSweetPotatoes.description>
+  
+  <!--cassavas-->
+  <VCE_RawCassava.label>маніок</VCE_RawCassava.label>
+  <!--A tuberous edible plant also called manioc, mandioca, or yuca. They have a mild nutty taste and are commonly eaten as root vegetables in stews or as side dishes. Cassava roots are a versatile vegetable that can be used to produce flour, breads, tapioca, a laundry starch, and an alcoholic beverage.-->
+  <VCE_RawCassava.description>Бульбова їстівна рослина, яку також називають касава. Вона має м'який гіркуватий смак і зазвичай вживається в їжу як коренеплоди в тушкованому вигляді або як гарнір до м'яса. Коріння маніоки – універсальний овоч, який можна використовувати для виробництва борошна, хліба, тапіоки, крохмалю для прання та алкогольних напоїв.</VCE_RawCassava.description>
+  
+  <!--green beans-->
+  <VCE_RawBeans.label>зелена квасоля</VCE_RawBeans.label>
+  <!--Young, unripe fruits of a cultivar of the common bean. They can be steamed, boiled, stir-fried, or baked. They are commonly cooked in other dishes such as soups, stews, and casseroles. Green beans can also be pickled, much like cucumbers are.-->
+  <VCE_RawBeans.description>Молоді, недозрілі плоди сорту квасолі звичайної. Їх можна готувати на пару, варити, смажити або запікати. Її зазвичай готують в інших стравах, таких як супи, тушковані страви та запіканки. Зелену квасолю також можна засолювати, як і огірки.</VCE_RawBeans.description>
+  
+  <!--red bell peppers-->
+  <VCE_RawBellPeppers.label>червоний солодкий перець</VCE_RawBellPeppers.label>
+  <!--Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.-->
+  <VCE_RawBellPeppers.description>Також відомий як болгарський перець, солодкий перець технічно відноситься до пасльонових і є частиною родини стручкових, але це єдиний перець, який несе в собі рецесивний ген, що не дає капсаїцину вироблятися в плодах, що робить їх не гострими.</VCE_RawBellPeppers.description>
+  
+  <!--yellow bell peppers-->
+  <VCE_RawYellowBellPeppers.label>жовтий солодкий перець</VCE_RawYellowBellPeppers.label>
+  <!--Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.-->
+  <VCE_RawYellowBellPeppers.description>Також відомий як болгарський перець, солодкий перець технічно відноситься до пасльонових і є частиною родини стручкових, але це єдиний перець, який несе в собі рецесивний ген, що не дає капсаїцину вироблятися в плодах, що робить їх не гострими.</VCE_RawYellowBellPeppers.description>
+  
+  <!--chickpeas-->
+  <VCE_RawChickpeas.label>нути</VCE_RawChickpeas.label>
+  <!--One of the earliest cultivated legumes. Chickpeas are high in fibre and protein and are a good source of iron, phosphorus, and folic acid.-->
+  <VCE_RawChickpeas.description>Один з найбільш ранніх культурних бобових. Нут містить багато клітковини та білка і є хорошим джерелом заліза, фосфору та фолієвої кислоти.</VCE_RawChickpeas.description>
+  
+  <!--taro roots-->
+  <VCE_RawTaro.label>корені таро</VCE_RawTaro.label>
+  <!--A starchy root vegetable. It has a brown outer skin and white flesh with purple specks throughout. When cooked, it has a mildly sweet taste and a texture similar to potato.-->
+  <VCE_RawTaro.description>Крохмалистий коренеплід. Має коричневу зовнішню шкірку і білу м'якоть з фіолетовими цятками по всій поверхні. У вареному вигляді має злегка солодкуватий смак і текстуру, схожу на картоплю.</VCE_RawTaro.description>
+  
+  <!--watercress leaves-->
+  <VCE_RawWatercress.label>листя настурції</VCE_RawWatercress.label>
+  <!--A green leaf vegetable rich in vitamins and minerals and from the same family as kale and broccoli.-->
+  <VCE_RawWatercress.description>Зелений листовий овоч, багатий на вітаміни та мінерали, з тієї ж родини, що й капуста та броколі.</VCE_RawWatercress.description>
+  
+  <!--lotus seeds-->
+  <VCE_RawLotus.label>насіння лотоса</VCE_RawLotus.label>
+  <!--The seeds of the lotus plant. They are packed with nutritional elements which make them an excellent choice for a healthy diet, with a high content of proteins, carbohydrates, and vitamins.-->
+  <VCE_RawLotus.description>Насіння лотоса. Воно насичене поживними елементами, що робить його чудовим вибором для здорового харчування з високим вмістом білків, вуглеводів і вітамінів.</VCE_RawLotus.description>
+  
+  <!--water chestnuts-->
+  <VCE_RawWaterChestnut.label>водяні горіхи</VCE_RawWaterChestnut.label>
+  <!--Small, rounded corms with a crisp, white flesh that may be eaten raw, slightly boiled, or grilled.-->
+  <VCE_RawWaterChestnut.description>Невеликі округлі бульбоцибулини з хрусткою білою м'якоттю, які можна їсти сирими, злегка відвареними або смаженими на грилі.</VCE_RawWaterChestnut.description>
+  
+  <!--cucumbers-->
+  <VCE_RawCucumber.label>огірки</VCE_RawCucumber.label>
+  <!--A long thin vegetable with hard green skin and wet transparent flesh. Can be eaten raw.-->
+  <VCE_RawCucumber.description>Довгий тонкий овоч із твердою зеленою шкіркою і вологим прозорим м'якушем. Можна їсти сирим.</VCE_RawCucumber.description>
+  
+  <!--butternut squashes-->
+  <VCE_RawButternutSquash.label>гарбузи Баттернат</VCE_RawButternutSquash.label>
+  <!--A vegetable with a sweet, nutty taste similar to that of a pumpkin. It has tan-yellow skin and orange fleshy pulp with a compartment of seeds in the blossom end.-->
+  <VCE_RawButternutSquash.description>Овоч із солодким, горіховим смаком, схожим на смак гарбуза. Має жовтувато-коричневу шкірку та помаранчеву м'якоть з насінням на кінчику квітки.</VCE_RawButternutSquash.description>
+  
+  <!--celery plant-->
+  <VCE_Celery.label>селера</VCE_Celery.label>
+  <!--A vegetable consisting of a long fibrous stalk tapering into leaves. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery is a staple in many soups.\n\n<color=#E5E54C>Gameplay effect:</color> Celery has a very long growth period (almost a full year!). If it can be kept alive all that time, it produces greater yield than corn.-->
+  <VCE_Celery.description>Овоч, що складається з довгого волокнистого стебла, яке звужується до листя. Листя має сильний аромат і використовується рідше, або як приправа до супів і тушкованих страв, або як сушена трава. Селера є основним інгредієнтом багатьох супів.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Селера має дуже довгий період росту (майже цілий рік!). Якщо її вдається зберегти живою весь цей час, вона дає більший врожай, ніж кукурудза.</VCE_Celery.description>
+  
+  <!--pineapple plant-->
+  <VCE_Pineapple.label>ананас</VCE_Pineapple.label>
+  <!--A sweet tropical fruit with a tough leathery skin and spiky leaves on top. The word pineapple was first used to mean "pine cone," and the fruit was given this name because of its resemblance to a large pine cone.\n\n<color=#E5E54C>Gameplay effect:</color> Pineapples have a very long growth period, but they are very nutritive, taking up less space in stockpiles.-->
+  <VCE_Pineapple.description>Солодкий тропічний фрукт із жорсткою шкірястою шкіркою і колючим листям зверху.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Ананаси мають дуже довгий період росту, але вони дуже поживні, займають менше місця на складах.</VCE_Pineapple.description>
+  
+  <!--lettuce plant-->
+  <VCE_Lettuce.label>латук</VCE_Lettuce.label>
+  <!--A leaf vegetable commonly eaten fresh and served as the base of green salads. Lettuce is generally a rich source of vitamins K and A.\n\n<color=#E5E54C>Gameplay effect:</color> Lettuce can be eaten raw like strawberries, but needs to be grown in shade: outside, but under roof. It won't grow inside.-->
+  <VCE_Lettuce.description>Листяний овоч, який зазвичай їдять свіжим і використовують як основу для зелених салатів. Латук, як правило, є цінним джерелом вітамінів К і А.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Латук можна їсти сирим, як полуницю, але його потрібно вирощувати в тіні: на вулиці, але під дахом. Всередині він не буде рости.</VCE_Lettuce.description>
+  
+  <!--brussels sprout plant-->
+  <VCE_BrusselsSprout.label>брюссельська капуста</VCE_BrusselsSprout.label>
+  <!--A form of cabbage grown for its edible buds called "sprouts". Brussels sprouts usually are eaten cooked, and the small young sprouts have a more delicate flavour than older ones.\n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other plants, brussels sprouts thrive in snow, and receive a considerable boost to growth if snowing, AS LONG AS it is also growth season (they won't grow or be able to be planted otherwise). They won't die due to cold.-->
+  <VCE_BrusselsSprout.description>Різновид капусти, яку вирощують заради їстівних бруньок, що називаються "паростками". Брюссельську капусту зазвичай їдять у вареному вигляді, і маленькі молоді паростки мають більш ніжний смак, ніж старі.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; На відміну від інших рослин, брюссельська капуста добре росте під снігом і отримує значний поштовх до зростання, якщо йде сніг, якщо це також є сезоном росту (інакше вона не буде рости або не зможе бути висаджена). Вона не загине від холоду.</VCE_BrusselsSprout.description>
+  
+  <!--cassava plant-->
+  <VCE_Cassava.label>маніок</VCE_Cassava.label>
+  <!--A tuberous edible plant also called manioc, mandioca, or yuca. They have a mild nutty taste and are commonly eaten as root vegetables in stews or as side dishes. Cassava roots are a versatile vegetable that can be used to produce flour, breads, tapioca, a laundry starch, and an alcoholic beverage.\n\n<color=#E5E54C>Gameplay effect:</color> Cassava grows best in tropical, warm and humid climates. As such, it will receive a considerable growth bonus if the weather is foggy.-->
+  <VCE_Cassava.description>Бульбова їстівна рослина, яку також називають касава. Вона має м'який гіркуватий смак і зазвичай вживається в їжу як коренеплоди в тушкованому вигляді або як гарнір до м'яса. Коріння маніоки – універсальний овоч, який можна використовувати для виробництва борошна, хліба, тапіоки, крохмалю для прання та алкогольних напоїв.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Маніок найкраще росте в тропічному, теплому і вологому кліматі. Тому вона отримає значний бонус до зростання, якщо погода буде туманною.</VCE_Cassava.description>
+  
+  <!--sweet potato plant-->
+  <VCE_SweetPotato.label>батат</VCE_SweetPotato.label>
+  <!--A plant with large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.\n\n<color=#E5E54C>Gameplay effect:</color> Sweet potatoes show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They do not tolerate frost, growing best at an average temperature of 24 °C, and receinving penalties under 20ºC.-->
+  <VCE_SweetPotato.description>Великі, крохмалисті, солодкі на смак (схожі на гарбуз), бульбоподібні коренеплоди, які використовують як коренеплід. Батат має віддалену спорідненість із картоплею звичайною.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Батат віддає перевагу кам'янистим ґрунтам, на яких він найкраще розвивається. Багаті ґрунти для неї згубні. Він погано переносить морози, найкраще росте при середній температурі 24°C, а при температурі нижче 20°C отримує штрафи до росту.</VCE_SweetPotato.description>
+  
+  <!--radish plant-->
+  <VCE_Radish.label>редиска</VCE_Radish.label>
+  <!--An edible root vegetable that is very easy to grow and quick to harvest. Radishes are often planted by novice gardeners.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified radish has a very short growth period (less than 2 days). This means it is an effective crop if you need small amounts of food FAST, and the sowing and harvesting work will be the most important factor.-->
+  <VCE_Radish.description>Їстівний коренеплід, який дуже легко вирощувати і швидко збирати. Редиску часто садять садівники-початківці.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Ця генетично модифікована редька має дуже короткий період росту (менше 2 днів). Це означає, що вона є ефективною культурою, якщо вам потрібна невелика кількість їжі ШВИДКО, і найважливішим фактором буде посів та збирання врожаю.</VCE_Radish.description>
+  
+  <!--buckwheat plant-->
+  <VCE_Buckwheat.label>гречка</VCE_Buckwheat.label>
+  <!--A pseudocereal cultivated for its grain-like seeds. Its white flowers are produced in terminal clusters and after pòllination turn into triangular-shaped seeds that are enclosed by a tough dark brown or gray rind.\n\n<color=#E5E54C>Gameplay effect:</color> Buckwheat is very resistant to fire, and this variety has been modified to be completely non-flammable.-->
+  <VCE_Buckwheat.description>Псевдозлак, який вирощують заради схожого на зерно насіння. Його білі квіти утворюють кінцеві китиці і після запилення перетворюються на насіння трикутної форми, вкрите міцною темно-коричневою або сірою шкіркою.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Гречка дуже стійка до вогню, і цей сорт був модифікований, щоб бути повністю незаймистим.</VCE_Buckwheat.description>
+  
+  <!--peanut plant-->
+  <VCE_Peanut.label>арахіс</VCE_Peanut.label>
+  <!--A plant that produces seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified variety of peanuts is sown by throwing the seeds haphazardly on the growing zone, and as such the plants will automatically be planted in the adjacent tiles 75% of the time, reducing the total amount of sowing work needed. Useful!-->
+  <VCE_Peanut.description>Рослина, що плодоносить насінням довгастої форми з паперовою насіннєвою оболонкою. За смаком і поживними властивостями схоже на деревні горіхи, такі як волоські горіхи та мигдаль, але технічно є бобовою культурою.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Цей генетично модифікований сорт арахісу висівається шляхом хаотичного кидання насіння на зону вирощування, і таким чином рослини автоматично висаджуються в сусідні плитки в 75% випадків, що зменшує загальну кількість необхідних робіт з посіву. Корисно!</VCE_Peanut.description>
+  
+  <!--secondary peanut plant-->
+  <VCE_PeanutSecondary.label>вторинний пагін арахісу</VCE_PeanutSecondary.label>
+  <!--A plant that produces seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified variety of peanuts is sown by throwing the seeds haphazardly on the growing zone, and as such the plants will automatically be planted in the adjacent tiles 75% of the time, reducing the total amount of sowing work needed. Useful!-->
+  <VCE_PeanutSecondary.description>Рослина, що плодоносить насінням довгастої форми з паперовою насіннєвою оболонкою. За смаком і поживними властивостями схоже на деревні горіхи, такі як волоські горіхи та мигдаль, але технічно є бобовою культурою.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Цей генетично модифікований сорт арахісу висівається шляхом хаотичного кидання насіння на зону вирощування, і таким чином рослини автоматично висаджуються в сусідні плитки в 75% випадків, що зменшує загальну кількість необхідних робіт з посіву. Корисно!</VCE_PeanutSecondary.description>
+  
+  <!--sunflower plant-->
+  <VCE_Sunflower.label>соняшник</VCE_Sunflower.label>
+  <!--A large crop used for its edible oil and edible fruits. The name sunflower may derive from the flower's head's shape, which resembles the sun.\n\n<color=#E5E54C>Gameplay effect:</color> Sunflowers grow 30% faster in equatorial regions. The size of the equatorial region depends on the planet's overall temperature: below 15º for Normal, below 35º for Warm, below 65º for Hot and all the planet for Very Hot. Planets with below Normal temperature are considered to have no equator.-->
+  <VCE_Sunflower.description>Велика сільськогосподарська культура, яку використовують для отримання харчової олії та їстівних плодів. Назва соняшник може походити від форми головки квітки, яка нагадує сонце.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Соняшник росте на 30% швидше в екваторіальних регіонах. Розмір екваторіального регіону залежить від середньої температури планети: нижче 15º для нормальної, нижче 35º для теплої, нижче 65º для спекотної і вся планета для дуже спекотної. Планети з температурою нижче нормальної вважаються такими, що не мають екватора.</VCE_Sunflower.description>
+  
+  <!--okra plant-->
+  <VCE_Okra.label>бамія</VCE_Okra.label>
+  <!--A flowering plant in the mallow family valued for its edible green seed pods, which are famously known for their slimy or sticky texture when cut open. Okra is a powerhouse of valuable nutrients.\n\n<color=#E5E54C>Gameplay effect:</color> Okra is very, VERY resistant to damage. Okra plants will take less damage from prolonged lack of light, and will regenerate damage caused by any other means.-->
+  <VCE_Okra.description>Квіткова рослина з сімейства мальвових, що цінується за свої їстівні зелені насіннєві стручки, відомі своєю слизькою або липкою текстурою на розрізі. Бамія – джерело цінних поживних речовин.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Бамія дуже, ДУЖЕ стійка до пошкоджень. Рослини бамії менше страждають від тривалої нестачі світла, а також регенерують пошкодження, завдані будь-якими іншими способами.</VCE_Okra.description>
+  
+  <!--garlic plant-->
+  <VCE_Garlic.label>часник</VCE_Garlic.label>
+  <!--A plant with long, flat grasslike leaves forming a stalk, which rises directly from the flower bulb, the part of the plant used as food and medicine. The bulb is made up of many smaller cloves covered with a papery skin.\n\n<color=#E5E54C>Gameplay effect:</color> Garlic has very little yield, but can grow in almost any terrain and takes an obscene time to rot, as dried garlic can be used to cook too.-->
+  <VCE_Garlic.description>Рослина з довгими, пласкими, схожими на траву листками, що утворюють стебло, яке виростає безпосередньо з квіткової цибулини – частини рослини, що використовується як їжа та ліки. Цибулина складається з безлічі дрібних зубчиків, вкритих паперовою шкіркою.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Часник має дуже низьку врожайність, але може рости практично на будь-якій місцевості і гниє непристойно швидко, оскільки сушений часник також можна використовувати для приготування їжі.</VCE_Garlic.description>
+  
+  <!--carrot plant-->
+  <VCE_Carrot.label>морква</VCE_Carrot.label>
+  <!--A herbaceous plant of the Apiaceae family that produces an edible taproot. An erect rosette of doubly compound, finely divided leaves develops above ground, while the edible carrot and attached roots are below.\n\n<color=#E5E54C>Gameplay effect:</color> Companion planting: carrots will grow faster if green beans are cultivated in the same map (up to 30% faster if 100 are found).-->
+  <VCE_Carrot.description>Трав'яниста рослина родини окружкових, що дає їстівний стрижневий корінь. Над землею розвивається прямостояча розетка з двічі складного, дрібноподіленого листя, а їстівна морквина та прикріплені до неї корені знаходяться внизу.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Суміжні культури: морква буде рости швидше, якщо на тій самій карті вирощувати зелену квасолю (до 30% швидше, якщо її буде 100).</VCE_Carrot.description>
+  
+  <!--green bean plant-->
+  <VCE_Beans.label>зелена квасоля</VCE_Beans.label>
+  <!--A herbaceous bush with a long history of cultivation. They are distinguished from the many other varieties of beans in that green beans are harvested and consumed with their enclosing pods, before the bean seeds inside have fully matured, similar to peas.\n\n<color=#E5E54C>Gameplay effect:</color> Companion planting: green beans will grow faster if carrots are cultivated in the same map (up to 30% faster if 100 are found).-->
+  <VCE_Beans.description>Трав'янистий кущ із давньою історією вирощування. Від багатьох інших різновидів квасолі їх відрізняє те, що зелені боби збирають і споживають разом зі стручками, до того, як насіння всередині повністю дозріє, подібно до гороху.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Суміжні культури: зелена квасоля буде рости швидше, якщо на тій самій карті вирощувати моркву (до 30% швидше, якщо її буде 100).</VCE_Beans.description>
+  
+  <!--chickpea plant-->
+  <VCE_Chickpea.label>нут</VCE_Chickpea.label>
+  <!--One of the earliest cultivated legumes, widely grown for its nutritious seeds. These are high in fibre and protein and are a good source of iron, phosphorus, and folic acid.\n\n<color=#E5E54C>Gameplay effect:</color> Chickpeas grow quite fast and have good yield, but they require a LOT of space to be stored (this may be negated by stack-increasing mods, you dirty cheater, but it's up to you to decide to mess up the game's balance).-->
+  <VCE_Chickpea.description>Один з найбільш ранніх культурних бобових. Нут містить багато клітковини та білка і є хорошим джерелом заліза, фосфору та фолієвої кислоти.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Нут росте досить швидко і має гарну врожайність, але для його зберігання потрібно БАГАТО місця (це може бути зведено нанівець модами для збільшення стісу, брудний ти читер, але вирішувати, чи варто псувати ігровий баланс, вам).</VCE_Chickpea.description>
+  
+  <!--bell pepper plant-->
+  <VCE_BellPepper.label>солодкий перець</VCE_BellPepper.label>
+  <!--Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.\n\n<color=#E5E54C>Gameplay effect:</color> On average, 25% of bell peppers will mature into yellow peppers, while 75% will mature into red peppers. The former are more nutritive. If planted in large numbers this results in increased average yield.-->
+  <VCE_BellPepper.description>Також відомий як болгарський перець, солодкий перець технічно відноситься до пасльонових і є частиною родини стручкових, але це єдиний перець, який несе в собі рецесивний ген, що не дає капсаїцину вироблятися в плодах, що робить їх не гострими.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; В середньому 25% болгарського перцю дозріває до жовтого перцю, а 75% – до червоного. Перші є більш поживними. Якщо висаджувати їх у великій кількості, це призводить до збільшення середньої врожайності.</VCE_BellPepper.description>
+  
+  <!--bell pepper plant-->
+  <VCE_YellowBellPepper.label>солодкий перець</VCE_YellowBellPepper.label>
+  <!--Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.\n\n<color=#E5E54C>Gameplay effect:</color> On average, 25% of bell peppers will mature into yellow peppers, while 75% will mature into red peppers. The former are more nutritive. If planted in large numbers this results in increased average yield.-->
+  <VCE_YellowBellPepper.description>Також відомий як болгарський перець, солодкий перець технічно відноситься до пасльонових і є частиною родини стручкових, але це єдиний перець, який несе в собі рецесивний ген, що не дає капсаїцину вироблятися в плодах, що робить їх не гострими.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; В середньому 25% болгарського перцю дозріває до жовтого перцю, а 75% – до червоного. Перші є більш поживними. Якщо висаджувати їх у великій кількості, це призводить до збільшення середньої врожайності.</VCE_YellowBellPepper.description>
+  
+  <!--taro plant-->
+  <VCE_Taro.label>таро</VCE_Taro.label>
+  <!--A tropical plant grown primarily for its edible corm, a root vegetable. Taro is one of the few crops that can be grown under flooded conditions, with the base of the plant always under water. This is due to air spaces in the petiole, which permit underwater gaseous exchange with the atmosphere.\n\n<color=#E5E54C>Gameplay effect:</color> Taro is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Taro is the baseline aquatic plant.-->
+  <VCE_Taro.description>Тропічна рослина, яку вирощують насамперед заради їстівного коренеплоду. Таро – одна з небагатьох культур, яку можна вирощувати в умовах затоплення, коли основа рослини завжди знаходиться під водою. Це пов'язано з повітряними проміжками в черешку, які забезпечують підводний газообмін з атмосферою.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Таро можна вирощувати лише у водних зонах вирощування, які ігнорують родючість. Однак ці рослини потребують багато часу для посіву та жнив, по суті, обмінюючи роботу колоністів на вирощування рослин у зазвичай невикористаному просторі. Таро є базовою водною рослиною.</VCE_Taro.description>
+  
+  <!--watercress plant-->
+  <VCE_Watercress.label>настурція</VCE_Watercress.label>
+  <!--Watercress is a rapidly growing, perennial plant. It is one of the oldest known leaf vegetables consumed by humans. Watercress and many of its relatives are noteworthy for their piquant flavors.\n\n<color=#E5E54C>Gameplay effect:</color> Watercress is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Watercress grows faster than taro but needs a lot of space, blocking sowing in adjacent spaces.-->
+  <VCE_Watercress.description>Настурція – швидкозростаюча багаторічна рослина. Це один з найдавніших відомих листових овочів, що вживаються людиною. Настурція і багато його родичів відзначаються пікантним смаком.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Настурцію можна вирощувати лише у водних зонах вирощування, які ігнорують родючість. Однак ці рослини потребують багато часу для посіву та жнив, по суті, обмінюючи роботу колоністів на вирощування рослин у зазвичай невикористаному просторі. Настурція росте швидше, ніж таро, але потребує багато місця, блокуючи посіви на сусідніх ділянках.</VCE_Watercress.description>
+  
+  <!--lotus plant-->
+  <VCE_Lotus.label>лотос</VCE_Lotus.label>
+  <!--Sometimes colloquially called a water lily, lotus plants are adapted to grow in the flood plains of slow-moving rivers and delta areas. Lotus rhizomes have a crunchy texture with sweet-tangy flavours and can be deep-fried, stir-fried, or stuffed with meats or preserved fruits.\n\n<color=#E5E54C>Gameplay effect:</color> Lotus is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Lotus takes a long time to grow.-->
+  <VCE_Lotus.description>Рослини лотоса пристосовані до зростання в заплавах повільних річок і дельтах. Коріння лотоса мають хрустку текстуру з солодкувато-гострим смаком, їх можна смажити у фритюрі, обсмажувати, фарширувати м'ясом або консервованими фруктами.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Лотос можна вирощувати лише у водних зонах вирощування, які ігнорують родючість. Однак ці рослини потребують багато часу для посіву та жнив, по суті, обмінюючи роботу колоністів на вирощування рослин у зазвичай невикористаному просторі. Лотос вимагає багато часу для вирощування.</VCE_Lotus.description>
+  
+  <!--water chestnut plant-->
+  <VCE_WaterChestnut.label>водяний горіх</VCE_WaterChestnut.label>
+  <!--An aquatic vegetable that grows in marshes, under water, in the mud. It has stem-like, tubular green leaves, and small, rounded corms with a crisp, white flesh that may be eaten raw, slightly boiled, or grilled.\n\n<color=#E5E54C>Gameplay effect:</color> Water chestnut is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Water chestnut grows 30% faster in the heat (37-60ºC).-->
+  <VCE_WaterChestnut.description>Водна рослина, що росте на болотах, під водою, в мулі. Має стеблоподібне, трубчасте зелене листя та невеликі округлі бульбоцибулини з хрусткою білою м'якоттю, які можна їсти сирими, злегка відвареними або смаженими на грилі.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Водяний горіх можна вирощувати лише у водних зонах вирощування, які ігнорують родючість. Однак ці рослини потребують багато часу для посіву та жнив, по суті, обмінюючи роботу колоністів на вирощування рослин у зазвичай невикористаному просторі. Водяний горіх росте на 30% швидше в спеку (37-60ºC).</VCE_WaterChestnut.description>
+  
+  <!--melon plant-->
+  <VCE_Melon.label>диня</VCE_Melon.label>
+  <!--A plant producing a sweet, edible, and fleshy fruit of considerable size. Melons are usually cultivated in warm regions.\n\n<color=#E5E54C>Gameplay effect:</color> Melons are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Melons need a lot of space, blocking sowing in adjacent spaces, but harvesting them can't fail-->
+  <VCE_Melon.description>Рослина, що плодоносить солодкими, їстівними і м'ясистими плодам значних розмірів. Дині зазвичай вирощують у теплих регіонах.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Дині можна вирощувати лише у піщаних зонах вирощування, які ігнорують родючість. Однак ці рослини потребують багато часу для посіву та жнив, по суті, обмінюючи роботу колоністів на вирощування рослин у зазвичай невикористаному просторі. Диням потрібно багато місця, вони блокують посіви на сусідніх ділянках, але збирати врожай з них не вийде.</VCE_Melon.description>
+  
+  <!--cucumber plant-->
+  <VCE_Cucumber.label>огірки</VCE_Cucumber.label>
+  <!--A sprawling vine with large leaves and curling tendrils, triangular prickly hairy leaves and yellow flowers. Produces a fruit that is a long thin vegetable with hard green skin and wet transparent flesh. \n\n<color=#E5E54C>Gameplay effect:</color> Cucumbers are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Cucumbers grow quite fast, providing little yield but in a short period. They can be eaten raw.-->
+  <VCE_Cucumber.description>Розлога ліана з великим листям і в'юнкими вусиками, трикутним колючим волохатим листям і жовтими квітами. Плодоносить довгим тонким овочем із твердою зеленою шкіркою і вологим прозорим м'якушем. \n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Огірки можна вирощувати лише у піщаних зонах вирощування, які ігнорують родючість. Однак ці рослини потребують багато часу для посіву та жнив, по суті, обмінюючи роботу колоністів на вирощування рослин у зазвичай невикористаному просторі. Огірки ростуть досить швидко, даючи невеликий урожай, але за короткий період. Їх можна їсти сирими.</VCE_Cucumber.description>
+  
+  <!--butternut squash plant-->
+  <VCE_ButternutSquash.label>гарбуз Баттернат</VCE_ButternutSquash.label>
+  <!--A vine plant that produces a vegetable with a sweet, nutty taste similar to that of a pumpkin. It has tan-yellow skin and orange fleshy pulp with a compartment of seeds in the blossom end.\n\n<color=#E5E54C>Gameplay effect:</color> Butternut squash is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Butternut squash takes a long time to grow.-->
+  <VCE_ButternutSquash.description>Лозова рослина, яка плодоносить овочем із солодким, горіховим смаком, схожим на смак гарбуза. Має жовтувато-коричневу шкірку та помаранчеву м'якоть з насінням на кінчику квітки.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Гарбуз Баттернат можна вирощувати лише у піщаних зонах вирощування, які ігнорують родючість. Однак ці рослини потребують багато часу для посіву та жнив, по суті, обмінюючи роботу колоністів на вирощування рослин у зазвичай невикористаному просторі. Гарбуз Баттернат вимагає багато часу для вирощування.</VCE_ButternutSquash.description>
+  
+  <!--aloe vera plant-->
+  <VCE_AloeVera.label>алое вера</VCE_AloeVera.label>
+  <!--A herb with succulent leaves that are arranged in a rosette. The leaves are grey to green and sometimes have white spots on their surfaces. They have sharp, pinkish spines along their edges and are the source of a colourless gel that is used in many medicinal products.\n\n<color=#E5E54C>Gameplay effect:</color> Aloe vera is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Aloe vera is a source of herbal medicine.-->
+  <VCE_AloeVera.description>Трав'яниста рослина з соковитим листям, розташованим у вигляді розетки. Листя від сірого до зеленого кольору, іноді з білими плямами на поверхні. Вони мають гострі рожеві колючки по краях і є джерелом безбарвного гелю, який використовується в багатьох лікарських засобах.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Алое вера можна вирощувати лише у піщаних зонах вирощування, які ігнорують родючість. Однак ці рослини потребують багато часу для посіву та жнив, по суті, обмінюючи роботу колоністів на вирощування рослин у зазвичай невикористаному просторі. Алое вера – джерело рослинних ліків.</VCE_AloeVera.description>
+  
+  <!--canola plant-->
+  <VCE_Canola.label>канола</VCE_Canola.label>
+  <!--A bright-yellow flowering variety of the rapeseed, cultivated mainly for its oil-rich seed.\n\n<color=#E5E54C>Gameplay effect:</color> Canola, though not directly edible, can be very efficiently converted into chemfuel at a refinery.-->
+  <VCE_Canola.description>Яскраво-жовтий квітучий сорт ріпаку, що вирощується переважно заради багатого на олію насіння.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Канола, хоч і не є безпосередньо їстівною, може бути дуже ефективно перетворена на хімпаливо за біопаливним заводом.</VCE_Canola.description>
+  
+  <!--avocado tree-->
+  <VCE_TreeAvocado.label>дерево авокадо</VCE_TreeAvocado.label>
+  <!--An evergreen tree with thick, leathery leaves that produces perfect white, ivory to yellow flowers. The fruit has a large seed or pit in the center and may be green or nearly black.\n\n<color=#E5E54C>Gameplay effect:</color> Avocado trees take a notoriously long period to mature and produce their fruits. If they can be kept alive all that time, they produce greater yield than other fruit trees. Plus if you install the Coffees and Teas mod and pair them with Pumpkin Spice Coffee you can have your dream RimWorld Hipster experience!-->
+  <VCE_TreeAvocado.description>Вічнозелене дерево з товстим, шкірястим листям, яке дає ідеально білі, від відтінку слонової кістки до жовтого, квіти. Плід має велике насіння або кісточку в центрі і може бути зеленим або майже чорним.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Дерева авокадо, як відомо, дозрівають і дають плоди дуже довго. Якщо їх вдається підтримувати живими весь цей час, вони дають більший врожай, ніж інші фруктові дерева. А якщо ви встановите мод "Coffees and Teas" і поєднаєте авокадо з гарбузовою кавою зі спеціями, то зможете насолодитися омріяним хіпстерським досвідом в RimWorld'і!</VCE_TreeAvocado.description>
+  
+  <!--olive tree-->
+  <VCE_TreeOlive.label>оливкове дерево</VCE_TreeOlive.label>
+  <!--A subtropical broad-leaved evergreen tree. Its leaves, leathery and lance-shaped, are dark green above and silvery on the underside and are paired opposite each other on the twig. The wood is resistant to decay. If the top dies back, a new trunk will often arise from the roots.\n\n<color=#E5E54C>Gameplay effect:</color> Interestingly, olive trees show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They will also live for a very, very long time, far longer than other produce trees. Contrary to other tree produce, olives can't be eaten raw.-->
+  <VCE_TreeOlive.description>Субтропічне широколисте вічнозелене дерево. Його листя, шкірясте і списоподібне, темно-зелене зверху і сріблясте знизу, розташоване попарно один навпроти одного на гілочці. Деревина стійка до гниття. Якщо верхівка відмирає, з коренів часто виростає новий стовбур.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Цікаво, що оливкові дерева надають перевагу кам'янистим ґрунтам, процвітаючи на них. Багаті ґрунти для них навіть згубні. Вони також живуть дуже, дуже довго, набагато довше, ніж інші фруктові дерева. На відміну від інших фруктів, оливки не можна їсти сирими.</VCE_TreeOlive.description>
+  
+  <!--coconut palm-->
+  <VCE_CoconutPalm.label>кокосова пальма</VCE_CoconutPalm.label>
+  <!--A palm tree cultivated extensively in tropical areas for its edible fruit, the coconut. Coconut palms flourish best close to the sea on low-lying areas a few feet above high water.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nCoconut palms are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space.\n\nCoconut palms receive a growth bonus if sea water tiles are found in a 6 tile radius. Coconuts can be used as fruits or processed into milk.-->
+  <VCE_CoconutPalm.description>Пальма, яку широко культивують у тропічних регіонах заради її їстівних плодів – кокосів. Кокосові пальми найкраще ростуть поблизу моря на низинних ділянках на висоті кількох метрів над рівнем води.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після жнив, але мають обмежену тривалість життя і з часом потребують пересадки.\n\nКокосові пальми можна вирощувати лише у піщаних зонах вирощування, які ігнорують родючість. Однак ці рослини потребують багато часу для посіву та жнив, по суті, обмінюючи роботу колоністів на вирощування рослин у зазвичай невикористаному просторі.\n\nКокосові пальми отримують бонус до зростання, якщо в радіусі 6 тайлів морської води знаходяться тайли з водою. Кокоси можна використовувати як фрукти або переробляти на молоко.</VCE_CoconutPalm.description>
+  
+  <!--almond tree-->
+  <VCE_TreeAlmond.label>мигдальне дерево</VCE_TreeAlmond.label>
+  <!--A deciduous tree cultivated for its fruit, almonds. The sweet almond can be eaten plain or be used as ingredient in desserts and confectioneries. The trees are strikingly beautiful when in flower; they produce fragrant, five-petaled, light pink to white flowers.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nAlmond trees are beautiful, but they require water to be present in a 6 tile radius to grow properly. Almonds can be used as fruits or processed into milk.-->
+  <VCE_TreeAlmond.description>Листяне дерево, яке вирощують заради його плодів – мигдалю. Солодкий мигдаль можна їсти просто так або використовувати як інгредієнт для десертів та кондитерських виробів. Дерева вражають своєю красою під час цвітіння; вони випускають ароматні п'ятипелюсткові квіти від світло-рожевого до білого кольору.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після жнив, але мають обмежену тривалість життя і з часом потребують пересадки.\n\nМигдалеві дерева красиві, але для нормального росту їм потрібна вода в радіусі 6 плиток. Мигдаль можна використовувати як фрукти або переробляти на молоко.</VCE_TreeAlmond.description>
+  
+  <!--mango tree-->
+  <VCE_TreeMango.label>мангове дерево</VCE_TreeMango.label>
+  <!--A tropical evergreen tree that produces oval fruits, vividly coloured with shades of red and yellow. The single large seed is flattened, and the flesh that surrounds it is yellow to orange in colour, juicy, and of distinctive sweet-spicy flavour.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nMango trees have very good yield, but mangoes cannot be frozen or they get destroyed. The game won't be smart enough to detect this, so disable them from freezers.-->
+  <VCE_TreeMango.description>Тропічне вічнозелене дерево, що дає овальні плоди, яскраво забарвлені у відтінки червоного та жовтого. Єдине велике насіння сплющене, а м'якоть, що його оточує, жовто-оранжевого кольору, соковита, з характерним солодко-пряним смаком.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Всі фруктові дерева займають приблизно в чотири рази більше місця, ніж звичайні культури, ростуть довго і дають плоди, які можна їсти сирими. Вони не знищуються після жнив, але мають обмежену тривалість життя і з часом потребують пересадки.\n\nМангові дерева дають дуже гарний врожай, але манго не можна заморожувати, інакше вони загинуть. Гра недостатньо розумна, щоб виявити це, тому забороніть їх з морозильної камери.</VCE_TreeMango.description>
+</LanguageData>

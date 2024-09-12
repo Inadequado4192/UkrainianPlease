@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VHE_Gangster.label>гангстер</VHE_Gangster.label>
+  <VHE_Maniac.label>маньяк</VHE_Maniac.label>
+  <VHE_Midlife.label>середній вік</VHE_Midlife.label>
+  <VHE_Gentleman.label>джентльмен</VHE_Gentleman.label>
+  <VHE_Willow.label>віллоу</VHE_Willow.label>
+  <VHE_Strongman.label>силач</VHE_Strongman.label>
+  <VHE_Bereaved.label>траурна</VHE_Bereaved.label>
+  <VHE_Librarian.label>бібліотекар</VHE_Librarian.label>
+  <VHE_Buzzcut.label>бокс</VHE_Buzzcut.label>
+  <VHE_FauxHawk.label>фоксхоук</VHE_FauxHawk.label>
+  <VHE_HighTop.label>високий майданчик</VHE_HighTop.label>
+  <VHE_ShortAfro.label>мале афро</VHE_ShortAfro.label>
+  <VHE_Slicked.label>зачесана</VHE_Slicked.label>
+  <VHE_Vile.label>мерзенна</VHE_Vile.label>
+  <VHE_Oskar.label>оскар</VHE_Oskar.label>
+  <VHE_SlickedShort.label>коротка зачесана</VHE_SlickedShort.label>
+  <VHE_Smith.label>сміт</VHE_Smith.label>
+  <VHE_Regal.label>царська</VHE_Regal.label>
+  <VHE_Braid.label>коса</VHE_Braid.label>
+  <VHE_Messy.label>непричесані</VHE_Messy.label>
+  <VHE_Part.label>під каре</VHE_Part.label>
+  <VHE_Quaf.label>каре</VHE_Quaf.label>
+  <VHE_Slick.label>гладка</VHE_Slick.label>
+  <VHE_Fox.label>лисяча</VHE_Fox.label>
+  <VHE_Long.label>довгі</VHE_Long.label>
+  <VHE_PinUp.label>заколоте</VHE_PinUp.label>
+  <VHE_SideBraid.label>асиметрична</VHE_SideBraid.label>
+  <VHE_TwoTails.label>два пучка</VHE_TwoTails.label>
+  <VHE_Beautiful.label>прекрасне</VHE_Beautiful.label>
+  <VHE_Brave.label>відважне</VHE_Brave.label>
+  <VHE_Festive.label>святкове</VHE_Festive.label>
+  <VHE_Hideout.label>під прикриттям</VHE_Hideout.label>
+  <VHE_LongAfro.label>довге афро</VHE_LongAfro.label>
+  <VHE_Dean.label>дін</VHE_Dean.label>
+  <VHE_Sam.label>сєм</VHE_Sam.label>
+  <VHE_Farmboy.label>люк</VHE_Farmboy.label>
+  <VHE_Senator.label>лея</VHE_Senator.label>
+  <VHE_Smuggler.label>контрабандист</VHE_Smuggler.label>
+  <VHE_Celebrity.label>знаменитість</VHE_Celebrity.label>
+  <VHE_FlatAfro.label>плоске афро</VHE_FlatAfro.label>
+  <VHE_Karen.label>карен</VHE_Karen.label>
+  <VHE_LongPonytail.label>довгий хвіст</VHE_LongPonytail.label>
+  <VHE_Sad.label>депресивне</VHE_Sad.label>
+  <VHE_Annointed.label>помазанець</VHE_Annointed.label>
+  <VHE_Chosen.label>обранець</VHE_Chosen.label>
+  <VHE_Distinguished.label>вишукане</VHE_Distinguished.label>
+  <VHE_Hardened.label>немите</VHE_Hardened.label>
+  <VHE_Monk.label>чернець</VHE_Monk.label>
+  <VHE_Mother.label>мати</VHE_Mother.label>
+  <VHE_Princess.label>принцесса</VHE_Princess.label>
+  <VHE_Queen.label>королева</VHE_Queen.label>
+  <VHE_Unkept.label>недоглянуте</VHE_Unkept.label>
+  <VHE_Widow.label>вдова</VHE_Widow.label>
+  <VHE_Sanchez.label>рік санчез</VHE_Sanchez.label>
+  <VHE_Mortimer.label>морті</VHE_Mortimer.label>
+  <VHE_Summer.label>саммер</VHE_Summer.label>
+  <VHE_Jerry.label>джеррі</VHE_Jerry.label>
+  <VHE_Beth.label>бет</VHE_Beth.label>
+  <VHE_Dapp.label>дапп</VHE_Dapp.label>
+  <VHE_Connor.label>коннор</VHE_Connor.label>
+  <VHE_Flak.label>каштан</VHE_Flak.label>
+  <VHE_Shelby.label>шелбі</VHE_Shelby.label>
+  <VHE_Blinder.label>блайнд</VHE_Blinder.label>
+  <VHE_Mohawk.label>ірокез 2</VHE_Mohawk.label>
+  <VHE_Dusk.label>сутінки</VHE_Dusk.label>
+  <VHE_Faerie.label>фейрі</VHE_Faerie.label>
+  <VHE_Cyberpunk.label>кіберпанк</VHE_Cyberpunk.label>
+  <VHE_Raider.label>рейдер</VHE_Raider.label>
+  <VHE_Private.label>рядовий</VHE_Private.label>
+  <VHE_Sarge.label>сержант</VHE_Sarge.label>
+  <VHE_Corporal.label>капрал</VHE_Corporal.label>
+  <VHE_Major.label>майор</VHE_Major.label>
+  <VHE_General.label>генерал</VHE_General.label>
+  <VHE_Abigail.label>ебігейл</VHE_Abigail.label>
+  <VHE_Bill.label>білл</VHE_Bill.label>
+  <VHE_Dutch.label>голландець</VHE_Dutch.label>
+  <VHE_Grimshaw.label>грімшоу</VHE_Grimshaw.label>
+  <VHE_Marston.label>марстон</VHE_Marston.label>
+  <VHE_Micah.label>міка</VHE_Micah.label>
+  <VHE_Pearson.label>пірсон</VHE_Pearson.label>
+  <VHE_Dreadlock.label>дреди</VHE_Dreadlock.label>
+  <VHE_Mystic.label>містик</VHE_Mystic.label>
+  <VHE_Straight.label>прямі</VHE_Straight.label>
+  <VHE_Twisted.label>кручені</VHE_Twisted.label>
+  <VHE_Wrap.label>розділені</VHE_Wrap.label>
+  <VHE_Barren.label>безплідні</VHE_Barren.label>
+  <VHE_BattleBraids.label>бойові коси</VHE_BattleBraids.label>
+  <VHE_ScorpionKing.label>король скорпіонів</VHE_ScorpionKing.label>
+  <VHE_TuftHawk.label>тафгай</VHE_TuftHawk.label>
+  <VHE_Wilderness.label>дикість</VHE_Wilderness.label>
+  <VHE_BraidedHawk.label>плетений яструб</VHE_BraidedHawk.label>
+  <VHE_FireKeeper.label>хранитель вогню</VHE_FireKeeper.label>
+  <VHE_Hunter.label>мисливець</VHE_Hunter.label>
+  <VHE_Tribal.label>племінна</VHE_Tribal.label>
+  <VHE_Warrior.label>воїн</VHE_Warrior.label>
+  <VHE_BattleBraid.label>бойовий вузол</VHE_BattleBraid.label>
+  <VHE_DoubleHawk.label>подвійний яструб</VHE_DoubleHawk.label>
+  <VHE_HalfShaved.label>напівголені</VHE_HalfShaved.label>
+  <VHE_Tower.label>вежа</VHE_Tower.label>
+  <VHE_Spikey.label>їжачок</VHE_Spikey.label>
+</LanguageData>

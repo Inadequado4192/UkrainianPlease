@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FearThoughts.stages.0.label>uneasy</FearThoughts.stages.0.label>
+  <FearThoughts.stages.0.description>Щось не так...</FearThoughts.stages.0.description>
+  <FearThoughts.stages.1.label>extensive fear</FearThoughts.stages.1.label>
+  <FearThoughts.stages.1.description>Я дуже нервуюся... З якоїсь причини.</FearThoughts.stages.1.description>
+  <FearThoughts.stages.2.label>unspeakable horror</FearThoughts.stages.2.label>
+  <FearThoughts.stages.2.description>Я відчуваю повний і абсолютний жах!</FearThoughts.stages.2.description>
+  <FearThoughts.stages.3.label>extreme panic</FearThoughts.stages.3.label>
+  <FearThoughts.stages.3.description>О, боги! Страх з'їдає мене.</FearThoughts.stages.3.description>
+
+
+</LanguageData>

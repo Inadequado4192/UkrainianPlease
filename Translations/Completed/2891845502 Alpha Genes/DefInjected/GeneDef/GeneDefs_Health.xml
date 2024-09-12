@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid immunity -->
+  <AG_AcidImmunity.label>кислотний імунітет</AG_AcidImmunity.label>
+  <!-- EN: Carriers of this gene have immunity to acid damage. -->
+  <AG_AcidImmunity.description>Носії цього гена мають імунітет до пошкодження кислотами.</AG_AcidImmunity.description>
+  <!-- EN: Acid damage from vanilla game and the following mods should be covered: Alpha Animals, Alpha Mythology, Alpha Mechs, Vanilla Genetics Expanded, Witcher Monster Hunt. -->
+  <AG_AcidImmunity.customEffectDescriptions.0>Пошкодження від кислоти у ванільній грі та наступних модах мають бути покриті: Alpha Animals, Alpha Mythology, Alpha Mechs, Vanilla Genetics Expanded, Witcher Monster Hunt.</AG_AcidImmunity.customEffectDescriptions.0>
+  
+  <!-- EN: clean -->
+  <AG_Clean.label>чистий</AG_Clean.label>
+  <!-- EN: Carriers of this gene are naturally clean and generate less filth on their day to day activities. -->
+  <AG_Clean.description>Носії цього гена від природи охайні і генерують менше бруду у своїй повсякденній діяльності.</AG_Clean.description>
+  
+  <!-- EN: deaf -->
+  <AG_Deaf.label>глухий</AG_Deaf.label>
+  <!-- EN: Carriers of this gene have a complete lack of hearing. -->
+  <AG_Deaf.description>Носії цього гена мають повну відсутність слуху.</AG_Deaf.description>
+  
+  <!-- EN: filthy -->
+  <AG_Filthy.label>брудний</AG_Filthy.label>
+  <!-- EN: Carriers of this gene are naturally filthy and generate more filth on their day to day activities. -->
+  <AG_Filthy.description>Носії цього гена від природи брудні і генерують більше бруду у своїй повсякденній діяльності.</AG_Filthy.description>
+  
+  <!-- EN: frail back -->
+  <AG_FrailBack.label>квола спина</AG_FrailBack.label>
+  <!-- EN: Carriers of this gene can't carry a lot of weight. -->
+  <AG_FrailBack.description>Носії цього гена не можуть носити велику вагу.</AG_FrailBack.description>
+  
+  <!-- EN: frostbite resistance -->
+  <AG_FrostbiteResistance.label>морозостійкість</AG_FrostbiteResistance.label>
+  <!-- EN: Carriers of this gene have resistance to frostbite damage. -->
+  <AG_FrostbiteResistance.description>Носії цього гена мають стійкість до обмороження.</AG_FrostbiteResistance.description>
+  
+  <!-- EN: frostbite vulnerability -->
+  <AG_FrostbiteVulnerability.label>вразливість до обмороження</AG_FrostbiteVulnerability.label>
+  <!-- EN: Carriers of this gene have vulnerability to frostbite damage. -->
+  <AG_FrostbiteVulnerability.description>Носії цього гена вразливі до обмороження.</AG_FrostbiteVulnerability.description>
+  
+  <!-- EN: very weak immunity -->
+  <AG_Gene_VeryWeakImmunity.label>дуже слабкий імунітет</AG_Gene_VeryWeakImmunity.label>
+  <!-- EN: Carriers of this gene gain immunity to diseases very slowly. They will die from infections that others would survive. -->
+  <AG_Gene_VeryWeakImmunity.description>Носії цього гена отримують імунітет до хвороб дуже повільно. Вони помиратимуть від інфекцій, які інші переживуть.</AG_Gene_VeryWeakImmunity.description>
+  <!-- EN: sickly -->
+  <AG_Gene_VeryWeakImmunity.labelShortAdj>хворобливий</AG_Gene_VeryWeakImmunity.labelShortAdj>
+  <!-- EN: sick -->
+  <AG_Gene_VeryWeakImmunity.symbolPack.prefixSymbols.0.symbol>хворий</AG_Gene_VeryWeakImmunity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: frail -->
+  <AG_Gene_VeryWeakImmunity.symbolPack.prefixSymbols.1.symbol>кволий</AG_Gene_VeryWeakImmunity.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: hard bones -->
+  <AG_HardBones.label>тверді кістки</AG_HardBones.label>
+  <!-- EN: Carriers of this gene have very hard bones with extended bone growth, making them resistant to blunt damage, at the cost of being vulnerable to cuts. -->
+  <AG_HardBones.description>Носії цього гена мають дуже тверді кістки з подовженим ростом кісткової тканини, що робить їх стійкими до тупих ушкоджень, але ціною вразливості до порізів.</AG_HardBones.description>
+  
+  <!-- EN: lung rot immunity -->
+  <AG_LungRotImmunity.label>імунітет до легеневої гнилі</AG_LungRotImmunity.label>
+  <!-- EN: Carriers of this gene have strengthened lungs that are immune to lung rot. -->
+  <AG_LungRotImmunity.description>Носії цього гена мають зміцнені легені, які мають імунітет до легеневої гнилі.</AG_LungRotImmunity.description>
+  
+  <!-- EN: lung rot strength -->
+  <AG_LungRotStrength.label>сила легеневої гнилі</AG_LungRotStrength.label>
+  <!-- EN: Carriers of this gene have special structures in their lungs that strengthen their bodies when they are affected by lung rot, making piles of corpses... a pleasant prospect. -->
+  <AG_LungRotStrength.description>Носії цього гена мають особливі структури в легенях, які зміцнюють їхні тіла, коли вони уражаються легеневою гниллю, роблячи купи трупів... приємною перспективою.</AG_LungRotStrength.description>
+  <!-- EN: Standing on rot stink strengthens the carrier for around two days after exposure, instead of causing lung rot. -->
+  <AG_LungRotStrength.customEffectDescriptions.0>Стояння на гнильному смороді зміцнює носія протягом приблизно двох днів після контакту, замість того, щоб викликати гниття легенів.</AG_LungRotStrength.customEffectDescriptions.0>
+  
+  <!-- EN: pack mule -->
+  <AG_PackMule.label>в'ючний мул</AG_PackMule.label>
+  <!-- EN: Carriers of this gene can carry obscene amounts of stuff before feeling encumbered. -->
+  <AG_PackMule.description>Носії цього гена можуть носити непристойну кількість речей, не відчуваючи при цьому обтяження.</AG_PackMule.description>
+  
+  <!-- EN: passive regenerator -->
+  <AG_PassiveRegenerator.label>пасивний регенератор</AG_PassiveRegenerator.label>
+  <!-- EN: Carriers of this gene constantly release an invisible cloud of specialized mechanites that periodically tend to the wounds of nearby people and animals, regenerating them without any need for rest. -->
+  <AG_PassiveRegenerator.description>Носії цього гена постійно випускають невидиму хмару спеціалізованих механітів, які періодично присмоктуються до ран людей і тварин, що знаходяться поруч, регенеруючи їх без потреби у відпочинку.</AG_PassiveRegenerator.description>
+  <!-- EN: Every pawn of the player faction in a radius of 5 tiles will get a random wound reduced by 0.1 severity every 300 ticks (5 seconds). -->
+  <AG_PassiveRegenerator.customEffectDescriptions.0>Кожен пішак фракції гравця в радіусі 5 тайлів отримує зменшеня тяжкості на 0.1 у випадковій рані кожні 300 тиків (5 секунд).</AG_PassiveRegenerator.customEffectDescriptions.0>
+  
+  <!-- EN: regeneration, minor -->
+  <AG_RegenerationMinor.label>регенерація, невелика</AG_RegenerationMinor.label>
+  <!-- EN: Carriers of this gene have a faint distributed network of specialized mechanites on their bloodstream that periodically tend to internal wounds, regenerating them without any need for rest. -->
+  <AG_RegenerationMinor.description>Носії цього гена мають слабку розподілену мережу спеціалізованих механітів у крові, які періодично звертаються до внутрішніх ран, регенеруючи їх без потреби у відпочинку.</AG_RegenerationMinor.description>
+  <!-- EN: A random wound is reduced by 0.1 severity every 250 ticks (aprox. 4 seconds). -->
+  <AG_RegenerationMinor.customEffectDescriptions.0>Випадкова рана зменшується на 0.1 ступінь тяжкості кожні 250 кліщів (приблизно 4 секунди).</AG_RegenerationMinor.customEffectDescriptions.0>
+  
+  <!-- EN: frail antitoxic lungs -->
+  <AG_ToxicEnvironmentResistance_Frail.label>слабкі антитоксичні легені</AG_ToxicEnvironmentResistance_Frail.label>
+  <!-- EN: Carriers of this gene are specially affected by environmental toxins. They get more toxic buildup from tox gas, polluted terrain, and toxic fallout, and are more vulnerable to direct attacks with venom or injected poison. Additionally, they build up rot stink exposure faster. -->
+  <AG_ToxicEnvironmentResistance_Frail.description>Носії цього гена особливо схильні до впливу токсинів навколишнього середовища. Вони отримують більше токсинів від отруйних газів, забрудненої місцевості та токсичних опадів, а також є більш вразливими до прямих нападів з отрутою або ін'єкційною отрутою. Крім того, вони швидше піддаються впливу гнилісного смороду.</AG_ToxicEnvironmentResistance_Frail.description>
+  <!-- EN: tox-affected -->
+  <AG_ToxicEnvironmentResistance_Frail.labelShortAdj>уражений токсинами</AG_ToxicEnvironmentResistance_Frail.labelShortAdj>
+  <!-- EN: pure -->
+  <AG_ToxicEnvironmentResistance_Frail.symbolPack.prefixSymbols.0.symbol>чистий</AG_ToxicEnvironmentResistance_Frail.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: tox vulnerability -->
+  <AG_ToxResist_Vulnerability.label>токсична вразливість</AG_ToxResist_Vulnerability.label>
+  <!-- EN: Carriers of this gene are vulnerable to toxic buildup from any source. This includes pollution, toxic fallout, tox gas, and direct attacks with venom or injected poison. They'll gain an additional half as much amount of toxic buildup compared to others. -->
+  <AG_ToxResist_Vulnerability.description>Носії цього гена вразливі до накопичення токсинів з будь-якого джерела. Це включає забруднення, токсичні опади, отруйні гази, а також прямі напади з отрутою або ін'єкціями отрути. У них додатково накопичується вдвічі більше токсинів порівняно з іншими людьми.</AG_ToxResist_Vulnerability.description>
+  <!-- EN: tox-vulnerable -->
+  <AG_ToxResist_Vulnerability.labelShortAdj>вразливий до токсинів</AG_ToxResist_Vulnerability.labelShortAdj>
+  
+  <!-- EN: unstable mutation, catastrophic -->
+  <AG_UnstableMutationCatastrophic.label>нестабільна мутація, катастрофічна</AG_UnstableMutationCatastrophic.label>
+  <!-- EN: Carriers of this gene will suffer a very powerful unstable mutation on their bodies once per day. This mutation will activate up to ten new random genes for the whole day. Next day, the genes will deactivate and ten new ones will take their place. -->
+  <AG_UnstableMutationCatastrophic.description>Носії цього гена зазнають дуже потужної нестабільної мутації в організмі раз на день. Ця мутація активує до десяти нових випадкових генів на цілий день. Наступного дня ці гени деактивуються, а на їхньому місці з'являються десять нових.</AG_UnstableMutationCatastrophic.description>
+  <!-- EN: This mutation can be incredibly harmful, and potentially lethal. -->
+  <AG_UnstableMutationCatastrophic.customEffectDescriptions.0>Ця мутація може бути неймовірно шкідливою і потенційно смертельною.</AG_UnstableMutationCatastrophic.customEffectDescriptions.0>
+  
+  <!-- EN: unstable mutation, major -->
+  <AG_UnstableMutationMajor.label>нестабільна мутація, велика</AG_UnstableMutationMajor.label>
+  <!-- EN: Carriers of this gene will suffer an unstable mutation on their bodies once per day. This mutation will activate two new random genes for the whole day. Next day, the genes will deactivate and two new ones will take their place. -->
+  <AG_UnstableMutationMajor.description>У носіїв цього гена раз на день в організмі відбуватиметься нестабільна мутація. Ця мутація активуватиме два нових випадкових гени на цілий день. Наступного дня ці гени деактивуються, а на їхньому місці з'являються два нових.</AG_UnstableMutationMajor.description>
+  
+</LanguageData>

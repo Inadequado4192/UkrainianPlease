@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+   <VEF_SecondaryAcidBurn.label>Кислотний опік</VEF_SecondaryAcidBurn.label>
+   <VEF_SecondaryAcidBurn.deathMessage>{0} був роз'їдений до кісток.</VEF_SecondaryAcidBurn.deathMessage>
+   
+   <VEF_PermanentBurn.label>Постійний опік</VEF_PermanentBurn.label>
+   <VEF_PermanentBurn.deathMessage>{0} згорів живцем.</VEF_PermanentBurn.deathMessage>
+</LanguageData>

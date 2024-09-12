@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+   <VEF_AcidBuildup.label>кислотний опік</VEF_AcidBuildup.label>
+   <VEF_AcidBuildup.description>Всплеск кислоти, що опікає шкіру протягом деякого часу.</VEF_AcidBuildup.description>
+   <VEF_AcidBuildup.stages.minor_receiving_burns.label>Невеликі опіки</VEF_AcidBuildup.stages.minor_receiving_burns.label> 
+   <VEF_AcidBuildup.stages.moderate_receiving_burns.label>Помірні опіки</VEF_AcidBuildup.stages.moderate_receiving_burns.label>
+   <VEF_AcidBuildup.stages.serious_receiving_burns.label>Сильні опіки</VEF_AcidBuildup.stages.serious_receiving_burns.label>
+
+   <VEF_AcidBurn.label>кислотний опік</VEF_AcidBurn.label>
+   <VEF_AcidBurn.description>Кислотний опік.</VEF_AcidBurn.description>
+   <VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>шрам від кислотного опіку</VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+   <VEF_AcidBurn.labelNoun>Кислотний опік.</VEF_AcidBurn.labelNoun>
+   <VEF_AcidBurn.labelNounPretty>{0} на {1}</VEF_AcidBurn.labelNounPretty>
+   <!--
+   <VEF_AcidBurn.injuryProps.destroyedLabel>Роз'їдено</VEF_AcidBurn.injuryProps.destroyedLabel>
+   <VEF_AcidBurn.injuryProps.destroyedOutLabel>Роз'їдено</VEF_AcidBurn.injuryProps.destroyedOutLabel> -->
+   
+   <VEF_LightSustenance.label>рівень сонячного світла</VEF_LightSustenance.label>
+   <VEF_LightSustenance.description>Ця істота живиться сонячним світлом. Недостатній рівень освітлення вб'є його.</VEF_LightSustenance.description> 
+   <VEF_LightSustenance.stages.adequate_light.label>Достатня кількість світла</VEF_LightSustenance.stages.adequate_light.label>
+   <VEF_LightSustenance.stages.poor_light_levels.label>Погані умови освітлення</VEF_LightSustenance.stages.poor_light_levels.label>
+   <VEF_LightSustenance.stages.very_low_light_levels.label>Дуже погані умови освітлення</VEF_LightSustenance.stages.very_low_light_levels.label>
+   <VEF_LightSustenance.stages.lack_of_sunlight.label>Нестача сонячного світла</VEF_LightSustenance.stages.lack_of_sunlight.label>
+   <VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>Гостра нестача сонячного світла</VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>
+   
+   <VEF_ToxicBuildup.label>отруєння токсинами</VEF_ToxicBuildup.label>
+   <VEF_ToxicBuildup.description>Токсини в крові. Вони можуть надходити з різних джерел, включаючи токсини з навколишнього середовища, укуси отруйних комах або отруєну зброю.\nУ високих дозах накопичення токсинів є смертельним. Навіть у малих дозах вони можуть викликати рак.\nНа відміну від стандартних правил гри, істот, які померли від токсичних ушкоджень, можна з'їсти.</VEF_ToxicBuildup.description>
+   <VEF_ToxicBuildup.stages.initial-0.label>Початкове</VEF_ToxicBuildup.stages.initial-0.label>
+   <VEF_ToxicBuildup.stages.initial-1.label>Початкове</VEF_ToxicBuildup.stages.initial-1.label>
+   <VEF_ToxicBuildup.stages.minor.label>Легке</VEF_ToxicBuildup.stages.minor.label>
+   <VEF_ToxicBuildup.stages.moderate.label>Помірне</VEF_ToxicBuildup.stages.moderate.label>
+   <VEF_ToxicBuildup.stages.serious.label>Сильне</VEF_ToxicBuildup.stages.serious.label>
+   <VEF_ToxicBuildup.stages.extreme.label>Смертельне</VEF_ToxicBuildup.stages.extreme.label> 
+   
+   <VFEP_HypothermicSlowdown.label>гіпотермія</VFEP_HypothermicSlowdown.label>
+   <VFEP_HypothermicSlowdown.description>Небезпечно низька температура тіла. Якщо не зігріти - гіпотермія пошириться і закінчиться смертю. Відновлення відбувається швидко, як тільки потерпілого зігрівають.</VFEP_HypothermicSlowdown.description>
+   <VFEP_HypothermicSlowdown.stages.minor-0.label>Початкова</VFEP_HypothermicSlowdown.stages.minor-0.label>
+   <VFEP_HypothermicSlowdown.stages.minor-1.label>Легка</VFEP_HypothermicSlowdown.stages.minor-1.label>
+   <VFEP_HypothermicSlowdown.stages.moderate.label>Сильна</VFEP_HypothermicSlowdown.stages.moderate.label>
+   <VFEP_HypothermicSlowdown.stages.serious.label>Помірна</VFEP_HypothermicSlowdown.stages.serious.label>
+   <VFEP_HypothermicSlowdown.stages.extreme.label>Смертельна</VFEP_HypothermicSlowdown.stages.extreme.label>
+   
+   <VEF_PermanentBurn.label>постійний опік</VEF_PermanentBurn.label>
+   <VEF_PermanentBurn.description>Постійний шрам від опіку, який неможливо вилікувати.</VEF_PermanentBurn.description>
+   <VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>постійний опік</VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+   <VEF_PermanentBurn.injuryProps.destroyedLabel>Згорів</VEF_PermanentBurn.injuryProps.destroyedLabel>
+   <VEF_PermanentBurn.injuryProps.destroyedOutLabel>Вигорів</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
+   <VEF_PermanentBurn.labelNoun>постійний опік</VEF_PermanentBurn.labelNoun>
+   <VEF_PermanentBurn.labelNounPretty>{0} на {1}</VEF_PermanentBurn.labelNounPretty>
+</LanguageData>

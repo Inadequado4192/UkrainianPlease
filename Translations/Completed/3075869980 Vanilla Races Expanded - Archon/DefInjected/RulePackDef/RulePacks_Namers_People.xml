@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NamerPersonTranscendent.rulePack.rulesStrings.0>r_name(p=2)->[archoNoun][archoMiddleSyl] [archoMiddleSyl][archoEndSyl]</NamerPersonTranscendent.rulePack.rulesStrings.0>
+  <NamerPersonTranscendent.rulePack.rulesStrings.1>r_name->[archoBeginSyl][archoEndSyl] [archoNoun]</NamerPersonTranscendent.rulePack.rulesStrings.1>
+  <NamerPersonTranscendent.rulePack.rulesStrings.2>r_name->[archoBeginSyl][archoMiddleSyl] [archoMiddleSyl][archoEndSyl]</NamerPersonTranscendent.rulePack.rulesStrings.2>
+  <NamerPersonTranscendent.rulePack.rulesStrings.3>r_name->[archoBeginSyl][archoEndSyl] [archoBeginSyl][archoEndSyl]</NamerPersonTranscendent.rulePack.rulesStrings.3>
+  <NamerPersonTranscendent.rulePack.rulesStrings.4>r_name->[archoBeginSyl][archoMiddleSyl] [archoEndSyl]</NamerPersonTranscendent.rulePack.rulesStrings.4>
+  <NamerPersonTranscendent.rulePack.rulesStrings.5>archoNoun->зар</NamerPersonTranscendent.rulePack.rulesStrings.5>
+  <NamerPersonTranscendent.rulePack.rulesStrings.6>archoNoun->кі</NamerPersonTranscendent.rulePack.rulesStrings.6>
+  <NamerPersonTranscendent.rulePack.rulesStrings.7>archoNoun->янк</NamerPersonTranscendent.rulePack.rulesStrings.7>
+  <NamerPersonTranscendent.rulePack.rulesStrings.8>archoNoun->віт</NamerPersonTranscendent.rulePack.rulesStrings.8>
+  <NamerPersonTranscendent.rulePack.rulesStrings.9>archoNoun->лак</NamerPersonTranscendent.rulePack.rulesStrings.9>
+  <NamerPersonTranscendent.rulePack.rulesStrings.10>archoNoun->рейс</NamerPersonTranscendent.rulePack.rulesStrings.10>
+  <NamerPersonTranscendent.rulePack.rulesStrings.11>archoNoun->архо</NamerPersonTranscendent.rulePack.rulesStrings.11>
+  <NamerPersonTranscendent.rulePack.rulesStrings.12>archoNoun->зера</NamerPersonTranscendent.rulePack.rulesStrings.12>
+  <NamerPersonTranscendent.rulePack.rulesStrings.13>archoNoun->тра</NamerPersonTranscendent.rulePack.rulesStrings.13>
+  <NamerPersonTranscendent.rulePack.rulesStrings.14>archoNoun->варк</NamerPersonTranscendent.rulePack.rulesStrings.14>
+  <NamerPersonTranscendent.rulePack.rulesStrings.15>archoNoun->ріл</NamerPersonTranscendent.rulePack.rulesStrings.15>
+  <NamerPersonTranscendent.rulePack.rulesStrings.16>archoNoun->зал</NamerPersonTranscendent.rulePack.rulesStrings.16>
+  <NamerPersonTranscendent.rulePack.rulesStrings.17>archoBeginSyl->зар</NamerPersonTranscendent.rulePack.rulesStrings.17>
+  <NamerPersonTranscendent.rulePack.rulesStrings.18>archoBeginSyl->кі</NamerPersonTranscendent.rulePack.rulesStrings.18>
+  <NamerPersonTranscendent.rulePack.rulesStrings.19>archoBeginSyl->янк</NamerPersonTranscendent.rulePack.rulesStrings.19>
+  <NamerPersonTranscendent.rulePack.rulesStrings.20>archoBeginSyl->віт</NamerPersonTranscendent.rulePack.rulesStrings.20>
+  <NamerPersonTranscendent.rulePack.rulesStrings.21>archoBeginSyl->тра</NamerPersonTranscendent.rulePack.rulesStrings.21>
+  <NamerPersonTranscendent.rulePack.rulesStrings.22>archoBeginSyl->варк</NamerPersonTranscendent.rulePack.rulesStrings.22>
+  <NamerPersonTranscendent.rulePack.rulesStrings.23>archoBeginSyl->ріл</NamerPersonTranscendent.rulePack.rulesStrings.23>
+  <NamerPersonTranscendent.rulePack.rulesStrings.24>archoBeginSyl->зал</NamerPersonTranscendent.rulePack.rulesStrings.24>
+  <NamerPersonTranscendent.rulePack.rulesStrings.25>archoBeginSyl->драк</NamerPersonTranscendent.rulePack.rulesStrings.25>
+  <NamerPersonTranscendent.rulePack.rulesStrings.26>archoBeginSyl->тор</NamerPersonTranscendent.rulePack.rulesStrings.26>
+  <NamerPersonTranscendent.rulePack.rulesStrings.27>archoBeginSyl->тір</NamerPersonTranscendent.rulePack.rulesStrings.27>
+  <NamerPersonTranscendent.rulePack.rulesStrings.28>archoMiddleSyl->лак</NamerPersonTranscendent.rulePack.rulesStrings.28>
+  <NamerPersonTranscendent.rulePack.rulesStrings.29>archoMiddleSyl->рай</NamerPersonTranscendent.rulePack.rulesStrings.29>
+  <NamerPersonTranscendent.rulePack.rulesStrings.30>archoMiddleSyl->архо</NamerPersonTranscendent.rulePack.rulesStrings.30>
+  <NamerPersonTranscendent.rulePack.rulesStrings.31>archoMiddleSyl->зера</NamerPersonTranscendent.rulePack.rulesStrings.31>
+  <NamerPersonTranscendent.rulePack.rulesStrings.32>archoMiddleSyl->тор</NamerPersonTranscendent.rulePack.rulesStrings.32>
+  <NamerPersonTranscendent.rulePack.rulesStrings.33>archoMiddleSyl->драк</NamerPersonTranscendent.rulePack.rulesStrings.33>
+  <NamerPersonTranscendent.rulePack.rulesStrings.34>archoMiddleSyl->лір</NamerPersonTranscendent.rulePack.rulesStrings.34>
+  <NamerPersonTranscendent.rulePack.rulesStrings.35>archoMiddleSyl->варк</NamerPersonTranscendent.rulePack.rulesStrings.35>
+  <NamerPersonTranscendent.rulePack.rulesStrings.36>archoMiddleSyl->тра</NamerPersonTranscendent.rulePack.rulesStrings.36>
+  <NamerPersonTranscendent.rulePack.rulesStrings.37>archoEndSyl->тх</NamerPersonTranscendent.rulePack.rulesStrings.37>
+  <NamerPersonTranscendent.rulePack.rulesStrings.38>archoEndSyl->кі</NamerPersonTranscendent.rulePack.rulesStrings.38>
+  <NamerPersonTranscendent.rulePack.rulesStrings.39>archoEndSyl->зар</NamerPersonTranscendent.rulePack.rulesStrings.39>
+  <NamerPersonTranscendent.rulePack.rulesStrings.40>archoEndSyl->варк</NamerPersonTranscendent.rulePack.rulesStrings.40>
+  <NamerPersonTranscendent.rulePack.rulesStrings.41>archoEndSyl->лір</NamerPersonTranscendent.rulePack.rulesStrings.41>
+  <NamerPersonTranscendent.rulePack.rulesStrings.42>archoEndSyl->варк</NamerPersonTranscendent.rulePack.rulesStrings.42>
+  <NamerPersonTranscendent.rulePack.rulesStrings.43>archoEndSyl->тра</NamerPersonTranscendent.rulePack.rulesStrings.43>
+  <NamerPersonTranscendent.rulePack.rulesStrings.44>archoEndSyl->зал</NamerPersonTranscendent.rulePack.rulesStrings.44>
+  <NamerPersonTranscendent.rulePack.rulesStrings.45>archoEndSyl->драк</NamerPersonTranscendent.rulePack.rulesStrings.45>
+
+
+</LanguageData>

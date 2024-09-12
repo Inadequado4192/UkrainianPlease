@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VTE_BondedAnimalDiedHater.stages.bonded_animal_died.label>{0}, прив'язана тварина, померла</VTE_BondedAnimalDiedHater.stages.bonded_animal_died.label>
+  <VTE_BondedAnimalDiedHater.stages.bonded_animal_died.description>Така бридка, набридлива тварина. Я рада, що її більше немає!</VTE_BondedAnimalDiedHater.stages.bonded_animal_died.description>
+  
+  <VTE_BondedAnimalLostHater.stages.bonded_animal_lost.label>{0}, прив'язана тварина, загубилась</VTE_BondedAnimalLostHater.stages.bonded_animal_lost.label>
+  <VTE_BondedAnimalLostHater.stages.bonded_animal_lost.description>Така бридка, набридлива тварина. Я рада, що її більше немає!</VTE_BondedAnimalLostHater.stages.bonded_animal_lost.description>
+  
+  <VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.label>{0}, прив'язана тварина, загубилась</VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.label>
+  <VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.description>Мою прив'язану тварину нарешті вигнали.</VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.description>
+  
+  <VTE_NuzzledHater.stages.nuzzled.label>Неприємна ласка</VTE_NuzzledHater.stages.nuzzled.label>
+  <VTE_NuzzledHater.stages.nuzzled.description>Огидна тварина притулилася до мене.</VTE_NuzzledHater.stages.nuzzled.description>
+  
+  <VTE_KilledMyBondedAnimalHater.stages.killed_my_bonded_animal.label>вбито мою прив'язану тварину</VTE_KilledMyBondedAnimalHater.stages.killed_my_bonded_animal.label>
+  
+  <VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.label>прив'язану тварину віддали.</VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.label>
+  <VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.description>Мою прив'язану тваринку віддали, нарешті!</VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.description>
+  <VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.labelSocial>віддано мою прив'язану тварину.</VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.labelSocial>
+  
+  <VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.label>прив'язану тварину віддали</VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.label>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.description>Мою прив'язану тваринку віддали, нарешті!</VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.description>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.labelSocial>віддано мою прив'язану тварину</VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.labelSocial>
+  
+  <VTE_KilledColonyAnimalHater.stages.killed_colony_animal.label>вбито тварину поселення</VTE_KilledColonyAnimalHater.stages.killed_colony_animal.label>
+  
+  <VTE_BondedAnimalMasterHater.stages.s_master.label>{PAWN_gender ? господар : господарка} {0}</VTE_BondedAnimalMasterHater.stages.s_master.label>
+  <VTE_BondedAnimalMasterHater.stages.s_master.description>Перебування поруч із цією гидотою змушує мене ненавидіти саме життя.</VTE_BondedAnimalMasterHater.stages.s_master.description>
+  
+  <VTE_BondedAnimalMasterHater.stages.master_of.label>{PAWN_gender ? господар : господарка} {0}</VTE_BondedAnimalMasterHater.stages.master_of.label>
+  <VTE_BondedAnimalMasterHater.stages.master_of.description>Перебування поруч із цією гидотою змушує мене ненавидіти саме життя.</VTE_BondedAnimalMasterHater.stages.master_of.description>
+  
+  <VTE_NotBondedAnimalMasterHater.stages.not_s_master.label>{0} - більше не {PAWN_gender ? господар : господарка}</VTE_NotBondedAnimalMasterHater.stages.not_s_master.label>
+  <VTE_NotBondedAnimalMasterHater.stages.not_s_master.description>Можливо, я й подобаюсь цій... штуці, але вона точно не подобається мені- я рад{PAWN_gender ? ий : а}, що хтось інший забрав її.</VTE_NotBondedAnimalMasterHater.stages.not_s_master.description>
+  
+  <VTE_NotBondedAnimalMasterHater.stages.not_master_of.label>{0} - більше не {PAWN_gender ? господар : господарка}</VTE_NotBondedAnimalMasterHater.stages.not_master_of.label>
+  <VTE_NotBondedAnimalMasterHater.stages.not_master_of.description>Можливо, я й подобаюсь цій... штуці, але вона точно не подобається мені- я рад{PAWN_gender ? ий : а}, що хтось інший забрав її.</VTE_NotBondedAnimalMasterHater.stages.not_master_of.description>
+  
+  <VTE_CreatedLowQualityItem.stages.Created_low_quality_item.label>Створи{PAWN_gender ? в : ла} неякісний предмет</VTE_CreatedLowQualityItem.stages.Created_low_quality_item.label>
+  <VTE_CreatedLowQualityItem.stages.Created_low_quality_item.description>Я створи{PAWN_gender ? в : ла} мотлох. Відчуваю, що нічого не можу зробити правильно.</VTE_CreatedLowQualityItem.stages.Created_low_quality_item.description>
+  
+  <VTE_CouldNotFinishItem.stages.ould_not_finish_item.label>Не заверши{PAWN_gender ? в : ла} проєкт</VTE_CouldNotFinishItem.stages.ould_not_finish_item.label>
+  <VTE_CouldNotFinishItem.stages.ould_not_finish_item.description>Я не {PAWN_gender ? зміг : змогла} закінчити свій проєкт, він просто не йшов належним чином.</VTE_CouldNotFinishItem.stages.ould_not_finish_item.description>
+  
+  <VTE_PassionateCleaningWork.stages.Passionately_cleaning.label>Захопливе прибирання</VTE_PassionateCleaningWork.stages.Passionately_cleaning.label>
+  <VTE_PassionateCleaningWork.stages.Passionately_cleaning.description>Насправді, мені дуже подобається прибирати це місце.</VTE_PassionateCleaningWork.stages.Passionately_cleaning.description>
+  
+  <VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.label>Мої вороги живі</VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.label>
+  <VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.description>Ненавиджу їх. Чому вони мають заслуговувати право на життя?</VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.description>
+  
+  <VTE_MechanoidIsKilled.stages.Mechanoid_died.label>Механоїд помер</VTE_MechanoidIsKilled.stages.Mechanoid_died.label>
+  <VTE_MechanoidIsKilled.stages.Mechanoid_died.description>Ці машини зла не заслуговують на існування.</VTE_MechanoidIsKilled.stages.Mechanoid_died.description>
+  
+  <VTE_ObservedManyBlood.stages.observed_much_blood.label>Бачи{PAWN_gender ? в : ла} забагато крові</VTE_ObservedManyBlood.stages.observed_much_blood.label>
+  <VTE_ObservedManyBlood.stages.observed_much_blood.description>Я бачи{PAWN_gender ? в : ла} стільки крові і шматків... Як згадаю про це, мене нудить.</VTE_ObservedManyBlood.stages.observed_much_blood.description>
+  
+  <VTE_WatchedTelevisor.stages.Watched_television_recently.label>Нещодавно диви{PAWN_gender ? вся : лася} телевізор</VTE_WatchedTelevisor.stages.Watched_television_recently.label>
+  <VTE_WatchedTelevisor.stages.Watched_television_recently.description>Мені довелось ледарювати і дивитися повтори "Хата на тата".</VTE_WatchedTelevisor.stages.Watched_television_recently.description>
+  
+  <VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.label>Немає лабораторії</VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.label>
+  <VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.description>Мені ніде спокійно займатися дослідженнями, як же це дратує.</VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.description>
+  
+  <VTE_AnimalsInColony.stages.No_animals_in_the_colony.label>У поселені немає тварин</VTE_AnimalsInColony.stages.No_animals_in_the_colony.label>
+  <VTE_AnimalsInColony.stages.No_animals_in_the_colony.description>У нас нема жодної тварини.</VTE_AnimalsInColony.stages.No_animals_in_the_colony.description>
+  
+  <VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.label>У поселені майже немає тварин</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.label>
+  <VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.description>У нас майже немає тварин, це відстій.</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.description>
+  
+  <VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.label>У поселені майже немає тварин</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.label>
+  <VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.description>У нас майже немає тварин, це відстій.</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.description>
+  
+  <VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.label>У поселені майже немає тварин</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.label>
+  <VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.description>У нас майже немає тварин, це відстій.</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.description>
+  
+  <VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.label>Кілька тварин у поселені</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.label>
+  <VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.description>У нас є кілька тварин у поселені, це приємно.</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.description>
+  
+  <VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.label>Кілька тварин у поселені</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.label>
+  <VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.description>У нас є кілька тварин у поселені, це приємно.</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.description>
+  
+  <VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.label>Трохи тварин у поселені</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.label>
+  <VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.description>Зараз у нас є пристойна кількість тварин, ми на шляху до пристойної колекції.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.description>
+ 
+  <VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.label>Трохи тварин у поселені</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.label>
+  <VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.description>Зараз у нас є пристойна кількість тварин, ми на шляху до пристойної колекції.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.description>
+  
+  <VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.label>Трохи тварин у поселені</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.label>
+  <VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.description>Зараз у нас є пристойна кількість тварин, ми на шляху до пристойної колекції.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.description>
+  
+  <VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.label>Трохи тварин у поселені</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.label>
+  <VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.description>Зараз у нас є пристойна кількість тварин, ми на шляху до пристойної колекції.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.description>
+  
+  <VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.label>Багато тварин у поселені</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.label>
+  <VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.description>Зараз у нас багато тварин у поселені, вони чудові.</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.description>
+  
+  <VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.label>Багато тварин у поселені</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.label>
+  <VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.description>Зараз у нас багато тварин у поселені, вони чудові.</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.description>
+  
+  <VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.label>Багато тварин у поселені</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.label>
+  <VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.description>Зараз у нас багато тварин у поселені, вони чудові.</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.description>
+  
+  <VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.label>Тонна тварин у поселені</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.label>
+  <VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.description>У нас тепер так багато тварин! Я {PAWN_gender ? такий щасливий : така щаслива} бачити їх усіх!</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.description>
+  
+  <VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.label>Тонна тварин у поселені</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.label>
+  <VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.description>У нас тепер так багато тварин! Я {PAWN_gender ? такий щасливий : така щаслива} бачити їх усіх!</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.description>
+ 
+  <VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.label>Тонна тварин у поселені</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.label>
+  <VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.description>У нас тепер так багато тварин! Я {PAWN_gender ? такий щасливий : така щаслива} бачити їх усіх!</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.description>
+ 
+  <VTE_ChildOfSea.stages.Ocean_lover.label>Біля океану</VTE_ChildOfSea.stages.Ocean_lover.label>
+  <VTE_ChildOfSea.stages.Ocean_lover.description>Обожнюю бувати біля океану та річок, вода прекрасна.</VTE_ChildOfSea.stages.Ocean_lover.description>
+  
+  <VTE_ChildOfMountain.stages.Mountain_lover.label>Біля гори</VTE_ChildOfMountain.stages.Mountain_lover.label>
+  <VTE_ChildOfMountain.stages.Mountain_lover.description>Обожнюю бувати в горах, від них в мене перехоплює подих.</VTE_ChildOfMountain.stages.Mountain_lover.description>
+  
+  <VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.label>Давно не виріза{PAWN_gender ? в : ла} органи</VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.label>
+  <VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.description>Я стаю нетерпляч{PAWN_gender ? им : ою} і нудьгую, мені потрібно більше піддослідних.</VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.description>
+  
+  <VTE_HarvestedOrgans.stages.Harvested_organs.label>Виріза{PAWN_gender ? в : ла} органи</VTE_HarvestedOrgans.stages.Harvested_organs.label>
+  <VTE_HarvestedOrgans.stages.Harvested_organs.description>Операція пройшла так, як і очікувалося, моя колекція поповнилася.</VTE_HarvestedOrgans.stages.Harvested_organs.description>
+ 
+  <VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.label>Давно не подорожува{PAWN_gender ? в : ла}</VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.label>
+  <VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.description>Я давно не виїжджа{PAWN_gender ? в із: ла з} поселення, тому дуже хочу помандрувати, для різноманітності.</VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.description>
+  
+  <VTE_SoakingWetChildOfTheSea.stages.soaking_wet.label>Промочи{PAWN_gender ? в : ла} ноги</VTE_SoakingWetChildOfTheSea.stages.soaking_wet.label>
+  <VTE_SoakingWetChildOfTheSea.stages.soaking_wet.description>Я промочи{PAWN_gender ? в : ла} ноги у воді. Приємненько.</VTE_SoakingWetChildOfTheSea.stages.soaking_wet.description>
+  
+  <VTE_EnvironmentDark.stages.darkness.label>Пітьма</VTE_EnvironmentDark.stages.darkness.label>
+  <VTE_EnvironmentDark.stages.darkness.description>Я деякий час бу{PAWN_gender ? в : ла} у темряві. Мені подобається.</VTE_EnvironmentDark.stages.darkness.description>
+  
+  <VTE_Dunce.stages.Dunce.label>Тупиця</VTE_Dunce.stages.Dunce.label>
+  <VTE_Dunce.stages.Dunce.description>Я не дуже розумію, чому всі завжди такі засмучені.</VTE_Dunce.stages.Dunce.description>
+</LanguageData>

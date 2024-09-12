@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sacrifice humanlike -->
+  <ReviaRaceSacrificeCorpse.label>Принести людськоподібну жертву</ReviaRaceSacrificeCorpse.label>
+  <!-- EN: Sacrifice a humanlike corpse to honour the bloody gods of the Revian pantheon. -->
+  <ReviaRaceSacrificeCorpse.description>Принести в жертву людиноподібний труп на честь богів крові ревійського пантеону.</ReviaRaceSacrificeCorpse.description>
+  <!-- EN: Sacrificing to the gods. -->
+  <ReviaRaceSacrificeCorpse.jobString>жертвує богам</ReviaRaceSacrificeCorpse.jobString>
+  
+</LanguageData>

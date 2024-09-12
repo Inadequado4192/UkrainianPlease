@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high mining yield -->
+  <AG_MiningYield_High.label>висока продуктивність видобутку</AG_MiningYield_High.label>
+  <!-- EN: Carriers of this gene are adept at mining and can acquire larger amounts of minerals from stone. -->
+  <AG_MiningYield_High.description>Носії цього гена вправні у видобутку корисних копалин і можуть видобувати з каменю більшу кількість мінералів.</AG_MiningYield_High.description>
+  <!-- EN: miner -->
+  <AG_MiningYield_High.labelShortAdj>шахтар</AG_MiningYield_High.labelShortAdj>
+  <!-- EN: metal -->
+  <AG_MiningYield_High.symbolPack.prefixSymbols.0.symbol>металл</AG_MiningYield_High.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: low mining yield -->
+  <AG_MiningYield_Low.label>низька продуктивність видобутку</AG_MiningYield_Low.label>
+  <!-- EN: Carriers of this gene are shoddy miners and can produce fewer amounts of minerals from stone. -->
+  <AG_MiningYield_Low.description>Носії цього гена є поганими шахтарями і можуть видобувати меншу кількість мінералів з каменю.</AG_MiningYield_Low.description>
+  <!-- EN: shoddy miner -->
+  <AG_MiningYield_Low.labelShortAdj>некваліфікований шахтар</AG_MiningYield_Low.labelShortAdj>
+  
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fission -->
+  <AG_AsexualFission.label>поділ</AG_AsexualFission.label>
+  <!-- EN: Will periodically generate small clumps of organic matter on their backs that gradually develop into full human beings, and separate from their host / parent via a process of strobilation. This will provide an endless source of new colonists, at the risk of flooding the colony with newborns. -->
+  <AG_AsexualFission.description>Періодично генеруватимуть невеликі згустки органічної речовини на спині, які поступово розвиватимуться в повноцінних людей і відокремлюватимуться від свого хазяїна/батька за допомогою процесу стробіляції. Це забезпечить нескінченне джерело нових колоністів, з ризиком затоплення колонії новонародженими.</AG_AsexualFission.description>
+  
+  <!-- EN: oviparous -->
+  <AG_HumanEggLaying.label>яйцекладна</AG_HumanEggLaying.label>
+  <!-- EN: Females with this gene will periodically lay eggs when fertilized. -->
+  <AG_HumanEggLaying.description>Самки з цим геном будуть періодично відкладати яйця при заплідненні.</AG_HumanEggLaying.description>
+  
+  <!-- EN: parasitic implantation -->
+  <AG_ParasiticImplantation.label>паразитична імплантація</AG_ParasiticImplantation.label>
+  <!-- EN: Affected by parasitic implantation. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the human larvae inside the parasitic eggs will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. -->
+  <AG_ParasiticImplantation.description>Постраждали від паразитичної імплантації. Якщо імплантація прогресує до ступеня 1, або якщо істота помирає, коли вона вже достатньо розвинулася (понад 90%), личинки людини, що знаходяться в яйцях паразитів, пожирають жертву зсередини і вилуплюються з її трупа. Період розвитку становить 15 днів.</AG_ParasiticImplantation.description>
+  <!-- EN: minor -->
+  <AG_ParasiticImplantation.stages.minor.label>незначна</AG_ParasiticImplantation.stages.minor.label>
+  <!-- EN: major -->
+  <AG_ParasiticImplantation.stages.major.label>серйозна</AG_ParasiticImplantation.stages.major.label>
+  <!-- EN: extreme -->
+  <AG_ParasiticImplantation.stages.extreme-0.label>екстремальна</AG_ParasiticImplantation.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <AG_ParasiticImplantation.stages.extreme-1.label>екстремальна</AG_ParasiticImplantation.stages.extreme-1.label>
+  
+</LanguageData>

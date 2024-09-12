@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acidic vomit -->
+  <AG_AcidicVomit.label>кисла блювота</AG_AcidicVomit.label>
+  
+  <!-- EN: gaze attack -->
+  <AG_GazeAttack.label>атака поглядом</AG_GazeAttack.label>
+  
+  <!-- EN: greater fire spew -->
+  <AG_GreaterFireSpew.label>великий вогневий викид</AG_GreaterFireSpew.label>
+  
+  <!-- EN: electric discharge -->
+  <AG_Lightning.label>електричний розряд</AG_Lightning.label>
+  
+  <!-- EN: mineral clump -->
+  <AG_Rocks.label>мінеральна грудка</AG_Rocks.label>
+  
+  <!-- EN: web -->
+  <AG_Web.label>павутина</AG_Web.label>
+  
+</LanguageData>

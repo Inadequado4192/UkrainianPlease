@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <thisIsWhereTheFunBegins.label>Тут й Починається Найцікавіше</thisIsWhereTheFunBegins.label>
+  <thisIsWhereTheFunBegins.description>Бути атакованим рейредами вперше</thisIsWhereTheFunBegins.description>
+  
+  <showMustGoOn.label>«Show Must Go On»</showMustGoOn.label>
+  <showMustGoOn.description>Дозволюте людині в чорному приєднатися до вашої колонії</showMustGoOn.description>
+  
+  <brrr.label>Брррр</brrr.label>
+  <brrr.description>Мати заморозки взимку</brrr.description>
+  
+  <phew.label>Фух</phew.label>
+  <phew.description>Мати хвилю спеки влітку</phew.description>
+  
+  <outOfTheFryingPan.label>З Пательні</outOfTheFryingPan.label>
+  <outOfTheFryingPan.description>Нехай колоніст прив'яжеться до свині</outOfTheFryingPan.description>
+  
+  <intoTheFire.label>На Шампур</intoTheFire.label>
+  <intoTheFire.description>Нехай прив'язана до колоніста свиня згорить у вогні</intoTheFire.description>
+  
+  <blitzkrieg.label>Бліцкриг</blitzkrieg.label>
+  <blitzkrieg.description>Знищити 5 баз фракцій</blitzkrieg.description>
+</LanguageData>

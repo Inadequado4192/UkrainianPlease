@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Cooking Expanded - Stews</name>
+        <id>2134312965</id>
+        <packageId>vanillaexpanded.vcookestews</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3200326635</sourceTranslationId>
+    <lastUpdate>2024-03-25T12:25:17.000Z</lastUpdate>
+</TranslationDetails>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: faster aging -->
+  <AG_FasterAging.label>прискорене старіння</AG_FasterAging.label>
+  <!-- EN: Carriers of this gene will age at an increased rate. This applies to both children and adults. This has its advantages and disadvantages. -->
+  <AG_FasterAging.description>Носії цього гена старіють швидше. Це стосується як дітей, так і дорослих. Це має свої переваги та недоліки.</AG_FasterAging.description>
+  <!-- EN: Age will advance 50% faster. -->
+  <AG_FasterAging.customEffectDescriptions.0>Вік буде йти на 50% швидше.</AG_FasterAging.customEffectDescriptions.0>
+  
+  <!-- EN: slower aging -->
+  <AG_SlowerAging.label>повільніше старіння</AG_SlowerAging.label>
+  <!-- EN: Carriers of this gene will age at a decreased rate. This applies to both children and adults. This has its advantages and disadvantages. -->
+  <AG_SlowerAging.description>Носії цього гена старіють повільніше. Це стосується як дітей, так і дорослих. Це має свої переваги та недоліки.</AG_SlowerAging.description>
+  <!-- EN: Age will advance 50% slower. -->
+  <AG_SlowerAging.customEffectDescriptions.0>Вік буде йти на 50% повільніше.</AG_SlowerAging.customEffectDescriptions.0>
+  
+</LanguageData>

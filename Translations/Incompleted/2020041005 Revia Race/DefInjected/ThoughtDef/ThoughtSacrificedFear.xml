@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: other prisoner sacrificed -->
+  <ReviaRaceThoughtSacrificedFear.stages.other_prisoner_sacrificed.label>інший в'язень принесений в жертву</ReviaRaceThoughtSacrificedFear.stages.other_prisoner_sacrificed.label>
+  <!-- EN: One of the other prisoners were sacrificed. I could hear their screams from my cell... -->
+  <ReviaRaceThoughtSacrificedFear.stages.other_prisoner_sacrificed.description>Одного з інших в'язнів принесли в жертву. Я {PAWN_gender ? чув : чула} їхні крики зі своєї камери...</ReviaRaceThoughtSacrificedFear.stages.other_prisoner_sacrificed.description>
+  
+</LanguageData>

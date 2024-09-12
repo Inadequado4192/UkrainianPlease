@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: angelic colonist -->
+  <AG_Awe.stages.angelic_colonist.label>янгольський колоніст</AG_Awe.stages.angelic_colonist.label>
+  <!-- EN: I can't get it out of my mind. How can anyone be SO beautiful? -->
+  <AG_Awe.stages.angelic_colonist.description>Я не можу викинути це з голови. Як можна бути такою красивою?</AG_Awe.stages.angelic_colonist.description>
+  
+  <!-- EN: smell of corpse-rotting gas -->
+  <AG_CorpseFeeding.stages.smell_of_corpserotting_gas.label>запах трупного газу</AG_CorpseFeeding.stages.smell_of_corpserotting_gas.label>
+  <!-- EN: The smell of putrid corpse bile and corpse-rotting gas is overpowering! -->
+  <AG_CorpseFeeding.stages.smell_of_corpserotting_gas.description>Запах гнилої трупної жовчі та трупного газу, що розкладається, просто нестерпний!</AG_CorpseFeeding.stages.smell_of_corpserotting_gas.description>
+  
+  <!-- EN: disgusting colonist -->
+  <AG_Disgust.stages.disgusting_colonist.label>огидний колоніст</AG_Disgust.stages.disgusting_colonist.label>
+  <!-- EN: I can't get it out of my mind. How can anyone be SO revolting and grotesque? -->
+  <AG_Disgust.stages.disgusting_colonist.description>Я не можу викинути це з голови. Як хтось може бути настільки огидним і жахливим?</AG_Disgust.stages.disgusting_colonist.description>
+  
+  <!-- EN: forcefully implanted by {0} -->
+  <AG_Implanted.stages.forcefully_implanted_by.label>примусово імплантований {0}</AG_Implanted.stages.forcefully_implanted_by.label>
+  <!-- EN: I was violated and stung. -->
+  <AG_Implanted.stages.forcefully_implanted_by.description>Мене побили і вжалили.</AG_Implanted.stages.forcefully_implanted_by.description>
+  
+  <!-- EN: forcefully implanted -->
+  <AG_Implanted_Social.stages.forcefully_implanted.label>примусово імплантований</AG_Implanted_Social.stages.forcefully_implanted.label>
+  
+  <!-- EN: parasitized by {0} -->
+  <AG_Parasite.stages.parasitized_by.label>паразити від {0}</AG_Parasite.stages.parasitized_by.label>
+  <!-- EN: I CAN FEEL THE EGGS MOVING INSIDE MY BODY! -->
+  <AG_Parasite.stages.parasitized_by.description>Я ВІДЧУВАЮ, ЯК ЯЙЦЯ РУХАЮТЬСЯ В МОЄМУ ТІЛІ!</AG_Parasite.stages.parasitized_by.description>
+  
+  <!-- EN: parasitized -->
+  <AG_Parasite_Social.stages.parasitized.label>паразитований</AG_Parasite_Social.stages.parasitized.label>
+  
+  <!-- EN: psychic drone -->
+  <AG_PsychicDrone.stages.psychic_drone.label>пси-дрон</AG_PsychicDrone.stages.psychic_drone.label>
+  <!-- EN: I feel calm and at peace -->
+  <AG_PsychicDrone.stages.psychic_drone.description>Я відчуваю спокій і гармонію</AG_PsychicDrone.stages.psychic_drone.description>
+  
+  <!-- EN: puked rats -->
+  <AG_PukedRats.stages.puked_rats.label>вирвало щурами</AG_PukedRats.stages.puked_rats.label>
+  <!-- EN: No matter how many times it happens, I'll never get used to this. -->
+  <AG_PukedRats.stages.puked_rats.description>Скільки б разів це не повторювалося, я ніколи до цього не звикну.</AG_PukedRats.stages.puked_rats.description>
+  
+  <!-- EN: sunlight sensitivity -->
+  <AG_SunlightSensitivity_Minor.stages.sunlight_sensitivity.label>чутливість до сонячного світла</AG_SunlightSensitivity_Minor.stages.sunlight_sensitivity.label>
+  <!-- EN: The sun hurts my eyes. -->
+  <AG_SunlightSensitivity_Minor.stages.sunlight_sensitivity.description>Від сонця болять очі.</AG_SunlightSensitivity_Minor.stages.sunlight_sensitivity.description>
+  
+  <!-- EN: afraid of water -->
+  <AG_Thalassophobia.stages.afraid_of_water.label>боїться води</AG_Thalassophobia.stages.afraid_of_water.label>
+  <!-- EN: I can't stand being near water! It terrifies me. -->
+  <AG_Thalassophobia.stages.afraid_of_water.description>Я не можу перебувати біля води! Вона мене лякає.</AG_Thalassophobia.stages.afraid_of_water.description>
+  
+</LanguageData>

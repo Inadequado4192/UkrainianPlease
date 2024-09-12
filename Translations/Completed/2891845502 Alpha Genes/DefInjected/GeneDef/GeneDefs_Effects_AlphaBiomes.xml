@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: red fogger -->
+  <AG_RedFogger.label>червоний туманник</AG_RedFogger.label>
+  <!-- EN: A distributed cloud of mechanites is interwoven with the DNA of the carrier. These mechanites have the ability of warping space via a psychic pinhole, causing an extradimensional red fog to coalesce around the carrier. -->
+  <AG_RedFogger.description>Розподілена хмара механітів переплітається з ДНК носія. Ці механіти мають здатність викривляти простір через екстрасенсорний отвір, спричиняючи позавимірний червоний туман, що згущується навколо носія.</AG_RedFogger.description>
+  <!-- EN: Causes a red fog weather to be always present around this person -->
+  <AG_RedFogger.customEffectDescriptions.0>Спричиняє погоду червоного туману, яка завжди буде присутня навколо цієї людини </AG_RedFogger.customEffectDescriptions.0>
+  <!-- EN: fog -->
+  <AG_RedFogger.symbolPack.prefixSymbols.0.symbol>туман</AG_RedFogger.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: fogger -->
+  <AG_RedFogger.symbolPack.prefixSymbols.1.symbol>туманник</AG_RedFogger.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: humid -->
+  <AG_RedFogger.symbolPack.prefixSymbols.2.symbol>вологий</AG_RedFogger.symbolPack.prefixSymbols.2.symbol>
+  
+</LanguageData>

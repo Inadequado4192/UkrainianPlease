@@ -1,0 +1,848 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--  Койот  -->
+  <!--coyote-->
+  <AEXP_Coyote.label>койот</AEXP_Coyote.label>
+  <AEXP_Coyote.labelFemale>койотиха</AEXP_Coyote.labelFemale>
+  <AEXP_Coyote.labelMale>койот</AEXP_Coyote.labelMale>
+  <!--coyotes-->
+  <AEXP_Coyote.labelPlural>койоти</AEXP_Coyote.labelPlural>
+  
+  <!--coyote puppy-->
+  <AEXP_Coyote.lifeStages.coyote_puppy.label>щеня койота</AEXP_Coyote.lifeStages.coyote_puppy.label>
+  <!--coyote puppies-->
+  <AEXP_Coyote.lifeStages.coyote_puppy.labelPlural>щенята койота</AEXP_Coyote.lifeStages.coyote_puppy.labelPlural>
+  
+  <AEXP_Coyote.lifeStages.1.labelFemale>молода койотиха</AEXP_Coyote.lifeStages.1.labelFemale>
+  <AEXP_Coyote.lifeStages.1.labelMale>молодий койот</AEXP_Coyote.lifeStages.1.labelMale>
+  <AEXP_Coyote.lifeStages.1.labelPlural>молоді койоти</AEXP_Coyote.lifeStages.1.labelPlural>
+  
+  <!--  Жирафа  -->
+  <!--giraffe-->
+  <AEXP_Giraffe.label>жирафа</AEXP_Giraffe.label>
+  <!--giraffes-->
+  <AEXP_Giraffe.labelPlural>жирафи</AEXP_Giraffe.labelPlural>
+  
+  <!--giraffe calf-->
+  <AEXP_Giraffe.lifeStages.giraffe_calf.label>жирафеня</AEXP_Giraffe.lifeStages.giraffe_calf.label>
+  <!--giraffe calves-->
+  <AEXP_Giraffe.lifeStages.giraffe_calf.labelPlural>жирафенята</AEXP_Giraffe.lifeStages.giraffe_calf.labelPlural>
+  
+  <AEXP_Giraffe.lifeStages.1.label>молода жирафа</AEXP_Giraffe.lifeStages.1.label>
+  <AEXP_Giraffe.lifeStages.1.labelPlural>молоді жирафи</AEXP_Giraffe.lifeStages.1.labelPlural>
+  
+  <!--  Бегемот  -->
+  <!--hippopotamus-->
+  <AEXP_Hippopotamus.label>бегемот</AEXP_Hippopotamus.label>
+  <AEXP_Hippopotamus.labelMale>бегемот</AEXP_Hippopotamus.labelMale>
+  <AEXP_Hippopotamus.labelFemale>бегемотиха</AEXP_Hippopotamus.labelFemale>
+  <!--hippopotami-->
+  <AEXP_Hippopotamus.labelPlural>бегемоти</AEXP_Hippopotamus.labelPlural>
+  
+  <!--hippopotamus calf-->
+  <AEXP_Hippopotamus.lifeStages.hippopotamus_calf.label>дитинча бегемота</AEXP_Hippopotamus.lifeStages.hippopotamus_calf.label>
+  <AEXP_Hippopotamus.lifeStages.hippopotamus_calf.labelPlural>дитинчата бегемота</AEXP_Hippopotamus.lifeStages.hippopotamus_calf.labelPlural>
+  
+  <AEXP_Hippopotamus.lifeStages.1.labelFemale>молода бегемотиха</AEXP_Hippopotamus.lifeStages.1.labelFemale>
+  <AEXP_Hippopotamus.lifeStages.1.labelMale>молодий бегемот</AEXP_Hippopotamus.lifeStages.1.labelMale>
+  <AEXP_Hippopotamus.lifeStages.1.labelPlural>молоді бегемоти</AEXP_Hippopotamus.lifeStages.1.labelPlural>
+  
+  <!--  Зебра  -->
+  <!--zebra-->
+  <AEXP_Zebra.label>зебра</AEXP_Zebra.label>
+  <AEXP_Zebra.labelPlural>зебри</AEXP_Zebra.labelPlural>
+  
+  <!--zebra foal-->
+  <AEXP_Zebra.lifeStages.zebra_foal.label>лоша зебри</AEXP_Zebra.lifeStages.zebra_foal.label>
+  <!--zebra foals-->
+  <AEXP_Zebra.lifeStages.zebra_foal.labelPlural>лошата зебри</AEXP_Zebra.lifeStages.zebra_foal.labelPlural>
+  
+  <AEXP_Zebra.lifeStages.1.label>молода зебра</AEXP_Zebra.lifeStages.1.label>
+  <AEXP_Zebra.lifeStages.1.labelPlural>молоді зебри</AEXP_Zebra.lifeStages.1.labelPlural>
+  
+  <!--  Гну  -->
+  <!--wildebeest-->
+  <AEXP_Wildebeest.label>гну</AEXP_Wildebeest.label>
+  <!--wildebeest cow-->
+  <AEXP_Wildebeest.labelFemale>гну</AEXP_Wildebeest.labelFemale>
+  <!--wildebeest bull-->
+  <AEXP_Wildebeest.labelMale>гну</AEXP_Wildebeest.labelMale>
+  
+  <!--wildebeest calf-->
+  <AEXP_Wildebeest.lifeStages.wildebeest_calf.label>теля гну</AEXP_Wildebeest.lifeStages.wildebeest_calf.label>
+  <!--wildebeest calves-->
+  <AEXP_Wildebeest.lifeStages.wildebeest_calf.labelPlural>телята гну</AEXP_Wildebeest.lifeStages.wildebeest_calf.labelPlural>
+  
+  <AEXP_Wildebeest.lifeStages.1.labelFemale>молода гну</AEXP_Wildebeest.lifeStages.1.labelFemale>
+  <AEXP_Wildebeest.lifeStages.1.labelMale>молодий гну</AEXP_Wildebeest.lifeStages.1.labelMale>
+  <AEXP_Wildebeest.lifeStages.1.labelPlural>молоді гну</AEXP_Wildebeest.lifeStages.1.labelPlural>
+  
+  <!--  Крокодил  -->
+  <!--crocodile-->
+  <AEXP_Crocodile.label>крокодил</AEXP_Crocodile.label>
+  <AEXP_Crocodile.labelPlural>крокодили</AEXP_Crocodile.labelPlural>
+  
+  <AEXP_Crocodile.lifeStages.0.label>дитинча крокодила</AEXP_Crocodile.lifeStages.0.label>
+  <AEXP_Crocodile.lifeStages.0.labelPlural>дитинчата крокодила</AEXP_Crocodile.lifeStages.0.labelPlural>
+  
+  <AEXP_Crocodile.lifeStages.1.label>молодий крокодил</AEXP_Crocodile.lifeStages.1.label>
+  <AEXP_Crocodile.lifeStages.1.labelPlural>молоді крокодили</AEXP_Crocodile.lifeStages.1.labelPlural>
+  
+  <!--  Гепард  -->
+  <!--cheetah-->
+  <AEXP_Cheetah.label>гепард</AEXP_Cheetah.label>
+  <AEXP_Cheetah.labelFemale>гепардиха</AEXP_Cheetah.labelFemale>
+  <AEXP_Cheetah.labelMale>гепард</AEXP_Cheetah.labelMale>
+  <AEXP_Cheetah.labelPlural>гепарди</AEXP_Cheetah.labelPlural>
+  
+  <AEXP_Cheetah.lifeStages.0.label>гепарденя</AEXP_Cheetah.lifeStages.0.label>
+  <AEXP_Cheetah.lifeStages.0.labelPlural>гепарденята</AEXP_Cheetah.lifeStages.0.labelPlural>
+  
+  <AEXP_Cheetah.lifeStages.1.labelFemale>молода гепардиха</AEXP_Cheetah.lifeStages.1.labelFemale>
+  <AEXP_Cheetah.lifeStages.1.labelMale>молодий гепард</AEXP_Cheetah.lifeStages.1.labelMale>
+  <AEXP_Cheetah.lifeStages.1.labelPlural>молоді гепарди</AEXP_Cheetah.lifeStages.1.labelPlural>
+  
+  <!--  Бумбат  -->
+  <!--boombat-->
+  <AEXP_Boombat.label>бумбат</AEXP_Boombat.label>
+  <AEXP_Boombat.labelPlural>бумбати</AEXP_Boombat.labelPlural>
+  
+  <AEXP_Boombat.lifeStages.0.label>дитинча бумбата</AEXP_Boombat.lifeStages.0.label>
+  <AEXP_Boombat.lifeStages.0.labelPlural>дитинчата бумбата</AEXP_Boombat.lifeStages.0.labelPlural>
+  
+  <AEXP_Boombat.lifeStages.1.label>молодий бумбат</AEXP_Boombat.lifeStages.1.label>
+  <AEXP_Boombat.lifeStages.1.labelPlural>молоді бумбати</AEXP_Boombat.lifeStages.1.labelPlural>
+  
+  <!--  Кенгуру  -->
+  <!--kangaroo-->
+  <AEXP_Kangaroo.label>кенгуру</AEXP_Kangaroo.label>
+  
+  <AEXP_Kangaroo.lifeStages.0.label>кенгуреня</AEXP_Kangaroo.lifeStages.0.label>
+  <AEXP_Kangaroo.lifeStages.0.labelPlural>кенгуренята</AEXP_Kangaroo.lifeStages.0.labelPlural>
+  
+  <AEXP_Kangaroo.lifeStages.1.label>молоде кенгуру</AEXP_Kangaroo.lifeStages.1.label>
+  <AEXP_Kangaroo.lifeStages.1.labelPlural>молоді кенгуру</AEXP_Kangaroo.lifeStages.1.labelPlural>
+  
+  <!--  Коала  -->
+  <!--koala-->
+  <AEXP_Koala.label>коала</AEXP_Koala.label>
+  <AEXP_Koala.labelPlural>коали</AEXP_Koala.labelPlural>
+  
+  <AEXP_Koala.lifeStages.0.label>джой</AEXP_Koala.lifeStages.0.label>
+  <AEXP_Koala.lifeStages.0.labelPlural>джої</AEXP_Koala.lifeStages.0.labelPlural>
+  
+  <AEXP_Koala.lifeStages.1.label>молода коала</AEXP_Koala.lifeStages.1.label>
+  <AEXP_Koala.lifeStages.1.labelPlural>молоді коали</AEXP_Koala.lifeStages.1.labelPlural>
+  
+  <!--  Качкодзьоб  -->
+  <!--platypus-->
+  <AEXP_Platypus.label>качкодзьоб</AEXP_Platypus.label>
+  <AEXP_Platypus.labelPlural>качкодзьоби</AEXP_Platypus.labelPlural>
+  
+  <AEXP_Platypus.lifeStages.0.label>дитинча качкодзьоба</AEXP_Platypus.lifeStages.0.label>
+  <AEXP_Platypus.lifeStages.0.labelPlural>дитинчата качкодзьоба</AEXP_Platypus.lifeStages.0.labelPlural>
+  
+  <AEXP_Platypus.lifeStages.1.label>молодий качкодзьоб</AEXP_Platypus.lifeStages.1.label>
+  <AEXP_Platypus.lifeStages.1.labelPlural>молоді качкодзьоби</AEXP_Platypus.lifeStages.1.labelPlural>
+  
+  <!--  Видра  -->
+  <!--otter-->
+  <AEXP_Otter.label>видра</AEXP_Otter.label>
+  <AEXP_Otter.labelPlural>видри</AEXP_Otter.labelPlural>
+  
+  <AEXP_Otter.lifeStages.0.label>дитинча видри</AEXP_Otter.lifeStages.0.label>
+  <AEXP_Otter.lifeStages.0.labelPlural>дитинчата видри</AEXP_Otter.lifeStages.0.labelPlural>
+  
+  <AEXP_Otter.lifeStages.1.label>молода видра</AEXP_Otter.lifeStages.1.label>
+  <AEXP_Otter.lifeStages.1.labelPlural>молоді видри</AEXP_Otter.lifeStages.1.labelPlural>
+  
+  <!--  Арктичний койот  -->
+  <!--arctic coyote-->
+  <AEXP_ArcticCoyote.label>арктичний койот</AEXP_ArcticCoyote.label>
+  <AEXP_ArcticCoyote.labelFemale>арктична койотиха</AEXP_ArcticCoyote.labelFemale>
+  <AEXP_ArcticCoyote.labelMale>арктичний койот</AEXP_ArcticCoyote.labelMale>
+  <!--arctic coyotes-->
+  <AEXP_ArcticCoyote.labelPlural>арктичні койоти</AEXP_ArcticCoyote.labelPlural>
+  
+  <!--arctic coyote puppy-->
+  <AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.label>щеня арктичного койота</AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.label>
+  <!--arctic coyote puppies-->
+  <AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.labelPlural>щенята арктичного койота</AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.labelPlural>
+  
+  <AEXP_ArcticCoyote.lifeStages.1.labelFemale>молода арктична койотиха</AEXP_ArcticCoyote.lifeStages.1.labelFemale>
+  <AEXP_ArcticCoyote.lifeStages.1.labelMale>молодий арктичний койот</AEXP_ArcticCoyote.lifeStages.1.labelMale>
+  <AEXP_ArcticCoyote.lifeStages.1.labelPlural>молоді арктичні койоти</AEXP_ArcticCoyote.lifeStages.1.labelPlural>
+  
+  <!--  Чорний ведмідь  -->
+  <!--black bear-->
+  <AEXP_BlackBear.label>чорний ведмідь</AEXP_BlackBear.label>
+  <AEXP_BlackBear.labelFemale>чорна ведмедиха</AEXP_BlackBear.labelFemale>
+  <AEXP_BlackBear.labelMale>чорний ведмідь</AEXP_BlackBear.labelMale>
+  <AEXP_BlackBear.labelPlural>чорні ведміді</AEXP_BlackBear.labelPlural>
+  
+  <AEXP_BlackBear.lifeStages.0.label>ведмежа</AEXP_BlackBear.lifeStages.0.label>
+  <AEXP_BlackBear.lifeStages.0.labelPlural>ведмежата</AEXP_BlackBear.lifeStages.0.labelPlural>
+  
+  <AEXP_BlackBear.lifeStages.1.labelFemale>молода чорна ведмедиха</AEXP_BlackBear.lifeStages.1.labelFemale>
+  <AEXP_BlackBear.lifeStages.1.labelMale>молодий чорний ведмідь</AEXP_BlackBear.lifeStages.1.labelMale>
+  <AEXP_BlackBear.lifeStages.1.labelPlural>молоді чорні ведміді</AEXP_BlackBear.lifeStages.1.labelPlural>
+  
+  <!--  Абісинський кіт  -->
+  <!--abyssinian cat-->
+  <AEXP_CatAbyssinian.label>абісинський кіт</AEXP_CatAbyssinian.label>
+  <AEXP_CatAbyssinian.labelFemale>абісинська кішка</AEXP_CatAbyssinian.labelFemale>
+  <AEXP_CatAbyssinian.labelMale>абісинський кіт</AEXP_CatAbyssinian.labelMale>
+  <AEXP_CatAbyssinian.labelPlural>абісинські коти</AEXP_CatAbyssinian.labelPlural>
+  
+  <!--abyssinian kitten-->
+  <AEXP_CatAbyssinian.lifeStages.abyssinian_kitten.label>абісинське кошеня</AEXP_CatAbyssinian.lifeStages.abyssinian_kitten.label>
+  <AEXP_CatAbyssinian.lifeStages.abyssinian_kitten.labelPlural>абісинські кошенята</AEXP_CatAbyssinian.lifeStages.abyssinian_kitten.labelPlural>
+  
+  <AEXP_CatAbyssinian.lifeStages.1.labelFemale>абісинська молода кішка</AEXP_CatAbyssinian.lifeStages.1.labelFemale>
+  <AEXP_CatAbyssinian.lifeStages.1.labelMale>абісинський молодий кіт</AEXP_CatAbyssinian.lifeStages.1.labelMale>
+  <AEXP_CatAbyssinian.lifeStages.1.labelPlural>абісинські молоді коти</AEXP_CatAbyssinian.lifeStages.1.labelPlural>
+  
+  <!--  Бенгальський кіт  -->
+  <!--bengal cat-->
+  <AEXP_CatBengal.label>бенгальський кіт</AEXP_CatBengal.label>
+  <AEXP_CatBengal.labelFemale>бенгальська кішка</AEXP_CatBengal.labelFemale>
+  <AEXP_CatBengal.labelMale>бенгальський кіт</AEXP_CatBengal.labelMale>
+  <AEXP_CatBengal.labelPlural>бенгальські коти</AEXP_CatBengal.labelPlural>
+  
+  <!--bengal kitten-->
+  <AEXP_CatBengal.lifeStages.bengal_kitten.label>бенгальське кошеня</AEXP_CatBengal.lifeStages.bengal_kitten.label>
+  <AEXP_CatBengal.lifeStages.bengal_kitten.labelPlural>бенгальські кошенята</AEXP_CatBengal.lifeStages.bengal_kitten.labelPlural>
+  
+  <AEXP_CatBengal.lifeStages.1.labelFemale>бенгальська молода кішка</AEXP_CatBengal.lifeStages.1.labelFemale>
+  <AEXP_CatBengal.lifeStages.1.labelMale>бенгальський молодий кіт</AEXP_CatBengal.lifeStages.1.labelMale>
+  <AEXP_CatBengal.lifeStages.1.labelPlural>бенгальські молоді коти</AEXP_CatBengal.lifeStages.1.labelPlural>
+  
+  <!--  Британський короткошерстий кіт  -->
+  <!--british shorthair cat-->
+  <AEXP_CatBritishShorthair.label>британський короткошерстий кіт</AEXP_CatBritishShorthair.label>
+  <AEXP_CatBritishShorthair.labelFemale>британська короткошерста кішка</AEXP_CatBritishShorthair.labelFemale>
+  <AEXP_CatBritishShorthair.labelMale>британський короткошерстий кіт</AEXP_CatBritishShorthair.labelMale>
+  <AEXP_CatBritishShorthair.labelPlural>британські короткошерсті коти</AEXP_CatBritishShorthair.labelPlural>
+  
+  <!--british shorthair kitten-->
+  <AEXP_CatBritishShorthair.lifeStages.british_shorthair_kitten.label>британське короткошерсте кошеня</AEXP_CatBritishShorthair.lifeStages.british_shorthair_kitten.label>
+  <AEXP_CatBritishShorthair.lifeStages.british_shorthair_kitten.labelPlural>британські короткошерсті кошенята</AEXP_CatBritishShorthair.lifeStages.british_shorthair_kitten.labelPlural>
+  
+  <AEXP_CatBritishShorthair.lifeStages.1.labelFemale>молода британська короткошерста кішка</AEXP_CatBritishShorthair.lifeStages.1.labelFemale>
+  <AEXP_CatBritishShorthair.lifeStages.1.labelMale>молодий британський короткошерстий кіт</AEXP_CatBritishShorthair.lifeStages.1.labelMale>
+  <AEXP_CatBritishShorthair.lifeStages.1.labelPlural>молоді британські короткошерсті коти</AEXP_CatBritishShorthair.lifeStages.1.labelPlural>
+  
+  <!--  Мейн-кун  -->
+  <!--maine coon-->
+  <AEXP_CatMaineCoon.label>мейн-кун</AEXP_CatMaineCoon.label>
+  <AEXP_CatMaineCoon.labelPlural>мейн-куни</AEXP_CatMaineCoon.labelPlural>
+  
+  <!--maine coon kitten-->
+  <AEXP_CatMaineCoon.lifeStages.maine_coon_kitten.label>кошеня мейн-куна</AEXP_CatMaineCoon.lifeStages.maine_coon_kitten.label>
+  <AEXP_CatMaineCoon.lifeStages.maine_coon_kitten.labelPlural>кошенята мейн-куна</AEXP_CatMaineCoon.lifeStages.maine_coon_kitten.labelPlural>
+  
+  <AEXP_CatMaineCoon.lifeStages.1.label>молодий мейн-кун</AEXP_CatMaineCoon.lifeStages.1.label>
+  <AEXP_CatMaineCoon.lifeStages.1.labelPlural>молоді мейн-куни</AEXP_CatMaineCoon.lifeStages.1.labelPlural>
+  
+  <!--  Манчкін  -->
+  <!--munchkin cat-->
+  <AEXP_CatMunchkin.label>манчкін</AEXP_CatMunchkin.label>
+  <AEXP_CatMunchkin.labelPlural>манчкіни</AEXP_CatMunchkin.labelPlural>
+  
+  <!--munchkin kitten-->
+  <AEXP_CatMunchkin.lifeStages.munchkin_kitten.label>кошеня манчкіна</AEXP_CatMunchkin.lifeStages.munchkin_kitten.label>
+  <AEXP_CatMunchkin.lifeStages.munchkin_kitten.labelPlural>кошенята манчкіна</AEXP_CatMunchkin.lifeStages.munchkin_kitten.labelPlural>
+  
+  <AEXP_CatMunchkin.lifeStages.1.labelMale>молодий манчкін</AEXP_CatMunchkin.lifeStages.1.labelMale>
+  <AEXP_CatMunchkin.lifeStages.1.labelPlural>молоді манчкіни</AEXP_CatMunchkin.lifeStages.1.labelPlural>
+  
+  <!--  Норвезький лісовий кіт  -->
+  <!--norwegian forest cat-->
+  <AEXP_CatNorwegianForest.label>норвезький лісовий кіт</AEXP_CatNorwegianForest.label>
+  <AEXP_CatNorwegianForest.labelFemale>норвезька лісова кішка</AEXP_CatNorwegianForest.labelFemale>
+  <AEXP_CatNorwegianForest.labelMale>норвезький лісовий кіт</AEXP_CatNorwegianForest.labelMale>
+  <AEXP_CatNorwegianForest.labelPlural>норвезькі лісові коти</AEXP_CatNorwegianForest.labelPlural>
+						
+  <!--norwegian forest kitten-->
+  <AEXP_CatNorwegianForest.lifeStages.norwegian_forest_kitten.label>норвезьке лісове кошеня</AEXP_CatNorwegianForest.lifeStages.norwegian_forest_kitten.label>
+  <AEXP_CatNorwegianForest.lifeStages.norwegian_forest_kitten.labelPlural>норвезькі лісові кошенята</AEXP_CatNorwegianForest.lifeStages.norwegian_forest_kitten.labelPlural>
+  
+  <AEXP_CatNorwegianForest.lifeStages.1.labelFemale>молода норвезька лісова кішка</AEXP_CatNorwegianForest.lifeStages.1.labelFemale>
+  <AEXP_CatNorwegianForest.lifeStages.1.labelMale>молодий норвезький лісовий кіт</AEXP_CatNorwegianForest.lifeStages.1.labelMale>
+  <AEXP_CatNorwegianForest.lifeStages.1.labelPlural>молоді норвезькі лісові коти</AEXP_CatNorwegianForest.lifeStages.1.labelPlural>
+  
+  <!--  Перський кіт  -->
+  <!--persian cat-->
+  <AEXP_CatPersian.label>перський кіт</AEXP_CatPersian.label>
+  <AEXP_CatPersian.labelFemale>перська кішка</AEXP_CatPersian.labelFemale>
+  <AEXP_CatPersian.labelMale>перський кіт</AEXP_CatPersian.labelMale>
+  <AEXP_CatPersian.labelPlural>перські коти</AEXP_CatPersian.labelPlural>
+  
+  <!--persian kitten-->
+  <AEXP_CatPersian.lifeStages.persian_kitten.label>перське кошеня</AEXP_CatPersian.lifeStages.persian_kitten.label>
+  <AEXP_CatPersian.lifeStages.persian_kitten.labelPlural>перські кошенята</AEXP_CatPersian.lifeStages.persian_kitten.labelPlural>
+  
+  <AEXP_CatPersian.lifeStages.1.labelFemale>перська молода кішка</AEXP_CatPersian.lifeStages.1.labelFemale>
+  <AEXP_CatPersian.lifeStages.1.labelMale>перський молодий кіт</AEXP_CatPersian.lifeStages.1.labelMale>
+  <AEXP_CatPersian.lifeStages.1.labelPlural>перські молоді коти</AEXP_CatPersian.lifeStages.1.labelPlural>
+  
+  <!--  Сіамський кіт  -->
+  <!--siamese cat-->
+  <AEXP_CatSiamese.label>сіамський кіт</AEXP_CatSiamese.label>
+  <AEXP_CatSiamese.labelFemale>сіамська кішка</AEXP_CatSiamese.labelFemale>
+  <AEXP_CatSiamese.labelMale>сіамський кіт</AEXP_CatSiamese.labelMale>
+  <AEXP_CatSiamese.labelPlural>сіамські коти</AEXP_CatSiamese.labelPlural>
+
+  <!--siamese kitten-->
+  <AEXP_CatSiamese.lifeStages.siamese_kitten.label>сіамське кошеня</AEXP_CatSiamese.lifeStages.siamese_kitten.label>
+  <AEXP_CatSiamese.lifeStages.siamese_kitten.labelPlural>сіамські кошенята</AEXP_CatSiamese.lifeStages.siamese_kitten.labelPlural>
+  
+  <AEXP_CatSiamese.lifeStages.1.labelFemale>сіамська молода кішка</AEXP_CatSiamese.lifeStages.1.labelFemale>
+  <AEXP_CatSiamese.lifeStages.1.labelMale>сіамський молодий кіт</AEXP_CatSiamese.lifeStages.1.labelMale>
+  <AEXP_CatSiamese.lifeStages.1.labelPlural>сіамські молоді коти</AEXP_CatSiamese.lifeStages.1.labelPlural>
+  
+  <!--  Сомалійський кіт  -->
+  <!--somali cat-->
+  <AEXP_CatSomali.label>сомалійський кіт</AEXP_CatSomali.label>
+  <AEXP_CatSomali.labelFemale>сомалійська кішка</AEXP_CatSomali.labelFemale>
+  <AEXP_CatSomali.labelMale>сомалійський кіт</AEXP_CatSomali.labelMale>
+  <AEXP_CatSomali.labelPlural>сомалійські коти</AEXP_CatSomali.labelPlural>
+
+  <!--somali kitten-->
+  <AEXP_CatSomali.lifeStages.somali_kitten.label>сомалійське кошеня</AEXP_CatSomali.lifeStages.somali_kitten.label>
+  <AEXP_CatSomali.lifeStages.somali_kitten.labelPlural>сомалійські кошенята</AEXP_CatSomali.lifeStages.somali_kitten.labelPlural>
+  
+  <AEXP_CatSomali.lifeStages.1.labelFemale>сомалійська молода кішка</AEXP_CatSomali.lifeStages.1.labelFemale>
+  <AEXP_CatSomali.lifeStages.1.labelMale>сомалійський молодий кіт</AEXP_CatSomali.lifeStages.1.labelMale>
+  <AEXP_CatSomali.lifeStages.1.labelPlural>сомалійські молоді коти</AEXP_CatSomali.lifeStages.1.labelPlural>
+  
+  <!--  Сфінкс  -->
+  <!--sphynx cat-->
+  <AEXP_CatSphynx.label>сфінкс</AEXP_CatSphynx.label>
+  <AEXP_CatSphynx.labelPlural>сфінкси</AEXP_CatSphynx.labelPlural>
+  
+  <!--sphynx kitten-->
+  <AEXP_CatSphynx.lifeStages.sphynx_kitten.label>кошеня сфінкса</AEXP_CatSphynx.lifeStages.sphynx_kitten.label>
+  <AEXP_CatSphynx.lifeStages.sphynx_kitten.labelPlural>кошенята сфінкса</AEXP_CatSphynx.lifeStages.sphynx_kitten.labelPlural>
+  
+  <AEXP_CatSphynx.lifeStages.1.label>молодий сфінкс</AEXP_CatSphynx.lifeStages.1.label>
+  <AEXP_CatSphynx.lifeStages.1.labelPlural>молоді сфінкси</AEXP_CatSphynx.lifeStages.1.labelPlural>
+  
+  <!--  Гієна  -->
+  <!--hyena-->
+  <AEXP_Hyena.label>гієна</AEXP_Hyena.label>
+  <!--hyenas-->
+  <AEXP_Hyena.labelPlural>гієни</AEXP_Hyena.labelPlural>
+  
+  <!--hyena cub-->
+  <AEXP_Hyena.lifeStages.hyena_cub.label>кошеня гієни</AEXP_Hyena.lifeStages.hyena_cub.label>
+  <!--hyena cubs-->
+  <AEXP_Hyena.lifeStages.hyena_cub.labelPlural>кошенята гієни</AEXP_Hyena.lifeStages.hyena_cub.labelPlural>
+  
+  <AEXP_Hyena.lifeStages.1.label>молода гієна</AEXP_Hyena.lifeStages.1.label>
+  <AEXP_Hyena.lifeStages.1.labelPlural>молоді гієни</AEXP_Hyena.lifeStages.1.labelPlural>
+  
+  <!--  Пустельна черепаха  -->
+  <!--desert tortoise-->
+  <AEXP_DesertTortoise.label>пустельна черепаха</AEXP_DesertTortoise.label>
+  <AEXP_DesertTortoise.labelPlural>пустельні черепахи</AEXP_DesertTortoise.labelPlural>
+  
+  <AEXP_DesertTortoise.lifeStages.0.label>пустельне черепашеня</AEXP_DesertTortoise.lifeStages.0.label>
+  <AEXP_DesertTortoise.lifeStages.0.labelPlural>пустельні черепашенята</AEXP_DesertTortoise.lifeStages.0.labelPlural>
+  
+  <AEXP_DesertTortoise.lifeStages.1.label>молода пустельна черепаха</AEXP_DesertTortoise.lifeStages.1.label>
+  <AEXP_DesertTortoise.lifeStages.1.labelPlural>молоді пустельні черепахи</AEXP_DesertTortoise.lifeStages.1.labelPlural>
+  
+  <!--  Лев  -->
+  <!--lion-->
+  <AEXP_Lion.label>лев</AEXP_Lion.label>
+  <AEXP_Lion.labelFemale>левиця</AEXP_Lion.labelFemale>
+  <AEXP_Lion.labelMale>лев</AEXP_Lion.labelMale>
+  <!--lions-->
+  <AEXP_Lion.labelPlural>леви</AEXP_Lion.labelPlural>
+  
+  <!--lion cub-->
+  <AEXP_Lion.lifeStages.lion_cub.label>левеня</AEXP_Lion.lifeStages.lion_cub.label>
+  <!--lion cubs-->
+  <AEXP_Lion.lifeStages.lion_cub.labelPlural>левенята</AEXP_Lion.lifeStages.lion_cub.labelPlural>
+
+  <AEXP_Lion.lifeStages.1.labelFemale>молода левиця</AEXP_Lion.lifeStages.1.labelFemale>
+  <AEXP_Lion.lifeStages.1.labelMale>молодий лев</AEXP_Lion.lifeStages.1.labelMale>
+  <AEXP_Lion.lifeStages.1.labelPlural>молоді леви</AEXP_Lion.lifeStages.1.labelPlural>
+
+  <!--  Жилатьє  -->
+  <!--gila monster-->
+  <AEXP_GilaMonster.label>жилатьє</AEXP_GilaMonster.label>
+  
+  <AEXP_Lion.lifeStages.1.label>молодий жилатьє</AEXP_Lion.lifeStages.1.label>
+  <AEXP_Lion.lifeStages.1.labelPlural>молоді жилатьє</AEXP_Lion.lifeStages.1.labelPlural>
+  
+  <!--  Бігль  -->
+  <!--beagle-->
+  <AEXP_Beagle.label>бігль</AEXP_Beagle.label>
+  <!--beagles-->
+  <AEXP_Beagle.labelPlural>біглі</AEXP_Beagle.labelPlural>
+  
+  <!--beagle puppy-->
+  <AEXP_Beagle.lifeStages.beagle_puppy.label>щеня бігля</AEXP_Beagle.lifeStages.beagle_puppy.label>
+  <!--beagle puppies-->
+  <AEXP_Beagle.lifeStages.beagle_puppy.labelPlural>щенята бігля</AEXP_Beagle.lifeStages.beagle_puppy.labelPlural>
+  
+  <AEXP_Beagle.lifeStages.1.label>молодий бігль</AEXP_Beagle.lifeStages.1.label>
+  <AEXP_Beagle.lifeStages.1.labelPlural>молоді біглі</AEXP_Beagle.lifeStages.1.labelPlural>
+  
+  <!--  Чихуахуа  -->
+  <!--chihuahua-->
+  <AEXP_Chihuahua.label>чихуахуа</AEXP_Chihuahua.label>
+  <!--chihuahuas-->
+  <AEXP_Chihuahua.labelPlural>чихуахуа</AEXP_Chihuahua.labelPlural>
+  
+  <!--chihuahua puppy-->
+  <AEXP_Chihuahua.lifeStages.chihuahua_puppy.label>щеня чихуахуа</AEXP_Chihuahua.lifeStages.chihuahua_puppy.label>
+  <!--chihuahua puppies-->
+  <AEXP_Chihuahua.lifeStages.chihuahua_puppy.labelPlural>щенята чихуахуа</AEXP_Chihuahua.lifeStages.chihuahua_puppy.labelPlural>
+  
+  <AEXP_Chihuahua.lifeStages.1.label>молодий чихуахуа</AEXP_Chihuahua.lifeStages.1.label>
+  <AEXP_Chihuahua.lifeStages.1.labelPlural>молоді чихуахуа</AEXP_Chihuahua.lifeStages.1.labelPlural>
+  
+  <!--  Коргі  -->
+  <!--corgi-->
+  <AEXP_Corgi.label>коргі</AEXP_Corgi.label>
+  <!--corgis-->
+  <AEXP_Corgi.labelPlural>коргі</AEXP_Corgi.labelPlural>
+  
+  <!--corgi puppy-->
+  <AEXP_Corgi.lifeStages.corgi_puppy.label>щеня коргі</AEXP_Corgi.lifeStages.corgi_puppy.label>
+  <!--corgi puppies-->
+  <AEXP_Corgi.lifeStages.corgi_puppy.labelPlural>щенята коргі</AEXP_Corgi.lifeStages.corgi_puppy.labelPlural>
+  
+  <AEXP_Corgi.lifeStages.1.labelFemale>молода коргі</AEXP_Corgi.lifeStages.1.labelFemale>
+  <AEXP_Corgi.lifeStages.1.labelMale>молодий коргі</AEXP_Corgi.lifeStages.1.labelMale>
+  <AEXP_Corgi.lifeStages.1.labelPlural>молоді коргі</AEXP_Corgi.lifeStages.1.labelPlural>
+  
+  <!--  Французький бульдог  -->
+  <!--french bulldog-->
+  <AEXP_FrenchBulldog.label>французький бульдог</AEXP_FrenchBulldog.label>
+  <!--french bulldogs-->
+  <AEXP_FrenchBulldog.labelPlural>французькі бульдоги</AEXP_FrenchBulldog.labelPlural>
+  
+  <!--french bulldog puppy-->
+  <AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.label>щеня французького бульдога</AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.label>
+  <!--french bulldog puppies-->
+  <AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.labelPlural>щенята французького бульдога</AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.labelPlural>
+
+  <AEXP_FrenchBulldog.lifeStages.1.label>молодий французький бульдог</AEXP_FrenchBulldog.lifeStages.1.label>
+  <AEXP_FrenchBulldog.lifeStages.1.labelPlural>молоді французькі бульдоги</AEXP_FrenchBulldog.lifeStages.1.labelPlural>
+  
+  <!--  Німецька вівчарка  -->
+  <!--german shepherd-->
+  <AEXP_GermanShepherd.label>німецька вівчарка</AEXP_GermanShepherd.label>
+  <AEXP_GermanShepherd.labelPlural>німецькі вівчарки</AEXP_GermanShepherd.labelPlural>
+  
+  <!--german shepherd puppy-->
+  <AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.label>щеня німецької вівчарки</AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.label>
+  <!--german shepherd puppies-->
+  <AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.labelPlural>щенята німецької вівчарки</AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.labelPlural>
+  
+  <AEXP_GermanShepherd.lifeStages.1.label>молода німецька вівчарка</AEXP_GermanShepherd.lifeStages.1.label>
+  <AEXP_GermanShepherd.lifeStages.1.labelPlural>молоді німецькі вівчарки</AEXP_GermanShepherd.lifeStages.1.labelPlural>
+  
+  <!--  Німецький дог  -->
+  <!--great dane-->
+  <AEXP_GreatDane.label>німецький дог</AEXP_GreatDane.label>
+  <AEXP_GreatDane.labelPlural>німецькі доги</AEXP_GreatDane.labelPlural>
+  
+  <!--great dane puppy-->
+  <AEXP_GreatDane.lifeStages.great_dane_puppy.label>щеня німецького дога</AEXP_GreatDane.lifeStages.great_dane_puppy.label>
+  <!--great dane puppies-->
+  <AEXP_GreatDane.lifeStages.great_dane_puppy.labelPlural>щенята німецького дога</AEXP_GreatDane.lifeStages.great_dane_puppy.labelPlural>
+  
+  <AEXP_GreatDane.lifeStages.1.label>молодий німецький дог</AEXP_GreatDane.lifeStages.1.label>
+  <AEXP_GreatDane.lifeStages.1.labelPlural>молоді німецькі доги</AEXP_GreatDane.lifeStages.1.labelPlural>
+  
+  <!--  Пудель  -->
+  <!--poodle-->
+  <AEXP_Poodle.label>пудель</AEXP_Poodle.label>
+  <AEXP_Poodle.labelPlural>пуделі</AEXP_Poodle.labelPlural>
+  
+  <!--poodle puppy-->
+  <AEXP_Poodle.lifeStages.poodle_puppy.label>щеня пуделя</AEXP_Poodle.lifeStages.poodle_puppy.label>
+  <!--poodle puppies-->
+  <AEXP_Poodle.lifeStages.poodle_puppy.labelPlural>щенята пуделя</AEXP_Poodle.lifeStages.poodle_puppy.labelPlural>
+  
+  <AEXP_Poodle.lifeStages.1.label>молодий пудель</AEXP_Poodle.lifeStages.1.label>
+  <AEXP_Poodle.lifeStages.1.labelPlural>молоді пуделі</AEXP_Poodle.lifeStages.1.labelPlural>
+  
+  <!--  Мопс  -->
+  <!--pug-->
+  <AEXP_Pug.label>мопс</AEXP_Pug.label>
+  <!--pugs-->
+  <AEXP_Pug.labelPlural>мопси</AEXP_Pug.labelPlural>
+  
+  <!--pug puppy-->
+  <AEXP_Pug.lifeStages.pug_puppy.label>щеня мопса</AEXP_Pug.lifeStages.pug_puppy.label>
+  <!--pug puppies-->
+  <AEXP_Pug.lifeStages.pug_puppy.labelPlural>щенята мопса</AEXP_Pug.lifeStages.pug_puppy.labelPlural>
+  
+  <AEXP_Pug.lifeStages.1.label>молодий мопс</AEXP_Pug.lifeStages.1.label>
+  <AEXP_Pug.lifeStages.1.labelPlural>молоді мопси</AEXP_Pug.lifeStages.1.labelPlural>
+  
+  <!--  Ротвейлер  -->
+  <!--rottweiler-->
+  <AEXP_Rottweiler.label>ротвейлер</AEXP_Rottweiler.label>
+  <AEXP_Rottweiler.labelPlural>ротвейлери</AEXP_Rottweiler.labelPlural>
+  
+  <!--rottweiler puppy-->
+  <AEXP_Rottweiler.lifeStages.rottweiler_puppy.label>щеня ротвейлера</AEXP_Rottweiler.lifeStages.rottweiler_puppy.label>
+  <!--rottweiler puppies-->
+  <AEXP_Rottweiler.lifeStages.rottweiler_puppy.labelPlural>щенята ротвейлера</AEXP_Rottweiler.lifeStages.rottweiler_puppy.labelPlural>
+  
+  <AEXP_Rottweiler.lifeStages.1.label>молодий ротвейлер</AEXP_Rottweiler.lifeStages.1.label>
+  <AEXP_Rottweiler.lifeStages.1.labelPlural>молоді ротвейлери</AEXP_Rottweiler.lifeStages.1.labelPlural>
+  
+  <!--  Ші-тсу  -->
+  <!--shih-tzu-->
+  <AEXP_Shih-Tzu.label>ші-тсу</AEXP_Shih-Tzu.label>
+  <!--shih-tzus-->
+  <AEXP_Shih-Tzu.labelPlural>ші-тсу</AEXP_Shih-Tzu.labelPlural>
+  
+  <!--shih-tzu puppy-->
+  <AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.label>щеня ші-тсу</AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.label>
+  <!--shih-tzu puppies-->
+  <AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.labelPlural>щенята ші-тсу</AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.labelPlural>
+  
+  <AEXP_Shih-Tzu.lifeStages.1.label>молодий ші-тсу</AEXP_Shih-Tzu.lifeStages.1.label>
+  <AEXP_Shih-Tzu.lifeStages.1.labelPlural>молоді ші-тсу</AEXP_Shih-Tzu.lifeStages.1.labelPlural>
+  
+  <!--  Вельш тер'єр  -->
+  <!--welsh terrier-->
+  <AEXP_WelshTerrier.label>вельш тер'єр</AEXP_WelshTerrier.label>
+  <!--welsh terriers-->
+  <AEXP_WelshTerrier.labelPlural>вельш тер'єри</AEXP_WelshTerrier.labelPlural>
+  
+  <!--welsh terrier puppy-->
+  <AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.label>щеня вельш тер'єра</AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.label>
+  <!--welsh terrier puppies-->
+  <AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.labelPlural>щенята вельш тер'єра</AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.labelPlural>
+  
+  <AEXP_WelshTerrier.lifeStages.1.label>молодий вельш тер'єр</AEXP_WelshTerrier.lifeStages.1.label>
+  <AEXP_WelshTerrier.lifeStages.1.labelPlural>молоді вельш тер'єри</AEXP_WelshTerrier.lifeStages.1.labelPlural>
+  
+  <!--  Верблюд  -->
+  <!--camel-->
+  <AEXP_Camel.label>верблюд</AEXP_Camel.label>
+  <AEXP_Camel.labelFemale>верблюдиця</AEXP_Camel.labelFemale>
+  <AEXP_Camel.labelMale>верблюд</AEXP_Camel.labelMale>
+  <!--camels-->
+  <AEXP_Camel.labelPlural>верблюди</AEXP_Camel.labelPlural>
+  
+  <!--camel calf-->
+  <AEXP_Camel.lifeStages.camel_calf.label>верблюденя</AEXP_Camel.lifeStages.camel_calf.label>
+  <!--camel calves-->
+  <AEXP_Camel.lifeStages.camel_calf.labelPlural>верблюжата</AEXP_Camel.lifeStages.camel_calf.labelPlural>
+  
+  <AEXP_Camel.lifeStages.1.labelFemale>молода верблюдиця</AEXP_Camel.lifeStages.1.labelFemale>
+  <AEXP_Camel.lifeStages.1.labelMale>молодий верблюд</AEXP_Camel.lifeStages.1.labelMale>
+  <AEXP_Camel.lifeStages.1.labelPlural>молоді верблюди</AEXP_Camel.lifeStages.1.labelPlural>
+  
+  <!--  Гримуча змія  -->
+  <!--rattlesnake-->
+  <AEXP_Rattlesnake.label>гримуча змія</AEXP_Rattlesnake.label>
+  <AEXP_Rattlesnake.labelPlural>гримучі змії</AEXP_Rattlesnake.labelPlural>
+  
+  <AEXP_Rattlesnake.lifeStages.0.label>гримуче змієня</AEXP_Rattlesnake.lifeStages.0.label>
+  <AEXP_Rattlesnake.lifeStages.0.labelPlural>гримучі змієнята</AEXP_Rattlesnake.lifeStages.0.labelPlural>
+  
+  <AEXP_Rattlesnake.lifeStages.1.label>молода гримуча змія</AEXP_Rattlesnake.lifeStages.1.label>
+  <AEXP_Rattlesnake.lifeStages.1.labelPlural>молоді гримучі змії</AEXP_Rattlesnake.lifeStages.1.labelPlural>
+  
+  <!--  Мегаскорпіон  -->
+  <!--megascorpion-->
+  <AEXP_Megascorpion.label>мегаскорпіон</AEXP_Megascorpion.label>
+  <AEXP_Megascorpion.labelPlural>мегаскорпіони</AEXP_Megascorpion.labelPlural>
+  
+  <AEXP_Megascorpion.lifeStages.0.label>дитинча мегаскорпіона</AEXP_Megascorpion.lifeStages.0.label>
+  <AEXP_Megascorpion.lifeStages.0.labelPlural>дитинчата мегаскорпіона</AEXP_Megascorpion.lifeStages.0.labelPlural>
+  
+  <AEXP_Megascorpion.lifeStages.1.label>молода мегаскорпіон</AEXP_Megascorpion.lifeStages.1.label>
+  <AEXP_Megascorpion.lifeStages.1.labelPlural>молоді мегаскорпіони</AEXP_Megascorpion.lifeStages.1.labelPlural>
+  
+  <!--  Пінгвін  -->
+  <!--penguin-->
+  <AEXP_Penguin.label>пінгвін</AEXP_Penguin.label>
+  <AEXP_Penguin.labelFemale>пінгвіниха</AEXP_Penguin.labelFemale>
+  <AEXP_Penguin.labelMale>пінгвін</AEXP_Penguin.labelMale>
+  <!--penguins-->
+  <AEXP_Penguin.labelPlural>пінгвіни</AEXP_Penguin.labelPlural>
+  
+  <AEXP_Penguin.lifeStages.0.label>пінгвіненя</AEXP_Penguin.lifeStages.0.label>
+  <AEXP_Penguin.lifeStages.0.labelPlural>пінгвіненята</AEXP_Penguin.lifeStages.0.labelPlural>
+  
+  <AEXP_Penguin.lifeStages.1.labelFemale>молода пінгвіниха</AEXP_Penguin.lifeStages.1.labelFemale>
+  <AEXP_Penguin.lifeStages.1.labelMale>молодий пінгвін</AEXP_Penguin.lifeStages.1.labelMale>
+  <AEXP_Penguin.lifeStages.1.labelPlural>молоді пінгвіни</AEXP_Penguin.lifeStages.1.labelPlural>
+  
+  <!--  Тюлень  -->
+  <!--seal-->
+  <AEXP_Seal.label>тюлень</AEXP_Seal.label>
+  <AEXP_Seal.labelFemale>тюлениха</AEXP_Seal.labelFemale>
+  <AEXP_Seal.labelMale>тюлень</AEXP_Seal.labelMale>
+  <AEXP_Seal.labelPlural>тюлені</AEXP_Seal.labelPlural>
+  
+  <AEXP_Seal.lifeStages.0.label>белек</AEXP_Seal.lifeStages.0.label>
+  <AEXP_Seal.lifeStages.0.labelPlural>белеки</AEXP_Seal.lifeStages.0.labelPlural>
+  
+  <AEXP_Seal.lifeStages.1.label>сєрков</AEXP_Seal.lifeStages.1.label>
+  <AEXP_Seal.lifeStages.1.labelPlural>сєркови</AEXP_Seal.lifeStages.1.labelPlural>
+  
+  <!--  Морж  -->
+  <!--walrus-->
+  <AEXP_Walrus.label>морж</AEXP_Walrus.label>
+  <AEXP_Walrus.labelFemale>моржиха</AEXP_Walrus.labelFemale>
+  <AEXP_Walrus.labelMale>морж</AEXP_Walrus.labelMale>
+  <AEXP_Walrus.labelPlural>моржі</AEXP_Walrus.labelPlural>
+  
+  <AEXP_Seal.lifeStages.0.label>моржонок</AEXP_Seal.lifeStages.0.label>
+  <AEXP_Seal.lifeStages.0.labelPlural>моржата</AEXP_Seal.lifeStages.0.labelPlural>
+  
+  <AEXP_Seal.lifeStages.1.labelFemale>молода моржиха</AEXP_Seal.lifeStages.1.labelFemale>
+  <AEXP_Seal.lifeStages.1.labelMale>молодий морж</AEXP_Seal.lifeStages.1.labelMale>
+  <AEXP_Seal.lifeStages.1.labelPlural>молоді моржі</AEXP_Seal.lifeStages.1.labelPlural>
+  
+  <!--  Червона панда  -->
+  <!--red panda-->
+  <AEXP_RedPanda.label>червона панда</AEXP_RedPanda.label>
+  <AEXP_RedPanda.labelPlural>червоні панди</AEXP_RedPanda.labelPlural>
+  
+  <AEXP_RedPanda.lifeStages.0.label>дитинча червоної панди</AEXP_RedPanda.lifeStages.0.label>
+  <AEXP_RedPanda.lifeStages.0.labelPlural>дитинчата червоної панди</AEXP_RedPanda.lifeStages.0.labelPlural>
+  
+  <AEXP_RedPanda.lifeStages.1.label>молода червона панда</AEXP_RedPanda.lifeStages.1.label>
+  <AEXP_RedPanda.lifeStages.1.labelPlural>молоді червоні панди</AEXP_RedPanda.lifeStages.1.labelPlural>
+  
+  <!--  Борсук  -->
+  <!--badger-->
+  <AEXP_Badger.label>борсук</AEXP_Badger.label>
+  <AEXP_Badger.labelFemale>борсучиха</AEXP_Badger.labelFemale>
+  <AEXP_Badger.labelMale>борсук</AEXP_Badger.labelMale>
+  <AEXP_Badger.labelPlural>борсуки</AEXP_Badger.labelPlural>
+  
+  <AEXP_Badger.lifeStages.0.label>борсученя</AEXP_Badger.lifeStages.0.label>
+  <AEXP_Badger.lifeStages.0.labelPlural>борсученята</AEXP_Badger.lifeStages.0.labelPlural>
+  
+  <AEXP_Badger.lifeStages.1.labelFemale>молода борсучиха</AEXP_Badger.lifeStages.1.labelFemale>
+  <AEXP_Badger.lifeStages.1.labelMale>молодий борсук</AEXP_Badger.lifeStages.1.labelMale>
+  <AEXP_Badger.lifeStages.1.labelPlural>молоді борсуки</AEXP_Badger.lifeStages.1.labelPlural>
+  
+  <!--  Дикий гусак  -->
+  <!--wild goose-->
+  <AEXP_WildGoose.label>дикий гусак</AEXP_WildGoose.label>
+  <AEXP_WildGoose.labelFemale>дика гуска</AEXP_WildGoose.labelFemale>
+  <!--wild gander-->
+  <AEXP_WildGoose.labelMale>дикий гусак</AEXP_WildGoose.labelMale>
+  <!--wild geese-->
+  <AEXP_WildGoose.labelPlural>дикі гуси</AEXP_WildGoose.labelPlural>
+  
+  <!--gosling-->
+  <AEXP_WildGoose.lifeStages.gosling.label>дике гусеня</AEXP_WildGoose.lifeStages.gosling.label>
+  <AEXP_WildGoose.lifeStages.gosling.labelPlural>дикі гусенята</AEXP_WildGoose.lifeStages.gosling.labelPlural>
+  
+  <AEXP_WildGoose.lifeStages.1.labelFemale>молода дика гуска</AEXP_WildGoose.lifeStages.1.labelFemale>
+  <AEXP_WildGoose.lifeStages.1.labelMale>молодий дикий гусак</AEXP_WildGoose.lifeStages.1.labelMale>
+  <AEXP_WildGoose.lifeStages.1.labelPlural>молоді дикі гуси</AEXP_WildGoose.lifeStages.1.labelPlural>
+  
+  <!--  Бобер  -->
+  <!--beaver-->
+  <AEXP_Beaver.label>бобер</AEXP_Beaver.label>
+  <AEXP_Beaver.labelFemale>бобриха</AEXP_Beaver.labelFemale>
+  <AEXP_Beaver.labelMale>бобер</AEXP_Beaver.labelMale>
+  <AEXP_Beaver.labelPlural>бобри</AEXP_Beaver.labelPlural>
+  
+  <AEXP_Beaver.lifeStages.0.label>бобреня</AEXP_Beaver.lifeStages.0.label>
+  <AEXP_Beaver.lifeStages.0.labelPlural>бобренята</AEXP_Beaver.lifeStages.0.labelPlural>
+  
+  <AEXP_Beaver.lifeStages.1.labelFemale>молода бобриха</AEXP_Beaver.lifeStages.1.labelFemale>
+  <AEXP_Beaver.lifeStages.1.labelMale>молодий бобер</AEXP_Beaver.lifeStages.1.labelMale>
+  <AEXP_Beaver.lifeStages.1.labelPlural>молоді бобри</AEXP_Beaver.lifeStages.1.labelPlural>
+  
+  <!--  Їжак  -->
+  <!--hedgehog-->
+  <AEXP_Hedgehog.label>їжак</AEXP_Hedgehog.label>
+  <AEXP_Hedgehog.labelFemale>їжачиха</AEXP_Hedgehog.labelFemale>
+  <AEXP_Hedgehog.labelMale>їжак</AEXP_Hedgehog.labelMale>
+  <AEXP_Hedgehog.labelPlural>їжаки</AEXP_Hedgehog.labelPlural>
+  
+  <AEXP_Hedgehog.lifeStages.0.label>їжаченя</AEXP_Hedgehog.lifeStages.0.label>
+  <AEXP_Hedgehog.lifeStages.0.labelPlural>їжаченята</AEXP_Hedgehog.lifeStages.0.labelPlural>
+  
+  <AEXP_Hedgehog.lifeStages.1.labelFemale>молода їжачиха</AEXP_Hedgehog.lifeStages.1.labelFemale>
+  <AEXP_Hedgehog.lifeStages.1.labelMale>молодий їжак</AEXP_Hedgehog.lifeStages.1.labelMale>
+  <AEXP_Hedgehog.lifeStages.1.labelPlural>молоді їжаки</AEXP_Hedgehog.lifeStages.1.labelPlural>
+  
+  <!--  Горила  -->
+  <!--gorilla-->
+  <AEXP_Gorilla.label>горила</AEXP_Gorilla.label>
+  <!--gorillas-->
+  <AEXP_Gorilla.labelPlural>горили</AEXP_Gorilla.labelPlural>
+  
+  <AEXP_Gorilla.lifeStages.0.label>дитинча горили</AEXP_Gorilla.lifeStages.0.label>
+  <AEXP_Gorilla.lifeStages.0.labelPlural>дитинчата горили</AEXP_Gorilla.lifeStages.0.labelPlural>
+  
+  <AEXP_Gorilla.lifeStages.1.label>молода горила</AEXP_Gorilla.lifeStages.1.label>
+  <AEXP_Gorilla.lifeStages.1.labelPlural>молоді горили</AEXP_Gorilla.lifeStages.1.labelPlural>
+  
+  <!--  Ягуар  -->
+  <!--jaguar-->
+  <AEXP_Jaguar.label>ягуар</AEXP_Jaguar.label>
+  <AEXP_Jaguar.labelPlural>ягуари</AEXP_Jaguar.labelPlural>
+  
+  <AEXP_Jaguar.lifeStages.0.label>кошеня ягуара</AEXP_Jaguar.lifeStages.0.label>
+  <AEXP_Jaguar.lifeStages.0.labelPlural>кошенята ягуара</AEXP_Jaguar.lifeStages.0.labelPlural>
+  
+  <AEXP_Jaguar.lifeStages.1.label>молодий ягуар</AEXP_Jaguar.lifeStages.1.label>
+  <AEXP_Jaguar.lifeStages.1.labelPlural>молоді ягуари</AEXP_Jaguar.lifeStages.1.labelPlural>
+  
+  <!--  Лемур  -->
+  <!--lemur-->
+  <AEXP_Lemur.label>лемур</AEXP_Lemur.label>
+  <AEXP_Lemur.labelPlural>лемури</AEXP_Lemur.labelPlural>
+  
+  <AEXP_Lemur.lifeStages.0.label>лемуреня</AEXP_Lemur.lifeStages.0.label>
+  <AEXP_Lemur.lifeStages.0.labelPlural>лемуренята</AEXP_Lemur.lifeStages.0.labelPlural>
+  
+  <AEXP_Lemur.lifeStages.1.label>молодий лемур</AEXP_Lemur.lifeStages.1.label>
+  <AEXP_Lemur.lifeStages.1.labelPlural>молоді лемури</AEXP_Lemur.lifeStages.1.labelPlural>
+  
+  <!--  Мандрил  -->
+  <!--mandrill-->
+  <AEXP_Mandrill.label>мандрил</AEXP_Mandrill.label>
+  <AEXP_Mandrill.labelPlural>мандрили</AEXP_Mandrill.labelPlural>
+  
+  <AEXP_Mandrill.lifeStages.0.label>дитинча мандрила</AEXP_Mandrill.lifeStages.0.label>
+  <AEXP_Mandrill.lifeStages.0.labelPlural>дитинчата мандрила</AEXP_Mandrill.lifeStages.0.labelPlural>
+  
+  <AEXP_Mandrill.lifeStages.1.label>молодий мандрил</AEXP_Mandrill.lifeStages.1.label>
+  <AEXP_Mandrill.lifeStages.1.labelPlural>молоді мандрили</AEXP_Mandrill.lifeStages.1.labelPlural>
+  
+  <!--  Тапір  -->
+  <!--tapir-->
+  <AEXP_Tapir.label>тапір</AEXP_Tapir.label>
+  <AEXP_Tapir.labelFemale>тапіриха</AEXP_Tapir.labelFemale>
+  <AEXP_Tapir.labelMale>тапір</AEXP_Tapir.labelMale>
+  <AEXP_Tapir.labelPlural>тапіри</AEXP_Tapir.labelPlural>
+  
+  <AEXP_Tapir.lifeStages.0.label>тапіреня</AEXP_Tapir.lifeStages.0.label>
+  <AEXP_Tapir.lifeStages.0.labelPlural>тапіренята</AEXP_Tapir.lifeStages.0.labelPlural>
+  
+  <AEXP_Tapir.lifeStages.1.labelFemale>молода тапіриха</AEXP_Tapir.lifeStages.1.labelFemale>
+  <AEXP_Tapir.lifeStages.1.labelMale>молодий тапір</AEXP_Tapir.lifeStages.1.labelMale>
+  <AEXP_Tapir.lifeStages.1.labelPlural>молоді тапіри</AEXP_Tapir.lifeStages.1.labelPlural>
+  
+  <!--  Тигр  -->
+  <!--tiger-->
+  <AEXP_Tiger.label>тигр</AEXP_Tiger.label>
+  <AEXP_Tiger.labelFemale>тигриця</AEXP_Tiger.labelFemale>
+  <AEXP_Tiger.labelMale>тигр</AEXP_Tiger.labelMale>
+  <AEXP_Tiger.labelPlural>тигри</AEXP_Tiger.labelPlural>
+  
+  <AEXP_Tiger.lifeStages.0.label>тигреня</AEXP_Tiger.lifeStages.0.label>
+  <AEXP_Tiger.lifeStages.0.labelPlural>тигренята</AEXP_Tiger.lifeStages.0.labelPlural>
+  
+  <AEXP_Tiger.lifeStages.1.labelFemale>молода тигриця</AEXP_Tiger.lifeStages.1.labelFemale>
+  <AEXP_Tiger.lifeStages.1.labelMale>молодий тигр</AEXP_Tiger.lifeStages.1.labelMale>
+  <AEXP_Tiger.lifeStages.1.labelPlural>молоді тигри</AEXP_Tiger.lifeStages.1.labelPlural>
+  
+  <!--  Алігатор  -->
+  <!--alligator-->
+  <AEXP_Alligator.label>алігатор</AEXP_Alligator.label>
+  <AEXP_Alligator.labelPlural>алігатори</AEXP_Alligator.labelPlural>
+  
+  <AEXP_Alligator.lifeStages.0.label>дитинча алігатора</AEXP_Alligator.lifeStages.0.label>
+  <AEXP_Alligator.lifeStages.0.labelPlural>дитинчата алігатора</AEXP_Alligator.lifeStages.0.labelPlural>
+  
+  <AEXP_Alligator.lifeStages.1.label>молодий алігатор</AEXP_Alligator.lifeStages.1.label>
+  <AEXP_Alligator.lifeStages.1.labelPlural>молоді алігатори</AEXP_Alligator.lifeStages.1.labelPlural>
+  
+  <!--  Анаконда  -->
+  <!--anaconda-->
+  <AEXP_Anaconda.label>анаконда</AEXP_Anaconda.label>
+  <AEXP_Anaconda.labelPlural>анаконди</AEXP_Anaconda.labelPlural>
+  
+  <AEXP_Anaconda.lifeStages.0.label>змієня анаконди</AEXP_Anaconda.lifeStages.0.label>
+  <AEXP_Anaconda.lifeStages.0.labelPlural>змієнята анаконди</AEXP_Anaconda.lifeStages.0.labelPlural>
+  
+  <AEXP_Anaconda.lifeStages.1.label>молода анаконда</AEXP_Anaconda.lifeStages.1.label>
+  <AEXP_Anaconda.lifeStages.1.labelPlural>молоді анаконди</AEXP_Anaconda.lifeStages.1.labelPlural>
+  
+  <!--  Індійський слон  -->
+  <!--indian elephant-->
+  <AEXP_IndianElephant.label>індійський слон</AEXP_IndianElephant.label>
+  <AEXP_IndianElephant.labelFemale>індійська слониха</AEXP_IndianElephant.labelFemale>
+  <AEXP_IndianElephant.labelMale>індійський слон</AEXP_IndianElephant.labelMale>
+  <AEXP_IndianElephant.labelPlural>індійські слони</AEXP_IndianElephant.labelPlural>
+  
+  <!--indian elephant calf-->
+  <AEXP_IndianElephant.lifeStages.indian_elephant_calf.label>індійське слоненя</AEXP_IndianElephant.lifeStages.indian_elephant_calf.label>
+  <AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelPlural>індійські слоненята</AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelPlural>
+  
+  <AEXP_IndianElephant.lifeStages.1.labelFemale>молода індійська слониха</AEXP_IndianElephant.lifeStages.1.labelFemale>
+  <AEXP_IndianElephant.lifeStages.1.labelMale>молодий індійський слон</AEXP_IndianElephant.lifeStages.1.labelMale>
+  <AEXP_IndianElephant.lifeStages.1.labelPlural>молоді індійські слони</AEXP_IndianElephant.lifeStages.1.labelPlural>
+   
+  <!--  Вівцебик  -->
+  <!--musk ox-->
+  <AEXP_Muskox.label>вівцебик</AEXP_Muskox.label>
+  <!--musk oxen-->
+  <AEXP_Muskox.labelPlural>вівцебики</AEXP_Muskox.labelPlural>
+  
+  <!--musk ox calf-->
+  <AEXP_Muskox.lifeStages.musk_ox_calf.label>теля вівцебика</AEXP_Muskox.lifeStages.musk_ox_calf.label>
+  <!--musk oxen calves-->
+  <AEXP_Muskox.lifeStages.musk_ox_calf.labelPlural>телята вівцебика</AEXP_Muskox.lifeStages.musk_ox_calf.labelPlural>
+  
+  <AEXP_Muskox.lifeStages.1.label>молодий вівцебик</AEXP_Muskox.lifeStages.1.label>
+  <AEXP_Muskox.lifeStages.1.labelPlural>молоді вівцебики</AEXP_Muskox.lifeStages.1.labelPlural>
+  
+  <!--  Лось  -->
+  <!--moose-->
+  <AEXP_Moose.label>лось</AEXP_Moose.label>
+  <AEXP_Moose.labelFemale>лосиха</AEXP_Moose.labelFemale>
+  <AEXP_Moose.labelMale>лось</AEXP_Moose.labelMale>
+  <!--moose-->
+  <AEXP_Moose.labelPlural>лосі</AEXP_Moose.labelPlural>
+  
+  <!--moose calf-->
+  <AEXP_Moose.lifeStages.moose_calf.label>лосеня</AEXP_Moose.lifeStages.moose_calf.label>
+  <!--moose calves-->
+  <AEXP_Moose.lifeStages.moose_calf.labelPlural>лосята</AEXP_Moose.lifeStages.moose_calf.labelPlural>
+  
+  <AEXP_Moose.lifeStages.1.labelFemale>молода лосиха</AEXP_Moose.lifeStages.1.labelFemale>
+  <AEXP_Moose.lifeStages.1.labelMale>молодий лось</AEXP_Moose.lifeStages.1.labelMale>
+  <AEXP_Moose.lifeStages.1.labelPlural>молоді лосі</AEXP_Moose.lifeStages.1.labelPlural>
+  
+  <!--  Мегаросомаха  -->
+  <!--megawolverine-->
+  <AEXP_MegaWolverine.label>мегаросомаха</AEXP_MegaWolverine.label>
+  <AEXP_MegaWolverine.labelPlural>мегаросомахи</AEXP_MegaWolverine.labelPlural>
+  
+  <AEXP_MegaWolverine.lifeStages.0.label>дитинча мегаросомахи</AEXP_MegaWolverine.lifeStages.0.label>
+  <AEXP_MegaWolverine.lifeStages.0.labelPlural>дитинчата мегаросомахи</AEXP_MegaWolverine.lifeStages.0.labelPlural>
+  
+  <AEXP_MegaWolverine.lifeStages.1.label>молода мегаросомаха</AEXP_MegaWolverine.lifeStages.1.label>
+  <AEXP_MegaWolverine.lifeStages.1.labelPlural>молоді мегаросомахи</AEXP_MegaWolverine.lifeStages.1.labelPlural>
+  
+  <!--  Дикобраз  -->
+  <!--porcupine-->
+  <AEXP_Porcupine.label>дикобраз</AEXP_Porcupine.label>
+  <AEXP_Porcupine.labelFemale>дикобразиха</AEXP_Porcupine.labelFemale>
+  <AEXP_Porcupine.labelMale>дикобраз</AEXP_Porcupine.labelMale>
+  <AEXP_Porcupine.labelPlural>дикобрази</AEXP_Porcupine.labelPlural>
+  
+  <AEXP_Porcupine.lifeStages.0.label>дитинча дикобраза</AEXP_Porcupine.lifeStages.0.label>
+  <AEXP_Porcupine.lifeStages.0.labelPlural>дитинчата дикобраза</AEXP_Porcupine.lifeStages.0.labelPlural>
+  
+  <AEXP_Porcupine.lifeStages.1.labelFemale>молода дикобразиха</AEXP_Porcupine.lifeStages.1.labelFemale>
+  <AEXP_Porcupine.lifeStages.1.labelMale>молодий дикобраз</AEXP_Porcupine.lifeStages.1.labelMale>
+  <AEXP_Porcupine.lifeStages.1.labelPlural>молоді дикобрази</AEXP_Porcupine.lifeStages.1.labelPlural>
+</LanguageData>

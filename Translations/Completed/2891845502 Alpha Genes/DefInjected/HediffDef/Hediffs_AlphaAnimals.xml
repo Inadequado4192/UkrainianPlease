@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blue gel production -->
+  <AG_BlueGel.label>виробництво синього гелю</AG_BlueGel.label>
+  <!-- EN: The skin of this person constantly exudes and produces globs of blue gel, which are very energy dense and can be used to power blue gel machinery. -->
+  <AG_BlueGel.description>Шкіра цієї людини постійно виділяє і виробляє кульки блакитного гелю, які є дуже енергетично щільними і можуть бути використані для живлення машин з блакитним гелем.</AG_BlueGel.description>
+  
+</LanguageData>

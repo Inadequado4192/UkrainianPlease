@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFES_SplinterArrow.label>пронизано</VFES_SplinterArrow.label>
+  <VFES_SplinterArrow.deathMessage>{0} {PAWN_gender ? був : була} наскрізь пронизан{PAWN_gender ? ий : а} велетенською стрілою.</VFES_SplinterArrow.deathMessage>
+  
+  <VFES_Rock.label>розчавлено</VFES_Rock.label>
+  <VFES_Rock.deathMessage>{0} {PAWN_gender ? був : була} розчавлен{PAWN_gender ? ий : а} на смерть гігантським валуном.</VFES_Rock.deathMessage>
+  
+  <VFES_HauntingFlame.label>згорів заживо</VFES_HauntingFlame.label>
+  <VFES_HauntingFlame.deathMessage>{0} згорі{PAWN_gender ? в : ла} заживо.</VFES_HauntingFlame.deathMessage>
+  
+  <VFES_NoDMG.deathMessage>{0} {PAWN_gender ? був вбитий : була вбита}.</VFES_NoDMG.deathMessage>
+</LanguageData>

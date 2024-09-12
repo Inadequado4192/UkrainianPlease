@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: forced faction relations -->
+    <VFEC_ForcedFactionGoodwill.label>вимушені відносини фракцій</VFEC_ForcedFactionGoodwill.label>
+
+    <!-- EN: pawn arrive method -->
+    <VFEC_PlayerPawnsArriveMethodEdge.label>спосіб надходження пішаків</VFEC_PlayerPawnsArriveMethodEdge.label>
+
+    <!-- EN: add custom structure to starting map -->
+    <VFEC_AddStartingStructure.label>додати власну структуру до стартової мапи</VFEC_AddStartingStructure.label>
+</LanguageData>

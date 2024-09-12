@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- Літак для бомбардування -->
+  <MYDE_AF_FWCraft_Bombardment.label>“Сонцехід” FH-203</MYDE_AF_FWCraft_Bombardment.label>
+  <MYDE_AF_FWCraft_Bombardment.description>“Сонцехід” FH-203 - це пасажирський бомбардувальник з можливістю короткодального зльоту та посадки. Він може стріляти з мінометів на борту, відправляючи міни на великій відстані або швидко кидати міни на короткій відстані. Завдяки унікальній системі заміни зброї він може мати на борту різні види озброєння. Він підходить для бомбардування цілей та дальнього транспортування, є важливою стратегічною зброєю в сучасних військових конфліктах.</MYDE_AF_FWCraft_Bombardment.description>
+  <!-- Крос-карта для бомбардування -->
+  <MYDE_AF_Skyfalller_FWCraft_Bombardment_CrossMapThing.label>“Сонцехід” FH-203 (відліт)</MYDE_AF_Skyfalller_FWCraft_Bombardment_CrossMapThing.label>
+  <MYDE_AF_FWCraft_Bombardment.comps.CompRefuelable.outOfFuelMessage>Потрібне паливо</MYDE_AF_FWCraft_Bombardment.comps.CompRefuelable.outOfFuelMessage>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_On_Label>Зліт</MYDE_AF_FWCraft_Bombardment.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_On_Label>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_Off_Label>Посадка</MYDE_AF_FWCraft_Bombardment.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_Off_Label>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_Description>Перемикач зліту/посадки. “Сонцехід” FH-203 - це фіксований крилата літаюча машина, для зліту та посадки необхідно мати вільний простір у 20 блоків без перешкод. Він може атакувати тільки у повітряному режимі. Після зліту можна керувати його за допомогою правої кнопки миші. Правий клік на не ворожому об'єкті змусить атакувати цю ціль, правий клік на ворожому об'єкті перемкне його в режим слідування.</MYDE_AF_FWCraft_Bombardment.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_Description>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_CarryPawn.Gizmos_CarryPawn_Label>Швидке перевезення</MYDE_AF_FWCraft_Bombardment.comps.Comp_CarryPawn.Gizmos_CarryPawn_Label>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_CarryPawn.Gizmos_CarryPawn_Description>Швидке перевезення колоністів у межах 5x5 блоків від літака.</MYDE_AF_FWCraft_Bombardment.comps.Comp_CarryPawn.Gizmos_CarryPawn_Description>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_CanCrossMap.CrossMap_Label>Крос-карта</MYDE_AF_FWCraft_Bombardment.comps.Comp_CanCrossMap.CrossMap_Label><MYDE_AF_FWCraft_Bombardment.comps.Comp_CanCrossMap.CrossMap_Description>跨地图，不可选择空地作为目标地点。为了避免出现无法返回的情况，请确保具有足够的燃料进行往返</MYDE_AF_FWCraft_Bombardment.comps.Comp_CanCrossMap.CrossMap_Description>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_CanCrossMap.CrossMap_Description>Крос-мапа, не можна вибрати порожнє місце як цільове місце. Для уникнення ситуацій, коли неможливо повернутися, переконайтесь, що у вас є достатньо палива для раунд-тріпу</MYDE_AF_FWCraft_Bombardment.comps.Comp_CanCrossMap.CrossMap_Description>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_CanLoadShell.LaunchShell_Label>Запустити</MYDE_AF_FWCraft_Bombardment.comps.Comp_CanLoadShell.LaunchShell_Label>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_CanLoadShell.LaunchShell_Description>Запуск поточно завантаженого снаряду</MYDE_AF_FWCraft_Bombardment.comps.Comp_CanLoadShell.LaunchShell_Description>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_CanLoadShell.DropShell_Label>Скинути снаряд</MYDE_AF_FWCraft_Bombardment.comps.Comp_CanLoadShell.DropShell_Label>
+  <MYDE_AF_FWCraft_Bombardment.comps.Comp_CanLoadShell.DropShell_Description>Швидкий вихід поточно завантаженого снаряду в найближче місце</MYDE_AF_FWCraft_Bombardment.comps.Comp_CanLoadShell.DropShell_Description>
+  <!-- Авіаносець -->
+  <MYDE_AF_FWCraft_AerocraftCarrier.label>НЛ-706 "Еквілібр"</MYDE_AF_FWCraft_AerocraftCarrier.label>
+  <MYDE_AF_FWCraft_AerocraftCarrier.description>НЛ-706 "Еквілібр" - це пасажирський повітряний авіаносець, розроблений для розгортання та керування бойовими групами безпілотників. Він має можливість швидкого виробництва та розгортання безпілотників. Завдяки унікальній конструкції системи зброї, він може встановлювати або заміняти більшість видів зброї на своєму корпусі, що дозволяє вести паралельні багатоцільові бої. Має вбудовану зброю з можливістю заміни. Надає сильну вогневу підтримку для повітряних бойових дій.</MYDE_AF_FWCraft_AerocraftCarrier.description>
+  <!-- Зброя: Виробництво безпілотників -->
+  <MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_SpawnDrone.label>Виробництво безпілотників</MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_SpawnDrone.label>
+  <MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_SpawnDrone.description>Виробництво безпілотників</MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_SpawnDrone.description>
+  <MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_Weapon_SpawnDrone.label>Виробництво безпілотників</MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_Weapon_SpawnDrone.label>
+  <MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_Weapon_SpawnDrone.description>Виробництво безпілотників</MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_Weapon_SpawnDrone.description>
+  <MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_Weapon_SpawnDrone.verbs.0.label>Створити безпілотника</MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_Weapon_SpawnDrone.verbs.0.label>
+  <!-- Зброя: Група зброї -->
+  <MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_WeaponGroup.label>Група зброї</MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_WeaponGroup.label>
+  <MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_WeaponGroup.description>Група зброї, яку можна замінити будь-якою зброєю</MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_WeaponGroup.description>
+  <!-- Крос-мапа -->
+  <MYDE_AF_Skyfalller_FWCraft_AerocraftCarrier_CrossMapThing.label>НЛ-706 "Еквілібр" (Відліт)</MYDE_AF_Skyfalller_FWCraft_AerocraftCarrier_CrossMapThing.label>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.CompRefuelable.outOfFuelMessage>Потрібне паливо</MYDE_AF_FWCraft_AerocraftCarrier.comps.CompRefuelable.outOfFuelMessage>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_On_Label>Піднятися в повітря</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_On_Label>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_Off_Label>Сісти на землю</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_Off_Label>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_Description>Перемикання між підйомом у повітря та приземленням. "Еквілібр" NL-706 - це повітряний апарат з фіксованими крилами, для підняття у повітря та приземлення потрібна відстань без перешкод не менше 30 блоків. Здійснює атаки лише у повітрі. Після підняття у повітря можна переміщатися за допомогою правої кнопки миші: правий клацання на об'єкті не зі своєї команди примусово атакує цю ціль, правий клацання на об'єкті зі своєї команди перемикається в режим слідкування</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_MoveToTargetAndHover.TakeOffAndLanding_Icon_Description>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CarryPawn.Gizmos_CarryPawn_Label>Швидке завантаження</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CarryPawn.Gizmos_CarryPawn_Label>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CarryPawn.Gizmos_CarryPawn_Description>Швидке завантаження колоністів в радіусі 7х7 блоків</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CarryPawn.Gizmos_CarryPawn_Description>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanCrossMap.CrossMap_Label>Перетин карт</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanCrossMap.CrossMap_Label>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanCrossMap.CrossMap_Description>Перетин карт, не можна вибрати пусту місцевість як ціль. Для уникнення ситуації, коли неможливо повернутися, переконайтеся, що у вас є достатньо палива для раунд-трипу</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanCrossMap.CrossMap_Description>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanLoadShell.LaunchShell_Label>Випустити</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanLoadShell.LaunchShell_Label>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanLoadShell.LaunchShell_Description>Випустити поточну завантажену снаряду</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanLoadShell.LaunchShell_Description>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanLoadShell.DropShell_Label>Викинути</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanLoadShell.DropShell_Label>
+  <MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanLoadShell.DropShell_Description>Швидко викинути поточну завантажену снаряду в найближче місце</MYDE_AF_FWCraft_AerocraftCarrier.comps.Comp_CanLoadShell.DropShell_Description>
+  <MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_SpawnDrone.comps.CompRefuelable.outOfFuelMessage>Потрібні матеріали</MYDE_AF_FWCraft_AerocraftCarrier_ExtraWeapon_SpawnDrone.comps.CompRefuelable.outOfFuelMessage>
+</LanguageData>

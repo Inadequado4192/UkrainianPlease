@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Mote-->
+  <VBE_ReadingNewspaper.label>Mote</VBE_ReadingNewspaper.label>
+  <!--Mote-->
+  <VBE_ReadingTechBlueprint.label>Mote</VBE_ReadingTechBlueprint.label>
+  <!--Mote-->
+  <VBE_ReadingMap.label>Mote</VBE_ReadingMap.label>
+  <!--Mote-->
+  <VBE_ReadingShootingBook.label>Mote</VBE_ReadingShootingBook.label>
+  <!--Mote-->
+  <VBE_ReadingAnimalsBook.label>Mote</VBE_ReadingAnimalsBook.label>
+  <!--Mote-->
+  <VBE_ReadingArtisticBook.label>Mote</VBE_ReadingArtisticBook.label>
+  <!--Mote-->
+  <VBE_ReadingConstructionBook.label>Mote</VBE_ReadingConstructionBook.label>
+  <!--Mote-->
+  <VBE_ReadingCookingBook.label>Mote</VBE_ReadingCookingBook.label>
+  <!--Mote-->
+  <VBE_ReadingCraftingBook.label>Mote</VBE_ReadingCraftingBook.label>
+  <!--Mote-->
+  <VBE_ReadingIntellectualBook.label>Mote</VBE_ReadingIntellectualBook.label>
+  <!--Mote-->
+  <VBE_ReadingMedicalBook.label>Mote</VBE_ReadingMedicalBook.label>
+  <!--Mote-->
+  <VBE_ReadingMeleeBook.label>Mote</VBE_ReadingMeleeBook.label>
+  <!--Mote-->
+  <VBE_ReadingMiningBook.label>Mote</VBE_ReadingMiningBook.label>
+  <!--Mote-->
+  <VBE_ReadingGrowingBook.label>Mote</VBE_ReadingGrowingBook.label>
+  <!--Mote-->
+  <VBE_ReadingSocialBook.label>Mote</VBE_ReadingSocialBook.label>
+  
+  <VBE_WritersTable.label>письмовий стіл</VBE_WritersTable.label>
+  <VBE_WritersTable.description>Робоче місце з усім необхідним обладнанням для написання книг.</VBE_WritersTable.description>
+  <VBE_TypewritersTable.label>стіл для друкарської машинки</VBE_TypewritersTable.label>
+  <VBE_TypewritersTable.description>Робоче місце з усім необхідним обладнанням для написання книг. Ця станція обладнана друкарською машинкою, яка значно пришвидшує роботу, але потребує підключення до електромережі.</VBE_TypewritersTable.description>
+  <!-- <VBE_Blue_print.label>креслення</VBE_Blue_print.label>
+  <VBE_Blue_print.description>Креслення, що містить технологічні секрети. Його вивчення дасть вашому поселенню повне розуміння даного дослідницького проєкту.\n\nКреслення, що містять занадто просунуті знання, не можуть бути прочитані, поки не буде вивчено більше технологій.</VBE_Blue_print.description> -->
+  <VBE_BookShooting.label>книга зі стрілецької справи</VBE_BookShooting.label>
+  <VBE_BookShooting.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookShooting.description>
+  <VBE_BookAnimals.label>книга з тваринництва</VBE_BookAnimals.label>
+  <VBE_BookAnimals.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookAnimals.description>
+  <VBE_BookArt.label>книга з мистецтва</VBE_BookArt.label>
+  <VBE_BookArt.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookArt.description>
+  <VBE_BookConstruction.label>книга з архітектури</VBE_BookConstruction.label>
+  <VBE_BookConstruction.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookConstruction.description>
+  <VBE_BookCooking.label>кулінарна книга</VBE_BookCooking.label>
+  <VBE_BookCooking.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookCooking.description>
+  <VBE_BookCrafting.label>книга з ремесла</VBE_BookCrafting.label>
+  <VBE_BookCrafting.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookCrafting.description>
+  <VBE_BookIntellectual.label>наукова книга</VBE_BookIntellectual.label>
+  <VBE_BookIntellectual.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookIntellectual.description>
+  <VBE_BookMedical.label>медична книга</VBE_BookMedical.label>
+  <VBE_BookMedical.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookMedical.description>
+  <VBE_BookMelee.label>книга з бойових мистецтв</VBE_BookMelee.label>
+  <VBE_BookMelee.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookMelee.description>
+  <VBE_BookMining.label>книга з геології</VBE_BookMining.label>
+  <VBE_BookMining.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookMining.description>
+  <VBE_BookGrowing.label>книга з фермерства</VBE_BookGrowing.label>
+  <VBE_BookGrowing.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookGrowing.description>
+  <VBE_BookSocial.label>книга з психології</VBE_BookSocial.label>
+  <VBE_BookSocial.description>Книга у твердій палітурці. Вона слугує джерелом радості і може бути прочитана, щоб навчити цінним навичкам.</VBE_BookSocial.description>
+  <VBE_Map.label>мапа</VBE_Map.label>
+  <VBE_Map.description>Паперова мапа, що містить інформацію про певний об'єкт. Вивчивши її, ви відкриєте його локацію на мапі світу.</VBE_Map.description>
+  <VBE_Newspaper.label>газета</VBE_Newspaper.label>
+  <VBE_Newspaper.description>Газета, що швидко псується. Її читання принесе колоністам радість.\n\nЗастарілу газету не можна читати та її потрібно утилізувати.</VBE_Newspaper.description>
+  <VBE_UnfinishedBook.label>недописана книга</VBE_UnfinishedBook.label>
+  <VBE_UnfinishedBook.description>Недописана книга.</VBE_UnfinishedBook.description>
+  <VBE_UnfinishedNewspaper.label>недописана газета</VBE_UnfinishedNewspaper.label>
+  <VBE_UnfinishedNewspaper.description>Недописана газета.</VBE_UnfinishedNewspaper.description>
+  <VBE_Filth_Newspaper.label>стара газета</VBE_Filth_Newspaper.label>
+</LanguageData>

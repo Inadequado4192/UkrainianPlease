@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemfuel nodules -->
+  <AG_BoomNodules.label>хімпаливні вузли</AG_BoomNodules.label>
+  <!-- EN: Huge pustules filled with chemfuel make this person quite disgusting to look at. The nodules will explode if the person dies. -->
+  <AG_BoomNodules.description>Величезні гнійники, наповнені хімічним паливом, роблять цю людину досить огидною на вигляд. Вузлики вибухнуть, якщо людина помре.</AG_BoomNodules.description>
+  <!-- EN: Colonist will explode on death in a flame explosion with 2 tiles radius -->
+  <AG_BoomNodules.customEffectDescriptions.0>Колоніст вибухне після смерті вибухом полум'я з радіусом у 2 тайли</AG_BoomNodules.customEffectDescriptions.0>
+  <!-- EN: boom -->
+  <AG_BoomNodules.symbolPack.prefixSymbols.0.symbol>бум</AG_BoomNodules.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: chem -->
+  <AG_BoomNodules.symbolPack.prefixSymbols.1.symbol>хімічний</AG_BoomNodules.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: wart -->
+  <AG_BoomNodules.symbolPack.prefixSymbols.2.symbol>бородавка</AG_BoomNodules.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: fogger -->
+  <AG_Fogger.label>туманоутворювач</AG_Fogger.label>
+  <!-- EN: A distributed cloud of mechanites is interwoven with the DNA of the carrier. These mechanites have the ability of influencing the humidity levels of the surrounding atmosphere, causing a deep, thick fog to coalesce around. -->
+  <AG_Fogger.description>Розподілена хмара механітів переплітається з ДНК носія. Ці механіти мають здатність впливати на рівень вологості навколишньої атмосфери, спричиняючи глибокий, густий туман, що згущується навколо.</AG_Fogger.description>
+  <!-- EN: Causes a foggy weather to be always present around this person -->
+  <AG_Fogger.customEffectDescriptions.0>Призводить до постійної туманної погоди навколо цієї особи.</AG_Fogger.customEffectDescriptions.0>
+  <!-- EN: Nanomachines, son! -->
+  <AG_Fogger.customEffectDescriptions.1>Наномашини, синку!</AG_Fogger.customEffectDescriptions.1>
+  <!-- EN: fog -->
+  <AG_Fogger.symbolPack.prefixSymbols.0.symbol>туман</AG_Fogger.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: fogger -->
+  <AG_Fogger.symbolPack.prefixSymbols.1.symbol>туманний</AG_Fogger.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: humid -->
+  <AG_Fogger.symbolPack.prefixSymbols.2.symbol>вологий</AG_Fogger.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: jelly production -->
+  <AG_InsectJellyProduction.label>виробництво желе</AG_InsectJellyProduction.label>
+  <!-- EN: The carrier of this gene constantly exudes and produces globs of insect jelly, which provides some extra food for the colony. -->
+  <AG_InsectJellyProduction.description>Носій цього гена постійно виділяє і виробляє кульки комашиного желе, яке забезпечує колонію додатковою їжею.</AG_InsectJellyProduction.description>
+  <!-- EN: Produces 12 units of insect jelly per day -->
+  <AG_InsectJellyProduction.customEffectDescriptions.0>Виробляє 12 одиниць комашиного желе на день</AG_InsectJellyProduction.customEffectDescriptions.0>
+  <!-- EN: This gene is balanced to produce more nutrition (0.05 * 12 = 0.6) than its metabolic impact (-1 -> 25%, which for a normal pawn is 0.4 nutrition per day) -->
+  <AG_InsectJellyProduction.customEffectDescriptions.1>Цей ген збалансований таким чином, щоб виробляти більше поживних речовин (0,05 * 12 = 0,6), ніж його метаболічний вплив (-1 -> 25%, що для нормального пішака становить 0,4 поживних речовини на день)</AG_InsectJellyProduction.customEffectDescriptions.1>
+  
+  <!-- EN: rainmaker -->
+  <AG_RainMaker.label>чудотворець</AG_RainMaker.label>
+  <!-- EN: A distributed cloud of mechanites is interwoven with the DNA of the carrier. These mechanites have the ability of drastically lowering the atmospheric pressure around, causing constant precipitation. -->
+  <AG_RainMaker.description>Розподілена хмара механітів переплітається з ДНК носія. Ці механіти мають здатність різко знижувати атмосферний тиск навколо, викликаючи постійні опади.</AG_RainMaker.description>
+  <!-- EN: Causes rainy weather to be always present around this person -->
+  <AG_RainMaker.customEffectDescriptions.0>Призводить до постійної дощової погоди навколо цієї особи.</AG_RainMaker.customEffectDescriptions.0>
+  <!-- EN: rainy -->
+  <AG_RainMaker.symbolPack.prefixSymbols.0.symbol>дощовий</AG_RainMaker.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: water -->
+  <AG_RainMaker.symbolPack.prefixSymbols.1.symbol>вода</AG_RainMaker.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: pluvio -->
+  <AG_RainMaker.symbolPack.prefixSymbols.2.symbol>плювіо</AG_RainMaker.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: tetra coils -->
+  <AG_TetraCoils.label>тетракотушки</AG_TetraCoils.label>
+  <!-- EN: Techno-organic coils of wireless energy are wired into the carrier's genome, allowing them to recharge batteries nearby. -->
+  <AG_TetraCoils.description>Техноорганічні котушки бездротової енергії вмонтовані в геном носія, що дозволяє йому підзаряджати батареї поблизу.</AG_TetraCoils.description>
+  <!-- EN: Colonist will recharge nearby batteries. Most modded batteries are supported -->
+  <AG_TetraCoils.customEffectDescriptions.0>Колоніст підзарядить сусідні батареї. Підтримується більшість модифікованих батарей</AG_TetraCoils.customEffectDescriptions.0>
+  <!-- EN: electr -->
+  <AG_TetraCoils.symbolPack.prefixSymbols.0.symbol>електро</AG_TetraCoils.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: volta -->
+  <AG_TetraCoils.symbolPack.prefixSymbols.1.symbol>вольта</AG_TetraCoils.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: charge -->
+  <AG_TetraCoils.symbolPack.prefixSymbols.2.symbol>зарядка</AG_TetraCoils.symbolPack.prefixSymbols.2.symbol>
+  
+</LanguageData>

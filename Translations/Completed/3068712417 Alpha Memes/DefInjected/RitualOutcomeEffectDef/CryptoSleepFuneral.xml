@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_CryptoFuneralOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_CryptoFuneralOutcome.description>
+  <AM_CryptoFuneralOutcome.outcomeChances.0.label>Жахливо</AM_CryptoFuneralOutcome.outcomeChances.0.label>
+  <AM_CryptoFuneralOutcome.outcomeChances.0.description> {0} пройшло жахливо. Промова була нудною і неповагою до спадщини загиблого.</AM_CryptoFuneralOutcome.outcomeChances.0.description>
+  <AM_CryptoFuneralOutcome.outcomeChances.1.label>Нудно</AM_CryptoFuneralOutcome.outcomeChances.1.label>
+  <AM_CryptoFuneralOutcome.outcomeChances.1.description> {0} пройшло нудно. Промова була довготривалою і не зробила честі загиблому.</AM_CryptoFuneralOutcome.outcomeChances.1.description>
+  <AM_CryptoFuneralOutcome.outcomeChances.2.label>Добре</AM_CryptoFuneralOutcome.outcomeChances.2.label>
+  <AM_CryptoFuneralOutcome.outcomeChances.2.description> {0} пройшло добре. Заключні слова спікера надали кожному шлях для подальшого руху.</AM_CryptoFuneralOutcome.outcomeChances.2.description>
+  <AM_CryptoFuneralOutcome.outcomeChances.3.label>Неймовірно</AM_CryptoFuneralOutcome.outcomeChances.3.label>
+  <AM_CryptoFuneralOutcome.outcomeChances.3.description> {0} пройшло неймовірно. Промова була захоплюючою та щирою, і всі розійшлися, зосереджені на хороших спогадах.</AM_CryptoFuneralOutcome.outcomeChances.3.description>
+  <AM_CryptoFuneralOutcome.comps.0.label>присутній моральний наставник</AM_CryptoFuneralOutcome.comps.0.label>
+  <AM_CryptoFuneralOutcome.comps.1.label>кількість учасників</AM_CryptoFuneralOutcome.comps.1.label>
+
+
+</LanguageData>

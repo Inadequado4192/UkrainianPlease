@@ -1,0 +1,1073 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <ArtDescription_BookShooting.rulePack.rulesStrings.0>physical_description_root->[ShootingSkillGen][maybe_cont]. [middle_book] [ShootingSkillGenPlu][maybe_cont]. [ending] [ShootingSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Вивчення цієї книги підвищує майстерність стрільби.</ArtDescription_BookShooting.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Animals.rulePack.rulesStrings.0>r_animalsbook_desc->[cover] [first_chapters] [AnimalSkillGen][maybe_cont]. [middle_book] [AnimalSkillGenPlu][maybe_cont]. [ending] [AnimalSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Оскільки це книга про тварин, її читання поглибить знання про них.</VBE_BookDescription_Animals.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Art.rulePack.rulesStrings.0>r_artbook_desc->[cover] [first_chapters] [ArtSkillGen][maybe_cont]. [middle_book] [ArtSkillGenPlu][maybe_cont]. [ending] [ArtSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Оскільки це мистецька книга, її читання поглибить знання про мистецтво.</VBE_BookDescription_Art.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Construction.rulePack.rulesStrings.0>r_constructionbook_desc->[cover] [first_chapters] [ConstructionSkillGen][maybe_cont]. [middle_book] [ConstructionSkillGenPlu][maybe_cont]. [ending] [ConstructionSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Будучи книгою про будівництво, її читання розширить знання про цю сферу.</VBE_BookDescription_Construction.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Cooking.rulePack.rulesStrings.0>r_cookingbook_desc->[cover] [first_chapters] [CookingSkillGen][maybe_cont]. [middle_book] [CookingSkillGenPlu][maybe_cont]. [ending] [CookingSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Після вивчення цієї книги кулінарні навички збільшаться.</VBE_BookDescription_Cooking.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Crafting.rulePack.rulesStrings.0>r_craftingbook_desc->[cover] [first_chapters] [CraftingSkillGen][maybe_cont]. [middle_book] [CraftingSkillGenPlu][maybe_cont]. [ending] [CraftingSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Після вивчення цієї книги навички ремесла збільшаться.</VBE_BookDescription_Crafting.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Growing.rulePack.rulesStrings.0>r_growingbook_desc->[cover] [first_chapters] [GrowingSkillGen][maybe_cont]. [middle_book] [GrowingSkillGenPlu][maybe_cont]. [ending] [GrowingSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Вивчення цієї книги підвищує майстерність рослинництва.</VBE_BookDescription_Growing.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Intellectual.rulePack.rulesStrings.0>r_intellectualbook_desc->[cover] [first_chapters] [IntellectualSkillGen][maybe_cont]. [middle_book] [IntellectualSkillGenPlu][maybe_cont]. [ending] [IntellectualSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Після вивчення цієї книги навички дослідження збільшаться.</VBE_BookDescription_Intellectual.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Medical.rulePack.rulesStrings.0>r_medicalbook_desc->[cover] [first_chapters] [MedicalSkillGen][maybe_cont]. [middle_book] [MedicalSkillGenPlu][maybe_cont]. [ending] [MedicalSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Вивчення цієї книги підвищує медичні навички.</VBE_BookDescription_Medical.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Melee.rulePack.rulesStrings.0>r_meleebook_desc->[cover] [first_chapters] [MeleeSkillGen][maybe_cont]. [middle_book] [MeleeSkillGenPlu][maybe_cont]. [ending] [MeleeSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Будучи книгою з рукопашного бою, її читання покращить знання з рукопашного бою.</VBE_BookDescription_Melee.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Mining.rulePack.rulesStrings.0>r_miningbook_desc->[cover] [first_chapters] [MiningSkillGen][maybe_cont]. [middle_book] [MiningSkillGenPlu][maybe_cont]. [ending] [MiningSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Будучи книгою про шахтарство, її читання розширить знання про цю сферу.</VBE_BookDescription_Mining.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Social.rulePack.rulesStrings.0>r_socialbook_desc->[cover] [first_chapters] [SocialSkillGen][maybe_cont]. [middle_book] [SocialSkillGenPlu][maybe_cont]. [ending] [SocialSkillGenPlu][maybe_cont]. Цей [book] [book-context][maybe_writingstyles]. Оскільки це книга про соціальність, її читання розширить знання про цю сферу.</VBE_BookDescription_Social.rulePack.rulesStrings.0>
+  
+  <VBE_BookUtility.rulePack.rulesStrings>
+  <li>Books->[Book]</li>
+  <li>Books->[BookFem]</li>
+  <li>Books->[BookNeu]</li>
+  
+  <li>maybe_adjective-></li>
+  <li>maybe_adjective->[Color]</li>
+  <li>maybe_adjective->[AdjectiveBadass]</li>
+  <li>maybe_adjective->[AdjectiveAngsty]</li>
+
+  <li>maybe_adjective_fem-></li>
+  <li>maybe_adjective_fem->[ColorFem]</li>
+  <li>maybe_adjective_fem->[AdjectiveBadassFem]</li>
+  <li>maybe_adjective_fem->[AdjectiveAngstyFem]</li>
+  
+  <li>maybe_adjective_plu-></li>
+  <li>maybe_adjective_plu->[AdjectiveBadassPlu]</li>
+  <li>maybe_adjective_plu->[AdjectiveAngstyPlu]</li>
+
+  <li>Adjective->[Color]</li>
+  <li>Adjective->[AdjectiveBadass]</li>
+  <li>Adjective->[AdjectiveAngsty]</li>
+  
+  <li>AdjectiveFem->[ColorFem]</li>
+  <li>AdjectiveFem->[AdjectiveBadassFem]</li>
+  <li>AdjectiveFem->[AdjectiveAngstyFem]</li>
+  
+  <li>BookLarge->[AdjectiveLarge] [Book]</li>
+  <li>BookLarge->[AdjectiveLargeFem] [BookFem]</li>
+  <li>BookLarge->[AdjectiveLargeNeu] [BookNeu]</li>
+  
+  <li>BookBadass->[AdjectiveBadass] [Book]</li>
+  <li>BookBadass->[AdjectiveBadassFem] [BookFem]</li>
+  <li>BookBadass->[AdjectiveBadassNeu] [BookNeu]</li>
+  
+  <li>BookstyleAnyFem->[BookstyleNegativeFem]</li>
+  <li>BookstyleAnyFem->[BookstylePositiveFem]</li>
+  <li>BookstyleAnyGenPlu->[BookstyleNegativeGenPlu]</li>
+  <li>BookstyleAnyGenPlu->[BookstylePositiveGenPlu]</li>
+  <li>BookstyleAnyMasc->[BookstyleNegativeMasc]</li>
+  <li>BookstyleAnyMasc->[BookstylePositiveMasc]</li>
+  <li>BookstyleAnyMascLocal->[BookstyleNegativeMascLocal]</li>
+  <li>BookstyleAnyMascLocal->[BookstylePositiveMascLocal]</li>
+
+  <li>cover->обкладинка цієї книги [depicts] [image]</li>
+  <li>cover->на обкладинці цієї книги автор [depicted] [image]</li>
+  <li>cover->обкладинка цієї книги[symbolizes] [image]</li>
+  
+  <li>first_chapters->перші кілька розділів цієї книги описують використання </li>
+  <li>first_chapters->у першій частині книги детально розкривається проблематика </li>
+  <li>first_chapters->перші кілька сторінок описують використання </li>
+  <li>first_chapters->початок книги розгортається навколо </li>
+  <li>first_chapters->книга починається з </li>
+  <li>first_chapters->на початку розповідається історія </li>
+  
+  <li>maybe_cont_gen-> в контексті [ConceptAnyGen]</li>
+  <li>maybe_cont_gen-> [AdjectiveBadassAbl] тоном</li>
+  <li>maybe_cont_gen->, та важливість [ConceptAnyGen]</li>
+  <li>maybe_cont_gen->, під час гри в [Game]</li>
+  <li>maybe_cont_gen-> і красу [GoreGen]</li>
+  <li>maybe_cont_gen-> на основі досвіду, отриманого усередині [CommunityGen]</li>
+  <li>maybe_cont_gen->, з особистими спостереженнями від [NamePerson]</li>
+  <li>maybe_cont_gen->, на основі інтерв'ю з юною знаменитістю — [NamePerson]</li>
+  <li>maybe_cont_gen->, та асоціації [ColorGen] кольору з темою твору</li>
+  <li>maybe_cont_gen->, на основі опитувань, які [volunteer]</li>
+	  <li>volunteer->передала [AdjectiveFriendlyFem] [PersonJobFem]</li>
+	  <li>volunteer->передав [AdjectiveFriendly] [PersonJobMasc]</li>
+  
+  <li>maybe_cont_animal(p=2)-></li>
+  <li>maybe_cont_animal->[maybe_cont_gen]</li>
+  <li>maybe_cont_animal-> у світі [AnimalPluGen]</li>
+  <li>maybe_cont_animal->, з акцентом на експлуатації [TerrainFeatureGen]</li>
+  <li>maybe_cont_animal->, та як наявність [AnimalPluGen] покращить якість [AnimalGroupFemGen]</li>
+  <li>maybe_cont_animal->, та необхідність мати під рукою [VegetableAcc]</li>
+  <li>maybe_cont_animal->, на основі досвіду розмноження [AnimalBadassPluGen]</li>
+  
+  <li>maybe_cont_art(p=2)-></li>
+  <li>maybe_cont_art->[maybe_cont_gen]</li>
+  <li>maybe_cont_art-> у поєднанні з [ColorAbl] кольором</li>
+  <li>maybe_cont_art->, описуючи який вплив має [AdjectiveAny] стан душі на мистецтво</li>
+  <li>maybe_cont_art->, з акцентом на значенні [ConceptAngstyGen] в мистецтві</li>
+  <li>maybe_cont_art->, не забуваючи зазначити, як правильно передавати почуття [ConceptPositiveGen]</li>
+  <li>maybe_cont_art->, та як надихатися [TerrainFeaturePluAbl]</li>
+  
+  <li>maybe_cont_construct(p=2)-></li>
+  <li>maybe_cont_construct->[maybe_cont_gen]</li>
+  <li>maybe_cont_construct->, та методи забудови [CommunityGen]</li>
+  <li>maybe_cont_construct->, та чим деревина [TreeTypePlu] краще за [TreeTypeAcc]</li>
+  <li>maybe_cont_construct->, та чому треба приділяти увагу на наявність [TerrainFeatureGen] біля місця забудови</li>
+  <li>maybe_cont_construct->, та як будувати [AdjectiveLargePlu] [ConstructionPlu]</li>
+  <li>maybe_cont_construct->, та [ConceptAngsty] архітектора</li>
+  
+  <li>maybe_cont_cooking(p=2)-></li>
+  <li>maybe_cont_cooking->[maybe_cont_gen]</li>
+  <li>maybe_cont_cooking->, та необхідність мати під рукою [VegetableAcc]</li>
+  <li>maybe_cont_cooking->, з акцентом на методах нарізки [VegetableGen]</li>
+  <li>maybe_cont_cooking->, описуючи як м'ясо [AnimalGen] смакує з [VegetablePluAcc]</li>
+  <li>maybe_cont_cooking->, детально розповідаючи як розділювати [AnimalAcc]</li>
+  <li>maybe_cont_cooking->, та як [CookingSkillPluPers] дегустують страви</li>
+  
+  <li>maybe_cont_craft(p=2)-></li>
+  <li>maybe_cont_craft->[maybe_cont_gen]</li>
+  <li>maybe_cont_craft->, та як виготовити [WeaponMasc]</li>
+  <li>maybe_cont_craft->, описуючи як раніше працювали [CraftingSkillPluPers]</li>
+  <li>maybe_cont_craft->, також пишучи про [AdjectiveNaturalPlu] майстерні</li>
+  <li>maybe_cont_craft->, на основі інтерв'ю планетарно відомого майстра — [NamePerson]</li>
+  <li>maybe_cont_craft->, та чому краще не використовувати деревину [TreeTypePlu]</li>
+  
+  <li>maybe_cont_grow(p=2)-></li>
+  <li>maybe_cont_grow->[maybe_cont_gen]</li>
+  <li>maybe_cont_grow->, з акцентом на вирощуванні біля [TerrainFeatureGen]</li>
+  <li>maybe_cont_grow->, та необхідність мати під рукою [VegetableAcc]</li>
+  <li>maybe_cont_grow->, описуючи як [VegetablePlu] впливають на ґрунт</li>
+  <li>maybe_cont_grow->, на основі досвіду вирощування [VegetablePluGen]</li>
+  <li>maybe_cont_grow->, з порадами про вирощування [TreeTypePlu]</li>
+  
+  <li>maybe_cont_int(p=2)-></li>
+  <li>maybe_cont_int->[maybe_cont_gen]</li>
+  <li>maybe_cont_int->, та [ConceptAngsty] науковців</li>
+  <li>maybe_cont_int->, описуючи дослідження [MechanoidPluGen]</li>
+  <li>maybe_cont_int->, з акцентом на обслуговуванні [MechanoidPluGen]</li>
+  <li>maybe_cont_int->, також пишучи про [CuriousNeu] дослідження</li>
+  <li>maybe_cont_int->, приводячи [Quantity_adjphrase] прикладів застосування</li>
+  
+  <li>maybe_cont_medical(p=2)-></li>
+  <li>maybe_cont_medical->[maybe_cont_gen]</li>
+  <li>maybe_cont_medical->, та акцентуванні на [GoreLoc]</li>
+  <li>maybe_cont_medical->, та описуючи [Quantity_adjphrase] методик лікування</li>
+  <li>maybe_cont_medical->, на основі досвіду лікування [PersonJobPluGen] за [CommunityAbl]</li>
+  <li>maybe_cont_medical->, також згадуючи народні методи лікування [VegetablePluAcc]</li>
+  <li>maybe_cont_medical->, та які [AdjectiveAnyPlu] симптоми існують</li>
+  
+  <li>maybe_cont_melee(p=2)-></li>
+  <li>maybe_cont_melee->[maybe_cont_gen]</li>
+  <li>maybe_cont_melee->, описуючи різні варіації, як користуватися [WeaponPluAbl]</li>
+  <li>maybe_cont_melee->, з точки зору [EnemyPluGen]</li>
+  <li>maybe_cont_melee->, та методи самозахисту від [Enemies_Genitive_Plural]</li>
+  <li>maybe_cont_melee->, з акцентом на користуванні [WeaponPluAbl]</li>
+  <li>maybe_cont_melee->, згадуючи про [AdjectiveBadass] стиль бою</li>
+  
+  <li>maybe_cont_mining(p=2)-></li>
+  <li>maybe_cont_mining->[maybe_cont_gen]</li>
+  <li>maybe_cont_mining->, також описуючи [Quantity_adjphrase] методів глибинного буріння</li>
+  <li>maybe_cont_mining->, розповідаючи про несподівану появу [ConceptAngstyGen] в шахтах</li>
+  <li>maybe_cont_mining->, також оповідаючи легенду про коридор в [GoreLoc]</li>
+  <li>maybe_cont_mining->, та рідкі мінерали близ [TerrainFeatureGen] </li>
+  <li>maybe_cont_mining->, та як застосовувати рабську силу [EnemyPluGen] в шахті</li>
+  
+  <li>maybe_cont_shooting(p=2)-></li>
+  <li>maybe_cont_shooting->[maybe_cont_gen]</li>
+  <li>maybe_cont_shooting->, описуючи різні варіації, як користуватися [WeaponPluAbl] у цій галузі</li>
+  <li>maybe_cont_shooting->, з точки зору [EnemyPluGen]</li>
+  <li>maybe_cont_shooting->, також пишучи про тактику ведення боя посеред [CommunityGen]</li>
+  <li>maybe_cont_shooting->, описуючи як очистити форму від [GoreGen]</li>
+  <li>maybe_cont_shooting->, приводячи в приклад [Quantity_adjphrase] методів прицілювання</li>
+  
+  <li>maybe_cont_social(p=2)-></li>
+  <li>maybe_cont_social->[maybe_cont_gen]</li>
+  <li>maybe_cont_social->, з точки зору [EnemyPluGen]</li>
+  <li>maybe_cont_social->, описуючи як [Color] колір впливає на психіку</li>
+  <li>maybe_cont_social->, також пишучи про те, як позбавити суспільство від [ConceptAnyGen]</li>
+  <li>maybe_cont_social->, та як [PoliticalUnionAdjFem] політ. система впливає на людей</li>
+  <li>maybe_cont_social->, приводячи [Quantity_adjphrase] прикладів [ConceptAnyGen]</li>
+
+  <li>middle_book_1->Далі автор переходить до опису</li>
+  <li>middle_book_1->У наступних розділах йде опис</li>
+  <li>middle_book_2->Наступні розділи дозволяють читачеві поміркувати про</li>
+  <li>middle_book_2->Після цього автор доклав чимало зусиль, щоб пояснити</li>
+  <li>middle_book_2->У середині книги йдеться про</li>
+  <li>middle_book_2->Далі мова піде про</li>
+  
+  <li>middle_book->[middle_book_1]</li>
+  <li>middle_book->[middle_book_2]</li>
+  
+  <li>ending->Наприкінці автор підбиває підсумки про</li>
+  <li>ending->Наприкінці книги акцент робиться на</li>
+  <li>ending->В останніх кількох розділах згадується про</li>
+  <li>ending->Закінчення книги розповідає про</li>
+  <li>ending->Останній розділ присвячений розповіді про</li>
+  <li>ending->Остання частина книги присвячена історії про</li>
+  <li>ending->Останню частину книги автор вирішив присвятити анекдотам про</li>
+
+  <li>book_context->пронизаний ідеями [ConceptAnyGen] і виконаний в [BookstyleAnyMascLocal] стилі</li>
+  <li>book_context->написаний в [BookstyleAnyMascLocal] стилі</li>
+  <li>book_context->виконаний в [BookstyleAnyMascLocal] стилі</li>
+  <li>book_context->[BookstyleAnyMasc], з купою [BookstyleAnyGenPlu] елементів</li>
+  <li>book_context->[BookstyleAnyMasc]</li>
+  <li>book_context->[BookstylePositiveMasc], але [BookstyleNegativeMasc]</li>
+  <li>book_context->[BookstyleNegativeMasc], але [BookstylePositiveMasc]</li>
+  
+  <li>maybe_writingstyles(p=3)-></li>
+  <li>maybe_writingstyles->, з великою кількістю [BookstyleGenPlu]</li>
+  <li>maybe_writingstyles->, просякнутий [BookstyleAblPlu]</li>
+  <li>maybe_writingstyles->, створений не використовуючи [BookstylePlu] жодного разу</li>
+  <li>maybe_writingstyles->, створений тільки з використанням [BookstyleGenPlu]</li>
+  <li>maybe_writingstyles->, з великою кількістю [BookstyleGenPlu] та зовсім без [BookstyleGenPlu]</li>
+  <li>maybe_writingstyles->. Автор використав низку [BookstyleGenPlu] у поєднанні з [BookstyleAblPlu] та [BookstyleAblPlu]</li>
+  <li>maybe_writingstyles->, з низкою [BookstyleAnyGenPlu] [BookstyleGenPlu]</li>
+  
+  <li>inspired->Натхненний бестселером під назвою</li>
+  <li>inspired->Будучи приквелом до популярної книги під назвою</li>
+  <li>inspired->Написаний, значною мірою, на основі книги під назвою</li>
+  <li>inspired->На противагу ідеям книги</li>
+  
+  <li>first_chapters_inspired_1->вступ цього [book_gen] описує використання </li>
+  <li>first_chapters_inspired_1->перший розділ цього [book_gen] описує використання </li>
+  <li>first_chapters_inspired_1->початок цього [book_gen] розгортається навколо </li>
+  <li>first_chapters_inspired_1->цей [book] починається з </li>
+  <li>first_chapters_inspired_2->цей [book] розпочинається з детальної розповіді про </li>
+  <li>first_chapters_inspired_2->початок цього [book_gen] розповідає про </li>
+  
+  <li>first_chapters_inspired->[first_chapters_inspired_1]</li>
+  <li>first_chapters_inspired->[first_chapters_inspired_2]</li>
+
+  <li>book->посібник</li>
+  <li>book->фоліант</li>
+  <li>book->твір</li>
+  <li>book->підручник</li>
+  <li>book->текст</li>
+  
+  <li>book_gen->посібника</li>
+  <li>book_gen->фоліанта</li>
+  <li>book_gen->твору</li>
+  <li>book_gen->підручника</li>
+  <li>book_gen->тексту</li>
+
+  <li>book_general->Мета цього [book_gen] - поглиблено пояснити</li>
+  <li>book_general->Цей [book] дає читачеві уявлення про</li>
+  <li>book_general->Читання цього [book_gen] дає цінну інформацію про</li>
+  <li>book_general->Цей [book] про</li>
+  <li>book_general->Автор, пишучи цей [book], хотів зосередити увагу читачів на</li>
+  
+  <li>maybe_ShootingSkill-></li>
+  <li>maybe_ShootingSkill-> і [ShootingSkillGen]</li>
+  <li>maybe_ShootingSkill-> й [ShootingSkillGen]</li>
+
+  <li>maybe_ShootingSkillPlu-></li>
+  <li>maybe_ShootingSkillPlu-> і [ShootingSkillGenPlu]</li>
+  <li>maybe_ShootingSkillPlu-> й [ShootingSkillGenPlu]</li>
+
+  <li>maybe_AnimalSkill-></li>
+  <li>maybe_AnimalSkill-> і [AnimalSkillGen]</li>
+  <li>maybe_AnimalSkill-> й [AnimalSkillGen]</li>
+
+  <li>maybe_AnimalSkillPlu-></li>
+  <li>maybe_AnimalSkillPlu-> і [AnimalSkillGenPlu]</li>
+  <li>maybe_AnimalSkillPlu-> й [AnimalSkillGenPlu]</li>
+  
+  <li>maybe_ArtSkill-></li>
+  <li>maybe_ArtSkill-> і [ArtSkillGen]</li>
+  <li>maybe_ArtSkill-> й [ArtSkillGen]</li>
+  
+  <li>maybe_ArtSkillPlu-></li>
+  <li>maybe_ArtSkillPlu-> і [ArtSkillPlu]</li>
+  <li>maybe_ArtSkillPlu-> й [ArtSkillPlu]</li>
+
+  <li>maybe_ArtSkillGenPlu-></li>
+  <li>maybe_ArtSkillGenPlu-> і [ArtSkillGenPlu]</li>
+  <li>maybe_ArtSkillGenPlu-> й [ArtSkillGenPlu]</li>
+  
+  <li>maybe_ConstructionSkill-></li>
+  <li>maybe_ConstructionSkill-> і [ConstructionSkillGen]</li>
+  <li>maybe_ConstructionSkill-> й [ConstructionSkillGen]</li>
+  
+  <li>maybe_ConstructionSkillPlu-></li>
+  <li>maybe_ConstructionSkillPlu-> і [ConstructionSkillPlu]</li>
+  <li>maybe_ConstructionSkillPlu-> й [ConstructionSkillPlu]</li>
+
+  <li>maybe_ConstructionSkillGenPlu-></li>
+  <li>maybe_ConstructionSkillGenPlu-> і [ConstructionSkillGenPlu]</li>
+  <li>maybe_ConstructionSkillGenPlu-> й [ConstructionSkillGenPlu]</li>
+  
+  <li>maybe_CookingSkill-></li>
+  <li>maybe_CookingSkill-> і [CookingSkillGen]</li>
+  <li>maybe_CookingSkill-> й [CookingSkillGen]</li>
+  
+  <li>maybe_CookingSkillPlu-></li>
+  <li>maybe_CookingSkillPlu-> і [CookingSkillPlu]</li>
+  <li>maybe_CookingSkillPlu-> й [CookingSkillPlu]</li>
+
+  <li>maybe_CookingSkillGenPlu-></li>
+  <li>maybe_CookingSkillGenPlu-> і [CookingSkillGenPlu]</li>
+  <li>maybe_CookingSkillGenPlu-> й [CookingSkillGenPlu]</li>
+  
+  <li>maybe_CraftingSkill-></li>
+  <li>maybe_CraftingSkill-> і [CraftingSkillGen]</li>
+  <li>maybe_CraftingSkill-> й [CraftingSkillGen]</li>
+  
+  <li>maybe_CraftingSkillPlu-></li>
+  <li>maybe_CraftingSkillPlu-> і [CraftingSkillPlu]</li>
+  <li>maybe_CraftingSkillPlu-> й [CraftingSkillPlu]</li>
+
+  <li>maybe_CraftingSkillGenPlu-></li>
+  <li>maybe_CraftingSkillGenPlu-> і [CraftingSkillGenPlu]</li>
+  <li>maybe_CraftingSkillGenPlu-> й [CraftingSkillGenPlu]</li>
+  
+  <li>maybe_GrowingSkill-></li>
+  <li>maybe_GrowingSkill-> і [GrowingSkillGen]</li>
+  <li>maybe_GrowingSkill-> й [GrowingSkillGen]</li>
+  
+  <li>maybe_GrowingSkillPlu-></li>
+  <li>maybe_GrowingSkillPlu-> і [GrowingSkillPlu]</li>
+  <li>maybe_GrowingSkillPlu-> й [GrowingSkillPlu]</li>
+
+  <li>maybe_GrowingSkillGenPlu-></li>
+  <li>maybe_GrowingSkillGenPlu-> і [GrowingSkillGenPlu]</li>
+  <li>maybe_GrowingSkillGenPlu-> й [GrowingSkillGenPlu]</li>
+  
+  <li>maybe_IntellectualSkill-></li>
+  <li>maybe_IntellectualSkill-> і [IntellectualSkillGen]</li>
+  <li>maybe_IntellectualSkill-> й [IntellectualSkillGen]</li>
+  
+  <li>maybe_IntellectualSkillPlu-></li>
+  <li>maybe_IntellectualSkillPlu-> і [IntellectualSkillPlu]</li>
+  <li>maybe_IntellectualSkillPlu-> й [IntellectualSkillPlu]</li>
+
+  <li>maybe_IntellectualSkillGenPlu-></li>
+  <li>maybe_IntellectualSkillGenPlu-> і [IntellectualSkillGenPlu]</li>
+  <li>maybe_IntellectualSkillGenPlu-> й [IntellectualSkillGenPlu]</li>
+
+  <li>maybe_MedicalSkill-></li>
+  <li>maybe_MedicalSkill-> і [MedicalSkillGen]</li>
+  <li>maybe_MedicalSkill-> й [MedicalSkillGen]</li>
+  
+  <li>maybe_MedicalSkillPlu-></li>
+  <li>maybe_MedicalSkillPlu-> і [MedicalSkillPlu]</li>
+  <li>maybe_MedicalSkillPlu-> й [MedicalSkillPlu]</li>
+
+  <li>maybe_MedicalSkillGenPlu-></li>
+  <li>maybe_MedicalSkillGenPlu-> і [MedicalSkillGenPlu]</li>
+  <li>maybe_MedicalSkillGenPlu-> й [MedicalSkillGenPlu]</li>
+  
+  <li>maybe_MeleeSkill-></li>
+  <li>maybe_MeleeSkill-> і [MeleeSkillGen]</li>
+  <li>maybe_MeleeSkill-> й [MeleeSkillGen]</li>
+  
+  <li>maybe_MeleeSkillPlu-></li>
+  <li>maybe_MeleeSkillPlu-> і [MeleeSkillPlu]</li>
+  <li>maybe_MeleeSkillPlu-> й [MeleeSkillPlu]</li>
+
+  <li>maybe_MeleeSkillGenPlu-></li>
+  <li>maybe_MeleeSkillGenPlu-> і [MeleeSkillGenPlu]</li>
+  <li>maybe_MeleeSkillGenPlu-> й [MeleeSkillGenPlu]</li>
+  
+  <li>maybe_MiningSkill-></li>
+  <li>maybe_MiningSkill-> і [MiningSkillGen]</li>
+  <li>maybe_MiningSkill-> й [MiningSkillGen]</li>
+  
+  <li>maybe_MiningSkillPlu-></li>
+  <li>maybe_MiningSkillPlu-> і [MiningSkillPlu]</li>
+  <li>maybe_MiningSkillPlu-> й [MiningSkillPlu]</li>
+
+  <li>maybe_MiningSkillGenPlu-></li>
+  <li>maybe_MiningSkillGenPlu-> і [MiningSkillGenPlu]</li>
+  <li>maybe_MiningSkillGenPlu-> й [MiningSkillGenPlu]</li>
+  
+  <li>maybe_SocialSkill-></li>
+  <li>maybe_SocialSkill-> і [SocialSkillGen]</li>
+  <li>maybe_SocialSkill-> й [SocialSkillGen]</li>
+  
+  <li>maybe_SocialSkillPlu-></li>
+  <li>maybe_SocialSkillPlu-> і [SocialSkillPlu]</li>
+  <li>maybe_SocialSkillPlu-> й [SocialSkillPlu]</li>
+
+  <li>maybe_SocialSkillGenPlu-></li>
+  <li>maybe_SocialSkillGenPlu-> і [SocialSkillGenPlu]</li>
+  <li>maybe_SocialSkillGenPlu-> й [SocialSkillGenPlu]</li>
+  
+  <li>ShootingBook->[Books] про [maybe_adjective_plu] історії [ShootingSkillGenPlu]</li>
+  <li>ShootingBook->[BookLarge] про [ShootingSkillAcc]</li>
+  <li>ShootingBook->[Books] [PeopleBadassPluAcc] про [ShootingSkillAcc]</li>
+  <li>ShootingBook->[Books] про [maybe_adjective_plu] історії [ShootingSkillGenPlu]</li>
+  <li>ShootingBook->[BookBadass] про [ShootingSkillAcc]</li>
+  <li>ShootingBook->[Adjective] [Noun]: Історія	[ShootingSkillGenPlu]</li>
+  <li>ShootingBook->[ShootingSkill] [Digit]</li>
+  <li>ShootingBook->[maybe_letter][Digit][maybe_letter]: [ShootingSkillPlu]</li>
+  <li>ShootingBook->[maybe_letter][Digit][Digit][maybe_letter]: [ShootingSkillPlu]</li>
+  <li>ShootingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ShootingSkillPlu]</li>
+  <li>ShootingBook->[maybe_letter][RomanNumeral][maybe_letter]: [ShootingSkillPlu]</li>
+  <li>ShootingBook->[Books] [ANYPAWN_nameIndef] про [ShootingSkillAcc]</li>
+  <li>ShootingBook->[ShootingSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>ShootingBook->[Books] [ANYPAWN_nameIndef]: [ShootingSkillPlu]</li>
+  <li>ShootingBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [ShootingSkillPlu]</li>
+  <li>ShootingBook->[Noun] та [ShootingSkillPlu]</li>
+  <li>ShootingBook->Про [ConceptAny] та [ShootingSkillPluConcept]</li>
+
+  <li>AnimalBook->[Books] про [maybe_adjective_plu] історії [AnimalSkillGenPlu]</li>
+  <li>AnimalBook->[BookLarge] про [AnimalSkillGenPlu]</li>
+  <li>AnimalBook->[Books] [PeopleBadassPluAcc] про [AnimalSkillAcc]</li>
+  <li>AnimalBook->[Books] про [maybe_adjective_plu] історії [AnimalSkillGenPlu]</li>
+  <li>AnimalBook->[BookBadass] про [AnimalSkillGenPlu]</li>
+  <li>AnimalBook->[Adjective] [Noun]: Історія	[AnimalSkillGenPlu]</li>
+  <li>AnimalBook->[AnimalSkill] [Digit]</li>
+  <li>AnimalBook->[maybe_letter][Digit][maybe_letter]: [AnimalSkillPlu]</li>
+  <li>AnimalBook->[maybe_letter][Digit][Digit][maybe_letter]: [AnimalSkillPlu]</li>
+  <li>AnimalBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [AnimalSkillPlu]</li>
+  <li>AnimalBook->[maybe_letter][RomanNumeral][maybe_letter]: [AnimalSkillPlu]</li>
+  <li>AnimalBook->[Books] [ANYPAWN_nameIndef] про [AnimalSkillAcc]</li>
+  <li>AnimalBook->[AnimalSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>AnimalBook->[Books] [ANYPAWN_nameIndef]: [AnimalSkillPlu]</li>
+  <li>AnimalBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [AnimalSkillPlu]</li>
+  <li>AnimalBook->[Noun] та [AnimalSkillPlu]</li>
+  <li>AnimalBook->Про [ConceptAny] та [AnimalSkillGenPlu]</li>
+  
+  <li>ArtBook->[Books] про [maybe_adjective_plu] історії [ArtSkillGenPlu]</li>
+  <li>ArtBook->[BookLarge] про [ArtSkillPlu]</li>
+  <li>ArtBook->[Books] [PeopleBadassPluAcc] про [ArtSkillAcc]</li>
+  <li>ArtBook->[Books] про [maybe_adjective_plu] історії [ArtSkillGenPlu]</li>
+  <li>ArtBook->[BookBadass] про [ArtSkillAcc]</li>
+  <li>ArtBook->[Adjective] [Noun]: Історія	[ArtSkillGenPlu]</li>
+  <li>ArtBook->[ArtSkill] [Digit]</li>
+  <li>ArtBook->[maybe_letter][Digit][maybe_letter]: [ArtSkillPlu]</li>
+  <li>ArtBook->[maybe_letter][Digit][Digit][maybe_letter]: [ArtSkillPlu]</li>
+  <li>ArtBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ArtSkillPlu]</li>
+  <li>ArtBook->[maybe_letter][RomanNumeral][maybe_letter]: [ArtSkillPlu]</li>
+  <li>ArtBook->[Books] [ANYPAWN_nameIndef] про [ArtSkillAcc]</li>
+  <li>ArtBook->[ArtSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>ArtBook->[Books] [ANYPAWN_nameIndef]: [ArtSkillPlu]</li>
+  <li>ArtBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [ArtSkillPlu]</li>
+  <li>ArtBook->[Noun] та [ArtSkillPlu]</li>
+  <li>ArtBook->Про [ConceptAny] та [ArtSkillPlu]</li>
+ 
+  <li>ConstructionBook->[Books] про [maybe_adjective_plu] історії [ConstructionSkillGenPlu]</li>
+  <li>ConstructionBook->[BookLarge] про [ConstructionSkillPlu]</li>
+  <li>ConstructionBook->[Books] [PeopleBadassPluAcc] про [ConstructionSkillAcc]</li>
+  <li>ConstructionBook->[Books] про [maybe_adjective_plu] історії [ConstructionSkillGenPlu]</li>
+  <li>ConstructionBook->[BookBadass] про [ConstructionSkillAcc]</li>
+  <li>ConstructionBook->[Adjective] [Noun]: Історія	[ConstructionSkillGenPlu]</li>
+  <li>ConstructionBook->[ConstructionSkill] [Digit]</li>
+  <li>ConstructionBook->[maybe_letter][Digit][maybe_letter]: [ConstructionSkillPlu]</li>
+  <li>ConstructionBook->[maybe_letter][Digit][Digit][maybe_letter]: [ConstructionSkillPlu]</li>
+  <li>ConstructionBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ConstructionSkillPlu]</li>
+  <li>ConstructionBook->[maybe_letter][RomanNumeral][maybe_letter]: [ConstructionSkillPlu]</li>
+  <li>ConstructionBook->[Books] [ANYPAWN_nameIndef] про [ConstructionSkillAcc]</li>
+  <li>ConstructionBook->[ConstructionSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>ConstructionBook->[Books] [ANYPAWN_nameIndef]: [ConstructionSkillPlu]</li>
+  <li>ConstructionBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [ConstructionSkillPlu]</li>
+  <li>ConstructionBook->[Noun] та [ConstructionSkillPlu]</li>
+  <li>ConstructionBook->Про [ConceptAny] та [ConstructionSkillPlu]</li>
+
+  <li>CookingBook->[Books] про [maybe_adjective_plu] історії [CookingSkillGenPlu]</li>
+  <li>CookingBook->[BookLarge] про [CookingSkillPlu]</li>
+  <li>CookingBook->[Books] [PeopleBadassPluAcc] про [CookingSkillAcc]</li>
+  <li>CookingBook->[Books] про [maybe_adjective_plu] історії [CookingSkillGenPlu]</li>
+  <li>CookingBook->[BookBadass] про [CookingSkillAcc]</li>
+  <li>CookingBook->[Adjective] [Noun]: Історія	[CookingSkillGenPlu]</li>
+  <li>CookingBook->[CookingSkill] [Digit]</li>
+  <li>CookingBook->[maybe_letter][Digit][maybe_letter]: [CookingSkillPlu]</li>
+  <li>CookingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CookingSkillPlu]</li>
+  <li>CookingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CookingSkillPlu]</li>
+  <li>CookingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CookingSkillPlu]</li>
+  <li>CookingBook->[Books] [ANYPAWN_nameIndef] про [CookingSkillAcc]</li>
+  <li>CookingBook->[CookingSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>CookingBook->[Books] [ANYPAWN_nameIndef]: [CookingSkillPlu]</li>
+  <li>CookingBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [CookingSkillPlu]</li>
+  <li>CookingBook->[Noun] та [CookingSkillPlu]</li>
+  <li>CookingBook->Про [ConceptAny] та [CookingSkillPluConcept]</li>
+  
+  <li>CraftingBook->[Books] про [maybe_adjective_plu] історії [CraftingSkillGenPlu]</li>
+  <li>CraftingBook->[BookLarge] про [CraftingSkillAcc]</li>
+  <li>CraftingBook->[Books] [PeopleBadassPluAcc] про [CraftingSkillAcc]</li>
+  <li>CraftingBook->[Books] про [maybe_adjective_plu] історії [CraftingSkillGenPlu]</li>
+  <li>CraftingBook->[BookBadass] про [CraftingSkillAcc]</li>
+  <li>CraftingBook->[Adjective] [Noun]: Історія	[CraftingSkillGenPlu]</li>
+  <li>CraftingBook->[CraftingSkill] [Digit]</li>
+  <li>CraftingBook->[maybe_letter][Digit][maybe_letter]: [CraftingSkillPlu]</li>
+  <li>CraftingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CraftingSkillPlu]</li>
+  <li>CraftingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CraftingSkillPlu]</li>
+  <li>CraftingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CraftingSkillPlu]</li>
+  <li>CraftingBook->[Books] [ANYPAWN_nameIndef] про [CraftingSkillAcc]</li>
+  <li>CraftingBook->[CraftingSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>CraftingBook->[Books] [ANYPAWN_nameIndef]: [CraftingSkillPlu]</li>
+  <li>CraftingBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [CraftingSkillPlu]</li>
+  <li>CraftingBook->[Noun] та [CraftingSkillPlu]</li>
+  <li>CraftingBook->Про [ConceptAny] та [CraftingSkillPluConcept]</li>
+  
+  <li>GrowingBook->[Books] про [maybe_adjective_plu] історії [GrowingSkillGenPlu]</li>
+  <li>GrowingBook->[BookLarge] про [GrowingSkillAcc]</li>
+  <li>GrowingBook->[Books] [PeopleBadassPluAcc] про [GrowingSkillAcc]</li>
+  <li>GrowingBook->[Books] про [maybe_adjective_plu] історії [GrowingSkillGenPlu]</li>
+  <li>GrowingBook->[BookBadass] про [GrowingSkillAcc]</li>
+  <li>GrowingBook->[Adjective] [Noun]: Історія	[GrowingSkillGenPlu]</li>
+  <li>GrowingBook->[GrowingSkill] [Digit]</li>
+  <li>GrowingBook->[maybe_letter][Digit][maybe_letter]: [GrowingSkillPlu]</li>
+  <li>GrowingBook->[maybe_letter][Digit][Digit][maybe_letter]: [GrowingSkillPlu]</li>
+  <li>GrowingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [GrowingSkillPlu]</li>
+  <li>GrowingBook->[maybe_letter][RomanNumeral][maybe_letter]: [GrowingSkillPlu]</li>
+  <li>GrowingBook->[Books] [ANYPAWN_nameIndef] про [GrowingSkillAcc]</li>
+  <li>GrowingBook->[GrowingSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>GrowingBook->[Books] [ANYPAWN_nameIndef]: [GrowingSkillPlu]</li>
+  <li>GrowingBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [GrowingSkillPlu]</li>
+  <li>GrowingBook->[Noun] та [GrowingSkillPlu]</li>
+  <li>GrowingBook->Про [ConceptAny] та [GrowingSkillPlu]</li>
+
+  <li>IntellectualBook->[Books] про [maybe_adjective_plu] історії [IntellectualSkillGenPlu]</li>
+  <li>IntellectualBook->[BookLarge] про [IntellectualSkillAcc]</li>
+  <li>IntellectualBook->[Books] [PeopleBadassPluAcc] про [IntellectualSkillAcc]</li>
+  <li>IntellectualBook->[Books] про [maybe_adjective_plu] історії [IntellectualSkillGenPlu]</li>
+  <li>IntellectualBook->[BookBadass] про [IntellectualSkillAcc]</li>
+  <li>IntellectualBook->[Adjective] [Noun]: Історія	[IntellectualSkillGenPlu]</li>
+  <li>IntellectualBook->[IntellectualSkill] [Digit]</li>
+  <li>IntellectualBook->[maybe_letter][Digit][maybe_letter]: [IntellectualSkillPlu]</li>
+  <li>IntellectualBook->[maybe_letter][Digit][Digit][maybe_letter]: [IntellectualSkillPlu]</li>
+  <li>IntellectualBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [IntellectualSkillPlu]</li>
+  <li>IntellectualBook->[maybe_letter][RomanNumeral][maybe_letter]: [IntellectualSkillPlu]</li>
+  <li>IntellectualBook->[Books] [ANYPAWN_nameIndef] про [IntellectualSkillAcc]</li>
+  <li>IntellectualBook->[IntellectualSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>IntellectualBook->[Books] [ANYPAWN_nameIndef]: [IntellectualSkillPlu]</li>
+  <li>IntellectualBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [IntellectualSkillPlu]</li>
+  <li>IntellectualBook->[Noun] та [IntellectualSkillPlu]</li>
+  <li>IntellectualBook->Про [ConceptAny] та [IntellectualSkillPlu]</li>
+  
+  <li>MedicalBook->[Books] про [maybe_adjective_plu] історії [MedicalSkillGenPlu]</li>
+  <li>MedicalBook->[BookLarge] про [MedicalSkillAcc]</li>
+  <li>MedicalBook->[Books] [PeopleBadassPluAcc] про [MedicalSkillAcc]</li>
+  <li>MedicalBook->[Books] про [maybe_adjective_plu] історії [MedicalSkillGenPlu]</li>
+  <li>MedicalBook->[BookBadass] про [MedicalSkillAcc]</li>
+  <li>MedicalBook->[Adjective] [Noun]: Історія	[MedicalSkillGenPlu]</li>
+  <li>MedicalBook->[MedicalSkill] [Digit]</li>
+  <li>MedicalBook->[maybe_letter][Digit][maybe_letter]: [MedicalSkillPlu]</li>
+  <li>MedicalBook->[maybe_letter][Digit][Digit][maybe_letter]: [MedicalSkillPlu]</li>
+  <li>MedicalBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MedicalSkillPlu]</li>
+  <li>MedicalBook->[maybe_letter][RomanNumeral][maybe_letter]: [MedicalSkillPlu]</li>
+  <li>MedicalBook->[Books] [ANYPAWN_nameIndef] про [MedicalSkillAcc]</li>
+  <li>MedicalBook->[MedicalSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>MedicalBook->[Books] [ANYPAWN_nameIndef]: [MedicalSkillPlu]</li>
+  <li>MedicalBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [MedicalSkillPlu]</li>
+  <li>MedicalBook->[Noun] та [MedicalSkillPlu]</li>
+  <li>MedicalBook->Про [ConceptAny] та [MedicalSkillPlu]</li>
+  
+  <li>MeleeBook->[Books] про [maybe_adjective_plu] історії [MeleeSkillGenPlu]</li>
+  <li>MeleeBook->[BookLarge] про [MeleeSkillAcc]</li>
+  <li>MeleeBook->[Books] [PeopleBadassPluAcc] про [MeleeSkillAcc]</li>
+  <li>MeleeBook->[Books] про [maybe_adjective_plu] історії [MeleeSkillGenPlu]</li>
+  <li>MeleeBook->[BookBadass] про [MeleeSkillAcc]</li>
+  <li>MeleeBook->[Adjective] [Noun]: Історія	[MeleeSkillGenPlu]</li>
+  <li>MeleeBook->[MeleeSkill] [Digit]</li>
+  <li>MeleeBook->[maybe_letter][Digit][maybe_letter]: [MeleeSkillPlu]</li>
+  <li>MeleeBook->[maybe_letter][Digit][Digit][maybe_letter]: [MeleeSkillPlu]</li>
+  <li>MeleeBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MeleeSkillPlu]</li>
+  <li>MeleeBook->[maybe_letter][RomanNumeral][maybe_letter]: [MeleeSkillPlu]</li>
+  <li>MeleeBook->[Books] [ANYPAWN_nameIndef] про [MeleeSkillAcc]</li>
+  <li>MeleeBook->[MeleeSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>MeleeBook->[Books] [ANYPAWN_nameIndef]: [MeleeSkillPlu]</li>
+  <li>MeleeBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [MeleeSkillPlu]</li>
+  <li>MeleeBook->[Noun] та [MeleeSkillPlu]</li>
+  <li>MeleeBook->Про [ConceptAny] та [MeleeSkillPluConcept]</li>
+  
+  <li>MiningBook->[Books] про [maybe_adjective_plu] історії [MiningSkillGenPlu]</li>
+  <li>MiningBook->[BookLarge] про [MiningSkillAcc]</li>
+  <li>MiningBook->[Books] [PeopleBadassPluAcc] про [MiningSkillAcc]</li>
+  <li>MiningBook->[Books] про [maybe_adjective_plu] історії [MiningSkillGenPlu]</li>
+  <li>MiningBook->[BookBadass] про [MiningSkillAcc]</li>
+  <li>MiningBook->[Adjective] [Noun]: Історія	[MiningSkillGenPlu]</li>
+  <li>MiningBook->[MiningSkill] [Digit]</li>
+  <li>MiningBook->[maybe_letter][Digit][maybe_letter]: [MiningSkillPlu]</li>
+  <li>MiningBook->[maybe_letter][Digit][Digit][maybe_letter]: [MiningSkillPlu]</li>
+  <li>MiningBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MiningSkillPlu]</li>
+  <li>MiningBook->[maybe_letter][RomanNumeral][maybe_letter]: [MiningSkillPlu]</li>
+  <li>MiningBook->[Books] [ANYPAWN_nameIndef] про [MiningSkillAcc]</li>
+  <li>MiningBook->[MiningSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>MiningBook->[Books] [ANYPAWN_nameIndef]: [MiningSkillPlu]</li>
+  <li>MiningBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [MiningSkillPlu]</li>
+  <li>MiningBook->[Noun] та [MiningSkillPlu]</li>
+  <li>MiningBook->Про [ConceptAny] та [MiningSkillPluConcept]</li>
+  
+  <li>SocialBook->[Books] про [maybe_adjective_plu] історії [SocialSkillGenPlu]</li>
+  <li>SocialBook->[BookLarge] про [SocialSkillAcc]</li>
+  <li>SocialBook->[Books] [PeopleBadassPluAcc] про [SocialSkillAcc]</li>
+  <li>SocialBook->[Books] про [maybe_adjective_plu] історії [SocialSkillGenPlu]</li>
+  <li>SocialBook->[BookBadass] про [SocialSkillAcc]</li>
+  <li>SocialBook->[Adjective] [Noun]: Історія	[SocialSkillGenPlu]</li>
+  <li>SocialBook->[SocialSkill] [Digit]</li>
+  <li>SocialBook->[maybe_letter][Digit][maybe_letter]: [SocialSkillPlu]</li>
+  <li>SocialBook->[maybe_letter][Digit][Digit][maybe_letter]: [SocialSkillPlu]</li>
+  <li>SocialBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [SocialSkillPlu]</li>
+  <li>SocialBook->[maybe_letter][RomanNumeral][maybe_letter]: [SocialSkillPlu]</li>
+  <li>SocialBook->[Books] [ANYPAWN_nameIndef] про [SocialSkillAcc]</li>
+  <li>SocialBook->[SocialSkillPlu] [ANYPAWN_nameIndef]</li>
+  <li>SocialBook->[Books] [ANYPAWN_nameIndef]: [SocialSkillPlu]</li>
+  <li>SocialBook->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [SocialSkillPlu]</li>
+  <li>SocialBook->[Noun] та [SocialSkillPlu]</li>
+  <li>SocialBook->Про [ConceptAny] та [SocialSkillPluConcept]</li>
+  
+  <li>art_name_numeric->[maybe_letter][Digit][maybe_letter]</li>
+  <li>art_name_numeric->[maybe_letter][Digit][Digit][maybe_letter]</li>
+  <li>art_name_numeric->[maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+  <li>art_name_numeric->[maybe_letter][RomanNumeral][maybe_letter]</li>
+  <li>art_name_numeric->[maybe_letter][RomanNumeral][Digit][maybe_letter]</li>
+  <li>art_name_numeric->[maybe_letter][Digit][RomanNumeral][maybe_letter]</li>
+  <li>art_name_numeric->[maybe_letter][Digit][RomanNumeral][Digit][maybe_letter]</li>
+  <li>art_name_numeric->[maybe_letter][RomanNumeral][Digit][RomanNumeral][maybe_letter]</li>
+  <li>art_name_numeric->[maybe_letter][RomanNumeral][Digit][Digit][RomanNumeral][maybe_letter]</li>
+  
+  <li>maybe_letter(p=8)-></li>
+  <li>maybe_letter->[Letter]</li>
+  <li>maybe_letter->[Letter][Letter]</li>
+  <li>maybe_letter->[LetterLat]</li>
+  <li>maybe_letter->[LetterLat][LetterLat]</li>
+  </VBE_BookUtility.rulePack.rulesStrings>
+  
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [AnimalSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [AnimalSkillGenPlu]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [AnimalSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [AnimalSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [AnimalSkillGenPlu]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[AnimalSkillGenPlu]</li>
+	  <li>r_art_name->[AnimalSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [AnimalSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [AnimalSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [AnimalSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [AnimalSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [AnimalSkillAcc]</li>
+	  <li>r_art_name->[AnimalSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [AnimalSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [AnimalSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [AnimalSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [AnimalSkillGenPlu]</li>
+  </ArtDescription_BookAnimalsName.rulePack.rulesStrings>
+  
+  <ArtDescription_BookAnimalsDesc.rulePack.rulesStrings>
+	  <li>r_art_name->[first_chapters] [AnimalSkillGen][maybe_cont_animal]. [middle_book] [AnimalSkillGenPlu][maybe_cont_animal]. [ending] [AnimalSkillGenPlu][maybe_cont_animal]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навичку тваринництва.</li>
+	  <li>r_art_name->[first_chapters] [AnimalSkillGen][maybe_AnimalSkill][maybe_cont_animal]. [middle_book] [AnimalSkillGenPlu][maybe_AnimalSkillPlu][maybe_cont_animal]. [ending] [AnimalSkillGenPlu][maybe_AnimalSkillPlu][maybe_cont_animal]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про тварин.</li>  
+	  <li>r_art_name->[cover]. [first_chapters] [AnimalSkillGen][maybe_AnimalSkill][maybe_cont_animal]. [middle_book] [AnimalSkillGenPlu][maybe_AnimalSkillPlu][maybe_cont_animal]. [ending] [AnimalSkillGenPlu][maybe_AnimalSkillPlu][maybe_cont_animal]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навичку тваринництва.</li> 
+	  <li>r_art_name->[inspired] "[AnimalBook]", [first_chapters_inspired] [AnimalSkillGenPlu][maybe_AnimalSkillPlu][maybe_cont_animal]. [middle_book] [AnimalSkillGenPlu][maybe_AnimalSkillPlu][maybe_cont_animal]. [ending] [AnimalSkillGenPlu][maybe_AnimalSkillPlu][maybe_cont_animal]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навичку тваринництва.</li>
+	  <li>r_art_name->[book_general] взаємодію [AnimalSkillGenPlu] та [AnimalSkillGenPlu][maybe_cont_animal], не забуваючи, також, детально описати [AnimalSkillGenPlu]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою навички тваринництва покращаться.</li>
+  </ArtDescription_BookAnimalsDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookArtName.rulePack.rulesStrings>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [ArtSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [ArtSkillPlu]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [ArtSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [ArtSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [ArtSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[ArtSkillGenPlu]</li>
+	  <li>r_art_name->[ArtSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [ArtSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [ArtSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ArtSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [ArtSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [ArtSkillAcc]</li>
+	  <li>r_art_name->[ArtSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [ArtSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [ArtSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [ArtSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [ArtSkillPlu]</li>
+  </ArtDescription_BookArtName.rulePack.rulesStrings>
+  
+  <ArtDescription_BookArtDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [ArtSkillGen][maybe_cont_art]. [middle_book_1] [ArtSkillGenPlu][maybe_cont_art]. [ending] [ArtSkillPlu][maybe_cont_art]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички мистецтва.</li>
+  	  <li>r_art_name->[first_chapters] [ArtSkillGen][maybe_cont_art]. [middle_book_2] [ArtSkillPlu][maybe_cont_art]. [ending] [ArtSkillPlu][maybe_cont_art]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички мистецтва.</li>
+	  
+	  <li>r_art_name->[first_chapters] [ArtSkillGen][maybe_ArtSkill][maybe_cont_art]. [middle_book_1] [ArtSkillGenPlu][maybe_ArtSkillGenPlu][maybe_cont_art]. [ending] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про мистецтво.</li>  
+	  <li>r_art_name->[first_chapters] [ArtSkillGen][maybe_ArtSkill][maybe_cont_art]. [middle_book_2] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. [ending] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про мистецтво.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [ArtSkillGen][maybe_ArtSkill][maybe_cont_art]. [middle_book_1] [ArtSkillGenPlu][maybe_ArtSkillGenPlu][maybe_cont_art]. [ending] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички мистецтва.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [ArtSkillGen][maybe_ArtSkill][maybe_cont_art]. [middle_book_2] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. [ending] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички мистецтва.</li> 
+	  
+	  <li>r_art_name->[inspired] "[ArtBook]", [first_chapters_inspired_1] [ArtSkillGenPlu][maybe_ArtSkillGenPlu][maybe_cont_art]. [middle_book_1] [ArtSkillGenPlu][maybe_ArtSkillGenPlu][maybe_cont_art]. [ending] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички мистецтва.</li>
+	  <li>r_art_name->[inspired] "[ArtBook]", [first_chapters_inspired_1] [ArtSkillGenPlu][maybe_ArtSkillGenPlu][maybe_cont_art]. [middle_book_2] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. [ending] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички мистецтва.</li>
+	  <li>r_art_name->[inspired] "[ArtBook]", [first_chapters_inspired_2] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. [middle_book_1] [ArtSkillGenPlu][maybe_ArtSkillGenPlu][maybe_cont_art]. [ending] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички мистецтва.</li>
+	  <li>r_art_name->[inspired] "[ArtBook]", [first_chapters_inspired_2] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. [middle_book_2] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. [ending] [ArtSkillPlu][maybe_ArtSkillPlu][maybe_cont_art]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички мистецтва.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [ArtSkillGenPlu] та [ArtSkillGenPlu][maybe_cont_art], не забуваючи, також, детально описати [ArtSkillPlu]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою навички мистецтва покращаться.</li>
+  </ArtDescription_BookArtDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings>  
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [ConstructionSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [ConstructionSkillPlu]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [ConstructionSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [ConstructionSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [ConstructionSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[ConstructionSkillGenPlu]</li>
+	  <li>r_art_name->[ConstructionSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [ConstructionSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [ConstructionSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ConstructionSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [ConstructionSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [ConstructionSkillAcc]</li>
+	  <li>r_art_name->[ConstructionSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [ConstructionSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [ConstructionSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [ConstructionSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [ConstructionSkillPlu]</li>
+  </ArtDescription_BookConstructionName.rulePack.rulesStrings>
+  
+  <ArtDescription_BookConstructionDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [ConstructionSkillGen][maybe_cont_construct]. [middle_book_1] [ConstructionSkillGenPlu][maybe_cont_construct]. [ending] [ConstructionSkillPlu][maybe_cont_construct]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички будівництва.</li>
+  	  <li>r_art_name->[first_chapters] [ConstructionSkillGen][maybe_cont_construct]. [middle_book_2] [ConstructionSkillPlu][maybe_cont_construct]. [ending] [ConstructionSkillPlu][maybe_cont_construct]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички будівництва.</li>
+	  
+	  <li>r_art_name->[first_chapters] [ConstructionSkillGen][maybe_ConstructionSkill][maybe_cont_construct]. [middle_book_1] [ConstructionSkillGenPlu][maybe_ConstructionSkillGenPlu][maybe_cont_construct]. [ending] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про будівництво.</li>  
+	  <li>r_art_name->[first_chapters] [ConstructionSkillGen][maybe_ConstructionSkill][maybe_cont_construct]. [middle_book_2] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. [ending] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про будівництво.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [ConstructionSkillGen][maybe_ConstructionSkill][maybe_cont_construct]. [middle_book_1] [ConstructionSkillGenPlu][maybe_ConstructionSkillGenPlu][maybe_cont_construct]. [ending] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички будівництва.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [ConstructionSkillGen][maybe_ConstructionSkill][maybe_cont_construct]. [middle_book_2] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. [ending] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички будівництва.</li> 
+	  
+	  <li>r_art_name->[inspired] "[ConstructionBook]", [first_chapters_inspired_1] [ConstructionSkillGenPlu][maybe_ConstructionSkillGenPlu][maybe_cont_construct]. [middle_book_1] [ConstructionSkillGenPlu][maybe_ConstructionSkillGenPlu][maybe_cont_construct]. [ending] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички будівництва.</li>
+	  <li>r_art_name->[inspired] "[ConstructionBook]", [first_chapters_inspired_1] [ConstructionSkillGenPlu][maybe_ConstructionSkillGenPlu][maybe_cont_construct]. [middle_book_2] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. [ending] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички будівництва.</li>
+	  <li>r_art_name->[inspired] "[ConstructionBook]", [first_chapters_inspired_2] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. [middle_book_1] [ConstructionSkillGenPlu][maybe_ConstructionSkillGenPlu][maybe_cont_construct]. [ending] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички будівництва.</li>
+	  <li>r_art_name->[inspired] "[ConstructionBook]", [first_chapters_inspired_2] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. [middle_book_2] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. [ending] [ConstructionSkillPlu][maybe_ConstructionSkillPlu][maybe_cont_construct]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички будівництва.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [ConstructionSkillGenPlu] та [ConstructionSkillGenPlu][maybe_cont_construct], не забуваючи, також, детально описати [ConstructionSkillPlu]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою навички будівництва покращаться.</li>
+  </ArtDescription_BookConstructionDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookCookingName.rulePack.rulesStrings>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [CookingSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [CookingSkillPlu]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [CookingSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [CookingSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [CookingSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[CookingSkillGenPlu]</li>
+	  <li>r_art_name->[CookingSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [CookingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [CookingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CookingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [CookingSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [CookingSkillAcc]</li>
+	  <li>r_art_name->[CookingSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [CookingSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [CookingSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [CookingSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [CookingSkillPluConcept]</li>
+  </ArtDescription_BookCookingName.rulePack.rulesStrings>
+  
+  <ArtDescription_BookCookingDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [CookingSkillGen][maybe_cont_cooking]. [middle_book_1] [CookingSkillGenPlu][maybe_cont_cooking]. [ending] [CookingSkillPluConcept][maybe_cont_cooking]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує кулінарні навички.</li>
+  	  <li>r_art_name->[first_chapters] [CookingSkillGen][maybe_cont_cooking]. [middle_book_2] [CookingSkillPluConceptConcept][maybe_cont_cooking]. [ending] [CookingSkillPluConcept][maybe_cont_cooking]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує кулінарні навички.</li>
+	  
+	  <li>r_art_name->[first_chapters] [CookingSkillGen][maybe_CookingSkill][maybe_cont_cooking]. [middle_book_1] [CookingSkillGenPlu][maybe_CookingSkillGenPlu][maybe_cont_cooking]. [ending] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про кулінарію.</li>  
+	  <li>r_art_name->[first_chapters] [CookingSkillGen][maybe_CookingSkill][maybe_cont_cooking]. [middle_book_2] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. [ending] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про кулінарію.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [CookingSkillGen][maybe_CookingSkill][maybe_cont_cooking]. [middle_book_1] [CookingSkillGenPlu][maybe_CookingSkillGenPlu][maybe_cont_cooking]. [ending] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує кулінарні навички.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [CookingSkillGen][maybe_CookingSkill][maybe_cont_cooking]. [middle_book_2] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. [ending] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує кулінарні навички.</li> 
+	  
+	  <li>r_art_name->[inspired] "[CookingBook]", [first_chapters_inspired_1] [CookingSkillGenPlu][maybe_CookingSkillGenPlu][maybe_cont_cooking]. [middle_book_1] [CookingSkillGenPlu][maybe_CookingSkillGenPlu][maybe_cont_cooking]. [ending] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує кулінарні навички.</li>
+	  <li>r_art_name->[inspired] "[CookingBook]", [first_chapters_inspired_1] [CookingSkillGenPlu][maybe_CookingSkillGenPlu][maybe_cont_cooking]. [middle_book_2] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. [ending] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує кулінарні навички.</li>
+	  <li>r_art_name->[inspired] "[CookingBook]", [first_chapters_inspired_2] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. [middle_book_1] [CookingSkillGenPlu][maybe_CookingSkillGenPlu][maybe_cont_cooking]. [ending] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує кулінарні навички.</li>
+	  <li>r_art_name->[inspired] "[CookingBook]", [first_chapters_inspired_2] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. [middle_book_2] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. [ending] [CookingSkillPluConcept][maybe_CookingSkillPluConcept][maybe_cont_cooking]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує кулінарні навички.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [CookingSkillGenPlu] та [CookingSkillGenPlu][maybe_cont_cooking], не забуваючи, також, детально описати [CookingSkillPluConcept]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою кулінарні навички покращаться.</li>
+  </ArtDescription_BookCookingDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [CraftingSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [CraftingSkillAcc]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [CraftingSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [CraftingSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [CraftingSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[CraftingSkillGenPlu]</li>
+	  <li>r_art_name->[CraftingSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [CraftingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [CraftingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CraftingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [CraftingSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [CraftingSkillAcc]</li>
+	  <li>r_art_name->[CraftingSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [CraftingSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [CraftingSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [CraftingSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [CraftingSkillPluConcept]</li>
+  </ArtDescription_BookCraftingName.rulePack.rulesStrings>
+  
+  <ArtDescription_BookCraftingDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [CraftingSkillGen][maybe_cont_craft]. [middle_book_1] [CraftingSkillGenPlu][maybe_cont_craft]. [ending] [CraftingSkillPluConcept][maybe_cont_craft]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички ремесла.</li>
+  	  <li>r_art_name->[first_chapters] [CraftingSkillGen][maybe_cont_craft]. [middle_book_2] [CraftingSkillPluConcept][maybe_cont_craft]. [ending] [CraftingSkillPluConcept][maybe_cont_craft]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички ремесла.</li>
+	  
+	  <li>r_art_name->[first_chapters] [CraftingSkillGen][maybe_CraftingSkill][maybe_cont_craft]. [middle_book_1] [CraftingSkillGenPlu][maybe_CraftingSkillGenPlu][maybe_cont_craft]. [ending] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про ремесло.</li>  
+	  <li>r_art_name->[first_chapters] [CraftingSkillGen][maybe_CraftingSkill][maybe_cont_craft]. [middle_book_2] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. [ending] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про ремесло.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [CraftingSkillGen][maybe_CraftingSkill][maybe_cont_craft]. [middle_book_1] [CraftingSkillGenPlu][maybe_CraftingSkillGenPlu][maybe_cont_craft]. [ending] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ремесла.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [CraftingSkillGen][maybe_CraftingSkill][maybe_cont_craft]. [middle_book_2] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. [ending] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ремесла.</li> 
+	  
+	  <li>r_art_name->[inspired] "[CraftingBook]", [first_chapters_inspired_1] [CraftingSkillGenPlu][maybe_CraftingSkillGenPlu][maybe_cont_craft]. [middle_book_1] [CraftingSkillGenPlu][maybe_CraftingSkillGenPlu][maybe_cont_craft]. [ending] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ремесла.</li>
+	  <li>r_art_name->[inspired] "[CraftingBook]", [first_chapters_inspired_1] [CraftingSkillGenPlu][maybe_CraftingSkillGenPlu][maybe_cont_craft]. [middle_book_2] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. [ending] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ремесла.</li>
+	  <li>r_art_name->[inspired] "[CraftingBook]", [first_chapters_inspired_2] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. [middle_book_1] [CraftingSkillGenPlu][maybe_CraftingSkillGenPlu][maybe_cont_craft]. [ending] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ремесла.</li>
+	  <li>r_art_name->[inspired] "[CraftingBook]", [first_chapters_inspired_2] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. [middle_book_2] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. [ending] [CraftingSkillPluConcept][maybe_CraftingSkillPluConcept][maybe_cont_craft]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ремесла.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [CraftingSkillGenPlu] та [CraftingSkillGenPlu][maybe_cont_craft], не забуваючи, також, детально описати [CraftingSkillPluConcept]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою навички ремесла покращаться.</li>
+  </ArtDescription_BookCraftingDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [GrowingSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [GrowingSkillAcc]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [GrowingSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [GrowingSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [GrowingSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[GrowingSkillGenPlu]</li>
+	  <li>r_art_name->[GrowingSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [GrowingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [GrowingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [GrowingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [GrowingSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [GrowingSkillAcc]</li>
+	  <li>r_art_name->[GrowingSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [GrowingSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [GrowingSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [GrowingSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [GrowingSkillPlu]</li>
+  </ArtDescription_BookGrowingName.rulePack.rulesStrings>
+  
+  <ArtDescription_BookGrowingDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [GrowingSkillGen][maybe_cont_grow]. [middle_book_1] [GrowingSkillGenPlu][maybe_cont_grow]. [ending] [GrowingSkillPlu][maybe_cont_grow]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички рослинництва.</li>
+  	  <li>r_art_name->[first_chapters] [GrowingSkillGen][maybe_cont_grow]. [middle_book_2] [GrowingSkillPlu][maybe_cont_grow]. [ending] [GrowingSkillPlu][maybe_cont_grow]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички рослинництва.</li>
+	  
+	  <li>r_art_name->[first_chapters] [GrowingSkillGen][maybe_GrowingSkill][maybe_cont_grow]. [middle_book_1] [GrowingSkillGenPlu][maybe_GrowingSkillGenPlu][maybe_cont_grow]. [ending] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про рослинництво.</li>  
+	  <li>r_art_name->[first_chapters] [GrowingSkillGen][maybe_GrowingSkill][maybe_cont_grow]. [middle_book_2] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. [ending] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про рослинництво.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [GrowingSkillGen][maybe_GrowingSkill][maybe_cont_grow]. [middle_book_1] [GrowingSkillGenPlu][maybe_GrowingSkillGenPlu][maybe_cont_grow]. [ending] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички рослинництва.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [GrowingSkillGen][maybe_GrowingSkill][maybe_cont_grow]. [middle_book_2] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. [ending] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички рослинництва.</li> 
+	  
+	  <li>r_art_name->[inspired] "[GrowingBook]", [first_chapters_inspired_1] [GrowingSkillGenPlu][maybe_GrowingSkillGenPlu][maybe_cont_grow]. [middle_book_1] [GrowingSkillGenPlu][maybe_GrowingSkillGenPlu][maybe_cont_grow]. [ending] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички рослинництва.</li>
+	  <li>r_art_name->[inspired] "[GrowingBook]", [first_chapters_inspired_1] [GrowingSkillGenPlu][maybe_GrowingSkillGenPlu][maybe_cont_grow]. [middle_book_2] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. [ending] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички рослинництва.</li>
+	  <li>r_art_name->[inspired] "[GrowingBook]", [first_chapters_inspired_2] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. [middle_book_1] [GrowingSkillGenPlu][maybe_GrowingSkillGenPlu][maybe_cont_grow]. [ending] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички рослинництва.</li>
+	  <li>r_art_name->[inspired] "[GrowingBook]", [first_chapters_inspired_2] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. [middle_book_2] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. [ending] [GrowingSkillPlu][maybe_GrowingSkillPlu][maybe_cont_grow]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички рослинництва.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [GrowingSkillGenPlu] та [GrowingSkillGenPlu][maybe_cont_grow], не забуваючи, також, детально описати [GrowingSkillPlu]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою навички рослинництва покращаться.</li>  
+  </ArtDescription_BookGrowingDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [IntellectualSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [IntellectualSkillAcc]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [IntellectualSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [IntellectualSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [IntellectualSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[IntellectualSkillGenPlu]</li>
+	  <li>r_art_name->[IntellectualSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [IntellectualSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [IntellectualSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [IntellectualSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [IntellectualSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [IntellectualSkillAcc]</li>
+	  <li>r_art_name->[IntellectualSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [IntellectualSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [IntellectualSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [IntellectualSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [IntellectualSkillPlu]</li>
+  </ArtDescription_BookIntellectualName.rulePack.rulesStrings>
+  
+  <ArtDescription_BookIntellectualDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [IntellectualSkillGen][maybe_cont_int]. [middle_book_1] [IntellectualSkillGenPlu][maybe_cont_int]. [ending] [IntellectualSkillPlu][maybe_cont_int]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички дослідження.</li>
+  	  <li>r_art_name->[first_chapters] [IntellectualSkillGen][maybe_cont_int]. [middle_book_2] [IntellectualSkillPlu][maybe_cont_int]. [ending] [IntellectualSkillPlu][maybe_cont_int]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички дослідження.</li>
+	  
+	  <li>r_art_name->[first_chapters] [IntellectualSkillGen][maybe_IntellectualSkill][maybe_cont_int]. [middle_book_1] [IntellectualSkillGenPlu][maybe_IntellectualSkillGenPlu][maybe_cont_int]. [ending] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про дослідження.</li>  
+	  <li>r_art_name->[first_chapters] [IntellectualSkillGen][maybe_IntellectualSkill][maybe_cont_int]. [middle_book_2] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. [ending] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про дослідження.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [IntellectualSkillGen][maybe_IntellectualSkill][maybe_cont_int]. [middle_book_1] [IntellectualSkillGenPlu][maybe_IntellectualSkillGenPlu][maybe_cont_int]. [ending] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички дослідження.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [IntellectualSkillGen][maybe_IntellectualSkill][maybe_cont_int]. [middle_book_2] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. [ending] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички дослідження.</li> 
+	  
+	  <li>r_art_name->[inspired] "[IntellectualBook]", [first_chapters_inspired_1] [IntellectualSkillGenPlu][maybe_IntellectualSkillGenPlu][maybe_cont_int]. [middle_book_1] [IntellectualSkillGenPlu][maybe_IntellectualSkillGenPlu][maybe_cont_int]. [ending] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички дослідження.</li>
+	  <li>r_art_name->[inspired] "[IntellectualBook]", [first_chapters_inspired_1] [IntellectualSkillGenPlu][maybe_IntellectualSkillGenPlu][maybe_cont_int]. [middle_book_2] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. [ending] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички дослідження.</li>
+	  <li>r_art_name->[inspired] "[IntellectualBook]", [first_chapters_inspired_2] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. [middle_book_1] [IntellectualSkillGenPlu][maybe_IntellectualSkillGenPlu][maybe_cont_int]. [ending] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички дослідження.</li>
+	  <li>r_art_name->[inspired] "[IntellectualBook]", [first_chapters_inspired_2] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. [middle_book_2] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. [ending] [IntellectualSkillPlu][maybe_IntellectualSkillPlu][maybe_cont_int]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички дослідження.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [IntellectualSkillGenPlu] та [IntellectualSkillGenPlu][maybe_cont_int], не забуваючи, також, детально описати [IntellectualSkillPlu]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою навички дослідження покращаться.</li>  
+  </ArtDescription_BookIntellectualDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings> 
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [MedicalSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [MedicalSkillAcc]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [MedicalSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [MedicalSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [MedicalSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[MedicalSkillGenPlu]</li>
+	  <li>r_art_name->[MedicalSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [MedicalSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [MedicalSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MedicalSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [MedicalSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [MedicalSkillAcc]</li>
+	  <li>r_art_name->[MedicalSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [MedicalSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [MedicalSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [MedicalSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [MedicalSkillPlu]</li>
+  </ArtDescription_BookMedicalName.rulePack.rulesStrings>
+  
+  <ArtDescription_BookMedicalDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [MedicalSkillGen][maybe_cont_medical]. [middle_book_1] [MedicalSkillGenPlu][maybe_cont_medical]. [ending] [MedicalSkillPlu][maybe_cont_medical]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує медичні навички.</li>
+  	  <li>r_art_name->[first_chapters] [MedicalSkillGen][maybe_cont_medical]. [middle_book_2] [MedicalSkillPlu][maybe_cont_medical]. [ending] [MedicalSkillPlu][maybe_cont_medical]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує медичні навички.</li>
+	  
+	  <li>r_art_name->[first_chapters] [MedicalSkillGen][maybe_MedicalSkill][maybe_cont_medical]. [middle_book_1] [MedicalSkillGenPlu][maybe_MedicalSkillGenPlu][maybe_cont_medical]. [ending] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про медицину.</li>  
+	  <li>r_art_name->[first_chapters] [MedicalSkillGen][maybe_MedicalSkill][maybe_cont_medical]. [middle_book_2] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. [ending] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про медицину.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [MedicalSkillGen][maybe_MedicalSkill][maybe_cont_medical]. [middle_book_1] [MedicalSkillGenPlu][maybe_MedicalSkillGenPlu][maybe_cont_medical]. [ending] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує медичні навички.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [MedicalSkillGen][maybe_MedicalSkill][maybe_cont_medical]. [middle_book_2] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. [ending] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує медичні навички.</li> 
+	  
+	  <li>r_art_name->[inspired] "[MedicalBook]", [first_chapters_inspired_1] [MedicalSkillGenPlu][maybe_MedicalSkillGenPlu][maybe_cont_medical]. [middle_book_1] [MedicalSkillGenPlu][maybe_MedicalSkillGenPlu][maybe_cont_medical]. [ending] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує медичні навички.</li>
+	  <li>r_art_name->[inspired] "[MedicalBook]", [first_chapters_inspired_1] [MedicalSkillGenPlu][maybe_MedicalSkillGenPlu][maybe_cont_medical]. [middle_book_2] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. [ending] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує медичні навички.</li>
+	  <li>r_art_name->[inspired] "[MedicalBook]", [first_chapters_inspired_2] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. [middle_book_1] [MedicalSkillGenPlu][maybe_MedicalSkillGenPlu][maybe_cont_medical]. [ending] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує медичні навички.</li>
+	  <li>r_art_name->[inspired] "[MedicalBook]", [first_chapters_inspired_2] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. [middle_book_2] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. [ending] [MedicalSkillPlu][maybe_MedicalSkillPlu][maybe_cont_medical]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує медичні навички.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [MedicalSkillGenPlu] та [MedicalSkillGenPlu][maybe_cont_medical], не забуваючи, також, детально описати [MedicalSkillPlu]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою медичні навички покращаться.</li>  
+  </ArtDescription_BookMedicalDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings> 
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [MeleeSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [MeleeSkillAcc]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [MeleeSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [MeleeSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [MeleeSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[MeleeSkillGenPlu]</li>
+	  <li>r_art_name->[MeleeSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [MeleeSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [MeleeSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MeleeSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [MeleeSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [MeleeSkillAcc]</li>
+	  <li>r_art_name->[MeleeSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [MeleeSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [MeleeSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [MeleeSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [MeleeSkillPluConcept]</li>
+  </ArtDescription_BookMeleeName.rulePack.rulesStrings>
+  
+  <ArtDescription_BookMeleeDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [MeleeSkillGen][maybe_cont_melee]. [middle_book_1] [MeleeSkillGenPlu][maybe_cont_melee]. [ending] [MeleeSkillPluConcept][maybe_cont_melee]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички ближнього бою.</li>
+  	  <li>r_art_name->[first_chapters] [MeleeSkillGen][maybe_cont_melee]. [middle_book_2] [MeleeSkillPluConcept][maybe_cont_melee]. [ending] [MeleeSkillPluConcept][maybe_cont_melee]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички ближнього бою.</li>
+	  
+	  <li>r_art_name->[first_chapters] [MeleeSkillGen][maybe_MeleeSkill][maybe_cont_melee]. [middle_book_1] [MeleeSkillGenPlu][maybe_MeleeSkillGenPlu][maybe_cont_melee]. [ending] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про бойові мистецтва.</li>  
+	  <li>r_art_name->[first_chapters] [MeleeSkillGen][maybe_MeleeSkill][maybe_cont_melee]. [middle_book_2] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. [ending] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про бойові мистецтва.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [MeleeSkillGen][maybe_MeleeSkill][maybe_cont_melee]. [middle_book_1] [MeleeSkillGenPlu][maybe_MeleeSkillGenPlu][maybe_cont_melee]. [ending] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ближнього бою.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [MeleeSkillGen][maybe_MeleeSkill][maybe_cont_melee]. [middle_book_2] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. [ending] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ближнього бою.</li> 
+	  
+	  <li>r_art_name->[inspired] "[MeleeBook]", [first_chapters_inspired_1] [MeleeSkillGenPlu][maybe_MeleeSkillGenPlu][maybe_cont_melee]. [middle_book_1] [MeleeSkillGenPlu][maybe_MeleeSkillGenPlu][maybe_cont_melee]. [ending] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ближнього бою.</li>
+	  <li>r_art_name->[inspired] "[MeleeBook]", [first_chapters_inspired_1] [MeleeSkillGenPlu][maybe_MeleeSkillGenPlu][maybe_cont_melee]. [middle_book_2] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. [ending] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ближнього бою.</li>
+	  <li>r_art_name->[inspired] "[MeleeBook]", [first_chapters_inspired_2] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. [middle_book_1] [MeleeSkillGenPlu][maybe_MeleeSkillGenPlu][maybe_cont_melee]. [ending] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ближнього бою.</li>
+	  <li>r_art_name->[inspired] "[MeleeBook]", [first_chapters_inspired_2] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. [middle_book_2] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. [ending] [MeleeSkillPluConcept][maybe_MeleeSkillPluConcept][maybe_cont_melee]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички ближнього бою.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [MeleeSkillGenPlu] та [MeleeSkillGenPlu][maybe_cont_melee], не забуваючи, також, детально описати [MeleeSkillPluConcept]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою навички ближнього бою покращаться.</li>  
+  </ArtDescription_BookMeleeDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookMiningName.rulePack.rulesStrings>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [MiningSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [MiningSkillAcc]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [MiningSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [MiningSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [MiningSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[MiningSkillGenPlu]</li>
+	  <li>r_art_name->[MiningSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [MiningSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [MiningSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MiningSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [MiningSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [MiningSkillAcc]</li>
+	  <li>r_art_name->[MiningSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [MiningSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [MiningSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [MiningSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [MiningSkillPluConcept]</li>
+  </ArtDescription_BookMiningName.rulePack.rulesStrings>
+ 
+  <ArtDescription_BookMiningDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [MiningSkillGen][maybe_cont_mining]. [middle_book_1] [MiningSkillGenPlu][maybe_cont_mining]. [ending] [MiningSkillPluConcept][maybe_cont_mining]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує шахтарські навички.</li>
+  	  <li>r_art_name->[first_chapters] [MiningSkillGen][maybe_cont_mining]. [middle_book_2] [MiningSkillPluConcept][maybe_cont_mining]. [ending] [MiningSkillPluConcept][maybe_cont_mining]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує шахтарські навички.</li>
+	  
+	  <li>r_art_name->[first_chapters] [MiningSkillGen][maybe_MiningSkill][maybe_cont_mining]. [middle_book_1] [MiningSkillGenPlu][maybe_MiningSkillGenPlu][maybe_cont_mining]. [ending] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про шахтарство.</li>  
+	  <li>r_art_name->[first_chapters] [MiningSkillGen][maybe_MiningSkill][maybe_cont_mining]. [middle_book_2] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. [ending] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про шахтарство.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [MiningSkillGen][maybe_MiningSkill][maybe_cont_mining]. [middle_book_1] [MiningSkillGenPlu][maybe_MiningSkillGenPlu][maybe_cont_mining]. [ending] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує шахтарські навички.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [MiningSkillGen][maybe_MiningSkill][maybe_cont_mining]. [middle_book_2] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. [ending] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує шахтарські навички.</li> 
+	  
+	  <li>r_art_name->[inspired] "[MiningBook]", [first_chapters_inspired_1] [MiningSkillGenPlu][maybe_MiningSkillGenPlu][maybe_cont_mining]. [middle_book_1] [MiningSkillGenPlu][maybe_MiningSkillGenPlu][maybe_cont_mining]. [ending] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує шахтарські навички.</li>
+	  <li>r_art_name->[inspired] "[MiningBook]", [first_chapters_inspired_1] [MiningSkillGenPlu][maybe_MiningSkillGenPlu][maybe_cont_mining]. [middle_book_2] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. [ending] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує шахтарські навички.</li>
+	  <li>r_art_name->[inspired] "[MiningBook]", [first_chapters_inspired_2] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. [middle_book_1] [MiningSkillGenPlu][maybe_MiningSkillGenPlu][maybe_cont_mining]. [ending] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує шахтарські навички.</li>
+	  <li>r_art_name->[inspired] "[MiningBook]", [first_chapters_inspired_2] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. [middle_book_2] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. [ending] [MiningSkillPluConcept][maybe_MiningSkillPluConcept][maybe_cont_mining]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує шахтарські навички.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [MiningSkillGenPlu] та [MiningSkillGenPlu][maybe_cont_mining], не забуваючи, також, детально описати [MiningSkillPluConcept]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою шахтарські навички покращаться.</li>  
+  </ArtDescription_BookMiningDesc.rulePack.rulesStrings>
+
+  <ArtDescription_Newspaper.rulePack.rulesStrings>
+	  <li>r_art_name->[Newspapers] [PlaceOutlander]</li>
+	  <li>r_art_name->[Newspapers] [Digit]</li>
+	  <li>r_art_name->[Newspapers] [art_name_numeric]</li>
+  </ArtDescription_Newspaper.rulePack.rulesStrings>
+  
+  <ArtDescription_NewspaperDesc.rulePack.rulesStrings>
+  <li>r_art_name->Ця газета детально розповідає про події останніх кількох днів.</li>
+  </ArtDescription_NewspaperDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookShootingName.rulePack.rulesStrings>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [ShootingSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [ShootingSkillAcc]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [ShootingSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [ShootingSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [ShootingSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[ShootingSkillGenPlu]</li>
+	  <li>r_art_name->[ShootingSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [ShootingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [ShootingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ShootingSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [ShootingSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [ShootingSkillAcc]</li>
+	  <li>r_art_name->[ShootingSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [ShootingSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [ShootingSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [ShootingSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [ShootingSkillPluConcept]</li>
+  </ArtDescription_BookShootingName.rulePack.rulesStrings>
+
+  <ArtDescription_BookShootingDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [ShootingSkillGen][maybe_cont_shooting]. [middle_book_1] [ShootingSkillGenPlu][maybe_cont_shooting]. [ending] [ShootingSkillPluConcept][maybe_cont_shooting]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує стрілецькі навички.</li>
+  	  <li>r_art_name->[first_chapters] [ShootingSkillGen][maybe_cont_shooting]. [middle_book_2] [ShootingSkillPluConcept][maybe_cont_shooting]. [ending] [ShootingSkillPluConcept][maybe_cont_shooting]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує стрілецькі навички.</li>
+	  
+	  <li>r_art_name->[first_chapters] [ShootingSkillGen][maybe_ShootingSkill][maybe_cont_shooting]. [middle_book_1] [ShootingSkillGenPlu][maybe_ShootingSkillGenPlu][maybe_cont_shooting]. [ending] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про ведення дальнього бою.</li>  
+	  <li>r_art_name->[first_chapters] [ShootingSkillGen][maybe_ShootingSkill][maybe_cont_shooting]. [middle_book_2] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. [ending] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує знання про ведення дальнього бою.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [ShootingSkillGen][maybe_ShootingSkill][maybe_cont_shooting]. [middle_book_1] [ShootingSkillGenPlu][maybe_ShootingSkillGenPlu][maybe_cont_shooting]. [ending] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує стрілецькі навички.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [ShootingSkillGen][maybe_ShootingSkill][maybe_cont_shooting]. [middle_book_2] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. [ending] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує стрілецькі навички.</li> 
+	  
+	  <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters_inspired_1] [ShootingSkillGenPlu][maybe_ShootingSkillGenPlu][maybe_cont_shooting]. [middle_book_1] [ShootingSkillGenPlu][maybe_ShootingSkillGenPlu][maybe_cont_shooting]. [ending] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує стрілецькі навички.</li>
+	  <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters_inspired_1] [ShootingSkillGenPlu][maybe_ShootingSkillGenPlu][maybe_cont_shooting]. [middle_book_2] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. [ending] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує стрілецькі навички.</li>
+	  <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters_inspired_2] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. [middle_book_1] [ShootingSkillGenPlu][maybe_ShootingSkillGenPlu][maybe_cont_shooting]. [ending] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує стрілецькі навички.</li>
+	  <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters_inspired_2] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. [middle_book_2] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. [ending] [ShootingSkillPluConcept][maybe_ShootingSkillPluConcept][maybe_cont_shooting]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує стрілецькі навички.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [ShootingSkillGenPlu] та [ShootingSkillGenPlu][maybe_cont_shooting], не забуваючи, також, детально описати [ShootingSkillPluConcept]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою стрілецькі навички покращаться.</li>  
+  </ArtDescription_BookShootingDesc.rulePack.rulesStrings>
+  
+  <ArtDescription_BookSocialName.rulePack.rulesStrings>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [SocialSkillGenPlu]</li>
+	  <li>r_art_name->[BookLarge] про [SocialSkillAcc]</li>
+	  <li>r_art_name->[Books] [PeopleBadassPluAcc] про [SocialSkillAcc]</li>
+	  <li>r_art_name->[Books] про [maybe_adjective_plu] історії [SocialSkillGenPlu]</li>
+	  <li>r_art_name->[BookBadass] про [SocialSkillAcc]</li>
+	  <li>r_art_name->[Adjective] [Noun]: Історія	[SocialSkillGenPlu]</li>
+	  <li>r_art_name->[SocialSkill] [Digit]</li>
+	  <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [SocialSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [SocialSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [SocialSkillPlu]</li>
+	  <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [SocialSkillPlu]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef] про [SocialSkillAcc]</li>
+	  <li>r_art_name->[SocialSkillPlu] [ANYPAWN_nameIndef]</li>
+	  <li>r_art_name->[Books] [ANYPAWN_nameIndef]: [SocialSkillPlu]</li>
+	  <li>r_art_name->[ANYPAWN_nameIndef] [Trans] [ColorAbl]: [SocialSkillPlu]</li>
+	  <li>r_art_name->[Noun] та [SocialSkillPlu]</li>
+	  <li>r_art_name->Про [ConceptAny] та [SocialSkillPluConcept]</li>
+  </ArtDescription_BookSocialName.rulePack.rulesStrings>
+
+  <ArtDescription_BookSocialDesc.rulePack.rulesStrings>
+  	  <li>r_art_name->[first_chapters] [SocialSkillGen][maybe_cont_social]. [middle_book_1] [SocialSkillGenPlu][maybe_cont_social]. [ending] [SocialSkillPluConcept][maybe_cont_social]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички соціальності.</li>
+  	  <li>r_art_name->[first_chapters] [SocialSkillGen][maybe_cont_social]. [middle_book_2] [SocialSkillPluConcept][maybe_cont_social]. [ending] [SocialSkillPluConcept][maybe_cont_social]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує навички соціальності.</li>
+	  
+	  <li>r_art_name->[first_chapters] [SocialSkillGen][maybe_SocialSkill][maybe_cont_social]. [middle_book_1] [SocialSkillGenPlu][maybe_SocialSkillGenPlu][maybe_cont_social]. [ending] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує соціальні знання.</li>  
+	  <li>r_art_name->[first_chapters] [SocialSkillGen][maybe_SocialSkill][maybe_cont_social]. [middle_book_2] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. [ending] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. Цей [book] [book_context][maybe_writingstyles]. Вивчення цієї книги покращує соціальні знання.</li>  
+	  
+	  <li>r_art_name->[cover]. [first_chapters] [SocialSkillGen][maybe_SocialSkill][maybe_cont_social]. [middle_book_1] [SocialSkillGenPlu][maybe_SocialSkillGenPlu][maybe_cont_social]. [ending] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички соціальності.</li> 
+	  <li>r_art_name->[cover]. [first_chapters] [SocialSkillGen][maybe_SocialSkill][maybe_cont_social]. [middle_book_2] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. [ending] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички соціальності.</li> 
+	  
+	  <li>r_art_name->[inspired] "[SocialBook]", [first_chapters_inspired_1] [SocialSkillGenPlu][maybe_SocialSkillGenPlu][maybe_cont_social]. [middle_book_1] [SocialSkillGenPlu][maybe_SocialSkillGenPlu][maybe_cont_social]. [ending] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички соціальності.</li>
+	  <li>r_art_name->[inspired] "[SocialBook]", [first_chapters_inspired_1] [SocialSkillGenPlu][maybe_SocialSkillGenPlu][maybe_cont_social]. [middle_book_2] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. [ending] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички соціальності.</li>
+	  <li>r_art_name->[inspired] "[SocialBook]", [first_chapters_inspired_2] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. [middle_book_1] [SocialSkillGenPlu][maybe_SocialSkillGenPlu][maybe_cont_social]. [ending] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички соціальності.</li>
+	  <li>r_art_name->[inspired] "[SocialBook]", [first_chapters_inspired_2] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. [middle_book_2] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. [ending] [SocialSkillPluConcept][maybe_SocialSkillPluConcept][maybe_cont_social]. Цей [book] [book_context][maybe_writingstyles]. Читання цієї книги покращує навички соціальності.</li>
+	  
+	  <li>r_art_name->[book_general] взаємодію [SocialSkillGenPlu] та [SocialSkillGenPlu][maybe_cont_social], не забуваючи, також, детально описати [SocialSkillPluConcept]. Він [book_context][maybe_writingstyles]. Після ознайомлення з цією роботою навички соціальності покращаться.</li>  
+  </ArtDescription_BookSocialDesc.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFE_Res_Obelisk.label>обеліски</VFE_Res_Obelisk.label>
+  <VFE_Res_Obelisk.description>Вивчіть, як створювати високі вузькі обеліски на честь важливих подій.</VFE_Res_Obelisk.description>
+
+  <VFE_Res_Pottery.label>гончарство</VFE_Res_Pottery.label>
+  <VFE_Res_Pottery.description>Вивчіть, як створювати красиві вази та інші посудини з простих матеріалів.</VFE_Res_Pottery.description>
+
+  <VFE_Res_WallCarvings.label>різьблення</VFE_Res_WallCarvings.label>
+  <VFE_Res_WallCarvings.description>Опануйте техніку настінного різьблення для створення красивих колон і рельєфів.</VFE_Res_WallCarvings.description>
+
+  <VFE_Res_ArtfulDisplay.label>виставка мистецтва</VFE_Res_ArtfulDisplay.label>
+  <VFE_Res_ArtfulDisplay.description>Створюйте привабливі демонстрації артефактів і важливих товарів колонії.</VFE_Res_ArtfulDisplay.description>
+
+  <VFE_Res_Statues.label>статуї</VFE_Res_Statues.label>
+  <VFE_Res_Statues.description>Вивчіть, як ліпити скульптури людей та інших істот, з художніми ілюстраціями.</VFE_Res_Statues.description>
+
+  <VFE_Res_Monuments.label>монументи</VFE_Res_Monuments.label>
+  <VFE_Res_Monuments.description>Вивчіть, як створювати масивні пам'ятники – центри вашої колонії, щоб вшанувати пам'ять тих, хто помер, і дати натхнення тим, хто все ще бореться.</VFE_Res_Monuments.description>
+
+  <VFE_Res_Rugs.label>килимки</VFE_Res_Rugs.label>
+  <VFE_Res_Rugs.description>Вивчіть, як створювати красиві килимки для прикраси вашої колонії.</VFE_Res_Rugs.description>
+
+  <VFE_Res_Wallpapers.label>шпалери</VFE_Res_Wallpapers.label>
+  <VFE_Res_Wallpapers.description>Створюйте красиві стіни, обклеєні шпалерами бажаного кольору.</VFE_Res_Wallpapers.description>
+
+  <VFE_Res_Holograms.label>голограми</VFE_Res_Holograms.label>
+  <VFE_Res_Holograms.description>Адаптуйте передові методи передачі зображень для демонстрації тривимірних моделей по всьому вашому поселенню.</VFE_Res_Holograms.description>
+</LanguageData>

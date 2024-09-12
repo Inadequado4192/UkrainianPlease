@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_RelicSmashingAltar.label>вівтар для розбиття реліквій</AM_RelicSmashingAltar.label>
+  <AM_RelicSmashingAltar.description>Невелика чаша, що вміщує одну реліквію. Реліквії можна покласти у вівтар, щоб почати ритуал знищення реліквії, але колоністи не зможуть витягти реліквію з неї.</AM_RelicSmashingAltar.description>
+  <AM_RelicSmashingAltar_Blueprint.label>вівтар для розбиття реліквій (креслення)</AM_RelicSmashingAltar_Blueprint.label>
+  <AM_RelicSmashingAltar_Frame.label>вівтар для розбиття реліквій (будується)</AM_RelicSmashingAltar_Frame.label>
+  <AM_RelicSmashingAltar_Frame.description>Невелика чаша, що вміщує одну реліквію. Реліквії можна покласти у вівтар, щоб почати ритуал знищення реліквії, але колоністи не зможуть витягти реліквію з неї.</AM_RelicSmashingAltar_Frame.description>
+
+
+</LanguageData>

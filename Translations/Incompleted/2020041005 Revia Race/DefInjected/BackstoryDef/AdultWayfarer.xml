@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] wanders the forests, hills and deserts. The wilderness is [PAWN_possessive] home. -->
+  <ReviaRaceBackstoryAdultWayfarer.baseDesc>[PAWN_nameDef] блукає лісами, гірськими хребтами та пустелями. Дика природа - [PAWN_possessive] дім.</ReviaRaceBackstoryAdultWayfarer.baseDesc>
+  <!-- EN: Revian Wayfarer -->
+  <ReviaRaceBackstoryAdultWayfarer.title>Ревійський Мандрівник</ReviaRaceBackstoryAdultWayfarer.title>
+  <!-- EN: Wayfarer -->
+  <ReviaRaceBackstoryAdultWayfarer.titleShort>Мандрівник</ReviaRaceBackstoryAdultWayfarer.titleShort>
+  
+</LanguageData>

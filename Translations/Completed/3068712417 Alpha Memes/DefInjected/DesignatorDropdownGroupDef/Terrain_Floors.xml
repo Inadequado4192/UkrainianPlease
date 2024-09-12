@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Jewish -->
+
+  <AM_Floor_JewishTiles.label>єврейська кам'яна плитка</AM_Floor_JewishTiles.label>
+  <AM_Floor_JewishFineTiles.label>Єврейська різьблена кам'яна плитка</AM_Floor_JewishFineTiles.label>
+
+
+  <!-- Kemetic -->
+
+  <AM_Floor_KemeticTiles.label>єгипетська плитка</AM_Floor_KemeticTiles.label>
+  <AM_Floor_KemeticFineTiles.label>єгипетська різьблена кам'яна плитка</AM_Floor_KemeticFineTiles.label>
+
+
+  <!-- Steampunk -->
+
+  <AM_Floor_SteampunkTiles.label>кам'яна плитка в стилі стімпанк</AM_Floor_SteampunkTiles.label>
+
+
+  <!-- Neolithic -->
+
+  <AM_Floor_NeolithicTiles.label>неолітичні земляні підлоги</AM_Floor_NeolithicTiles.label>
+
+
+</LanguageData>

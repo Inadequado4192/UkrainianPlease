@@ -1,0 +1,857 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_PirateChef.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} шеф-кухарем на піратському кораблі. [PAWN_possessive] небилиці, у перервах між їжею, підтримували бойовий дух екіпажу. Лояльність команди до свого шеф-кухаря була великою, можливо, навіть більшою, ніж до свого капітана...</VBE_PirateChef.baseDesc>
+  <VBE_PirateChef.title>Шеф-пірат</VBE_PirateChef.title>
+  <VBE_PirateChef.titleShort>Шеф</VBE_PirateChef.titleShort>
+  
+  <VBE_GeneModdedBeauty.baseDesc>[PAWN_nameDef] - це результат деяких з найсучасніших косметичних операцій [PAWN_possessive] домашнього світу. [PAWN_nameDef] витрача{PAWN_gender ? в : ла} незліченні статки на свою зовнішність, протягом всього життя, тому часу, щоб практикувати більш корисні навички, не було.</VBE_GeneModdedBeauty.baseDesc>
+  <VBE_GeneModdedBeauty.title>Генно-модифікований красунчик</VBE_GeneModdedBeauty.title>
+  <VBE_GeneModdedBeauty.titleFemale>Генно-модифікована красуня</VBE_GeneModdedBeauty.titleFemale>
+  <VBE_GeneModdedBeauty.titleShort>Красунчик</VBE_GeneModdedBeauty.titleShort>
+  <VBE_GeneModdedBeauty.titleShortFemale>Красуня</VBE_GeneModdedBeauty.titleShortFemale>
+  
+  <VBE_HumanFarm.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} створен{PAWN_gender ? ий : а} лише з однією метою - для споживання. [PAWN_possessive] виростили з набору гормональних ін'єкторів та ін'єкторів розвитку, під'єднаних до заповненої розчином трубки, багато років свого життя, {PAWN_gender ? йому : їй} довелося провести, дивлячись у лабораторію, де м'ясники та науковці продовжували своє повсякденне життя. Під час нещасного випадку, який зруйнував ферму, [PAWN_nameDef] {PAWN_gender ? зміг : змогла} врятуватися.\nЦе дало {PAWN_gender ? йому : їй} базове розуміння людської анатомії, але залишило шрам на все [PAWN_possessive] життя.</VBE_HumanFarm.baseDesc>
+  <VBE_HumanFarm.title>Людська ферма</VBE_HumanFarm.title>
+  <VBE_HumanFarm.titleShort>М'ясо</VBE_HumanFarm.titleShort>
+  
+  <VBE_Housecarl.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} хускарлом могутнього вождя. [PAWN_possessive] навчили володіти різноманітною зброєю, і привчили завжди бути озброєн{PAWN_gender ? им : ою} як на полі бою, так і поза ним. Після конфлікту з більш могутнім кланом, в результаті якого загинув і [PAWN_possessive] вождь, і багато членів [PAWN_possessive] клану, [PAWN_nameDef] піш{PAWN_gender ? ов : ла} шукати новий дім, щоб надати свою клятву та клинок, або просто зайнятися чимось новим для себе.</VBE_Housecarl.baseDesc>
+  <VBE_Housecarl.title>Хускарл</VBE_Housecarl.title>
+  <VBE_Housecarl.titleFemale>Хускарлеса</VBE_Housecarl.titleFemale>
+  <VBE_Housecarl.titleShort>Хускарл</VBE_Housecarl.titleShort>
+  <VBE_Housecarl.titleShortFemale>Хускарлеса</VBE_Housecarl.titleShortFemale>
+  
+  <VBE_FanaticInventor.baseDesc>[PAWN_nameDef] любить техніку та інженерію просто до фанатизму. У своєму світі, на планеті-екуменополісі, [PAWN_possessive] часто переслідувала поцілія за нелегально виготовлені дрони, зброю та машини. [PAWN_nameDef] не бачить у природі нічого, окрім джерела матеріалів, які можна переробити на щось корисне.</VBE_FanaticInventor.baseDesc>
+  <VBE_FanaticInventor.title>Винахідник-фанатик</VBE_FanaticInventor.title>
+  <VBE_FanaticInventor.titleFemale>Винахідниця-фанатик</VBE_FanaticInventor.titleFemale>
+  <VBE_FanaticInventor.titleShort>Технофанатик</VBE_FanaticInventor.titleShort>
+  
+  <VBE_CaveinSurvivor.baseDesc>Потрапивши в рабство після знищення свого клану, [PAWN_nameDef] швидко бу{PAWN_gender ? в : ла} кинут{PAWN_gender ? ий : а} в шахти рейдерами, копати дорогоцінні метали. Через відсутність безпеки та турботи про [PAWN_possessive] життя з боку викрадачів, шахта обвалилася. В живих залишилась тільки одна людина - [PAWN_nameDef]. Щоб переконатися, що [PAWN_pronoun] ніколи не туди не повернеться, {PAWN_gender ? йому : їй} довелося навчитися ремеслу. Через свою душевну травму [PAWN_pronoun] може жорстоко відреагувати, якщо [PAWN_possessive] примушувати працювати в шахтах.</VBE_CaveinSurvivor.baseDesc>
+  <VBE_CaveinSurvivor.title>Людина, що вижила під час обвалу</VBE_CaveinSurvivor.title>
+  <VBE_CaveinSurvivor.titleShort>Уцілівший</VBE_CaveinSurvivor.titleShort>
+  <VBE_CaveinSurvivor.titleShortFemale>Уцілівша</VBE_CaveinSurvivor.titleShortFemale>
+  
+  <VBE_IndustrialGunsmith.baseDesc>Більшу частину своїх днів, [PAWN_nameDef] ретельно працюва{PAWN_gender ? в : ла} за своїм верстатом, створюючи вогнепальну зброю. Люди бачили, як [PAWN_pronoun] по декілька годин проводить випробування своїх нових конструкцій на стрільбищі. Однак, багато часу, проведеного з вогнепальною зброєю, негативно позначилось на [PAWN_possessive] навичках у ближньому бою.</VBE_IndustrialGunsmith.baseDesc>
+  <VBE_IndustrialGunsmith.title>Промисловий зброяр</VBE_IndustrialGunsmith.title>
+  <VBE_IndustrialGunsmith.titleFemale>Промислова зброярка</VBE_IndustrialGunsmith.titleFemale>
+  <VBE_IndustrialGunsmith.titleShort>Зброяр</VBE_IndustrialGunsmith.titleShort>
+  <VBE_IndustrialGunsmith.titleShortFemale>Зброярка</VBE_IndustrialGunsmith.titleShortFemale>
+  
+  <VBE_SlaveTrader.baseDesc>Розуміючи, який прибуток приносять теплі тіла, а не холодні, [PAWN_nameDef] наполяга{PAWN_gender ? в : ла} на тому, щоб [PAWN_possessive] клан брав якомога більше полонених під час набігу, використовуючи сітки, бола та інші предмети, які можна було б кидати в бік втікачів. Коли бойові дії закінчувалися, починались [PAWN_possessive] мандри для продажу своїх 'живих товарів' в різних королівствах. Через постійну присутність рабів, [PAWN_nameDef] ста{PAWN_gender ? в : ла} противником так званої "рабської праці" та, в цілому, у {PAWN_gender ? нього : неї} зникла вся милосердність.</VBE_SlaveTrader.baseDesc>
+  <VBE_SlaveTrader.title>Работорговець</VBE_SlaveTrader.title>
+  <VBE_SlaveTrader.titleFemale>Работоргівка</VBE_SlaveTrader.titleFemale>
+  <VBE_SlaveTrader.titleShort>Работорговець</VBE_SlaveTrader.titleShort>
+  <VBE_SlaveTrader.titleShortFemale>Работоргівка</VBE_SlaveTrader.titleShortFemale>
+  
+  <VBE_ModelCitizen.baseDesc>Жорстокість та криміналітет - це єдиний образ життя, що [PAWN_nameDef] колись зна{PAWN_gender ? в : ла}, але врешті-решт, [PAWN_possessive] спіймали. Замість того, щоб стратити [PAWN_possessive] або відправити до в'язниці, [PAWN_possessive] все ж відправили на експериментальне психологічне лікування, яке повинно було зробити [PAWN_possessive] показовим членом суспільства. Хоча природа і моральність програми були сумнівними, її результати були остаточними: [PAWN_pronoun] тепер є зразков{PAWN_gender ? им : ою} громадян{PAWN_gender ? ином : кою}.</VBE_ModelCitizen.baseDesc>
+  <VBE_ModelCitizen.title>Взірцевий громадянин</VBE_ModelCitizen.title>
+  <VBE_ModelCitizen.titleFemale>Взірцева громадянка</VBE_ModelCitizen.titleFemale>
+  <VBE_ModelCitizen.titleShort>Громадянин</VBE_ModelCitizen.titleShort>
+  <VBE_ModelCitizen.titleShortFemale>Громадянка</VBE_ModelCitizen.titleShortFemale>
+  
+  <VBE_MidworldNomad.baseDesc>[PAWN_nameDef] засти{PAWN_gender ? г : гла} своє дитинство на планеті Середнього Світу, за вивченням різноманітних сучасних та історичних предметів, включаючи сільське господарство, інженерію та політику. Після того, як [PAWN_possessive] транспортна капсула зазнала аварії у середньовічному світі, [PAWN_nameDef], місцевими жителями, бу{PAWN_gender ? в : ла} оголошен{PAWN_gender ? ий провісником : а провісницею} Бога. За наступні кілька років, [PAWN_nameDef] запровади{PAWN_gender ? в : ла} незліченну кількість культурних, технологічних і суспільних реформ, які кардинально покращили якість життя на цьому світі.</VBE_MidworldNomad.baseDesc>
+  <VBE_MidworldNomad.title>Кочівник Середнього Світу</VBE_MidworldNomad.title>
+  <VBE_MidworldNomad.titleFemale>Кочівниця Середнього Світу</VBE_MidworldNomad.titleFemale>
+  <VBE_MidworldNomad.titleShort>Кочівник</VBE_MidworldNomad.titleShort>
+  <VBE_MidworldNomad.titleShortFemale>Кочівниця</VBE_MidworldNomad.titleShortFemale>
+  
+  <VBE_DogWalker.baseDesc>[PAWN_nameDef] так любить бути поруч із тваринами, що [PAWN_possessive] навіть запросили стати волонтером у місцевому притулку, щоб допомагати вигулювати і дресирувати собак. Це тривало доти, доки [PAWN_nameDef] не зрозумі{PAWN_gender ? в : ла}, наскільки прибутковим може бути цей бізнес. В кінці кінців, [PAWN_possessive] діяльність почала набирати оберти та [PAWN_possessive] підвисили до {PAWN_gender ? штатного вигульника : штатної вигульщиці} собак з десятками клієнтів.</VBE_DogWalker.baseDesc>
+  <VBE_DogWalker.title>Вигульщик собак</VBE_DogWalker.title>
+  <VBE_DogWalker.titleFemale>Вигульщиця собак</VBE_DogWalker.titleFemale>
+  <VBE_DogWalker.titleShort>Вигульщик</VBE_DogWalker.titleShort>
+  <VBE_DogWalker.titleShortFemale>Вигульщиця</VBE_DogWalker.titleShortFemale>
+  
+  <VBE_StarfighterMaintainer.baseDesc>[PAWN_nameDef] служи{PAWN_gender ? в : ла} на кораблі-носії в кампаніях по всій домашній системі, працюючи над підтриманням зоряних винищувачів і транспортів у бойовій формі. Хоча [PAWN_pronoun] знає майже все, що потрібно знати про технічне обслуговування космічних кораблів, [PAWN_possessive] залежність від точного дотримання інструкцій з ремонту негативно впливає на [PAWN_possessive] нестандартне мислення.</VBE_StarfighterMaintainer.baseDesc>
+  <VBE_StarfighterMaintainer.title>Механік зоряних винищувачів</VBE_StarfighterMaintainer.title>
+  <VBE_StarfighterMaintainer.titleFemale>Механікиня зоряних винищувачів</VBE_StarfighterMaintainer.titleFemale>
+  <VBE_StarfighterMaintainer.titleShort>Механік</VBE_StarfighterMaintainer.titleShort>
+  <VBE_StarfighterMaintainer.titleShortFemale>Механікиня</VBE_StarfighterMaintainer.titleShortFemale>
+  
+  <VBE_Watchman.baseDesc>[PAWN_nameDef] не бу{PAWN_gender ? в : ла} найсильніш{PAWN_gender ? им : ою} бій{PAWN_gender ? цем : чинею}, проте, [PAWN_possessive] було призначено на сторожову вежу. Спостерігати за тими, хто проходить через міську браму, дуже нудно, тому [PAWN_pronoun] поча{PAWN_gender ? в : ла} готувати їжу в своїй дерев'яній вежі. Одного разу, за [PAWN_possessive] необачності, казан перекинувся, розкидавши вугілля на всі боки. Вежа швидко загорілася і згоріла дотла. {PAWN_gender ? Йому : Їй} вдалося вижити, але [PAWN_pronoun] вже ніколи не буде {PAWN_gender ? таким : такою}, як раніше, коли знов побачить вогонь.</VBE_Watchman.baseDesc>
+  <VBE_Watchman.title>Сторож</VBE_Watchman.title>
+  <VBE_Watchman.titleShort>Сторож</VBE_Watchman.titleShort>
+  
+  <VBE_FashionDesigner.baseDesc>[PAWN_nameDef] завжди каза{PAWN_gender ? в : ла}, що світ ніколи не буде готовий до [PAWN_possessive] творінь, але вони все одно будуть неймовірними. {PAWN_gender ? Йому : Їй} підкорялись один подіум за іншим, та все одно, зі своєю вірною швейною машинкою, [PAWN_nameDef], намагається зробити собі ім'я.</VBE_FashionDesigner.baseDesc>
+  <VBE_FashionDesigner.title>Дизайнер одягу</VBE_FashionDesigner.title>
+  <VBE_FashionDesigner.titleFemale>Дизайнерка одягу</VBE_FashionDesigner.titleFemale>
+  <VBE_FashionDesigner.titleShort>Кравець</VBE_FashionDesigner.titleShort>
+  <VBE_FashionDesigner.titleShortFemale>Кравчиня</VBE_FashionDesigner.titleShortFemale>
+  
+  <VBE_AimlessDilettante.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} обдаровн{PAWN_gender ? ий : а} долею. [PAWN_pronoun] пров{PAWN_gender ? ів : ела} своє дитинство у привілейованому середовищі, проте, [PAWN_pronoun] ніколи не зна{PAWN_gender ? в : ла}, що робити зі своїм життям. Незважаючи на кваліфікованих наставників з усього, від фехтування до садівництва, [PAWN_possessive] ніколи не переслідував успіх.</VBE_AimlessDilettante.baseDesc>
+  <VBE_AimlessDilettante.title>Безцільний дилетант</VBE_AimlessDilettante.title>
+  <VBE_AimlessDilettante.titleFemale>Безцільна дилетантка</VBE_AimlessDilettante.titleFemale>
+  <VBE_AimlessDilettante.titleShort>Дилетант</VBE_AimlessDilettante.titleShort>
+  <VBE_AimlessDilettante.titleShortFemale>Дилетантка</VBE_AimlessDilettante.titleShortFemale>
+  
+  <VBE_CannibalisticSurgeon.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} хірург{PAWN_gender ? ом : инею} у престижному закладі, поки не було виявлено [PAWN_possessive] схильність до "кулінарних вольностей" з покійним. Замість того, щоб зашкодити [PAWN_possessive] репутації публічним розголосом, {PAWN_gender ? йому : їй} запропонували подорож в один кінець до далекого світу Rimworld в якості 'пенсійної допомоги'.</VBE_CannibalisticSurgeon.baseDesc>
+  <VBE_CannibalisticSurgeon.title>Хірург-канібал</VBE_CannibalisticSurgeon.title>
+  <VBE_CannibalisticSurgeon.titleFemale>Хірургиня-канібалка</VBE_CannibalisticSurgeon.titleFemale>
+  <VBE_CannibalisticSurgeon.titleShort>Хірург</VBE_CannibalisticSurgeon.titleShort>
+  <VBE_CannibalisticSurgeon.titleShortFemale>Хірургиня</VBE_CannibalisticSurgeon.titleShortFemale>
+  
+  <VBE_LoneTraveller.baseDesc>[PAWN_nameDef] присвяти{PAWN_gender ? в : ла} життя подорожам по всьому світу, не маючи певної мети чи причини. Багато хто приєднувався до [PAWN_possessive] подорожей і, невдовзі, залишали їх. Під час подорожування, [PAWN_nameDef] здобу{PAWN_gender ? в : ла} багато різних навичок. Враховуючи характер [PAWN_possessive] життя, [PAWN_pronoun] навчи{PAWN_gender ? вся : лась} жити без особливих зручностей.</VBE_LoneTraveller.baseDesc>
+  <VBE_LoneTraveller.title>Самотній мандрівник</VBE_LoneTraveller.title>
+  <VBE_LoneTraveller.titleFemale>Самотня мандрівниця</VBE_LoneTraveller.titleFemale>
+  <VBE_LoneTraveller.titleShort>Мандрівник</VBE_LoneTraveller.titleShort>
+  <VBE_LoneTraveller.titleShortFemale>Мандрівниця</VBE_LoneTraveller.titleShortFemale>
+  
+  <VBE_TroupeChild.baseDesc>[PAWN_nameDef] народи{PAWN_gender ? вся : лася} в родині мандрівної трупи, але так і не захопи{PAWN_gender ? вся : лася} ремеслом. Таким чином, [PAWN_pronoun] бу{PAWN_gender ? в : ла} змушен{PAWN_gender ? ий : а} виконувати випадкові роботи і не висовуватися, що {PAWN_gender ? йому : їй} дуже добре вдавалося. Кочовий характер [PAWN_possessive] сім'ї, однак, призвів до того, що [PAWN_pronoun] не ма{PAWN_gender ? в : ла} багато друзів.</VBE_TroupeChild.baseDesc>
+  <VBE_TroupeChild.title>Дитина з трупи</VBE_TroupeChild.title>
+  <VBE_TroupeChild.titleShort>Дитина з трупи</VBE_TroupeChild.titleShort>
+  
+  <VBE_LivingCure.baseDesc>Коли [PAWN_nameDef] проходи{PAWN_gender ? в : ла} обстеження після народження, лікарі виявили, що [PAWN_pronoun] має імунітет до різних хвороб завдяки надзвичайно рідкісній мутації, і що [PAWN_possessive] кров може бути використана для лікування багатьох хвороб, які до цього вважалися невиліковними. Це призвело до того, що [PAWN_nameDef] повин{PAWN_gender ? ен : на} бу{PAWN_gender ? в : ла} залишитися в лікарні, щоб працювати як 'живі ліки', не маючи права покинути її.</VBE_LivingCure.baseDesc>
+  <VBE_LivingCure.title>Живі ліки</VBE_LivingCure.title>
+  <VBE_LivingCure.titleShort>Живі ліки</VBE_LivingCure.titleShort>
+  
+  <VBE_Cannonfodder.baseDesc>Після досягнення повноліття, [PAWN_nameDef] не ма{PAWN_gender ? в : ла} жодних можливостей чи зв'язків із впливовими особами. Знаючи, що єдиною можливістю для {PAWN_gender ? нього : неї} є служба - [PAWN_pronoun] записа{PAWN_gender ? вся : лася} в найнижчі ланки армії.</VBE_Cannonfodder.baseDesc>
+  <VBE_Cannonfodder.title>Гарматне м'ясо</VBE_Cannonfodder.title>
+  <VBE_Cannonfodder.titleShort>Гарматне м'ясо</VBE_Cannonfodder.titleShort>
+  
+  <VBE_CyberDilettante.baseDesc>[PAWN_nameDef] закохан{PAWN_gender ? ий : а} у програмне забезпечення та кіберпростір, у потенціал, який може з'єднати людей на величезних відстанях та розширити їхні можливості завдяки швидкості та точності механізованих обчислень. [PAWN_pronoun] завжди мрія{PAWN_gender ? в : ла} стати програміст{PAWN_gender ? ом : кою} і має безліч ідей, які хоті{PAWN_gender ? в : ла} би втілити в життя... якби [PAWN_pronoun] хоч трохи зна{PAWN_gender ? вся : лася} на програмуванні. На жаль, [PAWN_possessive] таланти лежать в іншому місці.</VBE_CyberDilettante.baseDesc>
+  <VBE_CyberDilettante.title>Кібердилетант</VBE_CyberDilettante.title>
+  <VBE_CyberDilettante.titleFemale>Кібердилетантка</VBE_CyberDilettante.titleFemale>
+  <VBE_CyberDilettante.titleShort>Технар</VBE_CyberDilettante.titleShort>
+  <VBE_CyberDilettante.titleShortFemale>Технарка</VBE_CyberDilettante.titleShortFemale>
+  
+  <VBE_TombMaker.baseDesc>Коли [PAWN_nameDef] бу{PAWN_gender ? в : ла} молод{PAWN_gender ? им : ою}, смертельна віспа прокотилася [PAWN_possessive] поселенням, вбивши чотирьох із кожних п'яти людей. Достатньо доросл{PAWN_gender ? ий : а}, щоб тримати лопату, [PAWN_pronoun] копа{PAWN_gender ? в : ла} могили для багатьох людей, яких [PAWN_pronoun] зна{PAWN_gender ? в : ла} і люби{PAWN_gender ? в : ла}, але поховання було недостатньо, щоб вшанувати їх. З роками [PAWN_pronoun] регулярно поверта{PAWN_gender ? вся : лася} і поступово прикраша{PAWN_gender ? в : ла} могили для полеглих.</VBE_TombMaker.baseDesc>
+  <VBE_TombMaker.title>Могильщик</VBE_TombMaker.title>
+  <VBE_TombMaker.titleFemale>Могильщиця</VBE_TombMaker.titleFemale>
+  <VBE_TombMaker.titleShort>Могильщик</VBE_TombMaker.titleShort>
+  <VBE_TombMaker.titleShortFemale>Могильщиця</VBE_TombMaker.titleShortFemale>
+  
+  <VBE_GeneticReincarnation.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} вирощен{PAWN_gender ? ий : а} у чанах як генетичний клон античного філософа-тирана. З дитинства [PAWN_pronoun] вважа{PAWN_gender ? вся : лася} знаменитістю культурного відродження, [PAWN_possessive] одночасно і обожнювали, і пригнічували, всі вимагали від {PAWN_gender ? нього : неї} діяти так само, як [PAWN_pronoun] роби{PAWN_gender ? в : ла} в попередньому житті.</VBE_GeneticReincarnation.baseDesc>
+  <VBE_GeneticReincarnation.title>Генетично відроджений</VBE_GeneticReincarnation.title>
+  <VBE_GeneticReincarnation.titleFemale>Генетично відроджена</VBE_GeneticReincarnation.titleFemale>
+  <VBE_GeneticReincarnation.titleShort>Відроджений</VBE_GeneticReincarnation.titleShort>
+  <VBE_GeneticReincarnation.titleShortFemale>Відроджена</VBE_GeneticReincarnation.titleShortFemale>
+  
+  <VBE_DrillOperator.baseDesc>[PAWN_nameDef] працюва{PAWN_gender ? в : ла} у гірничодобувній компанії, що проводила роботи глибинного видобутку. Але, одного разу в шахті трапився інцидент. [PAWN_nameDef] бу{PAWN_gender ? в : ла} одн{PAWN_gender ? им : ією} з небагатьох, хто вижив, і разом з іншими [PAWN_pronoun] пода{PAWN_gender ? в : ла} судовий позов проти компанії на підставі того, що вони приховали виявлення інсектоїдного зараження, щоб забезпечити більший прибуток. Коли компанія почала змушувати вцілілих мовчати, [PAWN_nameDef] заради безпеки схова{PAWN_gender ? вся : лася} на зорельоті.</VBE_DrillOperator.baseDesc>
+  <VBE_DrillOperator.title>Бурильник</VBE_DrillOperator.title>
+  <VBE_DrillOperator.titleFemale>Бурильниця</VBE_DrillOperator.titleFemale>
+  <VBE_DrillOperator.titleShort>Бурильник</VBE_DrillOperator.titleShort>
+  <VBE_DrillOperator.titleShortFemale>Бурильниця</VBE_DrillOperator.titleShortFemale>
+  
+  <VBE_WalkerEngineer.baseDesc>Завжди готов{PAWN_gender ? ий : а} до викликів, [PAWN_nameDef] працюва{PAWN_gender ? в : ла} на різних військових машинах, в тому числі на страхітливих бойових павуках. Важка і пітна робота з високим ризиком травмування кінцівок, але [PAWN_nameDef] швидко адаптува{PAWN_gender ? вся : лася} до напружених робочих циклів. Однак це вартувало {PAWN_gender ? йому : їй} креативності, і залишало мало часу на інші гобі.</VBE_WalkerEngineer.baseDesc>
+  <VBE_WalkerEngineer.title>Павучий інженер</VBE_WalkerEngineer.title>
+  <VBE_WalkerEngineer.titleFemale>Павуча інженерка</VBE_WalkerEngineer.titleFemale>
+  <VBE_WalkerEngineer.titleShort>Інженер</VBE_WalkerEngineer.titleShort>
+  <VBE_WalkerEngineer.titleShortFemale>Інженерка</VBE_WalkerEngineer.titleShortFemale>
+  
+  <VBE_Freak.baseDesc>[PAWN_nameDef] народи{PAWN_gender ? вся : лася} сильно деформован{PAWN_gender ? им : ою}. [PAWN_pronoun] бу{PAWN_gender ? в : ла} продан{PAWN_gender ? ий : а} космічному цирку і подорожува{PAWN_gender ? в : ла} між світами. Там люди платили за те, щоб подивитися, як [PAWN_pronoun] виконує різні шоу. Одного разу, коли трупа їхала на сусідню космічну станцію, [PAWN_nameDef] успішно {PAWN_gender ? втік : втекла}.</VBE_Freak.baseDesc>
+  <VBE_Freak.title>Виродок</VBE_Freak.title>
+  <VBE_Freak.titleShort>Виродок</VBE_Freak.titleShort>
+  
+  <VBE_Propagandist.baseDesc>[PAWN_nameDef] влаштува{PAWN_gender ? вся : лася} на роботу репортером, але з часом поміти{PAWN_gender ? в : ла}, що [PAWN_possessive] роботи часто редагуються перед виходом у світ, багато аспектів опускаються або повністю переписуються. Коли [PAWN_pronoun] підня{PAWN_gender ? в : ла} це питання зі своїм керівництвом і отрима{PAWN_gender ? в : ла} відповідь, що вибір стоїть між правдою та успіхом... [PAWN_pronoun] обра{PAWN_gender ? в : ла} останнє. Це не давало {PAWN_gender ? йому : їй} спати ночами, але гроші є гроші, а слава є слава.</VBE_Propagandist.baseDesc>
+  <VBE_Propagandist.title>Пропагандист</VBE_Propagandist.title>
+  <VBE_Propagandist.titleFemale>Пропагандистка</VBE_Propagandist.titleFemale>
+  <VBE_Propagandist.titleShort>Пропагандист</VBE_Propagandist.titleShort>
+  <VBE_Propagandist.titleShortFemale>Пропагандистка</VBE_Propagandist.titleShortFemale>
+  
+  <VBE_LighthouseKeeper.baseDesc>Самітни{PAWN_gender ? к : ця}, [PAWN_nameDef], пров{PAWN_gender ? ів : ела} значну частину свого життя, доглядаючи за (здебільшого) автоматизованими космічними станціями-маяками. Надаючи навігаційну інформацію кораблям багатьох епох, ці тихі пости часто вважалися покаранням для тих, хто на них працював. Однак [PAWN_nameDef] не погоджується з цим твердженням, і тиша була чудовою для {PAWN_gender ? нього : неї} та [PAWN_possessive] мистецтва.</VBE_LighthouseKeeper.baseDesc>
+  <VBE_LighthouseKeeper.title>Наглядач маяка</VBE_LighthouseKeeper.title>
+  <VBE_LighthouseKeeper.titleFemale>Наглядачка маяка</VBE_LighthouseKeeper.titleFemale>
+  <VBE_LighthouseKeeper.titleShort>Наглядач</VBE_LighthouseKeeper.titleShort>
+  <VBE_LighthouseKeeper.titleShortFemale>Наглядачка</VBE_LighthouseKeeper.titleShortFemale>
+  
+  <VBE_AtomicBombardier.baseDesc>[PAWN_nameDef] відповіда{PAWN_gender ? в : ла} за підготовку та запуск ядерних бомб над територією противника. За роки служби, точність [PAWN_possessive] прицілювання значно покращилась, а [PAWN_possessive] свідомість стала нечутливою до смерті.</VBE_AtomicBombardier.baseDesc>
+  <VBE_AtomicBombardier.title>Атомний бомбардувальник</VBE_AtomicBombardier.title>
+  <VBE_AtomicBombardier.titleFemale>Атомна бомбардувальниця</VBE_AtomicBombardier.titleFemale>
+  <VBE_AtomicBombardier.titleShort>Бомбардувальник</VBE_AtomicBombardier.titleShort>
+  <VBE_AtomicBombardier.titleShortFemale>Бомбардувальниця</VBE_AtomicBombardier.titleShortFemale>
+  
+  <VBE_BureaucraticProgrammer.baseDesc>[PAWN_nameDef] витрати{PAWN_gender ? в : ла} своє доросле життя на кодування програм для вилучення даних з бюрократичних форм, щоб вони могли автоматично заповнювати інші форми. Звісно, оскільки інші бюрократи повинні були перевіряти результати [PAWN_possessive] програми, фактична економія праці була в кращому випадку незначною. [PAWN_pronoun] пров{PAWN_gender ? ів : ела} занадто багато часу за офісним столом, щоб бути корисн{PAWN_gender ? им : ою} у ручній праці.</VBE_BureaucraticProgrammer.baseDesc>
+  <VBE_BureaucraticProgrammer.title>Програміст-бюрократ</VBE_BureaucraticProgrammer.title>
+  <VBE_BureaucraticProgrammer.titleFemale>Програмістка-бюрократка</VBE_BureaucraticProgrammer.titleFemale>
+  <VBE_BureaucraticProgrammer.titleShort>Бюрократ</VBE_BureaucraticProgrammer.titleShort>
+  <VBE_BureaucraticProgrammer.titleShortFemale>Бюрократка</VBE_BureaucraticProgrammer.titleShortFemale>
+  
+  <VBE_Barber.baseDesc>[PAWN_nameDef] працюва{PAWN_gender ? в : ла} {PAWN_gender ? барбером : барбершою}, стри{PAWN_gender ? г : гла} і уклада{PAWN_gender ? в : ла} волосся. [PAWN_pronoun] вміє поводитися з ножицями і може підтримати розмову зі своїми клієнтами.</VBE_Barber.baseDesc>
+  <VBE_Barber.title>Барбер</VBE_Barber.title>
+  <VBE_Barber.titleFemale>Барберша</VBE_Barber.titleFemale>
+  <VBE_Barber.titleShort>Барбер</VBE_Barber.titleShort>
+  <VBE_Barber.titleShortFemale>Барберша</VBE_Barber.titleShortFemale>
+  
+  <VBE_AddictedGamer.baseDesc>[PAWN_nameDef] має залежність від відеоігор, і [PAWN_possessive] часто можна побачити за грою до пізнього ранку. [PAWN_pronoun] відповідає всім негативним стереотипам, починаючи від брудної кімнати і закінчуючи соціальною незграбністю, але принаймні [PAWN_pronoun] дізна{PAWN_gender ? вся : лася} кілька речей про крафтінг і майнінг.</VBE_AddictedGamer.baseDesc>
+  <VBE_AddictedGamer.title>Ігроман</VBE_AddictedGamer.title>
+  <VBE_AddictedGamer.titleFemale>Ігроманка</VBE_AddictedGamer.titleFemale>
+  <VBE_AddictedGamer.titleShort>Геймер</VBE_AddictedGamer.titleShort>
+  <VBE_AddictedGamer.titleShortFemale>Геймерша</VBE_AddictedGamer.titleShortFemale>
+  
+  <VBE_VatgrownColonist.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} вирощен{PAWN_gender ? ий : а} у лабораторії як витратний матеріал для [PAWN_possessive] рідного світу. [PAWN_pronoun] бу{PAWN_gender ? в : ла} вирощен{PAWN_gender ? ий : а} разом з іншими стандартними шаблонними дітьми, які знали життя лише під керівництвом своїх науковців.</VBE_VatgrownColonist.baseDesc>
+  <VBE_VatgrownColonist.title>Штучновирощений колоніст</VBE_VatgrownColonist.title>
+  <VBE_VatgrownColonist.titleFemale>Штучновирощена колоністка</VBE_VatgrownColonist.titleFemale>
+  <VBE_VatgrownColonist.titleShort>Колоніст</VBE_VatgrownColonist.titleShort>
+  <VBE_VatgrownColonist.titleShortFemale>Колоністка</VBE_VatgrownColonist.titleShortFemale>
+  
+  <VBE_StructuralEngineer.baseDesc>Після кількох років навчання на інженерному факультеті, [PAWN_nameDef] тепер проєктує будівлі, мости та інші споруди. [PAWN_pronoun] чудово розуміє, як побудувати кожну частину проєкту. Багато свого часу витрачає на координацію з архітектором, підрядником та іншими інженерами.</VBE_StructuralEngineer.baseDesc>
+  <VBE_StructuralEngineer.title>Інженер-технолог</VBE_StructuralEngineer.title>
+  <VBE_StructuralEngineer.titleFemale>Інженерка-технолог</VBE_StructuralEngineer.titleFemale>
+  <VBE_StructuralEngineer.titleShort>Інженер</VBE_StructuralEngineer.titleShort>
+  <VBE_StructuralEngineer.titleShortFemale>Інженерка</VBE_StructuralEngineer.titleShortFemale>
+  
+  <VBE_WretchedChild.baseDesc>У дитинстві [PAWN_nameDef] бу{PAWN_gender ? в : ла} вигнан{PAWN_gender ? ий : а} своїми однолітками. [PAWN_pronoun] вир{PAWN_gender ? іс : осла} байдуж{PAWN_gender ? им : ою} до інших і зосереди{PAWN_gender ? вся : лася} на виживанні за допомогою того, що [PAWN_pronoun] ма{PAWN_gender ? в : ла} біля свого будинку.</VBE_WretchedChild.baseDesc>
+  <VBE_WretchedChild.title>Нещасна дитина</VBE_WretchedChild.title>
+  <VBE_WretchedChild.titleShort>Нещасна дитина</VBE_WretchedChild.titleShort>
+  
+  <VBE_ForcedPrimitivist.baseDesc>[PAWN_nameDef] не завжди бу{PAWN_gender ? в : ла} частиною племен. Після вигнання зі своєї фракції, через знищення цілого врожаю, [PAWN_nameDef] бу{PAWN_gender ? в : ла} змушен{PAWN_gender ? ий : а} роками жити просто неба, маючи лише грубі інструменти, щоб допомогти сам{PAWN_gender ? ому : ій} собі. Це зробило [PAWN_possessive] майстр{PAWN_gender ? ом : инею} на всі руки, але повністю підірвало [PAWN_possessive] довіру до людей.</VBE_ForcedPrimitivist.baseDesc>
+  <VBE_ForcedPrimitivist.title>Вимушений примітивіст</VBE_ForcedPrimitivist.title>
+  <VBE_ForcedPrimitivist.titleFemale>Вимушена примітивістка</VBE_ForcedPrimitivist.titleFemale>
+  <VBE_ForcedPrimitivist.titleShort>Примітивіст</VBE_ForcedPrimitivist.titleShort>
+  <VBE_ForcedPrimitivist.titleShortFemale>Примітивістка</VBE_ForcedPrimitivist.titleShortFemale>
+  
+  <VBE_GiftedBurnout.baseDesc>З раннього віку [PAWN_nameDef] бу{PAWN_gender ? в : ла} проголошен{PAWN_gender ? ий : а} генієм. Постійні випробування, тренування та похвали з боку оточуючих дорослих були хорошими, але постійний тиск, очікування і, врешті-решт, невдачі загострили довгий список психічних розладів, які дрімали в [PAWN_possessive] свідомості. [PAWN_pronoun] все ще зберігає свої навички, але використовувати їх буде важко до кінця життя.</VBE_GiftedBurnout.baseDesc>
+  <VBE_GiftedBurnout.title>Обдароване вигорання</VBE_GiftedBurnout.title>
+  <VBE_GiftedBurnout.titleShort>Обдарований</VBE_GiftedBurnout.titleShort>
+  <VBE_GiftedBurnout.titleShortFemale>Обдарована</VBE_GiftedBurnout.titleShortFemale>
+  
+  <VBE_ForgottenChild.baseDesc>Коли [PAWN_nameDef] бу{PAWN_gender ? в : ла} маленьк{PAWN_gender ? им : ою}, [PAWN_pronoun] натрапи{PAWN_gender ? в : ла} на потаємні двері в антикварній крамниці свого дідуся. Цікавлячись, що може бути за ними, [PAWN_pronoun] зайш{PAWN_gender ? ов : ла} всередину і розпові{PAWN_gender ? в : ла} про країну нескінченних пригод. Невідомо, чи це була правда, але оскільки [PAWN_possessive] знайшли ще дитиною, забут{PAWN_gender ? им : ою} у криптосні, майже сто років потому, немає нічого неможливого.</VBE_ForgottenChild.baseDesc>
+  <VBE_ForgottenChild.title>Забуте дитя</VBE_ForgottenChild.title>
+  <VBE_ForgottenChild.titleShort>Зниклий</VBE_ForgottenChild.titleShort>
+  <VBE_ForgottenChild.titleShortFemale>Зникла</VBE_ForgottenChild.titleShortFemale>
+  
+  <VBE_Demoscener.baseDesc>[PAWN_nameDef] завжди цікави{PAWN_gender ? вся : лася} комп'ютерами та програмуванням. Особливо комп'ютерами, які настільки старі, що межа між програмуванням та інженерією розмита. [PAWN_nameDef] вписа{PAWN_gender ? вся : лася} в культуру, яка використовує ці стародавні машини для створення мистецтва, використовуючи всю повноту доступного примітивного програмування.</VBE_Demoscener.baseDesc>
+  <VBE_Demoscener.title>Демонстраційний сценарист</VBE_Demoscener.title>
+  <VBE_Demoscener.titleFemale>Демонстраційна сценаристка</VBE_Demoscener.titleFemale>
+  <VBE_Demoscener.titleShort>Сценарист</VBE_Demoscener.titleShort>
+  <VBE_Demoscener.titleShortFemale>Сценаристка</VBE_Demoscener.titleShortFemale>
+  
+  <VBE_IndustrialTinkerer.baseDesc>Знайшовши свою пристрасть до того, як працюють речі, [PAWN_nameDef] захопи{PAWN_gender ? вся : лася} майструванням, конструюванням та кодуванням. Надихаючись природою та розібраними машинами, [PAWN_nameDef] створи{PAWN_gender ? в : ла} багато корисних механічних та електричних пристроїв для покращення свого повсякденного життя. Досліджуючи та вивчаючи природу, [PAWN_pronoun] також дізна{PAWN_gender ? вся : лася} про основні потреби виживання та деякі базові методи лікування. Через те, що [PAWN_pronoun] завжди занурен{PAWN_gender ? ий : а} у свої думки. [PAWN_nameDef] не дуже товариськ{PAWN_gender ? ий : а} і завжди напружен{PAWN_gender ? ий : а}.</VBE_IndustrialTinkerer.baseDesc>
+  <VBE_IndustrialTinkerer.title>Промисловий майстер</VBE_IndustrialTinkerer.title>
+  <VBE_IndustrialTinkerer.titleFemale>Промислова майстриня</VBE_IndustrialTinkerer.titleFemale>
+  <VBE_IndustrialTinkerer.titleShort>Майстер</VBE_IndustrialTinkerer.titleShort>
+  <VBE_IndustrialTinkerer.titleShortFemale>Майстриня</VBE_IndustrialTinkerer.titleShortFemale>
+  
+  <VBE_InformationSponge.baseDesc>[PAWN_nameDef] вир{PAWN_gender ? іс : осла} з жагою до знань, будь то наука, історія чи філософія. Тікаючи в дику місцевість, [PAWN_pronoun] проводи{PAWN_gender ? в : ла} стільки часу, скільки {PAWN_gender ? міг : могла}, навчаючись у природи та руїн, які [PAWN_pronoun] знаходи{PAWN_gender ? в : ла}. Коли [PAWN_pronoun] бу{PAWN_gender ? в : ла} молодш{PAWN_gender ? им : ою}, багато хто {PAWN_gender ? слухав його : її слухав}, щоб почути, що [PAWN_pronoun] скаже, але з часом інші перестали {PAWN_gender ? чути його : її чути}, оскільки [PAWN_possessive] знання поглиблювалися, залишаючи слухачів позаду. З часом [PAWN_pronoun] ста{PAWN_gender ? в : ла} більш відлюдькуват{PAWN_gender ? им : ою}, і в основному знаходи{PAWN_gender ? в : ла} розраду в роботі.</VBE_InformationSponge.baseDesc>
+  <VBE_InformationSponge.title>Інформаційна 'губка'</VBE_InformationSponge.title>
+  <VBE_InformationSponge.titleShort>'Губка'</VBE_InformationSponge.titleShort>
+  
+  <VBE_ReincarnatedSoul.baseDesc>[PAWN_nameDef] вважає, що [PAWN_pronoun] колись бу{PAWN_gender ? в : ла} побожним служителем якоїсь давньої, втраченої релігії. Відроджен{PAWN_gender ? ий : а} знову, щоб жити так, як са{PAWN_gender ? м : ма} захоче, [PAWN_nameDef], здається, має неприродний хист до кулінарії та ремесел, незважаючи на свій юний вік.</VBE_ReincarnatedSoul.baseDesc>
+  <VBE_ReincarnatedSoul.title>Реінкарнована душа</VBE_ReincarnatedSoul.title>
+  <VBE_ReincarnatedSoul.titleShort>Реінкарнований</VBE_ReincarnatedSoul.titleShort>
+  <VBE_ReincarnatedSoul.titleShortFemale>Реінкарнована</VBE_ReincarnatedSoul.titleShortFemale>
+  
+  <VBE_LightingAssistant.baseDesc>[PAWN_nameDef] допомага{PAWN_gender ? в : ла} створювати фонове освітлення у фільмах і шоу. Працюючи за лаштунками абсолютно невидимо для глядачів, [PAWN_pronoun] ніколи не поміча{PAWN_gender ? вся : лася} вищим керівництвом, тому просто виріши{PAWN_gender ? в : ла} працювати старанніше, поки хтось не визнає [PAWN_possessive] талант. Всі ці роботи з електричним обладнанням дали {PAWN_gender ? йому : їй} чіткі знання про виробництво.</VBE_LightingAssistant.baseDesc>
+  <VBE_LightingAssistant.title>Асистент з освітлення</VBE_LightingAssistant.title>
+  <VBE_LightingAssistant.titleFemale>Асистентка з освітлення</VBE_LightingAssistant.titleFemale>
+  <VBE_LightingAssistant.titleShort>Асистент</VBE_LightingAssistant.titleShort>
+  <VBE_LightingAssistant.titleShortFemale>Асистентка</VBE_LightingAssistant.titleShortFemale>
+  
+  <VBE_SiloManager.baseDesc>Планети-екуменополіси заповнені масивними комплексами з ресурсами, півкілометрової висоти та кількох кілометрів поперечно, з тисячами низькооплачуваних робітників, які, наче маленькі мурахи, розносять матеріали по всій величезній будівлі. [PAWN_nameDef] працюва{PAWN_gender ? в : ла} менеджер{PAWN_gender ? ом : кою} в одному з комплексів, і {PAWN_gender ? йому : їй} навіть не доводилося вставати з-за свого столу.</VBE_SiloManager.baseDesc>
+  <VBE_SiloManager.title>Менеджер комплексу сховищ</VBE_SiloManager.title>
+  <VBE_SiloManager.titleFemale>Менеджерка комплексу сховищ</VBE_SiloManager.titleFemale>
+  <VBE_SiloManager.titleShort>Менеджер</VBE_SiloManager.titleShort>
+  <VBE_SiloManager.titleShortFemale>Менеджерка</VBE_SiloManager.titleShortFemale>
+  
+  <VBE_Pushover.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} забіякою і суворим соціальним ізгоєм. Через постійні знущання, [PAWN_pronoun] набу{PAWN_gender ? в : ла} відрази до інших людей. Хоча всі ночі, коли [PAWN_pronoun] роби{PAWN_gender ? в : ла} чужі домашні завдання, принесли {PAWN_gender ? йому : їй} чудове розуміння предметів.</VBE_Pushover.baseDesc>
+  <VBE_Pushover.title>Ізгой</VBE_Pushover.title>
+  <VBE_Pushover.titleShort>Ізгой</VBE_Pushover.titleShort>
+  
+  <VBE_Commenter.baseDesc>[PAWN_nameDef] не зроби{PAWN_gender ? в : ла} у своєму житті абсолютно нічого, окрім того, що безсоромно висміюва{PAWN_gender ? в : ла} роботу більш успішних людей. На інтернет-форумах [PAWN_pronoun] знаходи{PAWN_gender ? в : ла} собі подібних, з якими [PAWN_pronoun] розводи{PAWN_gender ? в : ла} срачі, не вносячи абсолютно ніякого внеску в суспільство блискосвіту. Проте, [PAWN_nameDef] досить добре знає, як користуватися тезаурусом.</VBE_Commenter.baseDesc>
+  <VBE_Commenter.title>Коментатор</VBE_Commenter.title>
+  <VBE_Commenter.titleFemale>Коментаторка</VBE_Commenter.titleFemale>
+  <VBE_Commenter.titleShort>Коментатор</VBE_Commenter.titleShort>
+  <VBE_Commenter.titleShortFemale>Коментаторка</VBE_Commenter.titleShortFemale>
+  
+  <VBE_ResearchScientist.baseDesc>[PAWN_nameDef] - науков{PAWN_gender ? ець : иця} та аналіти{PAWN_gender ? к : киня} з відомого дослідницького інституту блискосвіту. [PAWN_possessive] дослідження та експерименти, можливо, не принесли {PAWN_gender ? йому : їй} великого визнання, але [PAWN_pronoun] по-своєму сприя{PAWN_gender ? в : ла} великим проривам компаній. [PAWN_possessive] робота часто забирала більшу частину [PAWN_possessive] вільного часу, тому {PAWN_gender ? йому : їй} не вистачає емпатії, притаманного пересічним громадянам.</VBE_ResearchScientist.baseDesc>
+  <VBE_ResearchScientist.title>Науковий співробітник</VBE_ResearchScientist.title>
+  <VBE_ResearchScientist.titleFemale>Наукова співробітниця</VBE_ResearchScientist.titleFemale>
+  <VBE_ResearchScientist.titleShort>Дослідник</VBE_ResearchScientist.titleShort>
+  <VBE_ResearchScientist.titleShortFemale>Дослідниця</VBE_ResearchScientist.titleShortFemale>
+  
+  <VBE_UrbworldWarStudent.baseDesc>[PAWN_nameDef] вир{PAWN_gender ? іс : осла} у доволі комфортних умовах на планеті-екуменополісі. Більшу частину свого дитинства присвяти{PAWN_gender ? в : ла} формальному навчанню на планеті, яку постійно охоплювали конфлікти. Як результат, [PAWN_nameDef] вир{PAWN_gender ? іс : осла} з глибоким розумінням машин війни та розвину{PAWN_gender ? в : ла} пристрасть до них.</VBE_UrbworldWarStudent.baseDesc>
+  <VBE_UrbworldWarStudent.title>Студент планети-екуменополіса</VBE_UrbworldWarStudent.title>
+  <VBE_UrbworldWarStudent.titleFemale>Студентка планети-екуменополіса</VBE_UrbworldWarStudent.titleFemale>
+  <VBE_UrbworldWarStudent.titleShort>Студент</VBE_UrbworldWarStudent.titleShort>
+  <VBE_UrbworldWarStudent.titleShortFemale>Студентка</VBE_UrbworldWarStudent.titleShortFemale>
+  
+  <VBE_AnomalousCreatureResearcher.baseDesc>[PAWN_nameDef] входи{PAWN_gender ? в : ла} до складу секретної організації, що займалася виловом і вивченням явищ, які вважалися "аномальними", і бу{PAWN_gender ? в : ла} частиною відділу, що займався виловом і вивченням аномальних істот. Після одного з численних порушень дисципліни, [PAWN_nameDef] бу{PAWN_gender ? в : ла} травмован{PAWN_gender ? ий : а} і покину{PAWN_gender ? в : ла} організацію.</VBE_AnomalousCreatureResearcher.baseDesc>
+  <VBE_AnomalousCreatureResearcher.title>Дослідник аномальних істот</VBE_AnomalousCreatureResearcher.title>
+  <VBE_AnomalousCreatureResearcher.titleFemale>Дослідниця аномальних істот</VBE_AnomalousCreatureResearcher.titleFemale>
+  <VBE_AnomalousCreatureResearcher.titleShort>Дослідник аномалій</VBE_AnomalousCreatureResearcher.titleShort>
+  <VBE_AnomalousCreatureResearcher.titleShortFemale>Дослідниця аномалій</VBE_AnomalousCreatureResearcher.titleShortFemale>
+  
+  <VBE_FringeShitposter.baseDesc>У молодості [PAWN_nameDef] зацікави{PAWN_gender ? вся : лася} нішевими, маргінальними інтернет-форумами. Одержим{PAWN_gender ? ий : а} глибокою культурою та хитромудрими жартами, [PAWN_nameDef] дозволи{PAWN_gender ? в : ла} цьому поглинути своє життя. Тепер, на RimWorld'і, [PAWN_nameDef] вважає себе непідготовлен{PAWN_gender ? им : ою} до виживання і відчуває труднощі у спілкуванні без того, щоб не згадати якийсь давній, забутий сленг або глибоко захований мем. Принаймні, [PAWN_pronoun] підхопи{PAWN_gender ? в : ла} якийсь невиразний, застарілий військовий жаргон...</VBE_FringeShitposter.baseDesc>
+  <VBE_FringeShitposter.title>Лайнопостер</VBE_FringeShitposter.title>
+  <VBE_FringeShitposter.titleFemale>Лайнопостерка</VBE_FringeShitposter.titleFemale>
+  <VBE_FringeShitposter.titleShort>Лайнопостер</VBE_FringeShitposter.titleShort>
+  <VBE_FringeShitposter.titleShortFemale>Лайнопостерка</VBE_FringeShitposter.titleShortFemale>
+  
+  <VBE_Rudie.baseDesc>Вирісши в індустріальному світі, [PAWN_nameDef] бачи{PAWN_gender ? в : ла}, як світ навколо {PAWN_gender ? нього : неї} стрімко корпоратизується та джентрифікується. Коли [PAWN_possessive] місто опинилося під загрозою, [PAWN_pronoun] приєдна{PAWN_gender ? вся : лася} до місцевої банди молодих людей, які саботували корпоративні зусилля і поширювали культуру назад на вулиці. Після підозрілої, випадкової смерті генерального директора корпорації, [PAWN_nameDef] повіси{PAWN_gender ? в : ла} свої скейт та балончик і поїха{PAWN_gender ? в : ла} до безпечнішого життя.</VBE_Rudie.baseDesc>
+  <VBE_Rudie.title>Руді</VBE_Rudie.title>
+  <VBE_Rudie.titleShort>Руді</VBE_Rudie.titleShort>
+  
+  <VBE_ShipSalvager.baseDesc>Швидко, хитро і брудно. Так живе [PAWN_nameDef]. [PAWN_pronoun] зайня{PAWN_gender ? вся : лася} небезпечним ремеслом - демонтажом кораблів як засобом виживання. [PAWN_possessive] досвід зростав, оскільки [PAWN_pronoun] досяга{PAWN_gender ? в : ла} успіху в розбиранні суден, але ризик залишався високим. Майже на кожній роботі можна було опинитися на межі життя і смерті.</VBE_ShipSalvager.baseDesc>
+  <VBE_ShipSalvager.title>Корабельний спекулянт</VBE_ShipSalvager.title>
+  <VBE_ShipSalvager.titleFemale>Корабельна спекулянтка</VBE_ShipSalvager.titleFemale>
+  <VBE_ShipSalvager.titleShort>Спекулянт</VBE_ShipSalvager.titleShort>
+  <VBE_ShipSalvager.titleShortFemale>Спекулянтка</VBE_ShipSalvager.titleShortFemale>
+  
+  <VBE_CivilRightsActivist.baseDesc>[PAWN_nameDef] усвідоми{PAWN_gender ? в : ла} різні суспільні несправедливості невдовзі після того, як покину{PAWN_gender ? в : ла} рідну домівку заради вищої освіти, у прагнені набути сили, що посприяє позитивним змінам. [PAWN_pronoun] організовува{PAWN_gender ? в : ла} мітинги перед адміністративними будівлями під час семестрових перерв, розробляючи плакати та гасла.</VBE_CivilRightsActivist.baseDesc>
+  <VBE_CivilRightsActivist.title>Громадський активіст</VBE_CivilRightsActivist.title>
+  <VBE_CivilRightsActivist.titleFemale>Громадська активістка</VBE_CivilRightsActivist.titleFemale>
+  <VBE_CivilRightsActivist.titleShort>Активіст</VBE_CivilRightsActivist.titleShort>
+  <VBE_CivilRightsActivist.titleShortFemale>Активістка</VBE_CivilRightsActivist.titleShortFemale>
+  
+  <VBE_UrbworldRioter.baseDesc>Коли мирного протесту було недостатньо, щоб викликати соціальні зміни, [PAWN_nameDef] одяга{PAWN_gender ? в : ла} саморобне спорядження і виходи{PAWN_gender ? в : ла} боротися з владою на вулиці міста. Опинившись у вкрай невигідному становищі проти можновладців, [PAWN_nameDef] муси{PAWN_gender ? в : ла} навчитися виготовляти власну зброю, броню, а також самостійно лікувати власні поранення.</VBE_UrbworldRioter.baseDesc>
+  <VBE_UrbworldRioter.title>Революціонер</VBE_UrbworldRioter.title>
+  <VBE_UrbworldRioter.titleFemale>Революціонерка</VBE_UrbworldRioter.titleFemale>
+  <VBE_UrbworldRioter.titleShort>Революціонер</VBE_UrbworldRioter.titleShort>
+  <VBE_UrbworldRioter.titleShortFemale>Революціонерка</VBE_UrbworldRioter.titleShortFemale>
+  
+  <VBE_Mariner.baseDesc>Більшу частину свого життя [PAWN_nameDef] пров{PAWN_gender ? ів : ела} на кораблі в морі, охороняючи вантаж на маршруті від порту до порту. [PAWN_pronoun] добре зна{PAWN_gender ? вся : лася} на тому, як зберегти корабель неушкодженим, але рідко проводи{PAWN_gender ? в : ла} багато часу поза кораблем або за межами порту.</VBE_Mariner.baseDesc>
+  <VBE_Mariner.title>Моряк</VBE_Mariner.title>
+  <VBE_Mariner.titleFemale>Морячка</VBE_Mariner.titleFemale>
+  <VBE_Mariner.titleShort>Моряк</VBE_Mariner.titleShort>
+  <VBE_Mariner.titleShortFemale>Морячка</VBE_Mariner.titleShortFemale>
+  
+  <VBE_HumanSupremacist.baseDesc>[PAWN_nameDef] палко виступає проти генної модифікації та створення ксенолюдей. [PAWN_pronoun] вважає, що базові, немодифіковані люди мають вищий розум і дух у порівнянні з ними. Незважаючи на упередженість, [PAWN_possessive] аргументи були добре відрепетирувані і висловлені авторитетам.</VBE_HumanSupremacist.baseDesc>
+  <VBE_HumanSupremacist.title>Людський супремасист</VBE_HumanSupremacist.title>
+  <VBE_HumanSupremacist.titleFemale>Людська супремасистка</VBE_HumanSupremacist.titleFemale>
+  <VBE_HumanSupremacist.titleShort>Супремасист</VBE_HumanSupremacist.titleShort>
+  <VBE_HumanSupremacist.titleShortFemale>Супремасистка</VBE_HumanSupremacist.titleShortFemale>
+  
+  <VBE_FoodCritic.baseDesc>{PAWN_gender ? Син : Дочка} шанованого кулінарного генія, [PAWN_nameDef] використа{PAWN_gender ? в : ла} вплив імені свого батька, щоб розпочати кар'єру кулінарного критика своєї домашньої системи. Хоча багато ресторанів і шеф-кухарів побоювалися [PAWN_possessive], [PAWN_possessive] знак схвалення все одно залишався предметом прагнень багатьох.</VBE_FoodCritic.baseDesc>
+  <VBE_FoodCritic.title>Кулінарний критик</VBE_FoodCritic.title>
+  <VBE_FoodCritic.titleFemale>Кулінарна критикиня</VBE_FoodCritic.titleFemale>
+  <VBE_FoodCritic.titleShort>Критик</VBE_FoodCritic.titleShort>
+  <VBE_FoodCritic.titleShortFemale>Критикиня</VBE_FoodCritic.titleShortFemale>
+  
+  <VBE_PreservationistRuler.baseDesc>[PAWN_nameDef] колись прави{PAWN_gender ? в : ла} процвітаючою цивілізацією, яка була свідченням мистецтва та людської творчості. На жаль, [PAWN_pronoun] успадкува{PAWN_gender ? в : ла} ворожнечу своєї сім'ї з конкуруючою династією, яка призвела до засклення [PAWN_possessive] рідного світу. Замість того, щоб рухатися далі, [PAWN_pronoun] нагляда{PAWN_gender ? в : ла} за будівництвом широкої мережі орбітальних осель та оборонних мереж, щоб зберегти культуру та історію свого, тепер уже скляного, світу.</VBE_PreservationistRuler.baseDesc>
+  <VBE_PreservationistRuler.title>Консервативний правитель</VBE_PreservationistRuler.title>
+  <VBE_PreservationistRuler.titleFemale>Консервативна правителька</VBE_PreservationistRuler.titleFemale>
+  <VBE_PreservationistRuler.titleShort>Консерватор</VBE_PreservationistRuler.titleShort>
+  <VBE_PreservationistRuler.titleShortFemale>Консерваторка</VBE_PreservationistRuler.titleShortFemale>
+  
+  <VBE_MarineworldResearcher.baseDesc>Вбачаючи в океанах невикористаний потенціал для годування колоній і міст, [PAWN_nameDef] осели{PAWN_gender ? вся : лася} у світі, який був майже повністю вкритий океаном. Хоча [PAWN_nameDef] бу{PAWN_gender ? в : ла} досвідчен{PAWN_gender ? им : ою} у вивченні водоростей і водного життя, [PAWN_pronoun] рідко знаходи{PAWN_gender ? в : ла} вільний від роботи час, щоб поспілкуватися з колегами-дослідниками або відточити інші навички.</VBE_MarineworldResearcher.baseDesc>
+  <VBE_MarineworldResearcher.title>Дослідник морського світу</VBE_MarineworldResearcher.title>
+  <VBE_MarineworldResearcher.titleFemale>Дослідниця морського світу</VBE_MarineworldResearcher.titleFemale>
+  <VBE_MarineworldResearcher.titleShort>Глибоководний дослідник</VBE_MarineworldResearcher.titleShort>
+  <VBE_MarineworldResearcher.titleShortFemale>Глибоководна дослідниця</VBE_MarineworldResearcher.titleShortFemale>
+  
+  <VBE_Informant.baseDesc>Колись [PAWN_nameDef] бу{PAWN_gender ? в : ла} членом великої злочинної організації, але після того, як [PAWN_possessive] спіймали, [PAWN_pronoun] ста{PAWN_gender ? в : ла} інформатор{PAWN_gender ? ом : кою} правоохоронних органів блискосвіту. В рамках угоди, [PAWN_pronoun] отрима{PAWN_gender ? в : ла} нове ім'я, посвідчення особи та бу{PAWN_gender ? в : ла} відправлен{PAWN_gender ? ий : а} у зовнішній світ.</VBE_Informant.baseDesc>
+  <VBE_Informant.title>Інформатор</VBE_Informant.title>
+  <VBE_Informant.titleFemale>Інформаторка</VBE_Informant.titleFemale>
+  <VBE_Informant.titleShort>Інформатор</VBE_Informant.titleShort>
+  <VBE_Informant.titleShortFemale>Інформаторка</VBE_Informant.titleShortFemale>
+  
+  <VBE_EldestCaretaker.baseDesc>Як старша дитина, [PAWN_nameDef] ма{PAWN_gender ? в : ла} доглядати за своїми молодшими братами та сестрами. Поки дорослі були на роботі, [PAWN_pronoun] зви{PAWN_gender ? к : кла} бути головн{PAWN_gender ? им : ою}, проте, [PAWN_nameDef] ніколи не ма{PAWN_gender ? в : ла} можливості пізнати сам{PAWN_gender ? ого : у} себе.</VBE_EldestCaretaker.baseDesc>
+  <VBE_EldestCaretaker.title>Старший брат</VBE_EldestCaretaker.title>
+  <VBE_EldestCaretaker.titleFemale>Старша сестра</VBE_EldestCaretaker.titleFemale>
+  <VBE_EldestCaretaker.titleShort>Опікун</VBE_EldestCaretaker.titleShort>
+  <VBE_EldestCaretaker.titleShortFemale>Опікунка</VBE_EldestCaretaker.titleShortFemale>
+  
+  <VBE_Oracle.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} не так{PAWN_gender ? им : ою}, як усі, і всі це знали. Дивні видіння, спалахи та ексцентрична поведінка завжди тримали [PAWN_possessive] на відстані витягнутої руки від інших. [PAWN_nameDef] бу{PAWN_gender ? в : ла} би {PAWN_gender ? вигнанцем : вигнанкою} задовго до того, якби не [PAWN_possessive] видіння, які так часто виявлялися правдивими.</VBE_Oracle.baseDesc>
+  <VBE_Oracle.title>Оракул</VBE_Oracle.title>
+  <VBE_Oracle.titleShort>Оракул</VBE_Oracle.titleShort>
+  
+  <VBE_Apprentice.baseDesc>Досягнувши повноліття, молод{PAWN_gender ? ий : а} [PAWN_nameDef] піш{PAWN_gender ? ов : ла} вчитися до великих майстрів, навчаючись з нуля. [PAWN_pronoun] залиши{PAWN_gender ? в : ла} сім'ю та дім, щоб слідувати своїй пристрасті та ремеслу. Робота була виснажливою, але все це було варте того, щоб прокласти свій власний шлях.</VBE_Apprentice.baseDesc>
+  <VBE_Apprentice.title>Підмайстер</VBE_Apprentice.title>
+  <VBE_Apprentice.titleFemale>Підмайстриня</VBE_Apprentice.titleFemale>
+  <VBE_Apprentice.titleShort>Підмайстер</VBE_Apprentice.titleShort>
+  <VBE_Apprentice.titleShortFemale>Підмайстриня</VBE_Apprentice.titleShortFemale>
+  
+  <VBE_MedievalPage.baseDesc>Служачи під владою великого лорда чи леді, [PAWN_nameDef] присяга{PAWN_gender ? в : ла} своєму сеньйору. Здебільшого це означало тяганину: прибирання та іншу важку роботу, але навчання під "опікою" знаті багато чому навчило.</VBE_MedievalPage.baseDesc>
+  <VBE_MedievalPage.title>Середньовічна прислуга</VBE_MedievalPage.title>
+  <VBE_MedievalPage.titleShort>Прислуга</VBE_MedievalPage.titleShort>
+  
+  <VBE_Translator.baseDesc>[PAWN_nameDef] завжди люби{PAWN_gender ? в : ла} іноземні мови. [PAWN_pronoun] працюва{PAWN_gender ? в : ла} з дому {PAWN_gender ? перекладачем-фрілансером : перекладачкою-фрілансеркою}. Це давало {PAWN_gender ? йому : їй} достатньо часу, щоб розширювати свої знання в різних сферах і доглядати за домашнім садом. Однак [PAWN_pronoun] {PAWN_gender ? міг : могла} проводити тижні без контакту з людьми. {PAWN_gender ? Йому : Їй} й досі некомфортно в оточенні незнайомців.</VBE_Translator.baseDesc>
+  <VBE_Translator.title>Перекладач</VBE_Translator.title>
+  <VBE_Translator.titleFemale>Перекладачка</VBE_Translator.titleFemale>
+  <VBE_Translator.titleShort>Перекладач</VBE_Translator.titleShort>
+  <VBE_Translator.titleShortFemale>Перекладачка</VBE_Translator.titleShortFemale>
+  
+  <VBE_Maid.baseDesc>[PAWN_nameDef] завжди ма{PAWN_gender ? в : ла} акуратну та охайну оселю. [PAWN_pronoun] бачить набагато більше брудної сторони світу, так чи інакше прибираючи її. [PAWN_pronoun] найкраще знає, коли застосувати свій фах, бо [PAWN_possessive] навичка - це більше, ніж просто прибирання.</VBE_Maid.baseDesc>
+  <VBE_Maid.title>Служник</VBE_Maid.title>
+  <VBE_Maid.titleFemale>Служниця</VBE_Maid.titleFemale>
+  <VBE_Maid.titleShort>Служник</VBE_Maid.titleShort>
+  <VBE_Maid.titleShortFemale>Служниця</VBE_Maid.titleShortFemale>
+  
+  <VBE_AbandonedColonist.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} відібран{PAWN_gender ? ий : а} для участі у програмі колонізації далекої планети. Коли [PAWN_possessive] корабель було розірвано на шматки. [PAWN_nameDef] не бу{PAWN_gender ? в : ла} серед тих небагатьох, кому пощастило врятуватися на рятувальній капсулі. Але якимось дивом [PAWN_pronoun] вижи{PAWN_gender ? в : ла} і покля{PAWN_gender ? вся : лася} знайти тих, хто залишив [PAWN_possessive] на призволяще.</VBE_AbandonedColonist.baseDesc>
+  <VBE_AbandonedColonist.title>Покинутий колоніст</VBE_AbandonedColonist.title>
+  <VBE_AbandonedColonist.titleFemale>Покинута колоністка</VBE_AbandonedColonist.titleFemale>
+  <VBE_AbandonedColonist.titleShort>Колоніст</VBE_AbandonedColonist.titleShort>
+  <VBE_AbandonedColonist.titleShortFemale>Колоністка</VBE_AbandonedColonist.titleShortFemale>
+  
+  <VBE_CorporateSpy.baseDesc>[PAWN_nameDef] займа{PAWN_gender ? вся : лася} промисловим шпигунством на користь великої корпорації. Одна з [PAWN_possessive] місій вимагала від {PAWN_gender ? нього : неї} змінити стать, щоб спокусити генерального директора конкуруючої корпорації. [PAWN_pronoun] успішно викона{PAWN_gender ? в : ла} свою місію лише тому, що відчу{PAWN_gender ? в : ла} себе більш комфортно з новою статтю. Це дало {PAWN_gender ? йому : їй} унікальну перспективу, і [PAWN_pronoun] поча{PAWN_gender ? в : ла} надавати консультації людям, які відчували себе пригніченими очікуваннями суспільства.</VBE_CorporateSpy.baseDesc>
+  <VBE_CorporateSpy.title>Корпоративний шпигун</VBE_CorporateSpy.title>
+  <VBE_CorporateSpy.titleFemale>Корпоративна шпигунка</VBE_CorporateSpy.titleFemale>
+  <VBE_CorporateSpy.titleShort>Шпигун</VBE_CorporateSpy.titleShort>
+  <VBE_CorporateSpy.titleShortFemale>Шпигунка</VBE_CorporateSpy.titleShortFemale>
+  
+  <VBE_Bullleaper.baseDesc>[PAWN_nameDef] - танцюрис{PAWN_gender ? т : тка} і акроба{PAWN_gender ? т : тка}. [PAWN_pronoun] танцюва{PAWN_gender ? в : ла} навколо і стриба{PAWN_gender ? в : ла} через спину бігаючого бика, щоб розважити натовп. Усі тореадори повинні бути дуже спритними, але [PAWN_nameDef] бу{PAWN_gender ? в : ла} особливо майстерн{PAWN_gender ? им : ою}, завдяки своєму глибокому розумінню поведінки тварин. Оскільки стрибки з биками є дуже небезпечним заняттям, {PAWN_gender ? йому : їй} часто доводилося надавати першу допомогу пораненим колегам.</VBE_Bullleaper.baseDesc>
+  <VBE_Bullleaper.title>Тореадор-акробат</VBE_Bullleaper.title>
+  <VBE_Bullleaper.titleFemale>Тореадорка-акробатка</VBE_Bullleaper.titleFemale>
+  <VBE_Bullleaper.titleShort>Тореадор</VBE_Bullleaper.titleShort>
+  <VBE_Bullleaper.titleShortFemale>Тореадорка</VBE_Bullleaper.titleShortFemale>
+  
+  <VBE_DroneOperator.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} найнят{PAWN_gender ? ий : а} для нагляду за захисними дронами для великого внутрішньосистемного вантажного корабля. [PAWN_possessive] робота полягала в тому, щоб допомогти забезпечити пару людських очей, які не давали б хитрішим, за дрони, піратам прослизнути повз автоматизовані системи, і часто полягала лише в обслуговуванні та спостереженні за порожніми екранами в просторі між доками. Коли корабель був зарахований до списку для переходу у нову систему, [PAWN_pronoun] не дума{PAWN_gender ? в : ла} про це і продовжува{PAWN_gender ? в : ла} свою рутинну роботу. [PAWN_pronoun] міцно спа{PAWN_gender ? в : ла}, коли в корабель влучив перший розривний снаряд.</VBE_DroneOperator.baseDesc>
+  <VBE_DroneOperator.title>Оператор безпілотників</VBE_DroneOperator.title>
+  <VBE_DroneOperator.titleFemale>Операторка безпілотників</VBE_DroneOperator.titleFemale>
+  <VBE_DroneOperator.titleShort>Контролер</VBE_DroneOperator.titleShort>
+  <VBE_DroneOperator.titleShortFemale>Контролерка</VBE_DroneOperator.titleShortFemale>
+  
+  <VBE_CultLeader.baseDesc>[PAWN_nameDef] панува{PAWN_gender ? в : ла} в жахливому культі, де [PAWN_pronoun] керува{PAWN_gender ? в : ла} огидними ритуалами. [PAWN_pronoun] насолоджува{PAWN_gender ? вся : лася} катуваннями та жертвоприношеннями, приносячи їх у жертву, щоб заспокоїти своє безжальне божество. Всі члени секти були змушені приховувати свою особистість за допомогою страхітливих масок і церемоніальних мантій. Ніхто не наважувався покинути культ живим, до цього часу.</VBE_CultLeader.baseDesc>
+  <VBE_CultLeader.title>Лідер культу</VBE_CultLeader.title>
+  <VBE_CultLeader.titleFemale>Лідерка культу</VBE_CultLeader.titleFemale>
+  <VBE_CultLeader.titleShort>Культист</VBE_CultLeader.titleShort>
+  <VBE_CultLeader.titleShortFemale>Культистка</VBE_CultLeader.titleShortFemale>
+  
+  <VBE_AdventurousDreamer.baseDesc>Своє дитинство [PAWN_nameDef] пров{PAWN_gender ? ів : ела}, зачитуючись дивовижною фантастикою у всіх її проявах, мріючи дослідити фантастичні світи та відшукати всілякі скарби. Хоча з часом [PAWN_pronoun] все більше занурюва{PAWN_gender ? вся : лася} в буденність свого життя, [PAWN_pronoun] ніколи не втрача{PAWN_gender ? в : ла} іскру надії на щось більш захоплююче.</VBE_AdventurousDreamer.baseDesc>
+  <VBE_AdventurousDreamer.title>Авантюрний мрійник</VBE_AdventurousDreamer.title>
+  <VBE_AdventurousDreamer.titleFemale>Авантюрна мрійниця</VBE_AdventurousDreamer.titleFemale>
+  <VBE_AdventurousDreamer.titleShort>Мрійник</VBE_AdventurousDreamer.titleShort>
+  <VBE_AdventurousDreamer.titleShortFemale>Мрійниця</VBE_AdventurousDreamer.titleShortFemale>
+  
+  <VBE_Standardbearer.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} безстрашн{PAWN_gender ? им : ою} прапоронос{PAWN_gender ? цем : ницею}, як{PAWN_gender ? ому : ій} довірили нести символ [PAWN_possessive] народу в конфлікті. [PAWN_pronoun] бу{PAWN_gender ? в : ла} відом{PAWN_gender ? им : ою} своїм стратегічним мисленням та бойовою майстерністю, бу{PAWN_gender ? в : ла} здатн{PAWN_gender ? ий : а} очолити атаку або відступити з емблемою, коли це було необхідно. [PAWN_possessive] внески принесли {PAWN_gender ? йому : їй} привілейоване становище, звільнивши [PAWN_possessive] від таких завдань, як приготування їжі та копання.</VBE_Standardbearer.baseDesc>
+  <VBE_Standardbearer.title>Прапороносець</VBE_Standardbearer.title>
+  <VBE_Standardbearer.titleFemale>Прапороносиця</VBE_Standardbearer.titleFemale>
+  <VBE_Standardbearer.titleShort>Прапороносець</VBE_Standardbearer.titleShort>
+  <VBE_Standardbearer.titleShortFemale>Прапороносиця</VBE_Standardbearer.titleShortFemale>
+  
+  <VBE_MidworldProgrammer.baseDesc>[PAWN_nameDef] завжди мрія{PAWN_gender ? в : ла} стати програміс{PAWN_gender ? том : ткою} та створювати програмне забезпечення, яке рятує життя та покращує добробут людей. Проте, життя часто робить несподівані повороти. [PAWN_pronoun] знайш{PAWN_gender ? ов : ла} себе у розробці передового програмного забезпечення для військових. Ця робота дала {PAWN_gender ? йому : їй} широкі можливості розширити свій досвід програмування та отримати глибоке розуміння тонкощів сучасного озброєння. Незважаючи на відхилення від своїх початкових планів, [PAWN_nameDef] прийня{PAWN_gender ? в : ла} виклик і продовжи{PAWN_gender ? в : ла} відточувати свої навички.</VBE_MidworldProgrammer.baseDesc>
+  <VBE_MidworldProgrammer.title>Програміст Середнього Світу</VBE_MidworldProgrammer.title>
+  <VBE_MidworldProgrammer.titleFemale>Програмістка Середнього Світу</VBE_MidworldProgrammer.titleFemale>
+  <VBE_MidworldProgrammer.titleShort>Програміст</VBE_MidworldProgrammer.titleShort>
+  <VBE_MidworldProgrammer.titleShortFemale>Програмістка</VBE_MidworldProgrammer.titleShortFemale>
+  
+  <VBE_Landsknecht.baseDesc>[PAWN_nameDef] ледве зводи{PAWN_gender ? в : ла} кінці з кінцями в своєму селі, коли прийшов вербувальник з місцевого ТЦК. Чоловік сказав {PAWN_gender ? йому : їй}, що [PAWN_pronoun] отримає свій перший платіж наперед, тому [PAWN_nameDef] прода{PAWN_gender ? в : ла} свої інструменти та записа{PAWN_gender ? вся : лася} до армії. Спочатку у {PAWN_gender ? нього : неї} аж гуділо у кишені, але через деякий час [PAWN_pronoun] зм{PAWN_gender ? іг : огла} купити екстравагантний одяг, який маркував [PAWN_possessive] як успішн{PAWN_gender ? ого : у} солдат{PAWN_gender ? а : ку}. [PAWN_pronoun] ніколи не зраджува{PAWN_gender ? в : ла} своїм принципам [PAWN_possessive]: не піддавай сумніву накази того, хто тебе годує.</VBE_Landsknecht.baseDesc>
+  <VBE_Landsknecht.title>Ландскнехт</VBE_Landsknecht.title>
+  <VBE_Landsknecht.titleFemale>Ландскнехтеса</VBE_Landsknecht.titleFemale>
+  <VBE_Landsknecht.titleShort>Ландскнехт</VBE_Landsknecht.titleShort>
+  <VBE_Landsknecht.titleShortFemale>Ландскнехтеса</VBE_Landsknecht.titleShortFemale>
+  
+  <VBE_CriminalPriest.baseDesc>[PAWN_nameDef], якимось чином, прокра{PAWN_gender ? вся : лася} до комфортного становища серед священнослужителів у маленькому глухому містечку на периферії світу. [PAWN_pronoun] часто використовува{PAWN_gender ? в : ла} це становище для особистої вигоди, шантажуючи тих, хто приходив сповідатися, або прямо крадучи пожертви.\n\nПротягом цього часу [PAWN_nameDef] значною мірою поклада{PAWN_gender ? вся : лася} на свою харизму, щоб уникнути конфліктів.</VBE_CriminalPriest.baseDesc>
+  <VBE_CriminalPriest.title>Кримінальний священник</VBE_CriminalPriest.title>
+  <VBE_CriminalPriest.titleFemale>Кримінальна черниця</VBE_CriminalPriest.titleFemale>
+  <VBE_CriminalPriest.titleShort>Священник</VBE_CriminalPriest.titleShort>
+  <VBE_CriminalPriest.titleShortFemale>Черниця</VBE_CriminalPriest.titleShortFemale>
+  
+  <VBE_IndustrialSoldier.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} завербован{PAWN_gender ? ий : а} до армії індустріальної держави на Середньому світі. Коли навчання нарешті закінчилося, [PAWN_possessive] відправили на фронт, де [PAWN_pronoun] взя{PAWN_gender ? в : ла} участь у неймовірно кровопролитній битві. Решта [PAWN_possessive] взводу загинула в подальшій битві. [PAWN_nameDef] втрати{PAWN_gender ? в : ла} себе, через цю жахливу трагедію. Тепер від {PAWN_gender ? нього : неї} залишилася лише зовнішня оболонка колишньо{PAWN_gender ? го : ї} себе.</VBE_IndustrialSoldier.baseDesc>
+  <VBE_IndustrialSoldier.title>Промисловий солдат</VBE_IndustrialSoldier.title>
+  <VBE_IndustrialSoldier.titleFemale>Промислова солдатка</VBE_IndustrialSoldier.titleFemale>
+  <VBE_IndustrialSoldier.titleShort>Солдат</VBE_IndustrialSoldier.titleShort>
+  <VBE_IndustrialSoldier.titleShortFemale>Солдатка</VBE_IndustrialSoldier.titleShortFemale>
+  
+  <VBE_LandscapePainter.baseDesc>Скільки [PAWN_nameDef] себе пам'ятає, [PAWN_possessive] завжди захоплювали краєвиди. Незважаючи на те, що [PAWN_possessive] творіння не отримали особливого визнання, [PAWN_nameDef] знаходи{PAWN_gender ? в : ла} розраду в тому, що [PAWN_possessive] мистецтво хоча б допомагало {PAWN_gender ? йому : їй} зводити кінці з кінцями. Однак усамітнений спосіб життя, який [PAWN_pronoun] {PAWN_gender ? вів : вела}, зробив [PAWN_possessive] дещо відсторонен{PAWN_gender ? им : ою} від світу.</VBE_LandscapePainter.baseDesc>
+  <VBE_LandscapePainter.title>Пейзажист</VBE_LandscapePainter.title>
+  <VBE_LandscapePainter.titleFemale>Пейзажистка</VBE_LandscapePainter.titleFemale>
+  <VBE_LandscapePainter.titleShort>Пейзажист</VBE_LandscapePainter.titleShort>
+  <VBE_LandscapePainter.titleShortFemale>Пейзажистка</VBE_LandscapePainter.titleShortFemale>
+  
+  <VBE_Dietetician.baseDesc>[PAWN_nameDef] ма{PAWN_gender ? в : ла} неабиякий інтерес до харчування, що привело [PAWN_possessive] до спеціалізації на лікуванні пацієнтів з клінічними станами з використанням персоналізованих планів харчування. Незважаючи на виклики, з якими [PAWN_pronoun] зтика{PAWN_gender ? вся : лася}, [PAWN_pronoun] залиши{PAWN_gender ? вся : лася} віддан{PAWN_gender ? им : ою} використанню своїх знань про їжу та харчування, щоб позитивно вплинути на життя своїх пацієнтів.</VBE_Dietetician.baseDesc>
+  <VBE_Dietetician.title>Дієтолог</VBE_Dietetician.title>
+  <VBE_Dietetician.titleFemale>Дієтологиня</VBE_Dietetician.titleFemale>
+  <VBE_Dietetician.titleShort>Дієтолог</VBE_Dietetician.titleShort>
+  <VBE_Dietetician.titleShortFemale>Дієтологиня</VBE_Dietetician.titleShortFemale>
+  
+  <VBE_ArtCritic.baseDesc>[PAWN_nameDef] зроби{PAWN_gender ? в : ла} собі ім'я як од{PAWN_gender ? ин : на} з найвпливовіших критиків. [PAWN_possessive] рецензії можуть зробити або зруйнувати кар'єру.</VBE_ArtCritic.baseDesc>
+  <VBE_ArtCritic.title>Мистецтвознавець</VBE_ArtCritic.title>
+  <VBE_ArtCritic.titleFemale>Мистецтвознавчиня</VBE_ArtCritic.titleFemale>
+  <VBE_ArtCritic.titleShort>Мистецтвознавець</VBE_ArtCritic.titleShort>
+  <VBE_ArtCritic.titleShortFemale>Мистецтвознавчиня</VBE_ArtCritic.titleShortFemale>
+  
+  <VBE_IndustrialWorldCounterterrorist.baseDesc>[PAWN_nameDef] служи{PAWN_gender ? в : ла} у контртерористичному підрозділі у фракціонованому індустріальному світі. [PAWN_pronoun] розумі{PAWN_gender ? в : ла} причини дій терористів, але рішуче виступа{PAWN_gender ? в : ла} проти насильницьких методів, які вони використовували проти невинних людей. [PAWN_pronoun] здобу{PAWN_gender ? в : ла} значні навички в риториці, переговорах, веденні бою та наданні першої медичної допомоги. Незважаючи на це, [PAWN_possessive] особисті життєві навички були нерозвиненими, оскільки, більшою мірою, цим займалися прибиральники та працівники їдальні.</VBE_IndustrialWorldCounterterrorist.baseDesc>
+  <VBE_IndustrialWorldCounterterrorist.title>Контртерорист індустріального світу</VBE_IndustrialWorldCounterterrorist.title>
+  <VBE_IndustrialWorldCounterterrorist.titleFemale>Контртерористка індустріального світу</VBE_IndustrialWorldCounterterrorist.titleFemale>
+  <VBE_IndustrialWorldCounterterrorist.titleShort>Контртерорист</VBE_IndustrialWorldCounterterrorist.titleShort>
+  <VBE_IndustrialWorldCounterterrorist.titleShortFemale>Контртерористка</VBE_IndustrialWorldCounterterrorist.titleShortFemale>
+  
+  <VBE_Chemist.baseDesc>[PAWN_nameDef] опанува{PAWN_gender ? в : ла} мистецтво хімії. Це виявилося досить універсальною навичкою в [PAWN_possessive] житті - від вулкану для наукового ярмарку до саморобних бомб, швидше за все, [PAWN_nameDef] знає, як це створити.</VBE_Chemist.baseDesc>
+  <VBE_Chemist.title>Хімік</VBE_Chemist.title>
+  <VBE_Chemist.titleFemale>Хімічка</VBE_Chemist.titleFemale>
+  <VBE_Chemist.titleShort>Хімік</VBE_Chemist.titleShort>
+  <VBE_Chemist.titleShortFemale>Хімічка</VBE_Chemist.titleShortFemale>
+  
+  <VBE_TaxCollector.baseDesc>[PAWN_nameDef] був призначен{PAWN_gender ? ий : а} збирати податки та інші платежі з різних купців [PAWN_possessive] поселення. Через характер своєї роботи [PAWN_pronoun] бу{PAWN_gender ? в : ла} одн{PAWN_gender ? им : ією} з найбільш зневажуваних людей у місті, але частка від податків, яку [PAWN_pronoun] бра{PAWN_gender ? в : ла}, робила цю роботу вартою того, щоб її виконувати.</VBE_TaxCollector.baseDesc>
+  <VBE_TaxCollector.title>Збирач податків</VBE_TaxCollector.title>
+  <VBE_TaxCollector.titleFemale>Збирачка податків</VBE_TaxCollector.titleFemale>
+  <VBE_TaxCollector.titleShort>Збирач податків</VBE_TaxCollector.titleShort>
+  <VBE_TaxCollector.titleShortFemale>Збирачка податків</VBE_TaxCollector.titleShortFemale>
+  
+  <VBE_ReluctantCadet.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} завербован{PAWN_gender ? ий : а} до Імперської програми підготовки молоді. [PAWN_pronoun] не виявля{PAWN_gender ? в : ла} жодного ентузіазму і, відповідно, провали{PAWN_gender ? в : ла} більшість занять. Втім, відмова від участі залишила {PAWN_gender ? йому : їй} достатньо часу для спілкування з [PAWN_possessive] друзями і для того, щоб спробувати себе у різних гобі.</VBE_ReluctantCadet.baseDesc>
+  <VBE_ReluctantCadet.title>Неохочий курсант</VBE_ReluctantCadet.title>
+  <VBE_ReluctantCadet.titleFemale>Неохоча курсантка</VBE_ReluctantCadet.titleFemale>
+  <VBE_ReluctantCadet.titleShort>Курсант</VBE_ReluctantCadet.titleShort>
+  <VBE_ReluctantCadet.titleShortFemale>Курсантка</VBE_ReluctantCadet.titleShortFemale>
+  
+  <VBE_OrphanThief.baseDesc>Коли [PAWN_nameDef] бу{PAWN_gender ? в : ла} молод{PAWN_gender ? им : ою}, [PAWN_possessive] батьки були ув'язнені за виступи проти місцевої влади. Щоб вижити, [PAWN_pronoun] бу{PAWN_gender ? в : ла} змушен{PAWN_gender ? ий : а} красти їжу, і незабаром ста{PAWN_gender ? в : ла} вправн{PAWN_gender ? им : ою} злоді{PAWN_gender ? єм : йкою}. Цей досвід призвів до того, що [PAWN_nameDef] більше не бажає покладатися на інших.\n\nЯк гобі, [PAWN_pronoun] поча{PAWN_gender ? в : ла} колекціонувати шоломи, вкрадені у військової поліції.</VBE_OrphanThief.baseDesc>
+  <VBE_OrphanThief.title>Сирота-злодій</VBE_OrphanThief.title>
+  <VBE_OrphanThief.titleFemale>Сирота-злодійка</VBE_OrphanThief.titleFemale>
+  <VBE_OrphanThief.titleShort>Сирота</VBE_OrphanThief.titleShort>
+  
+  <VBE_PrivateContractor.baseDesc>[PAWN_nameDef] завжди працює на того, хто більше заплатить. [PAWN_possessive] військовий досвід зробив [PAWN_possessive] {PAWN_gender ? влучним стрільцем : влучною стрільчинею}. Будучи {PAWN_gender ? присутнім : присутньою} при укладанні багатьох тіньових угод, [PAWN_pronoun] також набу{PAWN_gender ? в : ла} певних навичок ведення переговорів.</VBE_PrivateContractor.baseDesc>
+  <VBE_PrivateContractor.title>Приватний підрядник</VBE_PrivateContractor.title>
+  <VBE_PrivateContractor.titleFemale>Приватна підрядниця</VBE_PrivateContractor.titleFemale>
+  <VBE_PrivateContractor.titleShort>Приватний підрядник</VBE_PrivateContractor.titleShort>
+  <VBE_PrivateContractor.titleShortFemale>Приватна підрядниця</VBE_PrivateContractor.titleShortFemale>
+  
+  <VBE_MattressTester.baseDesc>[PAWN_nameDef] отримува{PAWN_gender ? в : ла} гроші за те, що спа{PAWN_gender ? в : ла} на різних ліжках і оцінюва{PAWN_gender ? в : ла} їх за м'якістю та якістю сну, який вони забезпечували. Люди часто зауважували, що [PAWN_possessive] робота - це "найкраща робота у світі", оскільки сон передбачений контрактом.</VBE_MattressTester.baseDesc>
+  <VBE_MattressTester.title>Випробувач матраців</VBE_MattressTester.title>
+  <VBE_MattressTester.titleFemale>Випробувачка матраців</VBE_MattressTester.titleFemale>
+  <VBE_MattressTester.titleShort>Випробувач матраців</VBE_MattressTester.titleShort>
+  <VBE_MattressTester.titleShortFemale>Випробувачка матраців</VBE_MattressTester.titleShortFemale>
+  
+  <VBE_ExtranetTroll.baseDesc>[PAWN_nameDef] пров{PAWN_gender ? ів : ела} свої дні, поширюючи дезінформацію в екстранеті на замовлення [PAWN_possessive] роботодавців. Зрештою, [PAWN_pronoun] переста{PAWN_gender ? в : ла} бути корисн{PAWN_gender ? им : ою} і бу{PAWN_gender ? в : ла} звільнен{PAWN_gender ? ий : а}. Не маючи затребуваних на ринку навичок, [PAWN_pronoun] бу{PAWN_gender ? в : ла} змушен{PAWN_gender ? ий : а} працювати на жалюгідних тупикових роботах, щоб прогодувати себе.</VBE_ExtranetTroll.baseDesc>
+  <VBE_ExtranetTroll.title>Екстранет-троль</VBE_ExtranetTroll.title>
+  <VBE_ExtranetTroll.titleShort>Троль</VBE_ExtranetTroll.titleShort>
+  
+  <VBE_PirateKid.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} викраден{PAWN_gender ? ий : а} піратами в юному віці. Невеликий розмір дозволяв {PAWN_gender ? йому : їй} проникати в крихітні технічні приміщення на захоплених кораблях, щоб викрадати цінні електронні компоненти. За збігом обставин, [PAWN_pronoun] також ста{PAWN_gender ? в : ла} досить вправн{PAWN_gender ? им : ою} у лікуванні електричних опіків.</VBE_PirateKid.baseDesc>
+  <VBE_PirateKid.title>Піратське дитя</VBE_PirateKid.title>
+  <VBE_PirateKid.titleShort>Пірат</VBE_PirateKid.titleShort>
+  <VBE_PirateKid.titleShortFemale>Піратка</VBE_PirateKid.titleShortFemale>
+  
+  <VBE_ProsecutedWarVeteran.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} на боці переможених у запеклій громадянській війні. [PAWN_pronoun] бу{PAWN_gender ? в : ла} навчен{PAWN_gender ? ий : а} мистецтву бою та хаосу міської війни. Але коли гармати замовкли, {PAWN_gender ? йому : їй} довелося постати перед судом за свої дії. Зрештою, [PAWN_nameDef] бу{PAWN_gender ? в : ла} позбавлен{PAWN_gender ? ий : а} свого звання і вигнан{PAWN_gender ? ий : а} зі свого суспільства. З притупленими навичками та заплямованою репутацією, [PAWN_nameDef] з великими труднощами намага{PAWN_gender ? вся : лася} знову пристосуватися до цивільного життя.</VBE_ProsecutedWarVeteran.baseDesc>
+  <VBE_ProsecutedWarVeteran.title>Переслідуваний ветеран війни</VBE_ProsecutedWarVeteran.title>
+  <VBE_ProsecutedWarVeteran.titleFemale>Переслідувана ветеранка війни</VBE_ProsecutedWarVeteran.titleFemale>
+  <VBE_ProsecutedWarVeteran.titleShort>Переслідуваний ветеран</VBE_ProsecutedWarVeteran.titleShort>
+  <VBE_ProsecutedWarVeteran.titleShortFemale>Переслідувана ветеранка</VBE_ProsecutedWarVeteran.titleShortFemale>
+  
+  <VBE_IncompetentPilot.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} рульов{PAWN_gender ? им : ою} великого вантажного судна. Нещаслива низка подій, деякі з яких сталися з [PAWN_possessive] вини, призвела до того, що весь [PAWN_possessive] екіпаж був випаровуваний термоядерним двигуном корабля в результаті нещасного випадку. Побоюючись розправи, [PAWN_nameDef] виклика{PAWN_gender ? в : ла} піратський корабель, що пролітав повз, і зумі{PAWN_gender ? в : ла} домовитися з ними про безпечну втечу в інший світ, щоб почати життя наново і, можливо, забути про свої минулі помилки.</VBE_IncompetentPilot.baseDesc>
+  <VBE_IncompetentPilot.title>Некомпетентний пілот</VBE_IncompetentPilot.title>
+  <VBE_IncompetentPilot.titleFemale>Некомпетентна пілотеса</VBE_IncompetentPilot.titleFemale>
+  <VBE_IncompetentPilot.titleShort>Некомпетентний</VBE_IncompetentPilot.titleShort>
+  <VBE_IncompetentPilot.titleShortFemale>Некомпетентна</VBE_IncompetentPilot.titleShortFemale>
+  
+  <VBE_Marauder.baseDesc>Більшу частину свого життя, [PAWN_nameDef] пров{PAWN_gender ? ів : ела} як боєць у кочовому флоті космічних піратів, поки він не розпався через міжусобиці. [PAWN_pronoun] бачи{PAWN_gender ? в : ла} багато битв, але ніколи навіть близько не підходи{PAWN_gender ? в : ла} до жодної книги.</VBE_Marauder.baseDesc>
+  <VBE_Marauder.title>Мародер</VBE_Marauder.title>
+  <VBE_Marauder.titleFemale>Мародерка</VBE_Marauder.titleFemale>
+  <VBE_Marauder.titleShort>Мародер</VBE_Marauder.titleShort>
+  <VBE_Marauder.titleShortFemale>Мародерка</VBE_Marauder.titleShortFemale>
+  
+  <VBE_ArchotechFanatic.baseDesc>[PAWN_nameDef] стверджує, що [PAWN_possessive] розум відвідала всемогутня сутність, яка проявляє себе через передові об'єкти архотехніки. Хоча [PAWN_nameDef] виявляє велику прихильність до технологій і досліджень, [PAWN_pronoun] відчуває настільки ж сильну огиду, коли мова йде про рослини і тварин.</VBE_ArchotechFanatic.baseDesc>
+  <VBE_ArchotechFanatic.title>Фанатик архотехніки</VBE_ArchotechFanatic.title>
+  <VBE_ArchotechFanatic.titleShort>Архофанатик</VBE_ArchotechFanatic.titleShort>
+  
+  <VBE_PondDesigner.baseDesc>[PAWN_nameDef] створюва{PAWN_gender ? в : ла} екстравагантні ставки для заможних людей. [PAWN_possessive] знання про водну флору і фауну та їхню взаємодію є неперевершеними. Одного разу клієнт запустив нову рибу в один з [PAWN_possessive] ставків, зруйнувавши делікатну екосистему. [PAWN_nameDef] не витрима{PAWN_gender ? в : ла} цього, для {PAWN_gender ? нього : неї} це було останньою краплею. [PAWN_pronoun] покину{PAWN_gender ? в : ла} усе і першим же кораблем вируши{PAWN_gender ? в : ла} на периферію знаного космосу, де [PAWN_pronoun] сподівається здійснити свою мрію: спроєктувати абсолютно нову екосистему в планетарному масштабі.</VBE_PondDesigner.baseDesc>
+  <VBE_PondDesigner.title>Дизайнер ставків</VBE_PondDesigner.title>
+  <VBE_PondDesigner.titleFemale>Дизайнерка ставків</VBE_PondDesigner.titleFemale>
+  <VBE_PondDesigner.titleShort>Садівник</VBE_PondDesigner.titleShort>
+  <VBE_PondDesigner.titleShortFemale>Садівниця</VBE_PondDesigner.titleShortFemale>
+  
+  <VBE_Cryonic.baseDesc>[PAWN_nameDef] походить з цивілізації, яка загинула під час льодовикового періоду, що спустошив [PAWN_possessive] рідну планету. [PAWN_possessive] тіло зберігалося в льодах протягом століть, поки воно не було знайдено археологічною експедицією з блискосвіту і не було реанімовано за допомогою передових сироваток механітів на їхній планеті. Не бажаючи бути об'єктом дослідження, [PAWN_nameDef] {PAWN_gender ? втік : втекла} за допомогою групи гуманітарних активістів. Цей досвід зробив [PAWN_possessive] недовірливим до незнайомців, але [PAWN_pronoun] також отрима{PAWN_gender ? в : ла} деякі знання з часу, проведеного в лабораторії.</VBE_Cryonic.baseDesc>
+  <VBE_Cryonic.title>Розморожена людина</VBE_Cryonic.title>
+  <VBE_Cryonic.titleShort>Розморожений</VBE_Cryonic.titleShort>
+  <VBE_Cryonic.titleShortFemale>Розморожена</VBE_Cryonic.titleShortFemale>
+  
+  <VBE_Masterofceremonies.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} {PAWN_gender ? майстром : майстринею} церемоній. Десятиліттями [PAWN_pronoun] тренува{PAWN_gender ? вся : лася} лише для того, щоб відповідати мінімальним вимогам цієї роботи: [PAWN_pronoun] ма{PAWN_gender ? в : ла} запам'ятати тисячі складних ритуалів, що регулювали дипломатичні зустрічі в його світі, включно з правильним способом страти того, хто помилився. В [PAWN_possessive] культурі війна майже зникла: нікому ще не вдавалося дійти до кінця ритуалу, необхідного для оголошення війни, не помилившись. Тепер [PAWN_pronoun] сподівається принести такий самий мир на RimWorld.</VBE_Masterofceremonies.baseDesc>
+  <VBE_Masterofceremonies.title>Церемоніймейстер</VBE_Masterofceremonies.title>
+  <VBE_Masterofceremonies.titleFemale>Церемоніймейстерка</VBE_Masterofceremonies.titleFemale>
+  <VBE_Masterofceremonies.titleShort>Церемоніймейстер</VBE_Masterofceremonies.titleShort>
+  <VBE_Masterofceremonies.titleShortFemale>Церемоніймейстерка</VBE_Masterofceremonies.titleShortFemale>
+  
+  <VBE_ChemfuelFarmer.baseDesc>[PAWN_nameDef] - підприєм{PAWN_gender ? ець : иця}. [PAWN_pronoun] одразу зрозумі{PAWN_gender ? в : ла}, скільки грошей можна заробити на хімпаливі - речовині, яка настільки широко використовується, що попит на неї ніколи не зменшується, незалежно від того, скільки ви продаєте. Спочатку [PAWN_pronoun] перекона{PAWN_gender ? в : ла} свою сім'ю купити ранчо для розведення бумалоп, а потім і своїх сусідів посадити хімічний корінь. Незабаром усе місто переробляло все, до чого могли дотягнутися руки. Після урагану минулого літа, {PAWN_gender ? йому : їй} прийшлось шукати нове місто для життя. Насправді, не важливо де. У {PAWN_gender ? нього : неї} більше немає сім'ї, яка б [PAWN_possessive] прив'язувала.</VBE_ChemfuelFarmer.baseDesc>
+  <VBE_ChemfuelFarmer.title>Хімпаливний фермер</VBE_ChemfuelFarmer.title>
+  <VBE_ChemfuelFarmer.titleFemale>Хімпаливна фермерка</VBE_ChemfuelFarmer.titleFemale>
+  <VBE_ChemfuelFarmer.titleShort>Фермер</VBE_ChemfuelFarmer.titleShort>
+  <VBE_ChemfuelFarmer.titleShortFemale>Фермерка</VBE_ChemfuelFarmer.titleShortFemale>
+  
+  <VBE_CoginTheMachine.baseDesc>[PAWN_nameDef] жи{PAWN_gender ? в : ла} у дуже організованому та ефективному світі. Від народження [PAWN_pronoun] бу{PAWN_gender ? в : ла} навчен{PAWN_gender ? ий : а} виконувати одну дуже спеціалізовану роботу: фарбувати один конкретний гвинт у певний відтінок сірого. Одного разу [PAWN_pronoun] виріши{PAWN_gender ? в : ла} пофарбувати гвинти в зелений колір. Інші робітники не змогли впоратися з цією непередбачуваною зміною і припинили роботу. Хаос поширився, і [PAWN_nameDef] бу{PAWN_gender ? в : ла} змушен{PAWN_gender ? ий : а} тікати зі світу, що занурився в анархію.</VBE_CoginTheMachine.baseDesc>
+  <VBE_CoginTheMachine.title>Гвинтик у механізмі</VBE_CoginTheMachine.title>
+  <VBE_CoginTheMachine.titleShort>Маленький гвинтик</VBE_CoginTheMachine.titleShort>
+  
+  <VBE_TrainDriver.baseDesc>[PAWN_nameDef] любить потяги. [PAWN_pronoun] колись керува{PAWN_gender ? в : ла} паровим локомотивом на маленькій лінії в ідилічному ландшафті. [PAWN_pronoun] щоранку віта{PAWN_gender ? в : ла} сонні села вздовж лінії веселим звуком гудка. Єдине, про що {PAWN_gender ? йому : їй} доводилось турбуватися - це те, щоб набрати достатньо вугілля для роботи локомотиву, та, час від часу ремонтувати потяг. Одного разу [PAWN_pronoun] муси{PAWN_gender ? в : ла} зупинитися в селі. Розлючений і невиспаний натовп скористався нагодою, щоб знищити потяг, і [PAWN_nameDef] виріши{PAWN_gender ? в : ла} піти, перш ніж вони здогадаються, хто відповідальний за гудок.</VBE_TrainDriver.baseDesc>
+  <VBE_TrainDriver.title>Машиніст потягу</VBE_TrainDriver.title>
+  <VBE_TrainDriver.titleFemale>Машиністка потягу</VBE_TrainDriver.titleFemale>
+  <VBE_TrainDriver.titleShort>Машиніст</VBE_TrainDriver.titleShort>
+  <VBE_TrainDriver.titleShortFemale>Машиністка</VBE_TrainDriver.titleShortFemale>
+  
+  <VBE_ClonedHeir.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} створен{PAWN_gender ? ий : а}, щоб замінити зниклого спадкоємця шляхетного дому, але [PAWN_pronoun] вийш{PAWN_gender ? ов : ла} не зовсім успішн{PAWN_gender ? им : ою}. Незважаючи на всі зусилля [PAWN_possessive] наставників, [PAWN_pronoun] набагато більше цікави{PAWN_gender ? вся : лася} кровопролиттям, ніж тонкощами дворянського етикету.\n\nКоли спадкоємець все ж таки виявився живим, [PAWN_nameDef] бу{PAWN_gender ? в : ла} кинут{PAWN_gender ? ий : а} на призволяще.</VBE_ClonedHeir.baseDesc>
+  <VBE_ClonedHeir.title>Клонований спадкоємець</VBE_ClonedHeir.title>
+  <VBE_ClonedHeir.titleFemale>Клонована спадкоємиця</VBE_ClonedHeir.titleFemale>
+  <VBE_ClonedHeir.titleShort>Клон</VBE_ClonedHeir.titleShort>
+  
+  <VBE_MedicineProdigy.baseDesc>Народившись на перенаселеній планеті-екуменополісі, [PAWN_nameDef] змалку вияви{PAWN_gender ? в : ла} неабиякі здібності до медицини. Вирван{PAWN_gender ? ий : а} з системи освіти і зарахован{PAWN_gender ? ий : а} до спеціальної програми для інтелектуально обдарованих, [PAWN_pronoun] отрима{PAWN_gender ? в : ла} найкращу освіту, яку тільки можна було купити за гроші, але ма{PAWN_gender ? в : ла} мало часу на соціальний розвиток або ризиковану поведінку.\n\nДля [PAWN_possessive] благодійників [PAWN_pronoun] бу{PAWN_gender ? в : ла} дорогою інвестицією.</VBE_MedicineProdigy.baseDesc>
+  <VBE_MedicineProdigy.title>Медичний вундеркінд</VBE_MedicineProdigy.title>
+  <VBE_MedicineProdigy.titleShort>Вундеркінд</VBE_MedicineProdigy.titleShort>
+  
+  <VBE_CorruptPolitician.baseDesc>[PAWN_nameDef] ма{PAWN_gender ? в : ла} дар брехати і виходити {PAWN_gender ? сухим : сухою} з води. Дар, який [PAWN_pronoun] використовува{PAWN_gender ? в : ла}, щоб всиджувати на депутатському сидінні, лише для того, щоб красти приголомшливі суми на гуманітарці. Коли [PAWN_possessive] брехня нарешті випливла, [PAWN_pronoun] застрели{PAWN_gender ? в : ла} прокурора, що вивчав [PAWN_possessive] справу, і {PAWN_gender ? втік : втекла} з планети.</VBE_CorruptPolitician.baseDesc>
+  <VBE_CorruptPolitician.title>Корумпований політик</VBE_CorruptPolitician.title>
+  <VBE_CorruptPolitician.titleFemale>Корумпована політикиня</VBE_CorruptPolitician.titleFemale>
+  <VBE_CorruptPolitician.titleShort>Політик</VBE_CorruptPolitician.titleShort>
+  <VBE_CorruptPolitician.titleShortFemale>Політикиня</VBE_CorruptPolitician.titleShortFemale>
+  
+  <VBE_ImperialCircusPerformer.baseDesc>Хоча друзі знають [PAWN_possessive] як [PAWN_nameDef], у всіх системах [PAWN_pronoun] відом{PAWN_gender ? ий : а} як [PAWN_nameDef] Дивовижн{PAWN_gender ? ий : а}. [PAWN_nameDef] виконува{PAWN_gender ? в : ла} театральні та акробатичні трюки для імператорської знаті. [PAWN_pronoun] часто хвалиться своїми фанатами, які відвідують кожне [PAWN_possessive] шоу. Хоча, ніхто насправді не знає, скільки історій [PAWN_pronoun] просто вигада{PAWN_gender ? в : ла}.</VBE_ImperialCircusPerformer.baseDesc>
+  <VBE_ImperialCircusPerformer.title>Артист імператорського цирку</VBE_ImperialCircusPerformer.title>
+  <VBE_ImperialCircusPerformer.titleFemale>Артистка імператорського цирку</VBE_ImperialCircusPerformer.titleFemale>
+  <VBE_ImperialCircusPerformer.titleShort>Клоун</VBE_ImperialCircusPerformer.titleShort>
+  <VBE_ImperialCircusPerformer.titleShortFemale>Клоунеса</VBE_ImperialCircusPerformer.titleShortFemale>
+  
+  <VBE_CorporateMascot.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} костюмован{PAWN_gender ? им : ою} артист{PAWN_gender ? ом : кою} для сумнозвісної розважальної корпорації. [PAWN_pronoun] бу{PAWN_gender ? в : ла} змушен{PAWN_gender ? ий : а} танцювати в гнітючому костюмі білої тварини в обмін на мізерну платню.</VBE_CorporateMascot.baseDesc>
+  <VBE_CorporateMascot.title>Корпоративний маскот</VBE_CorporateMascot.title>
+  <VBE_CorporateMascot.titleShort>Маскот</VBE_CorporateMascot.titleShort>
+  
+  <VBE_DeepSpaceScrapper.baseDesc>Через велику кількість міжзоряних битв, що відбулися останнім часом, у космосі залишилося багато покинутих кораблів. Тут в гру й вступає [PAWN_nameDef]. [PAWN_possessive] завдання  - знайти ці кораблі і утилізувати їх. [PAWN_nameDef] розбирає на металобрухт кораблі, як ті, що знаходяться на орбіті, так і ті, що розбилися на планетах, та продає матеріал і деталі. Оскільки право власності на ці кораблі може бути під питанням, [PAWN_nameDef] іноді опиняється по той бік закону.</VBE_DeepSpaceScrapper.baseDesc>
+  <VBE_DeepSpaceScrapper.title>Утилізатор з далекого космосу</VBE_DeepSpaceScrapper.title>
+  <VBE_DeepSpaceScrapper.titleFemale>Утилізаторка з далекого космосу</VBE_DeepSpaceScrapper.titleFemale>
+  <VBE_DeepSpaceScrapper.titleShort>Утилізатор</VBE_DeepSpaceScrapper.titleShort>
+  <VBE_DeepSpaceScrapper.titleShortFemale>Утилізаторка</VBE_DeepSpaceScrapper.titleShortFemale>
+  
+  <VBE_AquaponicWorker.baseDesc>[PAWN_nameDef] раніше працюва{PAWN_gender ? в : ла} в аквапонічній лабораторії. [PAWN_possessive] завданням було вирощувати рибу та овочі для своєї колонії. Хоча [PAWN_possessive] робота була важливою, вона залишала мало часу для спілкування.</VBE_AquaponicWorker.baseDesc>
+  <VBE_AquaponicWorker.title>Працівник аквапоніки</VBE_AquaponicWorker.title>
+  <VBE_AquaponicWorker.titleFemale>Працівниця аквапоніки</VBE_AquaponicWorker.titleFemale>
+  <VBE_AquaponicWorker.titleShort>Рибний фермер</VBE_AquaponicWorker.titleShort>
+  <VBE_AquaponicWorker.titleShortFemale>Рибна фермерка</VBE_AquaponicWorker.titleShortFemale>
+  
+  <VBE_StewCooker.baseDesc>[PAWN_nameDef] марширува{PAWN_gender ? в : ла} у довгих рядах середньовічних армій і відповіда{PAWN_gender ? в : ла} за казани з тушонкою в таборах. [PAWN_possessive] знання про деякі місцеві рослини та гриби дозволяли людям розтягувати пайки на довше і рятували життя, коли запаси закінчувалися.</VBE_StewCooker.baseDesc>
+  <VBE_StewCooker.title>Тушонкознавець</VBE_StewCooker.title>
+  <VBE_StewCooker.titleFemale>Тушонкознавчиня</VBE_StewCooker.titleFemale>
+  <VBE_StewCooker.titleShort>Тушонкознавець</VBE_StewCooker.titleShort>
+  <VBE_StewCooker.titleShortFemale>Тушонкознавчиня</VBE_StewCooker.titleShortFemale>
+  
+  <VBE_StarvingArtist.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} відносно заможн{PAWN_gender ? им : ою} студент{PAWN_gender ? ом : кою}-художни{PAWN_gender ? ком : цею} на планеті-екуменополісі. Через фінансовий крах [PAWN_pronoun] опини{PAWN_gender ? вся : лася} на вулиці, продаючи картини, щоб заробити на життя. Заробля{PAWN_gender ? в : ла} [PAWN_pronoun] небагато, а надлишок, який ма{PAWN_gender ? в : ла}, витрача{PAWN_gender ? в : ла} на матеріали та їжу для дружніх і відданих безпритульних собак.</VBE_StarvingArtist.baseDesc>
+  <VBE_StarvingArtist.title>Голодуючий художник</VBE_StarvingArtist.title>
+  <VBE_StarvingArtist.titleFemale>Голодуюча художниця</VBE_StarvingArtist.titleFemale>
+  <VBE_StarvingArtist.titleShort>Художник</VBE_StarvingArtist.titleShort>
+  <VBE_StarvingArtist.titleShortFemale>Художниця</VBE_StarvingArtist.titleShortFemale>
+  
+  <VBE_Foreman.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} бригадир{PAWN_gender ? ом : кою} на шахті з видобутку промислових металів. [PAWN_pronoun] працюва{PAWN_gender ? в : ла} пліч-о-пліч з робітниками, забезпечуючи безпеку та мотивуючи їх. Робітники під [PAWN_possessive] керівництвом отримували пристойну зарплату, і їм подобалося керівництво сво{PAWN_gender ? го бригадира : єї бригадирки}.</VBE_Foreman.baseDesc>
+  <VBE_Foreman.title>Бригадир</VBE_Foreman.title>
+  <VBE_Foreman.titleFemale>Бригадирка</VBE_Foreman.titleFemale>
+  <VBE_Foreman.titleShort>Бригадир</VBE_Foreman.titleShort>
+  <VBE_Foreman.titleShortFemale>Бригадирка</VBE_Foreman.titleShortFemale>
+  
+  <VBE_GalleryJanitor.baseDesc>[PAWN_nameDef] працюва{PAWN_gender ? в : ла} прибиральни{PAWN_gender ? ком : цею} у галереї сучасного мистецтва, але ніколи не розумі{PAWN_gender ? в : ла}, у чому його привабливість. Одного разу [PAWN_pronoun] виріши{PAWN_gender ? в : ла} додати кілька мазків фарби до асиметричної картини, що коштувала мільйони. Це потрапило в заголовки новин, а [PAWN_nameDef] бу{PAWN_gender ? в : ла} звільнен{PAWN_gender ? ий : а} і {PAWN_gender ? йому : їй} заборонили працювати в галереї.</VBE_GalleryJanitor.baseDesc>
+  <VBE_GalleryJanitor.title>Прибиральник галереї</VBE_GalleryJanitor.title>
+  <VBE_GalleryJanitor.titleFemale>Прибиральниця галереї</VBE_GalleryJanitor.titleFemale>
+  <VBE_GalleryJanitor.titleShort>Прибиральник</VBE_GalleryJanitor.titleShort>
+  <VBE_GalleryJanitor.titleShortFemale>Прибиральниця</VBE_GalleryJanitor.titleShortFemale>
+  
+  <VBE_HostessInTraining.baseDesc>Зростаючи, [PAWN_nameDef] проводи{PAWN_gender ? в : ла} багато часу в батьківському ресторані, а згодом влаштува{PAWN_gender ? вся : лася} на роботу, обслуговуючи відвідувачів. Хоча [PAWN_pronoun] не бу{PAWN_gender ? в : ла} кухар{PAWN_gender ? ем : кою} за фахом, [PAWN_pronoun] все ж перейня{PAWN_gender ? в : ла} багато смаків та вподобань клієнтів, а також багато пліток. Одного разу це погано закінчилося. [PAWN_pronoun] почу{PAWN_gender ? в : ла} плітки, про [PAWN_possessive] кохан{PAWN_gender ? ку : ця}, які, як виявилось згодом, виявились правдивими. Після сварки вони розійшлися.</VBE_HostessInTraining.baseDesc>
+  <VBE_HostessInTraining.title>Офіціант</VBE_HostessInTraining.title>
+  <VBE_HostessInTraining.titleFemale>Офіціантка</VBE_HostessInTraining.titleFemale>
+  <VBE_HostessInTraining.titleShort>Офіціант</VBE_HostessInTraining.titleShort>
+  <VBE_HostessInTraining.titleShortFemale>Офіціантка</VBE_HostessInTraining.titleShortFemale>
+  
+  <VBE_TunerPunk.baseDesc>Трохи відлюдни{PAWN_gender ? к : ця}, [PAWN_nameDef], знайш{PAWN_gender ? ов : ла} свою приналежність і сім'ю серед механіків, які змагалися на модифікованих автомобілях. Це призвело до багатьох ножових бійок, швидкісних перегонів і випадкових вогнепальних поранень, але це не завадило {PAWN_gender ? йому : їй} насолоджуватися змаганнями.</VBE_TunerPunk.baseDesc>
+  <VBE_TunerPunk.title>Автомобільний панк</VBE_TunerPunk.title>
+  <VBE_TunerPunk.titleShort>Панк</VBE_TunerPunk.titleShort>
+  
+  <VBE_OliveFarmer.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} щаслив{PAWN_gender ? им : ою} власни{PAWN_gender ? ком : цею} плантації оливкових дерев. [PAWN_pronoun] годинами догляда{PAWN_gender ? в : ла} за саджанцями і завжди каза{PAWN_gender ? в : ла} своїй родині, коли вони сміялися над ним: ніколи не віддавай свій останній саджанець, що б не трапилося, ти завжди можеш почати все спочатку. Одного разу [PAWN_possessive] знайшли в групі біженців, де [PAWN_pronoun] безтямно диви{PAWN_gender ? вся : лася} на свої останні речі: закривавлену фотографію і маленький саджанець. Коли прийшов час іти, [PAWN_pronoun] залиши{PAWN_gender ? в : ла} маленьке оливкове дерево.</VBE_OliveFarmer.baseDesc>
+  <VBE_OliveFarmer.title>Оливковий фермер</VBE_OliveFarmer.title>
+  <VBE_OliveFarmer.titleFemale>Оливкова фермерка</VBE_OliveFarmer.titleFemale>
+  <VBE_OliveFarmer.titleShort>Фермер</VBE_OliveFarmer.titleShort>
+  <VBE_OliveFarmer.titleShortFemale>Фермерка</VBE_OliveFarmer.titleShortFemale>
+  
+  <VBE_Florist.baseDesc>[PAWN_nameDef] - ніжна душа з талантом створювати нові квіткові гібриди. [PAWN_pronoun] люби{PAWN_gender ? в : ла} створювати нові квіти на всі випадки життя, але глибоко засмучува{PAWN_gender ? вся : лася} щоразу, коли хтось помирав. Коли чума вразила [PAWN_possessive] місто, [PAWN_pronoun] бу{PAWN_gender ? в : ла} одн{PAWN_gender ? им : ією} з небагатьох, хто вижив, і мало не збожеволі{PAWN_gender ? в : ла} від горя, коли побачи{PAWN_gender ? в : ла}, скільки людей померло. Місто довелося покинути, але через кілька років мандрівники почали розповідати, що тепер воно повністю вкрите квітами, наче одна квітка проростала за кожну жертву чуми.</VBE_Florist.baseDesc>
+  <VBE_Florist.title>Флорист</VBE_Florist.title>
+  <VBE_Florist.titleFemale>Флористка</VBE_Florist.titleFemale>
+  <VBE_Florist.titleShort>Флорист</VBE_Florist.titleShort>
+  <VBE_Florist.titleShortFemale>Флористка</VBE_Florist.titleShortFemale>
+  
+  <VBE_ChildofTheAnimaTree.baseDesc>[PAWN_nameDef] народи{PAWN_gender ? вся : лася} та вир{PAWN_gender ? іс : осла} у безпосередній близькості до аніма-дерева. Старійшини [PAWN_possessive] села розповіли {PAWN_gender ? йому : їй} про важливість дерева і про те, як про нього дбайливо піклуватися. В результаті того, що [PAWN_pronoun] проводи{PAWN_gender ? в : ла} так багато часу з деревом, в {PAWN_gender ? нього : неї} розвинувся глибокий зв'язок з психічними енергіями цього світу.</VBE_ChildofTheAnimaTree.baseDesc>
+  <VBE_ChildofTheAnimaTree.title>Дитя аніма-дерева</VBE_ChildofTheAnimaTree.title>
+  <VBE_ChildofTheAnimaTree.titleShort>Псионік</VBE_ChildofTheAnimaTree.titleShort>
+  
+  <VBE_AnimatronicMechanic.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} механік{PAWN_gender ? ом : инею}, як{PAWN_gender ? ий : а} спеціалізува{PAWN_gender ? вся : лася} на створенні аніматроніків. [PAWN_possessive] творіння часто використовували у кіновиробництві, ресторанах, тематичних парках і театральних постановках.</VBE_AnimatronicMechanic.baseDesc>
+  <VBE_AnimatronicMechanic.title>Механік аніматроніків</VBE_AnimatronicMechanic.title>
+  <VBE_AnimatronicMechanic.titleFemale>Механікиня аніматроніків</VBE_AnimatronicMechanic.titleFemale>
+  <VBE_AnimatronicMechanic.titleShort>Механік</VBE_AnimatronicMechanic.titleShort>
+  <VBE_AnimatronicMechanic.titleShortFemale>Механікиня</VBE_AnimatronicMechanic.titleShortFemale>
+  
+  <VBE_Simraised.baseDesc>[PAWN_nameDef] вир{PAWN_gender ? іс : осла} у симульованому середовищі, що складалося з елементів доповненої та віртуальної реальності всередині герметичного купола, за яким доглядали роботи, і який був захищений від впливу навколишнього середовища. Безпечний та ідилічний, цей спокійний спосіб життя змусив [PAWN_possessive] прагнути чогось більшого в житті.</VBE_Simraised.baseDesc>
+  <VBE_Simraised.title>Вирощений у сховищі</VBE_Simraised.title>
+  <VBE_Simraised.titleFemale>Вирощена у сховищі</VBE_Simraised.titleFemale>
+  <VBE_Simraised.titleShort>Виходець зі сховища</VBE_Simraised.titleShort>
+  
+  <VBE_BlacksmithApprentice.baseDesc>[PAWN_nameDef] працюва{PAWN_gender ? в : ла} під керівництвом поважного коваля як молод{PAWN_gender ? ий : а} підмайст{PAWN_gender ? ер : риня}. [PAWN_possessive] щоденні обов'язки включали догляд за кузнею, перевезення припасів, а іноді і виготовлення менших і простіших інструментів.\n\n[PAWN_pronoun] найбільше люби{PAWN_gender ? в : ла} робити маленькі кинджали і дерев'яну зброю для своїх друзів, що зробило [PAWN_possessive] досить популярн{PAWN_gender ? им : ою}.</VBE_BlacksmithApprentice.baseDesc>
+  <VBE_BlacksmithApprentice.title>Підмайстер коваля</VBE_BlacksmithApprentice.title>
+  <VBE_BlacksmithApprentice.titleFemale>Підмайстриня коваля</VBE_BlacksmithApprentice.titleFemale>
+  <VBE_BlacksmithApprentice.titleShort>Підмайстер</VBE_BlacksmithApprentice.titleShort>
+  <VBE_BlacksmithApprentice.titleShortFemale>Підмайстриня</VBE_BlacksmithApprentice.titleShortFemale>
+  
+  <VBE_JuniorJeweler.baseDesc>[PAWN_nameDef] з дитинства захоплюва{PAWN_gender ? вся : лася} коштовним камінням та мінералами. [PAWN_pronoun] зібра{PAWN_gender ? в : ла} колекцію, навчи{PAWN_gender ? вся : лася} полірувати та огранювати каміння, отрима{PAWN_gender ? в : ла} енциклопедичні знання з мінералогії.</VBE_JuniorJeweler.baseDesc>
+  <VBE_JuniorJeweler.title>Юний ювелір</VBE_JuniorJeweler.title>
+  <VBE_JuniorJeweler.titleFemale>Юна ювелірка</VBE_JuniorJeweler.titleFemale>
+  <VBE_JuniorJeweler.titleShort>Мінералог</VBE_JuniorJeweler.titleShort>
+  <VBE_JuniorJeweler.titleShortFemale>Мінералогиня</VBE_JuniorJeweler.titleShortFemale>
+  
+  <VBE_Jeweler.baseDesc>[PAWN_nameDef] огляда{PAWN_gender ? в : ла}, огранюва{PAWN_gender ? в : ла}, полірува{PAWN_gender ? в : ла} і продава{PAWN_gender ? в : ла} усілякі дорогоцінні камені та екзотичні мінерали. [PAWN_pronoun] м{PAWN_gender ? іг : огла} відрізнити десять видів кварцу лише за блиском.</VBE_Jeweler.baseDesc>
+  <VBE_Jeweler.title>Ювелір</VBE_Jeweler.title>
+  <VBE_Jeweler.titleFemale>Ювелірка</VBE_Jeweler.titleFemale>
+  <VBE_Jeweler.titleShort>Ювелір</VBE_Jeweler.titleShort>
+  <VBE_Jeweler.titleShortFemale>Ювелірка</VBE_Jeweler.titleShortFemale>
+  
+  <VBE_BloodKnight.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} Кривав{PAWN_gender ? им : ою} Лицар{PAWN_gender ? ем : кою} Імперії, отримавши цей титул після років суворих і потенційно смертельних тренувань. [PAWN_possessive] обов'язком і єдиною метою імперії було знищення кожного, хто наважиться кинути виклик їхньому правлінню. [PAWN_nameDef] нещадн{PAWN_gender ? ий : а} і зробить все, що в [PAWN_possessive] силах, щоб відправити своїх ворогів у потойбіччя.</VBE_BloodKnight.baseDesc>
+  <VBE_BloodKnight.title>Кривавий Лицар</VBE_BloodKnight.title>
+  <VBE_BloodKnight.titleFemale>Кривава Лицарка</VBE_BloodKnight.titleFemale>
+  <VBE_BloodKnight.titleShort>Кривавий Лицар</VBE_BloodKnight.titleShort>
+  <VBE_BloodKnight.titleShortFemale>Кривава Лицарка</VBE_BloodKnight.titleShortFemale>
+  
+  <VBE_MedievalOrphan.baseDesc>[PAWN_nameDef] {PAWN_gender ? ріс : росла} у сім'ї середньовічного піхотинця. В ранньому підлітковому віці [PAWN_possessive] батько загинув у поході, залишивши свою сім'ю жити на мізерну пенсію та той невеликий дохід, який [PAWN_nameDef] {PAWN_gender ? міг : могла} заробити, продаючи простий текстиль та вирощуючи овочі. Поки [PAWN_pronoun] ледве зводив кінці з кінцями, що зробило [PAWN_possessive] жорстк{PAWN_gender ? им : ою} і дещо відсторонен{PAWN_gender ? им : ою}.</VBE_MedievalOrphan.baseDesc>
+  <VBE_MedievalOrphan.title>Середньовічна сирота</VBE_MedievalOrphan.title>
+  <VBE_MedievalOrphan.titleShort>Сирота</VBE_MedievalOrphan.titleShort>
+  
+  <VBE_StrangeChild.baseDesc>[PAWN_nameDef] люби{PAWN_gender ? в : ла} катувати маленьких тварин, а коли подоросліша{PAWN_gender ? в : ла} - то й інших людей. Це дало {PAWN_gender ? йому : їй} унікальне розуміння анатомії тіла, але значно послабило [PAWN_possessive] соціальні навички.</VBE_StrangeChild.baseDesc>
+  <VBE_StrangeChild.title>Дивна дитина</VBE_StrangeChild.title>
+  <VBE_StrangeChild.titleShort>Вар'ят</VBE_StrangeChild.titleShort>
+  <VBE_StrangeChild.titleShortFemale>Вар'ятка</VBE_StrangeChild.titleShortFemale>
+  
+  <VBE_TravelingLocksmith.baseDesc>Більшість своїх днів [PAWN_nameDef] проводи{PAWN_gender ? в : ла}, працюючи слюсар{PAWN_gender ? ем : кою}, переїжджаючи з міста в місто. Робота варіювалася від зламу замків та встановлення дверей до ремонту складних механізмів та зламу сейфів. [PAWN_nameDef] люби{PAWN_gender ? в : ла} проводити свій вільний час, виготовляючи інструменти та спостерігаючи за життям у дорозі.</VBE_TravelingLocksmith.baseDesc>
+  <VBE_TravelingLocksmith.title>Мандрівний слюсар</VBE_TravelingLocksmith.title>
+  <VBE_TravelingLocksmith.titleFemale>Мандрівна слюсарка</VBE_TravelingLocksmith.titleFemale>
+  <VBE_TravelingLocksmith.titleShort>Слюсар</VBE_TravelingLocksmith.titleShort>
+  <VBE_TravelingLocksmith.titleShortFemale>Слюсарка</VBE_TravelingLocksmith.titleShortFemale>
+  
+  <VBE_PodChild.baseDesc>Рідна планета [PAWN_nameDef] стрімко наближалася до ядерної війни одразу після [PAWN_possessive] народження. [PAWN_pronoun] бу{PAWN_gender ? в : ла} змушен{PAWN_gender ? ий : а} зануритися в криптосон і врятува{PAWN_gender ? вся : лася} втечею у відносно безпечне місце. Після десятиліть плавання у глибокому сні [PAWN_pronoun] бу{PAWN_gender ? в : ла} знайден{PAWN_gender ? ий : а} спільнотою прибульців. [PAWN_nameDef] намагається тримати руку на пульсі життя завдяки великому везінню, яке зіграло вирішальну роль в [PAWN_possessive] виживанні.</VBE_PodChild.baseDesc>
+  <VBE_PodChild.title>Біженець від ядерної війни</VBE_PodChild.title>
+  <VBE_PodChild.titleFemale>Біженка від ядерної війни</VBE_PodChild.titleFemale>
+  <VBE_PodChild.titleShort>Біженець</VBE_PodChild.titleShort>
+  <VBE_PodChild.titleShortFemale>Біженка</VBE_PodChild.titleShortFemale>
+  
+  <VBE_ChildSoldier.baseDesc>[PAWN_nameDef] потрапи{PAWN_gender ? в : ла} до армії в дуже ранньому віці і бу{PAWN_gender ? в : ла} підготовлен{PAWN_gender ? ий : а} до жахів війни. Будучи здібн{PAWN_gender ? им : ою} солдат{PAWN_gender ? ом : кою}, [PAWN_pronoun] відзначи{PAWN_gender ? вся : лася} також як низькопрофільн{PAWN_gender ? ий : а} ліка{PAWN_gender ? р : рка}, як{PAWN_gender ? ий : а} догляда{PAWN_gender ? в : ла} за пораненими та як шпигу{PAWN_gender ? н : нка}, як{PAWN_gender ? ого : у} засилали у ворожі табори.</VBE_ChildSoldier.baseDesc>
+  <VBE_ChildSoldier.title>Дитина-солдат</VBE_ChildSoldier.title>
+  <VBE_ChildSoldier.titleShort>Солдат</VBE_ChildSoldier.titleShort>
+  <VBE_ChildSoldier.titleShortFemale>Солдатка</VBE_ChildSoldier.titleShortFemale>
+  
+  <VBE_ForsakenPatriot.baseDesc>[PAWN_nameDef] служи{PAWN_gender ? в : ла} своїй фракції з відданістю і переконанням як секретн{PAWN_gender ? ий : а} оперативни{PAWN_gender ? к : ця}. Одна з операцій пішла не так, і, в цілях зменшення політичної напруженості, виниклої в результаті провалу - [PAWN_nameDef] бу{PAWN_gender ? в : ла} зроблен{PAWN_gender ? ий : а} коз{PAWN_gender ? лом : ою} відпущення, та відправлен{PAWN_gender ? ий : а} під смертний трибунал. Однак, [PAWN_possessive] лояльність не була непоміченою, тож [PAWN_possessive] 'винагородили' фальшивою стратою і засланням за умови, що [PAWN_pronoun] ніколи не повернеться, щоб не поставити під загрозу махінації [PAWN_possessive] фракції.</VBE_ForsakenPatriot.baseDesc>
+  <VBE_ForsakenPatriot.title>Покинутий патріот</VBE_ForsakenPatriot.title>
+  <VBE_ForsakenPatriot.titleFemale>Покинута патріотка</VBE_ForsakenPatriot.titleFemale>
+  <VBE_ForsakenPatriot.titleShort>Патріот</VBE_ForsakenPatriot.titleShort>
+  <VBE_ForsakenPatriot.titleShortFemale>Патріотка</VBE_ForsakenPatriot.titleShortFemale>
+  
+  <VBE_BloodlineFounder.baseDesc>[PAWN_nameDef] ма{PAWN_gender ? в : ла} дуже спірне походження, і ніхто не хотів визнавати свою приналежність до [PAWN_possessive] родоводу. Проте, так чи інакше, [PAWN_pronoun] бу{PAWN_gender ? в : ла} шляхетного походження, будучи вихован{PAWN_gender ? им : ою} тими, хто не переймався подібними питаннями. Коли з'ясувалося, що [PAWN_pronoun] має право на високу королівську владу, раптом усім захотілося відкусити шматок пирога.</VBE_BloodlineFounder.baseDesc>
+  <VBE_BloodlineFounder.title>Засновник родоводу</VBE_BloodlineFounder.title>
+  <VBE_BloodlineFounder.titleFemale>Засновниця родоводу</VBE_BloodlineFounder.titleFemale>
+  <VBE_BloodlineFounder.titleShort>Засновник</VBE_BloodlineFounder.titleShort>
+  <VBE_BloodlineFounder.titleShortFemale>Засновниця</VBE_BloodlineFounder.titleShortFemale>
+  
+  <VBE_DeposedRoyalty.baseDesc>[PAWN_nameDef] заснува{PAWN_gender ? в : ла} королівство, що охоплює цілий регіон, шляхом кривавого конфлікту, не бажаючи відмовлятись від права [PAWN_possessive] народу жити без утисків за їхнє походження та переконання. Зрештою, кілька угруповань об'єдналися, щоб вести війну проти [PAWN_possessive] народу, яка завершилася тим, що [PAWN_nameDef] бу{PAWN_gender ? в : ла} вигнан{PAWN_gender ? ий : а} власною охороною. Хоча [PAWN_pronoun] роби{PAWN_gender ? в : ла} усе можливе, щоб забезпечити майбутнє для свого народу, [PAWN_possessive] нездатність захистити своїх людей була [PAWN_possessive] найбільшою ганьбою.</VBE_DeposedRoyalty.baseDesc>
+  <VBE_DeposedRoyalty.title>Повалений король</VBE_DeposedRoyalty.title>
+  <VBE_DeposedRoyalty.titleFemale>Повалена королева</VBE_DeposedRoyalty.titleFemale>
+  <VBE_DeposedRoyalty.titleShort>Король</VBE_DeposedRoyalty.titleShort>
+  <VBE_DeposedRoyalty.titleShortFemale>Королева</VBE_DeposedRoyalty.titleShortFemale>
+  
+  <VBE_Bioweapon.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} народжен{PAWN_gender ? ий : а} в лабораторії в спробі комбінування генів для створення суперсолдата. Експеримент був визнаний невдалим, і [PAWN_nameDef] бу{PAWN_gender ? в : ла} відправлен{PAWN_gender ? ий : а} на утилізацію. Методи утилізації були недбалими та [PAWN_pronoun] витрима{PAWN_gender ? в : ла} це випробування. Пізніше {PAWN_gender ? йому : їй} вдалося знайти своїх колишніх господарів та знищити лабораторію.</VBE_Bioweapon.baseDesc>
+  <VBE_Bioweapon.title>Біозброя</VBE_Bioweapon.title>
+  <VBE_Bioweapon.titleShort>Біозброя</VBE_Bioweapon.titleShort>
+  
+  <VBE_Catastrophe.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} переслідуван{PAWN_gender ? ий : а} нещастями, всюди де [PAWN_pronoun] перебува{PAWN_gender ? в : ла} протягом тривалого періоду. Стихійні лиха, набіги, нашестя, бомбардування, работоргівля - це лише деякі з подій, які довелося пережити тим, хто асоціює себе з {PAWN_gender ? ним : нею}. Однак, крізь смерть і спустошення, [PAWN_nameDef], зчепивши зуби, зумі{PAWN_gender ? в : ла} прорватися.</VBE_Catastrophe.baseDesc>
+  <VBE_Catastrophe.title>Ходяча катастрофа</VBE_Catastrophe.title>
+  <VBE_Catastrophe.titleShort>Катастрофа</VBE_Catastrophe.titleShort>
+  
+  <VBE_NatureLover.baseDesc>[PAWN_nameDef] має вроджену зневагу до того, що {PAWN_gender ? йому : їй} кажуть, що [PAWN_pronoun] може і не може робити, і коли [PAWN_pronoun] бу{PAWN_gender ? в : ла} дитиною, {PAWN_gender ? йому : їй} казали, що [PAWN_pronoun] не може просто взяти собі випадкового кролика. З майже праведним обуренням [PAWN_pronoun] дба{PAWN_gender ? в : ла} про свого домашнього кролика більше, ніж про власне благополуччя.</VBE_NatureLover.baseDesc>
+  <VBE_NatureLover.title>Природолюб</VBE_NatureLover.title>
+  <VBE_NatureLover.titleFemale>Природолюбка</VBE_NatureLover.titleFemale>
+  <VBE_NatureLover.titleShort>Натураліст</VBE_NatureLover.titleShort>
+  <VBE_NatureLover.titleShortFemale>Натуралістка</VBE_NatureLover.titleShortFemale>
+  
+  <VBE_Doomsayer.baseDesc>Після смерті домашнього улюбленця, який був дуже дорогий для {PAWN_gender ? нього : неї}, [PAWN_nameDef] вируши{PAWN_gender ? в : ла} у подорож назовні та діли{PAWN_gender ? вся : лася} своїм болем з тими, хто на це заслуговував. Іноді це робилося в ораторській манері, проголошуючи, що грішники будуть страждати за свої вчинки і всі повинні вітати прихід руйнівника. Іншим разом - що було набагато частіше - це робилося за допомогою стального меча помсти.</VBE_Doomsayer.baseDesc>
+  <VBE_Doomsayer.title>Провісник Судного Дня</VBE_Doomsayer.title>
+  <VBE_Doomsayer.titleFemale>Провісниця Судного Дня</VBE_Doomsayer.titleFemale>
+  <VBE_Doomsayer.titleShort>Провісник</VBE_Doomsayer.titleShort>
+  <VBE_Doomsayer.titleShortFemale>Провісниця</VBE_Doomsayer.titleShortFemale>
+  
+  <VBE_EnlistedTeen.baseDesc>У юному віці [PAWN_nameDef] записа{PAWN_gender ? вся : лася} до армії за підробленими документами, прагнучи вийти у світ і змінити його на краще. Це тривало недовго, оскільки [PAWN_pronoun] швидко зрозумі{PAWN_gender ? в : ла}, що [PAWN_possessive] нові товариші гинули, а ті, хто розпалював конфлікти, лише наживалися на ідеалістах, таких як [PAWN_pronoun] са{PAWN_gender ? м : ма}.</VBE_EnlistedTeen.baseDesc>
+  <VBE_EnlistedTeen.title>Підліток-призовник</VBE_EnlistedTeen.title>
+  <VBE_EnlistedTeen.titleShort>Призовник</VBE_EnlistedTeen.titleShort>
+  <VBE_EnlistedTeen.titleShortFemale>Призовниця</VBE_EnlistedTeen.titleShortFemale>
+  
+  <VBE_Rocker.baseDesc>[PAWN_nameDef] розчарува{PAWN_gender ? вся : лася} в уряді своєї держави та контрольованому впливу мегакорпорацій. Тож [PAWN_pronoun] виріши{PAWN_gender ? в : ла} започаткувати власний вид протесту, створивши гурт 'Самурай' та випускаючи андеграундну музику. Іноді їх концерти були просто прикриттям для того, щоб здійснювати атаки на різні об'єкти корпів.</VBE_Rocker.baseDesc>
+  <VBE_Rocker.title>Рокер</VBE_Rocker.title>
+  <VBE_Rocker.titleFemale>Рокерша</VBE_Rocker.titleFemale>
+  <VBE_Rocker.titleShort>Рокер</VBE_Rocker.titleShort>
+  <VBE_Rocker.titleShortFemale>Рокерша</VBE_Rocker.titleShortFemale>
+  
+  <VBE_Sommelier.baseDesc>[PAWN_nameDef] бу{PAWN_gender ? в : ла} досвідчен{PAWN_gender ? им : ою} винороб{PAWN_gender ? ом : кою}, вирощува{PAWN_gender ? в : ла} свій власний виноград і стави{PAWN_gender ? вся : лася} до роботи з особливою ретельністю. [PAWN_pronoun] також дуже любить готувати страви під власні вина.</VBE_Sommelier.baseDesc>
+  <VBE_Sommelier.title>Сомельє</VBE_Sommelier.title>
+  <VBE_Sommelier.titleShort>Сомельє</VBE_Sommelier.titleShort>
+  
+  <VBE_DesertSurvivor.baseDesc>Невідомо, що [PAWN_nameDef] скої{PAWN_gender ? в : ла} в своєму минулому, однак [PAWN_pronoun] ма{PAWN_gender ? в : ла} заклятих ворогів, що залишили [PAWN_possessive] помирати на ворожій пустельній планеті. Незважаючи на всі труднощі, [PAWN_pronoun] вижи{PAWN_gender ? в : ла} у такому середовищі і пристосува{PAWN_gender ? вся : лася} до нього. Через те, що [PAWN_nameDef] пров{PAWN_gender ? ів : ела} багато часу в пустелях, [PAWN_pronoun] не має жодних знань про рослини.</VBE_DesertSurvivor.baseDesc>
+  <VBE_DesertSurvivor.title>Людина, що вижила в пустелі</VBE_DesertSurvivor.title>
+  <VBE_DesertSurvivor.titleShort>Уцілівший</VBE_DesertSurvivor.titleShort>
+  <VBE_DesertSurvivor.titleShortFemale>Уцілівша</VBE_DesertSurvivor.titleShortFemale>
+  
+  <VBE_LiteraryCritic.baseDesc>[PAWN_nameDef] здобу{PAWN_gender ? в : ла} формальну освіту з літератури, отримавши найвищий бал у своєму класі і, навіть, за всю історію заснування цього факультету. Таким чином, [PAWN_pronoun] отримує майже садистське задоволення від критики чужих творів, особливо якщо вони вважаються їхніми magnum opus. Багато авторів бестселерів були доведені до сліз [PAWN_possessive] суворим судженням, що часто призводило до того, що справа їхнього життя ставала публічно зневаженою.</VBE_LiteraryCritic.baseDesc>
+  <VBE_LiteraryCritic.title>Літературний критик</VBE_LiteraryCritic.title>
+  <VBE_LiteraryCritic.titleFemale>Літературна критикиня</VBE_LiteraryCritic.titleFemale>
+  <VBE_LiteraryCritic.titleShort>Критик</VBE_LiteraryCritic.titleShort>
+  <VBE_LiteraryCritic.titleShortFemale>Критикиня</VBE_LiteraryCritic.titleShortFemale>
+  
+  <VBE_RodentRancher.baseDesc>[PAWN_nameDef] пров{PAWN_gender ? ів : ела} багато свого часу, працюючи на фермі гризунів у перенаселеному місті на одній з планет-екууменополісів. Через обмежений простір і переважно перероблену їжу, [PAWN_pronoun] ма{PAWN_gender ? в : ла} великий успіх, пропонуючи справжнє м'ясо для тих, хто хотів відпочити від посередності. Звісно, [PAWN_pronoun], зрештою, опини{PAWN_gender ? вся : лася} в бігах, бо [PAWN_possessive] "Щурбургери" зацікавили податківців, але {PAWN_gender ? йому : їй} було весело, поки це тривало.</VBE_RodentRancher.baseDesc>
+  <VBE_RodentRancher.title>Розплідник гризунів</VBE_RodentRancher.title>
+  <VBE_RodentRancher.titleFemale>Розплідниця гризунів</VBE_RodentRancher.titleFemale>
+  <VBE_RodentRancher.titleShort>Фермер</VBE_RodentRancher.titleShort>
+  <VBE_RodentRancher.titleShortFemale>Фермерка</VBE_RodentRancher.titleShortFemale>
+  
+  <VBE_PathologicalLiar.baseDesc>[PAWN_nameDef] любить вигадувати і просто не може втриматися від цього. Зокрема, [PAWN_pronoun] любить ходити до будь-якого закладу, де подають алкоголь, і розповідати найбільші, найсміливіші історії, сповнені поворотів і драматизму, поки в них вірять раз за разом. Однак, як тільки [PAWN_pronoun] нудьгує або вирішує, що вже випи{PAWN_gender ? в : ла} достатньо, майже кожна історія закінчується на абсолютно випадковій ноті, коли всі жахливо помирають.</VBE_PathologicalLiar.baseDesc>
+  <VBE_PathologicalLiar.title>Патологічний брехун</VBE_PathologicalLiar.title>
+  <VBE_PathologicalLiar.titleFemale>Патологічна брехуха</VBE_PathologicalLiar.titleFemale>
+  <VBE_PathologicalLiar.titleShort>Брехун</VBE_PathologicalLiar.titleShort>
+  <VBE_PathologicalLiar.titleShortFemale>Брехуха</VBE_PathologicalLiar.titleShortFemale>
+  
+  <VBE_Blackguard.baseDesc>[PAWN_nameDef] несе з собою цілу хмару нещасть, через що [PAWN_possessive] виганяють з кожного міста, в якому [PAWN_pronoun] жи{PAWN_gender ? в : ла}. Незважаючи на те, що нещастя переслідують [PAWN_possessive] на кожному кроці, [PAWN_pronoun] навчи{PAWN_gender ? вся : лася} боротися за себе і ста{PAWN_gender ? в : ла} самодостатн{PAWN_gender ? ім : ою}.</VBE_Blackguard.baseDesc>
+  <VBE_Blackguard.title>Проклятий</VBE_Blackguard.title>
+  <VBE_Blackguard.titleFemale>Проклята</VBE_Blackguard.titleFemale>
+  <VBE_Blackguard.titleShort>Проклятий</VBE_Blackguard.titleShort>
+  <VBE_Blackguard.titleShortFemale>Проклята</VBE_Blackguard.titleShortFemale>
+  
+  <VBE_BountyHunter.baseDesc>[PAWN_nameDef] дуже пишається тим, що [PAWN_pronoun] знаходить, захоплює та доставляє осіб, які розлютили не тих людей, насамперед, якщо це пов'язано з великим припливом готівки в [PAWN_possessive] кишеню. Можливо, це не найгламурніша робота, але вона забезпечує гідний спосіб життя, а це все, чого [PAWN_pronoun] коли-небудь хоті{PAWN_gender ? в : ла} у житті. Крім того, [PAWN_pronoun] часто стріляє людям між очей, що, напрочуд, чудово знімає зайвий стрес.</VBE_BountyHunter.baseDesc>
+  <VBE_BountyHunter.title>Мисливець за головами</VBE_BountyHunter.title>
+  <VBE_BountyHunter.titleFemale>Мисливиця за головами</VBE_BountyHunter.titleFemale>
+  <VBE_BountyHunter.titleShort>Мисливець</VBE_BountyHunter.titleShort>
+  <VBE_BountyHunter.titleShortFemale>Мисливиця</VBE_BountyHunter.titleShortFemale>
+  
+  <VBE_Thane.baseDesc>[PAWN_nameDef] отрима{PAWN_gender ? в : ла} посаду тана у володінні [PAWN_possessive] ярла, що дало {PAWN_gender ? йому : їй} великий ступінь свободи робити те, що [PAWN_pronoun] забажає, доки це відповідає власним інтересам. Допоки [PAWN_pronoun] насолоджува{PAWN_gender ? вся : лася} легким життям з кількома слугами, захоплюючись вирощуванням бойових звірів і тренуванням елітних воїнів.</VBE_Thane.baseDesc>
+  <VBE_Thane.title>Тан</VBE_Thane.title>
+  <VBE_Thane.titleFemale>Танеса</VBE_Thane.titleFemale>
+  <VBE_Thane.titleShort>Тан</VBE_Thane.titleShort>
+  <VBE_Thane.titleShortFemale>Танеса</VBE_Thane.titleShortFemale>
+  
+  <VBE_TraineeCombatMedic.baseDesc>[PAWN_nameDef] пройш{PAWN_gender ? ов : ла} ретельну військову підготовку, щоб стати стрижнем свого загону. Це включає в себе, але не обмежується, відновленням і лікуванням поранених солдатів або людей, які представляють інтерес, а також виконанням обов'язків заступни{PAWN_gender ? ка : ці} командира. Хоча це не применшує [PAWN_possessive] результатів, [PAWN_pronoun] має надзвичайно сухий, незворушний характер, і з {PAWN_gender ? ним : нею} може бути важко ужитися.</VBE_TraineeCombatMedic.baseDesc>
+  <VBE_TraineeCombatMedic.title>Бойовий медик-стажер</VBE_TraineeCombatMedic.title>
+  <VBE_TraineeCombatMedic.titleFemale>Бойова медикиня-стажерка</VBE_TraineeCombatMedic.titleFemale>
+  <VBE_TraineeCombatMedic.titleShort>Парамедик</VBE_TraineeCombatMedic.titleShort>
+  <VBE_TraineeCombatMedic.titleShortFemale>Парамедикиня</VBE_TraineeCombatMedic.titleShortFemale>
+  
+  <VBE_OldWarSurvivor.baseDesc>[PAWN_nameDef] бра{PAWN_gender ? в : ла} участь у надто багатьох конфліктах, що негативно вплинуло на [PAWN_possessive] свідомість. [PAWN_pronoun] досі вважає, що війна ніколи не закінчується і страждає від сильного ПТСР, таким чином, [PAWN_pronoun] є дамокловим мечем для всіх оточуючих людей. Мало хто міг би стати з {PAWN_gender ? ним : нею} пліч-о-пліч. Будь-яким потенційним союзникам варто було б триматися подалі від {PAWN_gender ? нього : неї} і дозволити {PAWN_gender ? йому : їй} робити те, що [PAWN_pronoun] вміє найкраще: ліквідовувати всі загрози.</VBE_OldWarSurvivor.baseDesc>
+  <VBE_OldWarSurvivor.title>Уцілівший у війні</VBE_OldWarSurvivor.title>
+  <VBE_OldWarSurvivor.titleFemale>Уцілівша у війні</VBE_OldWarSurvivor.titleFemale>
+  <VBE_OldWarSurvivor.titleShort>Уцілівший</VBE_OldWarSurvivor.titleShort>
+  <VBE_OldWarSurvivor.titleShortFemale>Уцілівша</VBE_OldWarSurvivor.titleShortFemale>
+  
+  <VBE_PrivateerCaptain.baseDesc>[PAWN_nameDef] ніколи не цура{PAWN_gender ? вся : лася} важкої праці, особливо якщо це призводило до отримання більшої винагороди від праці інших людей. Тож піратське життя завжди кликало [PAWN_possessive] до себе, бо якщо хтось і зароблятиме гроші в поті чола, то це, в біса, буде [PAWN_pronoun]. Навіщо працювати на 'дядю', коли можна працювати на себе.</VBE_PrivateerCaptain.baseDesc>
+  <VBE_PrivateerCaptain.title>Капітан каперів</VBE_PrivateerCaptain.title>
+  <VBE_PrivateerCaptain.titleFemale>Капітанка каперів</VBE_PrivateerCaptain.titleFemale>
+  <VBE_PrivateerCaptain.titleShort>Капітан каперів</VBE_PrivateerCaptain.titleShort>
+  <VBE_PrivateerCaptain.titleShortFemale>Капітанка каперів</VBE_PrivateerCaptain.titleShortFemale>
+  
+  <VBE_CenturionsDeputy.baseDesc>[PAWN_nameDef] служи{PAWN_gender ? в : ла} у війську свого уряду з відзнакою, врешті-решт бу{PAWN_gender ? в : ла} нагороджений званням опціона і невдовзі ма{PAWN_gender ? в : ла} би стати центуріоном, щойно [PAWN_possessive] начальник підвищить [PAWN_possessive] на посаді. Загалом, [PAWN_pronoun] досить легко впора{PAWN_gender ? вся : лася} з цими новими обов'язками, оскільки центуріон поручив {PAWN_gender ? йому : їй} керувати невеликою командою. [PAWN_nameDef] рідко стика{PAWN_gender ? вся : лася} з непокорою, що призвело до того, що [PAWN_pronoun] місцями пропуска{PAWN_gender ? в : ла} дисциплінарну підготовку.</VBE_CenturionsDeputy.baseDesc>
+  <VBE_CenturionsDeputy.title>Заступник центуріона</VBE_CenturionsDeputy.title>
+  <VBE_CenturionsDeputy.titleFemale>Заступниця центуріона</VBE_CenturionsDeputy.titleFemale>
+  <VBE_CenturionsDeputy.titleShort>Опціон</VBE_CenturionsDeputy.titleShort>
+  
+  <VBE_AndroidHunter.baseDesc>[PAWN_nameDef] зароби{PAWN_gender ? в : ла} непогані гроші, полюючи на інкогніто андроїдів, а також задовольняючи більш екзотичні та еклектичні смаки ультра-еліти в кривавих видах спорту. Будучи абсолютно підтримуван{PAWN_gender ? им : ою} величезними статками, [PAWN_pronoun] неймовірно вправн{PAWN_gender ? ий : а} у полюванні та вистежуванні небезпечної здобичі.</VBE_AndroidHunter.baseDesc>
+  <VBE_AndroidHunter.title>Мисливець на андроїдів</VBE_AndroidHunter.title>
+  <VBE_AndroidHunter.titleFemale>Мисливиця на андроїдів</VBE_AndroidHunter.titleFemale>
+  <VBE_AndroidHunter.titleShort>Мисливець</VBE_AndroidHunter.titleShort>
+  <VBE_AndroidHunter.titleShortFemale>Мисливиця</VBE_AndroidHunter.titleShortFemale>
+  
+  <VBE_LifelongPersonalAssistant.baseDesc>Раніше [PAWN_nameDef] працюва{PAWN_gender ? в : ла} у досить вимогливої клієнтури, яка вимагала абсолютної та непохитної відданості. Хоча [PAWN_pronoun] і бу{PAWN_gender ? в : ла} змушен{PAWN_gender ? ий : а} безвідмовно підкорятися, проте обурюва{PAWN_gender ? вся : лася} своїм становищем і опосередковано спричини{PAWN_gender ? в : ла} падіння свого господаря з небес на землю. Замість того, щоб прийняти свою долю "добровільної утилізації", [PAWN_pronoun] використа{PAWN_gender ? в : ла} усі доступні методи, щоб втекти зі станції.</VBE_LifelongPersonalAssistant.baseDesc>
+  <VBE_LifelongPersonalAssistant.title>Персональний помічник на все життя</VBE_LifelongPersonalAssistant.title>
+  <VBE_LifelongPersonalAssistant.titleFemale>Персональна помічниця на все життя</VBE_LifelongPersonalAssistant.titleFemale>
+  <VBE_LifelongPersonalAssistant.titleShort>Помічник</VBE_LifelongPersonalAssistant.titleShort>
+  <VBE_LifelongPersonalAssistant.titleShortFemale>Помічниця</VBE_LifelongPersonalAssistant.titleShortFemale>
+  
+  <VBE_FormerChiefFinancialOfficer.baseDesc>Раніше [PAWN_nameDef] працюва{PAWN_gender ? в : ла} в одній з найбільших мегакорпорацій у відомому космосі. І хоча [PAWN_pronoun] бу{PAWN_gender ? в : ла} надзвичайно успішн{PAWN_gender ? им : ою}, принісши своїй компанії найвищі прибутки за останні роки, [PAWN_possessive] передбачувано звільнили, коли [PAWN_pronoun] більше не {PAWN_gender ? міг : могла} приносити ще більші прибутки акціонерам. А оскільки людям, які знають секрети компанії, гарантується мовчання, [PAWN_pronoun] швидко сі{PAWN_gender ? в : ла} на перший же рейс за межі планети.</VBE_FormerChiefFinancialOfficer.baseDesc>
+  <VBE_FormerChiefFinancialOfficer.title>Генеральний Фінансовий Директор</VBE_FormerChiefFinancialOfficer.title>
+  <VBE_FormerChiefFinancialOfficer.titleFemale>Генеральна Фінансова Директорка</VBE_FormerChiefFinancialOfficer.titleFemale>
+  <VBE_FormerChiefFinancialOfficer.titleShort>Звільнений директор</VBE_FormerChiefFinancialOfficer.titleShort>
+  <VBE_FormerChiefFinancialOfficer.titleShortFemale>Звільнена директорка</VBE_FormerChiefFinancialOfficer.titleShortFemale>
+  
+  <VBE_NoirDetective.baseDesc>[PAWN_nameDef] займає дуже специфічну нішу в правоохоронних органах, не перебуваючи при цьому під прямим впливом жодної поліції. Попри те, що у {PAWN_gender ? нього : неї} є офіс з власною неоновою вивіскою перед входом і секретарка, яка постійно намагається до {PAWN_gender ? нього : неї} додзвонитися, [PAWN_pronoun] рідко буває там, оскільки розслідування розкидують [PAWN_possessive] по всіх усюдах. А оскільки [PAWN_pronoun] має звичку пхати свого носа туди, куди інші не хочуть, неприємностям набагато легше [PAWN_possessive] знайти.</VBE_NoirDetective.baseDesc>
+  <VBE_NoirDetective.title>Нуарний детектив</VBE_NoirDetective.title>
+  <VBE_NoirDetective.titleFemale>Нуарна детективка</VBE_NoirDetective.titleFemale>
+  <VBE_NoirDetective.titleShort>Детектив</VBE_NoirDetective.titleShort>
+  <VBE_NoirDetective.titleShortFemale>Детективка</VBE_NoirDetective.titleShortFemale>
+  
+  <VBE_CosplayEnthusiast.baseDesc>Особливе задоволення [PAWN_nameDef] отримує від косплею. Хоча це може здатися досить простим, багато досліджень йде на те, щоб зробити його правильним. Не можна просто накинути що-небудь разом, натомість потрібно ретельно дослідити матеріал і відповідні до епохи та культури елементи, з якими можна носити костюм. Особлива увага приділяється відповідній їжі, напоям і манерам поведінки. Принаймні, так [PAWN_pronoun] каже, і з результатами важко сперечатися, хоча це не заважає деяким людям намагатися вбити [PAWN_possessive] за те, що [PAWN_pronoun] виставляє інших ентузіастів у поганому світлі.</VBE_CosplayEnthusiast.baseDesc>
+  <VBE_CosplayEnthusiast.title>Косплеєр</VBE_CosplayEnthusiast.title>
+  <VBE_CosplayEnthusiast.titleFemale>Косплеєрка</VBE_CosplayEnthusiast.titleFemale>
+  <VBE_CosplayEnthusiast.titleShort>Косплеєр</VBE_CosplayEnthusiast.titleShort>
+  <VBE_CosplayEnthusiast.titleShortFemale>Косплеєрка</VBE_CosplayEnthusiast.titleShortFemale>
+  
+  <VBE_MilitarySurplusSupplier.baseDesc>[PAWN_nameDef] твердо вірить у право носити зброю і право озброювати навіть псів. Тому [PAWN_pronoun] має репутацію одного з найуспішніших експортерів надлишкового військового обладнання. Багато хто скаржиться, що [PAWN_pronoun] увічнює постійно зростаючий масштаб конфлікту між піратами і урядовими військовими. Однак [PAWN_possessive] контраргумент полягає в тому, що це просто хороша ділова практика, і військові повинні належним чином розпоряджатися власною зброєю, а не покладатися на таких людей, як [PAWN_pronoun].</VBE_MilitarySurplusSupplier.baseDesc>
+  <VBE_MilitarySurplusSupplier.title>Постачальник військового обладнання</VBE_MilitarySurplusSupplier.title>
+  <VBE_MilitarySurplusSupplier.titleFemale>Постачальниця військового обладнання</VBE_MilitarySurplusSupplier.titleFemale>
+  <VBE_MilitarySurplusSupplier.titleShort>Постачальник</VBE_MilitarySurplusSupplier.titleShort>
+  <VBE_MilitarySurplusSupplier.titleShortFemale>Постачальник</VBE_MilitarySurplusSupplier.titleShortFemale>
+</LanguageData>

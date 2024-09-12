@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--nuzzling TargetA.-->
+  <VAERoy_PeacockNuzzle.reportString>пестить TargetA.</VAERoy_PeacockNuzzle.reportString>
+  <!--talking with TargetA.-->
+  <VAERoy_OrangutanTalk.reportString>говорить з TargetA.</VAERoy_OrangutanTalk.reportString>
+</LanguageData>

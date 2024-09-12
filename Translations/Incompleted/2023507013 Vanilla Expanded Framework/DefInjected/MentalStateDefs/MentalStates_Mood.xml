@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: xenophobic rage -->
+    <VEF_XenophobicRage.label>ксенофобська лють</VEF_XenophobicRage.label>
+    <!-- EN: {0} is no longer in a xenophobic rage. -->
+    <VEF_XenophobicRage.recoveryMessage>{0} більше не знаходиться в ксенофобській люті.</VEF_XenophobicRage.recoveryMessage>
+    <!-- EN: {0} has flown into a xenophobic rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
+    <VEF_XenophobicRage.beginLetter>{0} впав у ксенофобську лють.\n\n[PAWN_pronoun] вирішив вбити {1}.</VEF_XenophobicRage.beginLetter>
+    <!-- EN: Mental state: Xenophobic rage -->
+    <VEF_XenophobicRage.baseInspectLine>Психічний стан: Ксенофобська лють</VEF_XenophobicRage.baseInspectLine>
+</LanguageData>

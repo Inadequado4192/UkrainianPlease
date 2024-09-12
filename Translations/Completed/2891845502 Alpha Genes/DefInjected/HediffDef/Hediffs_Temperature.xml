@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cold radiating -->
+  <AG_ColdRadiating.label>випромінює холод</AG_ColdRadiating.label>
+  <!-- EN: Generates intense cold up to -20ºC. Bear in mind this condition itself doesn't make the carrier cold resistant. -->
+  <AG_ColdRadiating.description>Генерує сильний холод до -20ºC. Майте на увазі, що сам по собі цей стан не робить носій холодостійким.</AG_ColdRadiating.description>
+  
+  <!-- EN: heat radiating -->
+  <AG_HeatRadiating.label>випромінює тепло</AG_HeatRadiating.label>
+  <!-- EN: Generates intense heat up to 80ºC. Bear in mind this condition itself doesn't make the carrier heat resistant. -->
+  <AG_HeatRadiating.description>Генерує інтенсивне тепло до 80ºC. Майте на увазі, що цей стан сам по собі не робить носій термостійким.</AG_HeatRadiating.description>
+  
+  <!-- EN: thermal speed -->
+  <AG_SpeedByTemperature.label>теплова швидкість</AG_SpeedByTemperature.label>
+  <!-- EN: Moves fast at high temperatures, at the cost of getting much more tired. -->
+  <AG_SpeedByTemperature.description>Швидко пересувається при високих температурах, але при цьому значно більше втомлюється.</AG_SpeedByTemperature.description>
+  
+</LanguageData>

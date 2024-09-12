@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_MummificationOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_MummificationOutcome.description>
+  <AM_MummificationOutcome.outcomeChances.0.label>Жахливо</AM_MummificationOutcome.outcomeChances.0.label>
+  <AM_MummificationOutcome.outcomeChances.0.description> {0} пройшло жахливо. Промова була нудною, а мумія вийшла жахливою.</AM_MummificationOutcome.outcomeChances.0.description>
+  <AM_MummificationOutcome.outcomeChances.1.label>Нудно</AM_MummificationOutcome.outcomeChances.1.label>
+  <AM_MummificationOutcome.outcomeChances.1.description> {0} пройшло нудно. Промова була довготривалою і не зробила честі загиблому.</AM_MummificationOutcome.outcomeChances.1.description>
+  <AM_MummificationOutcome.outcomeChances.2.label>Добре</AM_MummificationOutcome.outcomeChances.2.label>
+  <AM_MummificationOutcome.outcomeChances.2.description> {0} пройшло добре. Заключні слова спікера надали кожному шлях для подальшого руху.</AM_MummificationOutcome.outcomeChances.2.description>
+  <AM_MummificationOutcome.outcomeChances.3.label>Неймовірно</AM_MummificationOutcome.outcomeChances.3.label>
+  <AM_MummificationOutcome.outcomeChances.3.description> {0} пройшло неймовірно. Промова була захоплюючою та щирою, і всі розійшлися, зосереджені на хороших спогадах.</AM_MummificationOutcome.outcomeChances.3.description>
+  <AM_MummificationOutcome.comps.0.label>присутній моральний наставник</AM_MummificationOutcome.comps.0.label>
+  <AM_MummificationOutcome.comps.1.label>кількість учасників</AM_MummificationOutcome.comps.1.label>
+  <AM_MummificationOutcome.comps.2.label>Artist</AM_MummificationOutcome.comps.2.label>
+
+
+</LanguageData>

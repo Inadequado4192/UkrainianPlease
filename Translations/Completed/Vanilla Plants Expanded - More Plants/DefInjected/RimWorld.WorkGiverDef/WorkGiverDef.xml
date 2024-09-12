@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--harvest aquatic crops-->
+  <VCE_HarvestAquatic.label>збирати водні культури</VCE_HarvestAquatic.label>
+  <!--harvesting aquatic-->
+  <VCE_HarvestAquatic.gerund>збирати</VCE_HarvestAquatic.gerund>
+  <!--harvest aquatic-->
+  <VCE_HarvestAquatic.verb>зібрати</VCE_HarvestAquatic.verb>
+
+  <!--sow aquatic crops-->
+  <VCE_SowAquatic.label>сіяти водні культури</VCE_SowAquatic.label>
+  <!--sowing aquatic-->
+  <VCE_SowAquatic.gerund>сіяти</VCE_SowAquatic.gerund>
+  <!--sow aquatic-->
+  <VCE_SowAquatic.verb>сіяти</VCE_SowAquatic.verb>
+
+  <!--harvest sand crops-->
+  <VCE_HarvestSandy.label>збирати піщані культури</VCE_HarvestSandy.label>
+  <!--harvesting sand-->
+  <VCE_HarvestSandy.gerund>збирати</VCE_HarvestSandy.gerund>
+  <!--harvest sand-->
+  <VCE_HarvestSandy.verb>зібрати</VCE_HarvestSandy.verb>
+
+  <!--sow sand crops-->
+  <VCE_SowSandy.label>сіяти піщані культури</VCE_SowSandy.label>
+  <!--sowing sand-->
+  <VCE_SowSandy.gerund>сіяти</VCE_SowSandy.gerund>
+  <!--sow sand-->
+  <VCE_SowSandy.verb>сіяти</VCE_SowSandy.verb>
+</LanguageData>

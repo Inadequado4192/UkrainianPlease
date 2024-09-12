@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Insert-->
+  <IP_InsertFirstItemDesc>Додати</IP_InsertFirstItemDesc>
+  <!--Insert-->
+  <IP_InsertSecondItemDesc>Додати</IP_InsertSecondItemDesc>
+  <!--Insert-->
+  <IP_InsertThirdItemDesc>Додати</IP_InsertThirdItemDesc>
+  <!--Insert {0}-->
+  <IP_InsertVariable>Додати {0}</IP_InsertVariable>
+  <!--Insert {0} in 2nd slot-->
+  <IP_InsertVariableSecond>Додати {0} у 2й слот</IP_InsertVariableSecond>
+  <!--Insert {0} in 3rd slot-->
+  <IP_InsertVariableThird>Додати {0} у 3й слот</IP_InsertVariableThird>
+  <!--No items of that kind ({0}) found in this map-->
+  <IP_CantFindThing>На цій мапі не знайдено елементів шуканого типу ({0})</IP_CantFindThing>
+  <!--Bring Ingredients-->
+  <IP_BringIngredients>Принести інгредієнти</IP_BringIngredients>
+  <!--Bring ingredients to start the process-->
+  <IP_BringIngredientsDesc>Принести інгредієнти, щоб почати процес</IP_BringIngredientsDesc>
+  <!--Cancel Bringing Ingredients-->
+  <IP_CancelIngredients>Скасувати доставку інгредієнтів</IP_CancelIngredients>
+  <!--Cancel Bringing Ingredients to this building-->
+  <IP_CancelIngredientsDesc>Скасувати доставку інгредієнтів до цієї будівлі</IP_CancelIngredientsDesc>
+  <!--No ingredient found on map-->
+  <IP_NoIngredientFound>Інгредієнтів не знайдено на мапі</IP_NoIngredientFound>
+  <!--Choose Ingredient-->
+  <IP_ChooseIngredient>Обрати інгредієнт</IP_ChooseIngredient>
+  <!--Choose Second Ingredient-->
+  <IP_ChooseIngredientSecond>Обрати 2й інгредієнт</IP_ChooseIngredientSecond>
+  <!--Choose Third Ingredient-->
+  <IP_ChooseIngredientThird>Обрати 3й інгредієнт</IP_ChooseIngredientThird>
+  <!--One of the ingredients has been improperly defined to work with the item processor, contact the mod's author-->
+  <IP_IngredientImproperlyDefined>Один з інгредієнтів неправильно визначено для роботи з процесором предметів, зверніться до автора модифікації</IP_IngredientImproperlyDefined>
+  <!--{0} needs to be powered to start working-->
+  <IP_NoPowerDestroysWarning>{0} – потрібно подати живлення, щоб почати роботу</IP_NoPowerDestroysWarning>
+  <!--{0} needs to be fueled to start working-->
+  <IP_NoFuelDestroysWarning>{0} – потрібно заправити, щоб почати роботу</IP_NoFuelDestroysWarning>
+  <!--{0} needs to have an adequate light level to start working-->
+  <IP_LightDestroysWarning>{0} – для початку роботи має бути достатній рівень освітлення</IP_LightDestroysWarning>
+  <!--{0} needs to not be raining to start working-->
+  <IP_RainDestroysWarning>{0} – для початку роботи не повинно бути дощу</IP_RainDestroysWarning>
+  <!--{0} needs to have an adequate temperature ({1} - {2}) to start working-->
+  <IP_TemperatureDestroysWarning>{0} – для початку роботи має бути відповідна температура ({1} - {2})</IP_TemperatureDestroysWarning>
+  <!--The result is spoiling due to a power failure in the item processor-->
+  <IP_NoPowerDestroysInitialWarning>Продукт псується через збій електроживлення</IP_NoPowerDestroysInitialWarning>
+  <!--The result has spoiled due to a power failure in the item processor-->
+  <IP_NoPowerDestroysMessage>Продукт псується через збій електроживлення</IP_NoPowerDestroysMessage>
+  <!--A product has finished processing and is waiting for pickup-->
+  <IP_GenericProductFinished>Продукт закінчив обробку</IP_GenericProductFinished>
+  <!--{0} is empty-->
+  <IP_IsEmpty>{0} не заповнено</IP_IsEmpty>
+  <!--{0} is filled with {1}-->
+  <IP_FilledWith>{0} заповнено {1}</IP_FilledWith>
+  <!--{0}'s 2nd slot is filled with {1}-->
+  <IP_FilledWithSecond>2й слот {0} заповнено {1}</IP_FilledWithSecond>
+  <!--{0}'s 3rd slot is filled with {1}-->
+  <IP_FilledWithThird>3й слот {0} заповнено {1}</IP_FilledWithThird>
+  <!-- (filled at {0} of {1})-->
+  <IP_IngredientPercentage> (заповнено на {0} з {1})</IP_IngredientPercentage>
+  <!--{0} is working: -->
+  <IP_ProcessorWorking>{0} працює: </IP_ProcessorWorking>
+  <!--{0} is processing {1}. {2} will be ready with {3} quality in {4}-->
+  <IP_ProcessingInProgress>{0} обробляє {1}. {2} приготовиться з якістю {3} через {4}</IP_ProcessingInProgress>
+  <!--{0} is processing {1}. {2} will be ready in {3}-->
+  <IP_ProcessingInProgressNoQuality>{0} обробляє {1}. {2} приготовиться через {3}</IP_ProcessingInProgressNoQuality>
+  <!--Remove {0} ({1})-->
+  <IP_RemoveProduct>Вилучити {0} ({1})</IP_RemoveProduct>
+  <!--Remove {0} from the {1}. The product will be ready at the present quality level ({2})-->
+  <IP_RemoveProductDesc>Вилучити {0} з {1}. Продукт буде готовий з поточним рівнем якості ({2})</IP_RemoveProductDesc>
+  <!--Reset Recipes-->
+  <IP_ResetSemiautomatic>Скинути рецептуру</IP_ResetSemiautomatic>
+  <!--This will reset the building after the current product is finished, so a new input ingredient can be chosen-->
+  <IP_ResetSemiautomaticDesc>Це призведе до скидання рецептури будівлі по завершенню поточного продукту, щоб можна було вибрати нові інгредієнти</IP_ResetSemiautomaticDesc>
+  <!--No combination found for these ingredients-->
+  <IP_NoCombination>Для цих інгредієнтів не знайдено жодної комбінації</IP_NoCombination>
+  <!--Set quality for product extraction. When the product reaches this quality, a colonist will automatically retrieve it and carry it to an stockpile if available. If not set, products will be extracted manually, or at Legendary quality.-->
+  <IP_SetAutoQuality>Встановити якість для фінального продукту. Коли продукт досягає цієї якості, колоніст автоматично вилучить його і перенесе до складу, якщо є вільне місце. Якщо якість не встановлено, продукти будуть видобуватися вручну або з легендарною якістю.</IP_SetAutoQuality>
+  <!--Choose Auto Quality-->
+  <IP_ChooseQualityAuto>Обрати автоякість</IP_ChooseQualityAuto>
+  <!--Auto Quality: {0}-->
+  <IP_QualityAutoIs>Автоякість: {0}</IP_QualityAutoIs>
+  <!--Disable Auto Quality-->
+  <IP_QualityAutoNot>Вимкнути автоякість</IP_QualityAutoNot>
+  <!--Auto Quality, product will be extracted at quality level: {0}-->
+  <IP_QualityAutoEstablished>Автоякість, продукт буде вилучено із якістю: {0}</IP_QualityAutoEstablished>
+  <!--Auto Ingredient Acquiring-->
+  <IP_ToggleAuto>Автоматичне отримання інгредієнтів</IP_ToggleAuto>
+  <!--If set to active, this building will automatically grab ingredients from adjacent hoppers, and automatically start working again once the product is removed. If not, colonists will haul the ingredients to the building, and it will need to be activated manually once refilled-->
+  <IP_ToggleAutoDesc>Якщо активно, ця будівля буде автоматично забирати інгредієнти із сусідніх воронок і автоматично почне працювати знову, як тільки продукт буде вилучено. Якщо ні, то колоністи тягатимуть інгредієнти до будівлі, і її потрібно буде активувати вручну після поповнення запасів</IP_ToggleAutoDesc>
+  <!--Waiting for pickup-->
+  <IP_ProductWaiting>Очікує на вилучення</IP_ProductWaiting>
+  <!--The process in this machine is being interrupted due to an inadequate level of light and will be spoiled soon-->
+  <IP_OutsideLightRange>Процес у цій машині перерваний через недостатній рівень освітлення. Продукт незабаром буде зіпсований</IP_OutsideLightRange>
+  <!--The product in this machine has spoiled due to an inadequate level of light-->
+  <IP_SpoiledDueToLight>Продукт у цій машині зіпсувався через недостатній рівень освітлення</IP_SpoiledDueToLight>
+  <!--The process in this machine is being interrupted due to inclement weather and will be spoiled soon-->
+  <IP_ItRains>Процес у цій машині перерваний через несприятливі погодні умови. Продукт незабаром буде зіпсований</IP_ItRains>
+  <!--The product in this machine has spoiled due to inclement weather-->
+  <IP_SpoiledDueToRain>Продукт у цій машині зіпсувався через несприятливі погодні умови</IP_SpoiledDueToRain>
+  <!--The process in this machine is being interrupted due to an unsuitable temperature and will be spoiled soon-->
+  <IP_WrongTemp>Процес у цій машині перерваний через невідповідну температуру. Продукт незабаром буде зіпсований</IP_WrongTemp>
+  <!--The product in this machine has spoiled due to an unsuitable temperature-->
+  <IP_SpoiledDueToWrongTemp>Продукт у цій машині зіпсувався через невідповідну температуру</IP_SpoiledDueToWrongTemp>
+  <!--. This fermenter needs a temperature between {0} and {1} degrees {2}-->
+  <IP_TempRangeInThisMachine>. Для цього ферментера потрібна температура від {0} до {1}</IP_TempRangeInThisMachine>
+  
+  <!--insert soup-->
+  <VCE_InsertSoup>поставити суп</VCE_InsertSoup>
+  <!--Soup to Cook-->
+  <VCE_InsertSoupDesc>Суп для приготування</VCE_InsertSoupDesc>
+  <!--No soups of that kind found in this map.-->
+  <VCE_NoSoupsFound>Таких супів на цій мапі не знайдено.</VCE_NoSoupsFound>
+  <!--simple soup-->
+  <VCE_UncookedSoupSimple>простий суп</VCE_UncookedSoupSimple>
+  <!--fine soup-->
+  <VCE_UncookedSoupFine>вишуканий суп</VCE_UncookedSoupFine>
+  <!--lavish soup-->
+  <VCE_UncookedSoupLavish>розкішний суп</VCE_UncookedSoupLavish>
+  <!--gourmet soup-->
+  <VCE_UncookedSoupGourmet>гурманський суп</VCE_UncookedSoupGourmet>
+  <!--insert simple soup-->
+  <VCE_UncookedSoupSimple_InsertSoup>поставити простий суп</VCE_UncookedSoupSimple_InsertSoup>
+  <!--insert fine soup-->
+  <VCE_UncookedSoupFine_InsertSoup>поставити вишуканий суп</VCE_UncookedSoupFine_InsertSoup>
+  <!--insert lavish soup-->
+  <VCE_UncookedSoupLavish_InsertSoup>поставити розкішний суп</VCE_UncookedSoupLavish_InsertSoup>
+  <!--insert gourmet soup-->
+  <VCE_UncookedSoupGourmet_InsertSoup>поставити гурманський суп</VCE_UncookedSoupGourmet_InsertSoup>
+  <!--Select a type of soup to be cooked-->
+  <VCE_SelectSoup>Обрати тип супу, який потрібно приготувати</VCE_SelectSoup>
+  <!--Bring Soup-->
+  <VCE_StartInsertion>Принести суп</VCE_StartInsertion>
+  <!--Bring a soup to the electric pot to start cooking-->
+  <VCE_StartInsertionDesc>Принести суп до термопоту, щоб почати готувати</VCE_StartInsertionDesc>
+  <!--Remove Soup-->
+  <VCE_RemoveSoup>Вилучити суп</VCE_RemoveSoup>
+  <!--Remove the soup from the pot. This can only be done before you start cooking it.-->
+  <VCE_RemoveSoupDesc>Вилучити суп з термопоту. Це можна зробити тільки перед тим, як почати його варити.</VCE_RemoveSoupDesc>
+  <!--Cancel Bringing Soup-->
+  <VCE_CancelBringingSoup>Скасувати доставку супа</VCE_CancelBringingSoup>
+  <!--Cancel bringing soup to the electric pot.-->
+  <VCE_CancelBringingSoupDesc>Скасувати доставку супа до термопоту.</VCE_CancelBringingSoupDesc>
+  <!--Wait until the soup has been brought to the electric pot, or cancel the job.-->
+  <VCE_WaitTillJobsEnd>Зачекайте, допоки суп не донесуть до термопоту, або скасуйте завдання.</VCE_WaitTillJobsEnd>
+  <!--The electric pot is not powered-->
+  <VCE_NotPowered>Термопот не має живлення</VCE_NotPowered>
+  <!--Cook Soup-->
+  <VCE_Engage>Зварити суп</VCE_Engage>
+  <!--Start cooking soup. This process takes 3 days and can't be interrupted, or the soup will be destroyed.-->
+  <VCE_EngageDesc>Почати варити суп. Цей процес триває 3 дні, і його не можна переривати, інакше суп зіпсується.</VCE_EngageDesc>
+  <!--The soup has spoiled due to a power failure in the electric pot-->
+  <VCE_SoupFailurePower>Суп зіпсувався через відключення електроенергії на термопотові</VCE_SoupFailurePower>
+  <!--The soup is spoiling fast due to a lack of fuel in the electric pot-->
+  <VCE_SoupFailurePowerWarning>Суп швидко псується через брак палива у термопота</VCE_SoupFailurePowerWarning>
+  <!--A soup has finished cooking in the electric pot-->
+  <VCE_SoupFinished>В термопотові доварився суп</VCE_SoupFinished>
+  <!--An {0} is cooking. It will be ready in {1}-->
+  <VCE_SoupInProgress>{0} готується. Він буде готовий через {1}</VCE_SoupInProgress>
+  <!--A soup has finished cooking and is waiting for pickup-->
+  <VCE_SoupReady>Суп доварився і чекає на вилучення</VCE_SoupReady>
+  
+  <!--Select Milk to press in the cheese press. Different milks might produce different types of cheese.-->
+  <VCE_InsertMilkDesc>Оберіть молоко для виготовлення сиру. З різного молока можна отримати різні типи сиру.</VCE_InsertMilkDesc>
+  <!--Select Milk-->
+  <VCE_InsertMilk>Обрати молоко</VCE_InsertMilk>
+  <!--Insert {0}-->
+  <VCE_InsertMilkVariable>Додати {0}</VCE_InsertMilkVariable>
+  <!--No milks of that kind found in this map.-->
+  <VCE_NoMilksFound>На цій карті не знайдено жодного молока такого типу.</VCE_NoMilksFound>
+  <!--Select a type of milk to be pressed-->
+  <VCE_SelectMilk>Виберіть тип молока для пресування</VCE_SelectMilk>
+  <!--Bring Milk-->
+  <VCE_StartInsertionMilk>Принести молоко</VCE_StartInsertionMilk>
+  <!--Bring milk to the cheese press to start pressing-->
+  <VCE_StartInsertionMilkDesc>Принести молоко до преса, щоб почати виготовлення сиру</VCE_StartInsertionMilkDesc>
+  <!--Remove Milk-->
+  <VCE_RemoveMilk>Вийняти молоко</VCE_RemoveMilk>
+  <!--Remove the milk from the press. This can only be done before you start pressing it.-->
+  <VCE_RemoveMilkDesc>Вийняти молоко з преса. Це можна зробити тільки перед початком пресування.</VCE_RemoveMilkDesc>
+  <!--Cancel Bringing Milk-->
+  <VCE_CancelBringingMilk>Скасувати доставку молока</VCE_CancelBringingMilk>
+  <!--Cancel bringing milk to the cheese press.-->
+  <VCE_CancelBringingMilkDesc>Скасувати доставку молока до пресу.</VCE_CancelBringingMilkDesc>
+  <!--Wait until the milk has been brought to the cheese press, or cancel the job.-->
+  <VCE_WaitTillJobsEndMilk>Зачекайте, допоки молоко не донесуть до преса, або скасуйте роботу.</VCE_WaitTillJobsEndMilk>
+  <!--Press Into Cheese-->
+  <VCE_EngageMilk>Пресувати молоко</VCE_EngageMilk>
+  <!--Start pressing milk into cheese. This process takes a variable time and cheese will increase in quality with ripening. You can remove it at any time after the initial period.-->
+  <VCE_EngageMilkDesc>Почніть пресувати молоко в сир. Цей процес займає різний час, а якість сиру буде підвищуватися в міру дозрівання. Ви можете вилучити його в будь-який час після початку.</VCE_EngageMilkDesc>
+  <!--A cheese has finished ripening in the cheese press-->
+  <VCE_CheeseFinished>Сир закінчив дозрівати у сирному пресі</VCE_CheeseFinished>
+  <!--Cheese press is pressing {0}. It will be ready with {1} quality in {2}-->
+  <VCE_CheeseInProgress>Прес для сиру пресує {0}. Сир буде готовий з якістю {1} через {2}.</VCE_CheeseInProgress>
+  <!--This cheese has reached its desired degree of ripening and is waiting for pickup-->
+  <VCE_CheeseReady>Цей сир досяг бажаного ступеня дозрівання і чекає на вилучення</VCE_CheeseReady>
+  <!--This milk has been improperly defined to work with the cheese press, contact the milk mod's author-->
+  <VCE_MilkImproperlyDefined>Це молоко було неправильно визначено для роботи з пресом для сиру, зв'яжіться з автором модифікації</VCE_MilkImproperlyDefined>
+  <!--Remove Cheese ({0})-->
+  <VCE_RemoveCheese>Вилучити сир ({0})</VCE_RemoveCheese>
+  <!--Remove cheese from the cheese press. The cheese will be ready at the present quality level ({0})-->
+  <VCE_RemoveCheeseDesc>Вилучити сир із преса. Сир буде готовий з поточним рівнем якості ({0})</VCE_RemoveCheeseDesc>
+  <!--Cheese press is empty right now-->
+  <VCE_CheesePressEmpty>Прес для сиру зараз порожній</VCE_CheesePressEmpty>
+  <!--Cheese press filled with {0}-->
+  <VCE_CheesePressFilled>Прес для сиру наповнений {0}</VCE_CheesePressFilled>
+  <!--Cheese press is working:-->
+  <VCE_CheesePressWorking>Прес для сиру працює:</VCE_CheesePressWorking>
+  <!-- (filled at {0} of {1})-->
+  <VCE_ResourcePercentage> (заповнено на {0} з {1})</VCE_ResourcePercentage>
+  
+  <!--Condiment Effects-->
+  <VCE_CondimentEffects>Ефект приправи</VCE_CondimentEffects>
+  <!--Acting as condiment-->
+  <VCE_CondimentEffectsTitle>Діє як приправа</VCE_CondimentEffectsTitle>
+  <!--Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Consuming meals that include this condiment gives a 15% immunity gain speed boost for 12 hours.-->
+  <VCE_CondimentEffectsAgave>Нектар агави – це рідкий напівсолодкий нектар, відомий своїми цілющими та протизапальними властивостями. Вживання страв, що містять цю приправу, дає 15% бонусу до швидкості здобуття імунітету на 12 годин.</VCE_CondimentEffectsAgave>
+  <!--Sugar is easily converted into energy by the body, which may result in a nice burst of energy. Consuming meals that include this condiment increases moving stat by 15% for 12 hours.-->
+  <VCE_CondimentEffectsSugar>Цукор легко перетворюється організмом на енергію, що може призвести до приємного припливу сил. Споживання страв, які містять цю приправу, збільшує швидкість переміщення на 15% протягом 12 годин.</VCE_CondimentEffectsSugar>
+  <!--A variety of aromatic and pungent spices. Consuming meals that include this condiment increases manipulation stat by 10% for 12 hours.-->
+  <VCE_CondimentEffectsSpices>Різноманітні ароматичні та гострі спеції. Споживання страв, до складу яких входить ця приправа, збільшує показник маніпуляції на 10% протягом 12 годин.</VCE_CondimentEffectsSpices>
+  <!--Consuming meals that include this condiment increases mood by 5 for 12 hours.-->
+  <VCE_CondimentEffectsSalt>Споживання страв, до складу яких входить ця приправа, підвищує настрій на 5 пунктів протягом 12 годин.</VCE_CondimentEffectsSalt>
+  <!--Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. Consuming meals that include this condiment lowers hunger rate by 15% for 12 hours.-->
+  <VCE_CondimentEffectsMayo>Майонез, хоч і шкідливий для організму, але додає приємного присмаку і є дуже калорійним. Споживання страв з цією приправою знижує приріст голоду на 15% протягом 12 годин.</VCE_CondimentEffectsMayo>
+  <!--Consuming meals that include this condiment increases mood by 10 for 12 hours.-->
+  <VCE_CondimentEffectsJelly>Споживання страв, до складу яких входить ця приправа, підвищує настрій на 10 пунктів протягом 12 годин.</VCE_CondimentEffectsJelly>
+  <!--Consuming meals that include this condiment creates a smokeleaf high without addiction risks.-->
+  <VCE_CondimentEffectsButter>Споживання страв, до складу яких входить ця приправа, дарує кайф, як від димолисту, але без ризику звикання.</VCE_CondimentEffectsButter>
+  <!--Consuming meals that include this condiment increases mood by 7 for 12 hours.-->
+  <VCE_CondimentEffectsSyrup>Споживання страв, до складу яких входить ця приправа, підвищує настрій на 7 пунктів протягом 12 годин.</VCE_CondimentEffectsSyrup>
+  <!--Consuming meals that include this condiment increases manipulation by 1% for 12 hours. The colonist will be resurrected if it is killed during that time.-->
+  <VCE_CondimentEffectsNanites>Споживання їжі з цією приправою збільшує показник маніпуляції на 1% протягом 12 годин. Колоніст воскресне, якщо його буде вбито протягом цього часу.</VCE_CondimentEffectsNanites>
+  <!--Consuming meals that include this condiment increases mood by 3 for 12 hours.-->
+  <VCE_CondimentEffectsKetchup>Споживання страв, до складу яких входить ця приправа, підвищує настрій на 3 пункта протягом 12 годин.</VCE_CondimentEffectsKetchup>
+  <!--While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption. Consuming meals that include this condiment boosts pain resistance by 15% and cold temperature resistance by 10ºC for 12 hours. Mood will be reduced by 3.-->
+  <VCE_CondimentEffectsSauce>Хоча особливо гострі соуси спочатку завдають болю, відомо, що вони притупляють біль і викликають теплий піт незабаром після вживання. Споживання страв, які містять цю приправу, підвищує стійкість до болю на 15% і стійкість до низьких температур на 10ºC протягом 12 годин. Настрій знижується на 3 пункта.</VCE_CondimentEffectsSauce>
+  
+  <!--Health Effects-->
+  <VCE_HealthEffects>Вплив на здоров'я</VCE_HealthEffects>
+  <!--No health effects-->
+  <VCE_NoEffect>Не впливає на здоров'я</VCE_NoEffect>
+  <!--Consuming meals that include this condiment causes no negative health effects.-->
+  <VCE_NoEffectDesc>Вживання страв, до складу яких входить ця приправа, не має негативних наслідків для здоров'я.</VCE_NoEffectDesc>
+  <!--Diabetes-->
+  <VCE_DiabetesEffect>Діабет</VCE_DiabetesEffect>
+  <!--Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%.-->
+  <VCE_DiabetesEffectDescHalfPoint>Вживання їжі, яка містить цю приправу, викликає діабет. Кожен прийом такої їжі збільшує ризик розвитку діабету у поселенця на 0.5%.</VCE_DiabetesEffectDescHalfPoint>
+  <!--Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%.-->
+  <VCE_DiabetesEffectDescOneAndHalfPoint>Вживання їжі, яка містить цю приправу, викликає діабет. Кожен прийом такої їжі збільшує ризик розвитку діабету у поселенця на 1.5%.</VCE_DiabetesEffectDescOneAndHalfPoint>
+  <!--Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.75%.-->
+  <VCE_DiabetesEffectDescThreeQuarterPoint>Вживання їжі, яка містить цю приправу, викликає діабет. Кожен прийом такої їжі збільшує ризик розвитку діабету у поселенця на 0ю.5%.</VCE_DiabetesEffectDescThreeQuarterPoint>
+  <!--Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%.-->
+  <VCE_DiabetesDessertSimpleDesc>Споживання цієї їжі викликає діабет. Кожен прийом такої їжі збільшує ризик діабету у поселенця на 0.5%.</VCE_DiabetesDessertSimpleDesc>
+  <!--Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%.-->
+  <VCE_DiabetesDessertFineDesc>Споживання цієї їжі викликає діабет. Кожен прийом такої їжі збільшує ризик діабету у поселенця на 1.5%.</VCE_DiabetesDessertFineDesc>
+  <!--Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 2.5%.-->
+  <VCE_DiabetesDessertLavishDesc>Споживання цієї їжі викликає діабет. Кожен прийом такої їжі збільшує ризик діабету у поселенця на 2.5%.</VCE_DiabetesDessertLavishDesc>
+  <!--Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 3.5%.-->
+  <VCE_DiabetesDessertGourmetDesc>Споживання цієї їжі викликає діабет. Кожен прийом такої їжі збільшує ризик діабету у поселенця на 3.5%.</VCE_DiabetesDessertGourmetDesc>
+  
+  <!--High Blood Pressure-->
+  <VCE_HighBloodPressureEffect>Високий кров'яний тиск</VCE_HighBloodPressureEffect>
+  <!--Consuming meals that include this condiment causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 0.75%.-->
+  <VCE_HighBloodPressureEffectDesc>Вживання їжі, яка містить цю приправу, викликає підвищення кров'яного тиску. Кожен прийом такої їжі підвищує артеріальний тиск поселенця на 0.75%.</VCE_HighBloodPressureEffectDesc>
+  <!--Consuming canned goods causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 1.5%.-->
+  <VCE_HighBloodPressureEffectDescCanned>Вживання консервів викликає підвищення артеріального тиску. Кожен прийом такої їжі підвищує артеріальний тиск поселенця на 1.5%.</VCE_HighBloodPressureEffectDescCanned>
+  
+  <!--Cholesterol-->
+  <VCE_CholesterolEffect>Холестерин</VCE_CholesterolEffect>
+  <!--Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1%.-->
+  <VCE_CholesterolEffectDesc>Споживання страв, до складу яких входить ця приправа, викликає підвищення рівня холестерину. Кожен прийом такої їжі збільшує рівень холестерину в організмі поселенця на 1%.</VCE_CholesterolEffectDesc>
+  <!--Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%.-->
+  <VCE_CholesterolEffectDescOneAndHalfPoint>Споживання страв, до складу яких входить ця приправа, викликає підвищення рівня холестерину. Кожен прийом такої їжі збільшує рівень холестерину в організмі поселенця на 1.5%.</VCE_CholesterolEffectDescOneAndHalfPoint>
+  <!--Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 2%.-->
+  <VCE_CholesterolEffectDescDouble>Споживання страв, до складу яких входить ця приправа, викликає підвищення рівня холестерину. Кожен прийом такої їжі збільшує рівень холестерину в організмі поселенця на 2%.</VCE_CholesterolEffectDescDouble>
+  <!--Consuming deep fried foods causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%.-->
+  <VCE_CholesterolDescDeepFried>Вживання смаженої у фритюрі їжі призводить до підвищення рівня холестерину. Кожен прийом такої їжі підвищує рівень холестерину в організмі колоніста на 1.5%.</VCE_CholesterolDescDeepFried>
+</LanguageData>

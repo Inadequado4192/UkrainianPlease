@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid fangs -->
+  <AG_AcidFangs.label>кислотне ікло</AG_AcidFangs.label>
+  <!-- EN: Large fangs that can be used in melee combat to inject a powerful acid. -->
+  <AG_AcidFangs.description>Великі ікла, які можна використовувати в ближньому бою для впорскування потужної кислоти.</AG_AcidFangs.description>
+  <!-- EN: acid fangs -->
+  <AG_AcidFangs.comps.HediffComp_VerbGiver.tools.acid_fangs.label>кислотне ікло</AG_AcidFangs.comps.HediffComp_VerbGiver.tools.acid_fangs.label>
+  
+  <!-- EN: chainsaw hand -->
+  <AG_ChainsawHands.label>рука бензопила</AG_ChainsawHands.label>
+  <!-- EN: It's a chainsaw. For hand. It's not a difficult concept to grasp, to be honest. -->
+  <AG_ChainsawHands.description>Це бензопила. Ручна. Чесно кажучи, це не складно зрозуміти.</AG_ChainsawHands.description>
+  <!-- EN: chainsaw -->
+  <AG_ChainsawHands.comps.HediffComp_VerbGiver.tools.chainsaw.label>бензопила</AG_ChainsawHands.comps.HediffComp_VerbGiver.tools.chainsaw.label>
+  
+  <!-- EN: clawed hand -->
+  <AG_ClawedHands.label>пазуриста рука</AG_ClawedHands.label>
+  <!-- EN: Clawed hands that can be used as a fast melee attack. -->
+  <AG_ClawedHands.description>Пазуристі руки, які можна використовувати як швидку атаку ближнього бою.</AG_ClawedHands.description>
+  <!-- EN: clawed hand -->
+  <AG_ClawedHands.comps.HediffComp_VerbGiver.tools.clawed_hand.label>пазуриста рука</AG_ClawedHands.comps.HediffComp_VerbGiver.tools.clawed_hand.label>
+  
+  <!-- EN: crab claw -->
+  <AG_CrabClaw.label>крабова клешня</AG_CrabClaw.label>
+  <!-- EN: A gigantic, but surprisingly versatile, crab claw. -->
+  <AG_CrabClaw.description>Гігантська, але напрочуд універсальна клешня краба.</AG_CrabClaw.description>
+  <!-- EN: claw -->
+  <AG_CrabClaw.comps.HediffComp_VerbGiver.tools.claw.label>клешня</AG_CrabClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  
+  <!-- EN: oversized horns -->
+  <AG_HornAttack.label>величезні роги</AG_HornAttack.label>
+  <!-- EN: These horns can be used in melee attacks. -->
+  <AG_HornAttack.description>Ці роги можна використовувати в ближньому бою.</AG_HornAttack.description>
+  <!-- EN: horns -->
+  <AG_HornAttack.comps.HediffComp_VerbGiver.tools.horns.label>роги</AG_HornAttack.comps.HediffComp_VerbGiver.tools.horns.label>
+  
+  <!-- EN: venom fangs -->
+  <AG_VenomFangs.label>отруйне ікло</AG_VenomFangs.label>
+  <!-- EN: Large fangs that can be used in melee combat to inject a powerful venom. -->
+  <AG_VenomFangs.description>Великі ікла, які можна використовувати в ближньому бою для впорскування потужної отрути.</AG_VenomFangs.description>
+  <!-- EN: venom fangs -->
+  <AG_VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>отруйне ікло</AG_VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  
+</LanguageData>

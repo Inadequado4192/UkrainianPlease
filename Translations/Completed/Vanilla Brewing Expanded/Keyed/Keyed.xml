@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Syrup to Insert-->
+  <VBE_InsertSyrupDesc>Сироп для додавання</VBE_InsertSyrupDesc>
+  
+  <!--Bring Syrup-->
+  <VBE_StartInsertion>Принести сироп</VBE_StartInsertion>
+  <!--Bring a syrup to the soda fountain to start processing-->
+  <VBE_StartInsertionDesc>Принести сироп до диспенсера для газованки, щоб розливати її</VBE_StartInsertionDesc>
+  
+  <!--Cancel Bringing Syrup-->
+  <VBE_CancelBringingSyrup>Скасувати доставку сиропу</VBE_CancelBringingSyrup>
+  <!--Cancel bringing syrup to the soda fountain.-->
+  <VBE_CancelBringingSyrupDesc>Скасувати доставку сиропу до диспенсеру для газованки.</VBE_CancelBringingSyrupDesc>
+  
+  <!--The soda has spoiled due to a power failure in the soda fountain-->
+  <VBE_SyrupFailurePower>Газованка зіпсувалася через збій електроживлення в диспенсерові для газованки</VBE_SyrupFailurePower>
+  
+  <!--Must to Insert-->
+  <VBE_InsertAmbMustDesc>Сусло для додавання</VBE_InsertAmbMustDesc>
+  
+  <!--Bring Must-->
+  <VBE_StartInsertionAmbMust>Принести сусло</VBE_StartInsertionAmbMust>
+  <!--Bring ambrandy must to the ambrandy distillery to start fermentation-->
+  <VBE_StartInsertionAmbMustDesc>Принести сусло для амбренді до дистилятора амбренді, щоб почати ферментацію</VBE_StartInsertionAmbMustDesc>
+  
+  <!--Cancel Bringing Must-->
+  <VBE_CancelBringingAmbMust>Скасувати доставку сусла</VBE_CancelBringingAmbMust>
+  <!--Cancel bringing ambrandy must to the ambrandy distillery.-->
+  <VBE_CancelBringingAmbMustDesc>Скасувати сусла для амбренді до дистилятора амбренді.</VBE_CancelBringingAmbMustDesc>
+  
+  <!--The ambrandy has spoiled due to a power failure in the ambrandy distillery-->
+  <VBE_AmbrandyFailurePower>Амбренді зіпсувалось через збій електроживлення в дистиляторові амбренді</VBE_AmbrandyFailurePower>
+  
+  <!--Remove Ambrandy ({0})-->
+  <VBE_RemoveAmbrandy>Вилучити амбренді ({0})</VBE_RemoveAmbrandy>
+  <!--Remove ambrandy from the ambrandy distillery. The ambrandy will be acquired at the present quality level ({0})-->
+  <VBE_RemoveAmbrandyDesc>Вилучити амбренді із дистилятора амбренді. Амбренді буде готовий із поточномим рівнем якості ({0})</VBE_RemoveAmbrandyDesc>
+  
+  <!--Mash or Whiskey to Insert-->
+  <VBE_InsertMustOrWhiskeyDesc>Суміш або віскі для додавання</VBE_InsertMustOrWhiskeyDesc>
+  
+  <!--Bring Mash or Whiskey-->
+  <VBE_StartInsertionMustOrWhiskey>Принести суміш або віскі</VBE_StartInsertionMustOrWhiskey>
+  <!--Bring mash to the whiskey cask to start fermentation or whiskey to start double-aging process-->
+  <VBE_StartInsertionMustOrWhiskeyDesc>Принести суміш до діжки для віскі, щоб почати ферментацію або віскі, щоб почати повторну витримку</VBE_StartInsertionMustOrWhiskeyDesc>
+  
+  <!--Cancel bringing mash or whiskey must to the whiskey cask.-->
+  <VBE_CancelBringingMustOrWhiskey>Скасувати суміші або віскі до діжки для віскі.</VBE_CancelBringingMustOrWhiskey>
+  
+  <!--Must to Insert-->
+  <VBE_InsertTequilaMustDesc>Сусло для додавання</VBE_InsertTequilaMustDesc>
+  
+  <!--Bring Must-->
+  <VBE_StartInsertionTequilaMust>Принести сусло</VBE_StartInsertionTequilaMust>
+  <!--Bring tequila must to the tequila barrel to start fermentation process-->
+  <VBE_StartInsertionTequilaMustDesc>Принести сусло для текіли до діжки для текіли, щоб почати ферментацію</VBE_StartInsertionTequilaMustDesc>
+  
+  <!--Cancel Bringing Must-->
+  <VBE_CancelBringingTequilaMust>Скасувати доставку сусла</VBE_CancelBringingTequilaMust>
+  <!--Cancel bringing tequila must to the tequila barrel.-->
+  <VBE_CancelBringingTequilaMustDesc>Скасувати доставку сусла для текіли до діжки для текіли.</VBE_CancelBringingTequilaMustDesc>
+  
+  <!--Mash to Insert-->
+  <VBE_InsertVodkaMustDesc>Суміш для додавання</VBE_InsertVodkaMustDesc>
+  
+  <!--Bring Mash-->
+  <VBE_StartInsertionVodkaMust>Принести суміш</VBE_StartInsertionVodkaMust>
+  <!--Bring vodka mash to the vodka drum to start fermentation process-->
+  <VBE_StartInsertionVodkaMustDesc>Принести суміш для горілки до горілчаної бочки, щоб почати ферментацію</VBE_StartInsertionVodkaMustDesc>
+  
+  <!--Cancel Bringing Mash-->
+  <VBE_CancelBringingVodkaMust>Скасувати доставку суміші</VBE_CancelBringingVodkaMust>
+  <!--Cancel bringing vodka mash to the vodka drum.-->
+  <VBE_CancelBringingVodkaMustDesc>Скасувати доставку суміші для горілки до горілчаної бочки.</VBE_CancelBringingVodkaMustDesc>
+  
+  <!--Mush to Insert-->
+  <VBE_InsertGinMushDesc>Суміш для додавання</VBE_InsertGinMushDesc>
+  
+  <!--Bring Mush-->
+  <VBE_StartInsertionGinMush>Принести суміш</VBE_StartInsertionGinMush>
+  <!--Bring gin mush to the gin still to start fermentation process-->
+  <VBE_StartInsertionGinMushDesc>Принести суміш для джину до дистилятора джину, щоб почати ферментацію</VBE_StartInsertionGinMushDesc>
+  
+  <!--Cancel Bringing Mush-->
+  <VBE_CancelBringingGinMush>Cancel Bringing Mush</VBE_CancelBringingGinMush>
+  <!--Cancel bringing gin mush to the gin still.-->
+  <VBE_CancelBringingGinMushDesc>Скасувати доставку суміші для джину до дистилятора джину.</VBE_CancelBringingGinMushDesc>
+  
+  <!--Mush ripening-->
+  <VBE_MushRipening>Дозрівання суміші</VBE_MushRipening>
+  <!--This mush is frozen and will not ripen into ambrandy must-->
+  <VBE_MushCurrentlyFrozen>Ця суміш заморожена і не перетворюється на сусло для амбренді</VBE_MushCurrentlyFrozen>
+  <!--This mush is refrigerated and will not ripen into ambrandy must as fast as it could (ripens in {0})-->
+  <VBE_MushCurrentlyRefrigerated>Ця суміш в занадто холодному середовищі і не перетворюється на сусло для амбренді так швидко, як могла б (дозріє за {0})</VBE_MushCurrentlyRefrigerated>
+  <!--This mush is ripening into ambrandy must correctly (ripens in {0})-->
+  <VBE_MushDryingCorrectly>Ця суміш дозріває в сусло для амбренді правильно (дозріє за {0})</VBE_MushDryingCorrectly>
+  
+  <!--Cider maturing-->
+  <VBE_CiderMaturing>Дозрівання сидру</VBE_CiderMaturing>
+  <!--This unfermented cider is frozen and will not mature into cider-->
+  <VBE_CiderCurrentlyFrozen>Цей неферментований сидр заморожений і не дозріває до сидру</VBE_CiderCurrentlyFrozen>
+  <!--This unfermented cider is refrigerated and will not mature into cider as fast as it could (matures in {0})-->
+  <VBE_CiderCurrentlyRefrigerated>Цей неферментований сидр в занадто холодному середовищі і не перетворюється на сидр так швидко, як міг б (дозріє за {0})</VBE_CiderCurrentlyRefrigerated>
+  <!--This unfermented cider is maturing into cider correctly (matures in {0})-->
+  <VBE_CiderMaturingCorrectly>Цей неферментований сидр дозріває в сидр правильно (дозріє за {0})</VBE_CiderMaturingCorrectly>
+  
+  <!-- Settings -->
+  
+  <!--Unforbid dropped fruit-->
+  <VBE_UnforbidDroppedFruit>"Дозволяти" фрукти, що впали</VBE_UnforbidDroppedFruit>
+  
+  <!--Never-->
+  <VBE_Never>Ніколи</VBE_Never>
+  <!--Never unforbid automatically dropped fruit-->
+  <VBE_NeverDesc>Ніколи автоматично не "дозволяти" фрукти, що впали</VBE_NeverDesc>
+  
+  <!--Home area-->
+  <VBE_HomeArea>Домашня область</VBE_HomeArea>
+  <!--Only unforbid automatically dropped fruit if the tree is in the home area-->
+  <VBE_HomeAreaDesc>Автоматично "дозволяти" фрукти, що впали, якщо дерево в домашній області</VBE_HomeAreaDesc>
+  
+  <!--Always-->
+  <VBE_Always>Завжди</VBE_Always>
+  <!--Always unforbid automatically dropped fruit-->
+  <VBE_AlwaysDesc>Завжди автоматично "дозволяти" фрукти, що впали</VBE_AlwaysDesc>
+</LanguageData>

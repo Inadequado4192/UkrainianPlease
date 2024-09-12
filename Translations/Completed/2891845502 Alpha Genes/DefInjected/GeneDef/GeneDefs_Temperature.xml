@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cold radiating -->
+  <AG_ColdRadiating.label>виділення холоду</AG_ColdRadiating.label>
+  <!-- EN: Carriers of this gene absorb great amounts of heat from their surroundings, freezing the air around them. -->
+  <AG_ColdRadiating.description>Носії цього гена поглинають велику кількість тепла з навколишнього середовища, заморожуючи повітря навколо себе.</AG_ColdRadiating.description>
+  <!-- EN: Generates intense cold up to -20ºC. Bear in mind this gene itself doesn't make the carrier cold resistant. -->
+  <AG_ColdRadiating.customEffectDescriptions.0>Генерує сильний холод до -20ºC. Майте на увазі, що цей ген сам по собі не робить носія холодостійким.</AG_ColdRadiating.customEffectDescriptions.0>
+  <!-- EN: cold -->
+  <AG_ColdRadiating.symbolPack.prefixSymbols.0.symbol>холодний</AG_ColdRadiating.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: cold torpor -->
+  <AG_ColdSlowness.label>холодовий торпор</AG_ColdSlowness.label>
+  <!-- EN: Carriers of this gene move much slower while in temperatures below 0ºC. -->
+  <AG_ColdSlowness.description>Носії цього гена рухаються набагато повільніше при температурі нижче 0ºC.</AG_ColdSlowness.description>
+  <!-- EN: That's three gallons per inch squared in Fahrenheit! -->
+  <AG_ColdSlowness.customEffectDescriptions.0>Це три галони на дюйм в квадраті за Фаренгейтом!</AG_ColdSlowness.customEffectDescriptions.0>
+  <!-- EN: cold -->
+  <AG_ColdSlowness.symbolPack.prefixSymbols.0.symbol>холодний</AG_ColdSlowness.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: cold speed -->
+  <AG_ColdSpeed.label>холодна швидкість</AG_ColdSpeed.label>
+  <!-- EN: Carriers of this gene move much faster while in temperatures below 0ºC. -->
+  <AG_ColdSpeed.description>Носії цього гена рухаються набагато швидше при температурі нижче 0ºC.</AG_ColdSpeed.description>
+  <!-- EN: That's three gallons per inch squared in Fahrenheit! -->
+  <AG_ColdSpeed.customEffectDescriptions.0>Це три галони на дюйм в квадраті за Фаренгейтом!</AG_ColdSpeed.customEffectDescriptions.0>
+  <!-- EN: cold -->
+  <AG_ColdSpeed.symbolPack.prefixSymbols.0.symbol>холодний</AG_ColdSpeed.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: heat radiating -->
+  <AG_HeatRadiating.label>виділення тепла</AG_HeatRadiating.label>
+  <!-- EN: Carriers of this gene radiate intense heat. -->
+  <AG_HeatRadiating.description>Носії цього гена випромінюють інтенсивне тепло.</AG_HeatRadiating.description>
+  <!-- EN: Generates intense heat up to 80ºC. Bear in mind this gene itself doesn't make the carrier heat resistant. -->
+  <AG_HeatRadiating.customEffectDescriptions.0>Генерує інтенсивне тепло до 80ºC. Майте на увазі, що цей ген сам по собі не робить носія термостійким.</AG_HeatRadiating.customEffectDescriptions.0>
+  <!-- EN: warm -->
+  <AG_HeatRadiating.symbolPack.prefixSymbols.0.symbol>теплий</AG_HeatRadiating.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: heat torpor -->
+  <AG_HeatSlowness.label>тепловий торпор</AG_HeatSlowness.label>
+  <!-- EN: Carriers of this gene move much slower while in temperatures above 40ºC. -->
+  <AG_HeatSlowness.description>Носії цього гена рухаються набагато повільніше при температурі вище 40ºC.</AG_HeatSlowness.description>
+  <!-- EN: That's three gallons per inch squared in Fahrenheit! -->
+  <AG_HeatSlowness.customEffectDescriptions.0>Це три галони на дюйм в квадраті за Фаренгейтом!</AG_HeatSlowness.customEffectDescriptions.0>
+  <!-- EN: warm -->
+  <AG_HeatSlowness.symbolPack.prefixSymbols.0.symbol>теплий</AG_HeatSlowness.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: heat speed -->
+  <AG_HeatSpeed.label>теплова швидкість</AG_HeatSpeed.label>
+  <!-- EN: Carriers of this gene move much faster while in temperatures above 40ºC. -->
+  <AG_HeatSpeed.description>Носії цього гена рухаються набагато швидше при температурі вище 40ºC.</AG_HeatSpeed.description>
+  <!-- EN: That's three gallons per inch squared in Fahrenheit! -->
+  <AG_HeatSpeed.customEffectDescriptions.0>Це три галони на дюйм в квадраті за Фаренгейтом!</AG_HeatSpeed.customEffectDescriptions.0>
+  <!-- EN: warm -->
+  <AG_HeatSpeed.symbolPack.prefixSymbols.0.symbol>теплий</AG_HeatSpeed.symbolPack.prefixSymbols.0.symbol>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Налаштування моду-->
+  <AerocraftFramework_ITab>Інформація</AerocraftFramework_ITab>
+  <AerocraftFramework_ITab_InnerPawn>Внутрішні Павни</AerocraftFramework_ITab_InnerPawn>
+  <AerocraftFramework_ITab_CurrentWeapon>Поточна Зброя</AerocraftFramework_ITab_CurrentWeapon>
+  <AerocraftFramework_ITab_InnerWeapon>Внутрішня Зброя</AerocraftFramework_ITab_InnerWeapon>
+  <AerocraftFramework_ITab_ExtraWeapon>Додаткова Зброя</AerocraftFramework_ITab_ExtraWeapon>
+  <AerocraftFramework_ITab_ExtraWeapon_Select>Оберіть цю Додаткову Зброю</AerocraftFramework_ITab_ExtraWeapon_Select>
+  <AerocraftFramework_ITab_CurrentShell>Поточний Снаряд</AerocraftFramework_ITab_CurrentShell>
+  <AerocraftFramework_ITab_InnerShell>Внутрішні Снаряди</AerocraftFramework_ITab_InnerShell>
+  <AerocraftFramework_ITab_Pawn_Drop>Покласти</AerocraftFramework_ITab_Pawn_Drop>
+  <AerocraftFramework_ITab_Drop>Покласти</AerocraftFramework_ITab_Drop>
+  <AerocraftFramework_ITab_Replace>Замінити</AerocraftFramework_ITab_Replace>
+  <AerocraftFramework_ITab_ReplaceToOrigin>Замінити на початкову зброю</AerocraftFramework_ITab_ReplaceToOrigin>
+  <AerocraftFramework_ITab_Shell_Drop>Покласти</AerocraftFramework_ITab_Shell_Drop>
+  <AerocraftFramework_ITab_Shell_Replace>Замінити поточні снаряди</AerocraftFramework_ITab_Shell_Replace>
+</LanguageData>

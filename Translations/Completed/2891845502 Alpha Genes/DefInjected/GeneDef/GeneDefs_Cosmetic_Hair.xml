@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deep orange hair -->
+  <AG_Hair_DeepOrange.label>темно-помаранчеве волосся</AG_Hair_DeepOrange.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <AG_Hair_DeepOrange.description>Носії цього гена мають певний колір волосся. При наявності декількох генів кольору волосся один з них вибирається випадковим чином.</AG_Hair_DeepOrange.description>
+  
+  <!-- EN: deep red hair -->
+  <AG_Hair_DeepRed.label>темно-руде волосся</AG_Hair_DeepRed.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <AG_Hair_DeepRed.description>Носії цього гена мають певний колір волосся. При наявності декількох генів кольору волосся один з них вибирається випадковим чином.</AG_Hair_DeepRed.description>
+  <!-- EN: Just the way General Pain likes it. -->
+  <AG_Hair_DeepRed.customEffectDescriptions.0>Саме так, як любить Генерал Біль.</AG_Hair_DeepRed.customEffectDescriptions.0>
+  
+  <!-- EN: golden hair -->
+  <AG_Hair_Golden.label>золотисте волосся</AG_Hair_Golden.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <AG_Hair_Golden.description>Носії цього гена мають певний колір волосся. При наявності декількох генів кольору волосся один з них вибирається випадковим чином.</AG_Hair_Golden.description>
+  
+  <!-- EN: pale green hair -->
+  <AG_Hair_PaleGreen.label>блідо-зелене волосся</AG_Hair_PaleGreen.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <AG_Hair_PaleGreen.description>Носії цього гена мають певний колір волосся. При наявності декількох генів кольору волосся один з них вибирається випадковим чином.</AG_Hair_PaleGreen.description>
+  
+</LanguageData>

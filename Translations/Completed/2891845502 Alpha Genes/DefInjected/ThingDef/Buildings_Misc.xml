@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: temporary band node -->
+  <AG_TemporaryBandNode.label>тимчасовий смуговий вузол</AG_TemporaryBandNode.label>
+  <!-- EN: A temporary mechanoid-band signal amplifier. Automatically tuned to the mechanitor that summoned it. It will provide a significant 10 bandwidth boost, but it will vanish after a week. Doesn't require power. -->
+  <AG_TemporaryBandNode.description>Тимчасовий підсилювач сигналів механоїдного діапазону. Автоматично налаштовується на механізатора, який його викликав. Забезпечить значний приріст пропускної здатності у 10 діапазонів, але він зникне через тиждень. Не потребує живлення.</AG_TemporaryBandNode.description>
+  
+</LanguageData>

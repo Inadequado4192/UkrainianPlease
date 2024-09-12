@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <Juggernaut.label>ДЖАГЕРНАУТ!</Juggernaut.label>
+  <Juggernaut.description>Виготовте кам'яну маску війни шедевральної якості</Juggernaut.description>
+
+  <iDontSeeAnyone.label>Я нікого не бачу!</iDontSeeAnyone.label>
+  <iDontSeeAnyone.description>Виготовте маскувальний костюм</iDontSeeAnyone.description>
+
+  <notGreatNotTerrible.label>Не Чудово, не Жахливо</notGreatNotTerrible.label>
+  <notGreatNotTerrible.description>Виготовте 6 захисних костюмів</notGreatNotTerrible.description>
+
+  <leatherThatsKinky.label>Шкіра? Це Збочення</leatherThatsKinky.label>
+  <leatherThatsKinky.description>Дослідіть «Дублення шкіри»</leatherThatsKinky.description>
+
+  <sierra117.label>Сьєрра 117</sierra117.label>
+  <sierra117.description>Виготовте штурмову броню шедевральної якості</sierra117.description>
+</LanguageData>

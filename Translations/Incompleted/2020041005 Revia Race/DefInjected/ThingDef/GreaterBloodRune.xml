@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Greater Blood Rune -->
+  <ReviaGreaterBloodRune.label>Велика Руна Крові</ReviaGreaterBloodRune.label>
+  <!-- EN: A symbol of Skarne, carefully carved on a richly decorated disc. Pulsing with a malevolent, bloodthirsty spirit. -->
+  <ReviaGreaterBloodRune.description>Символ Скарне, ретельно вирізаний на багато оздобленому диску. Пульсує злісним, кровожерливим духом.</ReviaGreaterBloodRune.description>
+  <!-- EN: Sanctify equipped weapon -->
+  <ReviaGreaterBloodRune.comps.CompUsable.useLabel>Освятити споряджену зброю</ReviaGreaterBloodRune.comps.CompUsable.useLabel>
+  
+</LanguageData>

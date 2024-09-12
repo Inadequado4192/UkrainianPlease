@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HIDMelee_BaseballBat.label>baseball bat</HIDMelee_BaseballBat.label>
+  <HIDMelee_BaseballBat.description>A long, two handed shaped stick made for baseball. While not intended for combat, it is still essentially a refined cudgel, perfect for bludgeoning.</HIDMelee_BaseballBat.description>
+  <HIDMelee_BaseballBat.tools.0.label>handle</HIDMelee_BaseballBat.tools.0.label>
+  <HIDMelee_BaseballBat.tools.1.label>head</HIDMelee_BaseballBat.tools.1.label>
+
+  <HIDMelee_PoolCue.label>cue</HIDMelee_PoolCue.label>
+  <HIDMelee_PoolCue.description>A long, two handed shaped stick made for billiards. Its light weight and long length make it a surprisingly effective staff, with a point at the end for quick pokes.</HIDMelee_PoolCue.description>
+  <HIDMelee_PoolCue.tools.0.label>shaft</HIDMelee_PoolCue.tools.0.label>
+  <HIDMelee_PoolCue.tools.1.label>shaft</HIDMelee_PoolCue.tools.1.label>
+  <HIDMelee_PoolCue.tools.2.label>tip</HIDMelee_PoolCue.tools.2.label>
+
+  <HIDMelee_PoliceTonfa.label>police tonfa</HIDMelee_PoliceTonfa.label>
+  <HIDMelee_PoliceTonfa.description>A simple yet effective tool for showing people who's the boss. Quick to attack but not very lethal.</HIDMelee_PoliceTonfa.description>
+  <HIDMelee_PoliceTonfa.tools.0.label>handle</HIDMelee_PoliceTonfa.tools.0.label>
+  <HIDMelee_PoliceTonfa.tools.1.label>head</HIDMelee_PoliceTonfa.tools.1.label>
+  <HIDMelee_PoliceTonfa.tools.2.label>head</HIDMelee_PoliceTonfa.tools.2.label>
+
+  <HIDMelee_SurvivalHatchet.label>survival hatchet</HIDMelee_SurvivalHatchet.label>
+  <HIDMelee_SurvivalHatchet.description>Mainly intended for cutting up firewood, but functions just fine as a weapon.</HIDMelee_SurvivalHatchet.description>
+  <HIDMelee_SurvivalHatchet.tools.0.label>handle</HIDMelee_SurvivalHatchet.tools.0.label>
+  <HIDMelee_SurvivalHatchet.tools.1.label>edge</HIDMelee_SurvivalHatchet.tools.1.label>
+
+  <HIDMelee_Crowbar.label>crowbar</HIDMelee_Crowbar.label>
+  <HIDMelee_Crowbar.description>A solid steel bar with a hook made for prying. Heavy and unwieldy, but devastating if it hits.</HIDMelee_Crowbar.description>
+  <HIDMelee_Crowbar.tools.0.label>shaft</HIDMelee_Crowbar.tools.0.label>
+  <HIDMelee_Crowbar.tools.1.label>beak</HIDMelee_Crowbar.tools.1.label>
+
+
+</LanguageData>

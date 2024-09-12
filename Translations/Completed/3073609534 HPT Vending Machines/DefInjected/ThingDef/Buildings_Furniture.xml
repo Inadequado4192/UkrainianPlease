@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VendingMachine.label>торгомат</VendingMachine.label>
+  <VendingMachine.description>Стандартний торгомат для гостей.</VendingMachine.description>
+  <VendingMachine_Blueprint.label>торгомат (креслення)</VendingMachine_Blueprint.label>
+  <VendingMachine_Blueprint_Install.label>торгомат (креслення)</VendingMachine_Blueprint_Install.label>
+  <VendingMachine_Frame.label>торгомат (будується)</VendingMachine_Frame.label>
+  <VendingMachine_Frame.description>Стандартний торгомат для гостей.</VendingMachine_Frame.description>
+
+
+</LanguageData>

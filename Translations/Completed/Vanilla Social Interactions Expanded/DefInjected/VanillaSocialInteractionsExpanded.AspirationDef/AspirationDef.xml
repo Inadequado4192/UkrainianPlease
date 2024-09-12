@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <Frenzy_Work.label>завзята праця</Frenzy_Work.label>
+  <Frenzy_Work.beginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} попрацювати.</Frenzy_Work.beginLetterContinue>
+  <Frenzy_Go.label>енергійність</Frenzy_Go.label>
+  <Frenzy_Go.beginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} доєднатися до каравану і вирушити у подорож світом.</Frenzy_Go.beginLetterContinue>
+  <Frenzy_Shoot.label>соколине око</Frenzy_Shoot.label>
+  <Frenzy_Shoot.beginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} піти на полювання.</Frenzy_Shoot.beginLetterContinue>
+  <Inspired_Trade.label>торгівля</Inspired_Trade.label>
+  <Inspired_Trade.beginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би: ла б} укласти торгову угоду.</Inspired_Trade.beginLetterContinue>
+  <Inspired_Recruitment.label>вербування</Inspired_Recruitment.label>
+  <Inspired_Recruitment.beginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} завербувати в'язня.</Inspired_Recruitment.beginLetterContinue>
+  <Inspired_Taming.label>приручення</Inspired_Taming.label>
+  <Inspired_Taming.beginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} спробувати приручити тварину.</Inspired_Taming.beginLetterContinue>
+  <Inspired_Surgery.label>хірургія</Inspired_Surgery.label>
+  <Inspired_Surgery.beginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} провести операцію.</Inspired_Surgery.beginLetterContinue>
+  <Inspired_Creativity.label>творчість</Inspired_Creativity.label>
+  <Inspired_Creativity.beginLetterContinue>\n\n{PAWN_pronoun} хоті{PAWN_gender ? в би : ла б} створити шедевр або легендарну річ.</Inspired_Creativity.beginLetterContinue>
+  
+  <VSIE_Inspired_Planting.label>садівництво</VSIE_Inspired_Planting.label>
+  <VSIE_Party_Frenzy.label>релаксація</VSIE_Party_Frenzy.label>
+  <VSIE_Inspired_Research.label>дослідження</VSIE_Inspired_Research.label>
+  <VSIE_Inspired_Mining.label>шахтарство</VSIE_Inspired_Mining.label>
+  <VSIE_Learning_Frenzy.label>завзяте навчання</VSIE_Learning_Frenzy.label>
+  <VSIE_Inspired_Cooking.label>кулінарна іскра</VSIE_Inspired_Cooking.label>
+  <VSIE_Flirting_Frenzy.label>романтизм</VSIE_Flirting_Frenzy.label>
+  <VSIE_Melee_Frenzy.label>бойовий дух</VSIE_Melee_Frenzy.label>
+</LanguageData>

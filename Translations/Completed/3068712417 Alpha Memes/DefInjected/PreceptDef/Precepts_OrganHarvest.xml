@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_OrganUse_Torturous.label>болісно</AM_OrganUse_Torturous.label>
+  <AM_OrganUse_Torturous.description>HВилучення органів у ще живого ворога - це вишукане катування, яке слід заохочувати.</AM_OrganUse_Torturous.description>
+  <AM_OrganUse_Torturous.comps.2.description>Хтось вилучив орган</AM_OrganUse_Torturous.comps.2.description>
+
+
+</LanguageData>

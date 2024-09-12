@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Helixien Gas Expanded</name>
+        <id>2877699803</id>
+        <packageId>vanillaexpanded.helixiengas</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3082378321</sourceTranslationId>
+    <lastUpdate>2023-11-13T20:36:22.000Z</lastUpdate>
+</TranslationDetails>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Behavior -->
+
+  <AM_PastedFuneralBehavior.spectatorFilter.description>Глядачі повинні бути живими.</AM_PastedFuneralBehavior.spectatorFilter.description>
+  <AM_PastedFuneralBehavior.roles.0.label>промовець</AM_PastedFuneralBehavior.roles.0.label>
+  <AM_PastedFuneralBehavior.roles.1.label>Тіло</AM_PastedFuneralBehavior.roles.1.label>
+  <AM_PastedFuneralBehavior.stages.1.postAction.text>{0}: Промову закінчено, видобуток поживних речовин розпочато.</AM_PastedFuneralBehavior.stages.1.postAction.text>
+
+
+</LanguageData>

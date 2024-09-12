@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VTE.HasDestroyedItem>{PAWN_nameDef} знищи{PAWN_gender ? в : ла} щойно створену річ через те, що вона виявилася недостатньо якісною</VTE.HasDestroyedItem>
+  <VTE.GotBruise>{PAWN_nameDef} отрима{PAWN_gender ? в : ла} синяк через свою незграбність</VTE.GotBruise>
+  <VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} занадто міцно спить, щоб {PAWN_possessive} можна було мобілізувати.</VTE.CantBeWokenUpHeavySleeper>
+  <VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} поки що відмови{PAWN_gender ? вся : лася} від {0}, через свій перфекціонізм</VTE.DecisesInterruptCurrentCostructionJob>
+  <VTE.CavaranSpeedIsDoubledWanderlusts>\nПоселенці з жагою до мандрів переміщуються до нових локацій зі збільшеною швидкістю</VTE.CavaranSpeedIsDoubledWanderlusts>
+  <VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} викра{PAWN_gender ? в : ла} річ, яка належить чужій фракції, це може зашкодити відносинам</VTE.KleptomaniacStealsItemFrom>
+  <VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} {PAWN_gender ? був спійманий : була спіймана} на спробі викрасти майно іншої фракції, це може зашкодити відносинам</VTE.KleptomaniacFailedToStealItemFrom>
+  <VTE.PawnBreaksChairs>{PAWN_nameDef} пошкоди{PAWN_gender ? в : ла} {0} через свою вагу або дивну позу</VTE.PawnBreaksChairs>
+  <VTE.PawnStoleItem>{PAWN_nameDef} вкра{PAWN_gender ? в : ла} {0} у {VICTIM_nameDef}</VTE.PawnStoleItem>
+  <VTE.PawnFailedToStealItem>{PAWN_nameDef} не {PAWN_gender ? зміг : змогла} вкрасти {0} у {VICTIM_nameDef}. Це обурило фракцію {VICTIM_nameDef}</VTE.PawnFailedToStealItem>
+  <VTE.PawnCowardlyFlees>{PAWN_nameDef} тікає з бою через боягузтво</VTE.PawnCowardlyFlees>
+  <VTE.PawnCowardlyExitMapHostile>{PAWN_nameDef} тікає з бою через боягузтво</VTE.PawnCowardlyExitMapHostile>
+  <VTE.PawnCowardlyExitMapAlly>{PAWN_nameDef} тікає з бою через боягузтво</VTE.PawnCowardlyExitMapAlly>
+  <VTE.PawnCowardlyExitMapNeutral>{PAWN_nameDef} тікає з бою через боягузтво</VTE.PawnCowardlyExitMapNeutral>
+  <VTE.PawnStopsForcedJob>{PAWN_nameDef} проігнорува{PAWN_gender ? в : ла} або забу{PAWN_gender ? в : ла} свої накази і тимчасово припини{PAWN_gender ? в : ла} роботу</VTE.PawnStopsForcedJob>
+  <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} роззброїв {VICTIM_nameDef} у ближньому бою</VTE.VictimDropsEquipmentMartialArtist>
+</LanguageData>

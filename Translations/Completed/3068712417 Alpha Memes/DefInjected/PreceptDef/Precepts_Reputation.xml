@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_Reputation_Lowered.label>загроза</AM_Reputation_Lowered.label>
+  <AM_Reputation_Lowered.description>Нашу безжалісність не цінують інші фракції, які справедливо побоюються нас за нашу силу.\n\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;\n - Колонія починає гру, отримуючи одноразовий штраф у -50 з усіма іншими фракціями.</AM_Reputation_Lowered.description>
+
+
+</LanguageData>

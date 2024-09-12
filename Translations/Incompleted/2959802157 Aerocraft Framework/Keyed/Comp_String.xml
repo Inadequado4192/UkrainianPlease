@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--=====Заміна зброї-->
+  <AerocraftFramework_ReplaceCurrentWeapon_Replace>Замінити</AerocraftFramework_ReplaceCurrentWeapon_Replace>
+  <AerocraftFramework_ReplaceCurrentWeapon_CurrentWeapon>Поточна зброя</AerocraftFramework_ReplaceCurrentWeapon_CurrentWeapon>
+  <AerocraftFramework_SelectPawnAndLetItReplace_Label>Заміна Зброї·Вибір</AerocraftFramework_SelectPawnAndLetItReplace_Label>
+  <AerocraftFramework_SelectPawnAndLetItReplace_Desc>Виберіть Павна, що несе зброю, з тієї ж фракції та замініть його власною зброєю на повітряному засобі</AerocraftFramework_SelectPawnAndLetItReplace_Desc>
+  <!--=====Зарядка снарядів-->
+  <AerocraftFramework_LoadShell_For>Для</AerocraftFramework_LoadShell_For>
+  <AerocraftFramework_LoadShell>Зарядити снаряд</AerocraftFramework_LoadShell>
+  <AerocraftFramework_NeedShell>Потрібен будь-який тип снаряду (Клацніть правою кнопкою миші на повітряному засобі, щоб завантажити снаряди)</AerocraftFramework_NeedShell>
+  <AerocraftFramework_NoFlying>Не в повітрі</AerocraftFramework_NoFlying>
+  <AerocraftFramework_ShellEmpty>Порожньо</AerocraftFramework_ShellEmpty>
+  <!--=====Перевезення пасажирів-->
+  <AerocraftFramework_InnerPawnNum>Кількість внутрішніх павнів</AerocraftFramework_InnerPawnNum>
+  <AerocraftFramework_MaxInnerPawn>Внутрішні павни заповнені</AerocraftFramework_MaxInnerPawn>
+  <AerocraftFramework_EnterAerocraft>Увійти</AerocraftFramework_EnterAerocraft>
+  <AerocraftFramework_CannotEnter>Неможливо увійти</AerocraftFramework_CannotEnter>
+  <AerocraftFramework_AerocraftIsNotStatic>не стоїть на місці</AerocraftFramework_AerocraftIsNotStatic>
+  <AerocraftFramework_NeedPawnToControl>Потрібно мати контроль над колонізатором</AerocraftFramework_NeedPawnToControl>
+  <AerocraftFramework_NeedPawnToControl_PawnNum>Необхідна кількість</AerocraftFramework_NeedPawnToControl_PawnNum>
+  <!--=====Переміщення на іншу карту-->
+  <AerocraftFramework_ChoseWorldTargetError>Aerocraft Framework: потрібно вибрати дійсну ціль</AerocraftFramework_ChoseWorldTargetError>
+  <AerocraftFramework_OutOfRange>Поза межами діапазону</AerocraftFramework_OutOfRange>
+  <AerocraftFramework_TargetNotValid>Недійсна ціль</AerocraftFramework_TargetNotValid>
+  <AerocraftFramework_NoBack>Неможливо повернутися</AerocraftFramework_NoBack>
+  <AerocraftFramework_FuelSurplus>Зайвий паливний бак</AerocraftFramework_FuelSurplus>
+  <!--=====Встановлення зброї-->
+  <AerocraftFramework_AddWeapon>Встановити зброю</AerocraftFramework_AddWeapon>
+  <AerocraftFramework_NoAerocraftInPosition>На поточній позиції немає повітряного засобу</AerocraftFramework_NoAerocraftInPosition>
+</LanguageData>

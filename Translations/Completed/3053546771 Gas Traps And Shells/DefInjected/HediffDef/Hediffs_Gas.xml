@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AcidGas.label>кислотний газ</AcidGas.label>
+  <AcidGas.description>кислота в газоподібній формі. Пече!</AcidGas.description>
+  <AcidGas.stages.0.label>початкове</AcidGas.stages.0.label>
+  <AcidGas.stages.1.label>незначне</AcidGas.stages.1.label>
+  <AcidGas.stages.2.label>помірне</AcidGas.stages.2.label>
+  <AcidGas.stages.3.label>серйозне</AcidGas.stages.3.label>
+
+  <ToxicGas.label>отруєння газом</ToxicGas.label>
+  <ToxicGas.description>Не забудь свій протигаз.</ToxicGas.description>
+  <ToxicGas.stages.0.label>початкове</ToxicGas.stages.0.label>
+  <ToxicGas.stages.1.label>незначне</ToxicGas.stages.1.label>
+  <ToxicGas.stages.2.label>помірне</ToxicGas.stages.2.label>
+  <ToxicGas.stages.3.label>серйозне</ToxicGas.stages.3.label>
+  <ToxicGas.stages.4.label>смерть</ToxicGas.stages.4.label>
+
+  <RageGas.label>газ гніву</RageGas.label>
+  <RageGas.description>Цей дивний газ мене злить, тобі не сподобається бачити мене злим.</RageGas.description>
+  <RageGas.stages.0.label>подразнення</RageGas.stages.0.label>
+  <RageGas.stages.1.label>роздратування</RageGas.stages.1.label>
+  <RageGas.stages.2.label>стресс</RageGas.stages.2.label>
+  <RageGas.stages.3.label>гнів</RageGas.stages.3.label>
+  <RageGas.stages.4.label>берсерк</RageGas.stages.4.label>
+
+  <TearGas.label>сльозоточивий газ</TearGas.label>
+  <TearGas.description>Чому ти такий сумний?</TearGas.description>
+  <TearGas.stages.0.label>подразнення очей</TearGas.stages.0.label>
+  <TearGas.stages.1.label>сльози</TearGas.stages.1.label>
+  <TearGas.stages.2.label>гострий біль</TearGas.stages.2.label>
+  <TearGas.stages.3.label>осліплення</TearGas.stages.3.label>
+  <TearGas.stages.4.label>осліплення</TearGas.stages.4.label>
+
+  <SleepGas.label>снодійний газ</SleepGas.label>
+  <SleepGas.description>Цей газ змушує пішаків спати, але якщо перебувати під його дією надто довго він може вбити. Будьте обережні!</SleepGas.description>
+  <SleepGas.stages.0.label>позіхачка</SleepGas.stages.0.label>
+  <SleepGas.stages.1.label>сонливий</SleepGas.stages.1.label>
+  <SleepGas.stages.2.label>втомлений</SleepGas.stages.2.label>
+  <SleepGas.stages.3.label>втрата свідомості</SleepGas.stages.3.label>
+  <SleepGas.stages.4.label>смерть</SleepGas.stages.4.label>
+
+  <AntiInsectoidPoison.label>протижуковий снодійний газ</AntiInsectoidPoison.label>
+  <AntiInsectoidPoison.description>Цей газ змушує жуків спати, але якщо перебувати під його дією надто довго він може вбити. Круто, так?? </AntiInsectoidPoison.description>
+  <AntiInsectoidPoison.stages.0.label>позіхачка</AntiInsectoidPoison.stages.0.label>
+  <AntiInsectoidPoison.stages.1.label>сонливий</AntiInsectoidPoison.stages.1.label>
+  <AntiInsectoidPoison.stages.2.label>втомлaений</AntiInsectoidPoison.stages.2.label>
+  <AntiInsectoidPoison.stages.3.label>втрата свідомості</AntiInsectoidPoison.stages.3.label>
+  <AntiInsectoidPoison.stages.4.label>смерть</AntiInsectoidPoison.stages.4.label>
+
+  <FearGas.label>жахаючий газ</FearGas.label>
+  <FearGas.description>Газ що змушує пішаків відчувати сильний страх і тікати з поля бою</FearGas.description>
+  <FearGas.stages.0.label>насторожі</FearGas.stages.0.label>
+  <FearGas.stages.1.label>задишка</FearGas.stages.1.label>
+  <FearGas.stages.2.label>паніка</FearGas.stages.2.label>
+  <FearGas.stages.3.label>втрата контролю</FearGas.stages.3.label>
+
+
+</LanguageData>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<VBE_BookUtility.rulePack.rulesFiles>
+		<li>Newspapers->Words/BookWords/Newspapers</li>
+		
+		<!-- Books -->
+		<li>Book->Words/BookWords/Books</li>
+		<li>BookFem->Words/BookWords/BooksFem</li>
+		<li>BookNeu->Words/BookWords/BooksNeu</li>
+		
+		<!-- Bookstyles-->
+        <li>BookstylePlu->Words/BookWords/BookStyles/BookStylesPlu</li>
+        <li>BookstyleGenPlu->Words/BookWords/BookStyles/BookStylesGenPlu</li>
+        <li>BookstyleAblPlu->Words/BookWords/BookStyles/BookStylesAblPlu</li>
+		
+		<!-- Bookstyle Adjectives-->
+        <li>BookstyleNegativeFem->Words/BookWords/BookAdj/BookStylesAdjectivesNegativeFem</li>
+        <li>BookstyleNegativeGenPlu->Words/BookWords/BookAdj/BookStylesAdjectivesNegativeGenPlu</li>
+        <li>BookstyleNegativeMasc->Words/BookWords/BookAdj/BookStylesAdjectivesNegativeMasc</li>
+        <li>BookstyleNegativeMascLocal->Words/BookWords/BookAdj/BookStylesAdjectivesNegativeMascLocal</li>
+        <li>BookstylePositiveFem->Words/BookWords/BookAdj/BookStylesAdjectivesPositiveFem</li>
+        <li>BookstylePositiveGenPlu->Words/BookWords/BookAdj/BookStylesAdjectivesPositiveGenPlu</li>
+        <li>BookstylePositiveMasc->Words/BookWords/BookAdj/BookStylesAdjectivesPositiveMasc</li>
+        <li>BookstylePositiveMascLocal->Words/BookWords/BookAdj/BookStylesAdjectivesPositiveMascLocal</li>
+		
+		<!-- Animals skill -->
+		<li>AnimalSkill->Words/BookWords/Animals/AnimalsSkill</li>
+		<li>AnimalSkillPlu->Words/BookWords/Animals/AnimalsSkillPlu</li>
+		<li>AnimalSkillAcc->Words/BookWords/Animals/AnimalsSkillAcc</li>
+		<li>AnimalSkillGen->Words/BookWords/Animals/AnimalsSkillGen</li>
+		<li>AnimalSkillGenPlu->Words/BookWords/Animals/AnimalsSkillGenPlu</li>
+		
+		<!-- Arts skill -->
+		<li>ArtSkill->Words/BookWords/Arts/ArtSkill</li>
+		<li>ArtSkillAcc->Words/BookWords/Arts/ArtSkillAcc</li>
+		<li>ArtSkillGen->Words/BookWords/Arts/ArtSkillGen</li>
+		<li>ArtSkillGenPlu->Words/BookWords/Arts/ArtSkillGenPlu</li>
+		<li>ArtSkillPlu->Words/BookWords/Arts/ArtSkillPlu</li>
+		
+		<!-- Construction skill -->
+		<li>ConstructionSkill->Words/BookWords/Construction/ConstructionSkill</li>
+		<li>ConstructionSkillAcc->Words/BookWords/Construction/ConstructionSkillAcc</li>
+		<li>ConstructionSkillGen->Words/BookWords/Construction/ConstructionSkillGen</li>
+		<li>ConstructionSkillGenPlu->Words/BookWords/Construction/ConstructionSkillGenPlu</li>
+		<li>ConstructionSkillPlu->Words/BookWords/Construction/ConstructionSkillPlu</li>
+		
+		<!-- Cooking skill -->
+		<li>CookingSkill->Words/BookWords/Cooking/CookingSkill</li>
+		<li>CookingSkillAcc->Words/BookWords/Cooking/CookingSkillAcc</li>
+		<li>CookingSkillGen->Words/BookWords/Cooking/CookingSkillGen</li>
+		<li>CookingSkillGenPlu->Words/BookWords/Cooking/CookingSkillGenPlu</li>
+		<li>CookingSkillPlu->Words/BookWords/Cooking/CookingSkillPlu</li>
+		<li>CookingSkillPlu->Words/BookWords/Cooking/CookingSkillPluPers</li>
+		<li>CookingSkillPluConcept->Words/BookWords/Cooking/CookingSkillPlu</li>
+
+		<!-- Crafting skill -->
+		<li>CraftingSkill->Words/BookWords/Crafting/CraftingSkill</li>
+		<li>CraftingSkillAcc->Words/BookWords/Crafting/CraftingSkillAcc</li>
+		<li>CraftingSkillGen->Words/BookWords/Crafting/CraftingSkillGen</li>
+		<li>CraftingSkillGenPlu->Words/BookWords/Crafting/CraftingSkillGenPlu</li>
+		<li>CraftingSkillPlu->Words/BookWords/Crafting/CraftingSkillPlu</li>
+		<li>CraftingSkillPlu->Words/BookWords/Crafting/CraftingSkillPluPers</li>
+		<li>CraftingSkillPluConcept->Words/BookWords/Crafting/CraftingSkillPlu</li>
+		
+		<!-- Growing skill -->
+		<li>GrowingSkill->Words/BookWords/Growing/GrowingSkill</li>
+		<li>GrowingSkillAcc->Words/BookWords/Growing/GrowingSkillAcc</li>
+		<li>GrowingSkillGen->Words/BookWords/Growing/GrowingSkillGen</li>
+		<li>GrowingSkillGenPlu->Words/BookWords/Growing/GrowingSkillGenPlu</li>
+		<li>GrowingSkillPlu->Words/BookWords/Growing/GrowingSkillPlu</li>
+
+		<!-- Intellectual skill -->
+		<li>IntellectualSkill->Words/BookWords/Intellectual/IntellectualSkill</li>
+		<li>IntellectualSkillAcc->Words/BookWords/Intellectual/IntellectualSkillAcc</li>
+		<li>IntellectualSkillGen->Words/BookWords/Intellectual/IntellectualSkillGen</li>
+		<li>IntellectualSkillGenPlu->Words/BookWords/Intellectual/IntellectualSkillGenPlu</li>
+		<li>IntellectualSkillPlu->Words/BookWords/Intellectual/IntellectualSkillPlu</li>
+		
+		<!-- Medical skill -->
+		<li>MedicalSkill->Words/BookWords/Medical/MedicalSkill</li>
+		<li>MedicalSkillAcc->Words/BookWords/Medical/MedicalSkillAcc</li>
+		<li>MedicalSkillGen->Words/BookWords/Medical/MedicalSkillGen</li>
+		<li>MedicalSkillGenPlu->Words/BookWords/Medical/MedicalSkillGenPlu</li>
+		<li>MedicalSkillPlu->Words/BookWords/Medical/MedicalSkillPlu</li>
+		
+		<!-- Melee skill -->
+		<li>MeleeSkill->Words/BookWords/Melee/MeleeSkill</li>
+		<li>MeleeSkillAcc->Words/BookWords/Melee/MeleeSkillAcc</li>
+		<li>MeleeSkillGen->Words/BookWords/Melee/MeleeSkillGen</li>
+		<li>MeleeSkillGenPlu->Words/BookWords/Melee/MeleeSkillGenPlu</li>
+		<li>MeleeSkillPlu->Words/BookWords/Melee/MeleeSkillPlu</li>
+		<li>MeleeSkillPlu->Words/BookWords/Melee/MeleeSkillPluPers</li>
+		<li>MeleeSkillPluConcept->Words/BookWords/Melee/MeleeSkillPlu</li>
+		
+		<!-- Mining skill -->
+		<li>MiningSkill->Words/BookWords/Mining/MiningSkill</li>
+		<li>MiningSkillAcc->Words/BookWords/Mining/MiningSkillAcc</li>
+		<li>MiningSkillGen->Words/BookWords/Mining/MiningSkillGen</li>
+		<li>MiningSkillGenPlu->Words/BookWords/Mining/MiningSkillGenPlu</li>
+		<li>MiningSkillPlu->Words/BookWords/Mining/MiningSkillPlu</li>
+		<li>MiningSkillPlu->Words/BookWords/Mining/MiningSkillPluPers</li>
+		<li>MiningSkillPluConcept->Words/BookWords/Mining/MiningSkillPlu</li>
+		
+		<!-- Shooting skill -->
+		<li>ShootingSkill->Words/BookWords/Shooting/ShootingSkill</li>
+		<li>ShootingSkillAcc->Words/BookWords/Shooting/ShootingSkillAcc</li>
+		<li>ShootingSkillGen->Words/BookWords/Shooting/ShootingSkillGen</li>
+		<li>ShootingSkillGenPlu->Words/BookWords/Shooting/ShootingSkillGenPlu</li>
+		<li>ShootingSkillPlu->Words/BookWords/Shooting/ShootingSkillPlu</li>
+		<li>ShootingSkillPlu->Words/BookWords/Shooting/ShootingSkillPluPers</li>
+		<li>ShootingSkillPluConcept->Words/BookWords/Shooting/ShootingSkillPlu</li>
+		
+		<!-- Social skill -->		
+		<li>SocialSkill->Words/BookWords/Social/SocialSkill</li>
+		<li>SocialSkillAcc->Words/BookWords/Social/SocialSkillAcc</li>
+		<li>SocialSkillGen->Words/BookWords/Social/SocialSkillGen</li>
+		<li>SocialSkillGenPlu->Words/BookWords/Social/SocialSkillGenPlu</li>
+		<li>SocialSkillPlu->Words/BookWords/Social/SocialSkillPlu</li>
+		<li>SocialSkillPlu->Words/BookWords/Social/SocialSkillPluPers</li>
+		<li>SocialSkillPluConcept->Words/BookWords/Social/SocialSkillPlu</li>
+	</VBE_BookUtility.rulePack.rulesFiles>
+</LanguageData>

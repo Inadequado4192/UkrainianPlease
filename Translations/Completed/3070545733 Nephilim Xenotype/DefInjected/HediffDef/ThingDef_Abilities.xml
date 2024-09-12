@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HOLY HYMN -->
+
+  <Mote_HolyHymn.label>святий гімн</Mote_HolyHymn.label>
+  <Mote_HolyHymn.description>Почуйте пісню мого народу!</Mote_HolyHymn.description>
+
+  <Mote_HolyHymnBuff.label>святий гімн</Mote_HolyHymnBuff.label>
+  <Mote_HolyHymnBuff.description>Ефекти впливу Священного Гімну психічно підсилюють, наповнюючи пішака енергією та силою.</Mote_HolyHymnBuff.description>
+
+
+</LanguageData>

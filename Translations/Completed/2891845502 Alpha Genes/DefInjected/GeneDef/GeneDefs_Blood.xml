@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acidic blood -->
+  <AG_AcidicBlood.label>кислотна кров</AG_AcidicBlood.label>
+  <!-- EN: Carriers of this gene have extremely acidic blood. This blood doesn't harm them, but it will spill everywhere when they are slain, hurting all people nearby. -->
+  <AG_AcidicBlood.description>Носії цього гена мають надзвичайно кислотну кров. Ця кров не завдає їм шкоди, але коли їх вбивають, вона розливається всюди, завдаючи шкоди всім, хто знаходиться поруч.</AG_AcidicBlood.description>
+  <!-- EN: acid -->
+  <AG_AcidicBlood.symbolPack.prefixSymbols.0.symbol>кислотний</AG_AcidicBlood.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: caust -->
+  <AG_AcidicBlood.symbolPack.prefixSymbols.1.symbol>їдкий</AG_AcidicBlood.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: xenomorph -->
+  <AG_AcidicBlood.symbolPack.wholeNameSymbols.0.symbol>ксеноморф</AG_AcidicBlood.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: chemfuel blood -->
+  <AG_ChemfuelBlood.label>хімпаливна кров</AG_ChemfuelBlood.label>
+  <!-- EN: Carriers of this gene have a chemfuel powered metabolism, and as such will bleed chemfuel instead of normal human blood. This blood is flammable. -->
+  <AG_ChemfuelBlood.description>Носії цього гена мають метаболізм, що працює на хімічному паливі, і тому в них замість нормальної людської крові буде текти хімічне паливо. Ця кров легкозаймиста.</AG_ChemfuelBlood.description>
+  <!-- EN: chem -->
+  <AG_ChemfuelBlood.symbolPack.prefixSymbols.0.symbol>хімічний</AG_ChemfuelBlood.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: explo -->
+  <AG_ChemfuelBlood.symbolPack.prefixSymbols.1.symbol>експо</AG_ChemfuelBlood.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: boom -->
+  <AG_ChemfuelBlood.symbolPack.prefixSymbols.2.symbol>бум</AG_ChemfuelBlood.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: chembleeder -->
+  <AG_ChemfuelBlood.symbolPack.wholeNameSymbols.0.symbol>хемілюмінесцентний</AG_ChemfuelBlood.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: firefoam blood -->
+  <AG_FirefoamBlood.label>кровь з вогняної піни</AG_FirefoamBlood.label>
+  <!-- EN: Carriers of this gene have a weird fire retardant mixture for blood. This blood is not potent enough to put down fires, but it will not let flames spread. -->
+  <AG_FirefoamBlood.description>Носії цього гена мають дивну вогнетривку суміш для крові. Ця кров недостатньо сильна, щоб загасити пожежу, але вона не дасть полум'ю поширитися.</AG_FirefoamBlood.description>
+  <!-- EN: foam -->
+  <AG_FirefoamBlood.symbolPack.prefixSymbols.0.symbol>піна</AG_FirefoamBlood.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: flamma -->
+  <AG_FirefoamBlood.symbolPack.prefixSymbols.1.symbol>вогонь</AG_FirefoamBlood.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: foambleeder -->
+  <AG_FirefoamBlood.symbolPack.wholeNameSymbols.0.symbol>спінювач</AG_FirefoamBlood.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: insect blood -->
+  <AG_InsectBlood.label>кров комах</AG_InsectBlood.label>
+  <!-- EN: Carriers of this gene have insect blood. -->
+  <AG_InsectBlood.description>Носії цього гена мають кров комах.</AG_InsectBlood.description>
+  <!-- EN: insect -->
+  <AG_InsectBlood.symbolPack.prefixSymbols.0.symbol>комаха</AG_InsectBlood.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ento -->
+  <AG_InsectBlood.symbolPack.prefixSymbols.1.symbol>енто</AG_InsectBlood.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: insectbleeder -->
+  <AG_InsectBlood.symbolPack.wholeNameSymbols.0.symbol>комахо-кров'яний</AG_InsectBlood.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: pebble blood -->
+  <AG_PebbleBlood.label>камінчаста кров</AG_PebbleBlood.label>
+  <!-- EN: Carriers of this gene have partially crystallized blood, that takes the form of small stone-like pebbles as soon as it comes into contact with air. This blood affects much less the beauty and cleanliness of its surroundings, but takes more time to go away and more work to clean. -->
+  <AG_PebbleBlood.description>Носії цього гена мають частково кристалізовану кров, яка при контакті з повітрям набуває форми дрібних камінчиків, схожих на каміння. Така кров набагато менше впливає на красу і чистоту довкілля, але потребує більше часу, щоб її вивести, і більше зусиль, щоб прибрати.</AG_PebbleBlood.description>
+  <!-- EN: rock -->
+  <AG_PebbleBlood.symbolPack.prefixSymbols.0.symbol>скеля</AG_PebbleBlood.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: pebble -->
+  <AG_PebbleBlood.symbolPack.prefixSymbols.1.symbol>камінчик</AG_PebbleBlood.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: litho -->
+  <AG_PebbleBlood.symbolPack.prefixSymbols.2.symbol>літо</AG_PebbleBlood.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: rock-bleeder -->
+  <AG_PebbleBlood.symbolPack.wholeNameSymbols.0.symbol>кам'яна шкіра</AG_PebbleBlood.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: slime blood -->
+  <AG_SlimeBlood.label>слизька крзов</AG_SlimeBlood.label>
+  <!-- EN: Carriers of this gene have slimy, green coloured blood. This blood is thick, exceptionally ugly, and doesn't go away on its own. -->
+  <AG_SlimeBlood.description>Носії цього гена мають слизьку кров зеленого кольору. Ця кров густа, надзвичайно потворна і не проходить сама по собі.</AG_SlimeBlood.description>
+  <!-- EN: slimy -->
+  <AG_SlimeBlood.symbolPack.prefixSymbols.0.symbol>слизький</AG_SlimeBlood.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: mucus -->
+  <AG_SlimeBlood.symbolPack.prefixSymbols.1.symbol>слиз</AG_SlimeBlood.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: booger -->
+  <AG_SlimeBlood.symbolPack.prefixSymbols.2.symbol>козявка</AG_SlimeBlood.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: slimebleeder -->
+  <AG_SlimeBlood.symbolPack.wholeNameSymbols.0.symbol>слизовик</AG_SlimeBlood.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: tarlike blood -->
+  <AG_TarBlood.label>смолиста кров</AG_TarBlood.label>
+  <!-- EN: Carriers of this gene have very thick, dark and sticky blood, similar to tar. This blood impedes movement. -->
+  <AG_TarBlood.description>Носії цього гена мають дуже густу, темну і липку кров, схожу на дьоготь. Ця кров перешкоджає руху.</AG_TarBlood.description>
+  <!-- EN: tar -->
+  <AG_TarBlood.symbolPack.prefixSymbols.0.symbol>тар</AG_TarBlood.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: stick -->
+  <AG_TarBlood.symbolPack.prefixSymbols.1.symbol>палиця</AG_TarBlood.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: oil -->
+  <AG_TarBlood.symbolPack.prefixSymbols.2.symbol>масляний</AG_TarBlood.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: tarbleeder -->
+  <AG_TarBlood.symbolPack.wholeNameSymbols.0.symbol>тарбледер</AG_TarBlood.symbolPack.wholeNameSymbols.0.symbol>
+  
+</LanguageData>

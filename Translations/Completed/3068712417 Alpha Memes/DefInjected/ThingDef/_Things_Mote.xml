@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <AM_Star.label>Mote</AM_Star.label>
+  <AM_EyeOfHorus.label>Mote</AM_EyeOfHorus.label>
+  <AM_Obelisk.label>Mote</AM_Obelisk.label>
+  <AM_AtheismSymbol.label>Mote</AM_AtheismSymbol.label>
+  <AM_SikhSymbol.label>Mote</AM_SikhSymbol.label>
+  <AM_JainSpire.label>Mote</AM_JainSpire.label>
+  <AM_Cog.label>Mote</AM_Cog.label>
+  <AM_Skull.label>Mote</AM_Skull.label>
+  <AM_CavePaintings.label>Mote</AM_CavePaintings.label>
+  <AM_ScavengerMoteA.label>Mote</AM_ScavengerMoteA.label>
+  <AM_ScavengerMoteB.label>Mote</AM_ScavengerMoteB.label>
+  <AM_ScavengerMoteC.label>Mote</AM_ScavengerMoteC.label>
+
+
+</LanguageData>

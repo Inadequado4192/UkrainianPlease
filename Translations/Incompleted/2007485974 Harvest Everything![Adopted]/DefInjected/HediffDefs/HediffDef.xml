@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- Brain transplant -->
+    <Brain.label>Трансплантація мозку</Brain.label>
+    <!-- A transplanted Brain. -->
+    <Brain.description>Пересаджений мозок.</Brain.description>
+    <!-- mild rejection -->
+    <Brain.stages.mild_rejection.label>легке відторгнення</Brain.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Brain.stages.moderate_rejection.label>помірне відторгнення</Brain.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Brain.stages.serious_rejection.label>серйозне відторгнення</Brain.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Brain.stages.deadly_rejection.label>смертельне відторгнення</Brain.stages.deadly_rejection.label>
+    
+    <!-- Jaw transplant -->
+    <Jaw.label>Трансплантація щелепи</Jaw.label>
+    <!-- A transplanted Jaw. -->
+    <Jaw.description>Пересаджена щелепа.</Jaw.description>
+    <!-- mild rejection -->
+    <Jaw.stages.mild_rejection.label>легке відторгнення</Jaw.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Jaw.stages.moderate_rejection.label>помірне відторгнення</Jaw.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Jaw.stages.serious_rejection.label>серйозне відторгнення</Jaw.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Jaw.stages.deadly_rejection.label>смертельне відторгнення</Jaw.stages.deadly_rejection.label>
+    
+    <!-- Spine transplant -->
+    <Spine.label>Трансплантація хребта</Spine.label>
+    <!-- A transplanted Spine. -->
+    <Spine.description>Пересаджений хребет.</Spine.description>
+    <!-- mild rejection -->
+    <Spine.stages.mild_rejection.label>легке відторгнення</Spine.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Spine.stages.moderate_rejection.label>помірне відторгнення</Spine.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Spine.stages.serious_rejection.label>серйозне відторгнення</Spine.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Spine.stages.deadly_rejection.label>смертельне відторгнення</Spine.stages.deadly_rejection.label>
+    
+    <!-- Eye transplant -->
+    <Eye.label>Трансплантація ока</Eye.label>
+    <!-- A transplanted Eye. -->
+    <Eye.description>Пересаджене око.</Eye.description>
+    <!-- mild rejection -->
+    <Eye.stages.mild_rejection.label>легке відторгнення</Eye.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Eye.stages.moderate_rejection.label>помірне відторгнення</Eye.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Eye.stages.serious_rejection.label>серйозне відторгнення</Eye.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Eye.stages.deadly_rejection.label>смертельне відторгнення</Eye.stages.deadly_rejection.label>
+    
+    <!-- Nose transplant -->
+    <Nose.label>Пересадка носа</Nose.label>
+    <!-- A transplanted Nose. -->
+    <Nose.description>Пересаджений ніс.</Nose.description>
+    <!-- mild rejection -->
+    <Nose.stages.mild_rejection.label>легке відторгнення</Nose.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Nose.stages.moderate_rejection.label>помірне відторгнення</Nose.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Nose.stages.serious_rejection.label>серйозне відторгнення</Nose.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Nose.stages.deadly_rejection.label>смертельне відторгнення</Nose.stages.deadly_rejection.label>
+    
+    <!-- Ear transplant -->
+    <Ear.label>Трансплантація вуха</Ear.label>
+    <!-- A transplanted Ear. -->
+    <Ear.description>Пересаджене вухо.</Ear.description>
+    <!-- mild rejection -->
+    <Ear.stages.mild_rejection.label>легке відторгнення</Ear.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Ear.stages.moderate_rejection.label>помірне відторгнення</Ear.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Ear.stages.serious_rejection.label>серйозне відторгнення</Ear.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Ear.stages.deadly_rejection.label>смертельне відторгнення</Ear.stages.deadly_rejection.label>
+    
+    <!-- Arm transplant -->
+    <Shoulder.label>Трансплантація руки</Shoulder.label>
+    <!-- A transplanted Arm. -->
+    <Shoulder.description>Пересаджена рука.</Shoulder.description>
+    <!-- mild rejection -->
+    <Shoulder.stages.mild_rejection.label>легке відторгнення</Shoulder.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Shoulder.stages.moderate_rejection.label>помірне відторгнення</Shoulder.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Shoulder.stages.serious_rejection.label>серйозне відторгнення</Shoulder.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Shoulder.stages.deadly_rejection.label>смертельне відторгнення</Shoulder.stages.deadly_rejection.label>
+    
+    <!-- Hand transplant -->
+    <Hand.label>Трансплантація руки</Hand.label>
+    <!-- A transplanted Hand. -->
+    <Hand.description>Пересаджена рука.</Hand.description>
+    <!-- mild rejection -->
+    <Hand.stages.mild_rejection.label>легке відторгнення</Hand.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Hand.stages.moderate_rejection.label>помірне відторгнення</Hand.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Hand.stages.serious_rejection.label>серйозне відторгнення</Hand.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Hand.stages.deadly_rejection.label>смертельне відторгнення</Hand.stages.deadly_rejection.label>
+    
+    <!-- Leg transplant -->
+    <Leg.label>Трансплантація ноги</Leg.label>
+    <!-- A transplanted Leg. -->
+    <Leg.description>Пересаджена нога.</Leg.description>
+    <!-- mild rejection -->
+    <Leg.stages.mild_rejection.label>легке відторгнення</Leg.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Leg.stages.moderate_rejection.label>помірне відторгнення</Leg.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Leg.stages.serious_rejection.label>серйозне відторгнення</Leg.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Leg.stages.deadly_rejection.label>смертельне відторгнення</Leg.stages.deadly_rejection.label>
+    
+    <!-- Foot transplant -->
+    <Foot.label>Трансплантація стопи</Foot.label>
+    <!-- A transplanted Foot. -->
+    <Foot.description>Пересаджена нога.</Foot.description>
+    <!-- mild rejection -->
+    <Foot.stages.mild_rejection.label>легке відторгнення</Foot.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Foot.stages.moderate_rejection.label>помірне відторгнення</Foot.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Foot.stages.serious_rejection.label>серйозне відторгнення</Foot.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Foot.stages.deadly_rejection.label>смертельне відторгнення</Foot.stages.deadly_rejection.label>
+
+</LanguageData>

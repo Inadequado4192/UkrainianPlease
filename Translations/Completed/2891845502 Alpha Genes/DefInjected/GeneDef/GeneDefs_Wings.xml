@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bat wings -->
+  <AG_BatWings.label>крила кажана</AG_BatWings.label>
+  <!-- EN: Carriers of this gene have a pair of chiropteran giant wings sprouting from their back. -->
+  <AG_BatWings.description>Носії цього гена мають пару великих крил, схожих на крила кажанів, що виростають з їх спини.</AG_BatWings.description>
+  <!-- EN: Colonist will ignore terrain movement costs -->
+  <AG_BatWings.customEffectDescriptions.0>Колоніст ігнорує витрати на пересування місцевістю</AG_BatWings.customEffectDescriptions.0>
+  <!-- EN: bat -->
+  <AG_BatWings.symbolPack.prefixSymbols.0.symbol>кажан</AG_BatWings.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: winged -->
+  <AG_BatWings.symbolPack.prefixSymbols.1.symbol>крилатий</AG_BatWings.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: bumbledrone wings -->
+  <AG_BumbledroneWings.label>крила бамблдрона</AG_BumbledroneWings.label>
+  <!-- EN: Carriers of this gene have two pairs of bee wings sprouting from their back. -->
+  <AG_BumbledroneWings.description>Носії цього гена мають дві пари бджолиних крил, що проростають зі спини.</AG_BumbledroneWings.description>
+  <!-- EN: Colonist will ignore terrain movement costs -->
+  <AG_BumbledroneWings.customEffectDescriptions.0>Колоніст ігнорує витрати на пересування місцевістю</AG_BumbledroneWings.customEffectDescriptions.0>
+  <!-- EN: bee -->
+  <AG_BumbledroneWings.symbolPack.prefixSymbols.0.symbol>бджола</AG_BumbledroneWings.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: api -->
+  <AG_BumbledroneWings.symbolPack.prefixSymbols.1.symbol>апі</AG_BumbledroneWings.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: hive -->
+  <AG_BumbledroneWings.symbolPack.prefixSymbols.2.symbol>вулик</AG_BumbledroneWings.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: hymen -->
+  <AG_BumbledroneWings.symbolPack.prefixSymbols.3.symbol>пліва</AG_BumbledroneWings.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: demon wings -->
+  <AG_DemonWings.label>крила демона</AG_DemonWings.label>
+  <!-- EN: Carriers of this gene have two pairs of demonic wings sprouting from their back. -->
+  <AG_DemonWings.description>Носії цього гена мають дві пари демонічних крил, що проростають зі спини.</AG_DemonWings.description>
+  <!-- EN: Colonist will ignore terrain movement costs -->
+  <AG_DemonWings.customEffectDescriptions.0>Колоніст ігнорує витрати на пересування місцевістю</AG_DemonWings.customEffectDescriptions.0>
+  <!-- EN: demon -->
+  <AG_DemonWings.symbolPack.prefixSymbols.0.symbol>демон</AG_DemonWings.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: devil -->
+  <AG_DemonWings.symbolPack.prefixSymbols.1.symbol>диявол</AG_DemonWings.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: fiend -->
+  <AG_DemonWings.symbolPack.prefixSymbols.2.symbol>диявол</AG_DemonWings.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: feathered wings -->
+  <AG_FeatheredWings.label>пернаті крила</AG_FeatheredWings.label>
+  <!-- EN: Carriers of this gene have two pairs of feathery wings sprouting from their back. -->
+  <AG_FeatheredWings.description>Носії цього гена мають дві пари пір'ястих крил, що проростають зі спини.</AG_FeatheredWings.description>
+  <!-- EN: Colonist will ignore terrain movement costs -->
+  <AG_FeatheredWings.customEffectDescriptions.0>Колоніст ігнорує витрати на пересування місцевістю</AG_FeatheredWings.customEffectDescriptions.0>
+  <!-- EN: angel -->
+  <AG_FeatheredWings.symbolPack.prefixSymbols.0.symbol>ангел</AG_FeatheredWings.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: cherub -->
+  <AG_FeatheredWings.symbolPack.prefixSymbols.1.symbol>херувим</AG_FeatheredWings.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: arch -->
+  <AG_FeatheredWings.symbolPack.prefixSymbols.2.symbol>арка</AG_FeatheredWings.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: saint -->
+  <AG_FeatheredWings.symbolPack.prefixSymbols.3.symbol>святий</AG_FeatheredWings.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: gas bags -->
+  <AG_GasBags.label>газові мішки</AG_GasBags.label>
+  <!-- EN: Carriers of this gene have an internal organ consisting of hydrogen filled gas bags, that allows them to hover over terrain, at the cost of being quite flammable and exploding on death. -->
+  <AG_GasBags.description>Носії цього гена мають внутрішній орган, що складається з газових мішечків, наповнених воднем, що дозволяє їм парити над місцевістю, але при цьому вони дуже легкозаймисті і вибухають після смерті.</AG_GasBags.description>
+  <!-- EN: Colonist will ignore terrain movement costs -->
+  <AG_GasBags.customEffectDescriptions.0>Колоніст ігнорує витрати на пересування місцевістю</AG_GasBags.customEffectDescriptions.0>
+  <!-- EN: Colonist will explode on death in a flame explosion with 3 tiles radius -->
+  <AG_GasBags.customEffectDescriptions.1>Колоніст вибухне після смерті вибухом полум'я в радіусі у 3 тайли</AG_GasBags.customEffectDescriptions.1>
+  <!-- EN: gas -->
+  <AG_GasBags.symbolPack.prefixSymbols.0.symbol>газ</AG_GasBags.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hydrog -->
+  <AG_GasBags.symbolPack.prefixSymbols.1.symbol>гідро</AG_GasBags.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: moth wings -->
+  <AG_MothWings.label>крила метелика</AG_MothWings.label>
+  <!-- EN: Carriers of this gene have a pair of lepidopteran giant wings sprouting from their back. -->
+  <AG_MothWings.description>Носії цього гена мають пару гігантських крил лускокрилих, що проростають зі спини.</AG_MothWings.description>
+  <!-- EN: Colonist will ignore terrain movement costs -->
+  <AG_MothWings.customEffectDescriptions.0>Колоніст ігнорує витрати на пересування місцевістю</AG_MothWings.customEffectDescriptions.0>
+  <!-- EN: moth -->
+  <AG_MothWings.symbolPack.prefixSymbols.0.symbol>метелик</AG_MothWings.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: lepidopter -->
+  <AG_MothWings.symbolPack.prefixSymbols.1.symbol>лускокрилий</AG_MothWings.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: no wings -->
+  <AG_NoWings.label>без крил</AG_NoWings.label>
+  <!-- EN: Carriers of this gene don't have wings. -->
+  <AG_NoWings.description>Носії цього гена не мають крил.</AG_NoWings.description>
+  <!-- EN: With this gene you can create xenotypes in which a pawn can have wings or a lack of them at random -->
+  <AG_NoWings.customEffectDescriptions.0>За допомогою цього гена ви можете створювати ксенотипи, в яких пішак може випадковим чином мати крила або не мати їх</AG_NoWings.customEffectDescriptions.0>
+  
+  <!-- EN: pegasus wings -->
+  <AG_PegasusWings.label>крила пегаса</AG_PegasusWings.label>
+  <!-- EN: Carriers of this gene have a pair of feathered giant wings sprouting from their back. -->
+  <AG_PegasusWings.description>У носіїв цього гена зі спини проростає пара гігантських крил з пір'ям.</AG_PegasusWings.description>
+  <!-- EN: Colonist will ignore terrain movement costs -->
+  <AG_PegasusWings.customEffectDescriptions.0>Колоніст ігнорує витрати на пересування місцевістю</AG_PegasusWings.customEffectDescriptions.0>
+  <!-- EN: feather -->
+  <AG_PegasusWings.symbolPack.prefixSymbols.0.symbol>перо</AG_PegasusWings.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: winged -->
+  <AG_PegasusWings.symbolPack.prefixSymbols.1.symbol>крилатий</AG_PegasusWings.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: rainbow wings -->
+  <AG_RainbowWings.label>райдужні крила</AG_RainbowWings.label>
+  <!-- EN: Carriers of this gene have a pair of lepidopteran giant wings sprouting from their back. -->
+  <AG_RainbowWings.description>Носії цього гена мають пару гігантських крил лускокрилих, що проростають зі спини.</AG_RainbowWings.description>
+  <!-- EN: Colonist will ignore terrain movement costs -->
+  <AG_RainbowWings.customEffectDescriptions.0>Колоніст ігнорує витрати на пересування місцевістю</AG_RainbowWings.customEffectDescriptions.0>
+  <!-- EN: wing -->
+  <AG_RainbowWings.symbolPack.prefixSymbols.0.symbol>крило</AG_RainbowWings.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: butterf -->
+  <AG_RainbowWings.symbolPack.prefixSymbols.1.symbol>метелик</AG_RainbowWings.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: colour -->
+  <AG_RainbowWings.symbolPack.prefixSymbols.2.symbol>колір</AG_RainbowWings.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: rainb -->
+  <AG_RainbowWings.symbolPack.prefixSymbols.3.symbol>райдуга</AG_RainbowWings.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: malformed wing -->
+  <AG_SingleWing.label>деформоване крило</AG_SingleWing.label>
+  <!-- EN: Carriers of this gene have a single, atrophied wing. Useless for flight. -->
+  <AG_SingleWing.description>Носії цього гена мають єдине, атрофоване крило. Непридатні для польоту.</AG_SingleWing.description>
+  <!-- EN: wing -->
+  <AG_SingleWing.symbolPack.prefixSymbols.0.symbol>крило</AG_SingleWing.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: wasp wings -->
+  <AG_WaspWings.label>осині крила</AG_WaspWings.label>
+  <!-- EN: Carriers of this gene have two pairs of wasp wings sprouting from their back. -->
+  <AG_WaspWings.description>Носії цього гена мають дві пари осиних крил, що проростають зі спини.</AG_WaspWings.description>
+  <!-- EN: Colonist will ignore terrain movement costs -->
+  <AG_WaspWings.customEffectDescriptions.0>Колоніст ігнорує витрати на пересування місцевістю</AG_WaspWings.customEffectDescriptions.0>
+  <!-- EN: wasp -->
+  <AG_WaspWings.symbolPack.prefixSymbols.0.symbol>оса</AG_WaspWings.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hornet -->
+  <AG_WaspWings.symbolPack.prefixSymbols.1.symbol>шершень</AG_WaspWings.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sting -->
+  <AG_WaspWings.symbolPack.prefixSymbols.2.symbol>жало</AG_WaspWings.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: hymen -->
+  <AG_WaspWings.symbolPack.prefixSymbols.3.symbol>пліва</AG_WaspWings.symbolPack.prefixSymbols.3.symbol>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuestExpensiveVendingmachine.stages.0.label>дорогий торгомат</GuestExpensiveVendingmachine.stages.0.label>
+  <GuestExpensiveVendingmachine.stages.0.description>Мені довелося багато платити в торгоматі.</GuestExpensiveVendingmachine.stages.0.description>
+
+  <GuestCheapVendingmachine.stages.0.label>дешевий торгомат</GuestCheapVendingmachine.stages.0.label>
+  <GuestCheapVendingmachine.stages.0.description>Це був дешевий торгомат.</GuestCheapVendingmachine.stages.0.description>
+
+  <GuestFreeVendingmachine.stages.0.label>безкоштовний торгомат</GuestFreeVendingmachine.stages.0.label>
+  <GuestFreeVendingmachine.stages.0.description>Не довелося нічого платити в торгоматі.</GuestFreeVendingmachine.stages.0.description>
+
+
+</LanguageData>

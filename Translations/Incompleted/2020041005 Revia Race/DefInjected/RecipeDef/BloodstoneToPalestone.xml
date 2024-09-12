@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Convert bloodstones to palestones -->
+  <ReviaRaceBloodstoneToPalestone.label>Перетворення кривавих каменів на блідокамні</ReviaRaceBloodstoneToPalestone.label>
+  <!-- EN: Shatter bloodstones into palestones. -->
+  <ReviaRaceBloodstoneToPalestone.description>Розбийте криваві камені на блідокамні.</ReviaRaceBloodstoneToPalestone.description>
+  <!-- EN: Shattering bloodstones. -->
+  <ReviaRaceBloodstoneToPalestone.jobString>Розбиває криваві камені.</ReviaRaceBloodstoneToPalestone.jobString>
+  
+</LanguageData>

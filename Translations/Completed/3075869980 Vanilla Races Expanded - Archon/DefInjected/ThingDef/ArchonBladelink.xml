@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_MeleeWeapon_ArchobladeBladelink.label>архолезо</VREA_MeleeWeapon_ArchobladeBladelink.label>
+  <VREA_MeleeWeapon_ArchobladeBladelink.description>Архолезо - ефірна зброя, викувана в таємничих горнилах архонта, являє собою сплав невідомих матеріалів і таємничої науки і має надприродну здатність проникати крізь плоть, залишаючи після себе болісні шрами, вириваючи тканини з існування.\n\nАрхолезо підсилює пси-чутливість свого носія, резонуючи лише з тими, хто несе небесний дотик архонта. Архолезами майже завжди володіють виключно архонти..</VREA_MeleeWeapon_ArchobladeBladelink.description>
+  <VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.0.name>Руків'я</VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.0.name>
+  <VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.1.name>Ратище</VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.1.name>
+  <VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.2.name>Декорування</VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.2.name>
+  <VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.3.name>Лезо</VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.3.name>
+  <VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.4.name>Гарда</VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.4.name>
+  <VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.5.name>Коштовне каміння</VREA_MeleeWeapon_ArchobladeBladelink.comps.5.graphics.5.name>
+  <VREA_MeleeWeapon_ArchobladeBladelink.tools.0.label>руків'я</VREA_MeleeWeapon_ArchobladeBladelink.tools.0.label>
+  <VREA_MeleeWeapon_ArchobladeBladelink.tools.1.label>лезо</VREA_MeleeWeapon_ArchobladeBladelink.tools.1.label>
+
+
+</LanguageData>

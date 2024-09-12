@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Apparel Expanded</name>
+        <id>1814987817</id>
+        <packageId>VanillaExpanded.VAPPE</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3125127122</sourceTranslationId>
+    <lastUpdate>2023-12-28T19:26:16.000Z</lastUpdate>
+</TranslationDetails>

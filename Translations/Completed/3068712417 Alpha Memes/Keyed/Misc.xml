@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Ideoligions -->
+
+  <AM_ArtTableExtraSpeed>Швидкість творіння мистецтва: збільшена</AM_ArtTableExtraSpeed>
+  <AM_ExtraBluntArmorFactor>Броня: тупа</AM_ExtraBluntArmorFactor>
+  <AM_ExtraSharpArmorFactor>Броня: гостра</AM_ExtraSharpArmorFactor>
+  <AM_ExtraHeatArmorFactor>Броня: тепло precept</AM_ExtraHeatArmorFactor>
+  <AM_DespisedAnimals>Зневажені тварини</AM_DespisedAnimals>
+  <AM_AddDespisedAnimals>Зневажена тварина</AM_AddDespisedAnimals>
+  <AM_AbilityNeedsADownedPawn>Ця здатність повинна бути спрямована на збитого розумного гуманоїда</AM_AbilityNeedsADownedPawn>
+  <AM_AbilityNeedsAValidAnimal>Ця здатність повинна бути спрямована на живу, не дріадну тварину</AM_AbilityNeedsAValidAnimal>
+  <AM_AbilityNeedsABlueprint>Ця здатність має бути спрямована на каркас будівлі, що будується</AM_AbilityNeedsABlueprint>
+  <AM_AbilityNeedsResourcesDelivered>Всі ресурси повинні бути доставлені до каркасу будівлі</AM_AbilityNeedsResourcesDelivered>
+  <AM_NoDataBaseFound>Перш ніж використовувати цю можливість, вам потрібно створити базу даних тварин</AM_NoDataBaseFound>
+  <AM_NotAnalyzed>Не відскановано.</AM_NotAnalyzed>
+  <AM_Analyzed>Проаналізований геном</AM_Analyzed>
+  <AM_OnlyTaggedAnimals>Тільки мічені тварини</AM_OnlyTaggedAnimals>
+  <AM_ShowAnimalAnalysis>Показати аналіз геному</AM_ShowAnimalAnalysis>
+  <AM_ShowAnimalAnalysisDesc>Це покаже вам список можливих тварин, яких потрібно відсканувати.</AM_ShowAnimalAnalysisDesc>
+  <AM_OnlyOneDatabase>Можна створити лише одну базу даних</AM_OnlyOneDatabase>
+  <AM_AnimalAlreadyScanned>Цю тварину вже відскановано для бази даних</AM_AnimalAlreadyScanned>
+  <AM_AnimalScanned>{0} було відскановано в базу даних тварин</AM_AnimalScanned>
+  <AM_CompletionDescription>Рівень заповнення бази даних на {0}</AM_CompletionDescription>
+  <AM_InstallInReliquary>Встановити у вівтарі для розбиття реліквій</AM_InstallInReliquary>
+  <AM_NoEmptyReliquary>немає порожнього доступного вівтаря для розбиття реліквій</AM_NoEmptyReliquary>
+  <AM_NeedsFullAltar>Вівтар для розбиття реліквій повинен мати встановлену реліквію, щоб почати ритуал</AM_NeedsFullAltar>
+  <AM_AbilityNeedsMeme>Ця здатність не може бути використана, якщо в ідеології колоніста немає необхідної ідеї</AM_AbilityNeedsMeme>
+  <AM_MakeChangeStyleAbilityUseAllStyles>Зробіть так, щоб здатність "Змінити стиль" використовувала стилі, якими не володіє основна ідеологія гравця</AM_MakeChangeStyleAbilityUseAllStyles>
+  <AM_MakeChangeStyleAbilityUseAllStyles_Tooltip>Зробіть так, щоб здатність "Змінити стиль" використовувала стилі, не властиві основній ідеології гравця. За замовчуванням ця здатність ролі лідера змінює стиль предмета через стилі, присутні в основній ідеології колонії. Активувавши цей перемикач, ви змусите його використовувати ВСІ стилі, які наразі присутні у грі (ванільні або модифіковані)</AM_MakeChangeStyleAbilityUseAllStyles_Tooltip>
+  <AM_AbilityNiceTry>Цей проект занадто амбітний для головного архітектора (ха-ха, гарна спроба)</AM_AbilityNiceTry>
+
+  <!--Funeral Stings-->
+  <Funeral_NeedsPower>{0} не має живлення</Funeral_NeedsPower>
+  <Funeral_ThingInfoPower>Потребує {0} для останнього обряду. Яке потрібно живити або заправляти паливом</Funeral_ThingInfoPower>
+  <Funeral_WorstResult>{RITUAL} пройшло жахливо!</Funeral_WorstResult>
+  <Funeral_BestResult>{RITUAL} пройшло неймовірно!</Funeral_BestResult>
+  <Funeral_RoleNotDead>{0} потребує, щоб пішак був мертвим</Funeral_RoleNotDead>
+  <Funeral_ConflictingPrecepts> (Conflicts with Precepts: {CONFLICTS})</Funeral_ConflictingPrecepts>
+  <Funeral_ConflictingMemes> (Conflicts with Memes: {CONFLICTS})</Funeral_ConflictingMemes>
+  <Funeral_MissingResearch> (Requires Research: {RESARCH})</Funeral_MissingResearch>
+  <Funeral_DisabledCorpseInaccessible>Немає доступних мертвих колоністів, знайдіть їхні тіла, якщо це можливо</Funeral_DisabledCorpseInaccessible>
+  <AM_SelectStuffToUse>Виберіть речі для використання</AM_SelectStuffToUse>
+  <Funeral_XOf>{0} of type:</Funeral_XOf>
+  <Funeral_XOfThing>Потребує:</Funeral_XOfThing>
+  <Funeral_NotEnoughStuff>Недостатньо речей: потрібно {COUNT} {STUFF}:</Funeral_NotEnoughStuff>
+  <AM_RitualCrafterOutcome>{LABEL} with {SKILL}</AM_RitualCrafterOutcome>
+  <AM_RitualRolePsyker>Рівень Псайкера</AM_RitualRolePsyker>
+  <AM_PsychicSensitivty>Психічна чутливість померлого</AM_PsychicSensitivty>
+  <Funeral_LaunchableRoofed>Неможливо запустити через дах над капсулою</Funeral_LaunchableRoofed>
+  <Funeral_LaunchableNoFuel>Неможливо запустити через відсутність пального для капсули</Funeral_LaunchableNoFuel>
+  <Funeral_ThingLaunchable>Заправлена і без даху: {0}</Funeral_ThingLaunchable>
+  <Funeral_NoHopper>Відсутність доступної воронки навколо дозатора поживної пасти</Funeral_NoHopper>
+  <Funeral_NutrientPaste>Дозатор поживної пасти з підживлений і з доступними воронками</Funeral_NutrientPaste>
+  <Funeral_NotEnoughThings>Недостатньо матеріалів. Не вистачає: {Missing}</Funeral_NotEnoughThings>
+  <Funeral_DreadnoughtFailure>{CORPSE} не зміг впоратися з інтеграцією в труну. Його втрачено назавжди.</Funeral_DreadnoughtFailure>
+  <Funeral_DreadnoughtViable>Труп зберігає свій мозок, і не згнив до невпізнання</Funeral_DreadnoughtViable>
+  <Funeral_DreadnoughtDessicated>{CORPSE} зайшов надто далеко, щоб навіть спробувати</Funeral_DreadnoughtDessicated>
+  <Funeral_DreadnoughtBrainGone>Мозок {CORPSE} зруйнований, нічого не вдієш.</Funeral_DreadnoughtBrainGone>
+  <Funeral_DreadnoughtBrainGoneMessage>Мозок {PAWN} знищено! Ми не можемо провести {RITUAL} для нього!</Funeral_DreadnoughtBrainGoneMessage>
+  <Funeral_DreadnoughtToYoung>{PAWN} трагічно не дожив до віку, потрібного для пілотування; Ми не можемо провести {RITUAL} для нього!</Funeral_DreadnoughtToYoung>
+  <Funeral_ResearchNotCompleted>Ми ще не володіємо знаннями ({0}), щоб завершити це</Funeral_ResearchNotCompleted>
+  <Funeral_OpportunitiesFor>Поховання для {PAWN}</Funeral_OpportunitiesFor>
+  <Funeral_OptionsCount>{0} Доступні похоронні зобов'язання</Funeral_OptionsCount>
+  <Funeral_ThingNotEmpty>{0} не є порожнім</Funeral_ThingNotEmpty>
+  <Funeral_CorpseContainerFull>{0} заповнено</Funeral_CorpseContainerFull>
+  <Funeral_Gauralen>Дерево Ґаурален</Funeral_Gauralen>
+  <AM_CorpseContainerOpen>Це незворотній процес! Після того, як тіло вийшло, його не можна повернути назад</AM_CorpseContainerOpen>
+  <AM_CorpseContainerFailedToEject>Неможливо видалити труп; спробуйте перемістити об'єкт, якщо це можливо</AM_CorpseContainerFailedToEject>
+  <Funeral_FreshCorpse>Труп не може згнити</Funeral_FreshCorpse>
+  <Funeral_CorpseNotFresh>{CORPSE} вже не свіжий, його не можна використовувати</Funeral_CorpseNotFresh>
+  <AM_InsectBurialInsectBorn>Комахи швидко переробили поживні речовини {CORPSE}! Вилупився {INSECT}</AM_InsectBurialInsectBorn>
+  <AM_ArtificialBuildings>Штучні будівлі</AM_ArtificialBuildings>
+  <AM_UnnaturalThingsAffecting>Будівлі, що впливають на якість в радіусі {0}</AM_UnnaturalThingsAffecting>
+  <AM_CorpseContainerMultiDiedOn>{ІМ'Я} помер {DATE}</AM_CorpseContainerMultiDiedOn>
+  <Funeral_SkyburialAnimalsWanderIn>Успіх небесного поховання привів у цей район нових тварин</Funeral_SkyburialAnimalsWanderIn>
+  <AM_TantrumDestoryed>Загалом ми зруйнували будівель на {1}</AM_TantrumDestoryed>
+  <AM_TantrumOutcomeComp>Зруйноване багатство</AM_TantrumOutcomeComp>
+  <AM_TantrumMustBePlayerHome>Починати треба з рідної колонії</AM_TantrumMustBePlayerHome>
+  <AM_ScrapperHighTechThing>Цінна, високотехнологічна частина технології, яку ми можемо перевозити</AM_ScrapperHighTechThing>
+  <AM_ScrapperRitualOutcome>We have salvaged {0} {1} {2}.</AM_ScrapperRitualOutcome>
+  <AM_ScrapperComponentCount>resulting in {0} components</AM_ScrapperComponentCount>
+  <AM_ScrapperAdvComponentCount>and {0} advanced components</AM_ScrapperAdvComponentCount>
+  <!-- Style changing ability -->
+  <AM_DefaultStyle>Стандартний стиль </AM_DefaultStyle>
+  <AM_ChooseStyle>Виберіть стиль для цього об'єкта</AM_ChooseStyle>
+  <AM_NoStyles>Для цього об'єкта немає допустимих стилів</AM_NoStyles>
+
+</LanguageData>

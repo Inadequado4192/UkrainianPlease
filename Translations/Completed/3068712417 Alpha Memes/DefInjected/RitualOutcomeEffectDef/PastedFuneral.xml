@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_PastedFuneralOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_PastedFuneralOutcome.description>
+  <AM_PastedFuneralOutcome.outcomeChances.0.label>Жахливо</AM_PastedFuneralOutcome.outcomeChances.0.label>
+  <AM_PastedFuneralOutcome.outcomeChances.0.description> {0} пройшло жахливо Most of the nutrients were wasted!</AM_PastedFuneralOutcome.outcomeChances.0.description>
+  <AM_PastedFuneralOutcome.outcomeChances.1.label>Нудно</AM_PastedFuneralOutcome.outcomeChances.1.label>
+  <AM_PastedFuneralOutcome.outcomeChances.1.description> {0} пройшло нудно Think we'd all rather be doing something else.</AM_PastedFuneralOutcome.outcomeChances.1.description>
+  <AM_PastedFuneralOutcome.outcomeChances.2.label>Добре</AM_PastedFuneralOutcome.outcomeChances.2.label>
+  <AM_PastedFuneralOutcome.outcomeChances.2.description> {0} пройшло Добре We got what we needed out of them.</AM_PastedFuneralOutcome.outcomeChances.2.description>
+  <AM_PastedFuneralOutcome.outcomeChances.3.label>Неймовірно</AM_PastedFuneralOutcome.outcomeChances.3.label>
+  <AM_PastedFuneralOutcome.outcomeChances.3.description>The {0} was quite effective. They produced much more nutrients than one would've expected.</AM_PastedFuneralOutcome.outcomeChances.3.description>
+  <AM_PastedFuneralOutcome.comps.0.label>присутній моральний наставник</AM_PastedFuneralOutcome.comps.0.label>
+  <AM_PastedFuneralOutcome.comps.1.label>кількість учасників</AM_PastedFuneralOutcome.comps.1.label>
+
+
+</LanguageData>

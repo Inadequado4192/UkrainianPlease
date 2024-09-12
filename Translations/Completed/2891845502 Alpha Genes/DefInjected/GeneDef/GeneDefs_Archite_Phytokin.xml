@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ocular affinity -->
+  <AG_OcularAffinity.label>спорідненість до окулярок</AG_OcularAffinity.label>
+  <!-- EN: Carriers of this gene have a special connection to the ocular trees, allowing them to act as an amplifier to the special properties of the tree, giving them access to powerful innate psychic abilities. -->
+  <AG_OcularAffinity.description>Носії цього гена мають особливий зв'язок з окулярними деревами, що дозволяє їм діяти як підсилювач особливих властивостей дерева, відкриваючи доступ до потужних вроджених пси-здібностей.</AG_OcularAffinity.description>
+  <!-- EN: Guarantees Natural Meditation focus on the pawn. -->
+  <AG_OcularAffinity.customEffectDescriptions.0>Гарантує природну медитацію з фокусуванням на пішаку.</AG_OcularAffinity.customEffectDescriptions.0>
+  <!-- EN: If Alpha Animals OR Alpha Biomes are present, they'll get an ocular conversion ability. -->
+  <AG_OcularAffinity.customEffectDescriptions.1>Якщо присутні "Alpha Animals" або "Alpha Biomes", вони отримають здатність до очної конверсії.</AG_OcularAffinity.customEffectDescriptions.1>
+  <!-- EN: eye -->
+  <AG_OcularAffinity.symbolPack.prefixSymbols.0.symbol>око</AG_OcularAffinity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ocul -->
+  <AG_OcularAffinity.symbolPack.prefixSymbols.1.symbol>окул</AG_OcularAffinity.symbolPack.prefixSymbols.1.symbol>
+  
+</LanguageData>

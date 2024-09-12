@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoorsExpanded>Doors Expanded</DoorsExpanded>
+  <DoorsExpanded_logLevel>Розмір логів(для дебагінгу)</DoorsExpanded_logLevel>
+  <DoorsExpanded_logLevel_Normal>Нормальний</DoorsExpanded_logLevel_Normal>
+  <DoorsExpanded_logLevel_Debug>Дебаг</DoorsExpanded_logLevel_Debug>
+  <DoorsExpanded_logLevel_StackTrace>Відстеження стека</DoorsExpanded_logLevel_StackTrace>
+  
+  <PH_RemoteDoor>Можна відкривати і закривати на відстані за допомогою кнопки або важеля.</PH_RemoteDoor>
+  <PH_ButtonDisconnect>Відключити кнопку або важіль</PH_ButtonDisconnect>
+  <PH_ButtonDisconnectDesc>Відключає будь-яку підключену кнопку або важіль.</PH_ButtonDisconnectDesc>
+  <PH_CannotOpenRemotelyWithoutPower>{0} потребує живлення для дистанційного відкриття.</PH_CannotOpenRemotelyWithoutPower>
+  <PH_UseButtonOrLever>Використати {0}</PH_UseButtonOrLever>
+  <PH_UseButtonOrLeverDesc>Перемикає, чи повинен колоніст переходити для активації або деактивації {0}.</PH_UseButtonOrLeverDesc>
+  <PH_PowerNeeded>Підключіть джерело живлення для дистанційного захисту.</PH_PowerNeeded>
+  <PH_ButtonNeeded>Підключіть кнопку або важіль для дистанційного керування.</PH_ButtonNeeded>
+  <PH_ButtonConnect>Підключення до кнопки або важеля</PH_ButtonConnect>
+  <PH_ButtonConnectDesc>Миттєво прив'язує пульт дистанційного керування до кнопки або важеля</PH_ButtonConnectDesc>
+  <PH_ButtonConnectFailed>Не вдалося встановити нову кнопку або важіль з {0}</PH_ButtonConnectFailed>
+  <PH_UseButtonOrLeverNoConnection>Має бути підключеним до ДУ дверей</PH_UseButtonOrLeverNoConnection>
+  <PH_UseButtonOrLeverNoPower>Має бути підключеним до електромережі</PH_UseButtonOrLeverNoPower>
+  <PH_RemoteDoorSecuredRemotely>Віддалений захист</PH_RemoteDoorSecuredRemotely>
+  <PH_RemoteDoorSecuredRemotelyDesc>Якщо цей параметр увімкнено, двері можна відчинити лише дистанційно за допомогою відповідної кнопки або важеля. У зачиненому стані двері поводитимуться так, ніби вони заблоковані, без можливості входу або виходу. Якщо цей параметр вимкнено, персонажі можуть вільно відчиняти та зачиняти двері, як звичайні двері.</PH_RemoteDoorSecuredRemotelyDesc>
+  
+  <!-- Copied from JecsTools (note: using different translation key ("JT" => "PH") to avoid "duplicate keyed translation key" warnings) -->
+  <PH_PlaceWorker_OnTopOfWalls>Має бути розміщений на стіні.</PH_PlaceWorker_OnTopOfWalls>
+
+</LanguageData>

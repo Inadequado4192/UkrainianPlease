@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rage -->
+  <AG_SelectiveManhunter.label>лють</AG_SelectiveManhunter.label>
+  <!-- EN: Raging -->
+  <AG_SelectiveManhunter.baseInspectLine>Лютий</AG_SelectiveManhunter.baseInspectLine>
+  
+  <!-- EN: panic-fleeing water -->
+  <AG_Thalassophobia.label>панічна втеча від води</AG_Thalassophobia.label>
+  <!-- EN: Mental state: Fleeing water -->
+  <AG_Thalassophobia.baseInspectLine>Психічний стан: Втеча від води</AG_Thalassophobia.baseInspectLine>
+  <!-- EN: {0} is fleeing water. -->
+  <AG_Thalassophobia.beginLetter>{0} тікає від води.</AG_Thalassophobia.beginLetter>
+  <!-- EN: fleeing water -->
+  <AG_Thalassophobia.beginLetterLabel>тікає від води</AG_Thalassophobia.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing water. -->
+  <AG_Thalassophobia.recoveryMessage>{0} більше не тікає від води.</AG_Thalassophobia.recoveryMessage>
+  
+</LanguageData>

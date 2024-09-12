@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fire obsession -->
+  <AG_FireObsession.label>одержимість вогнем</AG_FireObsession.label>
+  <!-- EN: Carriers of this gene have an innate psychological obsession with fire, trying to be around fires as much as humanly possible. -->
+  <AG_FireObsession.description>Носії цього гена мають вроджену психологічну одержимість вогнем, намагаються перебувати біля вогню якомога більше, наскільки це можливо для людини.</AG_FireObsession.description>
+  
+  <!-- EN: thalassophobia -->
+  <AG_Thalassophobia.label>таласофобія</AG_Thalassophobia.label>
+  <!-- EN: Carriers of this gene have an intense fear of bodies of water. When water is close, there is a chance they will have a mental breakdown at any moment. -->
+  <AG_Thalassophobia.description>Носії цього гена мають сильний страх перед водоймами. Коли вода знаходиться близько, у них в будь-який момент може статися психічний зрив.</AG_Thalassophobia.description>
+  <!-- EN: This will be triggered by any terrain the game considers water, marsh included. -->
+  <AG_Thalassophobia.customEffectDescriptions.0>Це спрацьовує на будь-якій місцевості, яку гра вважає водою, включно з болотом.</AG_Thalassophobia.customEffectDescriptions.0>
+  <!-- EN: Any rainy weather will also trigger this if the colonist is exposed to rain! -->
+  <AG_Thalassophobia.customEffectDescriptions.1>Будь-яка дощова погода також спровокує це, якщо колоніст потрапить під дощ!</AG_Thalassophobia.customEffectDescriptions.1>
+  
+</LanguageData>

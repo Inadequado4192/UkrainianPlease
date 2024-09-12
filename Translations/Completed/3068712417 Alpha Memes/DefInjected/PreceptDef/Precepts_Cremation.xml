@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_CremateFuneral.label>поховання з кремацією</AM_CremateFuneral.label>
+  <AM_CremateFuneral.description>Збори, щоб стати свідками кремації нашого друга.</AM_CremateFuneral.description>
+
+
+  <!-- Obsolete -->
+
+  <AM_CremateFuneralNoCorpse.label>поховання (без тіла)</AM_CremateFuneralNoCorpse.label>
+
+
+</LanguageData>

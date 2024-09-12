@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--Stew to Cook-->
+  <VCE_InsertStewDesc>Тушонка для приготування</VCE_InsertStewDesc>
+  
+  <!--Bring Stew-->
+  <VCE_StartStewInsertion>Принести тушонку</VCE_StartStewInsertion>
+  <!--Bring a stew to the stew pot to start cooking-->
+  <VCE_StartStewInsertionDesc>Принести сиру тушонку до сотейника, щоб почати готувати її</VCE_StartStewInsertionDesc>
+  
+  <!--Cancel Bringing Stew-->
+  <VCE_CancelBringingStew>Скасувати доставку тушонки</VCE_CancelBringingStew>
+  <!--Cancel bringing stew to the stew pot.-->
+  <VCE_CancelBringingStewDesc>Скасувати доставку тушонки до сотейника.</VCE_CancelBringingStewDesc>
+  
+  <!--The stew has spoiled due to a lack of fuel in the stew pot-->
+  <VCE_StewFailurePower>Тушонка зіпсувалася через брак палива в сотейнику</VCE_StewFailurePower>
+  <!--The stew is spoiling fast due to a lack of fuel in the stew pot-->
+  <VCE_StewFailurePowerWarning>Тушонка швидко псується через брак палива в сотейнику</VCE_StewFailurePowerWarning>
+  
+  <!--A simple stew is ready and waiting for pickup-->
+  <VCE_FinishedSimpleStew>Просте тушковане м'ясо готове та очікує на вилучення</VCE_FinishedSimpleStew>
+  <!--A fine stew is ready and waiting for pickup-->
+  <VCE_FinishedFineStew>Вишукане тушковане м'ясо готове та очікує на вилучення</VCE_FinishedFineStew>
+  <!--A lavish stew is ready and waiting for pickup-->
+  <VCE_FinishedLavishStew>Розкішне тушковане м'ясо готове та очікує на вилучення</VCE_FinishedLavishStew>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_FleshCraftingFuneralOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_FleshCraftingFuneralOutcome.description>
+  <AM_FleshCraftingFuneralOutcome.outcomeChances.0.label>Жахливо</AM_FleshCraftingFuneralOutcome.outcomeChances.0.label>
+  <AM_FleshCraftingFuneralOutcome.outcomeChances.0.description> {0} пройшло жахливо. Спікер просто зіпсував всю операцію, і ми не змогли дістати жодного здорового органу. Який жах.</AM_FleshCraftingFuneralOutcome.outcomeChances.0.description>
+  <AM_FleshCraftingFuneralOutcome.outcomeChances.1.label>Нудно</AM_FleshCraftingFuneralOutcome.outcomeChances.1.label>
+  <AM_FleshCraftingFuneralOutcome.outcomeChances.1.description> {0} пройшло нудно. Промова була довготривалою і не зробила честі загиблому. Принаймні, ми отримали кілька корисних частин тіла з цього фіаско.</AM_FleshCraftingFuneralOutcome.outcomeChances.1.description>
+  <AM_FleshCraftingFuneralOutcome.outcomeChances.2.label>Добре</AM_FleshCraftingFuneralOutcome.outcomeChances.2.label>
+  <AM_FleshCraftingFuneralOutcome.outcomeChances.2.description> {0} пройшло добре. Заключні слова спікера надали всім шлях для подальших дій. Ми дістали кілька корисних частин тіла нашого загиблого друга.</AM_FleshCraftingFuneralOutcome.outcomeChances.2.description>
+  <AM_FleshCraftingFuneralOutcome.outcomeChances.3.label>Неймовірно</AM_FleshCraftingFuneralOutcome.outcomeChances.3.label>
+  <AM_FleshCraftingFuneralOutcome.outcomeChances.3.description> {0} пройшло неймовірно. Промова була захопливою та щирою, і всі розійшлися, зосереджені на добрих спогадах. Ми врятували багато частин тіла, і наш загиблий колега назавжди залишиться частиною нас, в деяких випадках в буквальному сенсі.</AM_FleshCraftingFuneralOutcome.outcomeChances.3.description>
+  <AM_FleshCraftingFuneralOutcome.comps.0.label>присутній моральний наставник</AM_FleshCraftingFuneralOutcome.comps.0.label>
+  <AM_FleshCraftingFuneralOutcome.comps.1.label>кількість учасників</AM_FleshCraftingFuneralOutcome.comps.1.label>
+
+
+</LanguageData>

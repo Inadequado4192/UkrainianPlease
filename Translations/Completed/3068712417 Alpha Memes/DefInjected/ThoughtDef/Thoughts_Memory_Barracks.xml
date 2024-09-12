@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_SleptInBarracksMonastic.stages.0.label>жахлива спільна кімната</AM_SleptInBarracksMonastic.stages.0.label>
+  <AM_SleptInBarracksMonastic.stages.0.description>Ми цінуємо монастирський, суворий спосіб життя, але це місце - ДІРА.</AM_SleptInBarracksMonastic.stages.0.description>
+  <AM_SleptInBarracksMonastic.stages.1.label>нудна спільна кімната</AM_SleptInBarracksMonastic.stages.1.label>
+  <AM_SleptInBarracksMonastic.stages.1.description>Ми цінуємо монастирський, суворий спосіб життя, але це місце не завадило б трохи прибрати і організувати.</AM_SleptInBarracksMonastic.stages.1.description>
+  <AM_SleptInBarracksMonastic.stages.2.label>нормальна спільна кімната</AM_SleptInBarracksMonastic.stages.2.label>
+  <AM_SleptInBarracksMonastic.stages.2.description>Я спав у спільній кімнаті з моїми братами та сестрами. Це мене тішить..</AM_SleptInBarracksMonastic.stages.2.description>
+  <AM_SleptInBarracksMonastic.stages.3.label>добре організована спільна кімната</AM_SleptInBarracksMonastic.stages.3.label>
+  <AM_SleptInBarracksMonastic.stages.3.description>Я спав у пристойній, добре організованій спільній кімнаті. Це дійсно ідеально: правильний спосіб ділитися спільним житловим простором. Мені подобається.</AM_SleptInBarracksMonastic.stages.3.description>
+  <AM_SleptInBarracksMonastic.stages.4.label>роздумна спільна кімната</AM_SleptInBarracksMonastic.stages.4.label>
+  <AM_SleptInBarracksMonastic.stages.4.description>Мені довелося спати в досить гарній спільній кімнаті. Гарне місце для медитації та роздумів про реальність людського стану, але я б хотів, щоб воно було простішим.</AM_SleptInBarracksMonastic.stages.4.description>
+  <AM_SleptInBarracksMonastic.stages.5.label>вражаюча спільна кімната</AM_SleptInBarracksMonastic.stages.5.label>
+  <AM_SleptInBarracksMonastic.stages.5.description>Мені довелося спати у вражаючій спільній кімнаті. Чесно кажучи, я думаю, що це занадто. Я б віддав перевагу більш простим умовам проживання.</AM_SleptInBarracksMonastic.stages.5.description>
+  <AM_SleptInBarracksMonastic.stages.6.label>занадто розкішна спільна кімната</AM_SleptInBarracksMonastic.stages.6.label>
+  <AM_SleptInBarracksMonastic.stages.6.description>Я спав у досить розкішній спільній кімнаті. Чесно кажучи, я думаю, що це занадто. Я б віддав перевагу більш простим умовам проживання.</AM_SleptInBarracksMonastic.stages.6.description>
+  <AM_SleptInBarracksMonastic.stages.7.label>надзвичайно вражаюча спільна кімната</AM_SleptInBarracksMonastic.stages.7.label>
+  <AM_SleptInBarracksMonastic.stages.7.description>Я спав у надзвичайно вражаючій спільній кімнаті. Чесно кажучи, я думаю, що це вже занадто. Нам потрібно зменшити непристойну демонстрацію багатства.</AM_SleptInBarracksMonastic.stages.7.description>
+  <AM_SleptInBarracksMonastic.stages.8.label>неймовірно вражаюча спільна кімната</AM_SleptInBarracksMonastic.stages.8.label>
+  <AM_SleptInBarracksMonastic.stages.8.description>Спільна кімната, в якій я спав, була надто вражаючою. Ми не принци і жити в такому палаці непристойно.</AM_SleptInBarracksMonastic.stages.8.description>
+  <AM_SleptInBarracksMonastic.stages.9.label>дивовижно вражаюча спільна кімната</AM_SleptInBarracksMonastic.stages.9.label>
+  <AM_SleptInBarracksMonastic.stages.9.description>Огидно. Непристойна демонстрація багатства і пороку.</AM_SleptInBarracksMonastic.stages.9.description>
+
+  <AM_SleptInPrivateRoomMonastic.stages.0.label>особиста кімната</AM_SleptInPrivateRoomMonastic.stages.0.label>
+  <AM_SleptInPrivateRoomMonastic.stages.0.description>Окрема кімната здається непотрібною розкішшю на кордоні. Я волію спати в спільній кімнаті з моїми братами і сестрами.</AM_SleptInPrivateRoomMonastic.stages.0.description>
+
+  <AM_SleptInBarracksPreferred.stages.0.label>жахлива спільна кімната</AM_SleptInBarracksPreferred.stages.0.label>
+  <AM_SleptInBarracksPreferred.stages.0.description>Мені довелося спати в жахливій, жахливій кімнаті, переповненій, як тварини.</AM_SleptInBarracksPreferred.stages.0.description>
+  <AM_SleptInBarracksPreferred.stages.1.label>нудна спільна кімната</AM_SleptInBarracksPreferred.stages.1.label>
+  <AM_SleptInBarracksPreferred.stages.1.description>Ми цінуємо спільні кімнати, але це місце не завадило б трохи прибрати і організувати.</AM_SleptInBarracksPreferred.stages.1.description>
+  <AM_SleptInBarracksPreferred.stages.2.label>нормальна спільна кімната</AM_SleptInBarracksPreferred.stages.2.label>
+  <AM_SleptInBarracksPreferred.stages.2.description>Ми спали в спільній кімнаті. Мені це подобається.</AM_SleptInBarracksPreferred.stages.2.description>
+  <AM_SleptInBarracksPreferred.stages.3.label>добре організована спільна кімната</AM_SleptInBarracksPreferred.stages.3.label>
+  <AM_SleptInBarracksPreferred.stages.3.description>Я спав у пристойній, добре організованій спільній кімнаті. Це дійсно ідеально. Мені дуже сподобалося.</AM_SleptInBarracksPreferred.stages.3.description>
+  <AM_SleptInBarracksPreferred.stages.4.label>гарна спільна кімната</AM_SleptInBarracksPreferred.stages.4.label>
+  <AM_SleptInBarracksPreferred.stages.4.description>Ми спали в досить гарній спільній кімнаті.</AM_SleptInBarracksPreferred.stages.4.description>
+  <AM_SleptInBarracksPreferred.stages.5.label>вражаюча спільна кімната</AM_SleptInBarracksPreferred.stages.5.label>
+  <AM_SleptInBarracksPreferred.stages.5.description>Ми спали у вражаючій спільній кімнаті. Це чудово..</AM_SleptInBarracksPreferred.stages.5.description>
+  <AM_SleptInBarracksPreferred.stages.6.label>дуже вражаюча спільна кімната</AM_SleptInBarracksPreferred.stages.6.label>
+  <AM_SleptInBarracksPreferred.stages.6.description>Я спав у досить розкішній спільній кімнаті. Мені сподобалося..</AM_SleptInBarracksPreferred.stages.6.description>
+  <AM_SleptInBarracksPreferred.stages.7.label>надзвичайно вражаюча спільна кімната</AM_SleptInBarracksPreferred.stages.7.label>
+  <AM_SleptInBarracksPreferred.stages.7.description>Я спав у надзвичайно вражаючій спільній кімнаті. Це було чудово..</AM_SleptInBarracksPreferred.stages.7.description>
+  <AM_SleptInBarracksPreferred.stages.8.label>unbelievably impressive спільна кімната</AM_SleptInBarracksPreferred.stages.8.label>
+  <AM_SleptInBarracksPreferred.stages.8.description>Спільна кімната, в якій я спав, була неймовірно вражаючою. Це було справді приголомшливо.</AM_SleptInBarracksPreferred.stages.8.description>
+  <AM_SleptInBarracksPreferred.stages.9.label>дивовижно вражаюча спільна кімната</AM_SleptInBarracksPreferred.stages.9.label>
+  <AM_SleptInBarracksPreferred.stages.9.description>Я спав у райській спільній кімнаті. Це було чудово.</AM_SleptInBarracksPreferred.stages.9.description>
+
+  <AM_SleptInPrivateRoomPreferred.stages.0.label>особиста кімната</AM_SleptInPrivateRoomPreferred.stages.0.label>
+  <AM_SleptInPrivateRoomPreferred.stages.0.description>Окрема кімната здається небезпечною перспективою на Краю. Я краще буду спати в спільній з іншими людьми кімнаті.</AM_SleptInPrivateRoomPreferred.stages.0.description>
+
+
+</LanguageData>

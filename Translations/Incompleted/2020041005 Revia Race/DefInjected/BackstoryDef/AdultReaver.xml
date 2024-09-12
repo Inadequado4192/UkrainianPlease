@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was once an abandoned child. Now grown, [PAWN_pronoun] wishes to see the world burn for its perceived sins. -->
+  <ReviaRaceBackstoryAdultReaver.baseDesc>Колись [PAWN_nameDef] {PAWN_gender ? був : була} покинутою дитиною. Тепер, коли [PAWN_pronoun] виріс, [PAWN_pronoun] бажає, щоб світ згорів за його уявні гріхи.</ReviaRaceBackstoryAdultReaver.baseDesc>
+  <!-- EN: Revian Reaver -->
+  <ReviaRaceBackstoryAdultReaver.title>Ревійський Рейвер</ReviaRaceBackstoryAdultReaver.title>
+  <!-- EN: Reaver -->
+  <ReviaRaceBackstoryAdultReaver.titleShort>Рейвер</ReviaRaceBackstoryAdultReaver.titleShort>
+  
+</LanguageData>

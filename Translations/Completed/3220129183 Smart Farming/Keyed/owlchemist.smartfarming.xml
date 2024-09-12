@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SmartFarming.Icon.On>Увімкнено</SmartFarming.Icon.On>
+    <SmartFarming.Icon.On.Desc>Висаджувати обрану рослину, поки вона перебуває у фазі вегетації.</SmartFarming.Icon.On.Desc>
+    <SmartFarming.Icon.Off>Вимкнено</SmartFarming.Icon.Off>
+    <SmartFarming.Icon.Off.Desc>Не саджати жодних рослин.</SmartFarming.Icon.Off.Desc>
+    <SmartFarming.Icon.Smart>Розумний</SmartFarming.Icon.Smart>
+    <SmartFarming.Icon.Smart.Desc>Висіювати рослини за умови, що їхній прогнозований ріст досягне мінімального порогу врожайності до того, як вони загинуть від холоду або токсинів.</SmartFarming.Icon.Smart.Desc>
+    <SmartFarming.Icon.Force>Примусово</SmartFarming.Icon.Force>
+    <SmartFarming.Icon.Force.Desc>Висіювати рослини незалежно від стану вегетації.</SmartFarming.Icon.Force.Desc>
+    <SmartFarming.Icon.HarvestNow>Зібрати врожай зараз</SmartFarming.Icon.HarvestNow>
+    <SmartFarming.Icon.HarvestNow.Desc>Призначте всі рослини в цій зоні для збору врожаю, навіть якщо вони ще не повністю виросли.</SmartFarming.Icon.HarvestNow.Desc>
+    <SmartFarming.Icon.AllowHarvest>Дозволити збір врожаю</SmartFarming.Icon.AllowHarvest>
+    <SmartFarming.Icon.AllowHarvest.Desc>Вимкніть цю опцію, щоб заборонити пішакам збирати врожай у цій зоні.</SmartFarming.Icon.AllowHarvest.Desc>
+    <SmartFarming.Icon.OrchardAlignment>Вирівнювати рослини</SmartFarming.Icon.OrchardAlignment>
+    <SmartFarming.Icon.OrchardAlignment.Desc>Для рослин, які потребують вільної зони, наприклад, дерев, пішаки намагатимуться вирівняти їх у ряди. Це може не спрацювати для зон нестандартної форми.</SmartFarming.Icon.OrchardAlignment.Desc>
+    <SmartFarming.Icon.MergeZones>Об'єднати зони</SmartFarming.Icon.MergeZones>
+    <SmartFarming.Icon.MergeZones.Desc>Об'єднайте вибрані зони в одну, використовуючи першу вибрану зону як опорну.</SmartFarming.Icon.MergeZones.Desc>
+    
+    <SmartFarming.Icon.Low>Низький</SmartFarming.Icon.Low>
+    <SmartFarming.Icon.Normal>Нормальний</SmartFarming.Icon.Normal>
+    <SmartFarming.Icon.Preferred>Бажаний</SmartFarming.Icon.Preferred>
+    <SmartFarming.Icon.Important>Важливий</SmartFarming.Icon.Important>
+    <SmartFarming.Icon.Critical>Критичний</SmartFarming.Icon.Critical>
+    <SmartFarming.Icon.Priority.Desc>Пішакам пропонується сіяти і збирати рослини в порядку пріоритету.</SmartFarming.Icon.Priority.Desc>
+    
+    <SmartFarming.Icon.NoPettyJobs>Ніякої дрібної роботи</SmartFarming.Icon.NoPettyJobs>
+    <SmartFarming.Icon.NoPettyJobs.Desc>Пішаки не будуть засівати нові рослини в цю зону, поки не буде виконано достатньо роботи, заданої в налаштуваннях.</SmartFarming.Icon.NoPettyJobs.Desc>
+    
+    <SmartFarming.Settings.ColdSowing>Дозволити холодний посів</SmartFarming.Settings.ColdSowing>
+    <SmartFarming.Settings.ColdSowing.Desc>Зазвичай гра не дозволяє сіяти, коли земля замерзла, навіть якщо тип рослини, що висівається, витримує мінусові температури. Вимкніть цю функцію, щоб зберегти ванільні правила.</SmartFarming.Settings.ColdSowing.Desc>
+    
+    <SmartFarming.Settings.AllowHarvest>Дозволити збирати врожай</SmartFarming.Settings.AllowHarvest>
+    <SmartFarming.Settings.AllowHarvest.Desc>Відображати кнопку «Дозволити збір врожаю». Увімкнення цієї опції може мати певний вплив на продуктивність колоній з високою чисельністю населення та великою кількістю робітників у сільському господарстві. Зміна цього параметра вимагає перезапуску гри.</SmartFarming.Settings.AllowHarvest.Desc>
+    
+    <SmartFarming.Settings.SmartSowLabel>Розумний посів:</SmartFarming.Settings.SmartSowLabel>
+    <SmartFarming.Settings.ProcessedFoodLabel>Фактор обробленої їжі:</SmartFarming.Settings.ProcessedFoodLabel>
+    
+    <SmartFarming.Settings.UseAverageTemperature>Використовувати прогноз середньої температури замість низької</SmartFarming.Settings.UseAverageTemperature>
+    <SmartFarming.Settings.UseAverageTemperature.Desc>Прогнозуючи погоду для функції "Розумний посів", використовуйте середню температуру за день, а не мінімальну. Використання середнього значення подовжить вегетаційний період з ризиком втрати частини врожаю.</SmartFarming.Settings.UseAverageTemperature.Desc>
+    
+    <SmartFarming.Settings.UseAverageFertility>Використовувати середню родючість зони замість найслабшої</SmartFarming.Settings.UseAverageFertility>
+    <SmartFarming.Settings.UseAverageFertility.Desc>При прогнозуванні росту рослин використовуйте середню родючість зони замість найслабшої родючості зони.</SmartFarming.Settings.UseAverageFertility.Desc>
+    
+    <SmartFarming.Settings.AutoCutBlighted>Автоматично визначайте уражені культури для знищення</SmartFarming.Settings.AutoCutBlighted>
+    <SmartFarming.Settings.AutoCutBlighted.Desc>Якщо посіви хворіють, автоматично призначається завдання на обрізку.</SmartFarming.Settings.AutoCutBlighted.Desc>
+    
+    <SmartFarming.Settings.AutoHarvestNow>Збирайте врожай раніше, якщо є загроза</SmartFarming.Settings.AutoHarvestNow>
+    <SmartFarming.Settings.AutoHarvestNow.Desc>Якщо сьогодні вночі буде смертельно холодно, призначте всі рослини для негайного збору врожаю.</SmartFarming.Settings.AutoHarvestNow.Desc>
+    <SmartFarming.Message.AutoHarvestNow>Рослини, призначені для раннього збору врожаю через прогнозовану на сьогодні погоду.</SmartFarming.Message.AutoHarvestNow>
+    
+    <SmartFarming.Settings.OrchardAlignment>Пристрій для вирівнювання</SmartFarming.Settings.OrchardAlignment>
+    <SmartFarming.Settings.OrchardAlignment.Desc>Увімкнути кнопку, яка спонукає пішаків саджати дерева в чітко визначені ряди.</SmartFarming.Settings.OrchardAlignment.Desc>
+    
+    <SmartFarming.Settings.AutoCutDying>Автоматично намагатися зібрати врожай вмираючих культур</SmartFarming.Settings.AutoCutDying>
+    <SmartFarming.Settings.AutoCutDying.Desc>Якщо культура загинула від холоду, спробуйте автоматично зібрати врожай, поки ще не пізно. Зміна цього параметра вимагає перезапуску гри.</SmartFarming.Settings.AutoCutDying.Desc>
+    
+    <SmartFarming.Settings.ProcessedFood.Desc>Коли зона вирощування дає оцінку потенційного виходу поживних речовин, вона множить поживність сирого продукту на це значення. Для довідки: простий раціон множить значення на 1,8, вишуканий раціон - на 1,2, а щедрий раціон - на 1,0.</SmartFarming.Settings.ProcessedFood.Desc>
+    
+    <SmartFarming.Settings.MinTempSlider>Допуск мінімальної температури (за замовчуванням: {0}, Min: {1}, Max: {2}): </SmartFarming.Settings.MinTempSlider>
+    <SmartFarming.Settings.MinTemp>Прогнозуючи погоду на найближчий день збору врожаю, враховувати, що температура нижче цієї позначки є неприйнятною. Рослини потенційно можуть загинути при 0°C, але зазвичай виживають, якщо температура ледь замерзає протягом декількох годин. Однак випадкові щоденні відхилення температури можуть знизити точність.</SmartFarming.Settings.MinTemp>
+    
+    <SmartFarming.Settings.PettyJobsSlider>Маржа дрібних робіт (за замовчуванням: {0}, Min: {1}, Max: {2}): </SmartFarming.Settings.PettyJobsSlider>
+    <SmartFarming.Settings.PettyJobs>Якщо в зоні увімкнено «без дрібних робіт», пішаки не засіватимуть поле, якщо немає принаймні цього відсотка порожніх тайлів для засіву. Це може бути корисно для зон випасу тварин.</SmartFarming.Settings.PettyJobs>
+    
+    <SmartFarming.Inspector.MinHarvestDay>\nНайперший день збору врожаю: </SmartFarming.Inspector.MinHarvestDay>
+    <SmartFarming.Inspector.MinHarvestDayFail>\nРослини, швидше за все, загинуть до збору врожаю</SmartFarming.Inspector.MinHarvestDayFail>
+    <SmartFarming.Inspector.Fertility>\nРодючість: {0} середня / {1} найслабша</SmartFarming.Inspector.Fertility>
+    <SmartFarming.Inspector.AverageGrowth>\nСереднє зростання: </SmartFarming.Inspector.AverageGrowth>
+    <SmartFarming.Inspector.Yield>\nПотенційне харчування: </SmartFarming.Inspector.Yield>
+    <SmartFarming.Inspector.DaysWorth> ({0} днів)</SmartFarming.Inspector.DaysWorth>
+    
+    <SmartFarming.Icon.SetAll>Встановіть зони на </SmartFarming.Icon.SetAll>
+</LanguageData>

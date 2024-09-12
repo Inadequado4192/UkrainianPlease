@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Alpha Memes</name>
+        <id>2661356814</id>
+        <packageId>Sarg.AlphaMemes</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>tyulen</nickname>
+            <steamId>76561198374567982</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3068712417</sourceTranslationId>
+    <lastUpdate>2024-04-12T09:06:44.000Z</lastUpdate>
+</TranslationDetails>

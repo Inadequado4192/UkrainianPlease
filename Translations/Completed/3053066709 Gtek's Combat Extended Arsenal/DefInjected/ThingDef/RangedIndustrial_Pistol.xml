@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ruger Super Redhawk -->
+
+  <HIDGun_RugerSuperRedhawk.label>Ruger Super Redhawk</HIDGun_RugerSuperRedhawk.label>
+  <HIDGun_RugerSuperRedhawk.description>Револьвер подвійної дії під потужний патрон .454 Casull, оснащений потужним оптичним прицілом.</HIDGun_RugerSuperRedhawk.description>
+  <HIDGun_RugerSuperRedhawk.tools.0.label>руків'я</HIDGun_RugerSuperRedhawk.tools.0.label>
+  <HIDGun_RugerSuperRedhawk.tools.1.label>дуло</HIDGun_RugerSuperRedhawk.tools.1.label>
+
+  
+  <!-- Taurus Model 455 Tracker -->
+
+  <HIDGun_TaurusM455Tracker.label>Taurus Model 455 Tracker</HIDGun_TaurusM455Tracker.label>
+  <HIDGun_TaurusM455Tracker.description>Дуже легкий револьвер подвійної дії, що стріляє невеликими пістолетними патронами.</HIDGun_TaurusM455Tracker.description>
+  <HIDGun_TaurusM455Tracker.tools.0.label>grip</HIDGun_TaurusM455Tracker.tools.0.label>
+  <HIDGun_TaurusM455Tracker.tools.1.label>muzzle</HIDGun_TaurusM455Tracker.tools.1.label>
+
+
+  <!-- Taurus Model 455 Tracker Gold -->
+
+  <HIDGun_TaurusM455TrackerGold.label>Taurus Model 455 Tracker</HIDGun_TaurusM455TrackerGold.label>
+  <HIDGun_TaurusM455TrackerGold.description>Дуже легкий револьвер подвійної дії, що стріляє маленькими пістолетними патронами. Цей револьвер позолочений.</HIDGun_TaurusM455TrackerGold.description>
+  <HIDGun_TaurusM455TrackerGold.tools.0.label>grip</HIDGun_TaurusM455TrackerGold.tools.0.label>
+  <HIDGun_TaurusM455TrackerGold.tools.1.label>muzzle</HIDGun_TaurusM455TrackerGold.tools.1.label>
+
+
+  <!-- Colt Python -->
+
+  <HIDGun_ColtPython.label>Colt Python</HIDGun_ColtPython.label>
+  <HIDGun_ColtPython.description>Револьвер подвійної дії, що стріляє потужним пістолетним патроном.</HIDGun_ColtPython.description>
+  <HIDGun_ColtPython.tools.0.label>grip</HIDGun_ColtPython.tools.0.label>
+  <HIDGun_ColtPython.tools.1.label>muzzle</HIDGun_ColtPython.tools.1.label>
+
+
+  <!-- Colt Python Blued -->
+
+  <HIDGun_ColtPythonBlued.label>Colt Python</HIDGun_ColtPythonBlued.label>
+  <HIDGun_ColtPythonBlued.description>Револьвер подвійної дії, що стріляє потужним пістолетним патроном.</HIDGun_ColtPythonBlued.description>
+  <HIDGun_ColtPythonBlued.tools.0.label>grip</HIDGun_ColtPythonBlued.tools.0.label>
+  <HIDGun_ColtPythonBlued.tools.1.label>muzzle</HIDGun_ColtPythonBlued.tools.1.label>
+
+
+  <!-- M9A1 -->
+
+  <HIDGun_BerettaM9Gun.label>M9A1</HIDGun_BerettaM9Gun.label>
+  <HIDGun_BerettaM9Gun.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі.</HIDGun_BerettaM9Gun.description>
+  <HIDGun_BerettaM9Gun.tools.0.label>руків'я</HIDGun_BerettaM9Gun.tools.0.label>
+  <HIDGun_BerettaM9Gun.tools.1.label>дуло</HIDGun_BerettaM9Gun.tools.1.label>
+
+
+  <!-- 92FS -->
+
+  <HIDGun_Beretta92FS.label>92FS</HIDGun_Beretta92FS.label>
+  <HIDGun_Beretta92FS.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі.</HIDGun_Beretta92FS.description>
+  <HIDGun_Beretta92FS.tools.0.label>руків'я</HIDGun_Beretta92FS.tools.0.label>
+  <HIDGun_Beretta92FS.tools.1.label>дуло</HIDGun_Beretta92FS.tools.1.label>
+
+
+  <!-- M9A3 -->
+
+  <HIDGun_BerettaM9A3Gun.label>M9A3</HIDGun_BerettaM9A3Gun.label>
+  <HIDGun_BerettaM9A3Gun.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі.</HIDGun_BerettaM9A3Gun.description>
+  <HIDGun_BerettaM9A3Gun.tools.0.label>руків'я</HIDGun_BerettaM9A3Gun.tools.0.label>
+  <HIDGun_BerettaM9A3Gun.tools.1.label>дуло</HIDGun_BerettaM9A3Gun.tools.1.label>
+
+
+  <!-- RD-9 -->
+
+  <HIDGun_RD9Pistol.label>RD-9</HIDGun_RD9Pistol.label>
+  <HIDGun_RD9Pistol.description>Карабін пістолетного калібру, створений на основі конструкції AR-15, під набій 9мм.</HIDGun_RD9Pistol.description>
+  <HIDGun_RD9Pistol.tools.0.label>приклад</HIDGun_RD9Pistol.tools.0.label>
+  <HIDGun_RD9Pistol.tools.1.label>barrel</HIDGun_RD9Pistol.tools.1.label>
+  <HIDGun_RD9Pistol.tools.2.label>дуло</HIDGun_RD9Pistol.tools.2.label>
+
+
+  <!-- RD-45 -->
+
+  <HIDGun_RD45Pistol.label>RD-45</HIDGun_RD45Pistol.label>
+  <HIDGun_RD45Pistol.description>Карабін пістолетного калібру на основі конструкції AR-15 під набій .45 ACP.</HIDGun_RD45Pistol.description>
+  <HIDGun_RD45Pistol.tools.0.label>приклад</HIDGun_RD45Pistol.tools.0.label>
+  <HIDGun_RD45Pistol.tools.1.label>barrel</HIDGun_RD45Pistol.tools.1.label>
+  <HIDGun_RD45Pistol.tools.2.label>дуло</HIDGun_RD45Pistol.tools.2.label>
+
+
+  <!-- RD-300 -->
+
+  <HIDGun_RD300Pistol.label>RD-300</HIDGun_RD300Pistol.label>
+  <HIDGun_RD300Pistol.description>Пістолет-пулемет, створений на основі конструкції AR-15 під набій .300 Blackout.</HIDGun_RD300Pistol.description>
+  <HIDGun_RD300Pistol.tools.0.label>приклад</HIDGun_RD300Pistol.tools.0.label>
+  <HIDGun_RD300Pistol.tools.1.label>barrel</HIDGun_RD300Pistol.tools.1.label>
+  <HIDGun_RD300Pistol.tools.2.label>дуло</HIDGun_RD300Pistol.tools.2.label>
+
+
+  <!-- P250 -->
+
+  <HIDGun_P250SIG.label>P250</HIDGun_P250SIG.label>
+  <HIDGun_P250SIG.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі.</HIDGun_P250SIG.description>
+  <HIDGun_P250SIG.tools.0.label>руків'я</HIDGun_P250SIG.tools.0.label>
+  <HIDGun_P250SIG.tools.1.label>дуло</HIDGun_P250SIG.tools.1.label>
+
+
+  <!-- P320 -->
+
+  <HIDGun_P320SIG.label>P320</HIDGun_P320SIG.label>
+  <HIDGun_P320SIG.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі.</HIDGun_P320SIG.description>
+  <HIDGun_P320SIG.tools.0.label>руків'я</HIDGun_P320SIG.tools.0.label>
+  <HIDGun_P320SIG.tools.1.label>дуло</HIDGun_P320SIG.tools.1.label>
+
+
+  <!-- RIA 1911-A1 -->
+
+  <HIDGun_RIA1911FS.label>RIA Rock Standard FS</HIDGun_RIA1911FS.label>
+  <HIDGun_RIA1911FS.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі.</HIDGun_RIA1911FS.description>
+  <HIDGun_RIA1911FS.tools.0.label>руків'я</HIDGun_RIA1911FS.tools.0.label>
+  <HIDGun_RIA1911FS.tools.1.label>дуло</HIDGun_RIA1911FS.tools.1.label>
+
+
+  <!-- RIA 1911-A2 -->
+
+  <HIDGun_RIA1911FSHC.label>RIA TAC Ultra FS HC</HIDGun_RIA1911FSHC.label>
+  <HIDGun_RIA1911FSHC.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі.</HIDGun_RIA1911FSHC.description>
+  <HIDGun_RIA1911FSHC.tools.0.label>руків'я</HIDGun_RIA1911FSHC.tools.0.label>
+  <HIDGun_RIA1911FSHC.tools.1.label>дуло</HIDGun_RIA1911FSHC.tools.1.label>
+
+
+  <!-- TEC-9 -->
+
+  <HIDGun_TECNine.label>TEC-9</HIDGun_TECNine.label>
+  <HIDGun_TECNine.description>Відносно проста конструкція пістолета з магазином великої місткості..</HIDGun_TECNine.description>
+  <HIDGun_TECNine.tools.0.label>руків'я</HIDGun_TECNine.tools.0.label>
+  <HIDGun_TECNine.tools.1.label>дуло</HIDGun_TECNine.tools.1.label>
+
+  <HIDGun_TECNineMod.label>TEC-9 авто</HIDGun_TECNineMod.label>
+  <HIDGun_TECNineMod.description>Відносно проста конструкція пістолета з магазином великої місткості. Переобладнаний для ведення повністю автоматичного вогню.</HIDGun_TECNineMod.description>
+  <HIDGun_TECNineMod.tools.0.label>руків'я</HIDGun_TECNineMod.tools.0.label>
+  <HIDGun_TECNineMod.tools.1.label>дуло</HIDGun_TECNineMod.tools.1.label>
+
+
+  <!-- KelTec P32 -->
+
+  <HIDGun_P32KelTec.label>KelTec P32</HIDGun_P32KelTec.label>
+  <HIDGun_P32KelTec.description>Легкий напівавтоматичний кишеньковий пістолет. Не дуже корисний на полі бою, але дуже непомітний.</HIDGun_P32KelTec.description>
+  <HIDGun_P32KelTec.tools.0.label>руків'я</HIDGun_P32KelTec.tools.0.label>
+  <HIDGun_P32KelTec.tools.1.label>дуло</HIDGun_P32KelTec.tools.1.label>
+
+
+  <!-- Ruger Mark IV Standard -->
+
+  <HIDGun_RugerMkIV_std.label>Ruger Mark IV Standard</HIDGun_RugerMkIV_std.label>
+  <HIDGun_RugerMkIV_std.description>Легкий напівавтоматичний пістолет. Незважаючи на малопотужний патрон, він залишається одним з найпродуктивніших пістолетів усіх часів.</HIDGun_RugerMkIV_std.description>
+  <HIDGun_RugerMkIV_std.tools.0.label>руків'я</HIDGun_RugerMkIV_std.tools.0.label>
+  <HIDGun_RugerMkIV_std.tools.1.label>дуло</HIDGun_RugerMkIV_std.tools.1.label>
+
+
+  <!-- Ruger Mark IV 22/45 Lite -->
+
+  <HIDGun_RugerMkIV_lite.label>Ruger Mark IV 22/45 Lite</HIDGun_RugerMkIV_lite.label>
+  <HIDGun_RugerMkIV_lite.description>Яскравий точний пістолет для змагань.</HIDGun_RugerMkIV_lite.description>
+  <HIDGun_RugerMkIV_lite.tools.0.label>руків'я</HIDGun_RugerMkIV_lite.tools.0.label>
+  <HIDGun_RugerMkIV_lite.tools.1.label>дуло</HIDGun_RugerMkIV_lite.tools.1.label>
+
+
+  <!-- FN Model 1910 -->
+
+  <HIDGun_FN1910M.label>FN Model 1910</HIDGun_FN1910M.label>
+  <HIDGun_FN1910M.description>Легкий напівавтоматичний кишеньковий пістолет. Не дуже корисний на полі бою, але дуже непомітний.</HIDGun_FN1910M.description>
+  <HIDGun_FN1910M.tools.0.label>руків'я</HIDGun_FN1910M.tools.0.label>
+  <HIDGun_FN1910M.tools.1.label>дуло</HIDGun_FN1910M.tools.1.label>
+
+
+  <!-- Hi-Point Yeet Cannon -->
+
+  <HIDGun_YeetCannon.label>YC9</HIDGun_YeetCannon.label>
+  <HIDGun_YeetCannon.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидко стріляє. Офіційна назва - "Молода гармата", але я нізащо не напишу це як етикетку.</HIDGun_YeetCannon.description>
+  <HIDGun_YeetCannon.tools.0.label>руків'я</HIDGun_YeetCannon.tools.0.label>
+  <HIDGun_YeetCannon.tools.1.label>дуло</HIDGun_YeetCannon.tools.1.label>
+
+
+  <!-- Glock 17 -->
+
+  <HIDGun_Glock17S.label>Glock 17</HIDGun_Glock17S.label>
+  <HIDGun_Glock17S.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі.</HIDGun_Glock17S.description>
+  <HIDGun_Glock17S.tools.0.label>руків'я</HIDGun_Glock17S.tools.0.label>
+  <HIDGun_Glock17S.tools.1.label>дуло</HIDGun_Glock17S.tools.1.label>
+
+  <HIDGun_Glock17A.label>Glock 17 авто</HIDGun_Glock17A.label>
+  <HIDGun_Glock17A.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Має недостатню зупиняючу силу та дальність стрільби, але швидко стріляє. Може стріляти в автоматичному режимі завдяки простій модифікації на задній частині затвора.</HIDGun_Glock17A.description>
+  <HIDGun_Glock17A.tools.0.label>руків'я</HIDGun_Glock17A.tools.0.label>
+  <HIDGun_Glock17A.tools.1.label>дуло</HIDGun_Glock17A.tools.1.label>
+
+
+  <!-- Glock 21 -->
+
+  <HIDGun_Glock21S.label>Glock 21</HIDGun_Glock21S.label>
+  <HIDGun_Glock21S.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі.</HIDGun_Glock21S.description>
+  <HIDGun_Glock21S.tools.0.label>руків'я</HIDGun_Glock21S.tools.0.label>
+  <HIDGun_Glock21S.tools.1.label>дуло</HIDGun_Glock21S.tools.1.label>
+
+  <HIDGun_Glock21A.label>Glock 21 авто</HIDGun_Glock21A.label>
+  <HIDGun_Glock21A.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі. Він може стріляти в автоматичному режимі завдяки простій модифікації на затворі.</HIDGun_Glock21A.description>
+  <HIDGun_Glock21A.tools.0.label>руків'я</HIDGun_Glock21A.tools.0.label>
+  <HIDGun_Glock21A.tools.1.label>дуло</HIDGun_Glock21A.tools.1.label>
+
+
+  <!-- CMMG BANSHEE Mk9 -->
+
+  <HIDGun_CMMGMk9BANSHEE.label>CMMG BANSHEE Mk9</HIDGun_CMMGMk9BANSHEE.label>
+  <HIDGun_CMMGMk9BANSHEE.description>Карабін пістолетного калібру, створений на основі конструкції AR-15, під набій 9мм.</HIDGun_CMMGMk9BANSHEE.description>
+  <HIDGun_CMMGMk9BANSHEE.tools.0.label>приклад</HIDGun_CMMGMk9BANSHEE.tools.0.label>
+  <HIDGun_CMMGMk9BANSHEE.tools.1.label>barrel</HIDGun_CMMGMk9BANSHEE.tools.1.label>
+  <HIDGun_CMMGMk9BANSHEE.tools.2.label>дуло</HIDGun_CMMGMk9BANSHEE.tools.2.label>
+
+
+  <!-- CMMG BANSHEE Mk57 -->
+
+  <HIDGun_CMMGMk57BANSHEE.label>CMMG BANSHEE Mk57</HIDGun_CMMGMk57BANSHEE.label>
+  <HIDGun_CMMGMk57BANSHEE.description>Карабін пістолетного калібру, створений на основі конструкції AR-15, під набій 5.7мм.</HIDGun_CMMGMk57BANSHEE.description>
+  <HIDGun_CMMGMk57BANSHEE.tools.0.label>приклад</HIDGun_CMMGMk57BANSHEE.tools.0.label>
+  <HIDGun_CMMGMk57BANSHEE.tools.1.label>barrel</HIDGun_CMMGMk57BANSHEE.tools.1.label>
+  <HIDGun_CMMGMk57BANSHEE.tools.2.label>дуло</HIDGun_CMMGMk57BANSHEE.tools.2.label>
+
+
+  <!-- FN Five-SeveN -->
+
+  <HIDGun_FiveSeven.label>FN Five-seveN</HIDGun_FiveSeven.label>
+  <HIDGun_FiveSeven.description>Легкий пістолет, який використовує невеликі, але швидкісні боєприпаси для кращого пробивання броні.</HIDGun_FiveSeven.description>
+  <HIDGun_FiveSeven.tools.0.label>руків'я</HIDGun_FiveSeven.tools.0.label>
+  <HIDGun_FiveSeven.tools.1.label>дуло</HIDGun_FiveSeven.tools.1.label>
+
+ <!-- H&K USP -->
+
+  <HIDGun_USP45Std.label>H&amp;K USP45</HIDGun_USP45Std.label>
+  <HIDGun_USP45Std.description>Самозарядний пістолет старовинного зразка з ударно-спусковим механізмом. Йому бракує зупиняючої сили та дальності, але він швидкий у стрільбі.</HIDGun_USP45Std.description>
+  <HIDGun_USP45Std.tools.0.label>grip</HIDGun_USP45Std.tools.0.label>
+  <HIDGun_USP45Std.tools.1.label>muzzle</HIDGun_USP45Std.tools.1.label>
+
+
+  <!-- H&K USP Match -->
+
+  <HIDGun_USP9Match.label>H&amp;K USP9 Match</HIDGun_USP9Match.label>
+  <HIDGun_USP9Match.description>Мішеневий пістолет старовинного зразка. Важкий противагу на стволі допомагає нівелювати віддачу.</HIDGun_USP9Match.description>
+  <HIDGun_USP9Match.tools.0.label>grip</HIDGun_USP9Match.tools.0.label>
+  <HIDGun_USP9Match.tools.1.label>muzzle</HIDGun_USP9Match.tools.1.label>
+
+
+  <!-- 93R -->
+
+  <HIDGun_BerettaM93R.label>93R</HIDGun_BerettaM93R.label>
+  <HIDGun_BerettaM93R.description>Мікропістолет-кулемет. Він короткоствольний, але дуже легкий в руках. Швидкість стрільби, як правило, компенсує його слабкість.</HIDGun_BerettaM93R.description>
+  <HIDGun_BerettaM93R.tools.0.label>руків'я</HIDGun_BerettaM93R.tools.0.label>
+  <HIDGun_BerettaM93R.tools.1.label>дуло</HIDGun_BerettaM93R.tools.1.label>
+
+
+  <!-- vz. 61 -->
+
+  <HIDGun_vz61Skorpion.label>Škorpion vz. 61</HIDGun_vz61Skorpion.label>
+  <HIDGun_vz61Skorpion.description>Мікропістолет-кулемет. Він короткоствольний, але дуже легкий в руках. Швидкість стрільби, як правило, компенсує його слабкість.</HIDGun_vz61Skorpion.description>
+  <HIDGun_vz61Skorpion.tools.0.label>руків'я</HIDGun_vz61Skorpion.tools.0.label>
+  <HIDGun_vz61Skorpion.tools.1.label>дуло</HIDGun_vz61Skorpion.tools.1.label>
+
+
+</LanguageData>

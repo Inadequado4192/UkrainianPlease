@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--high on blisscap-->
+  <VPE_AteBlisscap.stages.high_on_blisscap.label>{PAWN_gender ? кайфанув : кайфанула} «блаженством»</VPE_AteBlisscap.stages.high_on_blisscap.label>
+  <!--Oh man, I’m trippin’.-->
+  <VPE_AteBlisscap.stages.high_on_blisscap.description>О курва, мене вште... вштш... вштири-ло.</VPE_AteBlisscap.stages.high_on_blisscap.description>
+</LanguageData>

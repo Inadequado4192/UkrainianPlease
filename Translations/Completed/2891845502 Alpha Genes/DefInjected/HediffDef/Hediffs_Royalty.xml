@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic invisibility -->
+  <AG_Invisibility.label>пси-невидимість</AG_Invisibility.label>
+  <!-- EN: todo. -->
+  <AG_Invisibility.description>todo. (це не помилка, опис відсутній)</AG_Invisibility.description>
+  
+  <!-- EN: psychic insanity -->
+  <AG_PsychicInsanity.label>психічне божевілля</AG_PsychicInsanity.label>
+  <!-- EN: This person has psychic powers that depend on their mood. With low moods, and thus higher break risk, they'll have psychic bonuses. With a Catharsis, these bonuses will be even higher (even if the mood is increased during Catharsis). -->
+  <AG_PsychicInsanity.description>Ця людина має екстрасенсорні здібності, які залежать від її настрою. При поганому настрої, а отже, при підвищеному ризику зриву, вона матиме пси-бонуси. Під час катарсису ці бонуси будуть ще вищими (навіть якщо настрій під час катарсису підвищується).</AG_PsychicInsanity.description>
+  <!-- EN: no effect -->
+  <AG_PsychicInsanity.stages.no_effect.label>немає ефекту</AG_PsychicInsanity.stages.no_effect.label>
+  <!-- EN: cathartic -->
+  <AG_PsychicInsanity.stages.cathartic.label>катарсис</AG_PsychicInsanity.stages.cathartic.label>
+  <!-- EN: extreme -->
+  <AG_PsychicInsanity.stages.extreme.label>екстремальний</AG_PsychicInsanity.stages.extreme.label>
+  <!-- EN: major -->
+  <AG_PsychicInsanity.stages.major.label>сильний</AG_PsychicInsanity.stages.major.label>
+  <!-- EN: minor -->
+  <AG_PsychicInsanity.stages.minor.label>незначний</AG_PsychicInsanity.stages.minor.label>
+  
+  <!-- EN: psychic sight -->
+  <AG_PsychicSight.label>пси-зір</AG_PsychicSight.label>
+  <!-- EN: This person is completely blind... until they gain psychic powers. They can direct their inner psychic sight and gain even better insight the more power they acquire. -->
+  <AG_PsychicSight.description>Ця людина повністю сліпа... до тих пір, поки не отримає пси-здібності. Вона може спрямовувати свій внутрішній пси-зір і отримувати ще кращі прозріння, чим більше сили вона набуває.</AG_PsychicSight.description>
+  
+</LanguageData>

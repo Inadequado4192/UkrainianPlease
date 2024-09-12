@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VAE_CasualWear.label>повсякденний одяг</VAE_CasualWear.label>
+  <VAE_CasualWear.description>Шийте повсякденний одяг зі зручними функціями для будь-якої життєвої ситуації.</VAE_CasualWear.description>
+
+  <VAE_FormalWear.label>офіційний одяг</VAE_FormalWear.label>
+  <VAE_FormalWear.description>Шийте костюми та офіційний одяг.</VAE_FormalWear.description>
+
+  <VAE_WorkAttire.label>робочий одяг</VAE_WorkAttire.label>
+  <VAE_WorkAttire.description>Шийте зручний та функціональний одяг для будь-якої роботи.</VAE_WorkAttire.description>
+
+  <VAE_SterileAttire.label>стерильний одяг</VAE_SterileAttire.label>
+  <VAE_SterileAttire.description>Шийте стерильний одяг, що використовується лікарями та науковцями.</VAE_SterileAttire.description>
+
+  <VAE_MilitaryClothing.label>військова форма</VAE_MilitaryClothing.label>
+  <VAE_MilitaryClothing.description>Шийте всепогодні костюми, щоб захистити своїх солдатів.</VAE_MilitaryClothing.description>
+</LanguageData>

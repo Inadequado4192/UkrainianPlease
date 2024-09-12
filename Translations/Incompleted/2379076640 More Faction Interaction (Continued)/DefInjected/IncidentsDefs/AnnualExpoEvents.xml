@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <MFI_GameOfUrComp.label>Змагання "Гра Ур"</MFI_GameOfUrComp.label>
+    <MFI_GameOfUrComp.theme>Королівська гра Ур</MFI_GameOfUrComp.theme>
+    <MFI_GameOfUrComp.themeDesc>Надішліть свого найкращого гравця.\n\nДля цієї виставки необхідний досвід у "Соціальність" та "Дослідження"</MFI_GameOfUrComp.themeDesc>
+    <MFI_GameOfUrComp.outComeFirstPlace>Завдяки вмінню, сталевим нервам і добрій долі, [PAWN_nameDef] виграв турнір! Ваша винагорода за участь: \n\n{0}</MFI_GameOfUrComp.outComeFirstPlace>
+    <MFI_GameOfUrComp.outcomeFirstLoser>У напруженому фінальному раунді [PAWN_nameDef] змагався з п'ятирічним чемпіоном і програв. Ваша винагорода за участь: \n\n{0}</MFI_GameOfUrComp.outcomeFirstLoser>
+    <MFI_GameOfUrComp.outComeFirstOther>Під час другого інінгу п'ятого раунду [PAWN_nameDef] зробив хід, який заплутав супротивника і зачарував суддів. Розуміється, розпочалась величезна бійка. Ваша винагорода за участь: \n\n{0}</MFI_GameOfUrComp.outComeFirstOther>
+
+    <MFI_ShootingComp.label>Стрільбище</MFI_ShootingComp.label>
+    <MFI_ShootingComp.theme>змагання по стрільбі</MFI_ShootingComp.theme>
+    <MFI_ShootingComp.themeDesc>Надішліть свій кращий постріл.\n\nДля цієї виставки необхідний досвід у "Стрільба"</MFI_ShootingComp.themeDesc>
+    <MFI_ShootingComp.outComeFirstPlace>З майже роботичною точністю [PAWN_nameDef] прицілився і попав у всі цілі з точністю до міліметра. Судді були дуже вражені і винагородили вас: \n\n{0}</MFI_ShootingComp.outComeFirstPlace>
+    <MFI_ShootingComp.outcomeFirstLoser>Цього року був сильний контингент учасників, багато представників фракцій жили як мисливці або просто мали (архотехнічні) біоніки. [PAWN_nameDef] вибув в чвертьфіналі. Ваша винагорода за участь: \n\n{0}</MFI_ShootingComp.outcomeFirstLoser>
+    <MFI_ShootingComp.outComeFirstOther>[PAWN_nameDef] не пройшов далі першого раунду, який складався з "попади у бік стодоли". Цей етап додали як жарт десять років тому. [PAWN_nameDef] став першим, хто не пройшов до другого раунду з тих пір, як він був запроваджений. Ваша винагорода за участь: \n\n{0}\n\n Здається, це відображає майстерність [PAWN_nameDef] як стрільця.</MFI_ShootingComp.outComeFirstOther>
+
+    <MFI_CulturalSwap.label>Культурний обмін</MFI_CulturalSwap.label>
+    <MFI_CulturalSwap.theme>культура і мистецтво</MFI_CulturalSwap.theme>
+    <MFI_CulturalSwap.themeDesc>Тут може бути можливість для торгівлі.\n\nДля цієї виставки необхідний досвід у "Соціальність" та "Мистецтво"</MFI_CulturalSwap.themeDesc>
+    <MFI_CulturalSwap.outComeFirstPlace>Після того, як останні промені світла повільно згасли, [PAWN_nameDef] просто сів на гранітний стілець і розповів про своє виховання як [PAWN_title]. Ця проста історія і, що ще важливіше, атмосфера, яку створив [PAWN_pronoun], були високо оцінені суддями за їхню близькість, оригінальність і хоробрість. Ваша винагорода за участь: \n\n{0}</MFI_CulturalSwap.outComeFirstPlace>
+    <MFI_CulturalSwap.outcomeFirstLoser>Не бувши краще підготовленими і не маючи з собою нічого, ваша караван зібрався на співочому і танцювальному виступі, в якому [PAWN_nameDef] виступив на першому місці. Вистава не була добре репетиційована, і це відбивалося на виконанні. Не всі учасники фракцій могли оцінити імпровізоване шоу, але це була цінна спроба. Ваша винагорода за участь: \n\n{0}</MFI_CulturalSwap.outcomeFirstLoser>
+    <MFI_CulturalSwap.outComeFirstOther>Господарська фракція змусила аудиторію плакати своїм дивовижним виступом: драматичним відтворенням відкриття гірського хребта Білий Кролик. Це було трогательне театральне дійство, що перетнуло мовні бар'єри і доторкнулося до сердець молодих і старих. \n\nА потім була ваша трупа. Ваша винагорода за участь: \n\n{0}</MFI_CulturalSwap.outComeFirstOther>
+
+    <MFI_ScienceFaire.label>Науковий ярмарок</MFI_ScienceFaire.label>
+    <MFI_ScienceFaire.theme>обмін науковими відкриттями\n\nДля цієї виставки необхідний досвід у "Дослідження"</MFI_ScienceFaire.theme>
+    <MFI_ScienceFaire.themeDesc>Захоплююче!</MFI_ScienceFaire.themeDesc>
+    <MFI_ScienceFaire.outComeFirstPlace>Легко освоївшись, могутній оратор і великий учений пояснює вам нещо про складності Всесвіту. Замість цього він розкриває його простоту: \n\n{0}</MFI_ScienceFaire.outComeFirstPlace>
+    <MFI_ScienceFaire.outcomeFirstLoser>Ваш караван вперся між членами групи під назвою "цінителі науки". Вони дарують вам дар знань: \n\n{0}</MFI_ScienceFaire.outcomeFirstLoser>
+    <MFI_ScienceFaire.outComeFirstOther>Втомившись від довгого шляху, учасники вашого каравану мають труднощі з тим, щоб залишитися бадьорими під час довгого і напруженого лекційного заходу відомого професора. Як подарунок на прощання вам вручають: \n\n{0}</MFI_ScienceFaire.outComeFirstOther>
+
+    <MFI_AcousticShow.label>Акустична виставка</MFI_AcousticShow.label>
+    <MFI_AcousticShow.theme>акустична виставка</MFI_AcousticShow.theme>
+    <MFI_AcousticShow.themeDesc>Ви думаєте, чи брати з собою беруші.\n\nДля цієї виставки необхідний досвід у "Мистецтво"</MFI_AcousticShow.themeDesc>
+    <MFI_AcousticShow.outComeFirstPlace>Ваш караван провів день гуляючи між лавками і захоплюючись широким вибором еклектичних неелектричних музичних інструментів з усього світу і поза ним. По настанні сутінків, коли люди зібрались зі своїми інструментами, на головній сцені був проведений інтимний концерт. Він підняв настрій учасникам вашого каравану. Ваша винагорода за участь: \n\n{0}</MFI_AcousticShow.outComeFirstPlace>
+    <MFI_AcousticShow.outcomeFirstLoser>Виставка виявилася дуже затишною зустріччю, присвяченою імпровізації на гітарах. Хтось зіграв Wonderwall, але крім цього був досить спокійний вечір, який підняв настрій всім. Ваша винагорода за участь: \n\n{0}</MFI_AcousticShow.outcomeFirstLoser>
+    <MFI_AcousticShow.outComeFirstOther>Один із учасників вашого каравану підхопив інструмент, який не належав йому, і, не вміючи грати на музичних інструментах, зламав струну. Перепрошення були прийняті, але цього було недостатньо: ваш незграбний учасник каравану мав працювати як рука на сцені в ніч вистави. Так як всі все одно гарно провели час, йому дали залишки після-партії: \n\n{0}</MFI_AcousticShow.outComeFirstOther>
+</LanguageData>

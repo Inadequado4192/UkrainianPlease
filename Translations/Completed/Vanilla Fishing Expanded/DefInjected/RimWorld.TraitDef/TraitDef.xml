@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--fisherman-->
+  <VCEF_Fisherman.degreeDatas.fisherman.label>рибалка</VCEF_Fisherman.degreeDatas.fisherman.label>
+  <!--{PAWN_nameDef} enjoys the solitude and tranquility inherent to long fishing sessions. {PAWN_pronoun} will prefer fishing above other activities.-->
+  <VCEF_Fisherman.degreeDatas.fisherman.description>{PAWN_nameDef} насолоджується усамітненням і спокоєм, притаманними довгим риболовлям. {PAWN_pronoun} віддає перевагу риболовлі перед іншими видами діяльності.</VCEF_Fisherman.degreeDatas.fisherman.description>
+</LanguageData>

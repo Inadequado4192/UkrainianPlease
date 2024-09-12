@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fogger -->
+  <AG_Fogger.label>туманоутворювач</AG_Fogger.label>
+  <!-- EN: A distributed cloud of mechanites is interwoven with the DNA of the carrier. These mechanites have the ability of influencing the humidity levels of the surrounding atmosphere, causing a deep, thick fog to coalesce around. -->
+  <AG_Fogger.description>Розподілена хмара механітів переплітається з ДНК носія. Ці механіти мають здатність впливати на рівень вологості навколишньої атмосфери, спричиняючи глибокий, густий туман, що згущується навколо.</AG_Fogger.description>
+  
+  <!-- EN: rainmaker -->
+  <AG_RainMaker.label>чудотворець</AG_RainMaker.label>
+  <!-- EN: A distributed cloud of mechanites is interwoven with the DNA of the carrier. These mechanites have the ability of drastically lowering the atmospheric pressure around, causing constant precipitation. -->
+  <AG_RainMaker.description>Розподілена хмара механітів переплітається з ДНК носія. Ці механіти мають здатність різко знижувати атмосферний тиск навколо, викликаючи постійні опади.</AG_RainMaker.description>
+  
+</LanguageData>

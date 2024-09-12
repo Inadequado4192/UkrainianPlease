@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--prepare simple stew-->
+  <VCE_CookStewSimple.label>підготувати просте тушковане м'ясо</VCE_CookStewSimple.label>
+  <!--Prepare a simple uncooked stew quickly made from a few ingredients.-->
+  <VCE_CookStewSimple.description>Підготувати просте тушковане м'ясо, яке швидко готується з кількох інгредієнтів.</VCE_CookStewSimple.description>
+  <!--Preparing simple stew.-->
+  <VCE_CookStewSimple.jobString>Підготовує просте тушковане м'ясо.</VCE_CookStewSimple.jobString>
+  
+  <!--prepare fine stew-->
+  <VCE_CookStewFine.label>підготувати вишукане тушковане м'ясо</VCE_CookStewFine.label>
+  <!--Prepare a fine uncooked stew assembled with care from a wide selection of ingredients.-->
+  <VCE_CookStewFine.description>Підготувати складне тушковане м'ясо, виготовлене із ретельно відібраного асортименту інгредієнтів.</VCE_CookStewFine.description>
+  <!--Preparing fine stew.-->
+  <VCE_CookStewFine.jobString>Підготовує вишукане тушковане м'ясо.</VCE_CookStewFine.jobString>
+  
+  <!--prepare lavish stew-->
+  <VCE_CookStewLavish.label>підготувати розкішне тушковане м'ясо</VCE_CookStewLavish.label>
+  <!--Prepare a lavish uncooked stew. A masterpiece of the culinary arts, this stew nourishes the body, mind, and soul.-->
+  <VCE_CookStewLavish.description>Підготувати шедевр кулінарного мистецтва, це тушковане м'ясо живить тіло, розум і душу.</VCE_CookStewLavish.description>
+  <!--Preparing lavish Stew.-->
+  <VCE_CookStewLavish.jobString>Підготовує розкішне тушковане м'ясо.</VCE_CookStewLavish.jobString>
+</LanguageData>

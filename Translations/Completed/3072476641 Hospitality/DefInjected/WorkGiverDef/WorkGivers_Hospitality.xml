@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Recruiter.label>вербувати відвідувачів та ув'язнених</Recruiter.label>
+  <Recruiter.verb>вербувати</Recruiter.verb>
+  <Recruiter.gerund>вербування</Recruiter.gerund>
+
+  <Diplomat.label>розваги для гостей</Diplomat.label>
+  <Diplomat.verb>engage</Diplomat.verb>
+  <Diplomat.gerund>engaging</Diplomat.gerund>
+
+  <Hospitality_WithdrawVendingMachineEarnings.label>порожній торговий автомат</Hospitality_WithdrawVendingMachineEarnings.label>
+  <Hospitality_WithdrawVendingMachineEarnings.verb>порожній торговий автомат</Hospitality_WithdrawVendingMachineEarnings.verb>
+  <Hospitality_WithdrawVendingMachineEarnings.gerund>спустошення торгового автомату</Hospitality_WithdrawVendingMachineEarnings.gerund>
+
+
+</LanguageData>

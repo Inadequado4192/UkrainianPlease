@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: half synthetic head -->
+  <AG_HalfSyntheticHead.label>наполовину синтетична голова</AG_HalfSyntheticHead.label>
+  <!-- EN: Androids with this hardware have a synthetic face with remarkably normal looking human eyes. -->
+  <AG_HalfSyntheticHead.description>Андроїди з таким обладнанням мають синтетичне обличчя з напрочуд нормальними людськими очима.</AG_HalfSyntheticHead.description>
+  
+    <!-- EN: killer droid head -->
+  <AG_KillerDroidHead.label>голова дроїда-вбивці</AG_KillerDroidHead.label>
+  <!-- EN: Androids with this hardware have a completely inhuman, robotic face. -->
+  <AG_KillerDroidHead.description>Андроїди з таким обладнанням мають абсолютно нелюдське, роботизоване обличчя.</AG_KillerDroidHead.description>
+  <!-- EN: Using this with other cosmetic genes may look weird. -->
+  <AG_KillerDroidHead.customEffectDescriptions.0>Використання його з іншими косметичними генами може виглядати дивно.</AG_KillerDroidHead.customEffectDescriptions.0>
+
+  <!-- EN: LED light, blue -->
+  <AG_LightLED.label>світлодіодне світло, синій</AG_LightLED.label>
+  <!-- EN: Androids with this hardware have a blue LED in the side of their heads, betraying their synthetic nature. -->
+  <AG_LightLED.description>Андроїди з таким обладнанням мають синій світлодіод збоку на голові, що видає їхню синтетичну природу.</AG_LightLED.description>
+
+  <!-- EN: LED light, red -->
+  <AG_LightLEDRed.label>світлодіодне світло, червоне</AG_LightLEDRed.label>
+  <!-- EN: Androids with this hardware have a red LED in the side of their heads, betraying their synthetic nature. -->
+  <AG_LightLEDRed.description>Андроїди з таким обладнанням мають червоний світлодіод збоку на голові, що видає їхню синтетичну природу.</AG_LightLEDRed.description>
+
+  <!-- EN: mech antenna -->
+  <AG_MechAntenna.label>мех-антена</AG_MechAntenna.label>
+  <!-- EN: Androids with this hardware have a mech antenna on their heads. -->
+  <AG_MechAntenna.description>Андроїди з цим обладнанням мають мех-антену на голові.</AG_MechAntenna.description>
+
+  <!-- EN: plastic body -->
+  <AG_RoboticBodyPlastic.label>тіло з пластику</AG_RoboticBodyPlastic.label>
+  <!-- EN: Androids with this hardware have a plastic looking body. -->
+  <AG_RoboticBodyPlastic.description>Андроїди з цим обладнанням мають пластиковий корпус.</AG_RoboticBodyPlastic.description>
+
+  <!-- EN: robotic body -->
+  <AG_RoboticBodySkeletal.label>роботизоване тіло</AG_RoboticBodySkeletal.label>
+  <!-- EN: Androids with this hardware have a purely robotic looking body. -->
+  <AG_RoboticBodySkeletal.description>Андроїди з таким обладнанням мають суто робототехнічний вигляд.</AG_RoboticBodySkeletal.description>
+
+  <!-- EN: servant droid head -->
+  <AG_ServantDroidHead.label>голова слуги-дроїда</AG_ServantDroidHead.label>
+  <!-- EN: Androids with this hardware have a completely inhuman, robotic face. -->
+  <AG_ServantDroidHead.description>Андроїди з таким обладнанням мають абсолютно нелюдське, роботизоване обличчя.</AG_ServantDroidHead.description>
+  <!-- EN: Using this with other cosmetic genes may look weird. -->
+  <AG_ServantDroidHead.customEffectDescriptions.0>Використання його з іншими косметичними генами може виглядати дивно.</AG_ServantDroidHead.customEffectDescriptions.0>
+
+  <!-- EN: worker droid head -->
+  <AG_WorkerDroidHead.label>голова робочого дроїда</AG_WorkerDroidHead.label>
+  <!-- EN: Androids with this hardware have a completely inhuman, robotic face. -->
+  <AG_WorkerDroidHead.description>Андроїди з таким обладнанням мають абсолютно нелюдське, роботизоване обличчя.</AG_WorkerDroidHead.description>
+  <!-- EN: Using this with other cosmetic genes may look weird. -->
+  <AG_WorkerDroidHead.customEffectDescriptions.0>Використання його з іншими косметичними генами може виглядати дивно.</AG_WorkerDroidHead.customEffectDescriptions.0>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ritual Outcome -->
+
+  <AM_BlastOffFuneralOutcome.description>Залежно від якості ритуалу, учасники отримають від {MINMOOD} до {MAXMOOD} настрій на {MOODDAYS} днів.</AM_BlastOffFuneralOutcome.description>
+  <AM_BlastOffFuneralOutcome.outcomeChances.0.label>Жахливо</AM_BlastOffFuneralOutcome.outcomeChances.0.label>
+  <AM_BlastOffFuneralOutcome.outcomeChances.0.description>{0} пройшло жахливо! Тіло впало на сусіднє поселення, яке зараз розлючене.</AM_BlastOffFuneralOutcome.outcomeChances.0.description>
+  <AM_BlastOffFuneralOutcome.outcomeChances.1.label>Нудно</AM_BlastOffFuneralOutcome.outcomeChances.1.label>
+  <AM_BlastOffFuneralOutcome.outcomeChances.1.description>{0} пройшло нудно. Ми думаємо, що тіло навіть не досягло атмосфери! Дехто клянеться, що бачив, як воно повернулося.</AM_BlastOffFuneralOutcome.outcomeChances.1.description>
+  <AM_BlastOffFuneralOutcome.outcomeChances.2.label>Добре</AM_BlastOffFuneralOutcome.outcomeChances.2.label>
+  <AM_BlastOffFuneralOutcome.outcomeChances.2.description>{0} пройшло Добре. Заключні слова спікера були задоволені, а запах хімічного палива був ідеальним проводжанням.</AM_BlastOffFuneralOutcome.outcomeChances.2.description>
+  <AM_BlastOffFuneralOutcome.outcomeChances.3.label>Неймовірно</AM_BlastOffFuneralOutcome.outcomeChances.3.label>
+  <AM_BlastOffFuneralOutcome.outcomeChances.3.description> {0} пройшло неймовірно. Промова була захоплюючою і щирою, і ми клянемося, що бачили, як капсула досягла сонця.</AM_BlastOffFuneralOutcome.outcomeChances.3.description>
+  <AM_BlastOffFuneralOutcome.comps.0.label>моральний орієнтир присутній</AM_BlastOffFuneralOutcome.comps.0.label>
+  <AM_BlastOffFuneralOutcome.comps.1.label>кількість учасників</AM_BlastOffFuneralOutcome.comps.1.label>
+
+
+</LanguageData>

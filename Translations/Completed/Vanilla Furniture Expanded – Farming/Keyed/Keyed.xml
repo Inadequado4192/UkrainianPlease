@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFEF_CommandMakeCompAreaDesc>Автоматично позначити вказану область навколо цього: {0}.</VFEF_CommandMakeCompAreaDesc>
+  <VFEF_CommandMakeCompAreaLabel>Створити зону годівлі</VFEF_CommandMakeCompAreaLabel>
+  <VFEF_ScarecrowGizmo>Відклякувати тварин поселення</VFEF_ScarecrowGizmo>
+  <VFEF_ScarecrowGizmoText>Дозвольте, якщо хочете, щоб опудало також відлякувало приручених тварин</VFEF_ScarecrowGizmoText>
+</LanguageData>

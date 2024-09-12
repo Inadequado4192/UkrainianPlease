@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_RelicDestruction_Desired.stages.0.label>знищили реліквію</AM_RelicDestruction_Desired.stages.0.label>
+  <AM_RelicDestruction_Desired.stages.0.description>Ми знищили реліквію. Приємно позбутися таких непристойних ідолів.</AM_RelicDestruction_Desired.stages.0.description>
+  <AM_RelicDestruction_Desired.stages.1.label>знищили дві реліквії</AM_RelicDestruction_Desired.stages.1.label>
+  <AM_RelicDestruction_Desired.stages.1.description>Ми знищили дві реліквії. Ми не заспокоїмося, поки не знищимо всі фальшиві зображення.</AM_RelicDestruction_Desired.stages.1.description>
+  <AM_RelicDestruction_Desired.stages.2.label>знищили три або більше реліквій</AM_RelicDestruction_Desired.stages.2.label>
+  <AM_RelicDestruction_Desired.stages.2.description>Ми знищили три і більше реліквій. Весь світ буде очищений від таких непристойних зображень.</AM_RelicDestruction_Desired.stages.2.description>
+
+
+</LanguageData>

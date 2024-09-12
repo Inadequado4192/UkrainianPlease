@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was a weapon to silence whoever they were pointed at. [PAWN_pronoun] is utterly lethal with a blade, but cares little for what it actually cuts into. As long as it hits something fleshy, [PAWN_pronoun] is satisfied. -->
+  <ReviaRaceBackstoryAdultAssassin.baseDesc>[PAWN_nameDef] {PAWN_gender ? був : була} зброєю, щоб змусити замовкнути того, на кого {PAWN_gender ? він був спрямований : вона була спрямована}. [PAWN_pronoun] абсолютно {PAWN_gender ? смертоносний : смертоносна} з лезом, але мало переймається тим, що саме [PAWN_pronoun] розрізає. Поки [PAWN_pronoun] влучає у щось м'ясисте, [PAWN_pronoun] {PAWN_gender ? задоволений : задоволена}.</ReviaRaceBackstoryAdultAssassin.baseDesc>
+  <!-- EN: Revian Assassin -->
+  <ReviaRaceBackstoryAdultAssassin.title>Ревійський Убивця</ReviaRaceBackstoryAdultAssassin.title>
+  <!-- EN: Assassin -->
+  <ReviaRaceBackstoryAdultAssassin.titleShort>Убивця</ReviaRaceBackstoryAdultAssassin.titleShort>
+  
+</LanguageData>

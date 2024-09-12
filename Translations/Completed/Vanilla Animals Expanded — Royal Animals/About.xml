@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Animals Expanded — Royal Animals</name>
+        <id>2858079457</id>
+        <packageId>vanillaexpanded.vaeroy</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3205935898</sourceTranslationId>
+    <lastUpdate>2024-03-30T03:24:24.000Z</lastUpdate>
+</TranslationDetails>

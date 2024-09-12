@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_Structure_Atheist.label>атеїзм</AM_Structure_Atheist.label>
+  <AM_Structure_Atheist.description>Немає ніяких богів, ніяких надприродних істот, які б спрямовували наш шлях чи наглядали за нами. Непіддатливі фальсифікації концепції не можуть бути основою для раціонального суспільства.</AM_Structure_Atheist.description>
+  <AM_Structure_Atheist.generalRules.rulesStrings.0>memeAdjective-&gt;атеїст</AM_Structure_Atheist.generalRules.rulesStrings.0>
+  <AM_Structure_Atheist.generalRules.rulesStrings.1>memeAdjective-&gt;безбожний</AM_Structure_Atheist.generalRules.rulesStrings.1>
+  <AM_Structure_Atheist.generalRules.rulesStrings.2>memeAdjective-&gt;нерелігійний</AM_Structure_Atheist.generalRules.rulesStrings.2>
+  <AM_Structure_Atheist.generalRules.rulesStrings.3>memeAdjective-&gt;безрелігійний</AM_Structure_Atheist.generalRules.rulesStrings.3>
+  <AM_Structure_Atheist.generalRules.rulesStrings.4>memeAdjective-&gt;невіруючий</AM_Structure_Atheist.generalRules.rulesStrings.4>
+  <AM_Structure_Atheist.generalRules.rulesStrings.5>memeAdjective-&gt;світський</AM_Structure_Atheist.generalRules.rulesStrings.5>
+  <AM_Structure_Atheist.generalRules.rulesStrings.6>memeLeaderNoun-&gt;наглядач</AM_Structure_Atheist.generalRules.rulesStrings.6>
+  <AM_Structure_Atheist.generalRules.rulesStrings.7>memeLeaderNoun-&gt;теоретик</AM_Structure_Atheist.generalRules.rulesStrings.7>
+  <AM_Structure_Atheist.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;світський</AM_Structure_Atheist.generalRules.rulesStrings.8>
+  <AM_Structure_Atheist.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;світський</AM_Structure_Atheist.generalRules.rulesStrings.9>
+  <AM_Structure_Atheist.generalRules.rulesStrings.10>memeMoralist-&gt;теоретичний</AM_Structure_Atheist.generalRules.rulesStrings.10>
+  <AM_Structure_Atheist.generalRules.rulesStrings.11>memeMoralist-&gt;мислитель</AM_Structure_Atheist.generalRules.rulesStrings.11>
+  <AM_Structure_Atheist.generalRules.rulesStrings.12>memeMoralist-&gt;мораліст</AM_Structure_Atheist.generalRules.rulesStrings.12>
+  <AM_Structure_Atheist.generalRules.rulesStrings.13>memeMoralist-&gt;спекулянт</AM_Structure_Atheist.generalRules.rulesStrings.13>
+  <AM_Structure_Atheist.generalRules.rulesStrings.14>memeMoralist-&gt;теоретик</AM_Structure_Atheist.generalRules.rulesStrings.14>
+  <AM_Structure_Atheist.generalRules.rulesStrings.15>memeMoralist-&gt;академічний</AM_Structure_Atheist.generalRules.rulesStrings.15>
+  <AM_Structure_Atheist.generalRules.rulesStrings.16>memeMoralist-&gt;діалектичний</AM_Structure_Atheist.generalRules.rulesStrings.16>
+  <AM_Structure_Atheist.symbolPacks.0.adjective>атеїст</AM_Structure_Atheist.symbolPacks.0.adjective>
+
+  <AM_Structure_Jewish.label>єврейське походження</AM_Structure_Jewish.label>
+  <AM_Structure_Jewish.description>Ця ідеологія є нащадком стародавнього юдаїзму. Вона може мати зовсім інші заповіді, ніж ті, що були тисячі років тому, але її символи схожі.</AM_Structure_Jewish.description>
+  <AM_Structure_Jewish.generalRules.rulesStrings.0>memeAdjective-&gt;традиційний</AM_Structure_Jewish.generalRules.rulesStrings.0>
+  <AM_Structure_Jewish.generalRules.rulesStrings.1>memeAdjective-&gt;православний</AM_Structure_Jewish.generalRules.rulesStrings.1>
+  <AM_Structure_Jewish.generalRules.rulesStrings.2>memeAdjective-&gt;раввинський</AM_Structure_Jewish.generalRules.rulesStrings.2>
+  <AM_Structure_Jewish.generalRules.rulesStrings.3>memeAdjective-&gt;духовний</AM_Structure_Jewish.generalRules.rulesStrings.3>
+  <AM_Structure_Jewish.generalRules.rulesStrings.4>memeLeaderNoun-&gt;раввин</AM_Structure_Jewish.generalRules.rulesStrings.4>
+  <AM_Structure_Jewish.generalRules.rulesStrings.5>memeLeaderNoun-&gt;раввин</AM_Structure_Jewish.generalRules.rulesStrings.5>
+  <AM_Structure_Jewish.generalRules.rulesStrings.6>memeLeaderAdjective-&gt;мудрий</AM_Structure_Jewish.generalRules.rulesStrings.6>
+  <AM_Structure_Jewish.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;розсудливо</AM_Structure_Jewish.generalRules.rulesStrings.7>
+  <AM_Structure_Jewish.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;поважний</AM_Structure_Jewish.generalRules.rulesStrings.8>
+  <AM_Structure_Jewish.generalRules.rulesStrings.9>memeMoralist-&gt;Кохен</AM_Structure_Jewish.generalRules.rulesStrings.9>
+  <AM_Structure_Jewish.generalRules.rulesStrings.10>memeMoralist-&gt;хаззан</AM_Structure_Jewish.generalRules.rulesStrings.10>
+  <AM_Structure_Jewish.generalRules.rulesStrings.11>memeMoralist-&gt;кохейн</AM_Structure_Jewish.generalRules.rulesStrings.11>
+  <AM_Structure_Jewish.generalRules.rulesStrings.12>memeMoralist-&gt;габбай</AM_Structure_Jewish.generalRules.rulesStrings.12>
+  <AM_Structure_Jewish.symbolPacks.0.adjective>єврейський</AM_Structure_Jewish.symbolPacks.0.adjective>
+
+  <AM_Structure_Jainism.label>індуїстське походження</AM_Structure_Jainism.label>
+  <AM_Structure_Jainism.description>Ця ідеологія є нащадком давньго індуїзму. Вона може мати зовсім інші заповіді, ніж ті, що були тисячі років тому, але її символи схожі.</AM_Structure_Jainism.description>
+  <AM_Structure_Jainism.generalRules.rulesStrings.0>memeAdjective-&gt;пацифістський</AM_Structure_Jainism.generalRules.rulesStrings.0>
+  <AM_Structure_Jainism.generalRules.rulesStrings.1>memeAdjective-&gt;ненасильницький</AM_Structure_Jainism.generalRules.rulesStrings.1>
+  <AM_Structure_Jainism.generalRules.rulesStrings.2>memeAdjective-&gt;жебрак</AM_Structure_Jainism.generalRules.rulesStrings.2>
+  <AM_Structure_Jainism.generalRules.rulesStrings.3>memeLeaderNoun-&gt;ачарья</AM_Structure_Jainism.generalRules.rulesStrings.3>
+  <AM_Structure_Jainism.generalRules.rulesStrings.4>memeLeaderNoun-&gt;тиртханкара</AM_Structure_Jainism.generalRules.rulesStrings.4>
+  <AM_Structure_Jainism.generalRules.rulesStrings.5>memeLeaderNoun-&gt;Джина</AM_Structure_Jainism.generalRules.rulesStrings.5>
+  <AM_Structure_Jainism.generalRules.rulesStrings.6>memeLeaderAdjective-&gt;навчений</AM_Structure_Jainism.generalRules.rulesStrings.6>
+  <AM_Structure_Jainism.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;аскетичний</AM_Structure_Jainism.generalRules.rulesStrings.7>
+  <AM_Structure_Jainism.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;шановний</AM_Structure_Jainism.generalRules.rulesStrings.8>
+  <AM_Structure_Jainism.generalRules.rulesStrings.9>memeMoralist-&gt;наставник</AM_Structure_Jainism.generalRules.rulesStrings.9>
+  <AM_Structure_Jainism.generalRules.rulesStrings.10>memeMoralist-&gt;стхавіра</AM_Structure_Jainism.generalRules.rulesStrings.10>
+  <AM_Structure_Jainism.generalRules.rulesStrings.11>memeMoralist-&gt;правартака</AM_Structure_Jainism.generalRules.rulesStrings.11>
+  <AM_Structure_Jainism.generalRules.rulesStrings.12>memeMoralist-&gt;паньяса</AM_Structure_Jainism.generalRules.rulesStrings.12>
+  <AM_Structure_Jainism.symbolPacks.0.adjective>джайнізм</AM_Structure_Jainism.symbolPacks.0.adjective>
+
+  <AM_Structure_Sikhism.label>Сикхське походження</AM_Structure_Sikhism.label>
+  <AM_Structure_Sikhism.description>Ця ідеологія є нащадком стародавнього сикхізму. Вона може мати зовсім інші заповіді, ніж ті, що були тисячі років тому, але її символи схожі.</AM_Structure_Sikhism.description>
+  <AM_Structure_Sikhism.generalRules.rulesStrings.0>memeAdjective-&gt;істинний</AM_Structure_Sikhism.generalRules.rulesStrings.0>
+  <AM_Structure_Sikhism.generalRules.rulesStrings.1>memeAdjective-&gt;праведний</AM_Structure_Sikhism.generalRules.rulesStrings.1>
+  <AM_Structure_Sikhism.generalRules.rulesStrings.2>memeAdjective-&gt;духовний</AM_Structure_Sikhism.generalRules.rulesStrings.2>
+  <AM_Structure_Sikhism.generalRules.rulesStrings.3>memeLeaderNoun-&gt;Гранті</AM_Structure_Sikhism.generalRules.rulesStrings.3>
+  <AM_Structure_Sikhism.generalRules.rulesStrings.4>memeMoralist-&gt;Вчений Гуру Ґрант Сахіб</AM_Structure_Sikhism.generalRules.rulesStrings.4>
+  <AM_Structure_Sikhism.symbolPacks.0.adjective>сикх</AM_Structure_Sikhism.symbolPacks.0.adjective>
+
+  <AM_Structure_Kemetism.label>Кеметичне походження</AM_Structure_Kemetism.label>
+  <AM_Structure_Kemetism.description>Ця ідеологія є нащадком єгипетського неоязичництва, також відомого як кеметизм. Вона може мати зовсім інші заповіді, ніж ті, що були тисячі років тому, але її символи схожі.</AM_Structure_Kemetism.description>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.0>memeAdjective-&gt;реконструйований</AM_Structure_Kemetism.generalRules.rulesStrings.0>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.1>memeAdjective-&gt;переглянутий</AM_Structure_Kemetism.generalRules.rulesStrings.1>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.2>memeHyphenPrefix-&gt;новий</AM_Structure_Kemetism.generalRules.rulesStrings.2>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.3>memeLeaderNoun-&gt;фараон</AM_Structure_Kemetism.generalRules.rulesStrings.3>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.4>memeLeaderAdjective-&gt;урочистий</AM_Structure_Kemetism.generalRules.rulesStrings.4>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.5>memeLeaderAdjective-&gt;абсолютний</AM_Structure_Kemetism.generalRules.rulesStrings.5>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.6>memeLeaderAdjective-&gt;божественний</AM_Structure_Kemetism.generalRules.rulesStrings.6>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.7>memeMoralist-&gt;лектор священик</AM_Structure_Kemetism.generalRules.rulesStrings.7>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.8>memeMoralist-&gt;слуга божий</AM_Structure_Kemetism.generalRules.rulesStrings.8>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.9>memeMoralist-&gt;Ксьондз Ваб</AM_Structure_Kemetism.generalRules.rulesStrings.9>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.10>memeMoralist-&gt;напівсвященик</AM_Structure_Kemetism.generalRules.rulesStrings.10>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.11>memeMoralist-&gt;ксьондз</AM_Structure_Kemetism.generalRules.rulesStrings.11>
+  <AM_Structure_Kemetism.generalRules.rulesStrings.12>memeMoralist-&gt;лікар</AM_Structure_Kemetism.generalRules.rulesStrings.12>
+  <AM_Structure_Kemetism.symbolPacks.0.adjective>кеметичний</AM_Structure_Kemetism.symbolPacks.0.adjective>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.0.name>Амун</AM_Structure_Kemetism.fixedDeityNameTypes.0.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.1.name>Ра</AM_Structure_Kemetism.fixedDeityNameTypes.1.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.2.name>Нат</AM_Structure_Kemetism.fixedDeityNameTypes.2.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.3.name>Шу</AM_Structure_Kemetism.fixedDeityNameTypes.3.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.4.name>Тефнут</AM_Structure_Kemetism.fixedDeityNameTypes.4.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.5.name>Осіріс</AM_Structure_Kemetism.fixedDeityNameTypes.5.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.6.name>Ісіда</AM_Structure_Kemetism.fixedDeityNameTypes.6.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.7.name>Хорус</AM_Structure_Kemetism.fixedDeityNameTypes.7.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.8.name>Сет</AM_Structure_Kemetism.fixedDeityNameTypes.8.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.9.name>Ма</AM_Structure_Kemetism.fixedDeityNameTypes.9.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.10.name>Анубіс</AM_Structure_Kemetism.fixedDeityNameTypes.10.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.11.name>Нефтіс</AM_Structure_Kemetism.fixedDeityNameTypes.11.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.12.name>Хатор</AM_Structure_Kemetism.fixedDeityNameTypes.12.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.13.name>Бастет</AM_Structure_Kemetism.fixedDeityNameTypes.13.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.14.name>Тот</AM_Structure_Kemetism.fixedDeityNameTypes.14.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.15.name>Птах</AM_Structure_Kemetism.fixedDeityNameTypes.15.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.16.name>Хонсу</AM_Structure_Kemetism.fixedDeityNameTypes.16.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.17.name>Кнуум</AM_Structure_Kemetism.fixedDeityNameTypes.17.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.18.name>Хапі</AM_Structure_Kemetism.fixedDeityNameTypes.18.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.19.name>Собек</AM_Structure_Kemetism.fixedDeityNameTypes.19.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.20.name>Бес</AM_Structure_Kemetism.fixedDeityNameTypes.20.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.21.name>Таварет</AM_Structure_Kemetism.fixedDeityNameTypes.21.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.22.name>Нейс</AM_Structure_Kemetism.fixedDeityNameTypes.22.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.23.name>Нехбет</AM_Structure_Kemetism.fixedDeityNameTypes.23.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.24.name>Вадйет</AM_Structure_Kemetism.fixedDeityNameTypes.24.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.25.name>Херті</AM_Structure_Kemetism.fixedDeityNameTypes.25.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.26.name>Нефертум</AM_Structure_Kemetism.fixedDeityNameTypes.26.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.27.name>Рененутет</AM_Structure_Kemetism.fixedDeityNameTypes.27.name>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.28.name>Хека</AM_Structure_Kemetism.fixedDeityNameTypes.28.name>
+
+  <AM_Structure_SteampunkRevival.label>відродження стімпанку</AM_Structure_SteampunkRevival.label>
+  <AM_Structure_SteampunkRevival.description>З появою парових двигунів з нульовим рівнем викидів, що працюють на безполуменевих керамічних теплових елементах у 22 столітті, парова енергетика пережила раптове відродження. Ця ідеологія зберегла загальний стиль і настрій тієї епохи.</AM_Structure_SteampunkRevival.description>
+  <AM_Structure_SteampunkRevival.generalRules.rulesStrings.0>memeAdjective-&gt;стімпанк</AM_Structure_SteampunkRevival.generalRules.rulesStrings.0>
+  <AM_Structure_SteampunkRevival.generalRules.rulesStrings.1>memeAdjective-&gt;аналітичний</AM_Structure_SteampunkRevival.generalRules.rulesStrings.1>
+  <AM_Structure_SteampunkRevival.generalRules.rulesStrings.2>memeAdjective-&gt;ретрофутуристичний</AM_Structure_SteampunkRevival.generalRules.rulesStrings.2>
+  <AM_Structure_SteampunkRevival.generalRules.rulesStrings.3>memeAdjective-&gt;ефірний</AM_Structure_SteampunkRevival.generalRules.rulesStrings.3>
+  <AM_Structure_SteampunkRevival.generalRules.rulesStrings.4>memeAdjective-&gt;неовікторіанський</AM_Structure_SteampunkRevival.generalRules.rulesStrings.4>
+  <AM_Structure_SteampunkRevival.generalRules.rulesStrings.5>memeLeaderNoun-&gt;наглядач</AM_Structure_SteampunkRevival.generalRules.rulesStrings.5>
+  <AM_Structure_SteampunkRevival.generalRules.rulesStrings.6>memeLeaderNoun-&gt;гвинтиковий майстер</AM_Structure_SteampunkRevival.generalRules.rulesStrings.6>
+  <AM_Structure_SteampunkRevival.generalRules.rulesStrings.7>memeMoralist-&gt;майстер</AM_Structure_SteampunkRevival.generalRules.rulesStrings.7>
+  <AM_Structure_SteampunkRevival.symbolPacks.0.adjective>стімпанк</AM_Structure_SteampunkRevival.symbolPacks.0.adjective>
+
+  <AM_Structure_Corsair.label>піратський стиль</AM_Structure_Corsair.label>
+  <AM_Structure_Corsair.description>Хибна романтизація давно минулих епох була константою впродовж усієї історії людства. І хоча сучасні пірати на Краю не мають нічого спільного зі стародавніми мореплавцями, піратська естетика дійшла і до космічної ери.</AM_Structure_Corsair.description>
+  <AM_Structure_Corsair.generalRules.rulesStrings.0>memeAdjective-&gt;корсар</AM_Structure_Corsair.generalRules.rulesStrings.0>
+  <AM_Structure_Corsair.generalRules.rulesStrings.1>memeAdjective-&gt;мародерство</AM_Structure_Corsair.generalRules.rulesStrings.1>
+  <AM_Structure_Corsair.generalRules.rulesStrings.2>memeAdjective-&gt;морський пес</AM_Structure_Corsair.generalRules.rulesStrings.2>
+  <AM_Structure_Corsair.generalRules.rulesStrings.3>memeAdjective-&gt;вільне завантаження</AM_Structure_Corsair.generalRules.rulesStrings.3>
+  <AM_Structure_Corsair.generalRules.rulesStrings.4>memeAdjective-&gt;мандри</AM_Structure_Corsair.generalRules.rulesStrings.4>
+  <AM_Structure_Corsair.generalRules.rulesStrings.5>memeLeaderNoun-&gt;капітан корабля</AM_Structure_Corsair.generalRules.rulesStrings.5>
+  <AM_Structure_Corsair.generalRules.rulesStrings.6>memeLeaderNoun-&gt;Командор</AM_Structure_Corsair.generalRules.rulesStrings.6>
+  <AM_Structure_Corsair.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;галантний</AM_Structure_Corsair.generalRules.rulesStrings.7>
+  <AM_Structure_Corsair.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;драконівський</AM_Structure_Corsair.generalRules.rulesStrings.8>
+  <AM_Structure_Corsair.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;безсердечний</AM_Structure_Corsair.generalRules.rulesStrings.9>
+  <AM_Structure_Corsair.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;хоробрий</AM_Structure_Corsair.generalRules.rulesStrings.10>
+  <AM_Structure_Corsair.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;безжалісний</AM_Structure_Corsair.generalRules.rulesStrings.11>
+  <AM_Structure_Corsair.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;зухвалий</AM_Structure_Corsair.generalRules.rulesStrings.12>
+  <AM_Structure_Corsair.generalRules.rulesStrings.13>memeMoralist-&gt;Лейтенант</AM_Structure_Corsair.generalRules.rulesStrings.13>
+  <AM_Structure_Corsair.generalRules.rulesStrings.14>memeMoralist-&gt;сержант</AM_Structure_Corsair.generalRules.rulesStrings.14>
+  <AM_Structure_Corsair.generalRules.rulesStrings.15>memeMoralist-&gt;підлеглий</AM_Structure_Corsair.generalRules.rulesStrings.15>
+  <AM_Structure_Corsair.symbolPacks.0.adjective>корсар</AM_Structure_Corsair.symbolPacks.0.adjective>
+
+  <AM_Structure_Neolithic.label>неоліт</AM_Structure_Neolithic.label>
+  <AM_Structure_Neolithic.description>Величезні прірви простору і часу між зірками роблять окремі світи вразливими до регресу. Ця культура повністю занепала і повернулася до кам'яного віку, доісторичного рівня технологічного розвитку і вдосконалення.\n\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;\n - Майте на увазі, що цей стиль в ЖОДНОМУ РАЗІ НЕ є блокуванням технологій. Ця культура зберегла стиль свого походження з кам'яного віку, але вони можуть виготовляти зброю, будувати космічний корабель тощо. Використовуйте інший мод, щоб заблокувати дослідження на певних технологічних рівнях.</AM_Structure_Neolithic.description>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.0>memeAdjective-&gt;стародавній</AM_Structure_Neolithic.generalRules.rulesStrings.0>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.1>memeAdjective-&gt;доісторичний</AM_Structure_Neolithic.generalRules.rulesStrings.1>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.2>memeAdjective-&gt;примітивний</AM_Structure_Neolithic.generalRules.rulesStrings.2>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.3>memeAdjective-&gt;первісний</AM_Structure_Neolithic.generalRules.rulesStrings.3>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.4>memeAdjective-&gt;споконвічний</AM_Structure_Neolithic.generalRules.rulesStrings.4>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.5>memeLeaderNoun-&gt;вождь</AM_Structure_Neolithic.generalRules.rulesStrings.5>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.6>memeLeaderAdjective-&gt;додилювіальний</AM_Structure_Neolithic.generalRules.rulesStrings.6>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;первинний</AM_Structure_Neolithic.generalRules.rulesStrings.7>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;архаїчний</AM_Structure_Neolithic.generalRules.rulesStrings.8>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.9>memeMoralist-&gt;шаман</AM_Structure_Neolithic.generalRules.rulesStrings.9>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.10>memeMoralist-&gt;знахар</AM_Structure_Neolithic.generalRules.rulesStrings.10>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.11>memeMoralist-&gt;чаклун</AM_Structure_Neolithic.generalRules.rulesStrings.11>
+  <AM_Structure_Neolithic.generalRules.rulesStrings.12>memeMoralist-&gt;провидець</AM_Structure_Neolithic.generalRules.rulesStrings.12>
+  <AM_Structure_Neolithic.symbolPacks.0.adjective>неоліт</AM_Structure_Neolithic.symbolPacks.0.adjective>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.0.name>Аурат</AM_Structure_Neolithic.fixedDeityNameTypes.0.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.1.name>Віталій</AM_Structure_Neolithic.fixedDeityNameTypes.1.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.2.name>Соул</AM_Structure_Neolithic.fixedDeityNameTypes.2.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.3.name>Курке</AM_Structure_Neolithic.fixedDeityNameTypes.3.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.4.name>Літ</AM_Structure_Neolithic.fixedDeityNameTypes.4.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.5.name>Висіо</AM_Structure_Neolithic.fixedDeityNameTypes.5.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.6.name>Бліссе</AM_Structure_Neolithic.fixedDeityNameTypes.6.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.7.name>Етх</AM_Structure_Neolithic.fixedDeityNameTypes.7.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.8.name>Дево</AM_Structure_Neolithic.fixedDeityNameTypes.8.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.9.name>Ауріель</AM_Structure_Neolithic.fixedDeityNameTypes.9.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.10.name>Спірі</AM_Structure_Neolithic.fixedDeityNameTypes.10.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.11.name>Еріе</AM_Structure_Neolithic.fixedDeityNameTypes.11.name>
+  <AM_Structure_Neolithic.fixedDeityNameTypes.12.name>Аура</AM_Structure_Neolithic.fixedDeityNameTypes.12.name>
+
+  <AM_Structure_Scavenger.label>сміттярство</AM_Structure_Scavenger.label>
+  <AM_Structure_Scavenger.description>Сміття та викинуті стародавні технології минулих цивілізацій можна легко переробити та використати за призначенням. Навіщо створювати речі з нуля, якщо можна використовувати те, що вже є? </AM_Structure_Scavenger.description>
+  <AM_Structure_Scavenger.generalRules.rulesStrings.0>memeAdjective-&gt;утилізація</AM_Structure_Scavenger.generalRules.rulesStrings.0>
+  <AM_Structure_Scavenger.generalRules.rulesStrings.1>memeAdjective-&gt;прибирання сміття</AM_Structure_Scavenger.generalRules.rulesStrings.1>
+  <AM_Structure_Scavenger.generalRules.rulesStrings.2>memeAdjective-&gt;жебрацтво</AM_Structure_Scavenger.generalRules.rulesStrings.2>
+  <AM_Structure_Scavenger.generalRules.rulesStrings.3>memeHyphenPrefix-&gt;брухт</AM_Structure_Scavenger.generalRules.rulesStrings.3>
+  <AM_Structure_Scavenger.generalRules.rulesStrings.4>memeHyphenPrefix-&gt;мотлох</AM_Structure_Scavenger.generalRules.rulesStrings.4>
+  <AM_Structure_Scavenger.generalRules.rulesStrings.5>memeConcept-&gt;брухт</AM_Structure_Scavenger.generalRules.rulesStrings.5>
+  <AM_Structure_Scavenger.generalRules.rulesStrings.6>memeLeaderNoun-&gt;сміттяр</AM_Structure_Scavenger.generalRules.rulesStrings.6>
+  <AM_Structure_Scavenger.generalRules.rulesStrings.7>memeLeaderNoun-&gt;ломщик</AM_Structure_Scavenger.generalRules.rulesStrings.7>
+  <AM_Structure_Scavenger.generalRules.rulesStrings.8>memeLeaderNoun-&gt;волоцюга</AM_Structure_Scavenger.generalRules.rulesStrings.8>
+  <AM_Structure_Scavenger.generalRules.rulesStrings.9>memeMoralist-&gt;сміттєвий щур</AM_Structure_Scavenger.generalRules.rulesStrings.9>
+  <AM_Structure_Scavenger.symbolPacks.0.adjective>утилізація сміття</AM_Structure_Scavenger.symbolPacks.0.adjective>
+
+
+</LanguageData>

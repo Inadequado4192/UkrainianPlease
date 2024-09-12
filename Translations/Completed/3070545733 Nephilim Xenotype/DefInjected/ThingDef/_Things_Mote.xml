@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <GS_Aura_FlashA.label>Mote</GS_Aura_FlashA.label>
+  <GS_Resurrect_Gold.label>Mote</GS_Resurrect_Gold.label>
+  <Mote_HolyHymn.label>Mote</Mote_HolyHymn.label>
+  <GS_Blue_MentalstateAura.label>Mote</GS_Blue_MentalstateAura.label>
+
+
+</LanguageData>

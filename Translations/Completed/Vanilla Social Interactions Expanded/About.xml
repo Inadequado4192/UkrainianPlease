@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Social Interactions Expanded</name>
+        <id>2439736083</id>
+        <packageId>vanillaexpanded.vanillasocialinteractionsexpanded</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3116756631</sourceTranslationId>
+    <lastUpdate>2024-01-08T05:21:59.000Z</lastUpdate>
+</TranslationDetails>

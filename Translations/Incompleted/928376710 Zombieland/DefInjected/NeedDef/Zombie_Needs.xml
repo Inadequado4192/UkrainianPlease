@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: zombie contamination -->
+    <Contamination.label>зараження зомбі</Contamination.label>
+    <!-- EN: Contamination is something that increases with contact to contaminated things. -->
+    <Contamination.description>Зараження - це те, що збільшується при контакті із забрудненими речами.</Contamination.description>
+</LanguageData>

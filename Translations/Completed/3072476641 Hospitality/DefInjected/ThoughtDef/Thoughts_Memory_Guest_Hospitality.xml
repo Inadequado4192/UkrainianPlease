@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuestClaimedBed.stages.0.label>безкоштовне ліжко</GuestClaimedBed.stages.0.label>
+  <GuestClaimedBed.stages.0.description>Моє ліжко було вільним, тому я не можу скаржитися.</GuestClaimedBed.stages.0.description>
+  <GuestClaimedBed.stages.1.label>вкрай завищена ціна на ліжко</GuestClaimedBed.stages.1.label>
+  <GuestClaimedBed.stages.1.description>Моє ліжко коштувало абсурдно дорожче, ніж воно того варте.</GuestClaimedBed.stages.1.description>
+  <GuestClaimedBed.stages.2.label>завищена ціна на ліжко</GuestClaimedBed.stages.2.label>
+  <GuestClaimedBed.stages.2.description>Моє ліжко було занадто дорогим для того, чого воно варте.</GuestClaimedBed.stages.2.description>
+  <GuestClaimedBed.stages.3.label>переоціненне ліжко</GuestClaimedBed.stages.3.label>
+  <GuestClaimedBed.stages.3.description>Моє ліжко не коштувало такої ціни.</GuestClaimedBed.stages.3.description>
+  <GuestClaimedBed.stages.4.label>відповідне ліжко</GuestClaimedBed.stages.4.label>
+  <GuestClaimedBed.stages.4.description>Ціна за ліжко тут нормальна.</GuestClaimedBed.stages.4.description>
+  <GuestClaimedBed.stages.5.label>вигідне ліжко</GuestClaimedBed.stages.5.label>
+  <GuestClaimedBed.stages.5.description>Моє ліжко було гарною пропозицією..</GuestClaimedBed.stages.5.description>
+  <GuestClaimedBed.stages.6.label>відмінне ліжко</GuestClaimedBed.stages.6.label>
+  <GuestClaimedBed.stages.6.description>Моє ліжко було відмінною угодою!</GuestClaimedBed.stages.6.description>
+
+  <GuestAngered.stages.0.label>обурені вербуванням</GuestAngered.stages.0.label>
+  <GuestAngered.stages.0.description>Ці хлопці намагаються вкрасти наших людей!</GuestAngered.stages.0.description>
+
+  <GuestRecruitmentForced.stages.0.label>недобровільно завербовані</GuestRecruitmentForced.stages.0.label>
+  <GuestRecruitmentForced.stages.0.description>Я не впевнений, чи варто мені тут бути.</GuestRecruitmentForced.stages.0.description>
+
+  <GuestOffendedRelationship.stages.0.label>ображений колоністом</GuestOffendedRelationship.stages.0.label>
+  <GuestOffendedRelationship.stages.0.labelSocial>образив мене.</GuestOffendedRelationship.stages.0.labelSocial>
+  <GuestOffendedRelationship.stages.0.description>Ці хлопці - невдахи!</GuestOffendedRelationship.stages.0.description>
+
+  <GuestPleasedRelationship.stages.0.label>зачарований колоністом</GuestPleasedRelationship.stages.0.label>
+  <GuestPleasedRelationship.stages.0.labelSocial>зачарував мене.</GuestPleasedRelationship.stages.0.labelSocial>
+  <GuestPleasedRelationship.stages.0.description>Такі приємні люди!</GuestPleasedRelationship.stages.0.description>
+
+  <EndorsedByRecruiter.stages.0.label>підтриманий колоністом</EndorsedByRecruiter.stages.0.label>
+  <EndorsedByRecruiter.stages.0.labelSocial>підтримав мене</EndorsedByRecruiter.stages.0.labelSocial>
+  <EndorsedByRecruiter.stages.0.description>Мені сказали пару приємних слів.</EndorsedByRecruiter.stages.0.description>
+
+  <GuestDismissiveAttitude.stages.0.label>втомився від розмов</GuestDismissiveAttitude.stages.0.label>
+  <GuestDismissiveAttitude.stages.0.description>З мене досить розмов. Залиш мене в спокої.</GuestDismissiveAttitude.stages.0.description>
+
+  <GuestExpensiveFood.stages.0.label>дорога їжа</GuestExpensiveFood.stages.0.label>
+  <GuestExpensiveFood.stages.0.description>Доводилося платити за дорогу їжу в автоматі.</GuestExpensiveFood.stages.0.description>
+
+  <GuestCheapFood.stages.0.label>дешева їжа</GuestCheapFood.stages.0.label>
+  <GuestCheapFood.stages.0.description>Я купив дешеву їжу в автоматі.</GuestCheapFood.stages.0.description>
+
+
+</LanguageData>

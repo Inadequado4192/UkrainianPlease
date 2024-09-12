@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ears -->
+
+  <VRE_SerratedEars.label>зубчасті вуха</VRE_SerratedEars.label>
+  <VRE_SerratedEars.description>Носії цього гена мають довгі зазубрені вуха.</VRE_SerratedEars.description>
+
+
+  <!-- Misc -->
+
+  <VRE_FacialSpots.label>плями на обличчі</VRE_FacialSpots.label>
+  <VRE_FacialSpots.description>Носії цього гена мають невеликі пігментні плями на обличчі.</VRE_FacialSpots.description>
+
+
+  <!-- Hair -->
+
+  <VRE_DreadHair.label>дреди</VRE_DreadHair.label>
+  <VRE_DreadHair.description>У носіїв цього гена росте волосся, яке природним чином утворює густі дреди.</VRE_DreadHair.description>
+
+
+</LanguageData>

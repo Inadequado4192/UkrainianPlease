@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hospitality_Faction.label>фракція</Hospitality_Faction.label>
+  <Entertain.headerTip>Розваги</Entertain.headerTip>
+  <MakeFriends.headerTip>Завести друзів</MakeFriends.headerTip>
+  <AccommodationArea.label>район проживання</AccommodationArea.label>
+  <ShoppingArea.label>торговельна зона</ShoppingArea.label>
+  <FriendsForRecruiting.headerTip>Друзі в колонії</FriendsForRecruiting.headerTip>
+  <Hospitality.headerTip>Гостинність</Hospitality.headerTip>
+
+
+</LanguageData>

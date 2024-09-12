@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Traps -->
+
+  <AM_TrapBlunt.label>пастка з мішком</AM_TrapBlunt.label>
+  <AM_TrapBlunt.description>Важкий мішок наповнений піском, з'єднаний з сенсорним спусковим механізмом. Коли жертва натискає на спусковий гачок, мішок вискакує і б'є жертву. На відміну від інших пасток, ці пастки можна розміщувати поруч одна з одною. Тварини відчувають їх у спокійному стані.</AM_TrapBlunt.description>
+  <AM_TrapBlunt_Blueprint.label>пастка з мішком (креслення)</AM_TrapBlunt_Blueprint.label>
+  <AM_TrapBlunt_Blueprint_Install.label>пастка з мішком (креслення)</AM_TrapBlunt_Blueprint_Install.label>
+  <AM_TrapBlunt_Frame.label>пастка з мішком (будується)</AM_TrapBlunt_Frame.label>
+  <AM_TrapBlunt_Frame.description>Важкий мішок наповнений піском, з'єднаний з сенсорним спусковим механізмом. Коли жертва натискає на спусковий гачок, мішок вискакує і б'є жертву. На відміну від інших пасток, ці пастки можна розміщувати поруч одна з одною. Тварини відчувають їх у спокійному стані.</AM_TrapBlunt_Frame.description>
+
+
+</LanguageData>

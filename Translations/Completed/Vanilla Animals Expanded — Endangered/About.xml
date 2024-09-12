@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Animals Expanded — Endangered</name>
+        <id>2366589898</id>
+        <packageId>vanillaexpanded.vaeendandext</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3205933599</sourceTranslationId>
+    <lastUpdate>2024-03-30T03:21:18.000Z</lastUpdate>
+</TranslationDetails>

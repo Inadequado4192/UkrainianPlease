@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_GeneralTitle>Загальні</VEF_GeneralTitle>
+  <!-- CSG -->
+  <CSGTitle>Створення користувацької структури:</CSGTitle>
+  <CSGLog>Увімкнути журнал налагодження генерації структури:</CSGLog>
+
+  <!-- Toggable patches -->
+  <VEF_TPTitle>Опціональні патчі</VEF_TPTitle>
+  <NeedRestart>Для застосування всіх налаштувань потрібен перезапуск гри.</NeedRestart>
+  <XPatchFound>Знайдено патчів: {0}</XPatchFound>
+  
+  <!-- Weather damages -->
+  <VEF.WeatherDamages>Пошкодження від погодних умов</VEF.WeatherDamages>
+  <VEF.EnableWeatherDamage>{0} </VEF.EnableWeatherDamage>
+  <!-- Faction Discovery -->
+  <FDTitle>Додавання фракцій</FDTitle>
+  <NeedToBeInGame>Спочатку потрібно завантажити збереження</NeedToBeInGame>
+  <AskForPopUp>Додати фракцію(-ї)</AskForPopUp>
+  <AskForPopUpExplained>Натисніть тут, щоб отримати запит для кожної фракції, якщо ви хочете додати її у свою гру.</AskForPopUpExplained>
+  <CanAddXFaction>{0} фракція(-й) можна додати до вашої поточної гри</CanAddXFaction>
+  
+  <VEF.DisableModSourceReport>Вимкнути інформацію, про походження предмета в інфо. панелі</VEF.DisableModSourceReport>
+  
+  <VEF.Shields.Search>Пошук:</VEF.Shields.Search>
+  <VEF.Shields.ResetModSettingsToDefault>Скидання налаштувань мода до значень за замовчуванням</VEF.Shields.ResetModSettingsToDefault>
+  <VEF.Shields.ExplanationTitle>Waffen so einstellen, dass sie mit Schilden verwendbar oder nicht verwendbar sind.</VEF.Shields.ExplanationTitle>
+  <VEF.Shields.ShowMeleeWeapons>Nahkampfwaffen anzeigen</VEF.Shields.ShowMeleeWeapons>
+  <VEF.Shields.ShowRangeWeapons>Fernkampfwaffen anzeigen</VEF.Shields.ShowRangeWeapons>
+  
+  <VEF_DisableTextureCaching>Вимкнути кєшування текстур</VEF_DisableTextureCaching>
+  <VEF_EnablePipeSystemNoStorageAlert>Увімкнути попередження PipeSystem про відсутність сховища</VEF_EnablePipeSystemNoStorageAlert>
+  <VEF_FactionDiscovery>Виявлення фракцій</VEF_FactionDiscovery> 
+  <VEF_CustomStructureGeneration>Створення користувацької структури:</VEF_CustomStructureGeneration>
+  <VEF_TextureVariations>Варіації текстур:</VEF_TextureVariations>
+  <VEF_VerboseLogging>Детальний лог</VEF_VerboseLogging>
+  <VEF_UnforbidMinedOres>Не заборонені видобуті руди</VEF_UnforbidMinedOres>
+  <VEF_Never>Ніколи</VEF_Never>
+  <VEF_HomeArea>Домашня область</VEF_HomeArea>
+  <VEF_Always>Завжди</VEF_Always>
+  <VEF_NeverDesc>Ніколи не забороняти видобуті руди (так працює базова гра для нелюдських персонажів, таких як тварини та мехи)</VEF_NeverDesc>
+  <VEF_HomeAreaDesc>Видобуті руди не заборонені, тільки якщо вони видобуті в домашній області.</VEF_HomeAreaDesc>
+  <VEF_AlwaysDesc>Видобуті руди завжди незаборонені.</VEF_AlwaysDesc>
+</LanguageData>

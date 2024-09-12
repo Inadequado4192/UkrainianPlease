@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <MFI_HuntersLodgePart.label>Будиночок мисливця</MFI_HuntersLodgePart.label>
+    <MFI_HuntersLodgePart.description>Невеликий форпост, що використовується дружніми фракціями як мисливська база.</MFI_HuntersLodgePart.description>
+    <MFI_HuntersLodgePart.approachOrderString>Відвідати {0}</MFI_HuntersLodgePart.approachOrderString>
+    <MFI_HuntersLodgePart.approachingReportString>Відвідує {0}</MFI_HuntersLodgePart.approachingReportString>
+    <MFI_HuntersLodgePart.arrivedLetter>Ваш караван прибув до мисливського будиночка. Здається, що тут нікого немає, але вони явно чекали на вас і зробили це місце гостинним.</MFI_HuntersLodgePart.arrivedLetter>
+</LanguageData> 

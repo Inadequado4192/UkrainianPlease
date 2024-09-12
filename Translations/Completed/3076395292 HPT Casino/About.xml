@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Hospitality: Casino</name>
+        <id>2939292644</id>
+        <packageId>adamas.hospitalitycasino</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>tyulen</nickname>
+            <steamId>76561198374567982</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3076395292</sourceTranslationId>
+    <lastUpdate>2024-04-12T09:10:37.000Z</lastUpdate>
+</TranslationDetails>

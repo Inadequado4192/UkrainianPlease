@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: plasteel skin -->
+  <AG_ArmourMajor.label>шкіра з пласталі</AG_ArmourMajor.label>
+  <!-- EN: Carriers of this gene have their skin strengthened by a plasteel nano-lattice. This confers a great amount of natural armour. -->
+  <AG_ArmourMajor.description>У носіїв цього гена шкіра укріплена нанорешіткою з пласталі. Це забезпечує великий рівень природної броні.</AG_ArmourMajor.description>
+  <!-- EN: +40% blunt and sharp natural armour. -->
+  <AG_ArmourMajor.customEffectDescriptions.0>+40% природний бронювальний фактор проти тупих і гострих атак.</AG_ArmourMajor.customEffectDescriptions.0>
+  <!-- EN: adamant -->
+  <AG_ArmourMajor.symbolPack.prefixSymbols.0.symbol>непохитний</AG_ArmourMajor.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: ferrous skin -->
+  <AG_ArmourMedium.label>залізна шкіра</AG_ArmourMedium.label>
+  <!-- EN: Carriers of this gene have their skin strengthened by a nano-lattice of metallic compounds. This confers a medium amount of natural armour. -->
+  <AG_ArmourMedium.description>У носіїв цього гена шкіра укріплена нанорешіткою металевих сполук. Це забезпечує середній рівень природної броні.</AG_ArmourMedium.description>
+  <!-- EN: +30% blunt and sharp natural armour. -->
+  <AG_ArmourMedium.customEffectDescriptions.0>+30% природний бронювальний фактор проти тупих і гострих атак.</AG_ArmourMedium.customEffectDescriptions.0>
+  <!-- EN: ferr -->
+  <AG_ArmourMedium.symbolPack.prefixSymbols.0.symbol>ферр</AG_ArmourMedium.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: metalo -->
+  <AG_ArmourMedium.symbolPack.prefixSymbols.1.symbol>металло</AG_ArmourMedium.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: wooden skin -->
+  <AG_ArmourMinor.label>коркова шкіра</AG_ArmourMinor.label>
+  <!-- EN: Hard, wood-like skin. This confers a small amount of natural armour. -->
+  <AG_ArmourMinor.description>Носії цього гена мають тверду, схожу на кору шкіру. Це забезпечує невеликий рівень природної броні.</AG_ArmourMinor.description>
+  <!-- EN: +20% blunt and sharp natural armour. -->
+  <AG_ArmourMinor.customEffectDescriptions.0>+20% природний бронювальний фактор проти тупих і гострих атак.</AG_ArmourMinor.customEffectDescriptions.0>
+  <!-- EN: bark -->
+  <AG_ArmourMinor.symbolPack.prefixSymbols.0.symbol>гавкіт</AG_ArmourMinor.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: frail skin -->
+  <AG_FrailSkin.label>вразлива шкіра</AG_FrailSkin.label>
+  <!-- EN: Carriers of this gene have very frail and thin skin. This confers a small increase to damage received. -->
+  <AG_FrailSkin.description>Носії цього гена мають дуже вразливу і тонку шкіру. Це дає невелике збільшення отриманих ушкоджень.</AG_FrailSkin.description>
+  <!-- EN: frail -->
+  <AG_FrailSkin.symbolPack.prefixSymbols.0.symbol>кволий</AG_FrailSkin.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: thinskin -->
+  <AG_FrailSkin.symbolPack.prefixSymbols.1.symbol>тонкошкірий</AG_FrailSkin.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: fungal skin -->
+  <AG_FungalSkin.label>грибкова шкіра</AG_FungalSkin.label>
+  <!-- EN: Carriers of this gene have several fungal clumps sprouting from their skin. These fungi cause them no pain and provide a considerable amount of natural armor, at the cost of making them VERY vulnerable to fire. -->
+  <AG_FungalSkin.description>Носії цього гена мають кілька грибкових скупчень, що проростають зі шкіри. Ці грибки не завдають їм болю і забезпечують значну кількість природної броні, але роблять їх ДУЖЕ вразливими до вогню.</AG_FungalSkin.description>
+  <!-- EN: +50% blunt and sharp natural armour. +25% injury healing factor. -->
+  <AG_FungalSkin.customEffectDescriptions.0>+50% природний бронювальний фактор проти тупих і гострих атак. +25% швидкість загоєння травм.</AG_FungalSkin.customEffectDescriptions.0>
+  <!-- EN: Fires will cause permanent wounds. -->
+  <AG_FungalSkin.customEffectDescriptions.1>Пожежі спричинять незворотні рани.</AG_FungalSkin.customEffectDescriptions.1>
+  <!-- EN: fungi -->
+  <AG_FungalSkin.symbolPack.prefixSymbols.0.symbol>гриби</AG_FungalSkin.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: fungal -->
+  <AG_FungalSkin.symbolPack.prefixSymbols.1.symbol>грибковий</AG_FungalSkin.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: mushr -->
+  <AG_FungalSkin.symbolPack.prefixSymbols.2.symbol>мушр</AG_FungalSkin.symbolPack.prefixSymbols.2.symbol>
+  
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: shock -->
+    <ElectricalShock.label>удар шокером</ElectricalShock.label>
+    <!-- EN: {0} has been shocked to death. -->
+    <ElectricalShock.deathMessage>{0} {0_gender ? був убитий  : була убита} струмом до смерті.</ElectricalShock.deathMessage>
+    <!-- EN: seismic wave -->
+    <SeismicWave.label>сейсмічна хвиля</SeismicWave.label>
+    <!-- EN: {0} has been killed. -->
+    <SeismicWave.deathMessage>{0} {0_gender ? був убитий : була убита}.</SeismicWave.deathMessage>
+    <!-- EN: suicide bomb -->
+    <SuicideBomb.label>вибух самогубця</SuicideBomb.label>
+    <!-- EN: {0} has died in an suicide bomb attack. -->
+    <SuicideBomb.deathMessage>{0} {0_gender ? загинув: загинула} внаслідок вибуху самогубця.</SuicideBomb.deathMessage>
+    <!-- EN: splatter -->
+    <ToxicSplatter.label>бризки</ToxicSplatter.label>
+    <!-- EN: {0} has been killed. -->
+    <ToxicSplatter.deathMessage>{0} {0_gender ? був убитий : була убита}.</ToxicSplatter.deathMessage>
+    <!-- EN: zombie bite -->
+    <ZombieBite.label>укус зомбі</ZombieBite.label>
+    <!-- EN: {0} has been bitten to death by a zombie. -->
+    <ZombieBite.deathMessage>{0} {0_gender ? був загризений : була загризена} до смерті.</ZombieBite.deathMessage>
+</LanguageData>

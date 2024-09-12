@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--soybean fermentation-->
+  <VCE_SoyFermentation.label>ферментація сої</VCE_SoyFermentation.label>
+  <!--Soybean fermentation is the process by which soybeans are submitted to a chemical breakdown by bacteria, yeasts, or other microorganisms, transforming into new products. This research gives access to the soy sauce fermenter.-->
+  <VCE_SoyFermentation.description>Ферментація сої – це процес, під час якого соєві боби піддаються хімічному розщепленню бактеріями, дріжджами або іншими мікроорганізмами, перетворюючись на нові продукти. Це дослідження дає доступ до соєвого ферментатора.</VCE_SoyFermentation.description>
+</LanguageData>

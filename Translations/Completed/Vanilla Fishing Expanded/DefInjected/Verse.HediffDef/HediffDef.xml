@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--recently ate raw pufferfish-->
+  <VCE_AteRawPufferfish.label>нещодавно з'їв сиру рибу-колючку</VCE_AteRawPufferfish.label>
+  <!--You didn't die. This time.-->
+  <VCE_AteRawPufferfish.description>Ти не помер. Цього разу.</VCE_AteRawPufferfish.description>
+  
+  <!--recently fished something special-->
+  <VCEF_CaughtSpecialHediff.label>нещодавно зловив щось особливе</VCEF_CaughtSpecialHediff.label>
+  <!--This person has fished something special.-->
+  <VCEF_CaughtSpecialHediff.description>Ця людина виловила щось особливе.</VCEF_CaughtSpecialHediff.description>
+</LanguageData>

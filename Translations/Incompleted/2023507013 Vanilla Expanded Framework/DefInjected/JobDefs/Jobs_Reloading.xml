@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: reloading TargetA. -->
+    <BetterReload.reportString>перезаряджає TargetA.</BetterReload.reportString>
+
+    <!-- EN: reloading TargetA. -->
+    <ReloadFromInventory.reportString>перезаряджає TargetA.</ReloadFromInventory.reportString>
+
+    <!-- EN: unloading TargetA. -->
+    <Unload.reportString>вивантажує TargetA.</Unload.reportString>
+</LanguageData>

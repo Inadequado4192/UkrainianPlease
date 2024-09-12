@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--espresso machine-->
+  <VBE_EspressoMachine.label>кавоварка</VBE_EspressoMachine.label>
+  <!--A more sophisticated method of brewing coffees and teas by using pressurized water.-->
+  <VBE_EspressoMachine.description>Більш складний метод заварювання кави та чаю за допомогою подачі води під тиском.</VBE_EspressoMachine.description>
+</LanguageData>

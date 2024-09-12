@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Zombie -->
+    <Zombie.label>Зомбі</Zombie.label>
+    <!-- EN: A zombie -->
+    <Zombie.description>Зомбі</Zombie.description>
+    <!-- EN: Bite -->
+    <Zombie.tools.Bite.label>Укус</Zombie.tools.Bite.label>
+    <!-- EN: left fist -->
+    <Zombie.tools.left_fist.label>лівий кулак</Zombie.tools.left_fist.label>
+    <!-- EN: right fist -->
+    <Zombie.tools.right_fist.label>правий кулак</Zombie.tools.right_fist.label>
+    <!-- EN: zombie spitter -->
+    <ZombieSpitter.label>зомбі-плювака</ZombieSpitter.label>
+    <!-- EN: A monster that spits zombies to attack your base from the air. -->
+    <ZombieSpitter.description>Монстр, який випльовує зомбі, щоб атакувати вашу базу з повітря.</ZombieSpitter.description>
+</LanguageData>

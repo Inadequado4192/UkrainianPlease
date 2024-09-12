@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Первинний повітряний засіб -->
+  <MYDE_AF_Research_PrimaryAerocraft.label>Первинний повітряний засіб</MYDE_AF_Research_PrimaryAerocraft.label>
+  <MYDE_AF_Research_PrimaryAerocraft.description>Первинний повітряний засіб</MYDE_AF_Research_PrimaryAerocraft.description>
+  <!-- Середній повітряний засіб -->
+  <MYDE_AF_Research_IntermediateAerocraft.label>Середній повітряний засіб</MYDE_AF_Research_IntermediateAerocraft.label>
+  <MYDE_AF_Research_IntermediateAerocraft.description>Середній повітряний засіб</MYDE_AF_Research_IntermediateAerocraft.description>
+  <!-- Високий повітряний засіб -->
+  <MYDE_AF_Research_AdvancedAerocraf.label>Високий повітряний засіб</MYDE_AF_Research_AdvancedAerocraf.label>
+  <MYDE_AF_Research_AdvancedAerocraf.description>Високий повітряний засіб</MYDE_AF_Research_AdvancedAerocraf.description>
+  <!-- Архотех повітряний засіб -->
+  <MYDE_AF_Research_ArchotechAerocraft.label>Архотех повітряний засіб</MYDE_AF_Research_ArchotechAerocraft.label>
+  <MYDE_AF_Research_ArchotechAerocraft.description>Архотех повітряний засіб</MYDE_AF_Research_ArchotechAerocraft.description>
+</LanguageData>

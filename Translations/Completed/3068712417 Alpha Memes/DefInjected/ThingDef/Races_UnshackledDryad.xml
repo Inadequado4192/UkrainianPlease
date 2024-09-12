@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_UnshackledDryad.label>вільна дріада</AM_UnshackledDryad.label>
+  <AM_UnshackledDryad.description>Дріади - це маленькі ссавці, які мають симбіотичні стосунки з деревом Гауранлен.\n\nЦя конкретна дріада здається прив'язаною до колонії, і вона не покине регіон, якщо поблизу немає дерев Гауранлен. </AM_UnshackledDryad.description>
+  <AM_UnshackledDryad.tools.0.label>лівий кіготь</AM_UnshackledDryad.tools.0.label>
+  <AM_UnshackledDryad.tools.1.label>правий кіготь</AM_UnshackledDryad.tools.1.label>
+  <AM_UnshackledDryad.tools.3.label>голова</AM_UnshackledDryad.tools.3.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Dryad_Basic -->
+  <AM_UnshackledDryad_Corpse.label>тіло вільної дріади</AM_UnshackledDryad_Corpse.label>
+  <AM_UnshackledDryad_Corpse.description>Тіло вільної дріади</AM_UnshackledDryad_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cancerous body -->
+  <AG_CancerousBody.label>ракове тіло</AG_CancerousBody.label>
+  <!-- EN: Carriers of this gene have a lumpy, cancerous looking body with loose skin and pockmarks. -->
+  <AG_CancerousBody.description>Носії цього гена мають горбисте, схоже на ракове тіло з в'ялою шкірою та плямами.</AG_CancerousBody.description>
+  <!-- EN: cancerous -->
+  <AG_CancerousBody.labelShortAdj>раковий</AG_CancerousBody.labelShortAdj>
+  <!-- EN: terato -->
+  <AG_CancerousBody.symbolPack.prefixSymbols.0.symbol>терато</AG_CancerousBody.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: canc -->
+  <AG_CancerousBody.symbolPack.prefixSymbols.1.symbol>рак</AG_CancerousBody.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: tumor -->
+  <AG_CancerousBody.symbolPack.prefixSymbols.2.symbol>пухлина</AG_CancerousBody.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: digitigrade legs -->
+  <AG_Digitigrade.label>Цифроградні ноги</AG_Digitigrade.label>
+  <!-- EN: Carriers of this gene have digitigrade legs, meaning they stand or walk with their toes (metatarsals) touching the ground, and the rest of their foot lifted. -->
+  <AG_Digitigrade.description>Носії цього гена мають цифроградні ноги, що означає, що вони стоять або ходять так, що їх пальці (метатарси) торкаються землі, а решта стопи піднята.</AG_Digitigrade.description>
+  <!-- EN: Carrying capacity on the map reduced to 60%. -->
+  <AG_Digitigrade.customEffectDescriptions.0>Пропускна здатність карти зменшилася до 60%.</AG_Digitigrade.customEffectDescriptions.0>
+  <!-- EN: Carrying capacity while caravaning reduced to 80%. -->
+  <AG_Digitigrade.customEffectDescriptions.1>Вантажопідйомність під час руху караваном зменшилася до 80%.</AG_Digitigrade.customEffectDescriptions.1>
+  <!-- EN: digitigrade -->
+  <AG_Digitigrade.labelShortAdj>цифроградний</AG_Digitigrade.labelShortAdj>
+  
+  <!-- EN: gaunt body -->
+  <AG_GauntBody.label>худорляве тіло</AG_GauntBody.label>
+  <!-- EN: Carriers of this gene have a pinched, gaunt appearance in their body. -->
+  <AG_GauntBody.description>Носії цього гена мають стиснутий, змарнілий вигляд.</AG_GauntBody.description>
+  <!-- EN: gaunt -->
+  <AG_GauntBody.labelShortAdj>худий</AG_GauntBody.labelShortAdj>
+  <!-- EN: gaunt -->
+  <AG_GauntBody.symbolPack.prefixSymbols.0.symbol>худий</AG_GauntBody.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: zomb -->
+  <AG_GauntBody.symbolPack.prefixSymbols.1.symbol>зомбі</AG_GauntBody.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: dead -->
+  <AG_GauntBody.symbolPack.prefixSymbols.2.symbol>мертвий</AG_GauntBody.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: bone -->
+  <AG_GauntBody.symbolPack.prefixSymbols.3.symbol>кістка</AG_GauntBody.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: rocky body -->
+  <AG_RockyBody.label>кам'янисте тіло</AG_RockyBody.label>
+  <!-- EN: Carriers of this gene have a rocky looking skin, with mineral deposits piercing the skin. -->
+  <AG_RockyBody.description>Носії цього гена мають кам'янистий вигляд шкіри, з мінеральними відкладеннями, що пронизують шкіру.</AG_RockyBody.description>
+  <!-- EN: rocky -->
+  <AG_RockyBody.labelShortAdj>кам'янистий</AG_RockyBody.labelShortAdj>
+  <!-- EN: rock -->
+  <AG_RockyBody.symbolPack.prefixSymbols.0.symbol>кам'яний</AG_RockyBody.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: litho -->
+  <AG_RockyBody.symbolPack.prefixSymbols.1.symbol>літо</AG_RockyBody.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: petr -->
+  <AG_RockyBody.symbolPack.prefixSymbols.2.symbol>петр</AG_RockyBody.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: scaly body -->
+  <AG_ScalyBody.label>лускате тіло</AG_ScalyBody.label>
+  <!-- EN: Carriers of this gene have wet scales over all their body. -->
+  <AG_ScalyBody.description>Носії цього гена мають вологі лусочки по всьому тілу.</AG_ScalyBody.description>
+  <!-- EN: Can move very fast across shallow water -->
+  <AG_ScalyBody.customEffectDescriptions.0>Може дуже швидко пересуватися по мілководдю</AG_ScalyBody.customEffectDescriptions.0>
+  <!-- EN: scaled -->
+  <AG_ScalyBody.labelShortAdj>лускатий</AG_ScalyBody.labelShortAdj>
+  <!-- EN: scaly -->
+  <AG_ScalyBody.symbolPack.prefixSymbols.0.symbol>лускатий</AG_ScalyBody.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: rept -->
+  <AG_ScalyBody.symbolPack.prefixSymbols.1.symbol>репт</AG_ScalyBody.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: herpet -->
+  <AG_ScalyBody.symbolPack.prefixSymbols.2.symbol>герпет</AG_ScalyBody.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: slime body -->
+  <AG_SlimeBody.label>слизисте тіло</AG_SlimeBody.label>
+  <!-- EN: Carriers of this gene have gelatinous, constantly dripping blue skin. -->
+  <AG_SlimeBody.description>Носії цього гена мають желатинову, постійно синювату шкіру.</AG_SlimeBody.description>
+  <!-- EN: slime bodied -->
+  <AG_SlimeBody.labelShortAdj>слизовик</AG_SlimeBody.labelShortAdj>
+  <!-- EN: slim -->
+  <AG_SlimeBody.symbolPack.prefixSymbols.0.symbol>тонкий</AG_SlimeBody.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: slimy -->
+  <AG_SlimeBody.symbolPack.prefixSymbols.1.symbol>слизький</AG_SlimeBody.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: much -->
+  <AG_SlimeBody.symbolPack.prefixSymbols.2.symbol>багато</AG_SlimeBody.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: gelat -->
+  <AG_SlimeBody.symbolPack.prefixSymbols.3.symbol>желатин</AG_SlimeBody.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: slug body -->
+  <AG_SlugBody.label>тіло слимака</AG_SlugBody.label>
+  <!-- EN: Carriers of this gene have a thick, slimy tail growing from their tailbone. Their whole body is perpetually soft and moist. -->
+  <AG_SlugBody.description>Носії цього гена мають товстий, слизький хвіст, що росте з куприка. Все їхнє тіло вічно м'яке і вологе.</AG_SlugBody.description>
+  <!-- EN: slug-like -->
+  <AG_SlugBody.labelShortAdj>схожий на слимака</AG_SlugBody.labelShortAdj>
+  <!-- EN: helix -->
+  <AG_SlugBody.symbolPack.prefixSymbols.0.symbol>спіраль</AG_SlugBody.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: slug -->
+  <AG_SlugBody.symbolPack.prefixSymbols.1.symbol>слимак</AG_SlugBody.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: moist -->
+  <AG_SlugBody.symbolPack.prefixSymbols.2.symbol>вологий</AG_SlugBody.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: snail -->
+  <AG_SlugBody.symbolPack.prefixSymbols.3.symbol>равлик</AG_SlugBody.symbolPack.prefixSymbols.3.symbol>
+  
+</LanguageData>

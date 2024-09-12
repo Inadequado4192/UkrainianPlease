@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animus ears -->
+  <AG_AnimusEars.label>вуха анімуса</AG_AnimusEars.label>
+  <!-- EN: Carriers of this gene will grow animus vox ears. -->
+  <AG_AnimusEars.description>Носії цього гена матимуть великі вуха анімус вокс.</AG_AnimusEars.description>
+  <!-- EN: animus -->
+  <AG_AnimusEars.symbolPack.prefixSymbols.0.symbol>анімус</AG_AnimusEars.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: empath -->
+  <AG_AnimusEars.symbolPack.prefixSymbols.1.symbol>емпат</AG_AnimusEars.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: telep -->
+  <AG_AnimusEars.symbolPack.prefixSymbols.2.symbol>телепат</AG_AnimusEars.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: -vox -->
+  <AG_AnimusEars.symbolPack.suffixSymbols.0.symbol>-вокс</AG_AnimusEars.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: demon ears -->
+  <AG_DemonEars.label>демонічні вуха</AG_DemonEars.label>
+  <!-- EN: Carriers of this gene will grow long demon ears. -->
+  <AG_DemonEars.description>У носіїв цього гена виростуть довгі демонічні вуха.</AG_DemonEars.description>
+  
+  <!-- EN: ear wings -->
+  <AG_EarWings.label>вуха кажана</AG_EarWings.label>
+  <!-- EN: Carriers of this gene will grow large bat wing ears. These are purely cosmetic, not allowing for any sort of flight. -->
+  <AG_EarWings.description>У носіїв цього гена виростають великі вуха кажана. Вони мають суто косметичний характер і не дають змоги літати.</AG_EarWings.description>
+  
+  <!-- EN: long ears -->
+  <AG_LongEars.label>довгі вуха</AG_LongEars.label>
+  <!-- EN: Carriers of this gene will grow long ears. -->
+  <AG_LongEars.description>Носії цього гена матимуть довгі вуха.</AG_LongEars.description>
+  
+  <!-- EN: radyak ears -->
+  <AG_RadYakEars.label>вуха радіака</AG_RadYakEars.label>
+  <!-- EN: Carriers of this gene will grow pointed radyak ears. -->
+  <AG_RadYakEars.description>Носії цього гена матимуть загострені вуха радіака.</AG_RadYakEars.description>
+  <!-- EN: radyak -->
+  <AG_RadYakEars.symbolPack.prefixSymbols.0.symbol>радіака</AG_RadYakEars.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: rad -->
+  <AG_RadYakEars.symbolPack.prefixSymbols.1.symbol>рад</AG_RadYakEars.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: yak -->
+  <AG_RadYakEars.symbolPack.suffixSymbols.0.symbol>ак</AG_RadYakEars.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: ear -->
+  <AG_RadYakEars.symbolPack.suffixSymbols.1.symbol>вухо</AG_RadYakEars.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: single ear -->
+  <AG_SingleEar.label>одне вухо</AG_SingleEar.label>
+  <!-- EN: Carriers of this gene will grow a single malformed, drooping ear. -->
+  <AG_SingleEar.description>У носіїв цього гена виростає одне неправильне, звисаюче вухо.</AG_SingleEar.description>
+  
+</LanguageData>

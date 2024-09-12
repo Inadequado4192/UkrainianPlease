@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_AnimalDespised_Died_Despised.stages.0.label>зневажена тварина померла</AM_AnimalDespised_Died_Despised.stages.0.label>
+  <AM_AnimalDespised_Died_Despised.stages.0.description>Зневажена тварина померла. Смерть такої гротескної мерзоти - це те, що варто святкувати.</AM_AnimalDespised_Died_Despised.stages.0.description>
+
+  <AM_AnimalDespised_Died_Normal.stages.0.label>тварина померла</AM_AnimalDespised_Died_Normal.stages.0.label>
+  <AM_AnimalDespised_Died_Normal.stages.0.description>Тварина загинула. Чим швидше ми позбудемося цих хибних генетичних творінь, тим швидше галактика буде в безпеці.</AM_AnimalDespised_Died_Normal.stages.0.description>
+
+
+</LanguageData>

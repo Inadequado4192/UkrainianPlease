@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE.Book>Книга</VBE.Book>
+  <VBE.ReadBook>Прочитати {0}</VBE.ReadBook>
+  <VBE.CantReadSkillBookTooSimple>Неможливо прочитати: Ця книга не принесе нових знань.</VBE.CantReadSkillBookTooSimple>
+  <VBE.ReadNewsPaper>Прочитати газету</VBE.ReadNewsPaper>
+  <VBE.NewspaperRelevantUntil>Актуальна до: </VBE.NewspaperRelevantUntil>
+  <VBE.CantReadNewsPaperExpired>Неможливо прочитати: Газета застаріла.</VBE.CantReadNewsPaperExpired>
+  <VBE.ReadBlueprint>Прочитати {0}</VBE.ReadBlueprint>
+  <VBE.CantReadBlueprintAlreadyResearched>Неможливо прочитати: Технологія вже відома.</VBE.CantReadBlueprintAlreadyResearched>
+  <VBE.CantReadBlueprintTooAdvanced>Неможливо прочитати: Описана технологія занадто просунута.</VBE.CantReadBlueprintTooAdvanced>
+  <VBE.CantReadBlueprintUsed>Неможливо прочитати: Це креслення вже використовується.</VBE.CantReadBlueprintUsed>
+  <VBE.ReadMap>Дослідити мапу</VBE.ReadMap>
+  <VBE.CantReadMapUsed>Неможливо Дослідити: Ця мапа вже використовується</VBE.CantReadMapUsed>
+  <VBE.LocationsOpened>Знайдено нову локацію</VBE.LocationsOpened>
+  <VBE.LocationsOpenedDesc>Дослідження мапи відкрило нову локацію.</VBE.LocationsOpenedDesc>
+</LanguageData>

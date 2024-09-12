@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Wretched Existence -->
+  <AG_WretchScenario.label>Жалюгідне існування</AG_WretchScenario.label>
+  <!-- EN: There were no lights in the lab, only darkness. No voices, only silence. And, many days, no food...\n\nOne day, this all changed. Sirens blared, explosions buffeted the sturdy concrete walls and, suddenly, freedom, a gust of air, and the nearly forgotten light of the sun. The three of you ran, and never looked back. However, you were forever changed... -->
+  <AG_WretchScenario.description>У лабораторії не було світла, лише темрява. Ніяких голосів, лише тиша. І багато днів не було їжі...\n\nОдного дня все змінилося. Завили сирени, вибухи прогриміли по міцних бетонних стінах і, раптом, свобода, порив повітря і майже забуте світло сонця. Ви троє побігли і ніколи не озиралися. Але ви назавжди змінилися...</AG_WretchScenario.description>
+  <!-- EN: There were no lights in the lab, only darkness. No voices, only silence. And, many days, no food...\n\nOne day, this all changed. Sirens blared, explosions buffeted the sturdy concrete walls and, suddenly, freedom, a gust of air, and the nearly forgotten light of the sun. The three of you ran, and never looked back. However, you were forever changed... -->
+  <AG_WretchScenario.scenario.description>У лабораторії не було світла, лише темрява. Ніяких голосів, лише тиша. І багато днів не було їжі...\n\nОдного дня все змінилося. Завили сирени, вибухи прогриміли по міцних бетонних стінах і, раптом, свобода, порив повітря і майже забуте світло сонця. Ви троє побігли і ніколи не озиралися. Але ви назавжди змінилися...</AG_WretchScenario.scenario.description>
+  <!-- EN: Wretched Existence -->
+  <AG_WretchScenario.scenario.name>Жалюгідне існування</AG_WretchScenario.scenario.name>
+  <!-- EN: Start with three Wretches. -->
+  <AG_WretchScenario.scenario.parts.ConfigurePawnsXenotypes.customSummary>Почніть з трьох нещасних.</AG_WretchScenario.scenario.parts.ConfigurePawnsXenotypes.customSummary>
+  <!-- EN: There were no lights in the lab, only darkness. No voices, only silence. And, many days, no food...\n\nOne day, this all changed. Sirens blared, explosions buffeted the sturdy concrete walls and, suddenly, freedom, a gust of air, and the nearly forgotten light of the sun. The three of you ran, and never looked back. However, you were forever changed... -->
+  <AG_WretchScenario.scenario.parts.GameStartDialog.text>У лабораторії не було світла, лише темрява. Ніяких голосів, лише тиша. І багато днів не було їжі...\n\nОдного дня все змінилося. Завили сирени, вибухи прогриміли по міцних бетонних стінах і, раптом, свобода, порив повітря і майже забуте світло сонця. Ви троє побігли і ніколи не озиралися. Але ви назавжди змінилися...</AG_WretchScenario.scenario.parts.GameStartDialog.text>
+  <!-- EN: Three victims of genetic experimentation try to survive in the wild. -->
+  <AG_WretchScenario.scenario.summary>Три жертви генетичних експериментів намагаються вижити в дикій природі.</AG_WretchScenario.scenario.summary>
+  
+</LanguageData>

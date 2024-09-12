@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: eviscerator -->
+  <ReviaSerratedDagger.label>винищувач</ReviaSerratedDagger.label>
+  <!-- EN: A cruel dagger with razor-sharp palestone shards lining its blade. Designed to tear tissue and cause grievous bleeding wounds. -->
+  <ReviaSerratedDagger.description>Жорстокий кинджал, лезо якого вкрите гострими як бритва уламками блідокаменю. Призначений для розривання тканин і нанесення тяжких кровоточивих ран.</ReviaSerratedDagger.description>
+  <!-- EN: handle -->
+  <ReviaSerratedDagger.tools.handle.label>руків'я</ReviaSerratedDagger.tools.handle.label>
+  <!-- EN: point -->
+  <ReviaSerratedDagger.tools.point.label>вістря</ReviaSerratedDagger.tools.point.label>
+  <!-- EN: edge -->
+  <ReviaSerratedDagger.tools.edge.label>лезо</ReviaSerratedDagger.tools.edge.label>
+  
+</LanguageData>

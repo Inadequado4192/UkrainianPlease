@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <!-- Generic -->
+
+  <IP_InsertFirstItemDesc>Додати</IP_InsertFirstItemDesc>
+  <IP_InsertSecondItemDesc>Додати</IP_InsertSecondItemDesc>
+  <IP_InsertThirdItemDesc>Додати</IP_InsertThirdItemDesc>
+  <IP_InsertFourthItemDesc>Додати</IP_InsertFourthItemDesc>
+  <IP_InsertVariable>Додати {0}</IP_InsertVariable>
+  <IP_Output>Забрати {0}</IP_Output>
+  <IP_OutputVariable>Забрати {0} з {1}</IP_OutputVariable>
+  <IP_OutputDesc>Обробник виробить {0}. Йому потрібно надати {1}</IP_OutputDesc>
+  <IP_InsertVariableSecond>Додати {0} у 2й слот</IP_InsertVariableSecond>
+  <IP_InsertVariableThird>Додати {0} у 3й слот</IP_InsertVariableThird>
+  <IP_CantFindThing>На цій мапі не знайдено елементів шуканого типу ({0})</IP_CantFindThing>
+  <IP_BringIngredients>Принести інгредієнти</IP_BringIngredients>
+  <IP_BringIngredientsDesc>Принести інгредієнти, щоб почати процес</IP_BringIngredientsDesc>
+  <IP_CancelIngredients>Скасувати доставку інгредієнтів</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>Скасувати доставку інгредієнтів до цієї будівлі</IP_CancelIngredientsDesc>
+  <IP_NoIngredientFound>Інгредієнтів не знайдено на мапі</IP_NoIngredientFound>
+  <IP_ChooseIngredient>Обрати інгредієнт</IP_ChooseIngredient>
+  <IP_ChooseOutput>Обрати продукт</IP_ChooseOutput>
+  <IP_ChooseIngredientSecond>Обрати 2й інгредієнт</IP_ChooseIngredientSecond>
+  <IP_ChooseIngredientThird>Обрати 3й інгредієнт</IP_ChooseIngredientThird>
+  <IP_ChooseIngredientFourth>Обрати 4й інгредієнт</IP_ChooseIngredientFourth>
+  <IP_IngredientImproperlyDefined>Один з інгредієнтів неправильно визначено для роботи з процесором предметів, зверніться до автора модифікації</IP_IngredientImproperlyDefined>
+  <IP_NoPowerDestroysWarning>{0} – потрібно подати живлення, щоб почати роботу</IP_NoPowerDestroysWarning>
+  <IP_NoFuelDestroysWarning>{0} – потрібно заправити, щоб почати роботу</IP_NoFuelDestroysWarning>
+  <IP_LightDestroysWarning>{0} – для початку роботи має бути достатній рівень освітлення</IP_LightDestroysWarning>
+  <IP_RainDestroysWarning>{0} – для початку роботи не повинно бути дощу</IP_RainDestroysWarning>
+  <IP_TemperatureDestroysWarning>{0} – для початку роботи має бути відповідна температура ({1} - {2})</IP_TemperatureDestroysWarning>
+  <IP_NoPowerDestroysInitialWarning>Продукт псується через збій електроживлення</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysMessage>Продукт псується через збій електроживлення</IP_NoPowerDestroysMessage>
+  <IP_GenericProductFinished>Продукт закінчив обробку</IP_GenericProductFinished>
+  <IP_IsEmpty>{0} не заповнено</IP_IsEmpty>
+  <IP_FilledWith>{0} заповнено {1}</IP_FilledWith>
+  <IP_FilledWithSecond>2ий слот {0} заповнено {1}</IP_FilledWithSecond>
+  <IP_FilledWithThird>3й слот {0} заповнено {1}</IP_FilledWithThird>
+  <IP_FilledWithFourth>4й слот {0} заповнено {1}</IP_FilledWithFourth>
+  <IP_IngredientPercentage> (заповнено на {0} з {1})</IP_IngredientPercentage>
+  <IP_ProcessorWorking>{0} працює: </IP_ProcessorWorking>
+  <IP_ProcessorPaused>{0} на павзі: </IP_ProcessorPaused>
+  <IP_ProcessingInProgress>{0} обробляє {1}. {2} приготовиться з якістю {3} через {4}</IP_ProcessingInProgress>
+  <IP_ProcessingInProgressNoQuality>{0} обробляє {1}. {2} приготовиться через {3}</IP_ProcessingInProgressNoQuality>
+  <IP_RemoveProduct>Вилучити {0} ({1})</IP_RemoveProduct>
+  <IP_RemoveProductDesc>Вилучити {0} з {1}. Продукт буде готовий з поточним рівнем якості ({2})</IP_RemoveProductDesc>
+  <IP_ResetSemiautomatic>Скинути рецептуру</IP_ResetSemiautomatic>
+  <IP_ResetSemiautomaticDesc>Це призведе до скидання рецептури будівлі по завершенню поточного продукту, щоб можна було вибрати нові інгредієнти</IP_ResetSemiautomaticDesc>
+  <IP_NoCombination>Для цих інгредієнтів не знайдено жодної комбінації</IP_NoCombination>
+  <IP_SetAutoQuality>Встановити якість для фінального продукту. Коли продукт досягає цієї якості, колоніст автоматично вилучить його і перенесе до складу, якщо є вільне місце. Якщо якість не встановлено, продукти будуть видобуватися вручну або з легендарною якістю.</IP_SetAutoQuality>
+  <IP_ChooseQualityAuto>Обрати автоякість</IP_ChooseQualityAuto>
+  <IP_QualityAutoIs>Автоякість: {0}</IP_QualityAutoIs>
+  <IP_QualityAutoNot>Вимкнути автоякість</IP_QualityAutoNot>
+  <IP_QualityAutoEstablished>Автоякість, продукт буде вилучено із якістю: {0}</IP_QualityAutoEstablished>
+  <IP_ToggleAuto>Автоматичне отримання інгредієнтів</IP_ToggleAuto>
+  <IP_ToggleAutoDesc>Якщо активно, ця будівля буде автоматично забирати інгредієнти із сусідніх воронок і автоматично почне працювати знову, як тільки продукт буде вилучено. Якщо ні, то колоністи тягатимуть інгредієнти до будівлі, і її потрібно буде активувати вручну після поповнення запасів</IP_ToggleAutoDesc>
+  <IP_ResetFullAuto>Перезавантаження оброблювача</IP_ResetFullAuto>
+  <IP_ResetFullAutoDesc>Повне перезавантаження оброблювача. Увага, це зупинить поточний процес та знищить всі надані для нього інгредієнти</IP_ResetFullAutoDesc>
+  <IP_ProductWaiting>Очікує на вилучення</IP_ProductWaiting>
+  <IP_OutsideLightRange>Процес у цій машині перерваний через недостатній рівень освітлення. Продукт незабаром буде зіпсований</IP_OutsideLightRange>
+  <IP_SpoiledDueToLight>Продукт у цій машині зіпсувався через недостатній рівень освітлення</IP_SpoiledDueToLight>
+  <IP_ItRains>Процес у цій машині перерваний через несприятливі погодні умови. Продукт незабаром буде зіпсований</IP_ItRains>
+  <IP_SpoiledDueToRain>Продукт у цій машині зіпсувався через несприятливі погодні умови</IP_SpoiledDueToRain>
+  <IP_WrongTemp>Процес у цій машині перерваний через невідповідну температуру. Продукт незабаром буде зіпсований</IP_WrongTemp>
+  <IP_SpoiledDueToWrongTemp>Продукт у цій машині зіпсувався через невідповідну температуру</IP_SpoiledDueToWrongTemp>
+  <IP_TempRangeInThisMachine>. Для цього ферментера потрібна температура від {0} до {1}</IP_TempRangeInThisMachine>
+  <IP_TogglePause>Павза / Рестарт</IP_TogglePause>
+  <IP_TogglePauseDesc>Призупиняє / Запускає процес у цьому оброблювачі</IP_TogglePauseDesc>
+  <IP_OverThreshold>Очікує, поки вивід не буде очищено. Ліміт виводу дорівнює {0}</IP_OverThreshold>
+  <IP_NoRecipesHere>Для цієї фабрики не було знайдено модифікованих рецептів</IP_NoRecipesHere>
+
+</LanguageData>

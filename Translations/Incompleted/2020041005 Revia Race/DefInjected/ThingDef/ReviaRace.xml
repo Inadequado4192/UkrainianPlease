@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Revia -->
+  <ReviaRaceAlien.label>Ревія</ReviaRaceAlien.label>
+  <!-- EN: A bloodthirsty vulpine near-human. -->
+  <ReviaRaceAlien.description>Кровожерлива лисиця, майже людина.</ReviaRaceAlien.description>
+  <!-- EN: left ear -->
+  <ReviaRaceAlien.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.bodyPartLabel>ліве вухо</ReviaRaceAlien.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.bodyPartLabel>
+  <!-- EN: right ear -->
+  <ReviaRaceAlien.alienRace.generalSettings.alienPartGenerator.bodyAddons.2.bodyPartLabel>праве вухо</ReviaRaceAlien.alienRace.generalSettings.alienPartGenerator.bodyAddons.2.bodyPartLabel>
+  <!-- EN: left fist -->
+  <ReviaRaceAlien.tools.left_fist.label>лівий кулак</ReviaRaceAlien.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <ReviaRaceAlien.tools.right_fist.label>правий кулак</ReviaRaceAlien.tools.right_fist.label>
+  <!-- EN: teeth -->
+  <ReviaRaceAlien.tools.teeth.label>зуби</ReviaRaceAlien.tools.teeth.label>
+  
+</LanguageData>

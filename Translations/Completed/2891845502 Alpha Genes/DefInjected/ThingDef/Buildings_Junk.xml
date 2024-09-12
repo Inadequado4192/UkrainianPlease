@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient band node -->
+  <AG_AncientBandNode.label>стародавній смуговий вузол</AG_AncientBandNode.label>
+  <!-- EN: A broken mechanoid-band signal amplifier. Its antennas are bent in weird angles. -->
+  <AG_AncientBandNode.description>Зламаний підсилювач сигналу механічного діапазону. Його антени зігнуті під дивними кутами.</AG_AncientBandNode.description>
+  
+  <!-- EN: ancient mech recharger -->
+  <AG_AncientBasicRecharger.label>стародавній зарядний пристрій для мехів</AG_AncientBasicRecharger.label>
+  <!-- EN: A broken mech recharger. The connecting pins are bent and chipped, making the whole machine useless. -->
+  <AG_AncientBasicRecharger.description>Зламаний зарядний пристрій для мехів. З'єднувальні штифти погнуті та потріскані, що робить всю машину непридатною для використання.</AG_AncientBasicRecharger.description>
+  
+  <!-- EN: ancient corpse -->
+  <AG_AncientCorpse.label>стародавній труп</AG_AncientCorpse.label>
+  <!-- EN: This skeleton has seen better days. -->
+  <AG_AncientCorpse.description>Цей скелет бачив кращі часи.</AG_AncientCorpse.description>
+  
+  <!-- EN: ancient faulty lamp -->
+  <AG_AncientFaultyLamp.label>стародавня несправна лампа</AG_AncientFaultyLamp.label>
+  <!-- EN: A metallic capsule filled with some bioluminescent compound. This one seems to still be producing some faint light. -->
+  <AG_AncientFaultyLamp.description>Металева капсула, наповнена якоюсь біолюмінесцентною речовиною. Ця, здається, все ще випромінює слабке світло.</AG_AncientFaultyLamp.description>
+  
+  <!-- EN: ancient gene assembler -->
+  <AG_AncientGeneAssembler.label>стародавній асемблер генів</AG_AncientGeneAssembler.label>
+  <!-- EN: A workbench for creating implantable xenogerms from genepacks stored in nearby gene banks. This device has collapsed in on itself, rendering it useless. -->
+  <AG_AncientGeneAssembler.description>Робочий стіл для створення імплантованих ксенозародків з генних пакетів, що зберігаються в сусідніх генних банках. Цей пристрій завалився сам на себе, що зробило його непридатним для використання.</AG_AncientGeneAssembler.description>
+  
+  <!-- EN: ancient gene bank -->
+  <AG_AncientGeneBank.label>стародавній банк генів</AG_AncientGeneBank.label>
+  <!-- EN: This device was able to store genepacks and make them usable to create new xenogerms, when placed near a gene assembler. It has corroded beyond any repair, and the genepacks stored inside are far gone. -->
+  <AG_AncientGeneBank.description>Цей пристрій міг зберігати генопакети і робити їх придатними для створення нових ксенозародків, коли його розміщували біля генного асемблера. Він проржавів і не підлягає відновленню, а генопакети, що зберігалися в ньому, зникли безвісти.</AG_AncientGeneBank.description>
+  
+  <!-- EN: ancient gene extractor -->
+  <AG_AncientGeneExtractor.label>стародавній екстрактор генів</AG_AncientGeneExtractor.label>
+  <!-- EN: An automated surgery machine that was able to extract a person's genes and create a genepack from them. Its internal machinery is completely fused and rusted. -->
+  <AG_AncientGeneExtractor.description>Автоматизована хірургічна машина, яка змогла витягти гени людини і створити з них генний пакет. Його внутрішні механізми повністю розплавилися та проржавіли.</AG_AncientGeneExtractor.description>
+  
+  <!-- EN: ancient gene processor -->
+  <AG_AncientGeneProcessor.label>стародавній генний процесор</AG_AncientGeneProcessor.label>
+  <!-- EN: A genetic analysis and processing system. Ruined and unuseable. -->
+  <AG_AncientGeneProcessor.description>Система генетичного аналізу та обробки даних. Зруйнована і непридатна для використання.</AG_AncientGeneProcessor.description>
+  
+  <!-- EN: ancient growth vat -->
+  <AG_AncientGrowthVat.label>стародавній чан для вирощування</AG_AncientGrowthVat.label>
+  <!-- EN: A vat of fluid which was able to gestate an embryo or accelerate a child's growth. Its transparent plasteel sheel has been smashed open, seemingly from the inside... Ominous. -->
+  <AG_AncientGrowthVat.description>Чан з рідиною, яка могла виносити ембріон або прискорювати ріст дитини. Його прозора пластикова ніжка розбита, здається, зсередини... Зловісно.</AG_AncientGrowthVat.description>
+  
+  <!-- EN: ancient huge gene bank -->
+  <AG_AncientHugeBank.label>стародавній величезний банк генів</AG_AncientHugeBank.label>
+  <!-- EN: A huge gene bank, much larger than the ones in use nowadays. Completely broken. -->
+  <AG_AncientHugeBank.description>Величезний банк генів, набагато більший за ті, що використовуються зараз. Повністю зламаний.</AG_AncientHugeBank.description>
+  
+  <!-- EN: ancient broken lamp -->
+  <AG_AncientLamp.label>стародавня розбита лампа</AG_AncientLamp.label>
+  <!-- EN: A broken lamp. -->
+  <AG_AncientLamp.description>Розбита лампа.</AG_AncientLamp.description>
+  
+  <!-- EN: ancient large mech gestator -->
+  <AG_AncientLargeMechGestator.label>стародавній великий меховий гестатор</AG_AncientLargeMechGestator.label>
+  <!-- EN: A tank used to create new mechanoids. The mechanite tank was punctured long ago, and all the fluid has long since evaporated. -->
+  <AG_AncientLargeMechGestator.description>Резервуар для створення нових механоїдів. Резервуар для механоїдів давно продірявився, і вся рідина давно випарувалася.</AG_AncientLargeMechGestator.description>
+  
+  <!-- EN: ancient large mech recharger -->
+  <AG_AncientLargeRecharger.label>стародавній великий зарядний пристрій для мехів</AG_AncientLargeRecharger.label>
+  <!-- EN: A broken mech recharger. The connecting pins are bent and chipped, making the whole machine useless. -->
+  <AG_AncientLargeRecharger.description>Зламаний зарядний пристрій для мехів. З'єднувальні штифти погнуті та потріскані, що робить всю машину непридатною для використання.</AG_AncientLargeRecharger.description>
+  
+  <!-- EN: ancient mech gestator -->
+  <AG_AncientMechGestator.label>стародавній мех-гестатор</AG_AncientMechGestator.label>
+  <!-- EN: A tank used to create new mechanoids. The mechanite tank was punctured long ago, and all the fluid has long since evaporated. -->
+  <AG_AncientMechGestator.description>Резервуар для створення нових механоїдів. Резервуар для механоїдів давно продірявився, і вся рідина давно випарувалася.</AG_AncientMechGestator.description>
+  
+  <!-- EN: ancient pollution pump -->
+  <AG_AncientPollutionPump.label>стародавній насос від забруднення</AG_AncientPollutionPump.label>
+  <!-- EN: This pump isn't going to pump anything at all anytime soon. -->
+  <AG_AncientPollutionPump.description>Цей насос не збирається нічого перекачувати найближчим часом.</AG_AncientPollutionPump.description>
+  
+  <!-- EN: ancient shelf -->
+  <AG_AncientShelf.label>стародавній стелаж</AG_AncientShelf.label>
+  <!-- EN: A rusted triple-stack shelf. It doesn't hold as many items as it once had, due to its state of disrepair. -->
+  <AG_AncientShelf.description>Іржавий потрійний стелаж. Через аварійний стан він вже не вміщує стільки речей, скільки колись.</AG_AncientShelf.description>
+  
+  <!-- EN: ancient subcore ripscanner -->
+  <AG_AncientSubcoreRipscanner.label>стародавній підпроцесорний ріпсканер</AG_AncientSubcoreRipscanner.label>
+  <!-- EN: This thing is SO edgy. Like, SUPER edgy. Basically a medical bed with spikes. I bet it only worked if you played symphonic metal in the background. I blame Oskar. -->
+  <AG_AncientSubcoreRipscanner.description>Ця штука ТАКА гостра. Просто СУПЕР гостра. По суті, медичне ліжко з шипами. Б'юся об заклад, воно працювало тільки якщо ви грали симфо-метал на задньому плані. Я звинувачую Оскара.</AG_AncientSubcoreRipscanner.description>
+  
+  <!-- EN: ancient vitals monitor -->
+  <AG_AncientVitalsMonitor.label>стародавній монітор життєвих показників</AG_AncientVitalsMonitor.label>
+  <!-- EN: A broken vitals monitor with a dead screen. -->
+  <AG_AncientVitalsMonitor.description>Розбитий монітор з непрацюючим екраном.</AG_AncientVitalsMonitor.description>
+  
+  <!-- EN: ancient wastepack atomizer -->
+  <AG_AncientWastepackAtomizer.label>стародавній розпилювач пакетів для сміття</AG_AncientWastepackAtomizer.label>
+  <!-- EN: This was just a fancy waste bin, and it is now just a broken waste bin. -->
+  <AG_AncientWastepackAtomizer.description>Це був просто гарний смітник, а тепер це просто зламаний смітник.</AG_AncientWastepackAtomizer.description>
+  
+  <!-- EN: ruined radio beacon -->
+  <AG_RaidSpawner.label>зруйнований радіомаяк</AG_RaidSpawner.label>
+  <!-- EN: This device seems to be emitting weak radio waves. -->
+  <AG_RaidSpawner.description>Цей пристрій, здається, випромінює слабкі радіохвилі.</AG_RaidSpawner.description>
+  
+  <!-- EN: random genepack -->
+  <AG_RandomGenepack.label>випадковий генпакет</AG_RandomGenepack.label>
+  <!-- EN: Spawn random genepack. -->
+  <AG_RandomGenepack.description>Створити випадковий генпакет.</AG_RandomGenepack.description>
+  
+  <!-- EN: random gene tool -->
+  <AG_RandomGeneTool.label>випадковий генний інструмент</AG_RandomGeneTool.label>
+  <!-- EN: Spawn random gene tool. -->
+  <AG_RandomGeneTool.description>Створити випадковий генний інструмент.</AG_RandomGeneTool.description>
+  
+  <!-- EN: ancient hospital bed -->
+  <AG_RuinedHospitalBed.label>стародавнє лікарняне ліжко</AG_RuinedHospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. The mattress has rotted away into nothingness. -->
+  <AG_RuinedHospitalBed.description>Ліжко, спеціально розроблене для використання в лікарнях. Матрац згнив і перетворився на ніщо.</AG_RuinedHospitalBed.description>
+  
+  <!-- EN: ancient lab lamp -->
+  <AG_RuinedLabLamp.label>стародавня лабораторна лампа</AG_RuinedLabLamp.label>
+  <!-- EN: A metallic post with a glass cilinder filled with some bioluminescent compound. This one seems to still be producing some faint light. -->
+  <AG_RuinedLabLamp.description>Металевий стовп зі скляним циліндром, наповненим якоюсь біолюмінесцентною речовиною. Цей, здається, все ще випромінює слабке світло.</AG_RuinedLabLamp.description>
+  
+</LanguageData>

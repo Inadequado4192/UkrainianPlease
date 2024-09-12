@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Робота для входу в повітряний засіб-->
+  <MYDE_AerocraftFramework_Job_Enter_Building_Aerocraft_AsBaseThing.reportString>Увійти в повітряний засіб</MYDE_AerocraftFramework_Job_Enter_Building_Aerocraft_AsBaseThing.reportString>
+  <!--Робота для заміни поточної зброї в повітряному засобі-->
+  <MYDE_AerocraftFramework_Job_ReplaceCurrentWeapon.reportString>Замінити поточну зброю в повітряному засобі</MYDE_AerocraftFramework_Job_ReplaceCurrentWeapon.reportString>
+  <!--Робота для завантаження снаряду в повітряний засіб-->
+  <MYDE_AerocraftFramework_Job_LoadShell.reportString>Завантажити снаряд в повітряний засіб</MYDE_AerocraftFramework_Job_LoadShell.reportString>
+</LanguageData>

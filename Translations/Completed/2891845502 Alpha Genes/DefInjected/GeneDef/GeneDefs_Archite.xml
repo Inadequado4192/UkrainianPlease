@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: asexual fission -->
+  <AG_AsexualFission.label>безстатеве ділення</AG_AsexualFission.label>
+  <!-- EN: Carriers of this gene will periodically generate small clumps of organic matter on their backs that gradually develop into full human beings, and separate from their host / parent via a process of strobilation. This will provide an endless source of new colonists, at the risk of flooding the colony with newborns. -->
+  <AG_AsexualFission.description>Носії цього гена періодично генеруватимуть на своїй спині невеликі згустки органічної речовини, які поступово розвиватимуться в повноцінних людей і відокремлюватимуться від свого хазяїна/батька за допомогою процесу стробіляції. Це забезпечить нескінченне джерело нових колоністів, ризикуючи затопити колонію новонародженими.</AG_AsexualFission.description>
+  <!-- EN: Will produce newborns via asexual fission every 25 days -->
+  <AG_AsexualFission.customEffectDescriptions.0>Буде виробляти новонароджених шляхом безстатевого поділу кожні 25 днів</AG_AsexualFission.customEffectDescriptions.0>
+  <!-- EN: ace- -->
+  <AG_AsexualFission.symbolPack.prefixSymbols.0.symbol>ейс-</AG_AsexualFission.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: sexless -->
+  <AG_AsexualFission.symbolPack.prefixSymbols.1.symbol>безстатевий</AG_AsexualFission.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: asexual -->
+  <AG_AsexualFission.symbolPack.prefixSymbols.2.symbol>асексуальний</AG_AsexualFission.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: cold immunity -->
+  <AG_ColdImmunity.label>імунітет до холоду </AG_ColdImmunity.label>
+  <!-- EN: Carriers of this gene are almost unaffected by cold. They will be simultaneously not bothered by frostbite. -->
+  <AG_ColdImmunity.description>Носії цього гена майже не чутливі до холоду. Водночас їх не буде турбувати обмороження.</AG_ColdImmunity.description>
+  <!-- EN: cold -->
+  <AG_ColdImmunity.symbolPack.prefixSymbols.0.symbol>cold</AG_ColdImmunity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: cool -->
+  <AG_ColdImmunity.symbolPack.prefixSymbols.1.symbol>cool</AG_ColdImmunity.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: ice -->
+  <AG_ColdImmunity.symbolPack.prefixSymbols.2.symbol>ice</AG_ColdImmunity.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: foodless -->
+  <AG_Foodless.label>без їжі</AG_Foodless.label>
+  <!-- EN: Carriers of this gene have archites in the blood which will sustain their metabolism without needing to consume food. -->
+  <AG_Foodless.description>Носії цього гена мають у крові архітипи, які підтримують їхній метаболізм, не потребуючи споживання їжі..</AG_Foodless.description>
+  <!-- EN: Reduces the need to eat to be almost negligible (not entirely zero to avoid weird mod interactions) -->
+  <AG_Foodless.customEffectDescriptions.0>Зменшує потребу в їжі майже до нуля (не до повного нуля, щоб уникнути дивних взаємодій модів)</AG_Foodless.customEffectDescriptions.0>
+  
+  <!-- EN: heat immunity -->
+  <AG_HeatImmunity.label>термостійкість</AG_HeatImmunity.label>
+  <!-- EN: Carriers of this gene are almost unaffected by heat. They will be simultaneously not bothered by flames. -->
+  <AG_HeatImmunity.description>На носіїв цього гена майже не впливає спека. Водночас їх не буде турбувати полум'я.</AG_HeatImmunity.description>
+  <!-- EN: hot -->
+  <AG_HeatImmunity.symbolPack.prefixSymbols.0.symbol>гарячий</AG_HeatImmunity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: heat -->
+  <AG_HeatImmunity.symbolPack.prefixSymbols.1.symbol>теплий</AG_HeatImmunity.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sun -->
+  <AG_HeatImmunity.symbolPack.prefixSymbols.2.symbol>сонячний</AG_HeatImmunity.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: sweat -->
+  <AG_HeatImmunity.symbolPack.prefixSymbols.3.symbol>потове</AG_HeatImmunity.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: bake -->
+  <AG_HeatImmunity.symbolPack.prefixSymbols.4.symbol>випічка</AG_HeatImmunity.symbolPack.prefixSymbols.4.symbol>
+  
+  <!-- EN: unfeeling -->
+  <AG_Mood_Unfeeling.label>бездушний</AG_Mood_Unfeeling.label>
+  <!-- EN: Carriers of this gene have no emotions. -->
+  <AG_Mood_Unfeeling.description>Носії цього гена не мають емоцій.</AG_Mood_Unfeeling.description>
+  <!-- EN: This gene hasn't been 100% tested and I bet it breaks some things. weeeee! -->
+  <AG_Mood_Unfeeling.customEffectDescriptions.0>Цей ген не був протестований на 100%, і я впевнений, що він дещо ламає.</AG_Mood_Unfeeling.customEffectDescriptions.0>
+  <!-- EN: robot -->
+  <AG_Mood_Unfeeling.symbolPack.prefixSymbols.0.symbol>робот</AG_Mood_Unfeeling.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hard -->
+  <AG_Mood_Unfeeling.symbolPack.prefixSymbols.1.symbol>важкий</AG_Mood_Unfeeling.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: heartless -->
+  <AG_Mood_Unfeeling.symbolPack.prefixSymbols.2.symbol>безсердечний</AG_Mood_Unfeeling.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: regeneration -->
+  <AG_Regeneration.label>регенерація</AG_Regeneration.label>
+  <!-- EN: Carriers of this gene have a distributed network of specialized mechanites on their bloodstream that periodically tend to internal wounds, regenerating them without any need for rest. -->
+  <AG_Regeneration.description>Носії цього гена мають розподілену мережу спеціалізованих механітів у крові, які періодично звертаються до внутрішніх ран, регенеруючи їх без потреби у відпочинку.</AG_Regeneration.description>
+  <!-- EN: A random wound is reduced by 0.1 severity every 10 ticks (1/6th of a second). -->
+  <AG_Regeneration.customEffectDescriptions.0>Випадкова рана зменшується на 0.1 тяжкості кожні 10 тиків (1/6 секунди).</AG_Regeneration.customEffectDescriptions.0>
+  
+</LanguageData>

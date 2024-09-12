@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Diplomat.labelShort>Розважати</Diplomat.labelShort>
+    <Diplomat.pawnLabel>Дипломат</Diplomat.pawnLabel>
+    <Diplomat.gerundLabel>Розважальний</Diplomat.gerundLabel>
+    <Diplomat.description>Дипломати розважають гостей і будують дружбу.</Diplomat.description>
+    <Diplomat.verb>Розважати</Diplomat.verb>
+</LanguageData> 

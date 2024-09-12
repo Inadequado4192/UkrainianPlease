@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AerocraftFramework_AerocraftArrived>Прибув {0_label}</AerocraftFramework_AerocraftArrived>
+  <AerocraftFramework_CommandAttackSettlement>Повітряний Засіб·Атака</AerocraftFramework_CommandAttackSettlement>
+  <AerocraftFramework_Trade_Leave_Label>Залишити повітряний засіб</AerocraftFramework_Trade_Leave_Label>
+  <AerocraftFramework_Trade_Leave_Desc>'Зміст' всередині повітряного засобу тимчасово покине повітряний засіб та створить караван, що дозволить здійснювати торгівлю та мирні місії</AerocraftFramework_Trade_Leave_Desc>
+  <AerocraftFramework_Trade_GetOn_Label>Сісти на повітряний засіб</AerocraftFramework_Trade_GetOn_Label>
+  <AerocraftFramework_Trade_GetOn_Desc>Караван сів на повітряний засіб</AerocraftFramework_Trade_GetOn_Desc>
+  <AerocraftFramework_TradeError>Помилка: В повітряному засобі 'Зміст' відсутні колонізатори</AerocraftFramework_TradeError>
+  <AerocraftFramework_Refuel_Label>Поповнити паливо</AerocraftFramework_Refuel_Label>
+  <AerocraftFramework_Refuel_Desc>Отримати паливо, що відповідає вимогам, з 'Змісту' у повітряний засіб, щоб заповнити його паливом</AerocraftFramework_Refuel_Desc>
+  <AerocraftFramework_Refuel_Message_A>Неможливо заповнити: Паливо в повітряному засобі вже заповнено</AerocraftFramework_Refuel_Message_A>
+  <AerocraftFramework_Refuel_Message_B>Помилка: Неможливо знайти відповідне паливо для заповнення в 'Змісті'</AerocraftFramework_Refuel_Message_B>
+  <AerocraftFramework_TradeError_CannotCarry>Неможливо перевантажити</AerocraftFramework_TradeError_CannotCarry>
+</LanguageData>

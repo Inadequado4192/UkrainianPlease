@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--condiments-->
+  <VCE_Condiments.label>приправи</VCE_Condiments.label>
+  <!--cheese-->
+  <VCE_Cheese.label>сир</VCE_Cheese.label>
+  <!--uncooked soups-->
+  <VCE_UncookedSoups.label>неварені супи</VCE_UncookedSoups.label>
+</LanguageData>

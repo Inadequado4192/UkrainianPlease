@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: teratogenic coordination -->
+  <AG_TeratogenicManipulation.label>тератогенна координація</AG_TeratogenicManipulation.label>
+  <!-- EN: This person has increased manipulation and manual dexterity. -->
+  <AG_TeratogenicManipulation.description>Ця людина має підвищену маніпулятивність і спритність рук.</AG_TeratogenicManipulation.description>
+  
+  <!-- EN: teratogenic stamina -->
+  <AG_TeratogenicStamina.label>тератогенна витривалість</AG_TeratogenicStamina.label>
+  <!-- EN: This person has a huge boost to their immune system, and overall stamina. -->
+  <AG_TeratogenicStamina.description>Ця людина має величезний приріст імунної системи та загальної витривалості.</AG_TeratogenicStamina.description>
+  
+  <!-- EN: teratogenic swiftness -->
+  <AG_TeratogenicSwiftness.label>тератогенна швидкість</AG_TeratogenicSwiftness.label>
+  <!-- EN: This person has increased movement and working speed. -->
+  <AG_TeratogenicSwiftness.description>Ця людина має підвищену рухливість і швидкість роботи.</AG_TeratogenicSwiftness.description>
+  
+</LanguageData>

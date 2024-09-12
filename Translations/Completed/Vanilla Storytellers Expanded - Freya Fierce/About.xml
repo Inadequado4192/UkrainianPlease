@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Scheme.xsd">
+    <originalMod>
+        <name>Vanilla Storytellers Expanded - Freya Fierce</name>
+        <id>2231483525</id>
+        <packageId>vse.freyafierce</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>Arlechin</nickname>
+            <steamId>76561198162359187</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>3180525233</sourceTranslationId>
+    <lastUpdate>2024-03-12T14:48:20.000Z</lastUpdate>
+</TranslationDetails>

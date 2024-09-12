@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_CombatProwess_Reduced.label>дріади</AM_CombatProwess_Reduced.label>
+  <AM_CombatProwess_Reduced.description>Хоча ми без вагань захистимо себе, якщо цього вимагатиме ситуація, ми стали залежними від наших дріад у нашому захисті.</AM_CombatProwess_Reduced.description>
+
+  <AM_CombatProwess_Increased.label>дистанція</AM_CombatProwess_Increased.label>
+  <AM_CombatProwess_Increased.description>Снайперські гвинтівки, карабіни, револьвери, вся далекобійна зброя - це наша спеціалізація. Ми опануємо її використання і захистимо себе від будь-кого, хто наважиться виступити проти нас.\n\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;\n - Будь-яка далекобійна зброя, що використовується колоністами, отримує 20% збільшення дальності стрільби. Міномети та інша артилерійська зброя не вважаються далекобійною для цієї мети.</AM_CombatProwess_Increased.description>
+
+  <AM_CombatProwess_Melee.label>ближній бій</AM_CombatProwess_Melee.label>
+  <AM_CombatProwess_Melee.description>Мечі, булави, сокири, вся зброя ближнього бою - це наш фах. Ми навчимося нею користуватися і захистимося від будь-кого, хто наважиться виступити проти нас.\n\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;\n - Будь-які атаки колоністів в ближньому бою мають 20% шанс оглушення.</AM_CombatProwess_Melee.description>
+
+
+</LanguageData>

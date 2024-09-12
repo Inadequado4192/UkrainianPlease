@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--tutoring animal {0} died-->
+  <VAERoy_TutorDied.stages.tutoring_animal_died.label>{0}, моя тварина-репетитор, померла</VAERoy_TutorDied.stages.tutoring_animal_died.label>
+  <!--That lovely orungatun taught me a lot. This universe is evil!-->
+  <VAERoy_TutorDied.stages.tutoring_animal_died.description>Цей прекрасний орунгатун багато чому мене навчив. Цей всесвіт – зло!</VAERoy_TutorDied.stages.tutoring_animal_died.description>
+  
+  <!--tutoring animal {0} lost-->
+  <VAERoy_TutorLost.stages.tutoring_animal_lost.label>{0}, моя тварина-репетитор, загубилась</VAERoy_TutorLost.stages.tutoring_animal_lost.label>
+  <!--That lovely orungatun taught me a lot. This universe is evil!-->
+  <VAERoy_TutorLost.stages.tutoring_animal_lost.description>Цей прекрасний орунгатун багато чому мене навчив. Цей всесвіт – зло!</VAERoy_TutorLost.stages.tutoring_animal_lost.description>
+  
+  <!--killed my tutoring animal-->
+  <VAERoy_TutorKilled.stages.killed_my_tutoring_animal.label>{0_gender ? вбив : вбила} мою тварину-репетитора</VAERoy_TutorKilled.stages.killed_my_tutoring_animal.label>
+  
+  <!--beautiful cranes-->
+  <VAERoy_CraneThought.stages.beautiful_cranes.label>красиві журавлі</VAERoy_CraneThought.stages.beautiful_cranes.label>
+  <!--My royal gardens are full of the most noble of birds.-->
+  <VAERoy_CraneThought.stages.beautiful_cranes.description>Мої королівські сади повні найблагородніших птахів.</VAERoy_CraneThought.stages.beautiful_cranes.description>
+</LanguageData>

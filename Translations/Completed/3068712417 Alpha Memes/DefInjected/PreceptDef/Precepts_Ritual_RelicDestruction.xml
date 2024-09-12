@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_RelicDestructionPrecept.label>знищення реліквії</AM_RelicDestructionPrecept.label>
+  <AM_RelicDestructionPrecept.description>Церемонія знищення реліквій. За кожну знищену реліквію колоністи отримають постійний бонус.</AM_RelicDestructionPrecept.description>
+
+
+</LanguageData>

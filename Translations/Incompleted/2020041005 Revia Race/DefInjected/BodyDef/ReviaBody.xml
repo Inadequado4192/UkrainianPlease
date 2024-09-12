@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: revia -->
+  <ReviaRaceBody.label>ревія</ReviaRaceBody.label>
+  <!-- EN: left lung -->
+  <ReviaRaceBody.corePart.parts.left_lung.customLabel>ліва легеня</ReviaRaceBody.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <ReviaRaceBody.corePart.parts.right_lung.customLabel>права легеня</ReviaRaceBody.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <ReviaRaceBody.corePart.parts.left_kidney.customLabel>ліва нирка</ReviaRaceBody.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <ReviaRaceBody.corePart.parts.right_kidney.customLabel>права нирка</ReviaRaceBody.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <ReviaRaceBody.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</ReviaRaceBody.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <ReviaRaceBody.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</ReviaRaceBody.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <ReviaRaceBody.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</ReviaRaceBody.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <ReviaRaceBody.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</ReviaRaceBody.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.customLabel>ліве плече</ReviaRaceBody.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>ліва ключиця</ReviaRaceBody.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.customLabel>ліва рука</ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>ліва плечова кістка</ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>ліва ліктьова кістка</ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>ліва рука</ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>лівий мізинець</ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>лівий безіменний палець</ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>лівий середній палець</ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>лівий вказівний палець</ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>лівий великий палець</ReviaRaceBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.customLabel>праве плече</ReviaRaceBody.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>права ключиця</ReviaRaceBody.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.customLabel>права рука</ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>права плечова кістка</ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>права ліктьова кістка</ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>права рука</ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>правий мізинець</ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>правий безіменний палець</ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>правий середній палець</ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>правий вказівний палець</ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>правий великий палець</ReviaRaceBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: tail -->
+  <ReviaRaceBody.corePart.parts.tail.customLabel>хвіст</ReviaRaceBody.corePart.parts.tail.customLabel>
+  <!-- EN: left leg -->
+  <ReviaRaceBody.corePart.parts.left_leg.customLabel>ліва нога</ReviaRaceBody.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <ReviaRaceBody.corePart.parts.left_leg.parts.left_femur.customLabel>ліва стегно</ReviaRaceBody.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <ReviaRaceBody.corePart.parts.left_leg.parts.left_tibia.customLabel>ліва гомілка</ReviaRaceBody.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.customLabel>ліва нога</ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>лівий мізинець ноги</ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>лівий четвертий палець ноги</ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>лівий середній палець ноги</ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>лівий другий палець ноги</ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>лівий великий палець ноги</ReviaRaceBody.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <ReviaRaceBody.corePart.parts.right_leg.customLabel>права нога</ReviaRaceBody.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <ReviaRaceBody.corePart.parts.right_leg.parts.right_femur.customLabel>права стегно</ReviaRaceBody.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <ReviaRaceBody.corePart.parts.right_leg.parts.right_tibia.customLabel>права гомілка</ReviaRaceBody.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.customLabel>права нога</ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>правий мізинець ноги</ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>правий четвертий палець ноги</ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>правий середній палець ноги</ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>правий другий палець ноги</ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>правий великий палець ноги</ReviaRaceBody.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+</LanguageData>

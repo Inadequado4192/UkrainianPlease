@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Revia Exclave -->
+  <ReviaPlayerColony.label>Ексклав Ревія</ReviaPlayerColony.label>
+  <!-- EN: Your faction! -->
+  <ReviaPlayerColony.description>Ваша фракція!</ReviaPlayerColony.description>
+  <!-- EN: leader -->
+  <ReviaPlayerColony.leaderTitle>лідер</ReviaPlayerColony.leaderTitle>
+  <!-- EN: frontiersman -->
+  <ReviaPlayerColony.pawnSingular>прикордонник</ReviaPlayerColony.pawnSingular>
+  <!-- EN: frontiersmen -->
+  <ReviaPlayerColony.pawnsPlural>прикордонники</ReviaPlayerColony.pawnsPlural>
+  
+</LanguageData>

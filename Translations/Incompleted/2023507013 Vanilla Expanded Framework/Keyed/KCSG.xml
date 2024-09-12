@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KCSG.Add>Додати</KCSG.Add>
+    <KCSG.Remove>Видалити</KCSG.Remove>
+    <KCSG.SpawnNearCenter>Створити біля центру</KCSG.SpawnNearCenter>
+    <KCSG.AllowFoggedPosition>Дозволити перехоплення позиції</KCSG.AllowFoggedPosition>
+    <KCSG.SpawnPartOfEnnemyFaction>Створити частину ворожої фракції</KCSG.SpawnPartOfEnnemyFaction>
+    <KCSG.Mapcontains>Карта містить</KCSG.Mapcontains>
+    <KCSG.Enter>Ввести {0}</KCSG.Enter>
+    <KCSG.CantEnter>Не вдається ввести {0}</KCSG.CantEnter>
+</LanguageData>

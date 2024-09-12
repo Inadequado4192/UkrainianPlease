@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VSE_ArmorPenetrationFactor.label>множник пробиття броні</VSE_ArmorPenetrationFactor.label>
+  <VSE_ArmorPenetrationFactor.description>Множник, що застосовується до бронепробивної здатності атак.</VSE_ArmorPenetrationFactor.description>
+  <VSE_MeleeCooldownFactor.label>множник швидкості перезарядки в ближньому бою</VSE_MeleeCooldownFactor.label>
+  <VSE_MeleeCooldownFactor.description>Множник, що застосовується до перезарядки атак ближнього бою.</VSE_MeleeCooldownFactor.description>
+  <VSE_AttackOnFailChanceFactor.label>множник шансу атаки при невдачі приручення</VSE_AttackOnFailChanceFactor.label>
+  <VSE_AttackOnFailChanceFactor.description>Множник, що застосовується до ймовірності того, що невдалі спроби приручення призведуть до нападу тварини.</VSE_AttackOnFailChanceFactor.description>
+  <VSE_ArtQuality.label>бонус до якості творів мистецтва</VSE_ArtQuality.label>
+  <VSE_ArtQuality.description>Бонус до якості творів мистецтва цього поселенця.</VSE_ArtQuality.description>
+  <VSE_ArtSpeed.label>швидкість створення творів мистецтва</VSE_ArtSpeed.label>
+  <VSE_ArtSpeed.description>Множник швидкості, з якою цей поселенець створює твори мистецтва.</VSE_ArtSpeed.description>
+  <VSE_RoofSpeed.label>швидкість створення дахів</VSE_RoofSpeed.label>
+  <VSE_RoofSpeed.description>Як швидко цей поселенець може працювати над створенням дахів.</VSE_RoofSpeed.description>
+  <VSE_FloorSpeed.label>швидкість укладання підлоги</VSE_FloorSpeed.label>
+  <VSE_FloorSpeed.description>Як швидко цей поселенець може укладати підлогу.</VSE_FloorSpeed.description>
+  <VSE_RepairSpeed.label>швидкість ремонту</VSE_RepairSpeed.label>
+  <VSE_RepairSpeed.description>Як швидко цей поселенець може відновлювати конструкції.</VSE_RepairSpeed.description>
+  <VSE_ConstructQuality.label>бонус до якості будівництва</VSE_ConstructQuality.label>
+  <VSE_ConstructQuality.description>Бонус, що додається до якості речей, побудованих цим поселенцем.</VSE_ConstructQuality.description>
+  <VSE_TailoringSpeed.label>швидкість шиття</VSE_TailoringSpeed.label>
+  <VSE_TailoringSpeed.description>Як швидко цей поселенець шиє одяг.</VSE_TailoringSpeed.description>
+  <VSE_WeaponCreationSpeed.label>швидкість створення зброї</VSE_WeaponCreationSpeed.label>
+  <VSE_WeaponCreationSpeed.description>Як швидко цей поселенець може створювати зброю.</VSE_WeaponCreationSpeed.description>
+  <VSE_ComponentCraftingSpeed.label>швидкість створення компонентів</VSE_ComponentCraftingSpeed.label>
+  <VSE_ComponentCraftingSpeed.description>Як швидко цей поселенець може створювати компоненти (як звичайні, так і передові).</VSE_ComponentCraftingSpeed.description>
+  <VSE_RockChunkChance.label>Шанс видобутку гірської породи</VSE_RockChunkChance.label>
+  <VSE_RockChunkChance.description>Шанс, з яким цей поселенець добуде уламок гірської породи під час шахтарських робіт.</VSE_RockChunkChance.description>
+  <VSE_RecruitRate.label>шанс вербування</VSE_RecruitRate.label>
+  <VSE_RecruitRate.description>Як швидко цей поселенець може завербувати ув'язнених до колонії.</VSE_RecruitRate.description>
+  <VSE_PeaceTalksChance.label>шанс на успіх мирних переговорів</VSE_PeaceTalksChance.label>
+  <VSE_PeaceTalksChance.description>Наскільки ймовірним є успіх цього поселенця на мирних переговорах.</VSE_PeaceTalksChance.description>
+</LanguageData>

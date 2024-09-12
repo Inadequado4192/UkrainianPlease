@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFE_ArchotechSculpture.label>cкульптура архотехів</VFE_ArchotechSculpture.label>
+  <VFE_ArchotechSculpture.description>Стародавня, в людський зріст, загадкова машина. Створює детальний образ у свідомості оточуючих поселенців. Діє крізь стіни.</VFE_ArchotechSculpture.description>
+
+  <VFE_Pottery.label>гончарні вироби</VFE_Pottery.label>
+  <VFE_Pottery.description>Невеликі гончарні вироби з художнім гравіюванням. Можна виготовити на мистецькому столі.</VFE_Pottery.description>
+
+  <VFE_Carving.label>різьблена скульптура</VFE_Carving.label>
+  <VFE_Carving.description>Невеличка різьблена скульптура, вирізана зі шмата стіни заввишки до пояса. Може служити в якості укриття.</VFE_Carving.description>
+
+  <VFE_StatueSmall.label>мала статуя</VFE_StatueSmall.label>
+  <VFE_StatueSmall.description>Невеликий за розміром шмат матеріалу на декоративному п'єдесталі, виліплений у художній формі.</VFE_StatueSmall.description>
+
+  <VFE_StatueLarge.label>велика статуя</VFE_StatueLarge.label>
+  <VFE_StatueLarge.description>Шмат матеріалу в людський зріст на декоративному п'єдесталі, виліплений у художній формі.</VFE_StatueLarge.description>
+
+  <VFE_StatueGrand.label>грандіозна статуя</VFE_StatueGrand.label>
+  <VFE_StatueGrand.description>Величезний шмат матеріалу на декоративному п'єдесталі, виліплений у художній формі.</VFE_StatueGrand.description>
+
+  <VFE_Monument.label>монумент</VFE_Monument.label>
+  <VFE_Monument.description>Непрохідний, масивний пам'ятник з багато прикрашеним постаментом і великим художнім твором.</VFE_Monument.description>
+
+  <VFE_Relief.label>рельєфна стіна</VFE_Relief.label>
+  <VFE_Relief.description>Непрохідний довгий фрагмент стіни з вирізьбленим на ньому художнім рельєфом.</VFE_Relief.description>
+
+  <VFE_Pillar.label>декоративна колона</VFE_Pillar.label>
+  <VFE_Pillar.description>Непрохідна, декорована колона, здатна підтримувати дах.</VFE_Pillar.description>
+
+  <VFE_Obelisk.label>обеліск</VFE_Obelisk.label>
+  <VFE_Obelisk.description>Високий шмат матеріалу у формі обеліска з вирізьбленим з боків художнім оформленням.</VFE_Obelisk.description>
+
+  <VFE_Plinth.label>постамент</VFE_Plinth.label>
+  <VFE_Plinth.description>Невеликий постамент з вирізьбленим на боковинах художнім зображенням. Можна використовувати для зберігання різних предметів. Предмети, що зберігаються на ньому, не зіпсуються, навіть якщо будуть знаходитися на вулиці.</VFE_Plinth.description>
+
+  <VFE_DecorativePlantPot.label>горщик для декоративних рослин</VFE_DecorativePlantPot.label>
+  <VFE_DecorativePlantPot.description>Посадіть декоративні квіти у цьому горщику, щоб покращити настрій людей поруч.</VFE_DecorativePlantPot.description>
+
+  <VFE_Wallpaper.label>стіна зі шпалерами</VFE_Wallpaper.label>
+  <VFE_Wallpaper.description>Непрохідна стіна з красивими шпалерами. Здатна витримати дах.</VFE_Wallpaper.description>
+
+  <UnfinishedHologram.label>незавершена голограма</UnfinishedHologram.label>
+  
+  <HologramBase.label>основа голограми</HologramBase.label>
+  <HologramBase.description>Світлопроекційний пристрій у людський зріст, що зображає твір мистецтва, створений за допомогою декількох мов програмування. Потрібно підключити до мережі, щоб відобразити витвір мистецтва.</HologramBase.description>
+  
+  <VFE_HologramOn.label>голограма</VFE_HologramOn.label>
+  <VFE_HologramOn.description>Світлопроекційний пристрій у людський зріст, що зображає твір мистецтва, створений за допомогою декількох мов програмування. Потрібно підключити до мережі, щоб відобразити витвір мистецтва.</VFE_HologramOn.description>
+  
+  <UnfinishedRug.label>незавершений килимок</UnfinishedRug.label>
+
+  <VFE_RugSmall.label>невеликий килимок</VFE_RugSmall.label>
+  <VFE_RugSmall.description>Текстильне полотно для підлоги невеликого розміру, прикрашене художньою вишивкою.</VFE_RugSmall.description>
+
+  <VFE_RugLarge.label>великий килим</VFE_RugLarge.label>
+  <VFE_RugLarge.description>Текстильне полотно для підлоги великого розміру, прикрашене художньою вишивкою.</VFE_RugLarge.description>
+
+  <VFE_RugGrand.label>величезний килим</VFE_RugGrand.label>
+  <VFE_RugGrand.description>Величезне підлогове полотно, що домінує в кімнаті, прикрашене художньою вишивкою.</VFE_RugGrand.description>
+</LanguageData>

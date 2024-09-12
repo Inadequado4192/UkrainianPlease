@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <VSIE_TeachingUtility.rulePack.rulesFiles>
+	<li>ShootingTopic->Words/TeachingWords/ShootingSkillAcc</li>
+	<li>AnimalsTopic->Words/TeachingWords/AnimalsSkillAcc</li>
+	<li>ArtTopic->Words/TeachingWords/ArtSkillAcc</li>
+	<li>ConstructionTopic->Words/TeachingWords/ConstructionSkillAcc</li>
+	<li>CookingTopic->Words/TeachingWords/CookingSkillAcc</li>
+	<li>CraftingTopic->Words/TeachingWords/CraftingSkillAcc</li>
+	<li>GrowingTopic->Words/TeachingWords/GrowingSkillAcc</li>
+	<li>IntellectualTopic->Words/TeachingWords/IntellectualSkillAcc</li>
+	<li>MedicalTopic->Words/TeachingWords/MedicalSkillAcc</li>
+	<li>MeleeTopic->Words/TeachingWords/MeleeSkillAcc</li>
+	<li>MiningTopic->Words/TeachingWords/MiningSkillAcc</li>
+	<li>SocialTopic->Words/TeachingWords/SocialSkillAcc</li>
+  </VSIE_TeachingUtility.rulePack.rulesFiles>
+</LanguageData>

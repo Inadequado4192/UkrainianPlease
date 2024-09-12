@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <AM_AnimalRelease_Encouraged.stages.0.label>тварина випущена на волю</AM_AnimalRelease_Encouraged.stages.0.label>
+  <AM_AnimalRelease_Encouraged.stages.0.description>Ми випустили тварину в дику природу, збагативши екосистему.</AM_AnimalRelease_Encouraged.stages.0.description>
+
+  <AM_AnimalRelease_Discouraged.stages.0.label>тварина випущена на волю</AM_AnimalRelease_Discouraged.stages.0.label>
+  <AM_AnimalRelease_Discouraged.stages.0.description>Ми випустили тварину в дику природу, завдавши шкоди екосистемі.</AM_AnimalRelease_Discouraged.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AM_Urn.label>урна</AM_Urn.label>
+  <AM_Urn.description>Декоративний контейнер.</AM_Urn.description>
+  <AM_Urn_Blueprint_Install.label>урна (креслення)</AM_Urn_Blueprint_Install.label>
+
+  <AM_MummyMale.label>Муміфікований</AM_MummyMale.label>
+  <AM_MummyMale.description>Забальзамований і муміфікований труп</AM_MummyMale.description>
+  <AM_MummyMale_Blueprint_Install.label>Муміфікований (креслення)</AM_MummyMale_Blueprint_Install.label>
+
+  <AM_MummyFemale.label>Муміфікований</AM_MummyFemale.label>
+  <AM_MummyFemale.description>Забальзамований і муміфікований труп</AM_MummyFemale.description>
+  <AM_MummyFemale_Blueprint_Install.label>Муміфікований (креслення)</AM_MummyFemale_Blueprint_Install.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BreadMoAM_OreDressingMachine.label>Рудозбагачувальна машина</BreadMoAM_OreDressingMachine.label>
+  <BreadMoAM_OreDressingMachine.description>Рудозбагачувальна машина, повернута до життя. Використовуючи поєднання промивання водою, просіювання та магнітів, вона відсіває придатні для використання метали як від шлаків, так і від брил..</BreadMoAM_OreDressingMachine.description>
+  <BreadMoAM_OreDressingMachine_Blueprint.label>Рудозбагачувальна машина (креслення)</BreadMoAM_OreDressingMachine_Blueprint.label>
+  <BreadMoAM_OreDressingMachine_Blueprint_Install.label>Рудозбагачувальна машина (креслення)</BreadMoAM_OreDressingMachine_Blueprint_Install.label>
+  <BreadMoAM_OreDressingMachine_Frame.label>Рудозбагачувальна машина (будується)</BreadMoAM_OreDressingMachine_Frame.label>
+  <BreadMoAM_OreDressingMachine_Frame.description>Рудозбагачувальна машина, повернута до життя. Використовуючи поєднання промивання водою, просіювання та магнітів, вона відсіває придатні для використання метали як від шлаків, так і від брил..</BreadMoAM_OreDressingMachine_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_ArchonRaidStrategy.arrivalTextFriendly>Вони негайно вирушають на допомогу.</VREA_ArchonRaidStrategy.arrivalTextFriendly>
+  <VREA_ArchonRaidStrategy.arrivalTextEnemy>Вони атакують негайно.</VREA_ArchonRaidStrategy.arrivalTextEnemy>
+  <VREA_ArchonRaidStrategy.letterLabelEnemy>Рейд архонтів</VREA_ArchonRaidStrategy.letterLabelEnemy>
+  <VREA_ArchonRaidStrategy.letterLabelFriendly>Друзі</VREA_ArchonRaidStrategy.letterLabelFriendly>
+
+
+</LanguageData>

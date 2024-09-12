@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animusen -->
+  <AG_Animusen.label>анімусен</AG_Animusen.label>
+  <!-- EN: Animusen were genetically spliced with Animus Vox genes to create a cold-thriving human xenotype with a much better -and less aggressive- disposition than Yttakin.\n\nAnimusen have strong psychic abilities, and they are very attuned to the feelings of others, often being valued as adept counsellors. -->
+  <AG_Animusen.description>Анімусени були генетично об'єднані з генами Анімус Вокс для створення холодолюбивого генотипу людини з набагато кращою - та менш агресивною - вдачею, ніж Іттакіни.\n\nАнімусени мають сильні психічні здібності і дуже чутливі до почуттів інших, часто вони цінуються як обізнані радники.</AG_Animusen.description>
+  <!-- EN: A cold-thriving human xenotype with a much better -and less aggressive- disposition than Yttakin, and powerful psychic abilities. -->
+  <AG_Animusen.descriptionShort>Холоднокровний людський ксенотип з набагато кращою - і менш агресивною - вдачею, ніж у Іттакіна, і потужними психічними здібностями.</AG_Animusen.descriptionShort>
+  
+  <!-- EN: efreet -->
+  <AG_Efreet.label>іфрит</AG_Efreet.label>
+  <!-- EN: A modified strain of the impid xenotype designed as terrifying shock troopers, efreet were created to be as intimidating as possible. Whereas impids are adept at fire-based, ranged combat, Efreet are perfectly capable of ripping their enemies to shreds in close quarters combat with their fearsome claws. Efreet possess incredible heat resistant capabilities, and are immune to fire, being almost obssessed with it. -->
+  <AG_Efreet.description>Змінений штам роду імпід, призначений для страшних штурмових солдатів, іфрит були створені такими ж лякаючими, як це можливо. Де імпіди вправні у вогненному дистанційному бою, іфрити відмінно справляються з розчленуванням ворогів ближнього бою за допомогою своїх жахливих кігтів. Іфрити мають надзвичайні здатності до термостійкості і стійкості до вогню, майже звільнені від нього.</AG_Efreet.description>
+  <!-- EN: A modified strain of the impid xenotype designed as shock troopers. Obsessed with fire and almost immune to heat. -->
+  <AG_Efreet.descriptionShort>Модифікований штам ксенотипу імпідів, створений як штурмовики. Одержимі вогнем і майже несприйнятливі до спеки.</AG_Efreet.descriptionShort>
+  
+  <!-- EN: fleetkind -->
+  <AG_Fleetkind.label>фліткінд</AG_Fleetkind.label>
+  <!-- EN: Fleetkind were a misguided attempt at creating a human xenotype capable of flourishing on their own, completely isolated from other external societies. A properly established fleetkind outpost can generate its own electricity and easily replenish its numbers.\n\nFleetkind deviate greatly from baseline humans, and they are often seen as too strange to interact with. -->
+  <AG_Fleetkind.description>Фліткінди були помилковою спробою створити людський ксенотип, здатний процвітати самостійно, повністю ізольований від інших зовнішніх суспільств. Правильно створений форпост фліткіндів може виробляти власну електроенергію і легко поповнювати свою чисельність.\n\nФліткінд значно відрізняються від звичайних людей, і їх часто вважають занадто дивними, щоб взаємодіяти з ними.</AG_Fleetkind.description>
+  <!-- EN: A misguided attempt at creating a human xenotype capable of flourishing on their own. They deviate greatly from baseline humans, and they are often seen as too strange to interact with. -->
+  <AG_Fleetkind.descriptionShort>Помилкова спроба створити людський ксенотип, здатний процвітати самостійно. Вони сильно відрізняються від звичайних людей, і їх часто сприймають як занадто дивних, щоб з ними взаємодіяти.</AG_Fleetkind.descriptionShort>
+  
+  <!-- EN: helixan -->
+  <AG_Helixien.label>геліксан</AG_Helixien.label>
+  <!-- EN: The lowest of the low on the Rim, helixans were created as a human xenotype that would revel in the presence of decay, filth and refuse. Capable of exuding a foul-smelling, corrosive gas that produces an uncomfortable, itchy sensation in living beings. This gas is mostly harmless, unless it comes into contact with decaying organic matter: it greatly accelerates corpse rotting, liberating a black putrid liquid known as "purge fluid" or corpse bile. The helixans feed through the skin by contacting the liquid sludge, although they can also feed on other organic matter if needed. -->
+  <AG_Helixien.description>Найнижчі з найнижчих на Ободі, геліксани були створені як людський ксенотип, який би насолоджувався гниттям, брудом і відходами. Здатні виділяти їдкий газ зі смердючим запахом, який викликає у живих істот неприємне свербіння. Цей газ здебільшого нешкідливий, якщо тільки він не контактує з органічними речовинами, що розкладаються: він значно прискорює гниття трупів, вивільняючи чорну гнильну рідину, відому як "рідина очищення" або трупна жовч. Геліксани живляться через шкіру, контактуючи з рідким осадом, хоча за потреби вони можуть живитися й іншими органічними речовинами.</AG_Helixien.description>
+  <!-- EN: Revolting slug-like humans that feed on corpses and decay. -->
+  <AG_Helixien.descriptionShort>Огидні слимакоподібні люди, що харчуються трупами та гниллю.</AG_Helixien.descriptionShort>
+  
+  <!-- EN: hiveling -->
+  <AG_Hiveling.label>хівелінг</AG_Hiveling.label>
+  <!-- EN: The result of an escaped experiment of the Sophian Empire, hivelings are barely human, thoroughly infused as they are with insectoid organs and genetic advantages. Hivelings thrive in heavily polluted environments, being strengthened by them. They are completely sterile, reproducing by implanting their parasitic eggs in still-living prisoners, and evolving their hive by acquiring new genes from them.\n\nHivelings are usually reviled by other human xenotypes. -->
+  <AG_Hiveling.description>Результат невдалого експерименту Софійської імперії, хівелінги майже не схожі на людей, проте мають комахоподібні органи та генетичні переваги. Хівелінги процвітають у сильно забрудненому середовищі, зміцнюючись завдяки цьому. Вони повністю стерильні, розмножуються, імплантуючи свої паразитичні яйця в ще живих в'язнів, і розвивають свій вулик, набуваючи від них нові гени.\n\nХівелінгів зазвичай зневажають інші людські ксенотипи.</AG_Hiveling.description>
+  <!-- EN: Barely human, insectoid-like mutants that reproduce via parasitic infestation. -->
+  <AG_Hiveling.descriptionShort>Ледве схожі на людей, комахоподібні мутанти, які розмножуються через паразитарну інвазію.</AG_Hiveling.descriptionShort>
+  
+  <!-- EN: lapis -->
+  <AG_Lapis.label>ляпіс</AG_Lapis.label>
+  <!-- EN: Where dirtmoles are unable to thrive due to inhospitable conditions, the lapis excel. Created by ultra-greedy corporations eager to wring the very last resources out of desolate, mineral rich planets, the lapis are a xenotype adapted to living basically without organic food, but at a hefty cost: they must continually search for minerals to feed themselves and sustain their strange metabolism. Lapis are practical and brusque, preferring to keep to themselves in most cases. -->
+  <AG_Lapis.description>Там, де кроти не можуть процвітати через несприятливі умови, ляпіси досягають успіху. Створені жадібними корпораціями, які прагнуть вичавити останні ресурси з пустельних, багатих на корисні копалини планет, ляпіси є ксенотипом, пристосованим до життя практично без органічної їжі, але за величезну ціну: вони повинні постійно шукати мінерали, щоб прогодувати себе і підтримувати свій дивний метаболізм. Ляпіси практичні і грубі, в більшості випадків вважають за краще триматися подалі від сторонніх очей.</AG_Lapis.description>
+  <!-- EN: A xenotype of rocky looking humans adapted to living basically without organic food, but at a hefty cost: they must continually search for minerals to feed themselves and sustain their strange metabolism. -->
+  <AG_Lapis.descriptionShort>Ксенотип кам'янистих людей, пристосованих до життя практично без органічної їжі, але за велику ціну: вони повинні постійно шукати мінерали, щоб прогодувати себе і підтримувати свій дивний метаболізм.</AG_Lapis.descriptionShort>
+  
+  <!-- EN: mind devourer -->
+  <AG_MindDevourer.label>пожирач розуму</AG_MindDevourer.label>
+  <!-- EN: A xenotype inspired by the old eldritch folklore tales from old Earth, the Chthonian visage of mind devourers inspires terror and intense uneasiness. They are masters of the psychic arts, being capable of projecting their mental powers and using their mind as a fearsome weapon, as well as devouring the brains of their victims and extracting valuable knowledge from them.\n\nHivelings are usually reviled by other human xenotypes. -->
+  <AG_MindDevourer.description>Ксенотип, натхненний старими фольклорними казками старої Землі, хтонічний вигляд пожирачів розуму вселяє жах і сильне занепокоєння. Вони є майстрами пси-мистецтва, здатні проектувати свої психічні сили і використовувати свій розум як страшну зброю, а також пожирати мозок своїх жертв і витягувати з них цінні знання.\n\nПожирачі, як правило, зневажаються іншими людськими ксенотипами.</AG_MindDevourer.description>
+  <!-- EN: A xenotype of powerful brain devouring psychics that are reviled by any other humans around the Rim. -->
+  <AG_MindDevourer.descriptionShort>Ксенотип потужних псиоників, що поглинають мозок, яких зневажають усі інші люди по всьому Світу.</AG_MindDevourer.descriptionShort>
+  
+  <!-- EN: random custom -->
+  <AG_RandomCustom.label>випадковий</AG_RandomCustom.label>
+  <!-- EN: This will transform the xenotype of the pawn into one of the custom xenotypes created by the player at random. -->
+  <AG_RandomCustom.description>Це перетворить ксенотип пішака на один з користувацьких ксенотипів, створених гравцем випадковим чином.</AG_RandomCustom.description>
+  <!-- EN: This will transform the xenotype of the pawn into one of the custom xenotypes created by the player at random. -->
+  <AG_RandomCustom.descriptionShort>Це перетворить ксенотип пішака на один з користувацьких ксенотипів, створених гравцем випадковим чином.</AG_RandomCustom.descriptionShort>
+  
+  <!-- EN: taukai -->
+  <AG_Taukai.label>таукай</AG_Taukai.label>
+  <!-- EN: Named after the ancient Lithuanian word for "grease", the taukai are a very strange human xenotype, created to withstand extremely radioactive environments. The flesh of the taukai is slimy, looking like molten wax, and full of physical abnormalities, deformities and tumors. Their tissues are constantly regenerating and morphing, causing the formation of dangerous carcinomas. They have however an extraordinary ability to order their bodies to repurpose these carcinomas and use them for several beneficial designs. -->
+  <AG_Taukai.description>Названі на честь давнього литовського слова "grease", таукай - дуже дивний генотип людини, створений для виживання в надзвичайно радіоактивних середовищах. Тканина таукай слизька, нагадує розплавлений віск, і повна фізичних аномалій, деформацій та пухлин. Їх тканини постійно регенеруються і змінюються, що призводить до утворення небезпечних карцином. Проте вони мають надзвичайну здатність наказувати своїм тілам переробляти ці карциноми і використовувати їх для кількох корисних призначень.</AG_Taukai.description>
+  <!-- EN: A xenotype of constantly morphing, cancerous afflicted people. They constantly get carcinomas and can repurpose them to get powerful buffs. -->
+  <AG_Taukai.descriptionShort>Ксенотип людей, що постійно змінюються, страждають на рак. Вони постійно отримують карциноми і можуть перепрофілювати їх для отримання потужних бафів.</AG_Taukai.descriptionShort>
+  
+  <!-- EN: wretch -->
+  <AG_Wretch.label>нещастя</AG_Wretch.label>
+  <!-- EN: A testament to the horrible dangers of genetic engineering, wretches are malformed and miserable creatures produced by genetic testing gone awry. The genome of wretches is so twisted and unstable that constant, wild mutations occur every day, being erased and replaced the following morning. These mutations can be hugely beneficial, or they can condemn the wretch to a short life of misery and pain. -->
+  <AG_Wretch.description>Свідчення жахливих небезпек генетичної інженерії, нещастя - це спотворені та злі створіння, які виникають в результаті випадковості генетичних випробувань. Ген нещасть такий спотворений та нестабільний, що постійні, дикі мутації відбуваються кожного дня, видаляючись і замінюючись наступного ранку. Ці мутації можуть бути дуже корисними або можуть засудити нещасних до короткого життя страждань і болю.</AG_Wretch.description>
+  <!-- EN: Malformed and miserable creatures produced by genetic testing gone awry. Subject to daily unstable mutations that can rewrite their genome completely. -->
+  <AG_Wretch.descriptionShort>Потворні та жалюгідні створіння, створені в результаті генетичного тестування, яке пішло не так, як треба. Щодня піддаються нестабільним мутаціям, які можуть повністю переписати їхній геном.</AG_Wretch.descriptionShort>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Revian Marauders -->
+  <ReviaMarauderFaction.label>Ревійські мародери</ReviaMarauderFaction.label>
+  <!-- EN: A loose alliance of Revia marauders. These bloodthirsty warriors seek sacrifices and plunder in the honour of their blood god. -->
+  <ReviaMarauderFaction.description>Вільний союз мародерів Ревії. Ці кровожерливі воїни шукають жертв і грабують на честь свого бога крові.</ReviaMarauderFaction.description>
+  <!-- EN: Skullshatterer -->
+  <ReviaMarauderFaction.leaderTitle>Черепорозбивач</ReviaMarauderFaction.leaderTitle>
+  <!-- EN: revia -->
+  <ReviaMarauderFaction.pawnSingular>ревія</ReviaMarauderFaction.pawnSingular>
+  <!-- EN: revia -->
+  <ReviaMarauderFaction.pawnsPlural>ревія</ReviaMarauderFaction.pawnsPlural>
+  
+</LanguageData>

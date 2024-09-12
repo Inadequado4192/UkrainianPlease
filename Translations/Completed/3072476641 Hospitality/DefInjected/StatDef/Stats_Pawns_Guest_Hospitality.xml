@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RecruitRelationshipDamage.label>втрата очок відносин при вербуванні</RecruitRelationshipDamage.label>
+  <RecruitRelationshipDamage.description>Збиток, нанесений відносинам з фракцією цієї людини при успішному вербуванні.</RecruitRelationshipDamage.description>
+
+  <ForcedRecruitRelationshipDamage.label>втрата очок відносин при вербуванні силою</ForcedRecruitRelationshipDamage.label>
+  <ForcedRecruitRelationshipDamage.description>Шкода, завдана відносинам з фракцією цієї особи при примусовому вербуванні.</ForcedRecruitRelationshipDamage.description>
+
+  <RecruitEffectivity.label>фактор ефективності рекрутингу</RecruitEffectivity.label>
+  <RecruitEffectivity.description>Ефективність при спробі заманити відвідувачів приєднатися до вашої фракції.</RecruitEffectivity.description>
+
+
+</LanguageData>

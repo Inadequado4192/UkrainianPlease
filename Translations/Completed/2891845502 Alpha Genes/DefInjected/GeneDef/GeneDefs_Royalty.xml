@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: innate psylink -->
+  <AG_InnatePsylink.label>вроджений пси-зв'язок</AG_InnatePsylink.label>
+  <!-- EN: Carriers of this gene have an innate ability to use psychic powers. -->
+  <AG_InnatePsylink.description>Носії цього гена мають вроджену здатність використовувати екстрасенсорні здібності.</AG_InnatePsylink.description>
+  <!-- EN: Losing this gene will make the colonist lose ALL psylink levels, though they will not forget the psycasts they have already learned. -->
+  <AG_InnatePsylink.customEffectDescriptions.0>Втрата цього гена призведе до того, що колоніст втратить ВСІ рівні псилінків, хоча він не забуде ті псикасти, які вже вивчив.</AG_InnatePsylink.customEffectDescriptions.0>
+  <!-- EN: psy -->
+  <AG_InnatePsylink.symbolPack.prefixSymbols.0.symbol>пси</AG_InnatePsylink.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: mental -->
+  <AG_InnatePsylink.symbolPack.prefixSymbols.1.symbol>ментал</AG_InnatePsylink.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: psy -->
+  <AG_InnatePsylink.symbolPack.suffixSymbols.0.symbol>пси</AG_InnatePsylink.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: psychic camouflage -->
+  <AG_Invisibility.label>пси-камуфляж</AG_Invisibility.label>
+  <!-- EN: Carriers of this gene can psychically shift their skin tones to camouflage in almost any surroundings. -->
+  <AG_Invisibility.description>Носії цього гена можуть подумки змінювати відтінок шкіри для маскування практично в будь-якому оточенні.</AG_Invisibility.description>
+  
+  <!-- EN: psychic insanity -->
+  <AG_PsychicInsanity.label>пси-божевілля</AG_PsychicInsanity.label>
+  <!-- EN: Carriers of this gene have psychic powers that depend on their mood. With low moods, and thus higher break risk, they'll have psychic bonuses. With a Catharsis, these bonuses will be even higher (even if the mood is increased during Catharsis). -->
+  <AG_PsychicInsanity.description>Носії цього гена мають пси-здібності, які залежать від їхнього настрою. При поганому настрої, а отже, при підвищеному ризику зриву, вони матимуть пси-бонуси. Під час катарсису ці бонуси будуть ще вищими (навіть якщо настрій під час катарсису підвищується).</AG_PsychicInsanity.description>
+  <!-- EN: mad -->
+  <AG_PsychicInsanity.symbolPack.prefixSymbols.0.symbol>божевільний</AG_PsychicInsanity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: insane -->
+  <AG_PsychicInsanity.symbolPack.prefixSymbols.1.symbol>шалений</AG_PsychicInsanity.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: crazy -->
+  <AG_PsychicInsanity.symbolPack.prefixSymbols.2.symbol>ненормальний</AG_PsychicInsanity.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: psychic sight -->
+  <AG_PsychicSight.label>пси-зір</AG_PsychicSight.label>
+  <!-- EN: Carriers of this gene are almost completely blind... until they gain psychic powers. They can direct their inner psychic sight and gain even better insight the more power they acquire. -->
+  <AG_PsychicSight.description>Носії цього гена майже повністю сліпі... до тих пір, поки не отримають пси-здібності. Вони можуть спрямовувати свій внутрішній пси-зір і отримувати ще кращі прозріння, чим більше сили вони набувають.</AG_PsychicSight.description>
+  <!-- EN: Sight will depend on the psylink level of the carrier. -->
+  <AG_PsychicSight.customEffectDescriptions.0>Зір буде залежати від рівня пси-зв'язку носія.</AG_PsychicSight.customEffectDescriptions.0>
+  <!-- EN: If you have Vanilla Psycasts Expanded, this will probably be very wacky. -->
+  <AG_PsychicSight.customEffectDescriptions.1>Якщо у вас є Vanilla Psycasts Expanded, це, ймовірно, буде дуже дивно.</AG_PsychicSight.customEffectDescriptions.1>
+  <!-- EN: psy -->
+  <AG_PsychicSight.symbolPack.prefixSymbols.0.symbol>пси</AG_PsychicSight.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: blind -->
+  <AG_PsychicSight.symbolPack.prefixSymbols.1.symbol>сліпий</AG_PsychicSight.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sighter -->
+  <AG_PsychicSight.symbolPack.suffixSymbols.0.symbol>прицільний</AG_PsychicSight.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: peeker -->
+  <AG_PsychicSight.symbolPack.suffixSymbols.1.symbol>глядач</AG_PsychicSight.symbolPack.suffixSymbols.1.symbol>
+  
+</LanguageData>

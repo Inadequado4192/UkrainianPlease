@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Related content -->
+
+  <AN_SlaughteredAnimal_Desired.stages.0.label>зарізав тварину</AN_SlaughteredAnimal_Desired.stages.0.label>
+  <AN_SlaughteredAnimal_Desired.stages.0.description>Я зарізав тварину. Ми робимо життєво важливу і потрібну справу.</AN_SlaughteredAnimal_Desired.stages.0.description>
+
+  <AN_SlaughteredAnimal_Know_Desired.stages.0.label>зарізана тварина</AN_SlaughteredAnimal_Know_Desired.stages.0.label>
+
+  <AN_SlaughteredAnimal_Know_Desired_Mood.stages.0.label>тварина зарізана</AN_SlaughteredAnimal_Know_Desired_Mood.stages.0.label>
+  <AN_SlaughteredAnimal_Know_Desired_Mood.stages.0.description>Хтось зарізав тварину. Ми робимо важливу і потрібну справу.</AN_SlaughteredAnimal_Know_Desired_Mood.stages.0.description>
+
+
+</LanguageData>

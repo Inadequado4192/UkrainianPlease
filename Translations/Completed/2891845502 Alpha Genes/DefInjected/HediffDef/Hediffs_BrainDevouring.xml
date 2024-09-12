@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: devoured brain: animals -->
+  <AG_DevouredAnimals.label>з'їдений мозок: тваринництво</AG_DevouredAnimals.label>
+  <!-- EN: Devoured a brain that was skilled in Animals. Buff lasts for 2 days -->
+  <AG_DevouredAnimals.description>З'їв мозок, який був досвідченим у "Тваринництво". Бафф триватиме 2 дні</AG_DevouredAnimals.description>
+  
+  <!-- EN: devoured brain: artistic -->
+  <AG_DevouredArtistic.label>з'їдений мозок: мистецтво</AG_DevouredArtistic.label>
+  <!-- EN: Devoured a brain that was skilled in Artistic. Buff lasts for 2 days. This particular buff allows the colonist to make art with +1 quality. This will stack with similar effects from other mods, potentially doing Very Silly Things. weeeee. -->
+  <AG_DevouredArtistic.description>З'їв мозок, який був досвідченим у "Мистецтво". Бафф триватиме 2 дні. Цей конкретний бафф дозволяє колоністу створювати мистецтво з якістю +1. Цей бафф додається до подібних ефектів інших модів, що потенційно може призвести до дуже дурненьких речей.</AG_DevouredArtistic.description>
+  
+  <!-- EN: devoured brain: construction -->
+  <AG_DevouredConstruction.label>з'їдений мозок: будівництво</AG_DevouredConstruction.label>
+  <!-- EN: Devoured a brain that was skilled in Construction. Buff lasts for 2 days -->
+  <AG_DevouredConstruction.description>З'їв мозок, який був досвідченим у "Будівництво". Бафф триватиме 2 дні</AG_DevouredConstruction.description>
+  
+  <!-- EN: devoured brain: cooking -->
+  <AG_DevouredCooking.label>з'їдений мозок: кулінарія</AG_DevouredCooking.label>
+  <!-- EN: Devoured a brain that was skilled in Cooking. Buff lasts for 2 days -->
+  <AG_DevouredCooking.description>З'їв мозок, який був досвідченим у "Кулінарія". Бафф триватиме 2 дні</AG_DevouredCooking.description>
+  
+  <!-- EN: devoured brain: crafting -->
+  <AG_DevouredCrafting.label>з'їдений мозок: ремесло</AG_DevouredCrafting.label>
+  <!-- EN: Devoured a brain that was skilled in Crafting. Buff lasts for 2 days -->
+  <AG_DevouredCrafting.description>З'їв мозок, який був досвідченим у "Ремесло". Бафф триватиме 2 дні</AG_DevouredCrafting.description>
+  
+  <!-- EN: devoured brain: intellectual -->
+  <AG_DevouredIntellectual.label>з'їдений мозок: дослідження</AG_DevouredIntellectual.label>
+  <!-- EN: Devoured a brain that was skilled in Intellectual. Buff lasts for 2 days -->
+  <AG_DevouredIntellectual.description>З'їв мозок, який був досвідченим у "Дослідження". Бафф триватиме 2 дні</AG_DevouredIntellectual.description>
+  
+  <!-- EN: devoured brain: medical -->
+  <AG_DevouredMedical.label>з'їдений мозок: медицина</AG_DevouredMedical.label>
+  <!-- EN: Devoured a brain that was skilled in Medical. Buff lasts for 2 days -->
+  <AG_DevouredMedical.description>З'їв мозок, який був досвідченим у "Медицина". Бафф триватиме 2 дні</AG_DevouredMedical.description>
+  
+  <!-- EN: devoured brain: melee -->
+  <AG_DevouredMelee.label>з'їдений мозок: ближній бій</AG_DevouredMelee.label>
+  <!-- EN: Devoured a brain that was skilled in Melee. Buff lasts for 2 days -->
+  <AG_DevouredMelee.description>З'їв мозок, який був досвідченим у "Ближній бій". Бафф триватиме 2 дні</AG_DevouredMelee.description>
+  
+  <!-- EN: devoured brain: mining -->
+  <AG_DevouredMining.label>з'їдений мозок: шахтарство</AG_DevouredMining.label>
+  <!-- EN: Devoured a brain that was skilled in Mining. Buff lasts for 2 days -->
+  <AG_DevouredMining.description>З'їв мозок, який був досвідченим у "Шахтарство". Бафф триватиме 2 дні</AG_DevouredMining.description>
+  
+  <!-- EN: devoured brain: plants -->
+  <AG_DevouredPlants.label>з'їдений мозок: рослинництво</AG_DevouredPlants.label>
+  <!-- EN: Devoured a brain that was skilled in Plants. Buff lasts for 2 days -->
+  <AG_DevouredPlants.description>З'їв мозок, який був досвідченим у "Рослинництво". Бафф триватиме 2 дні</AG_DevouredPlants.description>
+  
+  <!-- EN: devoured brain: shooting -->
+  <AG_DevouredShooting.label>з'їдений мозок: стрільба</AG_DevouredShooting.label>
+  <!-- EN: Devoured a brain that was skilled in Shooting. Buff lasts for 2 days -->
+  <AG_DevouredShooting.description>З'їв мозок, який був досвідченим у "Стрільба". Бафф триватиме 2 дні</AG_DevouredShooting.description>
+  
+  <!-- EN: devoured brain: social -->
+  <AG_DevouredSocial.label>з'їдений мозок: соціальність</AG_DevouredSocial.label>
+  <!-- EN: Devoured a brain that was skilled in Social. Buff lasts for 2 days -->
+  <AG_DevouredSocial.description>З'їв мозок, який був досвідченим у "Соціальність". Бафф триватиме 2 дні</AG_DevouredSocial.description>
+  
+</LanguageData>

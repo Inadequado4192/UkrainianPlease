@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <Bed_RefreshingSleep.label>освіжаючий сон</Bed_RefreshingSleep.label>
+  <Bed_RefreshingSleep.description>Вишуканий відпочинок у ліжку завдяки вдосконаленим системам для сну</Bed_RefreshingSleep.description>
+  
+  <Bed_RefreshingSleep.stages.Minor.label>Незначний</Bed_RefreshingSleep.stages.Minor.label>
+  <Bed_RefreshingSleep.stages.Major.label>Середній</Bed_RefreshingSleep.stages.Major.label>
+  <Bed_RefreshingSleep.stages.Max.label>Найліпший</Bed_RefreshingSleep.stages.Max.label>
+</LanguageData>

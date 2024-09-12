@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--consumed sugar-->
+  <VCE_ConsumedSugar.stages.consumed_sugar.label>вжи{PAWN_gender ? в : ла} цукор</VCE_ConsumedSugar.stages.consumed_sugar.label>
+  <!--Sugar is not love. But it can feel like it.-->
+  <VCE_ConsumedSugar.stages.consumed_sugar.description>Цукор – це не любов. Але він може здаватися таким.</VCE_ConsumedSugar.stages.consumed_sugar.description>
+  
+  <!--consumed chocolate syrup-->
+  <VCE_ConsumedChocolateSyrup.stages.consumed_chocolate_syrup.label>вжи{PAWN_gender ? в : ла} шоколадний сироп</VCE_ConsumedChocolateSyrup.stages.consumed_chocolate_syrup.label>
+  <!--Chocolate IS love.-->
+  <VCE_ConsumedChocolateSyrup.stages.consumed_chocolate_syrup.description>Шоколад ЦЕ любов.</VCE_ConsumedChocolateSyrup.stages.consumed_chocolate_syrup.description>
+  
+  <!--consumed insect jelly preserves-->
+  <VCE_ConsumedInsectJelly.stages.consumed_insect_jelly_preserves.label>вжи{PAWN_gender ? в : ла} желейне варення</VCE_ConsumedInsectJelly.stages.consumed_insect_jelly_preserves.label>
+  <!--What an incredibly sweet and rich taste!-->
+  <VCE_ConsumedInsectJelly.stages.consumed_insect_jelly_preserves.description>Який неймовірно солодкий і насичений смак!</VCE_ConsumedInsectJelly.stages.consumed_insect_jelly_preserves.description>
+  
+  <!--high on smokeleaf butter-->
+  <VCE_SmokeleafButterHigh.stages.high_on_smokeleaf_butter.label>кайф від масла з димолисту</VCE_SmokeleafButterHigh.stages.high_on_smokeleaf_butter.label>
+  <!--I'm, like, stoned, man.-->
+  <VCE_SmokeleafButterHigh.stages.high_on_smokeleaf_butter.description>Я, типу, під кайфом, чувак.</VCE_SmokeleafButterHigh.stages.high_on_smokeleaf_butter.description>
+  
+  <!--consumed salt-->
+  <VCE_ConsumedSalt.stages.consumed_salt.label>вжи{PAWN_gender ? в : ла} сіль</VCE_ConsumedSalt.stages.consumed_salt.label>
+  <!--A pinch of salt really enhances the flavours of a meal.-->
+  <VCE_ConsumedSalt.stages.consumed_salt.description>Дрібка солі дійсно підсилює смак страви.</VCE_ConsumedSalt.stages.consumed_salt.description>
+  
+  <!--consumed mayo-->
+  <VCE_ConsumedMayo.stages.consumed_mayo.label>вжи{PAWN_gender ? в : ла} майонез</VCE_ConsumedMayo.stages.consumed_mayo.label>
+  <!--I ate some delicious mayo. Very filling!-->
+  <VCE_ConsumedMayo.stages.consumed_mayo.description>Я з'їв трохи смачного майонезу. Дуже ситний!</VCE_ConsumedMayo.stages.consumed_mayo.description>
+  
+  <!--consumed agave-->
+  <VCE_ConsumedAgave.stages.consumed_agave.label>вжи{PAWN_gender ? в : ла} агаве</VCE_ConsumedAgave.stages.consumed_agave.label>
+  <!--I ate some delicious agave nectar.-->
+  <VCE_ConsumedAgave.stages.consumed_agave.description>Я з'їв смачний нектар агаве.</VCE_ConsumedAgave.stages.consumed_agave.description>
+  
+  <!--consumed spices-->
+  <VCE_ConsumedSpices.stages.consumed_spices.label>вжи{PAWN_gender ? в : ла} спеції</VCE_ConsumedSpices.stages.consumed_spices.label>
+  <!--That meal was spicy!-->
+  <VCE_ConsumedSpices.stages.consumed_spices.description>Ця страва була з гірчинкою!</VCE_ConsumedSpices.stages.consumed_spices.description>
+  
+  <!--resurrector nanites-->
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.resurrector_nanites.label>наніти-воскресителі</VCE_ConsumedDigestibleResurrectorNanites.stages.resurrector_nanites.label>
+  <!--I feel invincible!-->
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.resurrector_nanites.description>Я відчуваю себе непереможним!</VCE_ConsumedDigestibleResurrectorNanites.stages.resurrector_nanites.description>
+  
+  <!--ate gourmet meal-->
+  <VCE_AteGourmetMeal.stages.ate_gourmet_meal.label>з'ї{PAWN_gender ? в : ла} гурманську страву</VCE_AteGourmetMeal.stages.ate_gourmet_meal.label>
+  <!--A mindbending culinary experience. My palate has been gifted with sensations that are beyond this world.-->
+  <VCE_AteGourmetMeal.stages.ate_gourmet_meal.description>Кулінарний досвід, що затьмарює розум. Мої смакові рецептори було обдаровано відчуттями, які знаходяться за межами цього світу.</VCE_AteGourmetMeal.stages.ate_gourmet_meal.description>
+  
+  <!--ate simple dessert-->
+  <VCE_AteSimpleDessert.stages.ate_simple_dessert.label>з'ї{PAWN_gender ? в : ла} простий десерт</VCE_AteSimpleDessert.stages.ate_simple_dessert.label>
+  <!--That dessert was very simple, but certainly tasty.-->
+  <VCE_AteSimpleDessert.stages.ate_simple_dessert.description>Цей десерт був дуже простим, але, безумовно, смачним.</VCE_AteSimpleDessert.stages.ate_simple_dessert.description>
+  
+  <!--ate fine dessert-->
+  <VCE_AteFineDessert.stages.ate_fine_dessert.label>з'ї{PAWN_gender ? в : ла} вишуканий десерт</VCE_AteFineDessert.stages.ate_fine_dessert.label>
+  <!--That dessert was really good! I want more!-->
+  <VCE_AteFineDessert.stages.ate_fine_dessert.description>Той десерт був дуже смачним! Я хочу ще!</VCE_AteFineDessert.stages.ate_fine_dessert.description>
+  
+  <!--ate lavish dessert-->
+  <VCE_AteLavishDessert.stages.ate_lavish_dessert.label>з'ї{PAWN_gender ? в : ла} розкішний десерт</VCE_AteLavishDessert.stages.ate_lavish_dessert.label>
+  <!--That dessert was unbelievably good, I'm so eager to eat more of it!-->
+  <VCE_AteLavishDessert.stages.ate_lavish_dessert.description>Той десерт був неймовірно смачним, так і хочеться з'їсти його ще!</VCE_AteLavishDessert.stages.ate_lavish_dessert.description>
+  
+  <!--ate gourmet dessert-->
+  <VCE_AteGourmetDessert.stages.ate_gourmet_dessert.label>з'ї{PAWN_gender ? в : ла} гурманський десерт</VCE_AteGourmetDessert.stages.ate_gourmet_dessert.label>
+  <!--Oh my God! My palate had never experienced such an explosion of orgasmic tastes. That was pure food porn. I need more!-->
+  <VCE_AteGourmetDessert.stages.ate_gourmet_dessert.description>Боже мій! Я ще ніколи не відчува{PAWN_gender ? в : ла} такого вибуху оргазмічних смаків. Це було чисто харчове порно. Мені потрібно ще!</VCE_AteGourmetDessert.stages.ate_gourmet_dessert.description>
+  
+  <!--ate simple grill-->
+  <VCE_AteSimpleGrill.stages.ate_simple_grill.label>з'ї{PAWN_gender ? в : ла} просте м'ясо на грилі</VCE_AteSimpleGrill.stages.ate_simple_grill.label>
+  <!--A simple grill. Meh.-->
+  <VCE_AteSimpleGrill.stages.ate_simple_grill.description>Простий гриль. Мех.</VCE_AteSimpleGrill.stages.ate_simple_grill.description>
+  
+  <!--ate fine grill-->
+  <VCE_AteFineGrill.stages.ate_fine_grill.label>з'ї{PAWN_gender ? в : ла} вишукане м'ясо на грилі</VCE_AteFineGrill.stages.ate_fine_grill.label>
+  <!--I ate a very fine grilled meat with some vegetables. Super tasty.-->
+  <VCE_AteFineGrill.stages.ate_fine_grill.description>Я ї{PAWN_gender ? в : ла} дуже тонке м'ясо на грилі з овочами. Дуже смачно.</VCE_AteFineGrill.stages.ate_fine_grill.description>
+  
+  <!--ate lavish grill-->
+  <VCE_AteLavishGrill.stages.ate_lavish_grill.label>з'ї{PAWN_gender ? в : ла} розкішне м'ясо на грилі</VCE_AteLavishGrill.stages.ate_lavish_grill.label>
+  <!--I ate an incredible dish with expertly cooked grilled meat and some veggies. Delicious!-->
+  <VCE_AteLavishGrill.stages.ate_lavish_grill.description>Я ї{PAWN_gender ? в : ла} неймовірну страву з майстерно приготованим м'ясом на грилі та овочами. Дуже смачно!</VCE_AteLavishGrill.stages.ate_lavish_grill.description>
+  
+  <!--ate gourmet grill-->
+  <VCE_AteGourmetGrill.stages.ate_gourmet_grill.label>з'ї{PAWN_gender ? в : ла} гурманське м'ясо на грилі</VCE_AteGourmetGrill.stages.ate_gourmet_grill.label>
+  <!--That... that was out of this world. The meat melted in my mouth. Just incredible.-->
+  <VCE_AteGourmetGrill.stages.ate_gourmet_grill.description>Це... це було щось неземне. М'ясо тануло у мене в роті. Просто неймовірно.</VCE_AteGourmetGrill.stages.ate_gourmet_grill.description>
+  
+  <!--ate deep fried food-->
+  <VCE_AteFriedGoods.stages.ate_deep_fried_food.label>з'ї{PAWN_gender ? в : ла} смажену у фритюрі їжу</VCE_AteFriedGoods.stages.ate_deep_fried_food.label>
+  <!--Greasy food. So delicious.-->
+  <VCE_AteFriedGoods.stages.ate_deep_fried_food.description>Жирна їжа. Така смачна.</VCE_AteFriedGoods.stages.ate_deep_fried_food.description>
+  
+  <!--ate canned food-->
+  <VCE_ConsumedCannedGoods.stages.ate_canned_food.label>з'ї{PAWN_gender ? в : ла} консерви</VCE_ConsumedCannedGoods.stages.ate_canned_food.label>
+  <!--Eating directly from a can is like eating without a table.-->
+  <VCE_ConsumedCannedGoods.stages.ate_canned_food.description>Їсти прямо з банки – це все одно, що їсти без столу.</VCE_ConsumedCannedGoods.stages.ate_canned_food.description>
+  
+  <!--ate awful cheese-->
+  <VCE_AteCheese.stages.ate_awful_cheese.label>з'ї{PAWN_gender ? в : ла} жахливий сир</VCE_AteCheese.stages.ate_awful_cheese.label>
+  <!--I ate some poorly curdled milk with barely any cheese flavour. Disgusting.-->
+  <VCE_AteCheese.stages.ate_awful_cheese.description>Я з'ї{PAWN_gender ? в : ла} якесь погано згорнуте молоко з ледь помітним смаком сиру. Огидно.</VCE_AteCheese.stages.ate_awful_cheese.description>
+  
+  <!--ate poor cheese-->
+  <VCE_AteCheese.stages.ate_poor_cheese.label>з'ї{PAWN_gender ? в : ла} поганий сир</VCE_AteCheese.stages.ate_poor_cheese.label>
+  <!--That cheese wasn't horrible but wasn't great either. The aftertaste was kinda icky.-->
+  <VCE_AteCheese.stages.ate_poor_cheese.description>Цей сир не був жахливим, але й не був чудовим. Післясмак був трохи бридкий.</VCE_AteCheese.stages.ate_poor_cheese.description>
+  
+  <!--ate normal cheese-->
+  <VCE_AteCheese.stages.ate_normal_cheese.label>з'ї{PAWN_gender ? в : ла} нормальний сир</VCE_AteCheese.stages.ate_normal_cheese.label>
+  <!--That was some OK cheese.-->
+  <VCE_AteCheese.stages.ate_normal_cheese.description>Це був непоганий сир.</VCE_AteCheese.stages.ate_normal_cheese.description>
+  
+  <!--ate good cheese-->
+  <VCE_AteCheese.stages.ate_good_cheese.label>з'ї{PAWN_gender ? в : ла} хороший сир</VCE_AteCheese.stages.ate_good_cheese.label>
+  <!--I ate some fine cheese. Delicious.-->
+  <VCE_AteCheese.stages.ate_good_cheese.description>Я з'ї{PAWN_gender ? в : ла} трохи хорошого сиру. Дуже смачний.</VCE_AteCheese.stages.ate_good_cheese.description>
+  
+  <!--ate excellent cheese-->
+  <VCE_AteCheese.stages.ate_excellent_cheese.label>з'ї{PAWN_gender ? в : ла} чудовий сир</VCE_AteCheese.stages.ate_excellent_cheese.label>
+  <!--I ate some fine cheese. You can tell when it has had a good amount of time to mature.-->
+  <VCE_AteCheese.stages.ate_excellent_cheese.description>Я з'ї{PAWN_gender ? в : ла} чудовий сир. Одразу видно, що він мав достатньо часу для дозрівання.</VCE_AteCheese.stages.ate_excellent_cheese.description>
+  
+  <!--ate masterwork cheese-->
+  <VCE_AteCheese.stages.ate_masterwork_cheese.label>з'ї{PAWN_gender ? в : ла} майстерний сир</VCE_AteCheese.stages.ate_masterwork_cheese.label>
+  <!--That cheese was simply amazing! It doesn't get much better than this.-->
+  <VCE_AteCheese.stages.ate_masterwork_cheese.description>Цей сир був просто дивовижний! Краще не буває.</VCE_AteCheese.stages.ate_masterwork_cheese.description>
+  
+  <!--ate legendary cheese-->
+  <VCE_AteCheese.stages.ate_legendary_cheese.label>з'ї{PAWN_gender ? в : ла} легендарний сир</VCE_AteCheese.stages.ate_legendary_cheese.label>
+  <!--I've eaten quite possibly some of the best cheese I've ever tasted!-->
+  <VCE_AteCheese.stages.ate_legendary_cheese.description>Я з'ї{PAWN_gender ? в : ла}, мабуть, один з найкращих сирів, які я коли-небудь куштува{PAWN_gender ? в : ла}!</VCE_AteCheese.stages.ate_legendary_cheese.description>
+</LanguageData>

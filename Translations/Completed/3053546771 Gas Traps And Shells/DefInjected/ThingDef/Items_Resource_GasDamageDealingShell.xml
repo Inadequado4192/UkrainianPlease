@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shell_GasAcid.label>corrosive gas shell</Shell_GasAcid.label>
+  <Shell_GasAcid.description>A shell filled with corrosive gas. Can be fired from mortars. Damages everythign with burn damage (doesn't work on mechanoids), will also damage clothing, structures, and equipment.</Shell_GasAcid.description>
+
+  <Bullet_Shell_GasAcid.label>corrosive gas shell</Bullet_Shell_GasAcid.label>
+
+
+  <!-- Might need to not inherit here -->
+
+  <Shell_GasDefNanite.label>defense nanites gas shell</Shell_GasDefNanite.label>
+  <Shell_GasDefNanite.description>A shell filled with nanites that can detect friend or foe.</Shell_GasDefNanite.description>
+
+  <GasTrap_Bullet_Shell_GasDefNanite.label>defense nanites gas shell</GasTrap_Bullet_Shell_GasDefNanite.label>
+
+
+</LanguageData>

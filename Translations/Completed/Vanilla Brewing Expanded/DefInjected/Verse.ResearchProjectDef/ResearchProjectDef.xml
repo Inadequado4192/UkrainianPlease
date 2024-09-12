@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--mixology-->
+  <VBE_MixologyResearch.label>міксологія</VBE_MixologyResearch.label>
+  <!--Allows construction of advanced machines that utilize electricity for perfect fermenting, industrial bottling, and the mixing of cocktails at the bar workbench.-->
+  <VBE_MixologyResearch.description>Дозволяє створювати сучасні машини, які використовують електроенергію для ідеального бродіння, промислового розливу та змішування коктейлів за барною стійкою.</VBE_MixologyResearch.description>
+  
+  <!--liquor brewing-->
+  <VBE_LiquorBrewing.label>лікеро-горілчане виробництво</VBE_LiquorBrewing.label>
+  <!--Utilize advanced brewing techniques that allow distillation and fermenting of harder spirits with unique effects.-->
+  <VBE_LiquorBrewing.description>Використовуйте передові технології броварства, які дозволяють дистилювати та ферментувати більш міцні спирти з унікальними ефектами.</VBE_LiquorBrewing.description>
+</LanguageData>

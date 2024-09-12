@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFEArch_FineWall.label>красива стіна</VFEArch_FineWall.label>
+  <VFEArch_FineWall.description>Красива, непрохідна стіна. Здатна утримати дах.</VFEArch_FineWall.description>
+
+  <VFEArch_LogWall.label>зрубна стіна</VFEArch_LogWall.label>
+  <VFEArch_LogWall.description>Стіна з горизонтально покладених дерев'яних колод, для створення приємного, домашнього відчуття. Здатна утримувати дах.</VFEArch_LogWall.description>
+
+  <VFEArch_ChainlinkFence.label>паркан з ланцюгів</VFEArch_ChainlinkFence.label>
+  <VFEArch_ChainlinkFence.description>Металева огорожа зі стовпів, з'єднаних між собою ланцюгами, що використовується для будівництва загонів для певних видів тварин. Деякі види тварин можуть проходити крізь огорожі. Хижаки не будуть полювати на істот по інший бік огорожі, але все одно можуть бродити всередині.</VFEArch_ChainlinkFence.description>
+
+  <VFEArch_PicketFence.label>штахетник</VFEArch_PicketFence.label>
+  <VFEArch_PicketFence.description>Огорожа зі стовпів, з'єднаних вертикальними дерев'яними дошками, які називаються штахети, що використовується для будівництва загонів для певних видів тварин. Деякі види тварин можуть проходити крізь огорожі. Хижаки не будуть полювати на істот по інший бік огорожі, але все одно можуть бродити всередині.\n \nШтахетники значно красивіші за альтернативні варіанти і викликають приємне, домашнє відчуття.</VFEArch_PicketFence.description>
+
+  <VFEArch_BrickFence.label>цегляний паркан</VFEArch_BrickFence.label>
+  <VFEArch_BrickFence.description>Огорожа з високих цегляних стовпів і короткого паркану між ними, що використовується для будівництва загонів для певних видів тварин. Деякі види тварин можуть проходити крізь огорожі. Хижаки не будуть полювати на істот по інший бік огорожі, але все одно можуть бродити всередині.</VFEArch_BrickFence.description>
+
+  <VFEArch_InvisibleFence.label>невидимий паркан</VFEArch_InvisibleFence.label>
+  <VFEArch_InvisibleFence.description>Невидимий паркан, для гравців, які хочуть створити власні загони без парканів, або зробити так, щоб річки або дерева виступали в ролі бар'єрів. Не має вартості шляху – таким чином, не сповільнює пішаків, які хочуть пройти через нього.</VFEArch_InvisibleFence.description>
+
+  <VFEArch_LowFence.label>низький паркан</VFEArch_LowFence.label>
+  <VFEArch_LowFence.description>Огорожа зі стовпів, з'єднаних перекладинами, що використовується для будівництва загонів для певних видів тварин. Деякі види тварин можуть проходити крізь огорожі. Хижаки не будуть полювати на істот по інший бік огорожі, але все одно можуть бродити всередині.</VFEArch_LowFence.description>
+
+  <VFEArch_HedgeWall.label>живопліт</VFEArch_HedgeWall.label>
+  <VFEArch_HedgeWall.description>Непрохідна стіна з фальшивого живоплоту. Дуже легкозаймиста.</VFEArch_HedgeWall.description>
+
+  <VFEArch_CellWall.label>ґрати</VFEArch_CellWall.label>
+  <VFEArch_CellWall.description>Непрохідна стіна, що складається з тюремних ґрат. Не може бути атакована в'язнями.</VFEArch_CellWall.description>
+
+  <VFEArch_CellDoor.label>двері камери</VFEArch_CellDoor.label>
+  <VFEArch_CellDoor.description>Двері, що повільно рухаються і розділяють дві кімнати. Двері камери не можуть бути атаковані ув'язненими.</VFEArch_CellDoor.description>
+
+  <VFEArch_ArmoredWall.label>броньована стіна</VFEArch_ArmoredWall.label>
+  <VFEArch_ArmoredWall.description>Непрохідна, важка стіна з декількома шарами броні. Майже повністю стійка до вибухівки та інших способів її зламати.</VFEArch_ArmoredWall.description>
+
+  <VFEArch_ArmoredDoor.label>бронедвері</VFEArch_ArmoredDoor.label>
+  <VFEArch_ArmoredDoor.description>Розділяє кімнати. Броньовані двері потрібно відкривати вручну, що уповільнює прохід людей. Броньовані двері майже повністю вибухостійкі і майже не зазнають пошкоджень.</VFEArch_ArmoredDoor.description>
+
+  <VFEArch_SingleDoor.label>одинарні двері</VFEArch_SingleDoor.label>
+  <VFEArch_SingleDoor.description>Розділяє приміщення. Прості двері потрібно відкривати вручну, що уповільнює рух людей. Швидкість відкриття не залежить від того, з чого зроблені двері.</VFEArch_SingleDoor.description>
+
+  <VFEArch_SingleDoor_Flipped.label>одинарні двері (повернуті)</VFEArch_SingleDoor_Flipped.label>
+  <VFEArch_SingleDoor_Flipped.description>Розділяє приміщення. Прості двері потрібно відкривати вручну, що уповільнює рух людей. Швидкість відкриття не залежить від того, з чого зроблені двері.</VFEArch_SingleDoor_Flipped.description>
+
+  <VFEArch_AnimalGate.label>хвіртка для тварин</VFEArch_AnimalGate.label>
+  <VFEArch_AnimalGate.description>Дверний отвір з хвірткою, що досить легко відчиняється, щоб тварини могли її штовхнути. Вона дозволяє тваринам проходити, але не ізолює приміщення. Хвіртки для тварин часто використовують як входи до теплого хліва.</VFEArch_AnimalGate.description>
+
+  <VFEArch_WoodLog_Walnut.label>горіх</VFEArch_WoodLog_Walnut.label>
+  <VFEArch_WoodLog_Walnut.description>Деревина з дерев або інших волокнистих рослин. Корисна для будівництва та зброї. Її можна переробити на хімічне паливо, використовувати як паливо для багаття і генераторів. У крайньому випадку, шматок дерева можна використовувати як зброю або ногу.</VFEArch_WoodLog_Walnut.description>
+  <VFEArch_WoodLog_Walnut.stuffProps.stuffAdjective>горіха</VFEArch_WoodLog_Walnut.stuffProps.stuffAdjective>
+
+  <VFEArch_WoodLog_Birch.label>береза</VFEArch_WoodLog_Birch.label>
+  <VFEArch_WoodLog_Birch.description>Деревина з дерев або інших волокнистих рослин. Корисна для будівництва та зброї. Її можна переробити на хімічне паливо, використовувати як паливо для багаття і генераторів. У крайньому випадку, шматок дерева можна використовувати як зброю або ногу.</VFEArch_WoodLog_Birch.description>
+  <VFEArch_WoodLog_Birch.stuffProps.stuffAdjective>берези</VFEArch_WoodLog_Birch.stuffProps.stuffAdjective>
+
+  <VFEArch_WoodLog_Mahogany.label>червоне дерево</VFEArch_WoodLog_Mahogany.label>
+  <VFEArch_WoodLog_Mahogany.description>Деревина з дерев або інших волокнистих рослин. Корисна для будівництва та зброї. Її можна переробити на хімічне паливо, використовувати як паливо для багаття і генераторів. У крайньому випадку, шматок дерева можна використовувати як зброю або ногу.</VFEArch_WoodLog_Mahogany.description>
+  <VFEArch_WoodLog_Mahogany.stuffProps.stuffAdjective>червоного дерева</VFEArch_WoodLog_Mahogany.stuffProps.stuffAdjective>
+</LanguageData>

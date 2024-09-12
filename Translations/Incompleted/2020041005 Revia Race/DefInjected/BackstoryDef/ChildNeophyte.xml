@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The lucky few who are taken in by the priesthood in Revian society are well cared for, and typically want for nothing. However, their days are filled with memorisation of litanies and chanting of prayers, as well as researching matters of the mundane and the occult. [PAWN_nameDef] was one such child. [PAWN_possessive] physical prowess lagged behind, yet [PAWN_possessive] mind grew by leaps and bounds. -->
+  <ReviaRaceBackstoryChildNeophyte.baseDesc>Кілька щасливчиків, які приймають у себе євангелісти в Ревійському суспільстві, мають на щастя майже все, на що їм не вистачало. Однак їх дні заповнені меморізацією літаній і співанням молитов, а також дослідженням земних і окультних питань. [PAWN_nameDef] був однією з таких дітей. [PAWN_possessive] фізичні здібності відставали, але [PAWN_possessive] розум зростав стрибками й межами.</ReviaRaceBackstoryChildNeophyte.baseDesc>
+  <!-- EN: Revian Neophyte -->
+  <ReviaRaceBackstoryChildNeophyte.title>Ревійська Неофіт</ReviaRaceBackstoryChildNeophyte.title>
+  <!-- EN: Neophyte -->
+  <ReviaRaceBackstoryChildNeophyte.titleShort>Неофіт</ReviaRaceBackstoryChildNeophyte.titleShort>
+  
+</LanguageData>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--toxiguana egg (fert.)-->
+  <VAEWaste_EggToxiguanaFertilized.label>яйце токсагуани (заплід.)</VAEWaste_EggToxiguanaFertilized.label>
+  <!--A fertilized toxiguana egg. If all goes well, it should hatch into a baby toxiguana. It can be eaten raw, but it's much better cooked.-->
+  <VAEWaste_EggToxiguanaFertilized.description>Запліднене яйце токсагуани. За потрібних умов вилуплюється дитинча токсагуани. Його можна їсти сирим, проте краще приготувати.</VAEWaste_EggToxiguanaFertilized.description>
+  
+  <!--hydra egg (fert.)-->
+  <VAEWaste_EggHydraFertilized.label>яйце гідри (заплід.)</VAEWaste_EggHydraFertilized.label>
+  <!--A fertilized hydra egg. If all goes well, it should hatch into a baby hydra. It can be eaten raw, but it's much better cooked.-->
+  <VAEWaste_EggHydraFertilized.description>Запліднене яйце гідри. За потрібних умов вилуплюється дитинча гідри. Його можна їсти сирим, проте краще приготувати.</VAEWaste_EggHydraFertilized.description>
+  
+  <!--toxic meat-->
+  <VAEWaste_ToxicMeat.label>токсичне м'ясо</VAEWaste_ToxicMeat.label>
+  <!--Raw meat from a toxic animal.\n\nChewy, gelatinous and disgusting.-->
+  <VAEWaste_ToxicMeat.description>Сире м'ясо токсичної тварини. Сире, желеподібне і огидне.</VAEWaste_ToxicMeat.description>
+  
+  <!--wasteleather-->
+  <VAEWaste_ToxicLeather.label>сміттєшкіра</VAEWaste_ToxicLeather.label>
+  <!--A poor, dark-greenish brown coloured leather that flakes quite easily. Very flammable.-->
+  <VAEWaste_ToxicLeather.description>Погана, темно-зеленувато-коричневого кольору шкіра, яка досить легко лущиться. Дуже легкозаймиста.</VAEWaste_ToxicLeather.description>
+  
+  <!--acid spit-->
+  <VAEWaste_AcidBolt.label>кислотна слина</VAEWaste_AcidBolt.label>
+  
+  <!--hydra-->
+  <VAEWaste_Hydra.label>гідра</VAEWaste_Hydra.label>
+  <!--The Hydra is a fearsome creature, mutated by the toxic environment to become a three-headed snake. Living primarily in water, two of its heads remain submerged while only one absorbs oxygen. Quick and vicious in its attacks, the Hydra's bite is lethal, delivering a potent venom with each strike. Its ability to adapt to even the harshest of environments makes it a formidable predator, and one that should be approached with caution. The Hydra's three heads are a symbol of its adaptability and resilience, making it a force to be reckoned with in the polluted biomes.-->
+  <VAEWaste_Hydra.description>Гідра – страшна істота, яка під впливом токсичного середовища мутувала і стала триголовою змією. Живучи переважно у воді, дві її голови залишаються зануреними, тоді як лише одна поглинає кисень. Швидка і жорстока у своїх атаках, гідра смертельно небезпечна, оскільки з кожним ударом випускає сильну отруту. Здатність пристосовуватися навіть до найсуворіших умов робить її грізним хижаком, до якого слід підходити з обережністю. Три голови гідри є символом її пристосованості та стійкості, що робить її силою, з якою слід рахуватися в забруднених біомах.</VAEWaste_Hydra.description>
+  <!--venom-fangs-->
+  <VAEWaste_Hydra.tools.venomfangs.label>отруйні ікла</VAEWaste_Hydra.tools.venomfangs.label>
+  <!--head-->
+  <VAEWaste_Hydra.tools.head.label>голова</VAEWaste_Hydra.tools.head.label>
+  
+  <!--megatardi-->
+  <VAEWaste_Megatardi.label>мегахід</VAEWaste_Megatardi.label>
+  <!--The Megatardi is a massive and curious creature, mutated from its tiny tardigrade origins to become a behemoth of the wasteland. Though slow and blind, it requires very little sustenance to survive and can consume even the most toxic wastepacks. With its six legs, the Megatardi is an impressive sight, and its gentle nature makes it a popular pack animal among those brave enough to venture into the polluted world. Though it is easily tamed, the Megatardi is not without its dangers. Upon its death, it releases a cloud of toxic gas, making it a potential hazard for anyone nearby. Despite this, the Megatardi remains a valuable asset for those willing to take on the challenges of the polluted wasteland.-->
+  <VAEWaste_Megatardi.description>Мегахід – масивна і цікава істота, яка мутувала від свого крихітного тардіградного походження, перетворившись на велетня пустки. Хоча він повільний і сліпий, йому потрібно дуже мало їжі, щоб вижити, і він може споживати навіть найтоксичніші пакети для відходів. Мегахід на шести лапах – вражаюче видовище, а його лагідна вдача робить його популярною в'ючною твариною серед тих, хто наважився відправитися у забруднений світ. Хоча мегаходи легко приручаються, вони не позбавлені небезпеки. Після смерті він випускає хмару токсичного газу, що робить його потенційно небезпечним для всіх, хто знаходиться поблизу. Незважаючи на це, мегахід залишається цінним надбанням для тих, хто готовий прийняти виклики забрудненої пустки.</VAEWaste_Megatardi.description>
+  <!--mandibles-->
+  <VAEWaste_Megatardi.tools.mandibles.label>мандибули</VAEWaste_Megatardi.tools.mandibles.label>
+  <!--head-->
+  <VAEWaste_Megatardi.tools.head.label>голова</VAEWaste_Megatardi.tools.head.label>
+  
+  <!--pestigator-->
+  <VAEWaste_Pestigator.label>пестигатор</VAEWaste_Pestigator.label>
+  <!--The Pestigator is a massive and fearsome predator that reigns supreme in the polluted swamps of the rimworld. With its heavily armored form and powerful jaws, it is capable of inflicting massive damage on any opponent. Though slow on land, it is nimble and nearly invisible in water, making it a formidable adversary in its native habitat. The Pestigator is not to be underestimated, as its powerful bite can rip apart its prey with ease. Its insatiable hunger and aggression make it impossible to tame, making it a constant threat to any unfortunate enough to encounter it.-->
+  <VAEWaste_Pestigator.description>Пестигатор – масивний і страхітливий хижак, який панує в забруднених болотах цього сектору галактики. Завдяки своїй панцирній формі та потужним щелепам, він здатен завдати величезної шкоди будь-якому супротивникові. Хоч і повільний на суші, він спритний і майже невидимий у воді, що робить його грізним супротивником у своєму рідному середовищі існування. Пестигатора не можна недооцінювати, адже його потужний укус може з легкістю розірвати здобич на шматки. Ненаситний голод і агресивність роблять його неможливим для приручення, що перетворює його на постійну загрозу для тих, кому не пощастило зайти у його володіння.</VAEWaste_Pestigator.description>
+  
+  <!--toxafox-->
+  <VAEWaste_Toxafox.label>токсалис</VAEWaste_Toxafox.label>
+  <!--The Toxafox is a highly intelligent fox that has evolved to survive in the harshest of environments. With a keen sense of smell, it is capable of digging up waste packs buried deep underground, making it a persistent pest. Its presence in an area inadvertently generates more pollution, making it a major environmental hazard. Despite its small size, the Toxafox should not be underestimated. Its cunning and adaptability make it a formidable opponent in a world already wracked by toxicity and decay.-->
+  <VAEWaste_Toxafox.description>Токсалис – високоінтелектуальний лис, який еволюціонував, щоб вижити в найсуворіших умовах. Маючи гострий нюх, він здатен відкопувати упаковки для токсичних відходів, закопані глибоко під землею, що робить його стійким шкідником. Його присутність на певній території ненавмисно спричиняє більше забруднення, що робить його серйозною екологічною небезпекою. Незважаючи на свій невеликий розмір, не слід недооцінювати токсалисів. Їхня хитрість і пристосованість роблять їх грізним супротивником у світі, що вже потерпає від забруднення та занепаду.</VAEWaste_Toxafox.description>
+  <!--left claw-->
+  <VAEWaste_Toxafox.tools.left_claw.label>ліва лапа</VAEWaste_Toxafox.tools.left_claw.label>
+  <!--right claw-->
+  <VAEWaste_Toxafox.tools.right_claw.label>права лапа</VAEWaste_Toxafox.tools.right_claw.label>
+  <!--head-->
+  <VAEWaste_Toxafox.tools.head.label>голова</VAEWaste_Toxafox.tools.head.label>
+  
+  <!--toxbear-->
+  <VAEWaste_Toxbear.label>токсамідь</VAEWaste_Toxbear.label>
+  <!--The Toxbear is a monstrous and deadly creature born from a polluted environment. Standing at an immense size, this mutated bear is a force to be reckoned with. With no natural predators, it roams and hunts at will, leaving destruction in its wake. Its aggressive behavior is fueled by cancerous growth around its head, making it nearly impervious to damage.\n\nAs the growth puts pressure on its brain, the Toxbear becomes increasingly violent, eventually turning completely rabid. Not long after that, toxbears are known to try and scratch their own brains out, resulting in their violent demise.-->
+  <VAEWaste_Toxbear.description>Токсамідь – жахливе і смертоносне створіння, народжене в забрудненому середовищі. Маючи кремезні розміри, цей мутований ведмідь є силою, з якою слід рахуватися. Не маючи природних ворогів, він блукає і полює за власним бажанням, залишаючи по собі лиш руїни. Його агресивна поведінка підживлюється раковою пухлиною навколо голови, що робить її майже несприйнятливою до пошкоджень.\n\nОскільки пухлина тисне на мозок, токсамідь стає все більш жорстоким, врешті-решт стаючи повністю скаженим. Відомо, що невдовзі після цього токсамеді намагаються видряпати собі мозок, що призводить їх до самогубства.</VAEWaste_Toxbear.description>
+  <!--left claw-->
+  <VAEWaste_Toxbear.tools.left_claw.label>ліва лапа</VAEWaste_Toxbear.tools.left_claw.label>
+  <!--right claw-->
+  <VAEWaste_Toxbear.tools.right_claw.label>права лапа</VAEWaste_Toxbear.tools.right_claw.label>
+  <!--head-->
+  <VAEWaste_Toxbear.tools.head.label>голова</VAEWaste_Toxbear.tools.head.label>
+  
+  <!--toxiguana-->
+  <VAEWaste_Toxiguana.label>токсагуана</VAEWaste_Toxiguana.label>
+  <!--The Toxiguana is a small, two-legged lizard that is well adapted to highly polluted environments. Standing about the size of a dog, this creature is not to be underestimated. It has a formidable defense mechanism, capable of spitting corrosive acid at any predator that threatens it. When it dies, a chemical reaction causes its body to rapidly decompose, releasing a toxic cloud of gas that can be dangerous to any living thing that comes into contact with it. The Toxiguana is a remarkable example of the resilience of life in even the harshest of environments.-->
+  <VAEWaste_Toxiguana.description>Токсагуана – це невелика двонога ящірка, яка добре пристосована до сильно забрудненого середовища. Цю істоту розміром із собаку не можна недооцінювати. Вона має грізний захисний механізм, здатний випльовувати їдку кислоту на будь-якого хижака, який їй загрожує. Коли вона помирає, хімічна реакція змушує її тіло швидко розкладатися, вивільняючи токсичну хмару газу, яка може бути небезпечною для будь-якої живої істоти, що вступає з нею в контакт. Токсагуана є чудовим прикладом стійкості життя навіть у найсуворіших умовах.</VAEWaste_Toxiguana.description>
+  <!--left claw-->
+  <VAEWaste_Toxiguana.tools.left_claw.label>ліва лапа</VAEWaste_Toxiguana.tools.left_claw.label>
+  <!--right claw-->
+  <VAEWaste_Toxiguana.tools.right_claw.label>права лапа</VAEWaste_Toxiguana.tools.right_claw.label>
+  <!--head-->
+  <VAEWaste_Toxiguana.tools.head.label>голова</VAEWaste_Toxiguana.tools.head.label>
+  <!--acid spit-->
+  <VAEWaste_Toxiguana.verbs.acid_spit.label>кислотна слина</VAEWaste_Toxiguana.verbs.acid_spit.label>
+  
+  <!--toxlion-->
+  <VAEWaste_Toxlion.label>токсалев</VAEWaste_Toxlion.label>
+  <!--The toxlion is a sad reflection of what once was a proud and powerful predator. Its toxic environment has left it weak and emaciated, forcing it to survive by feeding on waste. Despite its diminished state, the Toxlion is still a threat. Its bites and claws have a high chance of spreading the toxflu, and it hunts in large packs to make up for its lack of strength and speed.\n\nToxflu is a highly contagious and rapidly striking disease, characterized by fever, cough, fatigue, and difficulty breathing. It spreads quickly through contact with infected bodily fluids. Those who contract Toxflu can experience severe respiratory distress and, in severe cases, death. It goes away nearly as quickly as it appears, however anyone who interacted socially with a person suffering from toxflu has a chance of catching it.-->
+  <VAEWaste_Toxlion.description>Токсалев – це сумне відображення того, що колись було гордим і могутнім хижаком. Токсичне середовище зробило його слабким і виснаженим, змусивши виживати, харчуючись відходами. Незважаючи на те, що їх популяція зменшилася, токсалеви все ще становлять загрозу. Їхні укуси та кігті мають високу ймовірність передачі зараження, і вони полюють великими зграями, щоб компенсувати брак сили та швидкості.\n\nТоксагрип – це дуже заразна і швидко прогресуюча хвороба, яка характеризується лихоманкою, кашлем, втомою та затрудненим диханням. Він швидко поширюється через контакт із інфікованими біологічними рідинами. У тих, хто заразився токсагрипом, можуть виникнути важкі респіраторні розлади, а у важких випадках – смерть. Хвороба зникає майже так само швидко, як і з'являється, проте кожен, хто соціально взаємодіяв з людиною, яка страждає на токсагрип, має шанс підхопити його.</VAEWaste_Toxlion.description>
+  <!--left claw-->
+  <VAEWaste_Toxlion.tools.left_claw.label>ліва лапа</VAEWaste_Toxlion.tools.left_claw.label>
+  <!--right claw-->
+  <VAEWaste_Toxlion.tools.right_claw.label>права лапа</VAEWaste_Toxlion.tools.right_claw.label>
+  
+  <!--toxscorpion-->
+  <VAEWaste_Toxscorpion.label>токсарпіон</VAEWaste_Toxscorpion.label>
+  <!--The Toxscorpion is a massive and fearsome creature, growing as large as a cow. Its thick carapace and powerful claws make it nearly invulnerable, capable of cutting through even metal. With no definite weak spot, the Toxscorpion is a formidable opponent. Mutated from exposure to radiation and toxins, its stinger injects a fast-acting poison that alters the DNA of its victims. This leads to toxic buildup and cancerous growths that must be swiftly removed before they spread, making the Toxscorpion one of the most dangerous creatures in the wasteland.-->
+  <VAEWaste_Toxscorpion.description>Токсарпіон – масивна і страшна істота, що виростає завбільшки з корову. Товстий панцир і потужні кігті роблять його майже невразливим та здатним розрізати навіть метал. Не маючи жодного вразливого місця, токсарпіон є грізним супротивником. Його жало, що мутувало під впливом радіації та токсинів, впорскує швидкодіючу отруту, яка змінює ДНК жертви. Це призводить до накопичення токсинів і ракових пухлин, які необхідно швидко видалити, перш ніж вони поширяться, що робить токсарпіона одним із найнебезпечніших створінь на пустках.</VAEWaste_Toxscorpion.description>
+  <!--left pincer-->
+  <VAEWaste_Toxscorpion.tools.left_pincer.label>ліва клішня</VAEWaste_Toxscorpion.tools.left_pincer.label>
+  <!--right pincer-->
+  <VAEWaste_Toxscorpion.tools.right_pincer.label>права клішня</VAEWaste_Toxscorpion.tools.right_pincer.label>
+  <!--head-->
+  <VAEWaste_Toxscorpion.tools.head.label>голова</VAEWaste_Toxscorpion.tools.head.label>
+  
+  <!--wasteboar-->
+  <VAEWaste_Wasteboar.label>сміттєбан</VAEWaste_Wasteboar.label>
+  <!--The Wasteboar is a massive and powerful creature, mutated by the polluted environment it inhabits. With four eyes and two sets of formidable tusks, it is well equipped to defend itself against predators. Despite its intimidating appearance, the Wasteboar is not aggressive. Instead, it spends its time ramming its head into trees in an effort to break them down. While this behavior may seem harmless, it can have devastating consequences for the environment, making the Wasteboar an unwanted and destructive presence. The destruction of resources and the unsightly impact on the surroundings make this creature a problem that should not be taken lightly.-->
+  <VAEWaste_Wasteboar.description>Сміттєбан – масивна і потужна істота, що мутувала через забруднене довкілля, в якому вона мешкає. Завдяки чотирьом очам і двом наборам грізних іклів, він добре озброєний, щоб захиститися від хижаків. Незважаючи на свій страхітливий вигляд, сміттєбан не є агресивним. Замість цього він проводить час, таранячи головою дерева в намаганнях їх зламати. Хоча така поведінка може здаватися нешкідливою, вона може мати руйнівні наслідки для довкілля, роблячи кабана небажаним і деструктивним. Знищення ресурсів і жахливий вплив на навколишнє середовище роблять цю істоту проблемою, до якої не можна ставитися легковажно.</VAEWaste_Wasteboar.description>
+  <!--tusk-->
+  <VAEWaste_Wasteboar.tools.tusk.label>бивень</VAEWaste_Wasteboar.tools.tusk.label>
+  <!--head-->
+  <VAEWaste_Wasteboar.tools.head.label>голова</VAEWaste_Wasteboar.tools.head.label>
+  
+  <!--wastedeer-->
+  <VAEWaste_Wastedeer.label>сміттєлень</VAEWaste_Wastedeer.label>
+  <!--The Wastedeer is a unique creature adapted to thrive in the most polluted of environments. With two heads, it is capable of detecting and avoiding danger from all directions. Its mutated form has allowed it to survive in even the harshest of conditions, making it a symbol of resilience in a world ravaged by toxins. Despite its unusual appearance, the wastedeer is a graceful and nimble creature, easily navigating the treacherous terrain of the wasteland. Though it may not pose a direct threat, its presence serves as a reminder of the dangers of a world overrun by pollution.-->
+  <VAEWaste_Wastedeer.description>Сміттєлень – це унікальна істота, пристосована до життя в найзабрудненішому середовищі. Маючи дві голови, він здатен виявляти та уникати небезпеки з усіх боків. Його мутована форма дозволила йому вижити навіть у найсуворіших умовах, зробивши його символом стійкості у світі, спустошеному токсинами. Незважаючи на свій незвичний вигляд, сміттєлень – граціозна і спритна істота, яка легко орієнтується на підступному ландшафті пустки. Хоча він і не становить прямої загрози, його присутність нагадує про небезпеку світу, охопленого забрудненням.</VAEWaste_Wastedeer.description>
+  <!--left hoof-->
+  <VAEWaste_Wastedeer.tools.left_hoof.label>ліве копито</VAEWaste_Wastedeer.tools.left_hoof.label>
+  <!--right hoof-->
+  <VAEWaste_Wastedeer.tools.right_hoof.label>праве копито</VAEWaste_Wastedeer.tools.right_hoof.label>
+  <!--teeth-->
+  <VAEWaste_Wastedeer.tools.teeth.label>зуби</VAEWaste_Wastedeer.tools.teeth.label>
+  <!--head-->
+  <VAEWaste_Wastedeer.tools.head.label>голова</VAEWaste_Wastedeer.tools.head.label>
+  
+  <!--wasteffalo-->
+  <VAEWaste_Wasteffalo.label>сміттєфало</VAEWaste_Wasteffalo.label>
+  <!--A large, mutated, herding herbivore descended from buffalo and adapted for high-toxicity environment. While enraged wastefallo are deadly, they can be tamed and even serve as pack animals.\n\nThe mutated secondary head makes them much more deadly, as with 2 sets of eyes and two gigantic jaws they are more than capable of defending themselves from any predators willing to hunt them.\n\nDue to the genetic instability, wastefallo rarely live long enough to be viable farm animals. Their meat is also known to be highly toxic.-->
+  <VAEWaste_Wasteffalo.description>Велика, мутована, стадна травоїдна тварина, що походить від муффало і пристосувалася до високотоксичного середовища. Хоча розлючені сміттєфали є смертельно небезпечними, їх можна приручити і навіть використовувати як в'ючних тварин.\n\nМутована друга голова робить їх набагато більш смертоносними, оскільки з двома парами очей і двома гігантськими щелепами вони більш ніж здатні захистити себе від будь-яких хижаків, які бажають полювати на них.\n\nЧерез генетичну нестабільність сміттєфали рідко живуть достатньо довго, щоб бути життєздатними фермерськими тваринами. Їхнє м'ясо також відоме своєю високою токсичністю.</VAEWaste_Wasteffalo.description>
+  <!--head-->
+  <VAEWaste_Wasteffalo.tools.head.label>голова</VAEWaste_Wasteffalo.tools.head.label>
+  <!--left hoof-->
+  <VAEWaste_Wasteffalo.tools.left_hoof.label>ліве копито</VAEWaste_Wasteffalo.tools.left_hoof.label>
+  <!--right hoof-->
+  <VAEWaste_Wasteffalo.tools.right_hoof.label>праве копито</VAEWaste_Wasteffalo.tools.right_hoof.label>
+</LanguageData>
