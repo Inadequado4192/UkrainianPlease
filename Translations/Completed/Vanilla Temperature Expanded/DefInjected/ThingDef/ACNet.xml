@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VTE_AirDuct.label>повітропровід</VTE_AirDuct.label>
+  <VTE_AirDuct.description>Повітропровід, який використовується мережею кондиціонування для транспортування повітря між блоками кондиціонера та компресорами.</VTE_AirDuct.description>
+  <VTE_AirDuct_креслення.label>повітропровід (креслення)</VTE_AirDuct_креслення.label>
+  <VTE_AirDuct_Frame.label>повітропровід (будується)</VTE_AirDuct_Frame.label>
+  <VTE_AirDuct_Frame.description>Повітропровід, який використовується мережею кондиціонування для транспортування повітря між блоками кондиціонера та компресорами.</VTE_AirDuct_Frame.description>
+
+  <VTE_VentValve.label>перемикач повітропровіду</VTE_VentValve.label>
+  <VTE_VentValve.description>Вмикає/вимикає потік повітря.</VTE_VentValve.description>
+  <VTE_VentValve_креслення.label>перемикач повітропровіду (креслення)</VTE_VentValve_креслення.label>
+  <VTE_VentValve_Frame.label>перемикач повітропровіду (будується)</VTE_VentValve_Frame.label>
+  <VTE_VentValve_Frame.description>Вмикає/вимикає потік повітря.</VTE_VentValve_Frame.description>
+
+  <VTE_UndergroundAirDuct.label>підземний повітропровід</VTE_UndergroundAirDuct.label>
+  <VTE_UndergroundAirDuct.description>Підземний повітропровід, який використовується мережею кондиціонування для транспортування повітря між блоками кондиціонера та компресорами.</VTE_UndergroundAirDuct.description>
+  <VTE_UndergroundAirDuct_креслення.label>підземний повітропровід (креслення)</VTE_UndergroundAirDuct_креслення.label>
+  <VTE_UndergroundAirDuct_Frame.label>підземний повітропровід (будується)</VTE_UndergroundAirDuct_Frame.label>
+  <VTE_UndergroundAirDuct_Frame.description>Підземний повітропровід, який використовується мережею кондиціонування для транспортування повітря між блоками кондиціонера та компресорами.</VTE_UndergroundAirDuct_Frame.description>
+
+  <VTE_ACControlUnit.label>ГБУСКП</VTE_ACControlUnit.label>
+  <VTE_ACControlUnit.description>Головний Блок Управління Системою Кондиціонування Повітря (надалі ГБУСКП). Підключається до компресорів, щоб дозволити системам КП виробляти холодне або гаряче повітря. З'єднується з компресорами за допомогою повітропроводів. ГБУСКП диктує бажану температуру для всіх блоків кондиціонера в одній мережі. Встановлення занадто великої кількості блоків може знизити ефективність мережі, збільшуючи споживання енергії всіма пристроями. Встановлення додаткових компресорів підвищить ефективність мережі.</VTE_ACControlUnit.description>
+  <VTE_ACControlUnit_креслення.label>ГБУСКП (креслення)</VTE_ACControlUnit_креслення.label>
+  <VTE_ACControlUnit_креслення_Install.label>ГБУСКП (креслення)</VTE_ACControlUnit_креслення_Install.label>
+  <VTE_ACControlUnit_Frame.label>ГБУСКП (будується)</VTE_ACControlUnit_Frame.label>
+  <VTE_ACControlUnit_Frame.description>Головний Блок Управління Системою Кондиціонування Повітря (надалі ГБУСКП). Підключається до компресорів, щоб дозволити системам КП виробляти холодне або гаряче повітря. З'єднується з компресорами за допомогою повітропроводів. ГБУСКП диктує бажану температуру для всіх блоків кондиціонера в одній мережі. Встановлення занадто великої кількості блоків може знизити ефективність мережі, збільшуючи споживання енергії всіма пристроями. Встановлення додаткових компресорів підвищить ефективність мережі</VTE_ACControlUnit_Frame.description>
+
+  <VTE_ACUnit.label>Кондиціонер</VTE_ACUnit.label>
+  <VTE_ACUnit.description>Кондиціонер, який вбудовується в стіну. Випромінює холодне або тепле повітря в одному напрямку, залежно від поточної температури в приміщенні. Якщо його не від'єднати від мережі, він намагатиметься досягти температури, заданої в ГБУСКП. Підключається до ГБУСКП за допомогою повітропроводів.</VTE_ACUnit.description>
+  <VTE_ACUnit_креслення.label>Кондиціонер (креслення)</VTE_ACUnit_креслення.label>
+  <VTE_ACUnit_Frame.label>Кондиціонер (будується)</VTE_ACUnit_Frame.label>
+  <VTE_ACUnit_Frame.description>Кондиціонер, який вбудовується в стіну. Випромінює холодне або тепле повітря в одному напрямку, залежно від поточної температури в приміщенні. Якщо його не від'єднати від мережі, він намагатиметься досягти температури, заданої в ГБУСКП. Підключається до ГБУСКП за допомогою повітропроводів.</VTE_ACUnit_Frame.description>
+
+  <VTE_ACUnitWall.label>Настінний Кондиціонер</VTE_ACUnitWall.label>
+  <VTE_ACUnitWall.description>Настінний кондиціонер. Випромінює холодне або тепле повітря в одному напрямку, залежно від поточної температури в приміщенні. Якщо не відв'язаний від мережевих налаштувань, він намагатиметься досягти температури, заданої в ГБУСКП. Потребує підключення до ГБУСКП за допомогою повітропроводів. Може бути встановлений тільки на стіні.</VTE_ACUnitWall.description>
+  <VTE_ACUnitWall_креслення.label>Настінний Кондиціонер (креслення)</VTE_ACUnitWall_креслення.label>
+  <VTE_ACUnitWall_Frame.label>Настінний Кондиціонер (будується)</VTE_ACUnitWall_Frame.label>
+  <VTE_ACUnitWall_Frame.description>Настінний кондиціонер. Випромінює холодне або тепле повітря в одному напрямку, залежно від поточної температури в приміщенні. Якщо не відв'язаний від мережевих налаштувань, він намагатиметься досягти температури, заданої в ГБУСКП. Потребує підключення до ГБУСКП за допомогою повітропроводів. Може бути встановлений тільки на стіні.</VTE_ACUnitWall_Frame.description>
+
+  <VTE_ACCompressor.label>Компрессор КП</VTE_ACCompressor.label>
+  <VTE_ACCompressor.description>Компресор системи кондиціонування повітря, який потрібно підключити до ГБУСКП допомогою повітропроводів. Може бути розміщений тільки зовні. Коли увімкнений, він дозволяє підключити до мережі КП два додаткові пристрої без втрати ефективності.</VTE_ACCompressor.description>
+  <VTE_ACCompressor_креслення.label>Компрессор КП (креслення)</VTE_ACCompressor_креслення.label>
+  <VTE_ACCompressor_Frame.label>Компрессор КП (будується)</VTE_ACCompressor_Frame.label>
+  <VTE_ACCompressor_Frame.description>Компресор системи кондиціонування повітря, який потрібно підключити до ГБУСКП допомогою повітропроводів. Може бути розміщений тільки зовні. Коли увімкнений, він дозволяє підключити до мережі КП 2 додаткові пристрої без втрати ефективності.</VTE_ACCompressor_Frame.description>
+
+  <VTE_LargeACCompressor.label>Великий компрессор КП</VTE_LargeACCompressor.label>
+  <VTE_LargeACCompressor.description>Великий компресор системи кондиціонування повітря, який потрібно підключити до ГБУСКП за допомогою повітропроводів. Може бути розміщений тільки зовні. Коли увімкнений, він дозволяє підключити до мережі КП 6 додаткових пристроїв без втрати ефективності.</VTE_LargeACCompressor.description>
+  <VTE_LargeACCompressor_креслення.label>Великий компрессор КП (креслення)</VTE_LargeACCompressor_креслення.label>
+  <VTE_LargeACCompressor_Frame.label>Великий компрессор КП (будується)</VTE_LargeACCompressor_Frame.label>
+  <VTE_LargeACCompressor_Frame.description>Великий компресор системи кондиціонування повітря, який потрібно підключити до ГБУСКП за допомогою повітропроводів. Може бути розміщений тільки зовні. Коли увімкнений, він дозволяє підключити до мережі КП 6 додаткових пристроїв без втрати ефективності.</VTE_LargeACCompressor_Frame.description>
+
+
+</LanguageData>

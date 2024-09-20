@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Defs/ThoughtDefs/RT_Thoughts_General_Traits.xml-->
+                               <!-- Healthy -->
+<MoodOffsetRTHealthy.stages.0.label>Здоровий</MoodOffsetRTHealthy.stages.0.label>
+<!-- Гарно мати здорове тіло. -->
+<MoodOffsetRTHealthy.stages.0.description>Добре мати здорове тіло.</MoodOffsetRTHealthy.stages.0.description>
+<!-- Хронічно хворий -->
+<MoodOffsetRTChronicallyIll.stages.0.label>Хронічно хворий</MoodOffsetRTChronicallyIll.stages.0.label>
+<!-- Почуваюся трохи погано, знову хворію? -->
+<MoodOffsetRTChronicallyIll.stages.0.description>Почуваюся трохи погано, я знову {PAWN_gender ? хворий : хвора}?</MoodOffsetRTChronicallyIll.stages.0.description>
+
+</LanguageData>

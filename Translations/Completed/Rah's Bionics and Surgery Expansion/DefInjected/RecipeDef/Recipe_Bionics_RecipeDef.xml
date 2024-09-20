@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<InstallPowerArm.label>встановити енергетичну руку</InstallPowerArm.label>
+<InstallPowerArm.description>Встановлює енергетичну руку.</InstallPowerArm.description>
+<InstallPowerArm.jobString>Встановлення енергетичної руки.</InstallPowerArm.jobString>
+<InstallBionicArm.label>встановити біонічну руку</InstallBionicArm.label>
+<InstallBionicArm.description>Встановлює біонічну руку.</InstallBionicArm.description>
+<InstallBionicArm.jobString>Встановлення біонічної руки.</InstallBionicArm.jobString>
+<InstallBionicLeg.label>встановити біонічну ногу</InstallBionicLeg.label>
+<InstallBionicLeg.description>Встановлює біонічну ногу.</InstallBionicLeg.description>
+<InstallBionicLeg.jobString>Встановлення біонічної ноги.</InstallBionicLeg.jobString>
+<InstallBionicEye.label>встановити біонічне око</InstallBionicEye.label>
+<InstallBionicEye.description>Встановлює біонічне око.</InstallBionicEye.description>
+<InstallBionicEye.jobString>Встановлення біонічного ока.</InstallBionicEye.jobString>
+<InstallBionicHand.label>встановити біонічну руку</InstallBionicHand.label>
+<InstallBionicHand.description>Встановлює біонічну руку.</InstallBionicHand.description>
+<InstallBionicHand.jobString>Встановлення біонічної руки.</InstallBionicHand.jobString>
+<InstallBionicFoot.label>встановити біонічну ногу</InstallBionicFoot.label>
+<InstallBionicFoot.description>Встановлює біонічну ступню.</InstallBionicFoot.description>
+<InstallBionicFoot.jobString>Встановлення біонічної ступні.</InstallBionicFoot.jobString>
+<InstallBionicEar.label>встановити біонічне вухо</InstallBionicEar.label>
+<InstallBionicEar.description>Встановлює біонічне вухо.</InstallBionicEar.description>
+<InstallBionicEar.jobString>Встановлення біонічного вушного імпланту.</InstallBionicEar.jobString>
+<InstallBionicJaw.label>встановити біонічну щелепу</InstallBionicJaw.label>
+<InstallBionicJaw.description>Встановлює біонічну щелепу.</InstallBionicJaw.description>
+<InstallBionicJaw.jobString>Встановлення біонічного щелепного імпланту.</InstallBionicJaw.jobString>
+<InstallBionicTongue.label>встановити біонічний язик</InstallBionicTongue.label>
+<InstallBionicTongue.description>Встановлює біонічний язик.</InstallBionicTongue.description>
+<InstallBionicTongue.jobString>Встановлення біонічного язикового імпланту.</InstallBionicTongue.jobString>
+<InstallBionicSpine.label>встановити біонічне хребет</InstallBionicSpine.label>
+<InstallBionicSpine.description>Встановлює біонічний хребет.</InstallBionicSpine.description>
+<InstallBionicSpine.jobString>Встановлення біонічного хребтового імпланту.</InstallBionicSpine.jobString>
+</LanguageData>

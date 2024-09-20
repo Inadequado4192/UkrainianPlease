@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<TableAnimalProsthetics.label>Стіл протезів для тварин</TableAnimalProsthetics.label>
+<TableAnimalProsthetics.description>Створення протезів/біоніки та органів тварин на верстаті.</TableAnimalProsthetics.description>
+<TableAnimalProsthetics_Blueprint.label>Стіл протезів для тварин (проект)</TableAnimalProsthetics_Blueprint.label>
+<TableAnimalProsthetics_Frame.label>Стіл протезів для тварин (будівництво)</TableAnimalProsthetics_Frame.label>
+
+
+</LanguageData>

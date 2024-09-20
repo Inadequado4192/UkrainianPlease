@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Variants/Variants2.xml-->
+<!-- Helper -->
+<SP_Helper.label>Помічник</SP_Helper.label>
+<!-- Companion -->
+<SP_Companion.label>Співрозмовник</SP_Companion.label>
+<!-- Host -->
+<SP_Host.label>Господар</SP_Host.label>
+<!-- Caregiver -->
+<SP_Caregiver.label>Доглядач</SP_Caregiver.label>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Inadequado4192/UkrainianPlease/master/Translations/Scheme.xsd">
+    <originalMod>
+        <name>Rimsential - Spaceports</name>
+        <id>2663999215</id>
+        <packageId>somewhereoutinspace.spaceports</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>AntiJaoi</nickname>
+            <steamId>76561198066973088</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>2957495791</sourceTranslationId>
+    <lastUpdate>2023-04-04T15:23:07.000Z</lastUpdate>
+</TranslationDetails>

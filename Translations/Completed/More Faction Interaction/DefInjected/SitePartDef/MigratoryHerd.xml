@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MFI_HuntersLodgePart.label>Лісницький будиночок</MFI_HuntersLodgePart.label>
+<MFI_HuntersLodgePart.description>Невелика будівля, що використовується дружніми фракціями як база для полювання.</MFI_HuntersLodgePart.description>
+<MFI_HuntersLodgePart.descriptionDialogue>Зазвичай, в цей час року наближається велике стадо {0}.</MFI_HuntersLodgePart.descriptionDialogue>
+<MFI_HuntersLodgePart.approachingReportString>Відвідування {0}</MFI_HuntersLodgePart.approachingReportString>
+<MFI_HuntersLodgePart.approachOrderString>Відвідати {0}</MFI_HuntersLodgePart.approachOrderString>
+<MFI_HuntersLodgePart.arrivedLetter>Ваша караван прибув до лісницького будиночка. Здається, тут нікого немає, але очевидно вони очікували вас і зробили це місце гостинним.</MFI_HuntersLodgePart.arrivedLetter>
+<MFI_HuntersLodgePart.arrivedLetterLabel>Лісницький будиночок</MFI_HuntersLodgePart.arrivedLetterLabel>
+</LanguageData>

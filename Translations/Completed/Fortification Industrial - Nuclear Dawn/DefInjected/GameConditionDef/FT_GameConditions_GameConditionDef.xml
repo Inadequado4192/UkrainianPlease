@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<FTND_NuclearFlare.label>електромагнітний імпульс ядерної вибуху</FTND_NuclearFlare.label>
+
+<FTND_NuclearFlare.description>Відбувся ядерний електромагнітний імпульс в цій області. Електромагнітне перешкоджання призведе до вимкнення більшості електричних пристроїв.</FTND_NuclearFlare.description>
+
+<FTND_NuclearFlare.endMessage>Електромагнітний імпульс закінчується.</FTND_NuclearFlare.endMessage>
+
+<FTND_NuclearFlare.letterText>Відбувся ядерний електромагнітний імпульс.\n\nІнтенсивне випромінювання призведе до вимкнення всіх електричних пристроїв.\n\nЦе повинно закінчитися протягом дня.</FTND_NuclearFlare.letterText>
+
+<FTND_NuclearFallout.label>ядерне зараження</FTND_NuclearFallout.label>
+
+<FTND_NuclearFallout.description>Хмара радіоактивного зараження повільно випадатиме на цю область. Будь-яка жива істота, що не знаходиться під дахом, буде повільно отруєна, а предмети, залишені зовні, будуть підвержені корозії.</FTND_NuclearFallout.description>
+
+<FTND_NuclearFallout.descriptionFuture>Хмара токсичного радіоактивного зараження покриє область навколо [map_definite] на [gameConditionDuration_duration], вбиваючи рослинний та тваринний світ, який знаходиться поза приміщеннями.</FTND_NuclearFallout.descriptionFuture>
+
+<FTND_NuclearFallout.endMessage>Найгірше з токсичного радіоактивного зараження вже минуло.</FTND_NuclearFallout.endMessage>
+
+<FTND_NuclearFallout.letterText>Хмара радіоактивного пилу осідає над цілою областю.\n\nБудь-яка людина або істота, що не знаходиться під дахом, повільно отруюється токсичним пилом, що осідає з атмосфери.\n\nЦе буде тривати від кількох днів до понад квадрому.</FTND_NuclearFallout.letterText>
+
+<FTND_NuclearWinter.label>ядерна зима</FTND_NuclearWinter.label>
+
+<FTND_NuclearWinter.description>Відбулася ядерна вибух та в атмосферу викинулось величезна кількість попелу, що значно зменшує кількість світла, що доходить до поверхні. Температури будуть холоднішими, а рослини будуть повільніше зростати.</FTND_NuclearWinter.description>
+
+<FTND_NuclearWinter.descriptionFuture>Шар попелу буде відкладений в верхній атмосфері, зменшуючи кількість сонячного світла в регіоні [map_definite] на тривалий час [gameConditionDuration_duration], що серйозно пошкодить місцеву екосистему.</FTND_NuclearWinter.descriptionFuture>
+
+<FTND_NuclearWinter.endMessage>Більшість попелу відійшла.</FTND_NuclearWinter.endMessage>
+
+<FTND_NuclearWinter.letterText>Стався ядерний вибух, і в атмосферу викинуто велику кількість попелу.\n\nПопіл в атмосфері затемнить сонце. Температура опуститься, а рослини постраждають від відсутності сонячного світла. Це може пройти за кілька тижнів або тривати кілька кілька місяців, років.</FTND_NuclearWinter.letterText>
+
+<FTND_Flashstorm.label>електромагнітний шторм</FTND_Flashstorm.label>
+
+<FTND_Flashstorm.description>Невелика зона обрушується грозами з множинними ударами блискавок.</FTND_Flashstorm.description>
+
+<FTND_Flashstorm.endMessage>Електромагнітний шторм закінчився.</FTND_Flashstorm.endMessage>
+
+<FTND_Flashstorm.letterText>Невеликий локальний шторм обрушується грозами з блискавками в малу зону. Це може спричинити масштабні пожежі.</FTND_Flashstorm.letterText>
+
+</LanguageData>

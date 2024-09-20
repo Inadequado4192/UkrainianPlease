@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<SurgeryRemoveFrailty.label>вилікувати слабкість</SurgeryRemoveFrailty.label>
+<SurgeryRemoveFrailty.description>Введення наномашин для вилікування слабкості.</SurgeryRemoveFrailty.description>
+<SurgeryRemoveFrailty.jobString>Вилікування слабкості.</SurgeryRemoveFrailty.jobString>
+<SurgeryRemoveFrailty.successfullyRemovedHediffMessage>{0} успішно вилікував(ла) слабкість {1}.</SurgeryRemoveFrailty.successfullyRemovedHediffMessage>
+<SurgeryRemoveGutWorms.label>видалити кишкових глистів</SurgeryRemoveGutWorms.label>
+<SurgeryRemoveGutWorms.description>Введення наномашин для видалення кишкових глистів.</SurgeryRemoveGutWorms.description>
+<SurgeryRemoveGutWorms.jobString>Видалення кишкових глистів.</SurgeryRemoveGutWorms.jobString>
+<SurgeryRemoveGutWorms.successfullyRemovedHediffMessage>{0} успішно видалив(ла) кишкових глистів у {1}.</SurgeryRemoveGutWorms.successfullyRemovedHediffMessage>
+<SurgeryRemoveWoundInfection.label>вилікувати інфекцію рани</SurgeryRemoveWoundInfection.label>
+<SurgeryRemoveWoundInfection.description>Введення наномашин для вилікування інфекції рани.</SurgeryRemoveWoundInfection.description>
+<SurgeryRemoveWoundInfection.jobString>Вилікування інфекції рани.</SurgeryRemoveWoundInfection.jobString>
+<SurgeryRemoveWoundInfection.successfullyRemovedHediffMessage>{0} успішно вилікував(ла) інфекцію рани у {1}.</SurgeryRemoveWoundInfection.successfullyRemovedHediffMessage>
+<SurgeryRemoveMuscleParasites.label>видалити м'язові паразити</SurgeryRemoveMuscleParasites.label>
+<SurgeryRemoveMuscleParasites.label>видалити м'язові паразити</SurgeryRemoveMuscleParasites.label>
+<SurgeryRemoveMuscleParasites.description>Введення наномашин для видалення м'язових паразитів.</SurgeryRemoveMuscleParasites.description>
+<SurgeryRemoveMuscleParasites.jobString>Видалення м'язових паразитів.</SurgeryRemoveMuscleParasites.jobString>
+<SurgeryRemoveMuscleParasites.successfullyRemovedHediffMessage>{0} успішно вилікував пацієнта {1} від м'язових паразитів.</SurgeryRemoveMuscleParasites.successfullyRemovedHediffMessage>
+<SurgeryRemoveFibrousMechanites.label>видалити волокнисті механіти</SurgeryRemoveFibrousMechanites.label>
+<SurgeryRemoveFibrousMechanites.description>Введення наномашин для видалення волокнистих механітів.</SurgeryRemoveFibrousMechanites.description>
+<SurgeryRemoveFibrousMechanites.jobString>Видалення волокнистих механітів.</SurgeryRemoveFibrousMechanites.jobString>
+<SurgeryRemoveFibrousMechanites.successfullyRemovedHediffMessage>{0} успішно вилікував пацієнта {1} від волокнистих механітів.</SurgeryRemoveFibrousMechanites.successfullyRemovedHediffMessage>
+<SurgeryRemoveSensoryMechanites.label>видалити чуттєві механіти</SurgeryRemoveSensoryMechanites.label>
+<SurgeryRemoveSensoryMechanites.description>Введення наномашин для видалення чуттєвих механітів.</SurgeryRemoveSensoryMechanites.description>
+<SurgeryRemoveSensoryMechanites.jobString>Видалення чуттєвих механітів.</SurgeryRemoveSensoryMechanites.jobString>
+<SurgeryRemoveSensoryMechanites.successfullyRemovedHediffMessage>{0} успішно вилікував пацієнта {1} від чуттєвих механітів.</SurgeryRemoveSensoryMechanites.successfullyRemovedHediffMessage>
+<SurgeryRemoveSleepingSickness.label>видалити хворобу сонної хвороби</SurgeryRemoveSleepingSickness.label>
+<SurgeryRemoveSleepingSickness.description>Введення наномашин для видалення хвороби сну.</SurgeryRemoveSleepingSickness.description>
+<SurgeryRemoveSleepingSickness.jobString>Видалення хвороби сну.</SurgeryRemoveSleepingSickness.jobString>
+<SurgeryRemoveSleepingSickness.successfullyRemovedHediffMessage>{0} успішно вилікував {1} від хвороби сну.</SurgeryRemoveSleepingSickness.successfullyRemovedHediffMessage>
+<SurgeryRemoveMalaria.label>видалення малярії</SurgeryRemoveMalaria.label>
+<SurgeryRemoveMalaria.description>Введення наномашин для видалення малярії.</SurgeryRemoveMalaria.description>
+<SurgeryRemoveMalaria.jobString>Видалення малярії.</SurgeryRemoveMalaria.jobString>
+<SurgeryRemoveMalaria.successfullyRemovedHediffMessage>{0} успішно вилікував {1} від малярії.</SurgeryRemoveMalaria.successfullyRemovedHediffMessage>
+<SurgeryRemoveFlu.label>видалення грипу</SurgeryRemoveFlu.label>
+<SurgeryRemoveFlu.description>Введення наномашин для видалення грипу.</SurgeryRemoveFlu.description>
+<SurgeryRemoveFlu.jobString>Видалення грипу.</SurgeryRemoveFlu.jobString>
+<SurgeryRemoveFlu.successfullyRemovedHediffMessage>{0} успішно вилікував {1} від грипу.</SurgeryRemoveFlu.successfullyRemovedHediffMessage>
+<SurgeryRemovePlague.label>видалення чуми</SurgeryRemovePlague.label>
+<SurgeryRemovePlague.description>Введення наномашин для видалення чуми.</SurgeryRemovePlague.description>
+<SurgeryRemovePlague.jobString>Видалення чуми.</SurgeryRemovePlague.jobString>
+<SurgeryRemovePlague.successfullyRemovedHediffMessage>{0} успішно вилікував {1} від чуми.</SurgeryRemovePlague.successfullyRemovedHediffMessage>
+</LanguageData>

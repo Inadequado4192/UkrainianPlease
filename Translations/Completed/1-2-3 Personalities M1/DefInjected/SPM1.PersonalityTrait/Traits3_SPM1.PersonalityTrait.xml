@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Traits/Traits3.xml-->
+<SP_Success-Oriented.label>успішний</SP_Success-Oriented.label>
+<!-- прагматичний -->
+<SP_Pragmatic.label>прагматичний</SP_Pragmatic.label>
+<!-- адаптивний -->
+<SP_Adaptive.label>адаптивний</SP_Adaptive.label>
+<!-- відрізняється у винятковості -->
+<SP_Excelling.label>відмінний</SP_Excelling.label>
+<!-- мотивований -->
+<SP_Driven.label>мотивований</SP_Driven.label>
+<!-- самоусвідомлений -->
+<SP_Self-Conscious.label>самоусвідомлений</SP_Self-Conscious.label>
+<!-- амбітний -->
+<SP_Ambitious.label>амбітний</SP_Ambitious.label>
+<!-- чарівний -->
+<SP_Charming.label>чарівний</SP_Charming.label>
+</LanguageData>

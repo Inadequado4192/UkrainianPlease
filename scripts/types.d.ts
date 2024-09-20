@@ -4,13 +4,13 @@ export type XML_String = { _text: string }
 export interface TranslationAbout {
     _attributes?: Record<string, string>
     originalMod: {
-        name: XML_String
+        // name: XML_String
         id: XML_String
         packageId: XML_String
     }
     authors: XML_List<{ nickname: XML_String, steamId: XML_String }>,
     sourceTranslationId?: XML_String
-    lastUpdate?: XML_String
+    lastUpdate: XML_String
 }
 
 

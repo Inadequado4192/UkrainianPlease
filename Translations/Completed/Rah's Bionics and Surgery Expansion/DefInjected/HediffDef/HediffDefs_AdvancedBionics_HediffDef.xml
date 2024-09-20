@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AdvancedPowerArm.label>покращена енергетична рука</AdvancedPowerArm.label>
+<AdvancedPowerArm.labelNoun>покращена енергетична рука</AdvancedPowerArm.labelNoun>
+<AdvancedPowerArm.description>Встановлена покращена енергетична рука.</AdvancedPowerArm.description>
+<AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.0.label>кулак</AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.0.label>
+<AdvancedBionicArm.label>покращена біонічна рука</AdvancedBionicArm.label>
+<AdvancedBionicArm.labelNoun>покращена біонічна рука</AdvancedBionicArm.labelNoun>
+<AdvancedBionicArm.description>Встановлена покращена біонічна рука.</AdvancedBionicArm.description>
+<AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.0.label>кулак</AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.0.label>
+<AdvancedBionicLeg.label>покращена біонічна нога</AdvancedBionicLeg.label>
+<AdvancedBionicLeg.labelNoun>покращена біонічна нога</AdvancedBionicLeg.labelNoun>
+<AdvancedBionicLeg.description>Встановлена покращена біонічна нога.</AdvancedBionicLeg.description>
+<AdvancedBionicHand.label>покращена біонічна рука</AdvancedBionicHand.label>
+<AdvancedBionicHand.labelNoun>покращена біонічна рука</AdvancedBionicHand.labelNoun>
+<AdvancedBionicHand.description>Встановлена покращена біонічна рука.</AdvancedBionicHand.description>
+<AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.0.label>кулак</AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.0.label>
+<AdvancedBionicFoot.label>покращена біонічна ступня</AdvancedBionicFoot.label>
+<AdvancedBionicFoot.labelNoun>покращена біонічна ступня</AdvancedBionicFoot.labelNoun>
+<AdvancedBionicFoot.description>Встановлена покращена біонічна ступня.</AdvancedBionicFoot.description>
+<AdvancedBionicEar.label>покращене біонічне вухо</AdvancedBionicEar.label>
+<AdvancedBionicEar.description>Встановлене покращене біонічне вухо.</AdvancedBionicEar.description>
+<AdvancedBionicEye.label>покращене біонічне око</AdvancedBionicEye.label>
+<AdvancedBionicEye.labelNoun>покращене біонічне око</AdvancedBionicEye.labelNoun>
+<AdvancedBionicEye.description>Встановлене покращене біонічне око.</AdvancedBionicEye.description>
+<AdvancedBionicSpine.label>покращена біонічна хребетна колонка</AdvancedBionicSpine.label>
+<AdvancedBionicSpine.labelNoun>покращена біонічна хребетна колонка</AdvancedBionicSpine.labelNoun>
+<AdvancedBionicSpine.description>Встановлена покращена біонічна хребетна колонка.</AdvancedBionicSpine.description>
+<ExoskeletonSuit.label>ексоскелетний костюм</ExoskeletonSuit.label>
+<ExoskeletonSuit.labelNoun>ексоскелетний костюм</ExoskeletonSuit.labelNoun>
+<ExoskeletonSuit.description>Встановлений екзоскелетний костюм.</ExoskeletonSuit.description>
+<ArchotechEye.label>архотехнічне око</ArchotechEye.label>
+<ArchotechEye.labelNoun>архотех-око</ArchotechEye.labelNoun>
+<ArchotechEye.description>Встановлене архотех-око.</ArchotechEye.description>
+<ArchotechArm.label>архотех-рука</ArchotechArm.label>
+<ArchotechArm.labelNoun>архотех-рука</ArchotechArm.labelNoun>
+<ArchotechArm.description>Встановлена архотех-рука.</ArchotechArm.description>
+<ArchotechArm.comps.HediffComp_VerbGiver.tools.0.label>кулак</ArchotechArm.comps.HediffComp_VerbGiver.tools.0.label>
+<ArchotechLeg.label>архотех-нога</ArchotechLeg.label>
+<ArchotechLeg.labelNoun>архотех-нога</ArchotechLeg.labelNoun>
+<ArchotechLeg.description>Встановлена архотех-нога.</ArchotechLeg.description>
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Variants/AnimalVariants_Calm.xml-->
+<SP_Animal_Chonk.label>пухнастик</SP_Animal_Chonk.label>
+<SP_Animal_ResidentSleeper.label>безсонна тварина</SP_Animal_ResidentSleeper.label>
+<SP_Animal_FeetBump.label>стукач нігами</SP_Animal_FeetBump.label>
+<SP_Animal_LapRegular.label>любитель обіймів</SP_Animal_LapRegular.label>
+<SP_Animal_StaringContestChampion.label>чемпіон зі стримування дихання</SP_Animal_StaringContestChampion.label>
+<SP_Animal_HorriblySlowStalker.label>жахливо повільний сталкер</SP_Animal_HorriblySlowStalker.label>
+<SP_Animal_Sunbather.label>пасажир на сонцезаймистих місцях</SP_Animal_Sunbather.label>
+<SP_Animal_BedDweller.label>любитель лежати в ліжку</SP_Animal_BedDweller.label>
+<SP_Animal_BlepSpecialist.label>експерт з показу язика</SP_Animal_BlepSpecialist.label>
+<SP_Animal_Loner.label>самотній</SP_Animal_Loner.label>
+<SP_Animal_Sleepyhead.label>сплюнька</SP_Animal_Sleepyhead.label>
+<SP_Animal_Laggard.label>спіногриз</SP_Animal_Laggard.label>
+<SP_Animal_Slowpoke.label>повільний</SP_Animal_Slowpoke.label>
+<SP_Animal_DillyDallyer.label>вічний медлитель</SP_Animal_DillyDallyer.label>
+<SP_Animal_Landmark.label>орієнтир</SP_Animal_Landmark.label>
+<SP_Animal_CEO.label>король/королева пухнастих</SP_Animal_CEO.label>
+<SP_Animal_Maruder.label>мародер</SP_Animal_Maruder.label>
+<SP_Animal_Catnip.label>цінувальник котячої м'яти</SP_Animal_Catnip.label>
+<SP_Animal_BOB.label>корисний ноша</SP_Animal_BOB.label>
+<SP_Animal_GentleGiant.label>ніжний велетень</SP_Animal_GentleGiant.label>
+</LanguageData>

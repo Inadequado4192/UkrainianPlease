@@ -1,8 +1,6 @@
 import path from "path";
-import { SteamAPI } from "./utils";
+import { ForEachTranslation, SteamAPI } from "./utils";
 
 
-console.log(path.join("root", "", "end"))
-console.log(path.join("root", "/", "end"))
-console.log(path.join("root", "\\", "end"))
-console.log(path.join("root", "1", "end"))
+let n: string[] = [];
+ForEachTranslation(({translationFileName}) => n.push(translationFileName)).then(() => console.log(n.map(n => n.match(/\d+\s(.+)$/)?.[1] ?? n).join(", ")));

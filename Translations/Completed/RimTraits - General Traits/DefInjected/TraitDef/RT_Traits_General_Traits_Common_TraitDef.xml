@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Defs/TraitDefs/RT_Traits_General_Traits_Common.xml-->
+                               <!-- nearsighted -->
+<RT_Nearsighted.degreeDatas.0.label>близорукий</RT_Nearsighted.degreeDatas.0.label>
+<!-- [PAWN_nameDef] важко сфокусуватися на далеких об'єктах і він віддає перевагу близькій відстані. -->
+<RT_Nearsighted.degreeDatas.0.description>{PAWN_nameDef} важко сфокусуватися на далеких об'єктах, {PAWN_pronoun} віддає перевагу близькій відстані.</RT_Nearsighted.degreeDatas.0.description>
+<!-- близорука -->
+<RT_Nearsighted.degreeDatas.0.labelFemale>близорукая</RT_Nearsighted.degreeDatas.0.labelFemale>
+<!-- дальнозоркий -->
+<RT_Farsighted.degreeDatas.0.label>дальнозорий</RT_Farsighted.degreeDatas.0.label>
+<!-- [PAWN_nameDef] може помітити ціль з відстані понад сто метрів, але все ж якось наступати на стіни. -->
+<RT_Farsighted.degreeDatas.0.description>{PAWN_nameDef} може помітити ціль з відстані понад сто метрів, але все ж якось наступає на стіни.</RT_Farsighted.degreeDatas.0.description>
+<!-- дальнозорий -->
+<RT_Farsighted.degreeDatas.0.labelFemale>дальнозора</RT_Farsighted.degreeDatas.0.labelFemale>
+<!-- спортивний -->
+<RT_Athletic.degreeDatas.0.label>спортивний</RT_Athletic.degreeDatas.0.label>
+<!-- Рухи [PAWN_nameDef] плавні та граціозні. -->
+<RT_Athletic.degreeDatas.0.description>Рухи {PAWN_nameDef} плавні та граціозні.</RT_Athletic.degreeDatas.0.description>
+<!-- спортивна -->
+<RT_Athletic.degreeDatas.0.labelFemale>спортивна</RT_Athletic.degreeDatas.0.labelFemale>
+<!-- жорсткий -->
+<RT_Stiff.degreeDatas.0.label>жорсткий</RT_Stiff.degreeDatas.0.label>
+<!-- [PAWN_nameDef] настільки жорсткий, що майже бездушний. -->
+<RT_Stiff.degreeDatas.0.description>{PAWN_nameDef} настільки {PAWN_gender ? жорсткий : жорстка}, що майже бездушний.</RT_Stiff.degreeDatas.0.description>
+<!-- жорстка -->
+<RT_Stiff.degreeDatas.0.labelFemale>жорстка</RT_Stiff.degreeDatas.0.labelFemale>
+<!-- доглянута гігієна -->
+<RT_GoodHygiene.degreeDatas.0.label>чистоплотний</RT_GoodHygiene.degreeDatas.0.label>
+<!-- [PAWN_nameDef] піклується про свою особисту гігієну. -->
+<RT_GoodHygiene.degreeDatas.0.description>{PAWN_nameDef} дбає про особисту гігієну.</RT_GoodHygiene.degreeDatas.0.description>
+<!-- good hygiene -->
+<RT_GoodHygiene.degreeDatas.0.labelFemale>чистоплотна</RT_GoodHygiene.degreeDatas.0.labelFemale>
+<!-- poor hygiene -->
+<RT_PoorHygiene.degreeDatas.0.label>бруднюля</RT_PoorHygiene.degreeDatas.0.label>
+<!-- [PAWN_nameDef] не дбає про свою гігієну, і іноді хворіє через погану їжу. -->
+<RT_PoorHygiene.degreeDatas.0.description>{PAWN_nameDef} не дбає про гігієну, іноді {PAWN_pronoun} хворіє через погану їжу.</RT_PoorHygiene.degreeDatas.0.description>
+<!-- poor hygiene -->
+<RT_PoorHygiene.degreeDatas.0.labelFemale>бруднюля</RT_PoorHygiene.degreeDatas.0.labelFemale>
+<!-- persuasive -->
+<RT_Persuasive.degreeDatas.0.label>настійливий</RT_Persuasive.degreeDatas.0.label>
+<!-- [PAWN_nameDef] часто домагається свого. -->
+<RT_Persuasive.degreeDatas.0.description>{PAWN_nameDef} часто домагається свого.</RT_Persuasive.degreeDatas.0.description>
+<!-- persuasive -->
+<RT_Persuasive.degreeDatas.0.labelFemale>настійлива</RT_Persuasive.degreeDatas.0.labelFemale>
+<!-- unconvincing -->
+<RT_Unconvincing.degreeDatas.0.label>не переконливий</RT_Unconvincing.degreeDatas.0.label>
+<!-- [PAWN_nameDef] ніколи не вигравав дебатів в своєму житті. -->
+<RT_Unconvincing.degreeDatas.0.description>{PAWN_nameDef} ніколи не {PAWN_gender ? виграв : виграла} дебатів в своєму житті.</RT_Unconvincing.degreeDatas.0.description>
+<!-- unconvincing -->
+<RT_Unconvincing.degreeDatas.0.labelFemale>не переконлива</RT_Unconvincing.degreeDatas.0.labelFemale>
+<!-- resilient -->
+<RT_Resilient.degreeDatas.0.label>терплячий</RT_Resilient.degreeDatas.0.label>
+<!-- [PAWN_nameDef] брав участь у багатьох боях з дитинства і набув толерантності до травм та болю. -->
+<RT_Resilient.degreeDatas.0.description>{PAWN_nameDef} з дитинства {PAWN_gender ? брав : брала} участь у багатьох боях, в результаті чого {PAWN_pronoun} {PAWN_gender ? набув : набула} терплячості до травм та болю.</RT_Resilient.degreeDatas.0.description>
+<!-- resilient -->
+<RT_Resilient.degreeDatas.0.labelFemale>терпляча</RT_Resilient.degreeDatas.0.labelFemale>
+<!-- fragile -->
+<RT_Fragile.degreeDatas.0.label>крихкий</RT_Fragile.degreeDatas.0.label>
+<!-- [PAWN_nameDef] мав розкішне життя до цього моменту і не звик до жорстоких викликів, що наявні в Rim. -->
+<RT_Fragile.degreeDatas.0.description>До цього моменту {PAWN_nameDef} {PAWN_gender ? жив : жила} розкішним життям і не {PAWN_gender ? звик : звикла} до жорстоких викликів.</RT_Fragile.degreeDatas.0.description>
+<!-- fragile -->
+<RT_Fragile.degreeDatas.0.labelFemale>крихка</RT_Fragile.degreeDatas.0.labelFemale>
+<!-- energetic -->
+<RT_Energetic.degreeDatas.0.label>енергійний</RT_Energetic.degreeDatas.0.label>
+<!-- [PAWN_nameDef] завжди виконує свої завдання з великим ентузіазмом. -->
+<RT_Energetic.degreeDatas.0.description>{PAWN_nameDef} завжди виконує свої завдання з великим ентузіазмом.</RT_Energetic.degreeDatas.0.description>
+<!-- energetic -->
+<RT_Energetic.degreeDatas.0.labelFemale>енергійна</RT_Energetic.degreeDatas.0.labelFemale>
+<!-- sluggish -->
+<RT_Sluggish.degreeDatas.0.label>повільний</RT_Sluggish.degreeDatas.0.label>
+<!-- [PAWN_nameDef] повільний. Дуже повільний... -->
+<RT_Sluggish.degreeDatas.0.description>{PAWN_nameDef} дуже {PAWN_gender ? повільний : повільна}. Тааакий... поовіііііільнииииййй....</RT_Sluggish.degreeDatas.0.description>
+<!-- sluggish -->
+<RT_Sluggish.degreeDatas.0.labelFemale>повільна</RT_Sluggish.degreeDatas.0.labelFemale>
+<!-- спокійна -->
+<RT_Restful.degreeDatas.0.label>соня</RT_Restful.degreeDatas.0.label>
+<!-- [PAWN_nameDef] завжди спить як малюк. -->
+<RT_Restful.degreeDatas.0.description>{PAWN_nameDef} завжди спить як малюк.</RT_Restful.degreeDatas.0.description>
+<!-- спокійна -->
+<RT_Restful.degreeDatas.0.labelFemale>соня</RT_Restful.degreeDatas.0.labelFemale>
+<!-- невміла -->
+<RT_Restless.degreeDatas.0.label>беспокійний</RT_Restless.degreeDatas.0.label>
+<!-- [PAWN_nameDef] часто має складнощі зі сном. -->
+<RT_Restless.degreeDatas.0.description>{PAWN_nameDef} часто має складнощі зі сном.</RT_Restless.degreeDatas.0.description>
+<!-- невміла -->
+<RT_Restless.degreeDatas.0.labelFemale>беспокійна</RT_Restless.degreeDatas.0.labelFemale>
+<!-- ефективна -->
+<RT_Efficient.degreeDatas.0.label>ефективний</RT_Efficient.degreeDatas.0.label>
+<!-- [PAWN_nameDef] досить продуктивний, коли йдеться про роботу. -->
+<RT_Efficient.degreeDatas.0.description>{PAWN_nameDef} досить {PAWN_gender ? продуктивний : продуктивна}, коли йдеться про роботу.</RT_Efficient.degreeDatas.0.description>
+<!-- ефективна -->
+<RT_Efficient.degreeDatas.0.labelFemale>ефективна</RT_Efficient.degreeDatas.0.labelFemale>
+                              <!-- inefficient -->
+<RT_Inefficient.degreeDatas.0.label>неефективний</RT_Inefficient.degreeDatas.0.label>
+<!-- [PAWN_nameDef] є деякою перешкодою в колонії. -->
+<RT_Inefficient.degreeDatas.0.description>Продуктивність {PAWN_nameDef} є деякою перешкодою в колонії.</RT_Inefficient.degreeDatas.0.description>
+<!-- inefficient -->
+<RT_Inefficient.degreeDatas.0.labelFemale>неефективна</RT_Inefficient.degreeDatas.0.labelFemale>
+<!-- valiant -->
+<RT_Valiant.degreeDatas.0.label>доблесний</RT_Valiant.degreeDatas.0.label>
+<!-- [PAWN_nameDef] відважний, [PAWN_pronoun] стоятиме до кінця там, де інші будуть рятоватися бігством. -->
+<RT_Valiant.degreeDatas.0.description>Про сміливість {PAWN_nameDef} ходять легенди, {PAWN_pronoun} буде стояти до кінця там, де інші будуть битися і бігти.</RT_Valiant.degreeDatas.0.description>
+<!-- valiant -->
+<RT_Valiant.degreeDatas.0.labelFemale>доблесна</RT_Valiant.degreeDatas.0.labelFemale>
+<!-- craven -->
+<RT_Craven.degreeDatas.0.label>боягуз</RT_Craven.degreeDatas.0.label>
+<!-- Коли починається бій, [PAWN_nameDef] першим втікає. -->
+<RT_Craven.degreeDatas.0.description>{PAWN_nameDef} відразу ж покине бій, якщо з'явиться нагода.</RT_Craven.degreeDatas.0.description>
+<!-- craven -->
+<RT_Craven.degreeDatas.0.labelFemale>боягузлива</RT_Craven.degreeDatas.0.labelFemale>
+<!-- rowdy -->
+<RT_Rowdy.degreeDatas.0.label>буйний</RT_Rowdy.degreeDatas.0.label>
+<!-- [PAWN_nameDef] любить дракувати, іноді він починає бій тільки тому, що може. -->
+<RT_Rowdy.degreeDatas.0.description>{PAWN_nameDef} любить хороші бої, іноді він починає драку лише тому, що може.</RT_Rowdy.degreeDatas.0.description>
+<!-- rowdy -->
+<RT_Rowdy.degreeDatas.0.labelFemale>буйна</RT_Rowdy.degreeDatas.0.labelFemale>
+<!-- composed -->
+<RT_Composed.degreeDatas.0.label>непохитий</RT_Composed.degreeDatas.0.label>
+<!-- [PAWN_nameDef] зазвичай спокійний і зібраний. -->
+<RT_Composed.degreeDatas.0.description>{PAWN_nameDef} зазвичай {PAWN_gender ? спокійний і зібраний : спокійна і зібрана}.</RT_Composed.degreeDatas.0.description>
+<!-- composed -->
+<RT_Composed.degreeDatas.0.labelFemale>непохитна</RT_Composed.degreeDatas.0.labelFemale>
+<!-- heat tolerant -->
+<RT_HeatTolerant.degreeDatas.0.label>теплолюбний</RT_HeatTolerant.degreeDatas.0.label>
+<!-- [PAWN_nameDef] is more comfortable being in hot environment than his peers. -->
+<RT_HeatTolerant.degreeDatas.0.description>{PAWN_nameDef} більш комфортно почувається в теплому середовищі, ніж його ровесники.</RT_HeatTolerant.degreeDatas.0.description>
+<!-- heat tolerant -->
+<RT_HeatTolerant.degreeDatas.0.labelFemale>теплолюбна</RT_HeatTolerant.degreeDatas.0.labelFemale>
+<!-- heat intolerant -->
+<RT_HeatIntolerant.degreeDatas.0.label>непереносимість спеки</RT_HeatIntolerant.degreeDatas.0.label>
+<!-- [PAWN_nameDef] does not like being in the heat. -->
+<RT_HeatIntolerant.degreeDatas.0.description>{PAWN_nameDef} не любить перебувати на спекоті.</RT_HeatIntolerant.degreeDatas.0.description>
+<!-- heat intolerant -->
+<RT_HeatIntolerant.degreeDatas.0.labelFemale>непереносимість спеки</RT_HeatIntolerant.degreeDatas.0.labelFemale>
+<!-- cold tolerant -->
+<RT_ColdTolerant.degreeDatas.0.label>холодолюбний</RT_ColdTolerant.degreeDatas.0.label>
+<!-- [PAWN_nameDef] is more comfortable being in cold environment than his peers. -->
+<RT_ColdTolerant.degreeDatas.0.description>{PAWN_nameDef} більш комфортно почувається в холодному середовищі, ніж його ровесники.</RT_ColdTolerant.degreeDatas.0.description>
+<!-- cold tolerant -->
+<RT_ColdTolerant.degreeDatas.0.labelFemale>холодолюбна</RT_ColdTolerant.degreeDatas.0.labelFemale>
+<!-- cold intolerant -->
+<RT_ColdIntolerant.degreeDatas.0.label>непереносимість холоду</RT_ColdIntolerant.degreeDatas.0.label>
+<!-- [PAWN_nameDef] не любить перебувати на холоді. -->
+<RT_ColdIntolerant.degreeDatas.0.description>{PAWN_nameDef} не любить перебувати на холоді.</RT_ColdIntolerant.degreeDatas.0.description>
+<!-- нестерпність холоду -->
+<RT_ColdIntolerant.degreeDatas.0.labelFemale>нестерпність холоду</RT_ColdIntolerant.degreeDatas.0.labelFemale>
+<!-- атлетичний -->
+<RT_Muscular.degreeDatas.0.label>атлетичний</RT_Muscular.degreeDatas.0.label>
+<!-- У {PAWN_nameDef} добре кладане тіло, люди навколо {PAWN_pronoun} знаходять це досить привабливим. -->
+<RT_Muscular.degreeDatas.0.description>У {PAWN_nameDef} добре складене тіло, люди навколо {PAWN_pronoun} знаходять це досить привабливим.</RT_Muscular.degreeDatas.0.description>
+<!-- атлетична -->
+<RT_Muscular.degreeDatas.0.labelFemale>атлетична</RT_Muscular.degreeDatas.0.labelFemale>
+<!-- слабий -->
+<RT_Frail.degreeDatas.0.label>слабкий</RT_Frail.degreeDatas.0.label>
+<!-- {PAWN_nameDef} виглядає трохи слабенько або нездужливо, не в привабливому вигляді. -->
+<RT_Frail.degreeDatas.0.description>{PAWN_nameDef} виглядає трохи слабенько або нездужливо, не в привабливому вигляді.</RT_Frail.degreeDatas.0.description>
+<!-- слабка -->
+<RT_Frail.degreeDatas.0.labelFemale>слабка</RT_Frail.degreeDatas.0.labelFemale>
+<!-- стриманий -->
+<RT_Abstinent.degreeDatas.0.label>стриманий</RT_Abstinent.degreeDatas.0.label>
+<!-- {PAWN_nameDef} мало їсть та п'є. -->
+<RT_Abstinent.degreeDatas.0.description>{PAWN_nameDef} мало їсть та п'є.</RT_Abstinent.degreeDatas.0.description>
+<!-- стримана -->
+<RT_Abstinent.degreeDatas.0.labelFemale>стримана</RT_Abstinent.degreeDatas.0.labelFemale>
+<!-- поїдач -->
+<RT_Ravenous.degreeDatas.0.label>поїдач</RT_Ravenous.degreeDatas.0.label>
+<!-- У {PAWN_nameDef} бездонна яма замість шлунку. -->
+<RT_Ravenous.degreeDatas.0.description>У {PAWN_nameDef} бездонна яма замість шлунку.</RT_Ravenous.degreeDatas.0.description>
+<!-- поїдач -->
+<RT_Ravenous.degreeDatas.0.labelFemale>поїдач</RT_Ravenous.degreeDatas.0.labelFemale>
+
+</LanguageData>

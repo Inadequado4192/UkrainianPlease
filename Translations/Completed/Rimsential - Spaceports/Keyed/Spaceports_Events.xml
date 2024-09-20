@@ -1,0 +1,67 @@
+<LanguageData>
+    <Spaceports_ShuttleDisabled>Немає вільних посадкових майданчиків</Spaceports_ShuttleDisabled>
+    <!--Shuttle Medevac-->
+<Spaceports_ShuttleMedevacLetterLabel>Медевакуаційний шатл</Spaceports_ShuttleMedevacLetterLabel>
+<Spaceports_ShuttleMedevacLetter>Ваш короткохвильовий радіо раптово оживає, передавши через динаміки хрипливий, але чіткий голос, що просять допомоги. Це, здається, пілот шатлу з {0}, який був відправлений на медичну евакуацію тяжко пораненого товариша.\n\nНа жаль, стан пацієнта раптово погіршився, а медична сестра на борту боїться, що вони не зможуть дістатися до найближчої бази {0} з достатньою медичною підтримкою вчасно. А ваша колонія знаходиться всього кілька хвилин від них.\n\nМедична сестра та пілот обидва благають вас дозволити екстрену посадку, щоб ви могли надати належну допомогу пораненому пацієнту. Вони не можуть зробити вам конкретну обіцянку матеріальної винагороди, але клянуться, що вони зроблять все можливе, щоб {1} висловив подяку вам.\n</Spaceports_ShuttleMedevacLetter>
+<Spaceports_ShuttleMedevacAccept>Дозволити посадку - ми зробимо все, що можемо.</Spaceports_ShuttleMedevacAccept>
+<Spaceports_ShuttleMedevacPost>Відкласти</Spaceports_ShuttleMedevacPost>
+<Spacepots_ShuttleMedevacDeny>Вибачте та відправте їх геть.</Spacepots_ShuttleMedevacDeny>
+<Spaceports_ShuttleMedevacRewardLabel>Винагорода за медевакуацію</Spaceports_ShuttleMedevacRewardLabel>
+<Spaceports_ShuttleMedevacReward>Деякий час тому ви надали допомогу медичному шатлу, що зазнав аварії. Бортовий пілот і медсестра дотримали обіцянки замовити слівце перед своїм босом і навіть домоглися, щоб вам надіслали винагороду у вигляді капсули.</Spaceports_ShuttleMedevacReward>
+
+    <!--Interstellar Derelict-->
+<Spaceports_InterstellarDerelictLetterLabel>Міжзірковий злам</Spaceports_InterstellarDerelictLetterLabel>
+<Spaceports_InterstellarDerelictLetter>Ваш короткодіапазонний радіоприймач зловив автоматичний сигнал біди від міжзіркового корабля. Здається, що його Джонсон-Танака-двигун був непоправно пошкоджений десь у порожнечі між зірками, залишаючи судно на гіперболічній орбіті, яка відкине його навколо місцевого сонця та виведе з системи.\n\nПроте, коли ви стежите за його перельотом, злітно-посадковий шаттл з'єднується з корпусом і починає працювати на своєму Ньютонівському двигуні! Незабаром ви отримуєте передачу від пасажирів, які, очевидно, зловили сигнал вашого космічного порту.\n\nПілот пояснює, що їх реактор приводу занадто нестабільний для контрольованого зниження, і благає вас дозволити екстрену посадку. Він пропонує деякі космічні технології як винагороду.\n\nВи можете прийняти їхню пропозицію, але будьте обачні - пошкоджений реактор шаттла може детонувати під час входу в атмосферу, зливаючи з себе обломки на вашу колонію. Він може навіть детонувати при зіткненні, завдаючи шкоди вашому космічному порту.</Spaceports_InterstellarDerelictLetter>
+<Spaceports_InterstellarDerelictAccept>Дозволити екстрену посадку, але будьте готові до гіршого.</Spaceports_InterstellarDerelictAccept>
+<Spaceports_InterstellarDerelictDeny>Вибачтеся та приховайте сигнал вашого космічного порту. Це занадто ризиковано.</Spaceports_InterstellarDerelictDeny>
+<Spaceports_InterstellarDerelictSafe>Двигун шатла реве сильно, коли він наближається до вашого космодрому. Він зробить це.</Spaceports_InterstellarDerelictSafe>
+<Spaceports_InterstellarDerelictBoom>Двигун шатла погано працює, коли він наближається до вашого космодрому. Він збирається зіткнутися!</Spaceports_InterstellarDerelictBoom>
+<Spaceports_InterstellarDerelictShrapnel>Реактор шатла втратив контроль під час входу в атмосферу. Ваш сигнал космодрому зареєстрував {0} вхідних шматків осколків та сміття!</Spaceports_InterstellarDerelictShrapnel>
+    <!--Mystery Cargo-->
+<Spaceports_MysteryCargo>Таємничий вантаж</Spaceports_MysteryCargo>
+<Spaceports_MysteryCargoLetter>Ваш буферний зонд щойно виявив шаттл, що наближається до вашого космодрому на автопілоті. Його транспондер вимкнено, і всі спроби зв'язатися з екіпажем, який може бути на борту, не вдалися.\n\nПроте кінематичний аналіз траєкторії та прискорення шаттла здається вказувати на те, що він містить важкий вантаж. Це може бути щось цінне ... або це може бути пасткою.\n\nВи можете вимкнути свій буферний зонд, щоб приховатися від автопілота, або, як альтернативу, можете залишити його увімкненим та дозволити шаттлу приземлитися.</Spaceports_MysteryCargoLetter>
+<Spaceports_MysteryCargoAccept>Дозволити шаттлу приземлитися.</Spaceports_MysteryCargoAccept>
+<Spaceports_MysteryCargoDeny>Це занадто ризиковано. Вимкніть буферний зонд.</Spaceports_MysteryCargoDeny>
+<Spaceports_MysteryCargoContents>Вміст: невідомий</Spaceports_MysteryCargoContents>
+<Spaceports_MysteryCargo0>Здається, що у шаттлі міститься невеликий асортимент корисних речей.</Spaceports_MysteryCargo0>
+<Spaceports_MysteryCargo1>Здається, що у шаттлі міститься великий асортимент корисних речей.</Spaceports_MysteryCargo1>
+<Spaceports_MysteryCargo2>Здається, що шаттл порожній. Його приводи пошкоджено, тому він придатний тільки на злом.</Spaceports_MysteryCargo2>
+<Spaceports_MysteryCargo3>Двигун шаттла запалюється, коли ви підходите, і він злітає на невідомі далі.</Spaceports_MysteryCargo3>
+<Spaceports_MysteryCargo4>Шаттл раптово розпресурився, кидати з його шлюзу кілька висохлих скелетів.</Spaceports_MysteryCargo4>
+<Spaceports_MysteryCargo5>При наближенні до шаттла ви почуваєте пронизливий ментальний крик. Психічний заряд!</Spaceports_MysteryCargo5>
+<Spaceports_MysteryCargo6>Шлюз шаттла відкривається, коли ви наближаєтеся, і з нього виходить невелика атакуюча група з {0}!</Spaceports_MysteryCargo6>
+<Spaceports_MysteryCargo7>Реактор шаттла починає голосно квітчати, коли ви наближаєтеся. Це бомба!</Spaceports_MysteryCargo7>
+
+    <!--Prisoner Transfer-->
+<Spaceports_PrisonerTransfer>Перевезення в'язнів</Spaceports_PrisonerTransfer>
+<Spaceports_PrisonerTransferLetter>Від {0} з {1} до вас надійшла пропозиція. Здається, в них є переповнення в'язниць на деяких з їх баз, тому вони хотіли б відвантажити кількох в'язнів - за умови, звичайно, що ви сплатите комісію.\n\n{0} каже, що вони все ще мають дві групи в'язнів для перевезення - одна з низькою безпекою, інша з високою. Якщо ви погоджуєтеся, платіж та в'язні будуть безумовно та назавжди переведені до вас шатлом.\n\nПлатіж за в'язнів низької безпеки: {2}\nПлатіж за в'язнів високої безпеки: {3}</Spaceports_PrisonerTransferLetter>
+<Spaceports_PrisonerTransferLowSec>Візьміть групу в'язнів з низькою безпекою.</Spaceports_PrisonerTransferLowSec>
+<Spaceports_PrisonerTransferHighSec>Візьміть групу в'язнів з високою безпекою.</Spaceports_PrisonerTransferHighSec>
+<Spaceports_PrisonerTransferDeny>Відхилити пропозицію.</Spaceports_PrisonerTransferDeny>
+
+    <!--Spicy Pawn Lending-->
+    <Spaceports_SpicyPawnLending>{0} просить професійної допомоги</Spaceports_SpicyPawnLending>
+
+<Spaceports_SpicyPawnLendingLetter>Від {0} надійшла пропозиція. Здається, їм потрібна допомога професіонала для особливо складної та ризикованої {1} роботи, і вони вважають, що один з ваших колоністів - {2} - саме те, що їм потрібно. \n\nЯкщо ви згодні, {0} відправить шаттл, щоб перевезти {2} на місце роботи, де {3} {4}. Робота займе від 10 до 15 днів, після чого {2} буде перевезено на другому шаттлі разом з обіцяною винагородою. \n\nОднак {0} попереджає, що хоча вони можуть гарантувати, що {2} не під загрозою смерті, вони не можуть гарантувати загальне здоров'я та безпеку {2} протягом роботи. \n\nЯкщо ви приймаєте пропозицію, {0} пропонує наступну винагороду: {5}</Spaceports_SpicyPawnLendingLetter>
+<Spaceports_SpicyPawnLendingAccept>Прийняти пропозицію.</Spaceports_SpicyPawnLendingAccept>
+<Spaceports_SpicyPawnLendingDeny>Відхилити пропозицію - це занадто ризиковано.</Spaceports_SpicyPawnLendingDeny>
+<Spaceports_PickupInbound>Шаттл прибуває, щоб забрати {0}.</Spaceports_PickupInbound>
+<Spaceports_ShootingFluff>отримати завдання полювати на небезпечних мегафаун, які тероризують невелике поселення.</Spaceports_ShootingFluff>
+<Spaceports_MeleeFluff>навчити нових отримувачів військових біонік бойовим навикам ближнього бою.</Spaceports_MeleeFluff>
+<Spaceports_ConstructionFluff>допомогти у будівництві нової низькоорбітальної станції на спінгравах.</Spaceports_ConstructionFluff>
+<Spaceports_MiningFluff>допомогти запустити нову низькоорбітальну оперцію з видобутку астероїдів.</Spaceports_MiningFluff>
+<Spaceports_CookingFluff>забезпечити кейтеринг на майбутньому саміті з ворожою фракцією, з якою напруженість особливо висока.</Spaceports_CookingFluff>
+<Spaceports_PlantsFluff>зібрати цінні побічні продукти з поля особливо хижої мегафлори.</Spaceports_PlantsFluff>
+<Spaceports_AnimalsFluff>взяти участь в масштабній операції з приручення Трумбо.</Spaceports_AnimalsFluff>
+<Spaceports_CraftingFluff>допомогти розібрати вибухонебезпечну ультратехнологію з антиматерією.</Spaceports_CraftingFluff>
+
+<Spaceports_ArtisticFluff>допомогти в будівництві величезної хмарочосної пам'ятки.</Spaceports_ArtisticFluff>
+<Spaceports_MedicalFluff>діяти як бойовий медик на околицях облоги механоїдів.</Spaceports_MedicalFluff>
+<Spaceports_SocialFluff>виступити посередником на майбутньому саміті з ворожою фракцією, з якою напружені відносини.</Spaceports_SocialFluff>
+<Spaceports_IntellectualFluff>допомогти перемогти відкочувану персональну ШІ, підключившись до її системи за допомогою ультратехнологічного інтерфейсу мозок-комп'ютер.</Spaceports_IntellectualFluff>
+<Spaceports_SpicyPawnLendingReturnSafe>{0} безпечно повернувся з роботи.</Spaceports_SpicyPawnLendingReturnSafe>
+<Spaceports_SpicyPawnLendingInjured>{0} отримав травми на роботі! Він сильно побитий, {1}.</Spaceports_SpicyPawnLendingInjured>
+<Spaceports_SpicyPawnLendingNoAddlInjury>але крім цього, він на щастя, цілий.</Spaceports_SpicyPawnLendingNoAddlInjury>
+<Spaceports_SpicyPawnLendingAddlInjury>і, здається, він також зазнав наступного: </Spaceports_SpicyPawnLendingAddlInjury>
+
+</LanguageData>

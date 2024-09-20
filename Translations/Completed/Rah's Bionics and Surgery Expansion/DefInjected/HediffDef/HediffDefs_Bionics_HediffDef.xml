@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<PowerArm.label>Енергетична рука</PowerArm.label>
+<PowerArm.labelNoun>Енергетична рука</PowerArm.labelNoun>
+<PowerArm.description>Встановлена енергетична рука.</PowerArm.description>
+<PowerArm.comps.HediffComp_VerbGiver.tools.0.label>кулак</PowerArm.comps.HediffComp_VerbGiver.tools.0.label>
+<BionicHand.label>біонічна кисть</BionicHand.label>
+<BionicHand.labelNoun>біонічна кисть</BionicHand.labelNoun>
+<BionicHand.description>Встановлена біонічна кисть.</BionicHand.description>
+<BionicHand.comps.HediffComp_VerbGiver.tools.0.label>кисть</BionicHand.comps.HediffComp_VerbGiver.tools.0.label>
+<BionicFoot.label>біонічна нога</BionicFoot.label>
+<BionicFoot.labelNoun>біонічна нога</BionicFoot.labelNoun>
+<BionicFoot.description>Встановлена біонічна нога.</BionicFoot.description>
+<BionicJaw.label>біонічна щелепа</BionicJaw.label>
+<BionicJaw.labelNoun>біонічна щелепа</BionicJaw.labelNoun>
+<BionicJaw.description>Встановлена біонічна щелепа.</BionicJaw.description>
+<BionicTongue.label>біонічний язик</BionicTongue.label>
+<BionicTongue.labelNoun>біонічна язик</BionicTongue.labelNoun>
+<BionicTongue.description>Встановлена біонічна язик</BionicTongue.description>
+<BionicEar.label>біонічне вухо</BionicEar.label>
+<BionicEar.labelNoun>біонічне вухо</BionicEar.labelNoun>
+<BionicEar.description>Встановлене біонічне вухо.</BionicEar.description>
+<BionicEye.label>біонічне око</BionicEye.label>
+<BionicEye.labelNoun>біонічне око</BionicEye.labelNoun>
+<BionicEye.description>Встановлене біонічне око.</BionicEye.description>
+<BionicArm.label>біонічна рука</BionicArm.label>
+<BionicArm.labelNoun>біонічна рука</BionicArm.labelNoun>
+<BionicArm.description>Встановлена біонічна рука.</BionicArm.description>
+<BionicArm.comps.HediffComp_VerbGiver.tools.0.label>кулак</BionicArm.comps.HediffComp_VerbGiver.tools.0.label>
+<BionicLeg.label>біонічна нога</BionicLeg.label>
+<BionicLeg.labelNoun>біонічна нога</BionicLeg.labelNoun>
+<BionicLeg.description>Встановлена біонічна нога.</BionicLeg.description>
+<BionicSpine.label>біонічна хребет</BionicSpine.label>
+<BionicSpine.labelNoun>біонічний хребет</BionicSpine.labelNoun>
+<BionicSpine.description>Встановлений біонічний хребет.</BionicSpine.description>
+</LanguageData>

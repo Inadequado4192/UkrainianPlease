@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/ThingCategoryDefs/ProsthesesCategories.xml-->
+<!-- прості протези -->
+<SimpleProstheses.label>прості протези</SimpleProstheses.label>
+<!-- біоніка -->
+<BionicProstheses.label>біоніка</BionicProstheses.label>
+<!-- продвинута біоніка -->
+<AdvancedProstheses.label>продвинута біоніка</AdvancedProstheses.label>
+<!-- синтетичні органи -->
+<SyntheticOrgans.label>синтетичні органи</SyntheticOrgans.label>
+<!-- імпланти мозку -->
+<BrainImplants.label>імпланти мозку</BrainImplants.label>
+</LanguageData>

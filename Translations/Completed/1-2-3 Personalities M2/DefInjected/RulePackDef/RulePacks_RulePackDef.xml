@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RulePackDefs/RulePacks.xml-->
+                                              <!-- 
+		<li>root-&gt;Residents of this settlement are known to put [DRIVE] above anything else. Send a colonist with matching worldview to make interactions more effective.</li>
+		<li>root-&gt;The inhabitants of this place are known for putting [DRIVE] first. Send a colonist with matching worldview to make interactions more effective.</li>
+		<li>root-&gt;Under influence of [FACTION_LEADER_nameDef], this settlement promotes acting on [DRIVE]. Send a colonist with matching worldview to make interactions more effective.</li>
+		<li>root-&gt;Local leader tries to be more like [FACTION_LEADER_nameDef], which makes them vulnerable to manipulation by anyone who acts on [DRIVE]. Send a colonist with matching worldview to make interactions more effective.</li>
+		<li>root-&gt;[FACTION_LEADER_nameDef] leads [FACTION_LEADER_possessive] people by relying on [DRIVE]. [FACTION_LEADER_possessive] values easily spread among the faction. Send a colonist with matching worldview to make interactions more effective.</li>
+ -->
+<SP_FactionLeaderDescription.rulePack.rulesStrings>
+<li>root->Мешканці цього поселення відомі тим, що вони ставлять [DRIVE] на перше місце. Відправте колоніста зі співпадаючим світоглядом, щоб зробити взаємодії ефективнішими.</li>
+<li>root->Мешканці цього місця відомі тим, що ставлять [DRIVE] на перше місце. Відправте колоніста зі співпадаючим світоглядом, щоб зробити взаємодії ефективнішими.</li>
+<li>root->Під впливом [FACTION_LEADER_nameDef] це поселення підтримує дії на підставі [DRIVE]. Відправте колоніста зі співпадаючим світоглядом, щоб зробити взаємодії ефективнішими.</li>
+<li>root->Місцевий лідер намагається бути більш схожим на [FACTION_LEADER_nameDef], що робить його вразливим до маніпуляцій будь-якої людини, яка діє на підставі [DRIVE]. Відправте колоніста зі співпадаючим світоглядом, щоб зробити взаємодії ефективнішими.</li>
+<li>root->[FACTION_LEADER_nameDef] очолює свій народ, покладаючись на [DRIVE]. Ці цінності легко поширюються серед фракції. Відправте колоніста зі співпадаючим світоглядом, щоб зробити взаємодії ефективнішими.</li>
+</SP_FactionLeaderDescription.rulePack.rulesStrings>
+                                            <!-- 
+		<li>root-&gt;[PAWN_nameDef] has grown as a person</li>
+		<li>root-&gt;[PAWN_nameDef] developed a new personality trait</li>
+		<li>root-&gt;[PAWN_nameDef] overcame [PAWN_possessive] limitations</li>
+ -->
+<SP_ObtainingNewTraitTitle.rulePack.rulesStrings>
+<li>root->[PAWN_nameDef] зріс як особистість</li>
+<li>root->[PAWN_nameDef] розвинув нову рису характеру</li>
+<li>root->[PAWN_nameDef] подолав [PAWN_possessive] обмеження</li>
+</SP_ObtainingNewTraitTitle.rulePack.rulesStrings>
+                                           <!-- 
+		<li>root-&gt;[PAWN_nameDef] learned an importand life lesson today. [PAWN_pronoun] developed new personality trait.</li>
+		<li>root-&gt;In the face of danger, [PAWN_nameDef] found a new quality within [PAWN_objctive]self. [PAWN_pronoun] developed new personality trait.</li>
+		<li>root-&gt;[PAWN_nameDef] was on the brink of mental break, but persevered. [PAWN_pronoun] developed new personality trait.</li>
+ -->
+<SP_ObtainingNewTraitText.rulePack.rulesStrings>
+<li>root-&gt;[PAWN_nameDef] сьогодні вивчив важливу життєву урок. [PAWN_pronoun] розвинув нову особистісну якість.</li>
+<li>root-&gt;В обличчі небезпеки [PAWN_nameDef] знайшов нову якість у собі. [PAWN_pronoun] розвинув нову особистісну якість.</li>
+<li>root-&gt;[PAWN_nameDef] був на межі психічного злому, але пробився. [PAWN_pronoun] розвинув нову особистісну якість.</li>
+</SP_ObtainingNewTraitText.rulePack.rulesStrings>
+                                         <!-- 
+		<li>root-&gt;[PAWN_nameDef] has grown as a person</li>
+		<li>root-&gt;[PAWN_nameDef] changed [PAWN_possessive] ways</li>
+		<li>root-&gt;[PAWN_nameDef]'s personality changed</li>
+		<li>root-&gt;[PAWN_nameDef]'s personality shifted</li>
+		<li>root-&gt;[PAWN_nameDef] overcame [PAWN_possessive] limitations</li>
+		<li>root-&gt;[PAWN_nameDef] had a change of character</li>
+		<li>root-&gt;[PAWN_nameDef] had a change of heart</li>
+ -->
+<SP_ReplacingTraitTitle.rulePack.rulesStrings>
+<li>root-&gt;[PAWN_nameDef] зріс як особистість</li>
+<li>root-&gt;[PAWN_nameDef] змінив свій підхід</li>
+<li>root-&gt;Особистість [PAWN_nameDef] змінилась</li>
+<li>root-&gt;Особистість [PAWN_nameDef] зазнала змін</li>
+<li>root-&gt;[PAWN_nameDef] подолав свої обмеження</li>
+<li>root-&gt;[PAWN_nameDef] зазнав зміни характеру</li>
+<li>root-&gt;[PAWN_nameDef] змінив своє ставлення</li>
+</SP_ReplacingTraitTitle.rulePack.rulesStrings>
+                                        <!-- 
+		<li>root-&gt;[PAWN_nameDef] learned an importand life lesson today. [PAWN_possessive] personality permanently changed.</li>
+		<li>root-&gt;[PAWN_nameDef] learned an importand life lesson today. Or at least that's what [PAWN_pronoun] thinks. [PAWN_possessive] personality permanently changed.</li>
+		<li>root-&gt;[PAWN_nameDef] had an epiphany today. For goo or bad, [PAWN_possessive] personality permanently changed.</li>
+		<li>root-&gt;[PAWN_nameDef] gave it a lot of thought and stopped being [OLDTRAIT]. [PAWN_possessive] personality permanently changed.</li>
+		<li>root-&gt;In the face of danger, [PAWN_nameDef] found a new quality within [PAWN_objctive]. [PAWN_possessive] personality permanently changed.</li>
+		<li>root-&gt;[PAWN_nameDef]'s limits were tested today and [PAWN_pronoun] passed through. [PAWN_possessive] personality permanently changed.</li>
+		<li>root-&gt;[PAWN_nameDef] realised how unnecessarily [OLDTRAIT] [PAWN_pronoun] can be and decided to finally do something about it. [PAWN_possessive] personality permanently changed.</li>
+		<li>root-&gt;It was a tough day for [PAWN_nameDef], but [PAWN_pronoun] realised a thing or two. [PAWN_possessive] personality permanently changed.</li>
+ -->
+<SP_ReplacingTraitText.rulePack.rulesStrings>
+<li>root-&gt;[PAWN_nameDef] сьогодні навчився важливому життєвому уроку. Його/її особистість назавжди змінилася.</li>
+<li>root-&gt;[PAWN_nameDef] сьогодні навчився важливому життєвому уроку. Або, принаймні, він/вона так вважає. Його/її особистість назавжди змінилася.</li>
+<li>root-&gt;[PAWN_nameDef] сьогодні зрозумів щось важливе. Його/її особистість назавжди змінилася, хоча не завжди на краще.</li>
+<li>root-&gt;[PAWN_nameDef] зробив висновок, що його/її раніше характеризувало як [OLDTRAIT], і вирішив змінитися. Його/її особистість назавжди змінилася.</li>
+<li>root-&gt;Під час небезпечної ситуації [PAWN_nameDef] виявив нову рису характеру в собі. Його/її особистість назавжди змінилася.</li>
+<li>root-&gt;Сьогодні [PAWN_nameDef] випробував свої межі, і виходив з цього іспиту з відзнакою. Його/її особистість назавжди змінилася.</li>
+<li>root-&gt;[PAWN_nameDef] зрозумів, наскільки непотрібною є його/її риса [OLDTRAIT], і вирішив нарешті щось з цим зробити. Його/її особистість назавжди змінилася.</li>
+<li>root-&gt;Це був важкий день для [PAWN_nameDef], але він/вона зрозумів щось важливе. Його/її особистість назавжди змінилася.</li>
+</SP_ReplacingTraitText.rulePack.rulesStrings>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Spaceports_RoyaltyShuttle.label>шаттл для членів королівської родини</Spaceports_RoyaltyShuttle.label>
+<Spaceports_RoyaltyShuttle.description>Шаттл з космічної технології, розроблений для переїзду між поверхнею та орбітою або між супутниками планетарної системи.</Spaceports_RoyaltyShuttle.description>
+<Spaceports_ShuttleA.label>шаттл</Spaceports_ShuttleA.label>
+<Spaceports_ShuttleA.description>Шаттл з космічної технології, розроблений для переїзду між поверхнею та орбітою або між супутниками планетарної системи.</Spaceports_ShuttleA.description>
+<Spaceports_ShuttleB.label>шаттл</Spaceports_ShuttleB.label>
+<Spaceports_ShuttleB.description>Шаттл з космічної технології, розроблений для переїзду між поверхнею та орбітою або між супутниками планетарної системи.</Spaceports_ShuttleB.description>
+<Spaceports_ShuttleC.label>шаттл</Spaceports_ShuttleC.label>
+<Spaceports_ShuttleC.description>Шаттл з космічної технології, розроблений для переїзду між поверхнею та орбітою або між супутниками планетарної системи.</Spaceports_ShuttleC.description>
+<Spaceports_ShuttleD.label>шаттл</Spaceports_ShuttleD.label>
+<Spaceports_ShuttleD.description>Шаттл з космічної технології, розроблений для переїзду між поверхнею та орбітою або між супутниками планетарної системи.</Spaceports_ShuttleD.description>
+<Spaceports_ShuttleSkip.label>шаттл</Spaceports_ShuttleSkip.label>
+<Spaceports_ShuttleSkip.description>Шаттл з космічної технології, розроблений для переїзду між поверхнею та орбітою або між супутниками планетарної системи.</Spaceports_ShuttleSkip.description>
+<Spaceports_ShuttleSuperpod.label>шаттл</Spaceports_ShuttleSuperpod.label>
+<Spaceports_ShuttleSuperpod.description>Космічний транспорт, розроблений для пересування між поверхнею та орбітою або між місяцями планетарної системи.</Spaceports_ShuttleSuperpod.description>
+<Spaceports_ShuttleInert.label>непрацездатний космічний транспорт</Spaceports_ShuttleInert.label>
+<Spaceports_ShuttleInert.description>Старовинний космічний транспорт, відбитий та витертий від безкінечних століть пересування між зірками. Його реактор знесилено, тому його можна використати лише як скрап.</Spaceports_ShuttleInert.description>
+<Spaceports_SurpriseShuttle.label>таємничий космічний транспорт</Spaceports_SurpriseShuttle.label>
+<Spaceports_SurpriseShuttle.description>Таємничий космічний транспорт. Його транспондер вимкнено, і всі спроби дистанційного зв'язку були невдалі. Під approach з пильною обачністю.</Spaceports_SurpriseShuttle.description>
+</LanguageData>

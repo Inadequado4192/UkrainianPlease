@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<FTND_NukeLauncher.label>ядерний запускник</FTND_NukeLauncher.label>
+
+<FTND_NukeLauncher.description>Одноразовий безвіддаховий запускник, виготовлений на токарному верстаті, призначений для запуску ядерної снаряду N-45 під кодовою назвою "Чіббі". Добре підходить для атаки на великі групи м'яких цілей або масивних фортифікацій.\n\n Як знаряддя масового руйнування з одноразовим використанням, воно може призвести до випадкового обстрілу власних військ, будьте обачні при використанні.</FTND_NukeLauncher.description>
+
+<FTND_NukeLauncher.tools.0.label>ствол</FTND_NukeLauncher.tools.0.label>
+
+</LanguageData>

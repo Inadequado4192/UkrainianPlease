@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MakeAdvancedBionicEye.label>Оновити біонічне око</MakeAdvancedBionicEye.label>
+<MakeAdvancedBionicEye.description>Оновлює біонічне око.</MakeAdvancedBionicEye.description>
+<MakeAdvancedBionicEye.jobString>Оновлення біонічної деталі.</MakeAdvancedBionicEye.jobString>
+<MakeAdvancedPowerArm.label>Оновити силову руку</MakeAdvancedPowerArm.label>
+<MakeAdvancedPowerArm.description>Оновлює силову руку. Високолетальний і ефективний у бою. \n\nНе встановлюйте на нестабільну особу, оскільки це може призвести до небажаної смерті та руйнування.</MakeAdvancedPowerArm.description>
+<MakeAdvancedPowerArm.jobString>Оновлення біонічної деталі.</MakeAdvancedPowerArm.jobString>
+<MakeAdvancedBionicArm.label>Оновити біонічну руку</MakeAdvancedBionicArm.label>
+<MakeAdvancedBionicArm.description>Оновлює біонічну руку.</MakeAdvancedBionicArm.description>
+<MakeAdvancedBionicArm.jobString>Оновлення біонічної деталі.</MakeAdvancedBionicArm.jobString>
+<MakeAdvancedBionicHand.label>Оновити біонічну кисть</MakeAdvancedBionicHand.label>
+<MakeAdvancedBionicHand.description>Поліпшення біонічної кисть.</MakeAdvancedBionicHand.description>
+<MakeAdvancedBionicHand.jobString>Поліпшення біонічної частини.</MakeAdvancedBionicHand.jobString>
+<MakeAdvancedBionicFoot.label>Поліпшення біонічної стопи</MakeAdvancedBionicFoot.label>
+<MakeAdvancedBionicFoot.description>Поліпшення біонічної стопи.</MakeAdvancedBionicFoot.description>
+<MakeAdvancedBionicFoot.jobString>Поліпшення біонічної частини.</MakeAdvancedBionicFoot.jobString>
+<MakeAdvancedBionicLeg.label>Поліпшення біонічної ноги</MakeAdvancedBionicLeg.label>
+<MakeAdvancedBionicLeg.description>Поліпшення біонічної ноги.</MakeAdvancedBionicLeg.description>
+<MakeAdvancedBionicLeg.jobString>Поліпшення біонічної частини.</MakeAdvancedBionicLeg.jobString>
+<MakeAdvancedBionicEar.label>Поліпшення біонічного вуха</MakeAdvancedBionicEar.label>
+<MakeAdvancedBionicEar.description>Поліпшення біонічного вуха.</MakeAdvancedBionicEar.description>
+<MakeAdvancedBionicEar.jobString>Поліпшення біонічної частини.</MakeAdvancedBionicEar.jobString>
+<MakeAdvancedBionicSpine.label>Покращення біонічної хребетної колонки</MakeAdvancedBionicSpine.label>
+<MakeAdvancedBionicSpine.description>Покращує біонічну хребетну колонку.</MakeAdvancedBionicSpine.description>
+<MakeAdvancedBionicSpine.jobString>Покращення біонічної частини.</MakeAdvancedBionicSpine.jobString>
+<MakeExoskeletonSuit.label>Виготовити екзоскелетний костюм</MakeExoskeletonSuit.label>
+<MakeExoskeletonSuit.description>Виготовляє екзоскелетний костюм зі сталі, пластіку та компонентів.</MakeExoskeletonSuit.description>
+<MakeExoskeletonSuit.jobString>Виготовлення біонічної частини.</MakeExoskeletonSuit.jobString>
+</LanguageData>

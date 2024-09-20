@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Defs/TraitDefs/RT_Traits_General_Traits_Uncommon.xml-->
+                               <!-- coordinated -->
+<RT_Coordinated.degreeDatas.0.label>координований</RT_Coordinated.degreeDatas.0.label>
+<!-- [PAWN_nameDef] має хорошу швидкість реакції і фізична активність менш напружує його, ніж його ровесників. -->
+<RT_Coordinated.degreeDatas.0.description>У {PAWN_nameDef} добра швидкість реакції, фізична активність менш напружує, ніж у інших.</RT_Coordinated.degreeDatas.0.description>
+<!-- coordinated -->
+<RT_Coordinated.degreeDatas.0.labelFemale>координована</RT_Coordinated.degreeDatas.0.labelFemale>
+<!-- clumsy -->
+<RT_Clumsy.degreeDatas.0.label>незграбний</RT_Clumsy.degreeDatas.0.label>
+<!-- [PAWN_nameDef] легко відволікається і часто помиляється, коли мова йде про фізичну активність. -->
+<RT_Clumsy.degreeDatas.0.description>{PAWN_nameDef} легко відволікається і часто помиляється, коли мова йде про фізичну активність.</RT_Clumsy.degreeDatas.0.description>
+<!-- clumsy -->
+<RT_Clumsy.degreeDatas.0.labelFemale>незграбна</RT_Clumsy.degreeDatas.0.labelFemale>
+<!-- hardy -->
+<RT_Hardy.degreeDatas.0.label>витривалий</RT_Hardy.degreeDatas.0.label>
+<!-- [PAWN_nameDef] - це те, що люди називають «крепким хлопцем». -->
+<RT_Hardy.degreeDatas.0.description>Таких, як {PAWN_nameDef}, часто називають «крепкий горішок».</RT_Hardy.degreeDatas.0.description>
+<!-- hardy -->
+<RT_Hardy.degreeDatas.0.labelFemale>витривала</RT_Hardy.degreeDatas.0.labelFemale>
+<RT_Inquisitive.degreeDatas.0.label>допитливий</RT_Inquisitive.degreeDatas.0.label>
+<!-- [PAWN_nameDef] is always asking questions and seeking knowledge about the world. -->
+<RT_Inquisitive.degreeDatas.0.description>{PAWN_nameDef} завжди задає запитання та прагне отримати знання про світ.</RT_Inquisitive.degreeDatas.0.description>
+<!-- inquisitive -->
+<RT_Inquisitive.degreeDatas.0.labelFemale>допитлива</RT_Inquisitive.degreeDatas.0.labelFemale>
+<!-- forgetful -->
+<RT_Forgetful.degreeDatas.0.label>забудькуватий</RT_Forgetful.degreeDatas.0.label>
+<!-- [PAWN_nameDef] can never seem to remember anything for very long. -->
+<RT_Forgetful.degreeDatas.0.description>{PAWN_nameDef} ніколи не здається можливим довго запам'ятовувати що-небудь.</RT_Forgetful.degreeDatas.0.description>
+<!-- forgetful -->
+<RT_Forgetful.degreeDatas.0.labelFemale>забудькувата</RT_Forgetful.degreeDatas.0.labelFemale>
+<!-- determined -->
+<RT_Determined.degreeDatas.0.label>цілеспрямований</RT_Determined.degreeDatas.0.label>
+<!-- [PAWN_nameDef] never gives up, no matter how difficult the task at hand may be. -->
+<RT_Determined.degreeDatas.0.description>{PAWN_nameDef} ніколи не здається, незалежно від того, наскільки складне завдання перед ним.</RT_Determined.degreeDatas.0.description>
+<!-- determined -->
+<RT_Determined.degreeDatas.0.labelFemale>цілеспрямована</RT_Determined.degreeDatas.0.labelFemale>
+<RT_Inquisitive.degreeDatas.0.label>допитливий</RT_Inquisitive.degreeDatas.0.label>
+<!-- [PAWN_nameDef] має інтерес до розуміння функціонування світу та може застосовувати свої знання у повсякденному житті. -->
+<RT_Inquisitive.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? зацікавлений : зацікавлена} у розумінні устрою світу та {PAWN_gender ? може : може} застосовувати свої знання у повсякденному житті.</RT_Inquisitive.degreeDatas.0.description>
+<!-- inquisitive -->
+<RT_Inquisitive.degreeDatas.0.labelFemale>допитлива</RT_Inquisitive.degreeDatas.0.labelFemale>
+<!-- ignorant -->
+<RT_Ignorant.degreeDatas.0.label>невігластво</RT_Ignorant.degreeDatas.0.label>
+<!-- Відсутність знань у {PAWN_nameDef} та загальний брак цікавості до навколишнього світу часто робить життя напруженим для {PAWN_objective}. -->
+<RT_Ignorant.degreeDatas.0.description>Прогалини в освіті {PAWN_nameDef} та загальний брак цікавості до навколишнього світу часто робить життя напруженим для {PAWN_objective}.</RT_Ignorant.degreeDatas.0.description>
+<!-- ignorant -->
+<RT_Ignorant.degreeDatas.0.labelFemale>невігласта</RT_Ignorant.degreeDatas.0.labelFemale>
+<!-- tidy -->
+<RT_Tidy.degreeDatas.0.label>акуратний</RT_Tidy.degreeDatas.0.label>
+<!-- {PAWN_nameDef} любить підтримувати чистоту навколо себе та звик до організованого середовища. -->
+<RT_Tidy.degreeDatas.0.description>{PAWN_nameDef} любить підтримувати чистоту навколо себе та {PAWN_objective} любить, коли все знаходиться на своїх місцях.</RT_Tidy.degreeDatas.0.description>
+<!-- tidy -->
+<RT_Tidy.degreeDatas.0.labelFemale>акуратна</RT_Tidy.degreeDatas.0.labelFemale>
+<!-- messy -->
+<RT_Messy.degreeDatas.0.label>недисциплінований</RT_Messy.degreeDatas.0.label>
+<!-- [PAWN_nameDef] часто не дбає про своє оточення, що ускладнює виконання роботи для [PAWN_objective]. -->
+<RT_Messy.degreeDatas.0.description>{PAWN_nameDef} часто не дбає про порядок навколо себе, що ускладнює виконання роботи для [PAWN_objective].</RT_Messy.degreeDatas.0.description>
+<!-- messy -->
+<RT_Messy.degreeDatas.0.labelFemale>недисциплінована</RT_Messy.degreeDatas.0.labelFemale>
+
+</LanguageData>

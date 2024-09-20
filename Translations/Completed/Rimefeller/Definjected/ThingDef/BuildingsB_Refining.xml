@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ChemfuelHopper.label>Хімічний скид палива</ChemfuelHopper.label>
+<ChemfuelHopper.description>Скидає хімічне паливо зі складів хімічних палив до бідонів, які можна продати або використати самостійно.</ChemfuelHopper.description>
+
+<ChemfuelSiphon.label>Хімічний приймач палива</ChemfuelSiphon.label>
+<ChemfuelSiphon.description>Приймає хімічне паливо з бідонів, рівномірно заповнюючи ним всі підключені хімічні сховища палива.</ChemfuelSiphon.description>
+
+<RefineryLoadingBay.label>Розвантажте синтезатор</RefineryLoadingBay.label>
+<RefineryLoadingBay.description>Платформа, на яку синтезатори вантажать свою продукцію.</RefineryLoadingBay.description>
+
+<SynthyleneRefiner.label>Рефінерія Sintelen</SynthyleneRefiner.label>
+<SynthyleneRefiner.description>Переробляє хімічне паливо на Sintelen, дешевий будівельний матеріал різних кольорів.</SynthyleneRefiner.description>
+
+<NapalmRefiner.label>Синтезатор напальму</NapalmRefiner.label>
+<NapalmRefiner.description>Виготовляє надзвичайно горючу та клейку речовину, яка використовується для виготовлення запальних бомб. Складається з хімічного палива, змішаного з Sintelen.</NapalmRefiner.description>
+
+<SynthreadRefiner.label>Рефінерія Synthread</SynthreadRefiner.label>
+<SynthreadRefiner.description>Перетворює хімічне паливо на матеріали Synthread, які використовуються для пошиття високоякісного одягу.</SynthreadRefiner.description>
+
+<SynthamideRefiner.label>Синтезатор синтаміду</SynthamideRefiner.label>
+<SynthamideRefiner.description>Переробляє хімічне паливо на синтамід, міцний та термостійкий матеріал з синтетичних волокон.</SynthamideRefiner.description>
+
+<HyperweaveRefiner.label>Гіпер синтезатор тканини</HyperweaveRefiner.label>
+<HyperweaveRefiner.description>Перетворює хімічне паливо на гіпертканину - надзвичайно міцний матеріал для одягу класу космічних технологій.</HyperweaveRefiner.description>
+
+<NeutroamineRefiner.label>синтезатор нейтроаміну</NeutroamineRefiner.label>
+<NeutroamineRefiner.description>Перетворює хімічне паливо на нейтроамін - речовину, яка використовується при виготовленні медикаментів.</NeutroamineRefiner.description>
+
+<Autoclave.label>автоклав</Autoclave.label>
+<Autoclave.description>Перетворює сировинний полімер або суперсталевий матеріал в готовий продукт, який можна продати або використовувати самостійно.</Autoclave.description>
+  
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Neurostimulator.label>нейростимулятор</Neurostimulator.label>
+<Neurostimulator.description>Високодосконалий імплант мозку, який намагається відновити свідомість суб'єкта. Рекомендується для колоністів, які страждають на хвороби мозку та ураження головного мозку.</Neurostimulator.description>
+<Hyporegulator.label>гіпорегулятор</Hyporegulator.label>
+<Hyporegulator.description>Високодосконалий імплант мозку, який намагається підвищити психічну та фізичну стійкість суб'єкта. Імплант встановлюється в гіпоталамус, що підвищує ефективність гіпоталамус-надниркової системи та терморегуляції організму.</Hyporegulator.description>
+<Cortexaugmentor.label>кортексоаугментатор</Cortexaugmentor.label>
+<Cortexaugmentor.description>Високодосконалий імплант мозку, який намагається підвищити загальний інтелект суб'єкта. Імплант встановлюється в передміжкуркову зону мозку, що підвищує пізнавальні здібності, такі як мова та швидкість навчання.</Cortexaugmentor.description>
+<SyntheticLung.label>штучна легеня</SyntheticLung.label>
+<SyntheticLung.description>Покращене легеневе обладнання з наноклітинами, яке збільшує ефективність та стійкість органу. Повинне зберігатись замороженим поза організмом, щоб уникнути відмирання клітин та відмови органу.\n\nНе викликає відторгнення транспланту.\n\nStats:\nBreathing: 20%\nMoving: 5%</SyntheticLung.description>
+<SyntheticLiver.label>синтетична печінка</SyntheticLiver.label>
+<SyntheticLiver.description>Покращена печінка, яка підсилюється наноклітинами, що збільшує ефективність та стійкість органу. Повинна зберігатись замороженою поза організмом, щоб уникнути відмирання клітин та відмови органу.\n\nНе викликає відторгнення транспланту.\n\nStats:\nBlood filtration: 20%</SyntheticLiver.description>
+<SyntheticKidney.label>синтетична нирка</SyntheticKidney.label>
+<SyntheticKidney.description>Покращене нирка, яке підсилене наноклітинами для підвищення ефективності та довговічності органу. Повинно зберігатись замороженим поза тілом, щоб уникнути гибелі клітин і відмови органу.\n\nНе викликає відторгнення транспланту.\n\nStats:\nBlood filtration: 20%</SyntheticKidney.description>
+<SyntheticHeart.label>штучне серце</SyntheticHeart.label>
+<SyntheticHeart.description>Покращене серце, підсилене наноклітинами для підвищення ефективності та довговічності органу. Повинно зберігатись замороженим поза тілом, щоб уникнути гибелі клітин і відмови органу.\n\nНе викликає відторгнення транспланту.\n\nStats:\nBlood pumping: 20%\nMoving: 10%\nManipulation: 10%</SyntheticHeart.description>
+<SyntheticStomach.label>штучний шлунок</SyntheticStomach.label>
+<SyntheticStomach.description>Покращений шлунок, підсилене наноклітинами для підвищення ефективності та довговічності органу. Повинно зберігатись замороженим поза тілом, щоб уникнути гибелі клітин і відмови органу.\n\nНе викликає відторгнення транспланту.\n\nStats:\nMetabolism: 25%</SyntheticStomach.description>
+</LanguageData>

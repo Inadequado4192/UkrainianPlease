@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<InstallNaturalHeart.label>встановити серце</InstallNaturalHeart.label>
+<InstallNaturalHeart.description>Встановлює серце.</InstallNaturalHeart.description>
+<InstallNaturalHeart.jobString>Встановлює серце.</InstallNaturalHeart.jobString>
+<InstallNaturalLiver.label>встановити печінку</InstallNaturalLiver.label>
+<InstallNaturalLiver.description>Встановлює печінку.</InstallNaturalLiver.description>
+<InstallNaturalLiver.jobString>Встановлює печінку.</InstallNaturalLiver.jobString>
+<InstallNaturalKidney.label>встановити нирку</InstallNaturalKidney.label>
+<InstallNaturalKidney.description>Встановлює нирку.</InstallNaturalKidney.description>
+<InstallNaturalKidney.jobString>Встановлює нирку.</InstallNaturalKidney.jobString>
+<InstallNaturalLung.label>встановити легеню</InstallNaturalLung.label>
+<InstallNaturalLung.description>Встановлює легеню.</InstallNaturalLung.description>
+<InstallNaturalLung.jobString>Встановлює легеню.</InstallNaturalLung.jobString>
+<InstallNaturalStomach.label>встановити шлунок</InstallNaturalStomach.label>
+<InstallNaturalStomach.description>Встановлює шлунок.</InstallNaturalStomach.description>
+<InstallNaturalStomach.jobString>Встановлює шлунок.</InstallNaturalStomach.jobString>
+</LanguageData>

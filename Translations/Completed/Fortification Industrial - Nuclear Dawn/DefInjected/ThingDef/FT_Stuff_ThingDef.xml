@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<FT_DepletedUranium.label>Виснажена уранова шихта</FT_DepletedUranium.label>
+<FT_DepletedUranium.description>Темний важкий метал, який є побічним продуктом від збагаченого урану. Він використовується як матеріал оболонки для звичайної військової техніки на Середньому Світі, його висока щільність і твердість роблять його корисним для виготовлення лез, броні та боєприпасів.</FT_DepletedUranium.description>
+
+<FT_UraniumOutput.label>Розділення урану</FT_UraniumOutput.label>
+<FT_UraniumOutput.description>Продукт, який може розділятися на збагачений і виснажений уран на токарному верстаті.</FT_UraniumOutput.description>
+
+<FT_EnrichedUranium.label>Збагачений уран</FT_EnrichedUranium.label>
+<FT_EnrichedUranium.description>Високо збагачений уран, придатний для виготовлення ядерної боєголовки, що є поширеним зброєю на Середньому Світі і порівнянною з анти-грамовою боєголовкою. Зверніть увагу: не ставте більше 10 на одне місце.</FT_EnrichedUranium.description>
+</LanguageData>

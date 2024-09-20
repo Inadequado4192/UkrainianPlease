@@ -1,0 +1,48 @@
+<LanguageData>
+	<Spaceports_ImmediateDeparture> Змусити відлетіти</Spaceports_ImmediateDeparture>
+	<Spaceports_ImmediateDepartureTooltip>Змусити цей шатл злетіти і відлетіти негайно, незалежно від того, чи завантажені всі необхідні предмети.</Spaceports_ImmediateDepartureTooltip>
+	<Spaceports_RecallParty>Примусове відкликання</Spaceports_RecallParty>
+	<Spaceports_RecallPartyTooltip>Змусьте сторону-власника цього шатла негайно сісти на борт і відлетіти.</Spaceports_RecallPartyTooltip>
+	<Spaceports_GizmoDisabled>Ви не маєте контролю над цим шатлом, або цей шатл не може злетіти.</Spaceports_GizmoDisabled>
+
+	<AccessControlButton>Кнопка управління доступом</AccessControlButton>
+	<AccessControlDesc>Вкажіть, яким типам шатлів дозволено використовувати цей майданчик.</AccessControlDesc>
+	<Spaceports_None>Ні шатлів</Spaceports_None>
+	<Spaceports_AllTypes>Усі шатли</Spaceports_AllTypes>
+	<Spaceports_JustVisitors>Тільки відвідувачі</Spaceports_JustVisitors>
+	<Spaceports_JustTraders>Тільки для трейдерів</Spaceports_JustTraders>
+	<Spaceports_JustGuests>Тільки для гостей</Spaceports_JustGuests>
+
+	<Spaceports_AirspaceLockdown>Блокування повітряного простору</Spaceports_AirspaceLockdown>
+	<Spaceports_AirspaceLockdownDesc>Через присутність ворогів, або через те, що це було активовано вручну, одна або кілька ваших колоній автоматично увійшли в режим блокування повітряного простору. Нові шатли жодного типу не прибуватимуть, але всі шатли, що вже приземлилися, можуть відлітати. \n\nКолонії наразі перебувають під блокуванням повітряного простору:\n</Spaceports_AirspaceLockdownDesc>
+	<Spaceports_AutoEvac>Виконується автоматична евакуація</Spaceports_AutoEvac>
+	<Spaceports_AutoEvacDesc>Через присутність ворогів одна або кілька ваших колоній ініціювали автоматичну евакуацію відвідувачів шатлів. \n\nКолонії, що виконують автоматичну евакуацію:\n</Spaceports_AutoEvacDesc>
+	
+	<Spaceports_NextPageA>Наступна сторінка (анімація, події)</Spaceports_NextPageA>
+	<Spaceports_NextPageB>Наступна сторінка (інтеграції, скидання)</Spaceports_NextPageB>
+	<Spaceports_PrevPage>Наступна сторінка (керування трафіком, відвідувачі, трейдери)</Spaceports_PrevPage>
+
+	<Spaceports_BeaconUnpowered>\nМайданчик не працює - космопорт вимкнено.</Spaceports_BeaconUnpowered>
+	<Spaceports_BeaconNoPads>\nНе виявлено активних посадкових майданчиків - космодром вимкнено.</Spaceports_BeaconNoPads>
+	<Spaceports_BeaconAtCap>\nКосмопорт на визначеній користувачем межі - посадки призупинено.</Spaceports_BeaconAtCap>
+	<Spaceports_BeaconPadsFull>\nВсі посадкові майданчики заповнені - посадку призупинено.</Spaceports_BeaconPadsFull>
+	<Spaceports_BeaconKessler>\nВідбувається каскад уламків - посадка неможлива.</Spaceports_BeaconKessler>
+	<Spaceports_BeaconOK>\nКосмопорт онлайн.</Spaceports_BeaconOK>
+	<Spaceports_BeaconDisabledGeneral> маячок вимкнено.</Spaceports_BeaconDisabledGeneral>
+	<Spaceports_CallTaxi>Викликати шатл таксі</Spaceports_CallTaxi>	<!--Royalty заблоковано-->
+	<Spaceports_CallTaxiTooltip>Викликати одноразовий автоматизований шатл-таксі за 500 срібла.</Spaceports_CallTaxiTooltip>
+	<Spaceports_CallTaxiDisabled>маяк вимкнено - не вдається встановити зв'язок зі службою таксі.</Spaceports_CallTaxiDisabled>
+	<Spaceports_CallTaxiDisabledDLC>для цієї функції потрібне доповнення Royalty DLC.</Spaceports_CallTaxiDisabledDLC>
+	<Spaceports_Uplink>З'єднання встановлено...</Spaceports_Uplink>
+	<Spaceports_CallTaxiInfo>Послуга: Автоматизоване таксі-шатл в один кінець\nТариф: 500 срібла\nПосадка: перша вільна площадка</Spaceports_CallTaxiInfo?>
+	<Spaceports_CannotProceedSilver>\nНеможливо продовжити: недостатньо срібла. (Чи не в зоні торгового маяка?)</Spaceports_CannotProceedSilver>
+	<Spaceports_CannotProceedNoPads>\nНеможливо продовжити: немає відкритих колодок.</Spaceports_CannotProceedNoPads>
+	<Spaceports_CallTaxiCancel>Скасувати</Spaceports_CallTaxiCancel>
+	<Spaceports_CallTaxiConfirm>Викликати!</Spaceports_CallTaxiConfirm>
+	<Spaceports_ManualAirspaceLockdown>Блокування повітряного простору</Spaceports_ManualAirspaceLockdown>
+	<Spaceports_ManualAirspaceLockdownTooltip>Вручну увімкнути блокування повітряного простору.</Spaceports_ManualAirspaceLockdownTooltip>
+	<Spaceports_DismissAll>Примусово залишити всі</Spaceports_DismissAll>
+	<Spaceports_DismissAllTooltip>Змусити всі шатли на мапі вилетіти негайно, незалежно від того, чи завантажено всі необхідні предмети.</Spaceports_DismissAllTooltip>
+	<Spaceports_RecallAll>Примусово відкликати всі</Spaceports_RecallAll>
+	<Spaceports_RecallAllTooltip>Змусити власників усіх шатлів на мапі негайно сісти на борт і відлетіти.</Spaceports_RecallAllTooltip>
+</LanguageData>

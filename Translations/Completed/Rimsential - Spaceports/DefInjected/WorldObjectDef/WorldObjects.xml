@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Common/Defs/MiscDefs/WorldObjects.xml-->
+                       <!-- shuttle -->
+<Spaceports_ShuttleWO.label>шаттл</Spaceports_ShuttleWO.label>
+                             <!-- A shuttle in flight. -->
+<Spaceports_ShuttleWO.description>Шатл у польоті.</Spaceports_ShuttleWO.description>
+
+</LanguageData>

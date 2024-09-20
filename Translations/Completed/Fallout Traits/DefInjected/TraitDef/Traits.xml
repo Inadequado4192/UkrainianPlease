@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Common (9.0, 8.0, 7.0) -->
+
+<FT_StrongBack.degreeDatas.0.label>Міцна спина</FT_StrongBack.degreeDatas.0.label>
+<FT_StrongBack.degreeDatas.0.description>{PAWN_nameDef} має міцну спину, що дозволяє {PAWN_objective} нести більше речей, ніж більшості людей.</FT_StrongBack.degreeDatas.0.description>
+<FT_StrongBack.degreeDatas.1.label>Дуже міцна спина</FT_StrongBack.degreeDatas.1.label>
+<FT_StrongBack.degreeDatas.1.description>{PAWN_nameDef} має дуже міцну спину, можливо, що {PAWN_pronoun} наполовину мул або щось подібне. {PAWN_pronoun} може нести в два рази більше, ніж звичайна людина.</FT_StrongBack.degreeDatas.1.description>
+<FT_Bandolier.degreeDatas.0.label>Бандолєр</FT_Bandolier.degreeDatas.0.label>
+<FT_Bandolier.degreeDatas.0.description>{PAWN_nameDef} - бандолєр. {PAWN_pronoun} завжди має під рукою додаткові патрони для перезарядки зброї дальнього бою.</FT_Bandolier.degreeDatas.0.description>
+<FT_Endurance.degreeDatas.0.label>Витривалий</FT_Endurance.degreeDatas.0.label>
+<FT_Endurance.degreeDatas.0.description>{PAWN_nameDef} має добре здоров'я та стійку особистість. Він краще справляється зі стресовими ситуаціями, ніж інші люди.</FT_Endurance.degreeDatas.0.description>
+<FT_Endurance.degreeDatas.1.label>Дуже стійкий</FT_Endurance.degreeDatas.1.label>
+<FT_Endurance.degreeDatas.1.description>{PAWN_nameDef} має надзвичайне здоров'я та дуже стійку особистість. Він може справлятися з надзвичайно стресовими ситуаціями.</FT_Endurance.degreeDatas.1.description>
+<FT_Charisma.degreeDatas.0.label>Харизматичний</FT_Charisma.degreeDatas.0.label>
+<FT_Charisma.degreeDatas.0.description>{PAWN_nameDef} має харизматичну натуру. Він отримує бонуси до всього соціального спілкування.</FT_Charisma.degreeDatas.0.description>
+<FT_Charisma.degreeDatas.1.label>Дуже харизматичний</FT_Charisma.degreeDatas.1.label>
+<FT_Charisma.degreeDatas.1.description>{PAWN_nameDef} має дуже харизматичну натуру. Він отримує значні бонуси до всього соціального спілкування.</FT_Charisma.degreeDatas.1.description>
+  <FT_Intimidation.degreeDatas.0.label>Лякаючий</FT_Intimidation.degreeDatas.0.label>
+<FT_Intimidation.degreeDatas.0.description>{PAWN_nameDef} має лякаючу натуру, це дає {PAWN_gender ? йому : їй} перевагу в соціальному спілкуванні.</FT_Intimidation.degreeDatas.0.description>
+<FT_Intimidation.degreeDatas.1.label>Дуже лякаючий</FT_Intimidation.degreeDatas.1.label>
+<FT_Intimidation.degreeDatas.1.description>{PAWN_nameDef} має дуже лякаючу натуру, це дає {PAWN_gender ? йому : їй} велику перевагу в соціальному спілкуванні.</FT_Intimidation.degreeDatas.1.description>
+
+<FT_AimOffset.degreeDatas.0.label>Поганий приціл</FT_AimOffset.degreeDatas.0.label>
+<FT_AimOffset.degreeDatas.0.description>{PAWN_nameDef} має погану зорово-моторну координацію і часто промахується мимо цілі в бою, 1d20.</FT_AimOffset.degreeDatas.0.description>
+<FT_AimOffset.degreeDatas.1.label>Стійкий приціл</FT_AimOffset.degreeDatas.1.label>
+<FT_AimOffset.degreeDatas.1.description>{PAWN_nameDef} володіє відмінною зорово-моторною координацією і буде рідше промахуватися мимо своєї цілі в бою, 10d20.</FT_AimOffset.degreeDatas.1.description>
+<FT_AimOffset.degreeDatas.2.label>Орлиний погляд</FT_AimOffset.degreeDatas.2.label>
+<FT_AimOffset.degreeDatas.2.description>{PAWN_nameDef} володіє великолепною зорово-моторною координацією і майже не промахується по своїй цілі в бою, 19d20.</FT_AimOffset.degreeDatas.2.description>
+
+<FT_Artisan.degreeDatas.0.label>Ремісник</FT_Artisan.degreeDatas.0.label>
+<FT_Artisan.degreeDatas.0.description>{PAWN_nameDef} досвідчений ремісник з тонким смаком, {PAWN_pronoun} обожнює майструвати і достатньо {PAWN_gender ? хороший : хороша} в цьому.</FT_Artisan.degreeDatas.0.description>
+<FT_IronStomach.degreeDatas.0.label>Залізний шлунок</FT_IronStomach.degreeDatas.0.label>
+<FT_IronStomach.degreeDatas.0.description>У {PAWN_nameDef} залізний шлунок. {PAWN_pronoun} може довше залишатися без їжі, а {PAWN_gender ? його : її} шлунок може переварити майже все.</FT_IronStomach.degreeDatas.0.description>
+
+<FT_Packing.degreeDatas.0.label>Легкий багаж</FT_Packing.degreeDatas.0.label>
+<FT_Packing.degreeDatas.0.description>{PAWN_nameDef} любить бути з легким багажем. {PAWN_pronoun} буде нести менше речей, але рухатися швидше.</FT_Packing.degreeDatas.0.description>
+<FT_Packing.degreeDatas.1.label>Крадій</FT_Packing.degreeDatas.1.label>
+<FT_Packing.degreeDatas.1.description>{PAWN_nameDef} - крадій, {PAWN_pronoun} збереже все, що завгодно, на випадок, якщо це може знадобитися пізніше, особливо якщо це солодний рулет.</FT_Packing.degreeDatas.1.description>
+
+<FT_Agility.degreeDatas.0.label>Граційний</FT_Agility.degreeDatas.0.label>
+<FT_Agility.degreeDatas.0.description>{PAWN_nameDef} має добрі рефлекси і рухається з грацією. {PAWN_pronoun} буде приземлюватися та ухилятися від нових атак у ближньому бою.</FT_Agility.degreeDatas.0.description>
+<FT_Agility.degreeDatas.1.label>Ніндзя</FT_Agility.degreeDatas.1.label>
+<FT_Agility.degreeDatas.1.description>{PAWN_nameDef} має відмінні рефлекси і рухається як ніндзя. {PAWN_pronoun} буде приземлюватися та ухилятися від більшої кількості атак у ближньому бою.</FT_Agility.degreeDatas.1.description>
+
+<FT_Intelligence.degreeDatas.0.label>Розумний</FT_Intelligence.degreeDatas.0.label>
+<FT_Intelligence.degreeDatas.0.description>{PAWN_nameDef} розумніший, ніж звичайна людина. {PAWN_pronoun} вчиться швидше і має хороше уявлення про навколишній світ.</FT_Intelligence.degreeDatas.0.description> 
+<FT_Intelligence.degreeDatas.1.label>Дуже розумний</FT_Intelligence.degreeDatas.1.label>
+<FT_Intelligence.degreeDatas.1.description>{PAWN_nameDef} дуже розумний. {PAWN_pronoun} швидко вчиться і має велике розуміння про оточуючий світ.</FT_Intelligence.degreeDatas.1.description>
+
+<FT_Perception.degreeDatas.0.label>Чутливий</FT_Perception.degreeDatas.0.label>
+<FT_Perception.degreeDatas.0.description>{PAWN_nameDef} має добре уявлення про своє оточення і добре розуміє, як його дії впливають на інших.</FT_Perception.degreeDatas.0.description>
+<FT_Perception.degreeDatas.1.label>Дуже уважний</FT_Perception.degreeDatas.1.label>
+<FT_Perception.degreeDatas.1.description>{PAWN_nameDef} дуже добре усвідомлює своє оточення і прекрасно розуміє, як його дії впливають на інших.</FT_Perception.degreeDatas.1.description>
+
+<FT_Evasion.degreeDatas.0.label>Повороткий</FT_Evasion.degreeDatas.0.label>
+<FT_Evasion.degreeDatas.0.description>{PAWN_nameDef} добре уникає атак. Важко попасти в {PAWN_gender ? нього : неї} у ближньому бою, і пастки залишаються позаду.</FT_Evasion.degreeDatas.0.description>
+<FT_Evasion.degreeDatas.1.label>Невловимий</FT_Evasion.degreeDatas.1.label>
+<FT_Evasion.degreeDatas.1.description>{PAWN_nameDef} прекрасно уникає атак. В {PAWN_gender ? нього : неї} дуже важко попасти в ближньому бою, і пастки не здатні зловити {PAWN_pronoun}.</FT_Evasion.degreeDatas.1.description>
+
+<FT_Scientific.degreeDatas.0.label>Вчений</FT_Scientific.degreeDatas.0.label>
+<FT_Scientific.degreeDatas.0.description>У {PAWN_nameDef} науковий склад розуму. {PAWN_pronoun} {PAWN_gender ? добрий : добра} у дослідженнях і швидко вчиться.</FT_Scientific.degreeDatas.0.description>
+<FT_Scientific.degreeDatas.1.label>Геніальний вчений</FT_Scientific.degreeDatas.1.label>
+<FT_Scientific.degreeDatas.1.description>{PAWN_nameDef} - геній досліджень. {PAWN_pronoun} неймовірно {PAWN_gender ? добрий : добра} в дослідженнях та дуже швидко вчиться.</FT_Scientific.degreeDatas.1.description>
+ <FT_Adventuring.degreeDatas.0.label>Мандрівник</FT_Adventuring.degreeDatas.0.label>
+<FT_Adventuring.degreeDatas.0.description>{PAWN_nameDef} любить мандрувати. {PAWN_pronoun} рухається швидше, несе більше і буде добувати додаткове харчування під час мандрів у караванах.</FT_Adventuring.degreeDatas.0.description> 
+ <FT_Adventuring.degreeDatas.1.label>Розвідник</FT_Adventuring.degreeDatas.1.label>
+ <FT_Adventuring.degreeDatas.1.description>{PAWN_nameDef} {PAWN_gender ? добре : добре} розуміє розвідку. {PAWN_pronoun} рухається швидше, несе більше та буде добувати додаткове харчування під час подорожі в експедиціях.</FT_Adventuring.degreeDatas.1.description>
+  <FT_Adventuring.degreeDatas.1.label>Пригодник</FT_Adventuring.degreeDatas.1.label>
+<FT_Adventuring.degreeDatas.1.description>{PAWN_nameDef} добре володіє розвідкою. {PAWN_pronoun} рухається швидше, несе більше та здобуває додаткове харчування під час подорожі.</FT_Adventuring.degreeDatas.1.description>
+
+  <!-- Uncommon (0.6, 5.0) -->
+
+ <FT_Bargaining.degreeDatas.0.label>Торговець</FT_Bargaining.degreeDatas.0.label>
+<FT_Bargaining.degreeDatas.0.description>{PAWN_nameDef} добре торгується. {PAWN_pronoun} {PAWN_gender ? добре : добре} в соціальних взаєминах і може домовитись про хорошу угоду під час торгівлі.</FT_Bargaining.degreeDatas.0.description>
+<FT_Bargaining.degreeDatas.1.label>Жорсткий торговець</FT_Bargaining.degreeDatas.1.label>
+<FT_Bargaining.degreeDatas.1.description>{PAWN_nameDef} жорстко торгується. {PAWN_pronoun} майстер соціальних взаємин і може укласти кращу угоду під час торгівлі.</FT_Bargaining.degreeDatas.1.description>
+
+<FT_Inspiration.degreeDatas.0.label>Нудний</FT_Inspiration.degreeDatas.0.label>
+<FT_Inspiration.degreeDatas.0.description>{PAWN_nameDef} нудна особистість. У {PAWN_gender ? нього : неї} мало мотивації до навчання і {PAWN_gender ? він : вона} прикладає менше зусиль під час спілкування.</FT_Inspiration.degreeDatas.0.description>
+<FT_Inspiration.degreeDatas.1.label>Надихаючий</FT_Inspiration.degreeDatas.1.label>
+<FT_Inspiration.degreeDatas.1.description>{PAWN_nameDef} надихаюча особистість. {PAWN_pronoun} {PAWN_gender ? добре : добре} в спілкуванні і {PAWN_gender ? мотивований : мотивована} в навчанні.</FT_Inspiration.degreeDatas.1.description>
+<FT_Inspiration.degreeDatas.2.label>Дуже надихаючий</FT_Inspiration.degreeDatas.2.label>
+<FT_Inspiration.degreeDatas.2.description>{PAWN_nameDef} дуже надихаюча особистість. {PAWN_pronoun} дуже {PAWN_gender ? добре : добре} в спілкуванні і надзвичайно {PAWN_gender ? мотивований : мотивована} в навчанні.</FT_Inspiration.degreeDatas.2.description>
+ 
+ <FT_Generosity.degreeDatas.0.label>Великодушний</FT_Generosity.degreeDatas.0.label>
+<FT_Generosity.degreeDatas.0.description>{PAWN_nameDef} щедра особа, іноді навіть занадто. {PAWN_pronoun} добре переговорює, але часто пропонує більше, ніж потрібно.</FT_Generosity.degreeDatas.0.description>
+<FT_Generosity.degreeDatas.1.label>Чрезмерно щедрий</FT_Generosity.degreeDatas.1.label>
+<FT_Generosity.degreeDatas.1.description>{PAWN_nameDef} чрезмерно щедра особа. {PAWN_pronoun} відмінно переговорює, але часто пропонує більше, ніж потрібно.</FT_Generosity.degreeDatas.1.description>
+
+<FT_Scrapper.degreeDatas.0.label>Переробник металобрухту</FT_Scrapper.degreeDatas.0.label>
+<FT_Scrapper.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? хорош : хороша} в роботі з металобрухтом. {PAWN_pronoun} чудово підходить для плавильного заводу та {PAWN_gender ? ефективний : ефективна} при використанні будівельних матеріалів.</FT_Scrapper.degreeDatas.0.description>
+  
+  <FT_NaturalLeader.degreeDatas.0.label>Природжений лідер</FT_NaturalLeader.degreeDatas.0.label>
+<FT_NaturalLeader.degreeDatas.0.description>{PAWN_nameDef} природжений лідер, {PAWN_pronoun} {PAWN_gender ? хороший : хороша} у спілкуванні і краще справляється зі стресовими ситуаціями за інших, майже як Зе, але всеодно недостатьньо крутий.</FT_NaturalLeader.degreeDatas.0.description>
+
+<FT_RadResistant.degreeDatas.0.label>Стійкість до радіації</FT_RadResistant.degreeDatas.0.label>
+<FT_RadResistant.degreeDatas.0.description>Організм {PAWN_nameDef} виробив стійкість до негативного впливу токсичних відкладень.</FT_RadResistant.degreeDatas.0.description>
+<FT_RadResistant.degreeDatas.1.label>Легка стійкість до радіації</FT_RadResistant.degreeDatas.1.label>
+<FT_RadResistant.degreeDatas.1.description>Організм {PAWN_nameDef} виробив легку стійкість до негативного впливу токсичних відкладень.</FT_RadResistant.degreeDatas.1.description>
+
+<FT_ActionBoy.degreeDatas.0.label>Хлопчик дії</FT_ActionBoy.degreeDatas.0.label>
+<FT_ActionBoy.degreeDatas.0.description>Не можна втрачати жодної миті! {PAWN_nameDef} має підвищену швидкість руху та роботи.</FT_ActionBoy.degreeDatas.0.description>
+
+  <FT_ActionGirl.degreeDatas.0.label>Дівчина дії</FT_ActionGirl.degreeDatas.0.label>
+<FT_ActionGirl.degreeDatas.0.description>Не можна витрачати ні хвилини! {PAWN_nameDef} має підвищену швидкість руху та роботи.</FT_ActionGirl.degreeDatas.0.description>
+
+<FT_QuickHands.degreeDatas.0.label>Швидкі руки</FT_QuickHands.degreeDatas.0.label>
+<FT_QuickHands.degreeDatas.0.description>{PAWN_nameDef} має швидкі руки. Коли справа доходить до {PAWN_gender ? його : її} рук, {PAWN_pronoun} ніколи не коливається.</FT_QuickHands.degreeDatas.0.description>
+
+<FT_GunNut.degreeDatas.0.label>Любитель зброї</FT_GunNut.degreeDatas.0.label>
+<FT_GunNut.degreeDatas.0.description>{PAWN_nameDef} любитель зброї, {PAWN_pronoun} любить зброю дальнього бою. {PAWN_pronoun} отримує бонуси до настрою коли носить зброю дальнього бою.</FT_GunNut.degreeDatas.0.description>
+
+<FT_Scrounger.degreeDatas.0.label>Збирач ресурсів</FT_Scrounger.degreeDatas.0.label>
+<FT_Scrounger.degreeDatas.0.description>{PAWN_nameDef} знає, як знаходити та збирати ресурси.</FT_Scrounger.degreeDatas.0.description>
+
+<FT_SturdyFrame.degreeDatas.0.label>Міцне тіло</FT_SturdyFrame.degreeDatas.0.label>
+<FT_SturdyFrame.degreeDatas.0.description>У {PAWN_nameDef} міцне тіло. {PAWN_pronoun} може нести більше, а повалити {PAWN_gender ? його : її} складніше.</FT_SturdyFrame.degreeDatas.0.description>
+
+<FT_Survivalist.degreeDatas.0.label>Виживальник</FT_Survivalist.degreeDatas.0.label>
+<FT_Survivalist.degreeDatas.0.description>{PAWN_nameDef} - виживальник. {PAWN_pronoun} володіє природнім даром виживання в непростих ситуаціях.</FT_Survivalist.degreeDatas.0.description>
+  <FT_Blitz.degreeDatas.0.label>Бойовий спеціаліст</FT_Blitz.degreeDatas.0.label>
+<FT_Blitz.degreeDatas.0.description>{PAWN_nameDef} завжди знаходить прогалини в обороні противника. {PAWN_pronoun} швидко рухається і виконує свою роботу, перш ніж хтось зможе відреагувати.</FT_Blitz.degreeDatas.0.description>
+<FT_Philanthropist.degreeDatas.0.label>Філантроп</FT_Philanthropist.degreeDatas.0.label>
+<FT_Philanthropist.degreeDatas.0.description>{PAWN_nameDef} - філантроп. {PAWN_pronoun} {PAWN_gender ? доброзичливий : доброзичлива} і дбає про благополуччя інших.</FT_Philanthropist.degreeDatas.0.description>
+  <FT_HealingHands.degreeDatas.0.label>Цілющі руки</FT_HealingHands.degreeDatas.0.label>
+<FT_HealingHands.degreeDatas.0.description>У {PAWN_nameDef} цілющі руки. Колонія знає, що може розраховувати на {PAWN_gender ? його : її} цілюще доторкання, чи то для лікування, чи для готування їжі.</FT_HealingHands.degreeDatas.0.description>
+
+<FT_Rooted.degreeDatas.0.label>Вкопаний</FT_Rooted.degreeDatas.0.label>
+<FT_Rooted.degreeDatas.0.description>{PAWN_nameDef} стоїть як вкопаний! {PAWN_pronoun} може витримати сильні удари!</FT_Rooted.degreeDatas.0.description>
+
+<FT_LeadBelly.degreeDatas.0.label>Свинцевий живіт</FT_LeadBelly.degreeDatas.0.label>
+<FT_LeadBelly.degreeDatas.0.description>У {PAWN_nameDef} свинцевий живіт. {PAWN_gender ? Його : Її} живіт може протягом значно більшого часу залишатись без їжі, а також {PAWN_pronoun} більш {PAWN_gender ? стійкий : стійка} до токсичних відходів.</FT_LeadBelly.degreeDatas.0.description>
+<FT_BearArms.degreeDatas.0.label>Сильний як ведмідь</FT_BearArms.degreeDatas.0.label>
+<FT_BearArms.degreeDatas.0.description>У {PAWN_nameDef} надзвичайно сильні руки, як у ведмедя. {PAWN_pronoun} може нести більше і завдавати більш сильних ударів!</FT_BearArms.degreeDatas.0.description>
+
+<FT_Serendipitous.degreeDatas.0.label>Щасливчик</FT_Serendipitous.degreeDatas.0.label>
+<FT_Serendipitous.degreeDatas.0.description>{PAWN_nameDef} щасливчик, {PAWN_pronoun} здається дуже {PAWN_gender ? удачливим : удачливою}, і дуже цьому {PAWN_gender ? радий : рада}. </FT_Serendipitous.degreeDatas.0.description>
+
+<FT_GreenThumb.degreeDatas.0.label>Дар рослинництва</FT_GreenThumb.degreeDatas.0.label>
+<FT_GreenThumb.degreeDatas.0.description>У {PAWN_nameDef} дар рослинництва. {PAWN_pronoun} швидко працює з рослинами і збирає більше врожаю.</FT_GreenThumb.degreeDatas.0.description>
+
+<FT_Tenderizer.degreeDatas.0.label>Кийок відбивач</FT_Tenderizer.degreeDatas.0.label>
+<FT_Tenderizer.degreeDatas.0.description>{PAWN_nameDef} як кийок відбивач! У {PAWN_gender ? нього : неї} справжня пристрасть до биття.</FT_Tenderizer.degreeDatas.0.description>
+
+
+  <!-- Rare (0.4 and below) -->
+
+ <FT_FortuneFinder.degreeDatas.0.label>Шукач щастя</FT_FortuneFinder.degreeDatas.0.label>
+<FT_FortuneFinder.degreeDatas.0.description>{PAWN_nameDef} здатен знаходити сховане багатство, куди б {PAWN_pronoun} не {PAWN_gender ? йшов : йшла}.</FT_FortuneFinder.degreeDatas.0.description>
+
+<FT_BountifulButcher.degreeDatas.0.label>Мисливець на м'ясо</FT_BountifulButcher.degreeDatas.0.label>
+<FT_BountifulButcher.degreeDatas.0.description>{PAWN_nameDef} відмінний мисливець на м'ясо! {PAWN_pronoun} не боїться занурюватись глибше, щоб отримати те, що хоче.</FT_BountifulButcher.degreeDatas.0.description>
+
+<FT_AnimalFriend.degreeDatas.0.label>Друг тварин</FT_AnimalFriend.degreeDatas.0.label>
+<FT_AnimalFriend.degreeDatas.0.description>{PAWN_nameDef} має страсть до тварин. {PAWN_pronoun} отримує бонуси до всіх взаємодій з тваринами.</FT_AnimalFriend.degreeDatas.0.description>
+
+<FT_Magnetic.degreeDatas.0.label>Притягуючий</FT_Magnetic.degreeDatas.0.label>
+<FT_Magnetic.degreeDatas.0.description>У {PAWN_nameDef} є притягуюче тіло, буквально! Якимось чином {PAWN_pronoun} може використовувати свою притягальність не лише на колоністах, а й на металах!</FT_Magnetic.degreeDatas.0.description>
+
+  <FT_LifeGiver.degreeDatas.0.label>Даритель життя</FT_LifeGiver.degreeDatas.0.label>
+<FT_LifeGiver.degreeDatas.0.description>{PAWN_nameDef} символізує здоров'я! Колоністи, які потребують лікування, можуть спокійно відпочивати, знаючи, що завдяки досвіду {PAWN_nameDef} вони точно виживуть.</FT_LifeGiver.degreeDatas.0.description>
+
+<FT_SpiritualHealer.degreeDatas.0.label>Духовний цілитель</FT_SpiritualHealer.degreeDatas.0.label>
+<FT_SpiritualHealer.degreeDatas.0.description>{PAWN_nameDef} духовний цілитель, {PAWN_pronoun} відмінний лікар з хорошими соціальними навичками. {PAWN_nameDef} любить вирощувати і робити свої власні ліки.</FT_SpiritualHealer.degreeDatas.0.description>
+
+<FT_FrailBack.degreeDatas.0.label>Слабкий хребет</FT_FrailBack.degreeDatas.0.label>
+<FT_FrailBack.degreeDatas.0.description>{PAWN_nameDef} має слабкий хребет, тому {PAWN_pronoun} не може нести стільки, як звичайна людина.</FT_FrailBack.degreeDatas.0.description>
+
+<FT_Ghoulish.degreeDatas.0.label>Огидний</FT_Ghoulish.degreeDatas.0.label>
+<FT_Ghoulish.degreeDatas.0.description>{PAWN_nameDef} все ще людина, в більшій мірі. {PAWN_pronoun} має імунітет до дії токсичних осадів, але його огидний зовнішній вигляд ускладнює взаємодію з іншими людьми.</FT_Ghoulish.degreeDatas.0.description>
+
+  <FT_IdiotSavant.degreeDatas.0.label>Талановитий ідіот</FT_IdiotSavant.degreeDatas.0.label>
+<FT_IdiotSavant.degreeDatas.0.description>{PAWN_nameDef} не дурний! {PAWN_pronoun} просто... {PAWN_gender ? інакший : інакша}. {PAWN_pronoun} навчається удвічі швидше, але працює повільніше, і {PAWN_gender ? не може : не може} справитися з деякими завданнями.</FT_IdiotSavant.degreeDatas.0.description>
+
+<FT_Stupid.degreeDatas.0.label>Глупий</FT_Stupid.degreeDatas.0.label>
+<FT_Stupid.degreeDatas.0.description>{PAWN_nameDef} не дуже {PAWN_gender ? розумний : розумна}. {PAWN_pronoun} може зіпсувати все, що завгодно.</FT_Stupid.degreeDatas.0.description>
+
+<FT_Oblivious.degreeDatas.0.label>Забудькуватий</FT_Oblivious.degreeDatas.0.label>
+<FT_Oblivious.degreeDatas.0.description>{PAWN_nameDef} не дуже усвідомлює, чи існує {PAWN_gender ? його : її} оточення, чи щось взагалі існує насправді.</FT_Oblivious.degreeDatas.0.description>
+
+<FT_Woodchucker.degreeDatas.0.label>Дроворуб</FT_Woodchucker.degreeDatas.0.label>
+<FT_Woodchucker.degreeDatas.0.description>{PAWN_nameDef} гризе дерево краще за бобра! {PAWN_nameDef} хоче, щоб усі думали, що {PAWN_pronoun} відмінно працює з деревом через свою працьовитість, але, насправді, всі знають, що справа в цих проклятих зубах.</FT_Woodchucker.degreeDatas.0.description>
+
+<FT_WreckingBall.degreeDatas.0.label>Таран</FT_WreckingBall.degreeDatas.0.label>
+<FT_WreckingBall.degreeDatas.0.description>{PAWN_nameDef} може знести будь-яку споруду, ніби її й не було. {PAWN_pronoun} не усвідомлює свої власні сили і часто ламає речі під час будівництва.</FT_WreckingBall.degreeDatas.0.description>
+
+  <FT_Perfectionist.degreeDatas.0.label>Перфекціоніст</FT_Perfectionist.degreeDatas.0.label>
+<FT_Perfectionist.degreeDatas.0.description>{PAWN_nameDef} - перфекціоніст. {PAWN_pronoun} відмінний будівельник, але {PAWN_gender ? йому : їй} потрібно більше часу на виконання завдань, тому що {PAWN_pronoun} докладає занадто багато зусиль, щоб все було ідеально.</FT_Perfectionist.degreeDatas.0.description>
+
+<FT_IronFist.degreeDatas.0.label>Залізний кулак</FT_IronFist.degreeDatas.0.label>
+<FT_IronFist.degreeDatas.0.description>У {PAWN_nameDef} залізні кулаки! {PAWN_pronoun} може пробивати ворогів, немов їх і не було. {PAWN_nameDef} любить ближній бій, але не полюбляє вогнепальну зброю.</FT_IronFist.degreeDatas.0.description>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Variants/Variants5.xml-->
+<!-- Investigator -->
+<SP_Investigator.label>Дослідник</SP_Investigator.label>
+<!-- Philosopher -->
+<SP_Philosopher.label>Філософ</SP_Philosopher.label>
+<!-- Troubleshooter -->
+<SP_Troubleshooter.label>Вирішувач проблем</SP_Troubleshooter.label>
+<!-- Thinker -->
+<SP_Thinker.label>Мислитель</SP_Thinker.label>
+</LanguageData>

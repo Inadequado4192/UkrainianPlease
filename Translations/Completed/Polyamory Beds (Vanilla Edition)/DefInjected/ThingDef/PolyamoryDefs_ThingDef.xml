@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<TripleSleepingSpot.label>Трипл спальне місце</TripleSleepingSpot.label>
+<TripleSleepingSpot.description>Позначає місце на землі, де повинні спати разом три людини. Не комфортно.</TripleSleepingSpot.description>
+<QuadSleepingSpot.label>Квадра спальне місце</QuadSleepingSpot.label>
+<QuadSleepingSpot.description>Позначає місце на землі, де повинні спати разом чотири людини. Не комфортно.</QuadSleepingSpot.description>
+<BedrollTriple.label>Тріпл розкладне ліжко</BedrollTriple.label>
+<BedrollTriple.description>Просте трипл-широке ліжко, яке лежить на підлозі, зазвичай зроблене з тканини або шкіри, часто з обшивкою з хутра. Воно легке і може бути скручене для легшого транспортування, але не так комфортне, як звичайне ліжко. Каравани можуть використовувати розкладні ліжка під час подорожі для кращого сну.</BedrollTriple.description>
+<BedrollQuad.label>Квадра розкладне ліжко</BedrollQuad.label>
+<BedrollQuad.description>Просте квадро-широке ліжко, яке лежить на підлозі, зазвичай зроблене з тканини або шкіри, часто з обшивкою з хутра. Воно легке і може бути скручене для легшого транспортування, але не так комфортне, як звичайне ліжко. Каравани можуть використовувати розкладні ліжка під час подорожі для кращого сну.</BedrollQuad.description>
+<TripleBed.label>Тріпл ліжко</TripleBed.label>
+<TripleBed.description>Просте трипл-широке ліжко для трьох людей.</TripleBed.description>
+<QuadBed.label>чотиримісне ліжко</QuadBed.label>
+<QuadBed.description>Просте ліжко шириною на чотири людини.</QuadBed.description>
+<TripleRoyalBed.label>Тріпл королівське ліжко</TripleRoyalBed.label>
+<TripleRoyalBed.description>Розкішне ліжко із вставками золота, призначене для високопоставлених осіб. Дуже зручне та красиве, являє собою справжню роботу мистецтва. Вміщує трьох осіб.</TripleRoyalBed.description>
+<QuadRoyalBed.label>чотирьохмісне королівське ліжко</QuadRoyalBed.label>
+<QuadRoyalBed.description>Розкішне ліжко із вставками золота, призначене для високопоставлених осіб. Дуже зручне та красиве, являє собою справжню роботу мистецтва. Вміщує чотирьох осіб.</QuadRoyalBed.description>
+<PentaRoyalBed.label>п'ятирівневе королівське ліжко</PentaRoyalBed.label>
+<PentaRoyalBed.description>Розкішне ліжко із вставками золота, призначене для високопоставлених осіб. Дуже зручне та красиве, являє собою справжню роботу мистецтва. Вміщує п'ять осіб.</PentaRoyalBed.description>
+<SlabTripleBed.label>Тріпл Плита</SlabTripleBed.label>
+<SlabTripleBed.description>Плита з твердого матеріалу, призначена для сну. Лежати на такому ліжку не зручно, але деякі вважають використання його демонстрацією моральної доброти. Це ліжко достатньо широке, щоб вмістити трьох осіб.</SlabTripleBed.description>
+<SlabQuadBed.label>чотирьохмісна Плита</SlabQuadBed.label>
+<SlabQuadBed.description>Плита з твердого матеріалу, призначена для сну. Лежати на такому ліжку не зручно, але деякі вважають використання його демонстрацією моральної доброти. Це ліжко достатнь</SlabQuadBed.description>
+</LanguageData>

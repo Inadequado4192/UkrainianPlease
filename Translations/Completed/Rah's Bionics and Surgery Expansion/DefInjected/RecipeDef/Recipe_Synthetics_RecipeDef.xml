@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<InstallNeurostimulator.label>встановити нейростимулятор</InstallNeurostimulator.label>
+<InstallNeurostimulator.description>Встановлює нейростимулятор.</InstallNeurostimulator.description>
+<InstallNeurostimulator.jobString>Встановлює нейростимулятор.</InstallNeurostimulator.jobString>
+<InstallHyporegulator.label>встановити гіпорегулятор</InstallHyporegulator.label>
+<InstallHyporegulator.description>Встановлює гіпорегулятор.</InstallHyporegulator.description>
+<InstallHyporegulator.jobString>Встановлює гіпорегулятор.</InstallHyporegulator.jobString>
+<InstallCortexaugmentor.label>встановити кортекс-аугментатор</InstallCortexaugmentor.label>
+<InstallCortexaugmentor.description>Встановлює кортекс-аугментатор.</InstallCortexaugmentor.description>
+<InstallCortexaugmentor.jobString>Встановлює кортекс-аугментатор.</InstallCortexaugmentor.jobString>
+<InstallSyntheticLung.label>встановити штучне легене</InstallSyntheticLung.label>
+<InstallSyntheticLung.description>Встановлює штучне легене.</InstallSyntheticLung.description>
+<InstallSyntheticLung.jobString>Встановлює штучне легене.</InstallSyntheticLung.jobString>
+<InstallSyntheticStomach.label>встановити штучний шлунок</InstallSyntheticStomach.label>
+<InstallSyntheticStomach.description>Встановлює штучний шлунок.</InstallSyntheticStomach.description>
+<InstallSyntheticStomach.jobString>Встановлення штучного шлунка.</InstallSyntheticStomach.jobString>
+<InstallSyntheticLiver.label>встановити штучний печінку</InstallSyntheticLiver.label>
+<InstallSyntheticLiver.description>Встановлює штучну печінку.</InstallSyntheticLiver.description>
+<InstallSyntheticLiver.jobString>Встановлення штучної печінки.</InstallSyntheticLiver.jobString>
+<InstallSyntheticKidney.label>встановити штучний нирок</InstallSyntheticKidney.label>
+<InstallSyntheticKidney.description>Встановлює штучний нирок.</InstallSyntheticKidney.description>
+<InstallSyntheticKidney.jobString>Встановлення штучного нирка.</InstallSyntheticKidney.jobString>
+<InstallSyntheticHeart.label>встановити штучне серце</InstallSyntheticHeart.label>
+<InstallSyntheticHeart.description>Встановлює штучне серце.</InstallSyntheticHeart.description>
+<InstallSyntheticHeart.jobString>Встановлення штучного серця.</InstallSyntheticHeart.jobString>
+</LanguageData>

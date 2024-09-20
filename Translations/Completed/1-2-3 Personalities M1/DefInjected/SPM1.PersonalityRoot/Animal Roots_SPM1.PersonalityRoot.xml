@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<SP_AnimalRoot_Kind.type>Тварина</SP_AnimalRoot_Kind.type>
+<SP_AnimalRoot_Kind.label>доброзичлива</SP_AnimalRoot_Kind.label>
+<SP_AnimalRoot_Intense.type>Тварина</SP_AnimalRoot_Intense.type>
+<SP_AnimalRoot_Intense.label>активна</SP_AnimalRoot_Intense.label>
+<SP_AnimalRoot_Energetic.type>Тварина</SP_AnimalRoot_Energetic.type>
+<SP_AnimalRoot_Energetic.label>енергійна</SP_AnimalRoot_Energetic.label>
+<SP_AnimalRoot_Calm.type>Тварина</SP_AnimalRoot_Calm.type>
+<SP_AnimalRoot_Calm.label>спокіна</SP_AnimalRoot_Calm.label>
+</LanguageData>

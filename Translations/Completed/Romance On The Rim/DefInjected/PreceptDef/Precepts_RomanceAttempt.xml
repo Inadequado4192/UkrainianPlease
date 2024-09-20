@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<LanguageData>
+<RomanceOnTheRim_RomanceAttempt_Arranged.label>За згодою громади</RomanceOnTheRim_RomanceAttempt_Arranged.label>
+<RomanceOnTheRim_RomanceAttempt_Arranged.description>Усі спроби романтики мають бути під контролем громади.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Природна ймовірність романтики\n - Ви можете контролювати початок романтики безпосередньо.</RomanceOnTheRim_RomanceAttempt_Arranged.description>
+<RomanceOnTheRim_RomanceAttempt_Forbidden.label>Заборонено</RomanceOnTheRim_RomanceAttempt_Forbidden.label>
+<RomanceOnTheRim_RomanceAttempt_Forbidden.description>Усі в нашій громаді мають залишатися самотніми.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n  - Природна ймовірність романтики</RomanceOnTheRim_RomanceAttempt_Forbidden.description>
+<RomanceOnTheRim_RomanceAttempt_Discouraged.label>Не рекомендується</RomanceOnTheRim_RomanceAttempt_Discouraged.label>
+<RomanceOnTheRim_RomanceAttempt_Discouraged.description>Романтика - мертва.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n- Ймовірність романтики -50%</RomanceOnTheRim_RomanceAttempt_Discouraged.description>
+<RomanceOnTheRim_RomanceAttempt_Encouraged.label>Рекомендовано</RomanceOnTheRim_RomanceAttempt_Encouraged.label>
+<RomanceOnTheRim_RomanceAttempt_Encouraged.description>Любов - це небезпека, любов - це насолода. Любов чиста, це скарб.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Ймовірність романтики +50%.</RomanceOnTheRim_RomanceAttempt_Encouraged.description>
+</LanguageData>

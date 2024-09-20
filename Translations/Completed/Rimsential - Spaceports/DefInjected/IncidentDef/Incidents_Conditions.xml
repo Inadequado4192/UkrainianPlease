@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Common/Defs/IncidentDefs/Incidents_Conditions.xml-->
+                             <!-- kessler syndrome -->
+<Spaceports_KesslerSyndrome.label>Синдром Кесслера</Spaceports_KesslerSyndrome.label>
+                                   <!-- Kessler syndrome -->
+<Spaceports_KesslerSyndrome.letterLabel>Синдром Кесслера</Spaceports_KesslerSyndrome.letterLabel>
+
+</LanguageData>

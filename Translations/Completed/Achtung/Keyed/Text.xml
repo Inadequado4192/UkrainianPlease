@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PositioningEnabledTitle>Користувацьке позиціонування миші</PositioningEnabledTitle>
+	<PositioningEnabledExplained>Дозволяє позиціонування бойових дій для кліків/потягувань миші (див. налаштування нижче)</PositioningEnabledExplained>
+
+	<AchtungModifierTitle>Клавіша Achtung!</AchtungModifierTitle>
+	<AchtungModifierExplained>Натискання на цю клавішу призведе до примусового призову колоністів, якщо їм були дані команди "Рух" або "Рух у формації". Якщо клавішу утримувати, ви зможете переміщувати обраних колоністів в їх поточній формації за допомогою правої кнопки миші. Як тільки праву кнопку миші утримано, клавішу Achtung! можна відпустити. Формацію можна повертати за допомогою клавіш Q та E.</AchtungModifierExplained>
+
+	<ForceCommandMenuModeTitle>Режим контекстного меню</ForceCommandMenuModeTitle>
+<ForceCommandMenuModeExplained>Авто = звичайна поведінка (статус повинен бути "відданий на порушення дисципліни")\nПоказати меню = утримуйте клавішу для відображення контекстного меню\nВстановити позицію = утримуйте клавішу для наказу встановити позицію</ForceCommandMenuModeExplained>
+<ForceCommandMenuKeyTitle>Клавіша контекстного меню</ForceCommandMenuKeyTitle>
+
+	<ForcedCommandState>Наказано працювати до завершення.</ForcedCommandState>
+
+<ForceMenuButtonText>Примусити</ForceMenuButtonText>
+
+<IncreaseForceRadius>Збільшити радіус</IncreaseForceRadius>
+<IncreaseForceRadiusDesc>Збільшити відстань пошуку для примусової роботи (поточний радіус - {0})</IncreaseForceRadiusDesc>
+<DecreaseForceRadius>Зменшити радіус</DecreaseForceRadius>
+<DecreaseForceRadiusDesc>Зменшити відстань пошуку для примусової роботи (поточний радіус - {0})</DecreaseForceRadiusDesc>
+<BuildingSmart>Розумне будівництво</BuildingSmart>
+<BuildingSmartDesc>Розумне будівництво запобігає появі прогалин або застряганню, але є повільнішим та завжди будує навколо вашої початкової позиції.</BuildingSmartDesc>
+
+<Notes>Нотатки</Notes>
+<Note1>При використанні Achtung, контекстне меню містить як команди для залучених до служби колоністів, так і команди для незалучених до служби колоністів</Note1>
+<Note2>При розташуванні незалучених до служби колоністів вздовж лінії, лівий клік залучає колоністів до служби на їх поточні позиції</Note2>
+
+	<CommandMenuModeOptionAuto>Авто</CommandMenuModeOptionAuto>
+<CommandMenuModeOptionPressForMenu>Показати меню</CommandMenuModeOptionPressForMenu>
+<CommandMenuModeOptionPressForPosition>Встановити позицію</CommandMenuModeOptionPressForPosition>
+
+<AchtungModKeyOptionNone>Disabled</AchtungModKeyOptionNone>
+<AchtungModKeyOptionAlt>Alt</AchtungModKeyOptionAlt>
+<AchtungModKeyOptionCtrl>Ctrl</AchtungModKeyOptionCtrl>
+<AchtungModKeyOptionShift>Shift</AchtungModKeyOptionShift>
+<AchtungModKeyOptionMeta>Win/Cmd</AchtungModKeyOptionMeta>
+
+
+	<BreakLevelTitle>Рівень психічного здоров'я для роботи</BreakLevelTitle>
+<BreakLevelExplained>Встановіть рівень психічного здоров'я, при якому колоніст зупинить певну роботу Achtung</BreakLevelExplained>
+<BreakLevelOptionNone>Ігнорувати</BreakLevelOptionNone>
+<BreakLevelOptionMinor>Мінімальний</BreakLevelOptionMinor>
+<BreakLevelOptionMajor>Серйозний</BreakLevelOptionMajor>
+<BreakLevelOptionAlmostExtreme>Майже екстремальний</BreakLevelOptionAlmostExtreme>
+<BreakLevelOptionExtreme>Екстремальний</BreakLevelOptionExtreme>
+
+<HealthLevelTitle>Стан здоров'я для роботи</HealthLevelTitle>
+<HealthLevelExplained>Встановіть стан здоров'я, при якому колоніст зупинить певну роботу Achtung</HealthLevelExplained>
+<HealthLevelOptionNone>Ігнорувати</HealthLevelOptionNone>
+<HealthLevelOptionShouldBeTendedNow>Потрібна медична допомога</HealthLevelOptionShouldBeTendedNow>
+<HealthLevelOptionPrefersMedicalRest>Переважає лікування</HealthLevelOptionPrefersMedicalRest>
+<HealthLevelOptionNeedsMedicalRest>Потребує лікування та відпочинку</HealthLevelOptionNeedsMedicalRest>
+<HealthLevelOptionInPainShock>У болі та шоковому стані</HealthLevelOptionInPainShock>
+
+
+	<IgnoreForbiddenTitle>Ігнорувати заборонене</IgnoreForbiddenTitle>
+<IgnoreForbiddenExplained>Ігнорувати заборонені (червоним хрестиком позначені) предмети при виконанні примусової роботи</IgnoreForbiddenExplained>
+<IgnoreRestrictionsTitle>Ігнорувати заборонені зони</IgnoreRestrictionsTitle>
+<IgnoreRestrictionsExplained>Ігнорувати заборони на зони при виконанні примусової роботи</IgnoreRestrictionsExplained>
+<IgnoreAssignmentsTitle>Ігнорувати призначення виду роботи</IgnoreAssignmentsTitle>
+<IgnoreAssignmentsExplained>Ігнорувати непризначені пріоритети роботи</IgnoreAssignmentsExplained>
+
+	<BuildingSmartDefaultTitle>Розумна будівництво ввімкнене для нових завдань Achtung!</BuildingSmartDefaultTitle>
+<BuildingSmartDefaultExplained>Встановлює значення за замовчуванням для способу вибору порядку побудови нових завдань</BuildingSmartDefaultExplained>
+
+<MaxForcedItemsTitle>Максимальна кількість примусових предметів</MaxForcedItemsTitle>
+<MaxForcedItemsExplained>Обмежує кількість примусових предметів для повільних комп'ютерів</MaxForcedItemsExplained>
+<MaxForcedItemsUnlimited>Необмежено</MaxForcedItemsUnlimited>
+
+<WorkMarkersTitle>Маркери примусової роботи</WorkMarkersTitle>
+<WorkMarkersExplained>Примусова робота відображається маленькими маркерами</WorkMarkersExplained>
+<WorkMarkersOptionAnimated>Анімовані</WorkMarkersOptionAnimated>
+<WorkMarkersOptionStatic>Статичні</WorkMarkersOptionStatic>
+<WorkMarkersOptionOff>Вимкнено</WorkMarkersOptionOff>
+
+	<JobInterruptedLabel>Скасовано: {0}</JobInterruptedLabel>
+	<JobInterruptedBreakdown>{0}: {1}</JobInterruptedBreakdown>
+	<JobInterruptedBadHealth>{0} в поганому стані</JobInterruptedBadHealth>
+
+<CleanRoomLabel>Прибрати цю кімнату</CleanRoomLabel>
+<CleanRoomInfoText>Тщательно прибирання кімнати</CleanRoomInfoText>
+<CleanRoomDescription>Прибирання кімнати до повного порядку</CleanRoomDescription>
+<CleanRoomReport>Прибирання {0}: {1}</CleanRoomReport>
+
+<FireFightLabel>Гасити вогонь</FireFightLabel>
+<FireFightInfoText>Боротьба з вогнем</FireFightInfoText>
+<FireFightDescription>Боротьба з вогнем (навіть за межами зони дому)</FireFightDescription>
+<FireFightReport>Боротьба з вогнем: {0}</FireFightReport>
+
+	<SowZoneLabel>Засіяти цю зону/кімнату</SowZoneLabel>
+<SowZoneInfoText>Засіваємо зону/кімнату</SowZoneInfoText>
+<SowZoneDescription>Засіяти зону або кімнату до повного посіву</SowZoneDescription>
+<SowZoneReport>Засіваємо{0}: {1}</SowZoneReport>
+
+	<AlreadyDoing>(Робота #{0})</AlreadyDoing>
+
+	<CouldNotFindMoreForcedWork>{0} не зміг знайти більше примусової роботи. Ймовірно, залишена робота зарезервована або недоступна.</CouldNotFindMoreForcedWork>
+<NoForcedWork>Немає примусової роботи</NoForcedWork>
+<ForcedWorkWasInterrupted>Примусова робота {0} була перервана.</ForcedWorkWasInterrupted>
+
+</LanguageData>

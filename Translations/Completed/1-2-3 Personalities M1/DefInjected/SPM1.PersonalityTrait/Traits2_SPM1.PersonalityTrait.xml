@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Traits/Traits2.xml-->
+<!-- caring -->
+<SP_Caring.label>турботливий</SP_Caring.label>
+<!-- альтруїстичний -->
+<SP_Altruistic.label>альтруїстичний</SP_Altruistic.label>
+<!-- показушний -->
+<SP_Ostentatious.label>показовий</SP_Ostentatious.label>
+<!-- догоджаючий людям -->
+<SP_People-pleasing.label>догоджальний</SP_People-pleasing.label>
+<!-- привласнюючий -->
+<SP_Possessive.label>привласнювальний</SP_Possessive.label>
+<!-- жвавий -->
+<SP_Exuberant.label>жвавий</SP_Exuberant.label>
+<!-- емпатичний -->
+<SP_Empathetic.label>емпатичний</SP_Empathetic.label>
+<!-- щирий -->
+<SP_Cordial.label>щирий</SP_Cordial.label>
+</LanguageData>

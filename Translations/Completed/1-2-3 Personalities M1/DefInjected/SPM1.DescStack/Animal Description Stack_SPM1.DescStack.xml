@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Animal Description Stack.xml-->
+                                    <!-- Grammar -->
+<SP_AnimalStack.branches.0.leaves.0.type>Grammar</SP_AnimalStack.branches.0.leaves.0.type>
+                                    <!-- Space -->
+<SP_AnimalStack.branches.0.leaves.1.type>Space</SP_AnimalStack.branches.0.leaves.1.type>
+                                    <!-- Grammar -->
+<SP_AnimalStack.branches.0.leaves.2.type>Grammar</SP_AnimalStack.branches.0.leaves.2.type>
+
+
+<!--/Defs/Animal Description Stack.xml-->
+<!-- Grammar -->
+<SP_AnimalStack.branches.0.leaves.0.type>Grammar</SP_AnimalStack.branches.0.leaves.0.type>
+<!-- Space -->
+<SP_AnimalStack.branches.0.leaves.1.type>Space</SP_AnimalStack.branches.0.leaves.1.type>
+<!-- Grammar -->
+<SP_AnimalStack.branches.0.leaves.2.type>Grammar</SP_AnimalStack.branches.0.leaves.2.type>
+
+
+<!--/Defs/Animal Description Stack.xml-->
+<!-- Grammar -->
+<SP_AnimalStack.branches.0.leaves.0.type>Grammar</SP_AnimalStack.branches.0.leaves.0.type>
+<!-- Space -->
+<SP_AnimalStack.branches.0.leaves.1.type>Space</SP_AnimalStack.branches.0.leaves.1.type>
+<!-- Grammar -->
+<SP_AnimalStack.branches.0.leaves.2.type>Grammar</SP_AnimalStack.branches.0.leaves.2.type>
+
+</LanguageData>

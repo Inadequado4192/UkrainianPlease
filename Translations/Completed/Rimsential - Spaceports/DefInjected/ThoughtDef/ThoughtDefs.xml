@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Common/Defs/MiscDefs/ThoughtDefs.xml-->
+                                    <!-- psychic charge echo -->
+<Spaceports_PsychicCharge.stages.0.label>відлуння психічного заряду</Spaceports_PsychicCharge.stages.0.label>
+                                          <!-- The scream from that shuttle's charge... it keeps echoing, piercing and prickling at the inside of my skull. -->
+<Spaceports_PsychicCharge.stages.0.description>Крик під час підриву шатла... він продовжує лунати, пронизуючи і колючи всередині мого черепа.</Spaceports_PsychicCharge.stages.0.description>
+
+</LanguageData>

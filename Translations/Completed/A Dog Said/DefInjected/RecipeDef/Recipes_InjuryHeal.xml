@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Injuries -->
+
+<CureInjuryBurnAnimal.label>Лікує опік</CureInjuryBurnAnimal.label>
+<CureInjuryBurnAnimal.description>Лікує опік.</CureInjuryBurnAnimal.description>
+<CureInjuryBurnAnimal.jobString>Лікує опік.</CureInjuryBurnAnimal.jobString>
+
+<CureInjuryCrushAnimal.label>Лікує розмозжену рану</CureInjuryCrushAnimal.label>
+<CureInjuryCrushAnimal.description>Лікує розмозжену рану.</CureInjuryCrushAnimal.description>
+<CureInjuryCrushAnimal.jobString>Лікує розмозжену рану.</CureInjuryCrushAnimal.jobString>
+
+<CureInjuryCrackAnimal.label>Лікує тріщину</CureInjuryCrackAnimal.label>
+<CureInjuryCrackAnimal.description>Лікує тріщину.</CureInjuryCrackAnimal.description>
+<CureInjuryCrackAnimal.jobString>Лікує тріщину.</CureInjuryCrackAnimal.jobString>
+
+<CureInjuryCutAnimal.label>Лікує поріз</CureInjuryCutAnimal.label>
+<CureInjuryCutAnimal.description>Лікує поріз.</CureInjuryCutAnimal.description>
+<CureInjuryCutAnimal.jobString>Лікує поріз.</CureInjuryCutAnimal.jobString>
+
+<CureInjurySurgicalCutAnimal.label>Лікує хірургічний поріз</CureInjurySurgicalCutAnimal.label>
+<CureInjurySurgicalCutAnimal.description>Лікує хірургічний поріз.</CureInjurySurgicalCutAnimal.description>
+<CureInjurySurgicalCutAnimal.jobString>Лікує хірургічний поріз.</CureInjurySurgicalCutAnimal.jobString>
+
+<CureInjuryScratchAnimal.label>Лікує подряпину</CureInjuryScratchAnimal.label>
+<CureInjuryScratchAnimal.description>Лікує подряпину.</CureInjuryScratchAnimal.description>
+<CureInjuryScratchAnimal.jobString>Лікує подряпину.</CureInjuryScratchAnimal.jobString>
+
+<CureInjuryBiteAnimal.label>Лікує укус</CureInjuryBiteAnimal.label>
+<CureInjuryBiteAnimal.description>Лікує укус.</CureInjuryBiteAnimal.description>
+<CureInjuryBiteAnimal.jobString>Лікує укус.</CureInjuryBiteAnimal.jobString>
+
+<CureInjuryBiteAnimal.label>Лікує укус тварини</CureInjuryBiteAnimal.label>
+<CureInjuryBiteAnimal.description>Лікує укус тварини.</CureInjuryBiteAnimal.description>
+<CureInjuryBiteAnimal.jobString>Лікує укус тварини.</CureInjuryBiteAnimal.jobString>
+
+<CureInjuryStabAnimal.label>Лікує колоту рану</CureInjuryStabAnimal.label>
+<CureInjuryStabAnimal.description>Лікує колоту рану.</CureInjuryStabAnimal.description>
+<CureInjuryStabAnimal.jobString>Лікує колоту рану.</CureInjuryStabAnimal.jobString>
+
+<CureInjuryGunshotAnimal.label>Лікує вогнепальне поранення</CureInjuryGunshotAnimal.label>
+<CureInjuryGunshotAnimal.description>Лікує вогнепальне поранення.</CureInjuryGunshotAnimal.description>
+<CureInjuryGunshotAnimal.jobString>Лікує вогнепальне поранення.</CureInjuryGunshotAnimal.jobString>
+
+<CureInjuryShreddedAnimal.label>Лікує роздроблення</CureInjuryShreddedAnimal.label>
+<CureInjuryShreddedAnimal.description>Лікує роздроблення.</CureInjuryShreddedAnimal.description>
+<CureInjuryShreddedAnimal.jobString>Лікує роздроблення.</CureInjuryShreddedAnimal.jobString>
+
+<CureInjuryBruiseAnimal.label>Лікує синець</CureInjuryBruiseAnimal.label>
+<CureInjuryBruiseAnimal.description>Лікує синець.</CureInjuryBruiseAnimal.description>
+<CureInjuryBruiseAnimal.jobString>Лікує синець.</CureInjuryBruiseAnimal.jobString>
+
+
+</LanguageData>

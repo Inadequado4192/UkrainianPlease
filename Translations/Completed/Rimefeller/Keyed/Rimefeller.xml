@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+<CommandDesignateOpenCloseValveLabelRimefeller>Засувка відкриття/закриття</CommandDesignateOpenCloseValveLabelRimefeller>
+<CommandDesignateOpenCloseValveDescRimefeller>Перемикає засувку, відкриваючи або закриваючи трубопровід</CommandDesignateOpenCloseValveDescRimefeller>
+<ValveClosedRimefeller>Засувка закрита</ValveClosedRimefeller>
+
+<NoUncuredPlasteel>Немає сирої суперсталі</NoUncuredPlasteel>
+<NoUncuredSynthamide>Немає сирого синтаміду</NoUncuredSynthamide>
+<CantModeAutoclave>Не можна змінити режим роботи автоклаву під час його роботи</CantModeAutoclave>
+<CuringTime>Час до готовності: {0}</CuringTime>
+
+<CurePlasteel>Обробляти суперсталь</CurePlasteel>
+<CureComposite>Обробляти полімерний синтамід</CureComposite>
+<CommandCompositeModeDesc>Перемикає режим автоклаву на обробку суперсталі або полімерного синтаміду</CommandCompositeModeDesc>
+
+<FuelStorage>Запас палива: {0} / {1} л</FuelStorage>
+<TotalFuelStorage>Паливо в мережі: {0} л</TotalFuelStorage>
+
+<DrillingPhase>Буріння свердловини</DrillingPhase>
+<DrillingPhaseDesc>Бурильна платформа вже збудована, але свердловину ще не пробурили. \nКолоністи (троє може працювати на одній платформі) з навичками будівництва повинні пробурити свердловину, перш ніж її можна буде використовувати.Прогрес: {0}</DrillingPhaseDesc>
+  
+<OilStorage>Запас нафти: {0} / {1} л</OilStorage>
+<WellPressure>Тиск у свердловині: x {0}</WellPressure>
+<OilWellCapacity>Продуктивність свердловини: {0} л / день</OilWellCapacity>
+<TotalOilStorage>Загальний запас нафти: {0} л</TotalOilStorage>
+<PipedOilPumpCapacity>Рівень заповнення: {0} л / день</PipedOilPumpCapacity>
+
+<DrillingProgress>Процес буріння: {0}</DrillingProgress>
+
+<CleanOilSpill>Витік нафти</CleanOilSpill>
+<CleanOilSpillDesc>Видалити розлиту нафту з підлоги та землі</CleanOilSpillDesc>
+<DesignatorRemovePipeline>Видалити трубопровід</DesignatorRemovePipeline>
+<DesignatorRemovePipelineDesc>Руйнує побудований трубопровід</DesignatorRemovePipelineDesc>
+
+<PlaceDirectlyOverWell>Не правильне розташування бурової вежі. Перемістіть її безпосередньо над свердловиною, щоб використовувати її знову.</PlaceDirectlyOverWell>
+
+<FuelPowerplantUsage>Витрата палива: {0} л / день</FuelPowerplantUsage>
+
+<CuringFailed>Матеріали в автоклаві погіршилися через електричні проблеми</CuringFailed>
+
+<DrainStorageTank>Випустити рідину</DrainStorageTank>
+<DrainStorageTankDesc>Виливає зберігану рідину, рівномірно розподіляючи її між відповідними сховищами в мережі</DrainStorageTankDesc>
+
+<RaiseRefinerPower>Підняти потужність</RaiseRefinerPower>
+<LowerRefinerPower>Zменшити потужність</LowerRefinerPower>
+<LowerRefinerPowerDesc>Зменшує швидкість рафінування нафти та споживання енергії установкою</LowerRefinerPowerDesc>
+<RaiseRefinerPower>Збільшити потужність</RaiseRefinerPower>
+<RaiseRefinerPowerDesc>Збільшує швидкість рафінування нафти та споживання енергії установкою</RaiseRefinerPowerDesc>
+
+<NoRefinerNeedsWork>Ніяка установка в мережі не може розпочати роботу</NoRefinerNeedsWork>
+
+<RequiresDeepScanner>Для перегляду глибоких нафтових родовищ необхідний глибинний сканер</RequiresDeepScanner>
+<RequiresResourceConsole>Для перегляду нафтових родовищ необхідна консоль ресурсів</RequiresResourceConsole>
+
+<AllowedCraftingSkill>Рівень майстерності ремісництва {0}</AllowedCraftingSkill>
+<FuelStorageLimit>Ліміт зберігання хімічного палива {0}</FuelStorageLimit>
+<OilStorageLimit>Ліміт зберігання нафти {0}</OilStorageLimit>
+
+<FuelStoragelimitTip>Установки заповнюватимуть магазин хімічного палива в мережі до певного відсотка, а потім будуть вимкнені. Як тільки рівень хімічного палива в магазинах опуститься нижче, насоси знову почнуть працювати. \n Натисніть хрестик, щоб увімкнути цю функцію.</FuelStoragelimitTip>
+<OilStoragelimitTip>Платформи для буріння заповнюватимуть магазин нафти в мережі до певного відсотка, а потім будуть вимкнені. Як тільки рівень нафти в магазинах опуститься нижче, платформи знову почнуть працювати. \n Натисніть хрестик, щоб увімкнути цю функцію.</OilStoragelimitTip>
+
+<FuelPumpLimit>Ліміт виробництва нафти</FuelPumpLimit>
+<FuelPumpLimitTip>Виробляйте нафту до заповнення мережі у певний день</FuelPumpLimitTip>
+
+<ResourceConsoleAlert>Консоль ресурсів</ResourceConsoleAlert>
+<ResourceConsoleAlertDesc>Натисніть на консоль ресурсів і перейдіть до меню завдань, щоб налаштувати кракінг-платформи, нафтові свердловини та виробництво синтезаторів.</ResourceConsoleAlertDesc>
+
+<ConsoleSettings>Налаштування консолі</ConsoleSettings>
+<GlobalSettings>Загальні налаштування</GlobalSettings>
+
+</LanguageData>

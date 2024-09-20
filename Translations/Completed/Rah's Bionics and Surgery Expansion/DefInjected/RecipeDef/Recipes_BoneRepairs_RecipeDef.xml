@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<InstallSpinalFusion.label>спайкова фузія хребта</InstallSpinalFusion.label>
+<InstallSpinalFusion.description>З'єднання хребта в одне ціле.</InstallSpinalFusion.description>
+<InstallSpinalFusion.jobString>Здійснюється спайкова фузія хребта.</InstallSpinalFusion.jobString>
+<InstallHumerus.label>імплантація кістки плеча</InstallHumerus.label>
+<InstallHumerus.description>Імплантація кістки плеча.</InstallHumerus.description>
+<InstallHumerus.jobString>Імплантація кістки плеча.</InstallHumerus.jobString>
+<InstallRadius.label>імплантація лучної кістки</InstallRadius.label>
+<InstallRadius.description>Імплантація лучної кістки.</InstallRadius.description>
+<InstallRadius.jobString>Імплантація лучної кістки.</InstallRadius.jobString>
+<InstallTibia.label>імплантація гомілкової кістки</InstallTibia.label>
+<InstallTibia.description>Імплантація гомілкової кістки.</InstallTibia.description>
+<InstallTibia.jobString>Імплантація гомілкової кістки.</InstallTibia.jobString>
+<InstallFemur.label>імплантація стегнової кістки</InstallFemur.label>
+<InstallFemur.description>Імплантація стегнової кістки.</InstallFemur.description>
+<InstallFemur.jobString>Імплантація стегнової кістки.</InstallFemur.jobString>
+</LanguageData>

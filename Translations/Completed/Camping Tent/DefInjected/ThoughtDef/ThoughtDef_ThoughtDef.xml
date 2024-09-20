@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Canopybuff.stages.0.label>Відпочинок під тентом</Canopybuff.stages.0.label>
+<Canopybuff.stages.0.description>Принаймні, у мене є де спати</Canopybuff.stages.0.description>
+<Teepeebuff.stages.0.label>Відпочинок в вігвамі</Teepeebuff.stages.0.label>
+<Teepeebuff.stages.0.description>Сподіваюся, що в мене буде будинок, де жити.</Teepeebuff.stages.0.description>
+<Tentbuff.stages.0.label>Відпочинок в наметі</Tentbuff.stages.0.label>
+<Tentbuff.stages.0.description>Це приємно, але я сподіваюся мати будинок для життя.</Tentbuff.stages.0.description>
+<VikingTentbuff.stages.0.label>Відпочинок в наметі</VikingTentbuff.stages.0.label>
+<VikingTentbuff.stages.0.description>У наметі тепло, але я сподіваюся мати будинок для життя.</VikingTentbuff.stages.0.description>
+<ModernTentbuff.stages.0.label>Відпочинок в хорошому наметі</ModernTentbuff.stages.0.label>
+<ModernTentbuff.stages.0.description>Це приємно, але я сподіваюся мати будинок для життя.</ModernTentbuff.stages.0.description>
+
+</LanguageData>

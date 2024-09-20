@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ChronicKidneyDisease.label>хронічна ниркова хвороба</ChronicKidneyDisease.label>
+<ChronicKidneyDisease.description>Дегенеративна хвороба нирок. З часом може призвести до ниркової недостатності.</ChronicKidneyDisease.description>
+<ChronicKidneyDisease.stages.0.label>незначна</ChronicKidneyDisease.stages.0.label>
+<ChronicKidneyDisease.stages.1.label>незначна</ChronicKidneyDisease.stages.1.label>
+<ChronicKidneyDisease.stages.2.label>помірна</ChronicKidneyDisease.stages.2.label>
+<ChronicKidneyDisease.stages.3.label>важка</ChronicKidneyDisease.stages.3.label>
+<ChronicKidneyDisease.stages.4.label>екстремальна</ChronicKidneyDisease.stages.4.label>
+<CongenitalHeartDefect.label>вроджений дефект серця</CongenitalHeartDefect.label>
+<CongenitalHeartDefect.description>Генетичний дефект серця, який порушує нормальну функцію серця.</CongenitalHeartDefect.description>
+<CongenitalHeartDefect.stages.0.label>середньої тяжкості</CongenitalHeartDefect.stages.0.label>
+<CongenitalHeartDefect.stages.1.label>важкий</CongenitalHeartDefect.stages.1.label>
+<ChronicStomachDisorder.label>хронічний розлад шлунку</ChronicStomachDisorder.label>
+<ChronicStomachDisorder.description>Хронічний розлад шлунку, який викликає дискомфорт та проблеми з травленням.</ChronicStomachDisorder.description>
+</LanguageData>

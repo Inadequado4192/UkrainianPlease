@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-    <!-- EN: draining out of TargetA. -->
-    <PS_DrainFromMarkedStorage.reportString>витікає з TargetA.</PS_DrainFromMarkedStorage.reportString>
-
-    <!-- EN: filling TargetA. -->
-    <PS_FillStorage.reportString>заповнює TargetA.</PS_FillStorage.reportString>
-</LanguageData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RemoveDeathAcidifier.label>видалити кислоту смерті</RemoveDeathAcidifier.label>
+<RemoveDeathAcidifier.description>Видалення кислоти смерті.</RemoveDeathAcidifier.description>
+<RemoveDeathAcidifier.jobString>Видалення кислоти смерті.</RemoveDeathAcidifier.jobString>
+<InstallAdvancedPowerArm.label>встановити вдосконалену силову руку</InstallAdvancedPowerArm.label>
+<InstallAdvancedPowerArm.description>Встановлення вдосконаленої силової руки.</InstallAdvancedPowerArm.description>
+<InstallAdvancedPowerArm.jobString>Встановлення вдосконаленої силової руки.</InstallAdvancedPowerArm.jobString>
+<InstallAdvancedBionicArm.label>встановити вдосконалену біонічну руку</InstallAdvancedBionicArm.label>
+<InstallAdvancedBionicArm.description>Встановлення вдосконаленої біонічної руки.</InstallAdvancedBionicArm.description>
+<InstallAdvancedBionicArm.jobString>Встановлення вдосконаленої біонічної руки.</InstallAdvancedBionicArm.jobString>
+<InstallAdvancedBionicLeg.label>встановити вдосконалену біонічну ногу</InstallAdvancedBionicLeg.label>
+<InstallAdvancedBionicLeg.description>Встановлення вдосконаленої біонічної ноги.</InstallAdvancedBionicLeg.description>
+<InstallAdvancedBionicLeg.jobString>Встановлення вдосконаленої біонічної ноги.</InstallAdvancedBionicLeg.jobString>
+<InstallAdvancedBionicHand.label>встановити вдосконалену біонічну руку</InstallAdvancedBionicHand.label>
+<RemoveDeathAcidifier.label>видалити кислоту смерті</RemoveDeathAcidifier.label>
+<RemoveDeathAcidifier.description>Видалення кислоти смерті.</RemoveDeathAcidifier.description>
+<RemoveDeathAcidifier.jobString>Видалення кислоти смерті.</RemoveDeathAcidifier.jobString>
+<InstallAdvancedPowerArm.label>встановити вдосконалений силачний рукав</InstallAdvancedPowerArm.label>
+<InstallAdvancedPowerArm.description>Встановлює вдосконалений силачний рукав.</InstallAdvancedPowerArm.description>
+<InstallAdvancedPowerArm.jobString>Встановлення вдосконаленого силачного рукава.</InstallAdvancedPowerArm.jobString>
+<InstallAdvancedBionicArm.label>встановити вдосконалений біонічний рукав</InstallAdvancedBionicArm.label>
+<InstallAdvancedBionicArm.description>Встановлює вдосконалений біонічний рукав.</InstallAdvancedBionicArm.description>
+<InstallAdvancedBionicArm.jobString>Встановлення вдосконаленого біонічного рукава.</InstallAdvancedBionicArm.jobString>
+<InstallAdvancedBionicLeg.label>встановити вдосконалу біонічну ногу</InstallAdvancedBionicLeg.label>
+<InstallAdvancedBionicLeg.description>Встановлює вдосконалену біонічну ногу.</InstallAdvancedBionicLeg.description>
+<InstallAdvancedBionicLeg.jobString>Встановлення вдосконаленої біонічної ноги.</InstallAdvancedBionicLeg.jobString>
+<InstallAdvancedBionicHand.label>встановити вдосконалу біонічну руку</InstallAdvancedBionicHand.label>
+<InstallAdvancedBionicHand.description>Встановлює вдосконалену біонічну руку.</InstallAdvancedBionicHand.description>
+<InstallAdvancedBionicHand.jobString>Встановлення вдосконаленої біонічної руки.</InstallAdvancedBionicHand.jobString>
+<InstallAdvancedBionicFoot.label>встановити вдосконалу біонічну стопу</InstallAdvancedBionicFoot.label>
+<InstallAdvancedBionicFoot.description>Встановлює вдосконалену біонічну стопу.</InstallAdvancedBionicFoot.description>
+<InstallAdvancedBionicFoot.jobString>Встановлення вдосконаленої біонічної стопи.</InstallAdvancedBionicFoot.jobString>
+<InstallAdvancedBionicEye.label>встановити вдосконалене біонічне око</InstallAdvancedBionicEye.label>
+<InstallAdvancedBionicEye.description>Встановлює вдосконалене біонічне око.</InstallAdvancedBionicEye.description>
+<InstallAdvancedBionicEye.jobString>Встановлення вдосконаленого біонічного ока.</InstallAdvancedBionicEye.jobString>
+<InstallAdvancedBionicEar.label>встановити передовий біонічний імплантат вуха</InstallAdvancedBionicEar.label>
+<InstallAdvancedBionicEar.description>Встановлює передовий біонічний імплантат вуха.</InstallAdvancedBionicEar.description>
+<InstallAdvancedBionicEar.jobString>Встановлює передовий біонічний імплантат вуха.</InstallAdvancedBionicEar.jobString>
+<InstallAdvancedBionicSpine.label>встановити передову біонічну хребетну колонку</InstallAdvancedBionicSpine.label>
+<InstallAdvancedBionicSpine.description>Встановлює передову біонічну хребетну колонку.</InstallAdvancedBionicSpine.description>
+<InstallAdvancedBionicSpine.jobString>Встановлює передову біонічну хребетну колонку.</InstallAdvancedBionicSpine.jobString>
+<InstallExoskeletonSuit.label>встановити екзоскелетний костюм</InstallExoskeletonSuit.label>
+<InstallExoskeletonSuit.description>Встановлює екзоскелетний костюм.</InstallExoskeletonSuit.description>
+<InstallExoskeletonSuit.jobString>Встановлює екзоскелетний костюм.</InstallExoskeletonSuit.jobString>
+</LanguageData>

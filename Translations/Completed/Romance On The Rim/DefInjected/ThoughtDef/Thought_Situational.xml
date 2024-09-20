@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<RomanceOnTheRim_MissingLover.stages.0.label>Незначна самотність</RomanceOnTheRim_MissingLover.stages.0.label>
+<RomanceOnTheRim_MissingLover.stages.0.description>Я сумую за тобою, моя любов.</RomanceOnTheRim_MissingLover.stages.0.description>
+<RomanceOnTheRim_MissingLover.stages.1.label>Сильна самотність</RomanceOnTheRim_MissingLover.stages.1.label>
+<RomanceOnTheRim_MissingLover.stages.1.description>Я дуже сумую за тобою, моє серце тужить за твоєю любов'ю.</RomanceOnTheRim_MissingLover.stages.1.description>
+<RomanceOnTheRim_MissingLover.stages.2.label>Неописувана самотність</RomanceOnTheRim_MissingLover.stages.2.label>
+<RomanceOnTheRim_MissingLover.stages.2.description>Чому ти залишаєш мене в самотності...</RomanceOnTheRim_MissingLover.stages.2.description>
+
+<RomanceOnTheRim_WorryAboutLoversHealth.stages.0.label>Незначна турбота за коханим</RomanceOnTheRim_WorryAboutLoversHealth.stages.0.label>
+<RomanceOnTheRim_WorryAboutLoversHealth.stages.0.description>{PAWN_gender? Моя: Мій} {PAWN_gender? кохана: коханий} {PAWN_gender? хвора: хворий}.</RomanceOnTheRim_WorryAboutLoversHealth.stages.0.description>
+<RomanceOnTheRim_WorryAboutLoversHealth.stages.1.label>Серйозна турбота про коханим</RomanceOnTheRim_WorryAboutLoversHealth.stages.1.label>
+<RomanceOnTheRim_WorryAboutLoversHealth.stages.1.description>{PAWN_gender? Моя: Мій} {PAWN_gender? кохана: коханий} {PAWN_gender? хвора: хворий}. Сподіваюся, {PAWN_gender? вона: він} скоро одужае.</RomanceOnTheRim_WorryAboutLoversHealth.stages.1.description>
+
+<RomanceOnTheRim_Thought_RomanceNeedLevel.stages.0.label>Потреба у романтиці не задовольнена</RomanceOnTheRim_Thought_RomanceNeedLevel.stages.0.label>
+<RomanceOnTheRim_Thought_RomanceNeedLevel.stages.0.description>Дуже хочеться поспілкуватись зі {PAWN_gender? своєю: своїм} {PAWN_gender? коханою: коханим}.</RomanceOnTheRim_Thought_RomanceNeedLevel.stages.0.description>
+<RomanceOnTheRim_Thought_RomanceNeedLevel.stages.1.label>Потреба у романтиці задовольнена</RomanceOnTheRim_Thought_RomanceNeedLevel.stages.1.label>
+<RomanceOnTheRim_Thought_RomanceNeedLevel.stages.1.description>Кохання - моє щастя.</RomanceOnTheRim_Thought_RomanceNeedLevel.stages.1.description>
+
+
+
+</LanguageData>

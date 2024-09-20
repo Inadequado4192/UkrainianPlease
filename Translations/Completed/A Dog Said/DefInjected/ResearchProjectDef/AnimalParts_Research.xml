@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple Animal Prosthetics -->
+
+<SimpleAnimalProsthetics.label>Прості протези для тварин</SimpleAnimalProsthetics.label>
+<SimpleAnimalProsthetics.description>Ознайомтесь з використанням та створенням простих протезів для тварин</SimpleAnimalProsthetics.description>
+
+
+  <!-- Animal Bionics -->
+
+<AnimalBionics.label>Біоніка для тварин</AnimalBionics.label>
+<AnimalBionics.description>Ознайомтесь з використанням та створенням біоніки для тварин</AnimalBionics.description>
+
+
+  <!-- Animal Heal -->
+
+<AnimalHeal.label>Лікування тварин</AnimalHeal.label>
+<AnimalHeal.description>Лікування старих поранень тварин</AnimalHeal.description>
+
+
+</LanguageData>

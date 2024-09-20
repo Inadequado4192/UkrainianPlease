@@ -43,7 +43,7 @@ import { js2xml } from "xml-js";
                 // Finding Translation
                 let translationDataPath: null | string = null;
                 {
-                    const various = ["1.5", "1.4", "1.3", "1.2", "1.1", ""];
+                    const various = ["1.5", "1.4", "1.3", "1.2", "1.1", "", "Common"];
                     for (let i = 0; i < various.length && !translationDataPath; i++) {
                         let target = path.join(steamCMDGamePath, id, various[i]!, `Languages/Ukrainian`);
                         if (fs.existsSync(target)) translationDataPath = target;
@@ -56,23 +56,17 @@ import { js2xml } from "xml-js";
                 await fs.move(translationDataPath, storageTranslationsPath);
 
 
-                await fs.rm(modPath, { recursive: true, force: true });
-
-                // const translationDependency = (await SteamAPI.getRequiredItems(id))[0];
-
+                await fs.rmSync(modPath, { recursive: true, force: true });
 
                 const targetMod = XMLListToArray(translationAbout.modDependencies ?? [])[0];
 
-                await fs.writeFileSync(path.join(storageTranslationsPath, "About.xml"), js2xml(createXML("TranslationDetails", {
+                await fs.writeFile(path.join(storageTranslationsPath, "About.xml"), js2xml(createXML("TranslationDetails", {
                     _attributes: {
                         "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                        "xsi:noNamespaceSchemaLocation": "../../Scheme.xsd"
+                        "xsi:noNamespaceSchemaLocation": "https://raw.githubusercontent.com/Inadequado4192/UkrainianPlease/master/Translations/Scheme.xsd"
                     },
                     originalMod: {
                         // name: { _text: originalModName },
-                        // id: { _text: translationDependency ?? "" },
-                        // packageId: { _text: "" }
-                        name: { _text: targetMod?.displayName._text ?? "" },
                         id: { _text: targetMod?.steamWorkshopUrl?._text.match(/\d+$/g)?.[0] ?? "" },
                         packageId: { _text: targetMod?.packageId._text ?? "" }
                     },

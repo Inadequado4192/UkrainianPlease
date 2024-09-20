@@ -1,0 +1,14 @@
+<LanguageData>
+
+<Spaceports_RoofBlocking>Підставка заблокована через наявність даху.</Spaceports_RoofBlocking>
+<Spaceports_TotalFuelProduced>Загальний обсяг виробленого палива із ядерного синтезу: {0}</Spaceports_TotalFuelProduced>
+<Spaceports_ProductionCache>Збережений результат: {0}</Spaceports_ProductionCache>
+<Spaceports_FuelLevel>Рівень ядерного палива: {0}</Spaceports_FuelLevel>
+<Spaceports_TotalSales>Загальна кількість проданого палива: {0} срібла</Spaceports_TotalSales>
+<Spaceports_NetworkInfo>У мережі знаходиться {0} резервуарів, які містять разом {1} одиниць ядерного палива.</Spaceports_NetworkInfo>
+<Spaceports_DryModeWarning>Попередження: без розташування на воді процес виробництва палива працюватиме на 33% ефективності.</Spaceports_DryModeWarning>
+<Spaceports_DryModeWarningDBH>Попередження: процес виробництва палива вимагає наявності системи водопостачання для повної ефективності роботи.</Spaceports_DryModeWarningDBH>
+<Spaceports_FFTerrain>Процес виробництва ядерного палива має бути розміщений у місці, що має доступ до мілкої води, річки або на міцному грунті, що підтримує Heavy.</Spaceports_FFTerrain>
+<Spaceports_ModeWet>Режим роботи: мокрий (100% максимальної ефективності)</Spaceports_ModeWet>
+<Spaceports_ModeDry>Режим роботи: сухий (33% максимальної ефективності)</Spaceports_ModeDry>
+</LanguageData>

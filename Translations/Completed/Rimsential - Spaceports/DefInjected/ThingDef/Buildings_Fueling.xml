@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Spaceports_FuelProcessor.label>процесор злиття палива</Spaceports_FuelProcessor.label>
+<Spaceports_FuelProcessor.description>Космічний технологічний процесор палива. Для роботи потрібно розмістити в мілкій воді; після активації легкозаймисті речовини з постачаного хімічного палива поєднуються з підсмоктаною водою в його великому реакційному баку і енергізуються, спричиняючи складну ланцюгову хімічну реакцію, яка врешті-решт призводить до отримання рідинного злиттєвого палива.</Spaceports_FuelProcessor.description>
+<Spaceports_FuelTank.label>бак для зберігання злиттєвого палива</Spaceports_FuelTank.label>
+<Spaceports_FuelTank.description>Космічний технологічний бак, розроблений для зберігання рідкого злиттєвого палива. Його інтегровані системи охолодження повинні працювати постійно, інакше паливо всередині почне випаровуватись.</Spaceports_FuelTank.description>
+<Spaceports_FuelDispenser.label>термінал для злиттєвого палива</Spaceports_FuelDispenser.label>
+<Spaceports_FuelDispenser.description>Термінал для покупки злиттєвого палива для невеликих шатлів. Для роботи потрібно розмістити поруч з посадковою майданчиком; після перевірки оплати насоси всередині майданчика будуть забирати паливо з баків на тій самій електромережі.</Spaceports_FuelDispenser.description>
+</LanguageData>

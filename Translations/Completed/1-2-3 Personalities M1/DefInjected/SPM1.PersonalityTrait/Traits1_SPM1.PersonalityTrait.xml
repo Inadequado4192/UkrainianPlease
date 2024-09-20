@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Traits/Traits1.xml-->
+<SP_Rational.label>раціональний</SP_Rational.label>
+<!-- ідеалістичний -->
+<SP_Idealistic.label>ідеалістичний</SP_Idealistic.label>
+<!-- принциповий -->
+<SP_Principled.label>принциповий</SP_Principled.label>
+<!-- цілеспрямований -->
+<SP_Purposeful.label>цілеспрямований</SP_Purposeful.label>
+<!-- самоконтрольований -->
+<SP_Self-Controlled.label>самоконтрольований</SP_Self-Controlled.label>
+<!-- спокійний -->
+<SP_Calm.label>спокійний</SP_Calm.label>
+<!-- критичний -->
+<SP_Judgmental.label>критичний</SP_Judgmental.label>
+<!-- одержимий -->
+<SP_Obsessive.label>одержимий</SP_Obsessive.label>
+</LanguageData>

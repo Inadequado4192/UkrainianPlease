@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/InteractionDefs/Interactions_Social.xml-->
+<!-- поділитися бременем -->
+<VSIE_SharingBurden_Harmonious.stages.0.label>поділитися тягарем</VSIE_SharingBurden_Harmonious.stages.0.label>
+
+<!-- Було добре, нарешті розповісти свої почуття другові. -->
+<VSIE_SharingBurden_Harmonious.stages.0.description>Було добре, нарешті розповісти про свої почуття другові.</VSIE_SharingBurden_Harmonious.stages.0.description>
+
+<!-- друг поділився своїми почуттями зі мною -->
+<VSIE_VentedOnMe_Harmonious.stages.0.label>друг поділився своїми почуттями зі мною</VSIE_VentedOnMe_Harmonious.stages.0.label>
+
+<!-- Мій друг розповів мені про свої почуття. -->
+<VSIE_VentedOnMe_Harmonious.stages.0.description>Мій друг розповів мені про свої почуття.</VSIE_VentedOnMe_Harmonious.stages.0.description>
+
+</LanguageData>

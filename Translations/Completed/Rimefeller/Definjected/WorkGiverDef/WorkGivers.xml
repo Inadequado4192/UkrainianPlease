@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<EmptyAutoclave.label>Розвантажити</EmptyAutoclave.label>
+<EmptyAutoclave.verb>Розвантажити</EmptyAutoclave.verb>
+<EmptyAutoclave.gerund>Розвантаження</EmptyAutoclave.gerund>
+
+<FillAutoclave.label>Заповнити</FillAutoclave.label>
+<FillAutoclave.verb>Заповнити</FillAutoclave.verb>
+<FillAutoclave.gerund>Заповнення</FillAutoclave.gerund>
+
+<CleanOil.label>Очистити</CleanOil.label>
+<CleanOil.verb>Очистити</CleanOil.verb>
+<CleanOil.gerund>Очищення</CleanOil.gerund>
+
+<SuperviseDrilling.label>Контролювати процес буріння</SuperviseDrilling.label>
+<SuperviseDrilling.verb>Контролювати процес буріння</SuperviseDrilling.verb>
+<SuperviseDrilling.gerund>Контроль процесу буріння</SuperviseDrilling.gerund>
+
+<OperateResourceConsole.label>Управляти станцією</OperateResourceConsole.label>
+<OperateResourceConsole.verb>Управляти станцією</OperateResourceConsole.verb>
+<OperateResourceConsole.gerund>Управління станцією</OperateResourceConsole.gerund>
+
+</LanguageData>

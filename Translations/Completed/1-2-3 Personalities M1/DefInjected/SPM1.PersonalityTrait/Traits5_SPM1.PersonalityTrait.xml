@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Traits/Traits5.xml-->
+<!-- intense -->
+<SP_Intense.label>інтенсивний</SP_Intense.label>
+<!-- сприйнятливий -->
+<SP_Perceptive.label>сприйнятливий</SP_Perceptive.label>
+<!-- інноваційний -->
+<SP_Innovative.label>інноваційний</SP_Innovative.label>
+<!-- secretive -->
+<SP_Secretive.label>таємничий</SP_Secretive.label>
+<!-- isolated -->
+<SP_Isolated.label>ізольований</SP_Isolated.label>
+<!-- uptight -->
+<SP_Uptight.label>напружений</SP_Uptight.label>
+<!-- nostalgic -->
+<SP_Nostalgic.label>ностальгійний</SP_Nostalgic.label>
+<!-- independent -->
+<SP_Independent.label>незалежний</SP_Independent.label>
+</LanguageData>

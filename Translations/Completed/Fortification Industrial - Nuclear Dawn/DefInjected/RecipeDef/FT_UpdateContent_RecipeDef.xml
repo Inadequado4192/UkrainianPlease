@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_UpdateContent.xml-->
+<!-- Збірка ядерної гармати -->
+<FTND_Make_NukeLauncher.label>Збірка ядерної гармати</FTND_Make_NukeLauncher.label>
+
+<!-- Зібрати одноразову безвідкатну ядерну гармату. -->
+<FTND_Make_NukeLauncher.description>Зібрати одноразову безвідкатну ядерну гармату.</FTND_Make_NukeLauncher.description>
+
+<!-- Збирання боєголовки. -->
+<FTND_Make_NukeLauncher.jobString>Збирання боєголовки.</FTND_Make_NukeLauncher.jobString>
+
+<!-- Розбирання ядерної гармати -->
+<FTND_Dismantle_NukeLauncher.label>Розбирання ядерної гармати</FTND_Dismantle_NukeLauncher.label>
+
+<!-- Розібрати одноразову безвідкатну ядерну гармату. -->
+<FTND_Dismantle_NukeLauncher.description>Розібрати одноразову безвідкатну ядерну гармату.</FTND_Dismantle_NukeLauncher.description>
+
+<!-- Розбирання боєголовки. -->
+<FTND_Dismantle_NukeLauncher.jobString>Розбирання боєголовки.</FTND_Dismantle_NukeLauncher.jobString>
+
+</LanguageData>

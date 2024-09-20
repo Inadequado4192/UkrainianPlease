@@ -10,7 +10,11 @@ require("dotenv").config();
 
 export namespace Pathes {
     export const pathToMod = path.join(__dirname, "../Mod") as `${string}/Mod`;
+    export const pathToMod_Layout = path.join(__dirname, "../Mod_Layout") as `${string}/Mod_Layout`;
+
     export const pathToAbout = path.join(pathToMod, "About/About.xml");
+    export const pathToAbout_Layout = path.join(pathToMod_Layout, "About.xml");
+
     export const outputTranslationsDir = path.join(pathToMod, "Translations");
     export const outputdir = path.join(pathToMod, "Languages/Ukrainian") as `${typeof pathToMod}/Languages/Ukrainian`;
     // export const outputDefInjecteddir = path.join(outputdir, "DefInjected");
@@ -240,4 +244,38 @@ export const invalidCharsRegex = /[<>:"/\\|?*]/g;
 
 export function translationsAlreadyStored(id_name: string) {
     return fs.exists(path.join(Pathes.outputdir, id_name));
+}
+
+
+export function getLongest<O extends any[]>(o: O, path: (o: O[number]) => string | number): number {
+    return o.reduce((p, c) => {
+        let val = path(c);
+        val = typeof val == "string" ? val.length : val;
+        return val > p ? val : p;
+    }, 0);
+};
+
+
+
+
+
+
+
+export class Logging {
+    in_line: string[] = [];
+
+    write(text: string) {
+        this.in_line.push(text);
+        this.#display();
+    }
+
+    back() {
+        this.in_line.pop();
+        this.#display();
+    }
+    #display() {
+        process.stdout.clearLine(0);
+        process.stdout.cursorTo(0);
+        process.stdout.write(this.in_line.join(""));
+    }
 }

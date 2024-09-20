@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<LanguageData>
+  <RomanceOnTheRim_Cheat_Forbidden.label>Заборонено</RomanceOnTheRim_Cheat_Forbidden.label>
+  <RomanceOnTheRim_Cheat_Forbidden.description>Люди ніколи не повинні обманювати одне одного.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Шанс обману: 0%</RomanceOnTheRim_Cheat_Forbidden.description>
+  <RomanceOnTheRim_Cheat_Discouraged.label>Не рекомендується</RomanceOnTheRim_Cheat_Discouraged.label>
+  <RomanceOnTheRim_Cheat_Discouraged.description>У більшості випадків ми маємо дотримуватися своїх обіцянок.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Шанс обману -50%</RomanceOnTheRim_Cheat_Discouraged.description>
+  <RomanceOnTheRim_Cheat_Encouraged.label>Дозволено</RomanceOnTheRim_Cheat_Encouraged.label>
+  <RomanceOnTheRim_Cheat_Encouraged.description>Любов - це хаос і безумство. Все змінюється, і я шкодую про це.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Шанс обману +50%</RomanceOnTheRim_Cheat_Encouraged.description>
+</LanguageData>

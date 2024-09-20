@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MFI_DiplomaticMarriage.label>дипломатичне шлюб</MFI_DiplomaticMarriage.label>
+<MFI_DiplomaticMarriage.letterLabel>Дипломатичне шлюб</MFI_DiplomaticMarriage.letterLabel>
+<MFI_MysticalShaman.label>містичний шаман</MFI_MysticalShaman.label>
+<MFI_MysticalShaman.letterLabel>Містичний шаман</MFI_MysticalShaman.letterLabel>
+<MFI_HuntersLodge.label>літній відпочинок у лісі</MFI_HuntersLodge.label>
+<MFI_HuntersLodge.letterText>Вас запрошують на літній відпочинок {1} у лісовій садибі {0}. {2}. На місці є все необхідне для готування їжі, а їхнє гостинність не має меж. Ця пропозиція дійсна протягом {3} днів.</MFI_HuntersLodge.letterText>
+<MFI_HuntersLodge.letterLabel>Літня оселя мисливця</MFI_HuntersLodge.letterLabel>
+<MFI_SettlementBaseAttack.label>Атака на базу фракції</MFI_SettlementBaseAttack.label>
+</LanguageData>

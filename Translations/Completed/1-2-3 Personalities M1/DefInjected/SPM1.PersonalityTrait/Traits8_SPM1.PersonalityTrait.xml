@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Traits/Traits8.xml-->
+<SP_Dominating.label>домінуючий</SP_Dominating.label>
+<!-- самовпевнений -->
+<SP_Self-confident.label>самовпевнений</SP_Self-confident.label>
+<!-- рішучий -->
+<SP_Decisive.label>рішучий</SP_Decisive.label>
+<!-- вольовий -->
+<SP_Willful.label>вольовий</SP_Willful.label>
+<!-- конфронтуючий -->
+<SP_Confrontational.label>конфронтуючий</SP_Confrontational.label>
+<!-- наполегливий -->
+<SP_Persistent.label>наполегливий</SP_Persistent.label>
+<!-- конкурентоспрямований -->
+<SP_Competitive.label>конкурентоспрямований</SP_Competitive.label>
+<!-- напористий -->
+<SP_Assertive.label>напористий</SP_Assertive.label>
+</LanguageData>

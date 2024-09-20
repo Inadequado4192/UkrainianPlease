@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Variants/Variants7.xml-->
+<!-- Ентузіаст -->
+<SP_Enthusiast.label>Ентузіаст</SP_Enthusiast.label>
+<!-- Pathfinder -->
+<SP_Pathfinder.label>Дослідник</SP_Pathfinder.label>
+<!-- Opportunist -->
+<SP_Opportunist.label>Опортуніст</SP_Opportunist.label>
+<!-- Шукач пригод -->
+<SP_Adventurer.label>Авантюрист</SP_Adventurer.label>
+</LanguageData>

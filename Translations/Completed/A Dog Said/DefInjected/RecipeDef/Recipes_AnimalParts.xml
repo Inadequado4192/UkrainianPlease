@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Limbs -->
+
+  <MakeProstheticTailAnimal.label>Зробити просту протезу хвоста тварини</MakeProstheticTailAnimal.label>
+<MakeProstheticTailAnimal.description>Зробіть просту протезу хвоста тварини.</MakeProstheticTailAnimal.description>
+<MakeProstheticTailAnimal.jobString>Робить просту протезу хвоста тварини.</MakeProstheticTailAnimal.jobString>
+
+<MakeSimpleProstheticLegAnimal.label>Зробити простий протез ноги тварини</MakeSimpleProstheticLegAnimal.label>
+<MakeSimpleProstheticLegAnimal.description>Зробіть простий протез ноги тварини.</MakeSimpleProstheticLegAnimal.description>
+<MakeSimpleProstheticLegAnimal.jobString>Робить простий протез ноги тварини.</MakeSimpleProstheticLegAnimal.jobString>
+
+<MakeBionicLegAnimal.label>Зробити біонічну ногу тварини</MakeBionicLegAnimal.label>
+<MakeBionicLegAnimal.description>Зробіть біонічну ногу тварини.</MakeBionicLegAnimal.description>
+<MakeBionicLegAnimal.jobString>Робить біонічну ногу тварини.</MakeBionicLegAnimal.jobString>
+
+<MakeSimpleProstheticArmAnimal.label>Зробити простий протез руки тварини</MakeSimpleProstheticArmAnimal.label>
+<MakeSimpleProstheticArmAnimal.description>Зробіть простий протез руки тварини.</MakeSimpleProstheticArmAnimal.description>
+
+<MakeBionicArmAnimal.label>Зробити біонічну руку тварини</MakeBionicArmAnimal.label>
+<MakeBionicArmAnimal.description>Зробіть біонічну руку тварини.</MakeBionicArmAnimal.description>
+<MakeBionicArmAnimal.jobString>Робить біонічну руку тварини.</MakeBionicArmAnimal.jobString>
+
+
+  <!-- Other Parts -->
+
+  <MakeNoseAnimalSimple.label>Зробити простий ніс тварини</MakeNoseAnimalSimple.label>
+<MakeNoseAnimalSimple.description>Зробіть простий ніс тварини.</MakeNoseAnimalSimple.description>
+<MakeNoseAnimalSimple.jobString>Робить простий ніс тварини.</MakeNoseAnimalSimple.jobString>
+
+<MakeBionicEyeAnimal.label>Зробити біонічне око тварини</MakeBionicEyeAnimal.label>
+<MakeBionicEyeAnimal.description>Зробіть біонічне око тварини.</MakeBionicEyeAnimal.description>
+<MakeBionicEyeAnimal.jobString>Робить біонічне око тварини.</MakeBionicEyeAnimal.jobString>
+
+<MakeEarAnimalSimple.label>Зробити просте вухо тварини</MakeEarAnimalSimple.label>
+<MakeEarAnimalSimple.description>Зробіть просте вухо тварини.</MakeEarAnimalSimple.description>
+<MakeEarAnimalSimple.jobString>Робить просте вухо тварини.</MakeEarAnimalSimple.jobString>
+
+<MakeEarAnimalBionic.label>Зробити біонічне вухо тварини</MakeEarAnimalBionic.label>
+<MakeEarAnimalBionic.description>Зробіть біонічне вухо тварини.</MakeEarAnimalBionic.description>
+<MakeEarAnimalBionic.jobString>Робить біонічне вухо тварини.</MakeEarAnimalBionic.jobString>
+
+<MakeJawAnimalSimple.label>Зробити просту щелепу тварини</MakeJawAnimalSimple.label>
+<MakeJawAnimalSimple.description>Зробіть просту щелепу тварини.</MakeJawAnimalSimple.description>
+<MakeJawAnimalSimple.jobString>Робить просту щелепу тварини.</MakeJawAnimalSimple.jobString>
+
+<MakeJawAnimalBionic.label>Зробити біонічну щелепу тварини</MakeJawAnimalBionic.label>
+<MakeJawAnimalBionic.description>Зробіть біонічну щелепу тварини.</MakeJawAnimalBionic.description>
+<MakeJawAnimalBionic.jobString>Робить біонічну щелепу тварини.</MakeJawAnimalBionic.jobString>
+
+  <MakeSpineAnimalSimple.label>Зробити простий хребет тварини</MakeSpineAnimalSimple.label>
+<MakeSpineAnimalSimple.description>Зробіть простий хребет тварини.</MakeSpineAnimalSimple.description>
+<MakeSpineAnimalSimple.jobString>Робить простий хребет тварини.</MakeSpineAnimalSimple.jobString>
+
+<MakeSpineAnimalBionic.label>Зробити біонічний хребет тварини</MakeSpineAnimalBionic.label>
+<MakeSpineAnimalBionic.description>Зробіть біонічний хребет тварини.</MakeSpineAnimalBionic.description>
+<MakeSpineAnimalBionic.jobString>Робить біонічний хребет тварини.</MakeSpineAnimalBionic.jobString>
+
+
+  <!-- Organs -->
+
+  <MakeAnimalBrainStimulator.label>Створити стимулятор мозку тварини</MakeAnimalBrainStimulator.label>
+<MakeAnimalBrainStimulator.description>Створіть стимулятор мозку тварини.</MakeAnimalBrainStimulator.description>
+<MakeAnimalBrainStimulator.jobString>Робить стимулятор мозку тварини.</MakeAnimalBrainStimulator.jobString>
+
+<MakeBionicAnimalHeart.label>Створити біонічне серце тварини</MakeBionicAnimalHeart.label>
+<MakeBionicAnimalHeart.description>Створіть біонічне серце тварини.</MakeBionicAnimalHeart.description>
+<MakeBionicAnimalHeart.jobString>Робить біонічне серце тварини.</MakeBionicAnimalHeart.jobString>
+
+<MakeBionicAnimalLung.label>Створити біонічне легеня тварини</MakeBionicAnimalLung.label>
+<MakeBionicAnimalLung.description>Створіть біонічне легеня тварини.</MakeBionicAnimalLung.description>
+<MakeBionicAnimalLung.jobString>Робить біонічне легеня тварини.</MakeBionicAnimalLung.jobString>
+
+<MakeBionicAnimalLiver.label>Створити біонічну печінку тварини</MakeBionicAnimalLiver.label>
+<MakeBionicAnimalLiver.description>Створіть біонічну печінку тварини.</MakeBionicAnimalLiver.description>
+<MakeBionicAnimalLiver.jobString>Робить біонічну печінку тварини.</MakeBionicAnimalLiver.jobString>
+
+  <MakeBionicAnimalKidney.label>Створити біонічну нирку тварини</MakeBionicAnimalKidney.label>
+<MakeBionicAnimalKidney.description>Створіть біонічну нирку тварини.</MakeBionicAnimalKidney.description>
+<MakeBionicAnimalKidney.jobString>Виготовляє біонічну нирку тварини.</MakeBionicAnimalKidney.jobString>
+
+<MakeBionicAnimalStomach.label>Створити біонічний шлунок тварини</MakeBionicAnimalStomach.label>
+<MakeBionicAnimalStomach.description>Створіть біонічний шлунок тварини.</MakeBionicAnimalStomach.description>
+<MakeBionicAnimalStomach.jobString>Виготовляє біонічний шлунок тварини.</MakeBionicAnimalStomach.jobString>
+
+
+</LanguageData>

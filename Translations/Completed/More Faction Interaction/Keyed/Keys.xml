@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!--settings -->
+<MFI_ticksToUpgrade>Час до того, як пірати оновлять свої бази</MFI_ticksToUpgrade>
+<MFI_pirateBaseUpgraderModifier>Модифікатор, як часто поширюються пірати</MFI_pirateBaseUpgraderModifier>
+<MFI_timeModifierBetweenFactionInteraction>Модифікатор часу між взаємодією фракцій</MFI_timeModifierBetweenFactionInteraction>
+<MFI_traderWealthOffsetFromTimesTraded>Модифікатор на срібло, що надходить від кількості торгівельних операцій</MFI_traderWealthOffsetFromTimesTraded>
+<MFI_LetterLabelBanditOutpostUpgraded>Оновлення опорного пункту бандитів</MFI_LetterLabelBanditOutpostUpgraded>
+<MFI_LetterBanditOutpostUpgraded>Пірати з {0} покращили свою неподалік розташовану базу!\n\nЧас від часу вони будуть надсилати напади для перевірки вашої оборони та встановлення нових баз.</MFI_LetterBanditOutpostUpgraded>
+<MFI_DesperateTrader>Зневірений торговець</MFI_DesperateTrader>
+<MFI_TraderSent>{0}, дякую. Їх торгівельна каравана прибуде приблизно за {1}.</MFI_TraderSent>
+<MFI_Trader>Торговець</MFI_Trader>
+<MFI_CaravanWorking>Караван не може рухатись під час жнив.</MFI_CaravanWorking>
+<MFI_FactionWarPeaceTalksIntroduction>Двоє протилежних лідерів фракцій {0} та {1} знайшли притулок в протилежних кутах табору. Напруга висока, коли до переговорів залучається {2}. Протягом останніх кількох днів всі залучені сторони були занадто зайняті, і переговорник знає, що його слова можуть мати серйозні наслідки.\n\n {2} має наступні опції:</MFI_FactionWarPeaceTalksIntroduction>
+<MFI_FactionWarPeaceTalksCurryFavour>Послуга від {0}</MFI_FactionWarPeaceTalksCurryFavour>
+<MFI_FactionWarPeaceTalksSabotage>Саботувати мирні переговори на користь колонії</MFI_FactionWarPeaceTalksSabotage>
+<MFI_FactionWarPeaceTalksBrokerPeace>Посередник між двома фракціями</MFI_FactionWarPeaceTalksBrokerPeace>
+  <!-- Faction war, favour one faction over the other -->
+<MFI_FactionWarFavourFactionDisaster>Розмови були катастрофою. Жодна з фракцій не оцінила вашої спроби узгодження, проведеної через переговорника {0}. Спроби знайти переможця в конфлікті вважалися актом агресії, а мирні розмови зірвалися.\n\nВідносини з {0} трохи погіршилися.\n\nВідносини з {1} значно погіршилися.</MFI_FactionWarFavourFactionDisaster>
+<MFI_FactionWarFavourFactionBackFire>Розмови завершилися невдачею. Під час обговорення ключових питань делегати фракцій вважали невиправданим відмову від ваших переговорників та зірвали мирні розмови.\n\nВідносини з {0} трохи погіршилися.\n\nВідносини з {1} значно погіршилися.</MFI_FactionWarFavourFactionBackFire>
+<MFI_FactionWarFavourFactionFlounder>Розмови якось пройшли. Делегати фракцій чітко висловили свої ключові питання, але переговорник не зміг внести значний внесок у мирні розмови.\n\nВідносини з {0} трохи покращилися.\n\nВідносини з {1} значно погіршилися.</MFI_FactionWarFavourFactionFlounder>
+<MFI_FactionWarFavourFactionSuccess>Переговори завершилися успіхом. Ваш переговірник зміг переконати {1} в тому, що {0} має рацію, і їх делегати змогли укласти основну угоду.\n\nЗв'язки з {0} значно покращилися.\n\nВідносини з {1} трохи погіршилися.</MFI_FactionWarFavourFactionSuccess>
+<MFI_FactionWarFavourFactionTriumph>Переговори були великим триумфом! Ваш переговірник грав велику роль у переконанні {1} виплатити компенсацію за раніше скоєну агресію, на радість {0}.\n\nЗв'язки з {0} величезно покращилися.\n\nВідносини з {1} погіршилися.</MFI_FactionWarFavourFactionTriumph>
+  <!-- Faction war, sabotage to benefit colony -->
+<MFI_FactionWarSabotageDisaster>Саботаж був великою поразкою. Делегати швидко виявили намір переговорника і обидві фракції обернулись проти вас! Ваша каравана поспішно відступила, але воїни з обох фракцій догнали її та напали!\n\nВідносини з {0} погіршилися. Вони тепер вороже настроєні до вас.\n\nВідносини з {1} були розірвані. Вони тепер вороже настроєні до вас.</MFI_FactionWarSabotageDisaster>
+<MFI_FactionWarSabotageBackFire>Саботаж не вдався. Невдовзі після того, як делегати обмінялися ввічливостями, вони помітили несприятливу природу переговорника і виключили його з розмов.\n\nВідносини з {0} значно погіршилися.\n\nВідносини з {1} значно погіршилися.</MFI_FactionWarSabotageBackFire>
+<MFI_FactionWarSabotageFlounder>Саботаж не спрацював. Ваш переговорник виявився неспроможним отримати слово або внести значний внесок у мирні розмови будь-яким способом.\n\nВідносини з {0} та {1} залишаються незмінними.</MFI_FactionWarSabotageFlounder>
+ <MFI_FactionWarSabotageSuccess>Саботаж був сумнівним успіхом. Під час того, як делегати сперечалися щодо важливих питань, ваш обговорювач переміщувався по політичному полю мін і залишав добрий враження на обох фракціях, не забезпечуючи при цьому фактичного прогресу.\n\nЗв'язки з {0} значно збільшилися.\n\nЗв'язки з {1} значно збільшилися.</MFI_FactionWarSabotageSuccess>
+<MFI_FactionWarSabotageTriumph>Саботаж був великим триумфом! Делегати вправно грали один проти одного, і вскорі після вступних привітань дискусія розпалася у образи та обвинувачення, під час якої обидва агресори залишилися з дуже позитивним враженням від вашої фракції.\n\nЗв'язки з {0} дуже зросли.\n\nЗв'язки з {1} значно збільшилися.</MFI_FactionWarSabotageTriumph>
+  <!-- Faction war, broker peace -->
+<MFI_FactionWarBrokerPeaceDisaster>Переговори були катастрофою. Делегати майже не успіли відвернути свої перші привітання, як дискусія розпалася в образи та обвинувачення. Нічого, що сказав твій посередник, не отримало жодної згоди, а відносини з протилежними фракціями ще гірші, ніж раніше.\n\nВідносини з {0} погіршилися.\n\nВідносини з {1} погіршилися.</MFI_FactionWarBrokerPeaceDisaster>
+<MFI_FactionWarBrokerPeaceBackFire>Переговори закінчилися невдачею. Незважаючи на ввічливості, делегати не зробили жодних кроків у розгляді суттєвих питань, а багато висловлювань були сприйняті як образи. Вони вирішили відновити та змінити дату майбутніх мирних переговорів.\n\nВідносини з {0} залишаються незмінними.\n\nВідносини з {1} залишаються незмінними.</MFI_FactionWarBrokerPeaceBackFire>
+<MFI_FactionWarBrokerPeaceFlounder>Переговори трішки просунулися. Делегати змогли досягти ясності та базового поваги, але не змогли зробити жодних кроків у питаннях, доки не з'явився твій посередник. Він відіграв важливу роль у зменшенні тривог та згладжуванні суперечок.\n\nВідносини з {0} трішки поліпшилися.\n\nВідносини з {1} трішки поліпшилися.</MFI_FactionWarBrokerPeaceFlounder>
+<MFI_FactionWarBrokerPeaceSuccess>Розмови завершилися успіхом. Значна частина досягнення належить вашому переговорнику, який зміг зблизити делегатів та прокласти шлях до нового взаєморозуміння щодо кількох важливих питань.</MFI_FactionWarBrokerPeaceSuccess>
+<MFI_FactionWarBrokerPeaceTriumph>Розмови були великим торжеством! Ваш переговорник швидко зблизив делегатів та відкрив їм можливість побачити погляди іншої сторони на найскладніші питання дня.</MFI_FactionWarBrokerPeaceTriumph>
+<MFI_FactionWarProgress>Прогрес війни фракцій</MFI_FactionWarProgress>
+<MFI_UnrestIsBrewing>Нестабільність відроджується в фракції</MFI_UnrestIsBrewing>
+<MFI_FactionWarBaseBattleTookPlaceLabel>Базу фракції атакували</MFI_FactionWarBaseBattleTookPlaceLabel>
+<MFI_FactionWarBaseAttacked>Базу {0} атакували {1}!</MFI_FactionWarBaseAttacked>
+<MFI_FactionWarBaseDefeated>Вони не змогли захиститися від нападу і отримали важкий удар.</MFI_FactionWarBaseDefeated>
+<MFI_FactionWarBaseTakenOver>Після вигнання {0} фракція {1} захопила базу і заявила права власності на навколишній район.</MFI_FactionWarBaseTakenOver>
+<MFI_FactionWarBaseDestroyed>Нападники з {1} викрадали базу, а потім її спалили. Це важкий удар для {0}.</MFI_FactionWarBaseDestroyed>
+<MFI_FactionWarBaseSuccessfullyDefended>Захисники успішно відбили напад і швидко його відкинули. {0} вважає це перемогою в великій фракційній війні.</MFI_FactionWarBaseSuccessfullyDefended>
+<MFI_FactionWarStarted>Почалася фракційна війна</MFI_FactionWarStarted>
+<MFI_FactionWarExplanation>Виникла війна між {0} і {1}. Час від часу вони будуть нападати один на одного. Якщо ви схильні до однієї фракції більше, ніж до іншої, вони можуть попросити вас про допомогу.\n\nВи можете слідкувати за фракційною війною на вкладці Фракції.</MFI_FactionWarExplanation>
+<MFI_FactionWarOverLabel>Фракційна війна завершена</MFI_FactionWarOverLabel>
+<MFI_FactionWarOver>Після багатьох битв і великих втрат війна між {0} і {1} закінчилася.</MFI_FactionWarOver>
+<MFI_FactionWarLeaderDecidedLabel>Результати мирних переговорів</MFI_FactionWarLeaderDecidedLabel>
+<MFI_FactionWarLeaderDecidedOnWar>Результати мирних переговорів. Мирні переговори завершилися поразкою і війна вибухнула між {0} та {1}. Час від часу вони будуть нападати один на одного. Якщо ви підтримуєте одну фракцію більше, ніж іншу, вони можуть звернутися до вас за допомогою.\n\nВи можете відстежувати війну фракцій на вкладці Фракції.</MFI_FactionWarLeaderDecidedOnWar>
+<MFI_FactionWarLeaderDecidedAgainstWar>Мирні переговори закінчилися. Напруженість була знята, а фракції {0} та {1} досягли попередньої угоди.</MFI_FactionWarLeaderDecidedAgainstWar>
+
+  <!-- equivalent to NeedSilverLaunchable, just with steel. -->
+<MFI_SellingWarBondsNeedSteelLaunchable>необхідно {0} металу біля торгових передавачів</MFI_SellingWarBondsNeedSteelLaunchable>
+
+  <!--The following translations were generated by https://www.deepl.com/-->
+<MFI_CurrentModVersion>Встановлена версія моду: {0}</MFI_CurrentModVersion>
+<MFI_enableannualexpo>Увімкнути щорічну виставку</MFI_enableannualexpo>
+<MFI_enableannualexpotooltip>Оскільки ця подія, схоже, викликає проблеми для деяких користувачів, її можна вимкнути тут.</MFI_enableannualexpotooltip>
+<MFI_ticksToUpgradeDesc>Великі значення означають, що піратам потрібно більше часу, щоб перетворити базу на більш розвинену.</MFI_ticksToUpgradeDesc>
+<MFI_pirateBaseUpgraderModifierDesc>Вищі значення означають більшу ймовірність поширення піратів. Низькі значення = ліниві пірати.</MFI_pirateBaseUpgraderModifierDesc>
+<MFI_timeModifierBetweenFactionInteractionDesc>Вищі значення означають більше часу між взаємодіями з дружніми фракціями. Ця шкала залежить від Goodwill (більше Goodwill = більше візитів) та кількості дружніх фракцій (багато друзів = менше візитів до кожного з них, загалом близько того ж самого. Для тих, хто має встановлені десятки фракційних модів).</MFI_timeModifierBetweenFactionInteractionDesc>
+<MFI_AnnualExpoLetterLabel>{0} щорічна виставка</MFI_AnnualExpoLetterLabel>
+<MFI_AnnualExpoLetterText>Настала пора щорічної виставки {0}, і вашій фракції було надіслано запрошення. Господарем цього року є {2}, а темою - {3}. Щорічна виставка є дуже поважним мирним зібранням. Історично це було використано майже всіма фракціями як можливість обміну культурою, досвідом і показів.</MFI_AnnualExpoLetterText>
+<MFI_AnnualExpoDialogueIntroduction>Ваш караван прибув на щорічну виставку. Оскільки цьогорічною темою є {0}, тут багато експертів з цієї теми. Більшість з них готується, тоді як деякі вже почали демонструвати свої навички. Виставка складається з різноманітних стендів, деякі з них скромні і виготовлені з місцевих матеріалів, тоді як інші є передовими технологічними пристроями зі світів Urb. Вони створюють коло навколо головної сцени, яка буде використовуватись для чогось більш корисного.</MFI_AnnualExpoDialogueIntroduction>
+<MFI_AnnualExpoFirstOption>Почнемо!</MFI_AnnualExpoFirstOption>
+<MFI_buffPemmican>Новий спосіб консервації Pemmican, завдяки якому вона не гниє.</MFI_buffPemmican>
+<MFI_buffEmanator>Ви навчилися підвищувати продуктивність, настроюючи напругу мілівольт, що протікає через намотування напівмісяця на контактронних перемикачах. Тепер {0} має збільшений радіус дії та ефект, за рахунок збільшеного енергоспоживання та зношування.</MFI_buffEmanator>
+<MFI_buffChemfuel>Після видалення панелі A з позначкою "Service Latch" та активації тепер відкритого гойдалкового перемикача типу 2-A з позначкою "GO FASTER", {0} тепер частіше виробляє {1}.</MFI_buffChemfuel>
+<MFI_buffPsychite>Завдяки довшому заварюванню, {0} тепер міцніша. Справжнє диво сучасної інженерії.</MFI_buffPsychite>
+<MFI_SinceYouSuckAndDidntHaveIt>Оскільки ви ще не мали цього, ми дали вам {0}!</MFI_SinceYouSuckAndDidntHaveIt>
+<MFI_culturalSwapOutcomeWhoaYouActuallyBroughtArt>Твір мистецтва, який ваш караван привіз на виставку, посів друге місце у конкурсі суддів, але сподобався глядачам. Один з експертів підійшов до вашої каравани після виставки та запропонував купити {0} за {1}, що ціну на ринку оцінили судді у {2}.</MFI_culturalSwapOutcomeWhoaYouActuallyBroughtArt>
+<MFI_AnnualExpoXPGain>{0} здобув {1} {2} досвіду.</MFI_AnnualExpoXPGain>
+<MFI_AnnualExpoMedicalEmergency>Декілька синяків, незначний струс мозку та кілька вдавлених его.</MFI_AnnualExpoMedicalEmergency>
+<MFI_AnnualExpoMedicalEmergencySerious>Скручена нога, болісні м'язи та сором'язлива несправність гардеробу.</MFI_AnnualExpoMedicalEmergencySerious>
+<MFI_AnnualExpoMessageNoRepresentative>Відсутність у свідомості та здібність представника.</MFI_AnnualExpoMessageNoRepresentative>
+<MFI_LetterLabelSquatters>Незаконні заселенці</MFI_LetterLabelSquatters>
+<MFI_LetterSquatters>Група сквотерів з {0} розібрала табір у порожньому селищі поблизу та вирішила постійно оселятися в руїнах місцевості. Вони назвали свій новий будинок {1}.</MFI_LetterSquatters>
+<MFI_EstTimeOfCompletion>Орієнтований час завершення</MFI_EstTimeOfCompletion>
+<MFI_RoadWorks>Дорожні роботи</MFI_RoadWorks>
+<MFI_RoadSectionCompleted>Новий ділянка дороги введена в експлуатацію.</MFI_RoadSectionCompleted>
+<MFI_RoadWorksDialogue>{0} запропонували ідею, яка, на їхню думку, збільшить торгівлю та економічний добробут у регіоні. Вони хочуть побудувати дорогу завдовжки {1} плиток, починаючи зі своєї садиби. Щоб компенсувати витрати на матеріали та роботу, вони просять всі селища у своїй окрузі зробити одноразовий внесок у розмірі {2} срібла. Якщо ви не надаєте їм потрібну суму, вони інвестують свої зусилля в інший проект.</MFI_RoadWorksDialogue>
+</LanguageData>

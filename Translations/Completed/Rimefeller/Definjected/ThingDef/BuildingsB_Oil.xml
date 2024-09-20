@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<OilWellHead.label>Нафтова свердловина</OilWellHead.label>
+<OilWellHead.description>Покинута нафтова свердловина, де тиск повільно повертається до норми. Ви можете використати її знову, якщо встановите нову нафтову платформу на свердловині.</OilWellHead.description>
+
+<DeepOilWellHead.label>Глибока нафтова свердловина</DeepOilWellHead.label>
+<DeepOilWellHead.description>Покинута глибока нафтова свердловина, де тиск повільно повертається до норми. Ви можете використати її знову, якщо встановите нову нафтову платформу на свердловині.</DeepOilWellHead.description>
+
+<OilWell.label>Нафтова бурова вежа</OilWell.label>
+<OilWell.description>Добуває нафту з підземних родовищ. Щоб побачити її на карті, побудуйте консоль ресурсів.</OilWell.description>
+<OilWell.comps.CompRefuelable.fuelLabel>Запас сталі на труби</OilWell.comps.CompRefuelable.fuelLabel>
+<OilWell.comps.CompRefuelable.outOfFuelMessage>Не можна продовжувати буріння: недостатньо сталі</OilWell.comps.CompRefuelable.outOfFuelMessage>
+<OilWell.comps.CompRefuelable.fuelGizmoLabel>Стальна колба</OilWell.comps.CompRefuelable.fuelGizmoLabel>
+
+<DeepOilWell.label>Глибока нафтова платформа</DeepOilWell.label>
+<DeepOilWell.description>Добуває нафту з глибоких родовищ. Щоб побачити її на карті, побудуйте радар глибини.</DeepOilWell.description>
+<DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>Стальна колба</DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>
+<DeepOilWell.comps.CompRefuelable.fuelLabel>Запас сталі на труби</DeepOilWell.comps.CompRefuelable.fuelLabel>
+<DeepOilWell.comps.CompRefuelable.outOfFuelMessage>Не можна продовжувати буріння: недостатньо сталі</DeepOilWell.comps.CompRefuelable.outOfFuelMessage>
+  
+<OilStorage.label>Зберігання нафти</OilStorage.label>
+<OilStorage.description>Зберігає нафту, видобуту з нафтових платформ.</OilStorage.description>
+<OilStorage.comps.CompStorageTank.GizmoLabel>Зберігається нафта</OilStorage.comps.CompStorageTank.GizmoLabel>
+
+<FuelStorage.label>Хімічне зберігання палива</FuelStorage.label>
+<FuelStorage.description>Зберігає хімічні палива. Може постачати та приймати паливо трубами, що підключені до спуску та приймача.</FuelStorage.description>
+<FuelStorage.comps.CompStorageTank.GizmoLabel>Зберігається паливо</FuelStorage.comps.CompStorageTank.GizmoLabel>
+
+<ResourceConsole.label>Консоль ресурсів</ResourceConsole.label>
+<ResourceConsole.description>Керована станція для керування роботою крекерів та синтезаторів.</ResourceConsole.description>
+
+<CrudeCracker.label>Крекерна фабрика</CrudeCracker.label>
+<CrudeCracker.description>Синтезує хімічне паливо з нафти, яке потім можна транспортувати трубами до сховища або до каналізації / приймача.</CrudeCracker.description>
+<CrudeCracker.comps.CompCrudeCracker.GizmoLabel>Швидкість синтезу</CrudeCracker.comps.CompCrudeCracker.GizmoLabel>
+
+<FuelPowerplant.label>Електростанція на хімічне паливо</FuelPowerplant.label>
+<FuelPowerplant.description>Виробляє електроенергію з хімічних палив. Потрібне пряме з'єднання трубами з хімічним сховищем палива.</FuelPowerplant.description>
+
+<LargeFuelPowerplant.label>Велика електростанція на хімічне паливо</LargeFuelPowerplant.label>
+<LargeFuelPowerplant.description>Виробляє електроенергію з хімічних палив. Потрібне пряме з'єднання трубами з хімічним сховищем палива.</LargeFuelPowerplant.description>
+  
+</LanguageData>

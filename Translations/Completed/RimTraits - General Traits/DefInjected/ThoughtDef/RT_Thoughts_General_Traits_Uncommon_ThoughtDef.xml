@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Defs/ThoughtDefs/RT_Thoughts_General_Traits_Uncommon.xml-->
+                                    <!-- Amused -->
+<MoodOffsetRTEasilyAmused.stages.0.label>Захоплений</MoodOffsetRTEasilyAmused.stages.0.label>
+<!-- Ух ти, подивіться на це! -->
+<MoodOffsetRTEasilyAmused.stages.0.description>Ух ти, ви тільки подивіться на це!</MoodOffsetRTEasilyAmused.stages.0.description>
+<!-- Задуманий -->
+<MoodOffsetRTConstantlyBemused.stages.0.label>Втомлений</MoodOffsetRTConstantlyBemused.stages.0.label>
+<!-- Боже, не можу, я можу хоч трохи відпочити?! -->
+<MoodOffsetRTConstantlyBemused.stages.0.description>От бляха... Чи можна мені трохи відпочити?! </MoodOffsetRTConstantlyBemused.stages.0.description>
+
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MakePowerArm.label>виготовити силову руку</MakePowerArm.label>
+<MakePowerArm.description>Прикріплення силового кігтя до біонічної руки не так просто, як здається, але, гріх що таємно, це дуже круто! Смертоносно і ефективно в бою. \n\nНе встановлюйте на нестабільного суб'єкта, це може призвести до небажаної смерті та руйнування.</MakePowerArm.description>
+<MakePowerArm.jobString>Виготовлення силової руки.</MakePowerArm.jobString>
+<MakeBionicEye.label>виготовити біонічне око</MakeBionicEye.label>
+<MakeBionicEye.description>Виготовлення біонічного ока з пластіку та шовку.</MakeBionicEye.description>
+<MakeBionicEye.jobString>Виготовлення біонічної частини.</MakeBionicEye.jobString>
+<MakeBionicEar.label>виготовити біонічне вухо</MakeBionicEar.label>
+<MakeBionicEar.description>Виготовлення біонічного вуха з пластіку.</MakeBionicEar.description>
+<MakeBionicEar.jobString>Виготовлення біонічної частини.</MakeBionicEar.jobString>
+<MakeBionicArm.label>виготовити біонічну руку</MakeBionicArm.label>
+<MakeBionicArm.description>Виготовлення біонічної руки з пластіку та компонентів.</MakeBionicArm.description>
+<MakeBionicArm.jobString>Виготовлення біонічної частини.</MakeBionicArm.jobString>
+<MakeBionicLeg.label>виготовити біонічну ногу</MakeBionicLeg.label>
+<MakeBionicLeg.description>Виготовляє біонічну ногу з пластівцю та компонентів.</MakeBionicLeg.description>
+<MakeBionicLeg.jobString>Створення біонічної деталі.</MakeBionicLeg.jobString>
+<MakeBionicHand.label>Створити біонічну руку</MakeBionicHand.label>
+<MakeBionicHand.description>Виготовляє біонічну руку з пластівцю та компонентів.</MakeBionicHand.description>
+<MakeBionicHand.jobString>Створення біонічної деталі.</MakeBionicHand.jobString>
+<MakeBionicFoot.label>Створити біонічну ногу</MakeBionicFoot.label>
+<MakeBionicFoot.description>Виготовляє біонічну ногу з пластівцю та компонентів.</MakeBionicFoot.description>
+<MakeBionicFoot.jobString>Створення біонічної деталі.</MakeBionicFoot.jobString>
+<MakeBionicJaw.label>Створити біонічну щелепу</MakeBionicJaw.label>
+<MakeBionicJaw.description>Виготовляє біонічну щелепу з пластівцю.</MakeBionicJaw.description>
+<MakeBionicJaw.jobString>Створення біонічної деталі.</MakeBionicJaw.jobString>
+<MakeBionicTongue.label>Створити біонічну мову</MakeBionicTongue.label>
+<MakeBionicTongue.description>Виготовляє біонічну мову з пластівцю.</MakeBionicTongue.description>
+<MakeBionicTongue.jobString>Створення біонічної деталі.</MakeBionicTongue.jobString>
+<MakeBionicSpine.label>Створити біонічну хребет</MakeBionicSpine.label>
+<MakeBionicSpine.description>Виготовляє біонічний хребет зі сталі та пластівцю.</MakeBionicSpine.description>
+<MakeBionicSpine.jobString>Створення біонічної деталі.</MakeBionicSpine.jobString>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Stuff.xml-->
+<FT_Make_RA_SplitUranium.label>Розділити уран для компанії Rimatomics</FT_Make_RA_SplitUranium.label>
+<FT_Make_RA_SplitUranium.description>Розділіть уран на збагачений та виснажений за стандартами компанії Rimatomics.</FT_Make_RA_SplitUranium.description>
+<FT_Make_RA_SplitUranium.jobString>Розділення урану.</FT_Make_RA_SplitUranium.jobString>
+<FT_Make_SplitUranium.label>Розділити уран</FT_Make_SplitUranium.label>
+<FT_Make_SplitUranium.description>Розділіть уран на збагачений та виснажений.</FT_Make_SplitUranium.description>
+<FT_Make_SplitUranium.jobString>Розділення урану.</FT_Make_SplitUranium.jobString>
+</LanguageData>

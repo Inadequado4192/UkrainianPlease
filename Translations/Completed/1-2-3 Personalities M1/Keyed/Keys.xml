@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<SP.LoadingLabel>Прості особистості - Модуль 1</SP.LoadingLabel>
+<SP.PersonalityHeader>Особистість {0}</SP.PersonalityHeader>
+<SP.HiddenPrisonerPersonality>Приховано: Особистість цієї особи ще не відома. Знизьте її опір, щоб розкрити особистість.</SP.HiddenPrisonerPersonality>
+<SP.HiddenPersonality>Приховано: Особистість цієї особи невідома, оскільки вона не є членом вашої колонії.</SP.HiddenPersonality>
+<SP.HiddenAnimalPersonality>Особистість цього тварини ще не відома. Приручіть тварину, щоб виявити її характер.</SP.HiddenAnimalPersonality>
+<SP.HiddenAnimalOfFactionPersonality>Особистість цієї тварини ще не відома. Навчіть тварину або зачекайте декілька днів, щоб виявити її особистість.</SP.HiddenAnimalOfFactionPersonality>
+<SP.AnimalReveal.Training>{0} провів достатньо часу з {1}, щоб зрозуміти її характер.</SP.AnimalReveal.Training>
+<SP.AnimalReveal.Time>{0} відчував невпевненість протягом останніх декількох днів, але нарешті прийняв {1} як свій дім. Особистість тварини виявлена.</SP.AnimalReveal.Time>
+<SP.EditingFor>Редагування особистості: {0}</SP.EditingFor>
+<SP.Change>Змінити</SP.Change>
+<SP.MissingPart>Немає</SP.MissingPart>
+<SP.RootLabel>Корінь особистості: {0}</SP.RootLabel>
+<SP.VariantLabel>Варіант особистості: {0}</SP.VariantLabel>
+<SP.MainTraitLabel>Основна риса: {0}</SP.MainTraitLabel>
+<SP.SecondaryTraitLabel>Другорядна риса: {0}</SP.SecondaryTraitLabel>
+<SP.OptionalTraitLabel>Додаткова риса: {0}</SP.OptionalTraitLabel>
+<SP.InvalidWarning>Невірна особистість! Будь ласка, створіть правильну особистість, або ви можете спричинити серйозні помилки!\nЛюди повинні мати корінь, варіант, основну та вторинну риси.\nТварини повинні мати корінь та варіант.</SP.InvalidWarning>
+<SP.RollNewDescription>Кинути кубики на новий опис</SP.RollNewDescription>
+<SP.TweakDescription>Відредагувати опис</SP.TweakDescription>
+<SP.ApplyToCharacter>Застосувати новий опис</SP.ApplyToCharacter>
+<SP.Seeds>Записи:</SP.Seeds>
+<SP.AddSeed>Додати нову</SP.AddSeed>
+<SP.RemoveSeed>Видалити останню</SP.RemoveSeed>
+<SP.EditPersonality>Редагувати особистість</SP.EditPersonality>
+<SP.EditPersonalities>Редагувати особистості</SP.EditPersonalities>
+<SP.Personalities>Особистості</SP.Personalities>
+<SP.PrepareCarefullyPatchLabel>Застосування патчу до Prepare Carefully...</SP.PrepareCarefullyPatchLabel>
+<SP.CharacterEditorPatchLabel>Застосування патчу до Character Editor...</SP.CharacterEditorPatchLabel>
+<SP.DoesNotHavePersonality>Цей персонаж не має особистості.</SP.DoesNotHavePersonality>
+<SP.SeedExplaination>Кожне зерно змінює певну частину опису. В залежності від типу та довжини опису, деякі значення зерен можуть нічого не змінити.</SP.SeedExplaination>
+<SP.TabLabel>Світогляд</SP.TabLabel>
+<!-- Меню налаштувань (SPS означає Simple Personalities Settings) -->
+<SPS.Header>Наведіть курсор на елемент, щоб побачити опис.\nНатисніть праву кнопку миші, щоб повернути значення за замовчуванням.\nПримітка: Деякі налаштування потребують перезавантаження для вступу в силу.</SPS.Header>
+<SPS.ShowAdvanced>Показати розширені параметри?</SPS.ShowAdvanced>
+<SPS.ShowAdvancedDesc>Показує або приховує розширені налаштування моду.\nРозширені налаштування слід налаштовувати тільки у випадку, якщо ви розумієте, що робите.</SPS.ShowAdvancedDesc>
+<SPS.ResetAll>Скинути все</SPS.ResetAll>
+<SPS.Default>За замовчуванням: {0}</SPS.Default>
+<SPS.Yes>Так</SPS.Yes>
+<SPS.No>Ні</SPS.No>
+<SPS.VisualCat>Візуальні</SPS.VisualCat>
+<SPS.UseSingleColor>Монохромні підписи опису: Якщо ввімкнено, замінює багатокольорові підписи описів особистості на один колір, що може бути легше для читання.\nПотребує перезавантаження гри для повного застосування.</SPS.UseSingleColor>
+<SPS.AnimalCat>Тварини</SPS.AnimalCat>
+<SPS.AnimalTicksToReveal>Час для відкриття особистості тварин: Час, в тіках, після якого приручена тварина автоматично відкриє свою особистість. В одній секунді 60 тактів.</SPS.AnimalTicksToReveal>
+<SPS.AnimalPersonalityOnTrainChance>Шанс відкриття особистості при навчанні тварин: Відсоток шансу, що особистість прирученої тварини буде відкрита під час навчання.</SPS.AnimalPersonalityOnTrainChance>
+<SPS.ExtraBioHeight>Додаткова висота для біо: Додаткова висота, що додається до вікна біо персонажа, для вміщення опису особистості. Зменшуйте, якщо вікно виходить за верхню межу екрану.</SPS.ExtraBioHeight>
+<SPS.FreezeDescriptions>Заморозити описи: Замість системи випадкових насінь, опис особистості персонажа зберігається на карті, забезпечуючи сталість опису, але збільшуючи розмір і час завантаження збереження. Після активації цієї опції, зміна опції "Монохромні описи" не матиме жодного впливу.</SPS.FreezeDescriptions>
+<SPS.UseWorldviewTab>Включити вкладку Світогляд: Додає додаткову вкладку для персонажів, що відображає їх особистість, замість розміщення її у вкладці Біо. У майбутньому ця вкладка також буде показувати інформацію з Модуля 3.</SPS.UseWorldviewTab>
+<SPS.ShowPersonalityRevealMessage>Показувати повідомлення про відкриття особистості: Активує або вимикає показ повідомлення при відкритті особистості тварини. Це повідомлення може бути надокучливим, коли в колонії багато тварин.</SPS.ShowPersonalityRevealMessage>
+<SPS.DoAnimalHediffs>Увімкнути бонуси тварин: Увімкнути або вимкнути вигоди hediffs для тварин.</SPS.DoAnimalHediffs>
+</LanguageData>

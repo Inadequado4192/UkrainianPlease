@@ -2,3 +2,7 @@ node_modules
 .old
 .env
 Mod/Translations
+Mod/LoadFolders.xml
+./scripts/test
+Translations/debug
+Translations/Testing

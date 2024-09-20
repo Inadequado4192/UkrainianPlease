@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Stomach.label>шлунок</Stomach.label>
+<Stomach.description>Перетравлює їжу і перетворює її на енергію та поживні речовини. Потребує холодильника.</Stomach.description>
+<Heart.label>серце</Heart.label>
+<Heart.description>Забезпечує кровообіг та доставку кисню до всіх органів. Готове знайти нового власника. Потребує холодильника.</Heart.description>
+<Liver.label>печінка</Liver.label>
+<Liver.description>Грає важливу роль у метаболізмі та фільтрації. Потребує холодильника.</Liver.description>
+<Lung.label>легені</Lung.label>
+<Lung.description>Необхідна частина дихальної системи. Потребує холодильника.</Lung.description>
+<Kidney.label>нирки</Kidney.label>
+<Kidney.description>Фільтрує та видаляє відходи з крові. Потребує холодильника.</Kidney.description>
+</LanguageData>

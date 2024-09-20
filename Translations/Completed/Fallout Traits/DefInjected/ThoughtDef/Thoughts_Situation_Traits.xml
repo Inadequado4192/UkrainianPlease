@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FT_MoodOffsetGunNut.stages.0.label>Фахівець на дальньому вогнепальному озброєнні</FT_MoodOffsetGunNut.stages.0.label>
+  <FT_MoodOffsetGunNut.stages.0.description>Я обожнюю вогнепальну зброю! Де тут щось, на що можна постріляти?</FT_MoodOffsetGunNut.stages.0.description>
+
+  <FT_MoodOffsetSerendipitous.stages.0.label>Серендіпіт</FT_MoodOffsetSerendipitous.stages.0.label>
+  <FT_MoodOffsetSerendipitous.stages.0.description>Природний бонус від риси характеру "Серендіпіт".</FT_MoodOffsetSerendipitous.stages.0.description>
+
+  <FT_MoodOffsetIronFist.stages.0.label>Залізний кулак має дистанційну зброю</FT_MoodOffsetIronFist.stages.0.label>
+  <FT_MoodOffsetIronFist.stages.0.description>Я не хочу стріляти здалеку, я хочу битися голими руками!</FT_MoodOffsetIronFist.stages.0.description>
+
+
+</LanguageData>

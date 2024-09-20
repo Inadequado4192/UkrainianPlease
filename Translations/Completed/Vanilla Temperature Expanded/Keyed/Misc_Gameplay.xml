@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PH.EnableProxyHeatEffectIndoors>Enable proxy heat effect indoors</PH.EnableProxyHeatEffectIndoors>
+  <PH.AllowPlantGrowthInsideProxyHeatEffectRadius>Allow plant growth inside proxy heat effect radius</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
+  <VTE.MustPlaceHeaterWithFreeSpaces>Гаряча сторона нагрівача повинна бути відкритою.</VTE.MustPlaceHeaterWithFreeSpaces>
+  <VTE.MustPlaceUnderRoof>Має бути розміщено під дахом.</VTE.MustPlaceUnderRoof>
+  <VTE.CannotPlaceAdjacentCeilingFan>Не можна розміщувати поруч зі стельовими вентиляторами.</VTE.CannotPlaceAdjacentCeilingFan>
+  <VTE.Efficiency>Ефективність мережі</VTE.Efficiency>
+  <VTE.NetworkTargetTemp>Цільова температура мережі</VTE.NetworkTargetTemp>
+  <VTE.Production>Виробництво</VTE.Production>
+  <VTE.Consumption>Споживання</VTE.Consumption>
+  <VTE.TotalProduction>Загальне виробництво</VTE.TotalProduction>
+  <VTE.TotalConsumption>Загальне споживання</VTE.TotalConsumption>
+  <VTE.Relink>Успадковувати цільову температура</VTE.Relink>
+  <VTE.Unlink>Unlink temperature</VTE.Unlink>
+  <VTE.AcRelinkDescription>З'єднати цей кондиціонер з системою, успадкувавши бажану температуру.</VTE.AcRelinkDescription>
+  <VTE.AcUnlinkDescription>Відключити цей кондиціонер від успадкування бажаної температури від системи.</VTE.AcUnlinkDescription>
+  <VTE.MissingCompressors>Не працює: Недостатньо підключених компресорів.</VTE.MissingCompressors>
+  <VTE.MissingController>Не працює: Відсутній ГБУСКП</VTE.MissingController>
+  <VTE.TooManyControllers>Не працює: Підключено більш ніж до одного ГБУСКП</VTE.TooManyControllers>
+  <VTE.CompressorCovered>Не працює: Накрито дахом.</VTE.CompressorCovered>
+  <VTE_VentValve>Увімкнення/вимкнення потоку повітря.</VTE_VentValve>
+  <VTE_VentValveDesc>Вмикає/вимикає потік повітря. Пішак відкриває/закриває клапан.</VTE_VentValveDesc>
+
+</LanguageData>

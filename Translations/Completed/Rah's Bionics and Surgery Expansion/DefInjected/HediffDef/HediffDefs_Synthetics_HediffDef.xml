@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Neurostimulator.label>нейростимулятор</Neurostimulator.label>
+<Neurostimulator.labelNoun>нейростимулятор</Neurostimulator.labelNoun>
+<Neurostimulator.description>Встановлений нейростимулятор.</Neurostimulator.description>
+<Hyporegulator.label>гіпорегулятор</Hyporegulator.label>
+<Hyporegulator.labelNoun>гіпорегулятор</Hyporegulator.labelNoun>
+<Hyporegulator.description>Встановлений гіпорегулятор.</Hyporegulator.description>
+<Cortexaugmentor.label>кортекс-аугментатор</Cortexaugmentor.label>
+<Cortexaugmentor.labelNoun>кортекс-аугментатор</Cortexaugmentor.labelNoun>
+<Cortexaugmentor.description>Встановлений кортекс-аугментатор.</Cortexaugmentor.description>
+<SyntheticLung.label>синтетична легеня</SyntheticLung.label>
+<SyntheticLung.labelNoun>синтетична легеня</SyntheticLung.labelNoun>
+<SyntheticLung.description>Встановлена синтетична легеня.</SyntheticLung.description>
+<SyntheticLiver.label>штучна печінка</SyntheticLiver.label>
+<SyntheticLiver.labelNoun>штучна печінка</SyntheticLiver.labelNoun>
+<SyntheticLiver.description>Встановлена штучна печінка.</SyntheticLiver.description>
+<SyntheticKidney.label>штучна нирка</SyntheticKidney.label>
+<SyntheticKidney.labelNoun>штучна нирка</SyntheticKidney.labelNoun>
+<SyntheticKidney.description>Встановлена штучна нирка.</SyntheticKidney.description>
+<SyntheticHeart.label>штучне серце</SyntheticHeart.label>
+<SyntheticHeart.labelNoun>штучне серце</SyntheticHeart.labelNoun>
+<SyntheticHeart.description>Встановлене штучне серце.</SyntheticHeart.description>
+<SyntheticStomach.label>штучний шлунок</SyntheticStomach.label>
+<SyntheticStomach.labelNoun>штучний шлунок</SyntheticStomach.labelNoun>
+<SyntheticStomach.description>Встановлений штучний шлунок.</SyntheticStomach.description>
+</LanguageData>

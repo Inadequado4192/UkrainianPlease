@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<SP_AnimalPersonalityDesc.rulePack.rulesStrings>
+<li>main-&gt;[PAWN_nameDef] - тварина природи [ROOT_labelCol].</li>
+<li>secondary-&gt;[PAWN_pronoun] відомий як [VAR_labelCol].</li>
+</SP_AnimalPersonalityDesc.rulePack.rulesStrings>
+<SP_AnimalPersonalityDesc.rulePack.rulesStrings>
+<li>main-&gt;[PAWN_nameDef] - тварина природи [ROOT_labelCol].</li>
+<li>secondary-&gt;[PAWN_pronoun] відома як [VAR_labelCol].</li>
+</SP_AnimalPersonalityDesc.rulePack.rulesStrings>
+<SP_AnimalPersonalityDesc.rulePack.rulesStrings>
+<li>main-&gt;[PAWN_nameDef] - тварина природи [ROOT_labelCol].</li>
+<li>secondary-&gt;[PAWN_pronoun] відоме як [VAR_labelCol].</li>
+</SP_AnimalPersonalityDesc.rulePack.rulesStrings>
+</LanguageData>

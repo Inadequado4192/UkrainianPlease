@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Common/Defs/MiscDefs/TransportShips.xml-->
+                              <!-- шаттл -->
+<Spaceports_RoyaltyShuttleTS.label>шаттл</Spaceports_RoyaltyShuttleTS.label>
+                      <!-- шаттл -->
+<Spaceports_ShuttleA.label>шаттл</Spaceports_ShuttleA.label>
+                         <!-- шаттл -->
+<Spaceports_ShuttleSkip.label>шаттл</Spaceports_ShuttleSkip.label>
+                          <!-- шаттл -->
+<Spaceports_ShuttleInert.label>шаттл</Spaceports_ShuttleInert.label>
+                             <!-- mysterious шаттл -->
+<Spaceports_SurpriseShuttle.label>таємничий шаттл</Spaceports_SurpriseShuttle.label>
+
+</LanguageData>

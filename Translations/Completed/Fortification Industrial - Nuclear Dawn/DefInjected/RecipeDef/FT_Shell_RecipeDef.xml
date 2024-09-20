@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<FT_Dismantle_NuclearWarhead.label>розібрати ядерну бойову головку</FT_Dismantle_NuclearWarhead.label>
+
+<FT_Dismantle_NuclearWarhead.description>розібрати ядерну бойову головку та повернути мир у цей жахливий світ...</FT_Dismantle_NuclearWarhead.description>
+
+<FT_Dismantle_NuclearWarhead.jobString>розбираємо бойову головку.</FT_Dismantle_NuclearWarhead.jobString>
+
+<FT_Make_NuclearWarhead.label>зібрати ядерну бойову головку</FT_Make_NuclearWarhead.label>
+
+<FT_Make_NuclearWarhead.description>зібрати ядерну бойову головку з використанням збагаченого урану.</FT_Make_NuclearWarhead.description>
+
+<FT_Make_NuclearWarhead.jobString>збираємо бойову головку.</FT_Make_NuclearWarhead.jobString>
+
+</LanguageData>

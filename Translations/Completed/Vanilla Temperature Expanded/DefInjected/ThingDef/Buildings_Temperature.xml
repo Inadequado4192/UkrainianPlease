@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VTE_IndustrialHeater.label>Індустріальний обігрівач</VTE_IndustrialHeater.label>
+  <VTE_IndustrialHeater.description>Великий обігрівач промислового типу який вбудовується в стіну. Він перетворює електроенергію на тепло. Він може автоматично вмикатися або вимикатися, щоб досягти певної цільової температури. Він здатен нагріти приміщення до набагато вищої температури, ніж стандартні обігрівачі.</VTE_IndustrialHeater.description>
+  <VTE_IndustrialHeater_креслення.label>Індустріальний обігрівач (креслення)</VTE_IndustrialHeater_креслення.label>
+  <VTE_IndustrialHeater_Frame.label>Індустріальний обігрівач (будується)</VTE_IndustrialHeater_Frame.label>
+  <VTE_IndustrialHeater_Frame.description>Великий обігрівач промислового типу який вбудовується в стіну. Він перетворює електроенергію на тепло. Він може автоматично вмикатися або вимикатися, щоб досягти певної цільової температури. Він здатен нагріти приміщення до набагато вищої температури, ніж стандартні обігрівачі.</VTE_IndustrialHeater_Frame.description>
+
+  <VTE_IndustrialCooler.label>Промисловий охолоджувач</VTE_IndustrialCooler.label>
+  <VTE_IndustrialCooler.description>Великий промисловий охолоджувач, який вбудовується в стіну. Холодне повітря виходить з одного боку, а гарячі відпрацьовані гази - з іншого. Може використовуватися для охолодження приміщень влітку або для створення морозильної камери. Він здатний охолодити приміщення до набагато нижчої температури, ніж стандартний кондиціонер.</VTE_IndustrialCooler.description>
+  <VTE_IndustrialCooler_креслення.label>Промисловий охолоджувач (креслення)</VTE_IndustrialCooler_креслення.label>
+  <VTE_IndustrialCooler_Frame.label>Промисловий охолоджувач (будується)</VTE_IndustrialCooler_Frame.label>
+  <VTE_IndustrialCooler_Frame.description>Великий промисловий охолоджувач, який вбудовується в стіну. Холодне повітря виходить з одного боку, а гарячі відпрацьовані гази - з іншого. Може використовуватися для охолодження приміщень влітку або для створення морозильної камери. Він здатний охолодити приміщення до набагато нижчої температури, ніж стандартний кондиціонер.</VTE_IndustrialCooler_Frame.description>
+
+  <VTE_WallHeater.label>обігрівач</VTE_WallHeater.label>
+  <VTE_WallHeater.description>Нагрівальний прилад, який вбудовується в стіну. Він перетворює електроенергію на тепло. Він може автоматично вмикатися або вимикатися, щоб досягти певної цільової температури. Може використовуватися для обігріву приміщень взимку.</VTE_WallHeater.description>
+  <VTE_WallHeater_креслення.label>настінний обігрівач (креслення)</VTE_WallHeater_креслення.label>
+  <VTE_WallHeater_Frame.label>настінний обігрівач (будується)</VTE_WallHeater_Frame.label>
+  <VTE_WallHeater_Frame.description>Нагрівальний прилад, який вбудовується в стіну. Він перетворює електроенергію на тепло. Він може автоматично вмикатися або вимикатися, щоб досягти певної цільової температури. Може використовуватися для обігріву приміщень взимку</VTE_WallHeater_Frame.description>
+
+  <VTE_WallMountedHeater.label>настінний обігрівач</VTE_WallMountedHeater.label>
+  <VTE_WallMountedHeater.description>Настінний пристрій, що перетворює електроенергію на тепло. Він може автоматично вмикатися або вимикатися для досягнення певної цільової температури. Може бути встановлений лише на стіні.</VTE_WallMountedHeater.description>
+  <VTE_WallMountedHeater_креслення.label>настінний обігрівач (креслення)</VTE_WallMountedHeater_креслення.label>
+  <VTE_WallMountedHeater_Frame.label>настінний обігрівач(будується)</VTE_WallMountedHeater_Frame.label>
+  <VTE_WallMountedHeater_Frame.description>Настінний пристрій, що перетворює електроенергію на тепло. Він може автоматично вмикатися або вимикатися для досягнення певної цільової температури. Може бути встановлений лише на стіні.</VTE_WallMountedHeater_Frame.description>
+
+  <VTE_WallMountedCooler.label>настінний охолоджувач</VTE_WallMountedCooler.label>
+  <VTE_WallMountedCooler.description>Настінна машина повітряного охолодження, яка вбудовується в стіну. Холодне повітря виходить з одного боку, а гарячі відпрацьовані гази - з іншого. Може використовуватися для охолодження приміщень влітку або для створення морозильної камери. Може бути встановлений тільки на стіні.</VTE_WallMountedCooler.description>
+  <VTE_WallMountedCooler_креслення.label>настінний охолоджувач (креслення)</VTE_WallMountedCooler_креслення.label>
+  <VTE_WallMountedCooler_Frame.label>настінний охолоджувач (будується)</VTE_WallMountedCooler_Frame.label>
+  <VTE_WallMountedCooler_Frame.description>Настінна машина повітряного охолодження, яка вбудовується в стіну. Холодне повітря виходить з одного боку, а гарячі відпрацьовані гази - з іншого. Може використовуватися для охолодження приміщень влітку або для створення морозильної камери. Може бути встановлений тільки на стіні.</VTE_WallMountedCooler_Frame.description>
+
+  <VTE_WallMountedVent.label>настінний вентиляційний отвір</VTE_WallMountedVent.label>
+  <VTE_WallMountedVent.description>Простий настінний вентиляційний отвір для вирівнювання температури між двома приміщеннями, не дозволяючи людям ходити між ними. Може бути встановлений тільки на стіні.</VTE_WallMountedVent.description>
+  <VTE_WallMountedVent_креслення.label>настінний вентиляційний отвір (креслення)</VTE_WallMountedVent_креслення.label>
+  <VTE_WallMountedVent_Frame.label>настінний вентиляційний отвір (будується)</VTE_WallMountedVent_Frame.label>
+  <VTE_WallMountedVent_Frame.description>Простий настінний вентиляційний отвір для вирівнювання температури між двома приміщеннями, не дозволяючи людям ходити між ними. Може бути встановлений тільки на стіні.</VTE_WallMountedVent_Frame.description>
+
+  <VTE_StandingCooler.label>охолоджувач</VTE_StandingCooler.label>
+  <VTE_StandingCooler.description>Окремо стояча машина повітряного охолодження. Прохолодне повітря виходить з вентилятора і поширюється по навколишньому простору. Може використовуватися для охолодження приміщень влітку. Недостатньо ефективний для охолодження продуктів харчування.</VTE_StandingCooler.description>
+  <VTE_StandingCooler_креслення.label>охолоджувач (креслення)</VTE_StandingCooler_креслення.label>
+  <VTE_StandingCooler_креслення_Install.label>охолоджувач (креслення)</VTE_StandingCooler_креслення_Install.label>
+  <VTE_StandingCooler_Frame.label>охолоджувач (будується)</VTE_StandingCooler_Frame.label>
+  <VTE_StandingCooler_Frame.description>Окремо стояча машина повітряного охолодження. Прохолодне повітря виходить з вентилятора і поширюється по навколишньому простору. Може використовуватися для охолодження приміщень влітку. Недостатньо ефективний для охолодження продуктів харчування.</VTE_StandingCooler_Frame.description>
+
+  <VTE_SmallCeilingFan.label>малий стельовий вентилятор</VTE_SmallCeilingFan.label>
+  <VTE_SmallCeilingFan.description>Стельовий вентилятор. Може використовуватися для повільного охолодження приміщень влітку. Недостатньо ефективний для охолодження продуктів харчування, він спрямований на досягнення температури в приміщенні 17°C.</VTE_SmallCeilingFan.description>
+  <VTE_SmallCeilingFan_креслення.label>малий стельовий вентилятор (креслення)</VTE_SmallCeilingFan_креслення.label>
+  <VTE_SmallCeilingFan_Frame.label>малий стельовий вентилятор (будується)</VTE_SmallCeilingFan_Frame.label>
+  <VTE_SmallCeilingFan_Frame.description>Стельовий вентилятор. Може використовуватися для повільного охолодження приміщень влітку. Недостатньо ефективний для охолодження продуктів харчування, він спрямований на досягнення температури в приміщенні 17°C.</VTE_SmallCeilingFan_Frame.description>
+
+  <VTE_LargeCeilingFan.label>великий стельовий вентилятор</VTE_LargeCeilingFan.label>
+  <VTE_LargeCeilingFan.description>Великий стельовий вентилятор. Використовується для швидкого охолодження приміщень влітку. Недостатньо ефективний для охолодження продуктів харчування, він буде спрямований на досягнення температури в приміщенні 17°C.</VTE_LargeCeilingFan.description>
+  <VTE_LargeCeilingFan_креслення.label>великий стельовий вентилятор (креслення)</VTE_LargeCeilingFan_креслення.label>
+  <VTE_LargeCeilingFan_Frame.label>великий стельовий вентилятор (будується)</VTE_LargeCeilingFan_Frame.label>
+  <VTE_LargeCeilingFan_Frame.description>Великий стельовий вентилятор. Використовується для швидкого охолодження приміщень влітку. Недостатньо ефективний для охолодження продуктів харчування, він буде спрямований на досягнення температури в приміщенні 17°C.</VTE_LargeCeilingFan_Frame.description>
+
+
+</LanguageData>

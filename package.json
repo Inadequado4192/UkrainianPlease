@@ -6,9 +6,9 @@
     "scripts": {
         "test": "ts-node ./scripts/test.ts",
         "build": "ts-node ./scripts/build.ts",
-        "check-updates": "ts-node ./scripts/check-updates.ts",
-        "ust": "ts-node ./scripts/update-source-translations.ts",
-        "iso": "node -e \"console.log(new Date().toISOString())\"",
+        "build:about-only": "ts-node ./scripts/build.ts about-only",
+        "build:mod-list": "ts-node ./scripts/build-mod-list.ts",
+        "build:all": "npm run build && npm run build:mod-list",
         "save": "git add . && git commit -m \"quick save\" && git push origin master --force"
     },
     "author": "Inadequado",

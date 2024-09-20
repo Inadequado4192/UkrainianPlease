@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MakeNeurostimulator.label>Створити нейростимулятор</MakeNeurostimulator.label>
+<MakeNeurostimulator.description>Створює нейростимулятор. Потрібен ядро AI-персони.\n\nВисокорозвинутий мозковий імплант, який намагається відновити свідомість суб'єкта. Рекомендується для колоністів, які страждають на хвороби мозку та ушкодження мозку.</MakeNeurostimulator.description>
+<MakeNeurostimulator.jobString>Створення імпланту.</MakeNeurostimulator.jobString>
+<MakeHyporegulator.label>Створити гіпорегулятор</MakeHyporegulator.label>
+<MakeHyporegulator.description>Створює гіпорегулятор. Потрібен ядро AI-персони.\n\nВисокорозвинутий мозковий імплант, який намагається підвищити психічну та фізичну стійкість суб'єкта. Імплант розміщується в гіпоталамусі, що підвищує ефективність гіпоталамо-гіпофізарно-надниркової системи та терморегуляції організму.</MakeHyporegulator.description>
+<MakeHyporegulator.jobString>Створення імпланту.</MakeHyporegulator.jobString>
+<MakeCortexaugmentor.label>Створити кортексо-посилювач</MakeCortexaugmentor.label>
+<MakeCortexaugmentor.description>Створення кортексного посилювача. Потрібний ядро персонального AI.\n\nВисокотехнологічний імплантат мозку, який намагається підвищити загальну інтелектуальну здатність суб'єкта. Імплантується в передній кортекс, що збільшує пізнавальні здібності, такі як мова та швидкість навчання.</MakeCortexaugmentor.description>
+<MakeCortexaugmentor.jobString>Створення імплантату.</MakeCortexaugmentor.jobString>
+<MakeSyntheticLung.label>Створити штучне легене</MakeSyntheticLung.label>
+<MakeSyntheticLung.description>Створює штучне легене з гіпертканини та пласталі</MakeSyntheticLung.description>
+<MakeSyntheticLung.jobString>Створення штучного органу.</MakeSyntheticLung.jobString>
+<MakeSyntheticStomach.label>Створити штучний шлунок</MakeSyntheticStomach.label>
+<MakeSyntheticStomach.description>Створює штучний шлунок з гіпертканини та пласталі</MakeSyntheticStomach.description>
+<MakeSyntheticStomach.jobString>Створення штучного органу.</MakeSyntheticStomach.jobString>
+<MakeSyntheticLiver.label>Створити штучну печінку</MakeSyntheticLiver.label>
+<MakeSyntheticLiver.description>Створює штучну печінку з гіпертканини та пласталі.</MakeSyntheticLiver.description>
+<MakeSyntheticLiver.jobString>Створення штучного органу.</MakeSyntheticLiver.jobString>
+<MakeSyntheticKidney.label>Створити штучну нирку</MakeSyntheticKidney.label>
+<MakeSyntheticKidney.description>Створює штучну нирку з гіпертканини та пласталі.</MakeSyntheticKidney.description>
+<MakeSyntheticKidney.jobString>Створення штучного органу.</MakeSyntheticKidney.jobString>
+<MakeSyntheticHeart.label>Створити штучне серце</MakeSyntheticHeart.label>
+<MakeSyntheticHeart.description>Створює штучне серце з гіпертканини та пласталі.</MakeSyntheticHeart.description>
+<MakeSyntheticHeart.jobString>Створення штучного органу.</MakeSyntheticHeart.jobString>
+</LanguageData>

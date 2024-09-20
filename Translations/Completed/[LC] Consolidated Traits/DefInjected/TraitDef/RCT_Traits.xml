@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- FixBrokenDownBuildingSuccessChance
+ConstructSuccessChance
+ConstructionSpeed
+HuntingStealth
+PlantHarvestYield
+PlantWorkSpeed
+AnimalGatherYield
+AnimalGatherSpeed
+ResearchSpeed
+SmoothingSpeed
+MiningYield
+MiningSpeed
+WorkSpeedGlobal
+
+NegotiationAbility
+PawnBeauty
+ArrestSuccessChance
+TradePriceImprovement
+SocialImpact
+TameAnimalChance
+TrainAnimalChance
+
+SmeltingSpeed
+GeneralLaborSpeed
+DrugSynthesisSpeed
+CookSpeed
+FoodPoisonChance
+DrugCookingSpeed
+ButcheryFleshSpeed
+ButcheryMechanoidSpeed
+ButcheryFleshEfficiency
+ButcheryMechanoidEfficiency
+
+MoveSpeed
+MentalBreakThreshold
+PsychicSensitivity
+PsychicEntropyMax
+PsychicEntropyRecoveryRate
+PsychicEntropyGain
+ToxicSensitivity
+GlobalLearningFactor
+HungerRateMultiplier
+RestRateMultiplier
+EatingSpeed
+ComfyTemperatureMin
+ComfyTemperatureMax
+ImmunityGainSpeed
+CarryingCapacity
+MeatAmount
+LeatherAmount
+MinimumHandlingSkill
+PainShockThreshold
+ForagedNutritionPerDay
+
+MeleeDPS
+MeleeArmorPenetration
+MeleeHitChance
+MeleeDodgeChance
+ShootingAccuracyPawn
+AimingDelayFactor
+PawnTrapSpringChance
+IncomingDamageFactor
+
+MedicalTendSpeed
+MedicalTendQuality
+MedicalOperationSpeed
+MedicalSurgerySuccessChance -->
+
+  <RCT_Aesthete.degreeDatas.0.label>естет</RCT_Aesthete.degreeDatas.0.label>
+<RCT_Aesthete.degreeDatas.0.description>[PAWN_nameDef] любить красиві речі і хоче, щоб [PAWN_possessive] оточення виглядало відповідно.</RCT_Aesthete.degreeDatas.0.description>
+
+ <RCT_AnimalLover.degreeDatas.0.label>Тваринний прихильник</RCT_AnimalLover.degreeDatas.0.label>
+  <RCT_AnimalLover.degreeDatas.0.description>[PAWN_nameDef] з любов'ю ставиться до тварин, хоча він не відчуває до людей того ж самого.</RCT_AnimalLover.degreeDatas.0.description>
+  <RCT_AnimalHater.degreeDatas.0.label>ворог тварин</RCT_AnimalHater.degreeDatas.0.label>
+<RCT_AnimalHater.degreeDatas.0.description>[PAWN_nameDef] не переносить тварин. Здається, що тварини теж не дуже люблять його присутність.</RCT_AnimalHater.degreeDatas.0.description>
+
+
+  <!-- <TraitDef>
+		<defName>RCT_Bipolar</defName>
+		<commonality>0.2</commonality>
+		<degreeDatas>
+			<li>
+				<label>біполярний</label>
+<description>[PAWN_nameDef] схильний до екстремальних змін настрою. Коли [PAWN_pronoun] щасливий, він може бути дуже щасливим, але коли [PAWN_pronoun] сумний, його настрій може стати небезпечно депресивним.</description>
+			</li>
+		</degreeDatas>
+		<conflictingTraits>
+			<li>NaturalMood</li>
+		</conflictingTraits>
+	</TraitDef> -->
+
+  <RCT_Builder.degreeDatas.0.label>конструктор</RCT_Builder.degreeDatas.0.label>
+  <RCT_Builder.degreeDatas.0.description>[PAWN_nameDef] любив грати з конструкторами, коли був дитиною, і досі насолоджується процесом "збирання речей разом". Але [PAWN_pronoun] може бути трохи розгубленим без чітких інструкцій.</RCT_Builder.degreeDatas.0.description>
+
+  <RCT_Butcher.degreeDatas.0.label>М'ясник</RCT_Butcher.degreeDatas.0.label>
+  <RCT_Butcher.degreeDatas.0.description>[PAWN_nameDef] любить готувати м'ясо для приготування їжі. Його швидкість розрізання м'яса значно збільшується, але лише якщо [PAWN_pronoun] працює з трупами тварин. З механоїдами [PAWN_pronoun] дуже погано справляється.</RCT_Butcher.degreeDatas.0.description>
+
+<RCT_Claustrophobic.degreeDatas.0.label>Клаустрофоб</RCT_Claustrophobic.degreeDatas.0.label>
+<RCT_Claustrophobic.degreeDatas.0.description>[PAWN_nameDef] боїться замкнутих просторів і тому не є дуже добрим шахтарем.</RCT_Claustrophobic.degreeDatas.0.description>
+
+<RCT_ColdLover.degreeDatas.0.label>Любитель холоду</RCT_ColdLover.degreeDatas.0.label>
+<RCT_ColdLover.degreeDatas.0.description>[PAWN_nameDef] любить холодні температури. [PAWN_pronoun] буде звертати менше уваги на холод, але більше скаржитись на спеку.</RCT_ColdLover.degreeDatas.0.description>
+  <RCT_DeepSleeper.degreeDatas.0.label>Кріпкий сон</RCT_DeepSleeper.degreeDatas.0.label>
+<RCT_DeepSleeper.degreeDatas.0.description>[PAWN_nameDef] проспить будь-що.</RCT_DeepSleeper.degreeDatas.0.description>
+
+  <RCT_Dunce.degreeDatas.0.label>Недоумок</RCT_Dunce.degreeDatas.0.label>
+<RCT_Dunce.degreeDatas.0.description>[PAWN_nameDef] трохи не дуже розумний і тому навчається повільніше, ніж інші.</RCT_Dunce.degreeDatas.0.description>
+
+ <RCT_Gourmet.degreeDatas.0.label>Гурман</RCT_Gourmet.degreeDatas.0.label>
+<RCT_Gourmet.degreeDatas.0.description>[PAWN_nameDef] любить готувати їжу. [PAWN_possessive] страви добрі на смак, але [PAWN_pronoun] витрачає багато часу на приготування, щоб все було "як треба".</RCT_Gourmet.degreeDatas.0.description>
+
+<RCT_HeatLover.degreeDatas.0.label>Любитель тепла</RCT_HeatLover.degreeDatas.0.label>
+<RCT_HeatLover.degreeDatas.0.description>[PAWN_nameDef] любить теплу погоду. [PAWN_pronoun] менш звертає увагу на тепло, але більше скаржиться на холод.</RCT_HeatLover.degreeDatas.0.description>
+
+<RCT_Aptitude.degreeDatas.0.label>Погана координація</RCT_Aptitude.degreeDatas.0.label>
+<RCT_Aptitude.degreeDatas.0.description>Хоча [PAWN_nameDef] має добрі наміри, [PAWN_pronoun] має погану координацію, тому будь-яка кваліфікована робота для [PAWN_nameDef] завжди закінчується невдачею.</RCT_Aptitude.degreeDatas.0.description>
+<RCT_Aptitude.degreeDatas.1.label>Добра координація</RCT_Aptitude.degreeDatas.1.label>
+<RCT_Aptitude.degreeDatas.1.description>Усі рухи [PAWN_nameDef] надзвичайно скоординовані, і будь-яка кваліфікована робота завжди виходить ідеально.</RCT_Aptitude.degreeDatas.1.description>
+  <RCT_PainThreshold.degreeDatas.0.label>непереможний</RCT_PainThreshold.degreeDatas.0.label>
+  <RCT_PainThreshold.degreeDatas.0.description>[PAWN_nameDef] має надзвичайну стійкість і не може бути зупинений/зупинена.</RCT_PainThreshold.degreeDatas.0.description>
+  <RCT_PainThreshold.degreeDatas.1.label>залізна воля</RCT_PainThreshold.degreeDatas.1.label>
+  <RCT_PainThreshold.degreeDatas.1.description>[PAWN_nameDef] має високу терпимість до болю.</RCT_PainThreshold.degreeDatas.1.description>
+  <RCT_PainThreshold.degreeDatas.2.label>низька терпимість до болю</RCT_PainThreshold.degreeDatas.2.label>
+  <RCT_PainThreshold.degreeDatas.2.description>[PAWN_nameDef] буде швидше паралізований болем, ніж більшість людей.</RCT_PainThreshold.degreeDatas.2.description>
+
+  <RCT_Inventor.degreeDatas.0.label>винахідник</RCT_Inventor.degreeDatas.0.label>
+<RCT_Inventor.degreeDatas.0.description>У голові [PAWN_nameDef] з'являються дуже дивні ідеї. [PAWN_objective] легко вивчає нові технології, але [PAWN_pronoun] постійно витає у хмарах.</RCT_Inventor.degreeDatas.0.description>
+
+  <RCT_Eyesight.degreeDatas.0.label>Порушення краніального нерва</RCT_Eyesight.degreeDatas.0.label>
+  <RCT_Eyesight.degreeDatas.0.description>[PAWN_nameDef] має проблеми зі зором і бачить речі нечітко, якщо вони не знаходяться прямо перед ним.</RCT_Eyesight.degreeDatas.0.description>
+  <RCT_Eyesight.degreeDatas.1.label>соколиний зір</RCT_Eyesight.degreeDatas.1.label>
+  <RCT_Eyesight.degreeDatas.1.description>[PAWN_nameDef] має гострий зір і швидко може помітити цілі.</RCT_Eyesight.degreeDatas.1.description>
+
+  <RCT_NeatFreak.degreeDatas.0.label>маніяк чистоти</RCT_NeatFreak.degreeDatas.0.label>
+  <RCT_NeatFreak.degreeDatas.0.description>[PAWN_nameDef] надто прискіпливий(-а) у питаннях чистоти та порядку.</RCT_NeatFreak.degreeDatas.0.description>
+
+  <RCT_EatingSpeed.degreeDatas.0.label>Вибагливий до їжі</RCT_EatingSpeed.degreeDatas.0.label>
+<RCT_EatingSpeed.degreeDatas.0.description>[PAWN_nameDef] не поспішає з їжею, [PAWN_pronoun] витрачає більше часу на прийом їжі.</RCT_EatingSpeed.degreeDatas.0.description>
+  <RCT_EatingSpeed.degreeDatas.1.label>любитель їжі</RCT_EatingSpeed.degreeDatas.1.label>
+  <RCT_EatingSpeed.degreeDatas.1.description>[PAWN_nameDef] швидко з'їдає їжу порівняно з іншими.</RCT_EatingSpeed.degreeDatas.1.description>
+
+  <RCT_Nyctophobe.degreeDatas.0.label>никтофоб</RCT_Nyctophobe.degreeDatas.0.label>
+<RCT_Nyctophobe.degreeDatas.0.description>[PAWN_nameDef] боїться темряви.</RCT_Nyctophobe.degreeDatas.0.description>
+<RCT_Nyctophobe.degreeDatas.1.label>никтофіл</RCT_Nyctophobe.degreeDatas.1.label>
+<RCT_Nyctophobe.degreeDatas.1.description>[PAWN_nameDef] зовсім не боїться темряви.</RCT_Nyctophobe.degreeDatas.1.description>
+
+  <RCT_Perfectionist.degreeDatas.0.label>Перфекціоніст</RCT_Perfectionist.degreeDatas.0.label>
+<RCT_Perfectionist.degreeDatas.0.description>[PAWN_nameDef] хоче, щоб все, що [PAWN_pronoun] робить, було ідеальним, і не важливо, скільки це займе часу. [PAWN_nameDef] має низькі шанси на провал, коли [PAWN_pronoun] щось робить, але працює повільно.</RCT_Perfectionist.degreeDatas.0.description>
+
+<RCT_Medic.degreeDatas.0.label>Поганий лікар</RCT_Medic.degreeDatas.0.label>
+<RCT_Medic.degreeDatas.0.description>Навіть якщо у людини є чисті наміри, це не означає, що він стане хорошим лікарем. [PAWN_nameDef] саме з таких людей.</RCT_Medic.degreeDatas.0.description>
+<RCT_Medic.degreeDatas.1.label>Кваліфікований лікар</RCT_Medic.degreeDatas.1.label>
+<RCT_Medic.degreeDatas.1.description>У [PAWN_nameDef] є гарні навички в медицині. Пацієнти під [PAWN_possessive] крилом нічого не загрожує.</RCT_Medic.degreeDatas.1.description>
+<RCT_Medic.degreeDatas.2.label>Чудовий лікар</RCT_Medic.degreeDatas.2.label>
+<RCT_Medic.degreeDatas.2.description>У [PAWN_nameDef] талант до медицини. Пацієнти під [PAWN_possessive] крилом не можуть взагалі нічого не боятися.</RCT_Medic.degreeDatas.2.description>
+
+  <RCT_Rockhound.degreeDatas.0.label>Геолог</RCT_Rockhound.degreeDatas.0.label>
+<RCT_Rockhound.degreeDatas.0.description>[PAWN_nameDef] любить працювати з каменем. [PAWN_possessive] швидкість роботи з гірською сировиною висока, але [PAWN_possessive] нецікавість у інших сферах діяльності сповільнює [PAWN_objective] роботу над іншими завданнями. Крім того, [PAWN_pronoun] ненавидить працювати з квітами.</RCT_Rockhound.degreeDatas.0.description>
+
+<RCT_Savant.degreeDatas.0.label>Савант</RCT_Savant.degreeDatas.0.label>
+<RCT_Savant.degreeDatas.0.description>[PAWN_nameDef] можна назвати сучасним Да Вінчі, з творчим розумом, який може здійснювати нові ідеї майже без зусиль. Але [PAWN_possessive] швидкість фізичної праці жахливо низька.</RCT_Savant.degreeDatas.0.description>
+
+<RCT_decentlearner.degreeDatas.0.label>Швидко навчається</RCT_decentlearner.degreeDatas.0.label>
+<RCT_decentlearner.degreeDatas.0.description>[PAWN_nameDef] завжди швидко вивчав(-ла) нові навички.</RCT_decentlearner.degreeDatas.0.description>
+
+<RCT_Trader.degreeDatas.0.label>Посередній торговець</RCT_Trader.degreeDatas.0.label>
+<RCT_Trader.degreeDatas.0.description>[PAWN_nameDef] не вміє торгуватися, і тому його завжди обманюють під час торгівлі. [PAWN_pronoun] завжди платить більше, ніж потрібно, при цьому думаючи, що [PAWN_pronoun] робить хорошу угоду.</RCT_Trader.degreeDatas.0.description>
+<RCT_Trader.degreeDatas.1.label>Торговець</RCT_Trader.degreeDatas.1.label>
+<RCT_Trader.degreeDatas.1.description>[PAWN_nameDef] любить торгуватися, і у нього це непогано виходить. [PAWN_pronoun] отримує кращі ціни у торговців.</RCT_Trader.degreeDatas.1.description>
+  <RCT_Trader.degreeDatas.2.label>хороший торговец</RCT_Trader.degreeDatas.2.label>
+<RCT_Trader.degreeDatas.2.description>[PAWN_nameDef] завжди отримує кращі угоди.</RCT_Trader.degreeDatas.2.description>
+
+<ShootingAccuracy.degreeDatas.0.label>аккуратний стрілець</ShootingAccuracy.degreeDatas.0.label>
+<ShootingAccuracy.degreeDatas.0.description>[PAWN_nameDef] витрачає більше часу на прицілювання під час стрільби. [PAWN_pronoun] стріляє рідше, але точніше.</ShootingAccuracy.degreeDatas.0.description>
+
+<ShootingAccuracy.degreeDatas.1.label>безтурботний стрілець</ShootingAccuracy.degreeDatas.1.label>
+<ShootingAccuracy.degreeDatas.1.description>Pew! Pew! Pew! [PAWN_nameDef] любить натискати на курок. [PAWN_pronoun] стріляє швидше, але страждає точність.</ShootingAccuracy.degreeDatas.1.description>
+
+<ShootingAccuracy.degreeDatas.2.label>вправний стрілець</ShootingAccuracy.degreeDatas.2.label>
+<ShootingAccuracy.degreeDatas.2.description>[PAWN_nameDef] вміє обходитись зі зброєю, стріляє швидше та точніше.</ShootingAccuracy.degreeDatas.2.description>
+
+  <RCT_Diplomat.degreeDatas.0.label>неотесаність</RCT_Diplomat.degreeDatas.0.label>
+<RCT_Diplomat.degreeDatas.0.description>Тонкість? Дипломатія? [PAWN_nameDef] не знайомі з такими словами.</RCT_Diplomat.degreeDatas.0.description>
+<RCT_Diplomat.degreeDatas.1.label>дипломат</RCT_Diplomat.degreeDatas.1.label>
+<RCT_Diplomat.degreeDatas.1.description>[PAWN_nameDef] вміє змащувати колеса дипломатії.</RCT_Diplomat.degreeDatas.1.description>
+<RCT_Diplomat.degreeDatas.2.label>добрий дипломат</RCT_Diplomat.degreeDatas.2.label>
+<RCT_Diplomat.degreeDatas.2.description>[PAWN_nameDef] так жонглює словами, що у нього завжди виходить розладити напружену обстановку. [PAWN_pronoun] може говорити годинами, і людям навколо не буде нудно.</RCT_Diplomat.degreeDatas.2.description>
+
+  <RCT_Constitution.degreeDatas.0.label>слабкий організм</RCT_Constitution.degreeDatas.0.label>
+<RCT_Constitution.degreeDatas.0.description>[PAWN_nameDef] особливо вразливий(-а) до хвороб, хвороботворних мікроорганізмів та токсичних осадів.</RCT_Constitution.degreeDatas.0.description>
+<RCT_Constitution.degreeDatas.1.label>сильний організм</RCT_Constitution.degreeDatas.1.label>
+<RCT_Constitution.degreeDatas.1.description>Тіло [PAWN_nameDef] має велику стійкість до хвороб, хвороботворних мікроорганізмів та токсичних осадів.</RCT_Constitution.degreeDatas.1.description>
+
+<RCT_BrownThumb.degreeDatas.0.label>поганий садівник</RCT_BrownThumb.degreeDatas.0.label>
+<RCT_BrownThumb.degreeDatas.0.description>[PAWN_nameDef] жахливий садівник. Єдине, що [PAWN_pronoun] може вирощувати - наркотики.</RCT_BrownThumb.degreeDatas.0.description>
+
+<RCT_GreenThumb.degreeDatas.0.label>добрий садівник</RCT_GreenThumb.degreeDatas.0.label>
+<RCT_GreenThumb.degreeDatas.0.description>[PAWN_nameDef] відмінний садівник. [PAWN_pronoun] хоче, щоб світ був зеленішим.</RCT_GreenThumb.degreeDatas.0.description>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Traits/Traits6.xml-->
+<!-- committed -->
+<SP_Committed.label>зобов'язаний</SP_Committed.label>
+<!-- привабливий -->
+<SP_Engaging.label>привабливий</SP_Engaging.label>
+<!-- відповідальний -->
+<SP_Responsible.label>відповідальний</SP_Responsible.label>
+<!-- тривожний -->
+<SP_Anxious.label>тривожний</SP_Anxious.label>
+<!-- підозрілий -->
+<SP_Suspicious.label>підозрілий</SP_Suspicious.label>
+<!-- сумніваючийся -->
+<SP_Doubtful.label>сумніваючийся</SP_Doubtful.label>
+<!-- незаспокоєний -->
+<SP_Restless.label>незаспокоєний</SP_Restless.label>
+<!-- параноїдальний -->
+<SP_Paranoid.label>параноїдальний</SP_Paranoid.label>
+</LanguageData>

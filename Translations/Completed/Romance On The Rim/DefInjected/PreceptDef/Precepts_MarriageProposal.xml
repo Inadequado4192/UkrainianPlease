@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<LanguageData>
+<RomanceOnTheRim_MarriageProposal_Arranged.label>За згодою суспільства</RomanceOnTheRim_MarriageProposal_Arranged.label>
+<RomanceOnTheRim_MarriageProposal_Arranged.description>Шлюб може бути вирішений лише всім суспільством.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Природний шанс зробити пропозицію руки і серця\n - Ви можете безпосередньо контролювати шлюб.</RomanceOnTheRim_MarriageProposal_Arranged.description>
+<RomanceOnTheRim_MarriageProposal_Forbidden.label>Заборонено</RomanceOnTheRim_MarriageProposal_Forbidden.label>
+<RomanceOnTheRim_MarriageProposal_Forbidden.description>Шлюб — могила кохання.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n  - Природний шанс зробити пропозицію руки і серця.</RomanceOnTheRim_MarriageProposal_Forbidden.description>
+<RomanceOnTheRim_MarriageProposal_FlashMarriage.label>Миттєвий</RomanceOnTheRim_MarriageProposal_FlashMarriage.label>
+<RomanceOnTheRim_MarriageProposal_FlashMarriage.description>Якщо твоя схильність до кохання буде благородною, а твоя мета - шлюб, дай мені знати завтра.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Шанс зробити пропозицію руки і серця +50%</RomanceOnTheRim_MarriageProposal_FlashMarriage.description>
+<RomanceOnTheRim_MarriageProposal_LateMarriage.label>Розсудливий</RomanceOnTheRim_MarriageProposal_LateMarriage.label>
+<RomanceOnTheRim_MarriageProposal_LateMarriage.description>Я все ще чекаю єдину в світі.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Шанс зробити пропозицію руки і серця -50%</RomanceOnTheRim_MarriageProposal_LateMarriage.description>
+
+</LanguageData>

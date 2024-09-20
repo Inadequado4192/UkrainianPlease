@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Inadequado4192/UkrainianPlease/master/Translations/Scheme.xsd">
+    <originalMod>
+        <name>1-2-3 Personalities M2</name>
+        <id>2781023972</id>
+        <packageId>hahkethomemah.simplepersonalities.module2</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>AntiJaoi</nickname>
+            <steamId>76561198066973088</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>2953950435</sourceTranslationId>
+    <lastUpdate>2023-03-28T15:43:11.000Z</lastUpdate>
+</TranslationDetails>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Traits/Traits9.xml-->
+<SP_Easygoing.label>легкомисливий</SP_Easygoing.label>
+<!-- self-effacing -->
+<SP_Self-effacing.label>скромний</SP_Self-effacing.label>
+<!-- заспокійливий -->
+<SP_Comforting.label>утишаючий</SP_Comforting.label>
+<!-- reassuring -->
+<SP_Reassuring.label>підтримуючий</SP_Reassuring.label>
+<!-- agreeable -->
+<SP_Agreeable.label>приємний</SP_Agreeable.label>
+<!-- complacent -->
+<SP_Complacent.label>задоволений собою</SP_Complacent.label>
+<!-- patient -->
+<SP_Patient.label>терплячий</SP_Patient.label>
+<!-- методичний -->
+<SP_Methodical.label>методичний</SP_Methodical.label>
+</LanguageData>

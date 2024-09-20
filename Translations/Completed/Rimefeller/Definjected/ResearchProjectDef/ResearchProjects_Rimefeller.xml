@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<OilDrilling.label>Видобуток нафти</OilDrilling.label>
+<OilDrilling.description>Видобуток нафти з підземних джерел</OilDrilling.description>
+
+<DeepOilWells.label>Глибокий видобуток</DeepOilWells.label>
+<DeepOilWells.description>Буріння глибоких свердловин відкриває доступ до нових нафтових родовищ</DeepOilWells.description>
+
+<ChemfuelRefining.label>Переробка на хімічні палива</ChemfuelRefining.label>
+<ChemfuelRefining.description>Розбивання нафти на хімічне паливо, яке потім дистилюється в спеціальний бак</ChemfuelRefining.description>
+
+<NeutroamineProduction.label>Нейтроамін</NeutroamineProduction.label>
+<NeutroamineProduction.description>Переробка хімічного палива на нейтроамін, речовину, що використовується для виробництва ліків</NeutroamineProduction.description>
+
+<SynthyleneProduction.label>Синтелен</SynthyleneProduction.label>
+<SynthyleneProduction.description>Переробка хімічного палива на синтелен, дешевий будівельний матеріал у різних кольорах</SynthyleneProduction.description>
+
+<Napalm.label>Напальм</Napalm.label>
+<Napalm.description>Надзвичайно горюча і липка речовина, яка використовується для виробництва запальних бомб. Складається з хімічного палива, змішаного з синтеленом.</Napalm.description>
+
+<ArtificialFloors.label>Штучні підлоги</ArtificialFloors.label>
+<ArtificialFloors.description>Виробництво різних напольних покриттів з синтелену</ArtificialFloors.description>
+
+<SynthyleneComponents.label>Компоненти синтелену</SynthyleneComponents.label>
+<SynthyleneComponents.description>Збереження сталі шляхом додавання Sintelen до виробництва компонентів</SynthyleneComponents.description>
+
+<SynthyleneAdvComponents.label>Синтетичні високотехнологічні компоненти</SynthyleneAdvComponents.label>
+<SynthyleneAdvComponents.description>Збереження сталі шляхом додавання Sintelen до виробництва високотехнологічних компонентів</SynthyleneAdvComponents.description>
+
+<SynthreadProduction.label>Синтетика</SynthreadProduction.label>
+<SynthreadProduction.description>Перетворення хімічних палив на синтетичні матеріали</SynthreadProduction.description>
+
+<SynthamideProduction.label>Синтамід</SynthamideProduction.label>
+<SynthamideProduction.description>Виготовлення синтетичного волокна синтаміду, яке можна використовувати для шиття міцного та термостійкого одягу</SynthamideProduction.description>
+
+<SynthamideCompositeProduction.label>Синтетичний полімер синтаміду</SynthamideCompositeProduction.label>
+<SynthamideCompositeProduction.description>Виробництво легкого, вогнетривкого та міцного полімерного матеріалу на космічному рівні, зробленого за допомогою тканих матриць з Sintelen та вбудованих волокон синтетичного синтаміду.</SynthamideCompositeProduction.description>
+<SynthamideCompositeProduction.discoveredLetterTitle>Синтетичний полімер синтаміду</SynthamideCompositeProduction.discoveredLetterTitle>
+<SynthamideCompositeProduction.discoveredLetterText>Тепер ви можете виготовляти синтетичний полімер синтаміду! Переконайтеся, що у вас є побудований автоклав перед тим, як починати. Спочатку вам потрібно створити сировинний полімер на високоточній машині, а потім завантажити його в автоклав та перемкнути на режим обробки сировинного полімеру, якщо цього ще не зроблено. Процес запуститься автоматично після постачання матеріалів.</SynthamideCompositeProduction.discoveredLetterText>
+
+<PlasteelProduction.label>Пласталь</PlasteelProduction.label>
+<PlasteelProduction.description>Відкрийте таємниці виробництва Пласталі та створіть її самостійно</PlasteelProduction.description>
+<PlasteelProduction.discoveredLetterTitle>Пластал</PlasteelProduction.discoveredLetterTitle>
+<PlasteelProduction.discoveredLetterText>Тепер ви можете створити Пластал! Переконайтеся, що у вас є автоклав перед початком. Спочатку вам потрібно створити сировину для Пласталу на точній машині, а потім завантажити її до автоклаву та перемкнути його в режим сировини для Пласталі, якщо цього ще не зроблено. Процес розпочнеться автоматично після подачі матеріалів.</PlasteelProduction.discoveredLetterText>
+
+<HyperweaveProduction.label>Гіпертканина</HyperweaveProduction.label>
+<HyperweaveProduction.description>Відкрийте таємниці виробництва гіпер-тканини та створіть її самостійно</HyperweaveProduction.description>
+
+
+
+
+</LanguageData>

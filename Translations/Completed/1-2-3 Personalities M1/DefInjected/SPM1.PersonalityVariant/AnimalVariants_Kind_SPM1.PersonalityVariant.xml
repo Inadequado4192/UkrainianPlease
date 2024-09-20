@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Variants/AnimalVariants_Kind.xml-->
+<!-- good {0} -->
+<SP_Animal_GoodBoy.label>хороший  {0}</SP_Animal_GoodBoy.label>
+<!-- hugger -->
+<SP_Animal_Hugger.label>обнімальник</SP_Animal_Hugger.label>
+<!-- pack leader -->
+<SP_Animal_PackLeader.label>ватажок зграї</SP_Animal_PackLeader.label>
+<!-- man's best friend -->
+<SP_Animal_BestFriend.label>найкращий друг людини</SP_Animal_BestFriend.label>
+<!-- snuggler -->
+<SP_Animal_Snuggler.label>обнімашка</SP_Animal_Snuggler.label>
+<!-- floof -->
+<SP_Animal_Floof.label>пухнастик</SP_Animal_Floof.label>
+<!-- poop producer -->
+<SP_Animal_PoopProducer.label>виробник какашок</SP_Animal_PoopProducer.label>
+<!-- yelper -->
+<SP_Animal_Yelper.label>гучний</SP_Animal_Yelper.label>
+<!-- alpha {0} -->
+<SP_Animal_Alpha.label>альфа {0}</SP_Animal_Alpha.label>
+<!-- toy hoarder -->
+<SP_Animal_ToyHoarder.label>колекціонер іграшок</SP_Animal_ToyHoarder.label>
+<!-- joyful dirt carrier -->
+<SP_Animal_DirtCarrier.label>веселий сміттєвоз</SP_Animal_DirtCarrier.label>
+<!-- exhibiton veteran -->
+<SP_Animal_ExhibitionVeteran.label>ветеран виставки</SP_Animal_ExhibitionVeteran.label>
+<!-- fondling -->
+<SP_Animal_Fondling.label>ласкотун</SP_Animal_Fondling.label>
+<!-- goodest {0} -->
+<SP_Animal_GoodestBoy.label>найкращий  {0}</SP_Animal_GoodestBoy.label>
+<!-- runt -->
+<SP_Animal_Runt.label>карлик</SP_Animal_Runt.label>
+<!-- cutie pie -->
+<SP_Animal_CutiePie.label>милий пиріжок</SP_Animal_CutiePie.label>
+<!-- cuteness overload -->
+<SP_Animal_CutenessOverload.label>перевищення  милості ERROR...</SP_Animal_CutenessOverload.label>
+<!-- slipper bringer -->
+<SP_Animal_SlipperBringer.label>приношувач капців</SP_Animal_SlipperBringer.label>
+<!-- loyal one -->
+<SP_Animal_LoyalOne.label>вірний</SP_Animal_LoyalOne.label>
+<!-- face licker -->
+<SP_Animal_FaceLicker.label>лизун обличчя</SP_Animal_FaceLicker.label>
+</LanguageData>

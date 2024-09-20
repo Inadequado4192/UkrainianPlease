@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Common/Defs/IncidentDefs/Incidents_Map_Arrivals.xml-->
+                                  <!-- trader shuttle arrival -->
+<Spaceports_TraderShuttleArrival.label>прибуття шатла трейдера</Spaceports_TraderShuttleArrival.label>
+                                   <!-- visitor shuttle arrival -->
+<Spaceports_VisitorShuttleArrival.label>прибуття шатла для відвідувачів</Spaceports_VisitorShuttleArrival.label>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Spaceports_KesslerSyndrome.label>Синдром Кесслера</Spaceports_KesslerSyndrome.label>
+<Spaceports_KesslerSyndrome.description>Каскад уламків прочісує місцеву орбіту-простір. Всі подорожі шатлів стали неможливими.</Spaceports_KesslerSyndrome.description>
+<Spaceports_KesslerSyndrome.endMessage>Каскад уламків осів.</Spaceports_KesslerSyndrome.endMessage>
+<Spaceports_KesslerSyndrome.letterText>Ви щойно отримали широкосмугове попередження про масивний поточний каскад уламків у межах локальної орбіти планети. \Ймовірно, каскад був запущений багато років тому внаслідок дивного зіткнення, але нещодавно він досяг критичної маси - і тепер занедбані супутники і космічні кораблі, що пролежали там тисячі років, повертаються додому. Всі польоти шатлів стали неможливими, доки каскад не припиниться і атмосферне тертя не очистить основні транзитні зони. У попередженні сказано, що це може зайняти від сезону до року.</Spaceports_KesslerSyndrome.letterText>
+</LanguageData>

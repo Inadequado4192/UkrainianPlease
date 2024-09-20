@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Human Description Stack.xml-->
+                                   <!-- Grammar -->
+<SP_HumanStack.branches.0.leaves.0.type>Grammar</SP_HumanStack.branches.0.leaves.0.type>
+                                   <!-- NewLine -->
+<SP_HumanStack.branches.0.leaves.1.type>NewLine</SP_HumanStack.branches.0.leaves.1.type>
+                                   <!-- NewLine -->
+<SP_HumanStack.branches.0.leaves.2.type>NewLine</SP_HumanStack.branches.0.leaves.2.type>
+                                   <!-- Grammar -->
+<SP_HumanStack.branches.0.leaves.3.type>Grammar</SP_HumanStack.branches.0.leaves.3.type>
+                                   <!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.0.type>Grammar</SP_HumanStack.branches.1.leaves.0.type>
+                                   <!-- NewLine -->
+<SP_HumanStack.branches.1.leaves.1.type>NewLine</SP_HumanStack.branches.1.leaves.1.type>
+                                   <!-- NewLine -->
+<SP_HumanStack.branches.1.leaves.2.type>NewLine</SP_HumanStack.branches.1.leaves.2.type>
+                                   <!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.3.type>Grammar</SP_HumanStack.branches.1.leaves.3.type>
+                                   <!-- Space -->
+<SP_HumanStack.branches.1.leaves.4.type>Space</SP_HumanStack.branches.1.leaves.4.type>
+                                   <!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.5.type>Grammar</SP_HumanStack.branches.1.leaves.5.type>
+                                   <!-- Space -->
+<SP_HumanStack.branches.1.leaves.6.type>Space</SP_HumanStack.branches.1.leaves.6.type>
+                                   <!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.7.type>Grammar</SP_HumanStack.branches.1.leaves.7.type>
+
+
+<!--/Defs/Human Description Stack.xml-->
+<!-- Grammar -->
+<SP_HumanStack.branches.0.leaves.0.type>Grammar</SP_HumanStack.branches.0.leaves.0.type>
+<!-- NewLine -->
+<SP_HumanStack.branches.0.leaves.1.type>NewLine</SP_HumanStack.branches.0.leaves.1.type>
+<!-- NewLine -->
+<SP_HumanStack.branches.0.leaves.2.type>NewLine</SP_HumanStack.branches.0.leaves.2.type>
+<!-- Grammar -->
+<SP_HumanStack.branches.0.leaves.3.type>Grammar</SP_HumanStack.branches.0.leaves.3.type>
+<!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.0.type>Grammar</SP_HumanStack.branches.1.leaves.0.type>
+<!-- NewLine -->
+<SP_HumanStack.branches.1.leaves.1.type>NewLine</SP_HumanStack.branches.1.leaves.1.type>
+<!-- NewLine -->
+<SP_HumanStack.branches.1.leaves.2.type>NewLine</SP_HumanStack.branches.1.leaves.2.type>
+<!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.3.type>Grammar</SP_HumanStack.branches.1.leaves.3.type>
+<!-- Space -->
+<SP_HumanStack.branches.1.leaves.4.type>Space</SP_HumanStack.branches.1.leaves.4.type>
+<!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.5.type>Grammar</SP_HumanStack.branches.1.leaves.5.type>
+<!-- Space -->
+<SP_HumanStack.branches.1.leaves.6.type>Space</SP_HumanStack.branches.1.leaves.6.type>
+<!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.7.type>Grammar</SP_HumanStack.branches.1.leaves.7.type>
+
+
+<!--/Defs/Human Description Stack.xml-->
+<!-- Grammar -->
+<SP_HumanStack.branches.0.leaves.0.type>Grammar</SP_HumanStack.branches.0.leaves.0.type>
+<!-- NewLine -->
+<SP_HumanStack.branches.0.leaves.1.type>NewLine</SP_HumanStack.branches.0.leaves.1.type>
+<!-- NewLine -->
+<SP_HumanStack.branches.0.leaves.2.type>NewLine</SP_HumanStack.branches.0.leaves.2.type>
+<!-- Grammar -->
+<SP_HumanStack.branches.0.leaves.3.type>Grammar</SP_HumanStack.branches.0.leaves.3.type>
+<!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.0.type>Grammar</SP_HumanStack.branches.1.leaves.0.type>
+<!-- NewLine -->
+<SP_HumanStack.branches.1.leaves.1.type>NewLine</SP_HumanStack.branches.1.leaves.1.type>
+<!-- NewLine -->
+<SP_HumanStack.branches.1.leaves.2.type>NewLine</SP_HumanStack.branches.1.leaves.2.type>
+<!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.3.type>Grammar</SP_HumanStack.branches.1.leaves.3.type>
+<!-- Space -->
+<SP_HumanStack.branches.1.leaves.4.type>Space</SP_HumanStack.branches.1.leaves.4.type>
+<!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.5.type>Grammar</SP_HumanStack.branches.1.leaves.5.type>
+<!-- Space -->
+<SP_HumanStack.branches.1.leaves.6.type>Space</SP_HumanStack.branches.1.leaves.6.type>
+<!-- Grammar -->
+<SP_HumanStack.branches.1.leaves.7.type>Grammar</SP_HumanStack.branches.1.leaves.7.type>
+
+</LanguageData>

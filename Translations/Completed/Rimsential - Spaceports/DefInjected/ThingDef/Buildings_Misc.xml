@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Spaceports_VisitorSpot.label>місце для відвідувачів космодрому</Spaceports_VisitorSpot.label>
+<Spaceports_VisitorSpot.description>Визначає місце, яке можна налаштувати для перебування відвідувачів космодрому.\n\nВідвідувачі космодрому, які прибувають, обирають найближче допустиме місце до посадкового майданчика або місця посадки шатла; якщо не знайдено жодного допустимого місця, вони затримуються навколо свого шатла. На одному місці можуть перебувати одночасно декілька груп.</Spaceports_VisitorSpot.description>
+<Spaceports_Beacon.label>маяк космодрому</Spaceports_Beacon.label>
+<Spaceports_Beacon.description>Комбінований передавач глибокого поля і надгоризонтна радіолокаційна станція, що використовується по всьому кільцю для трансляції інформації про наявність і доступність космодрому.</Spaceports_Beacon.description>
+</LanguageData>

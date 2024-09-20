@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Variants/AnimalVariants_Intense.xml-->
+<!-- bad {0} -->
+<SP_Animal_BadBoy.label>поганий хлопчина {0}</SP_Animal_BadBoy.label>
+<SP_Animal_Mischief.label>хуліганство</SP_Animal_Mischief.label>
+<SP_Animal_FussyEater.label>вибагливий їстів</SP_Animal_FussyEater.label>
+<SP_Animal_Bully.label>булі</SP_Animal_Bully.label>
+<SP_Animal_HouseplantEater.label>їсть кімнатні рослини</SP_Animal_HouseplantEater.label>
+<SP_Animal_ShoeGnawer.label>гризе взуття</SP_Animal_ShoeGnawer.label>
+<SP_Animal_TerritorialWarlord.label>територіальний володар</SP_Animal_TerritorialWarlord.label>
+<SP_Animal_BarkingEnthusiast.label>любитель гавкати</SP_Animal_BarkingEnthusiast.label>
+<SP_Animal_FeetBiter.label>кусає ноги</SP_Animal_FeetBiter.label>
+<SP_Animal_NeighbourChaser.label>переслідує сусідів</SP_Animal_NeighbourChaser.label>
+<SP_Animal_GreedyFetcher.label>жадібний апорт</SP_Animal_GreedyFetcher.label>
+<SP_Animal_PerpetualSnarler.label>постійно гарчить</SP_Animal_PerpetualSnarler.label>
+<SP_Animal_FancyPurebred.label>елітний порідний</SP_Animal_FancyPurebred.label>
+<SP_Animal_MoodyDiva.label>настроєва діва</SP_Animal_MoodyDiva.label>
+<SP_Animal_Rascal.label>баламут</SP_Animal_Rascal.label>
+<SP_Animal_Stalker.label>сталкер</SP_Animal_Stalker.label>
+<SP_Animal_SpoiledPup.label>розбещений цуценя</SP_Animal_SpoiledPup.label>
+<SP_Animal_MailmansNightmare.label>кошмар поштальйона</SP_Animal_MailmansNightmare.label>
+<SP_Animal_ExtremeHorndog.label>надмірний пес-донор</SP_Animal_ExtremeHorndog.label>
+<SP_Animal_Whirlwind.label>вихор руйнування</SP_Animal_Whirlwind.label>
+<SP_Animal_Sexual.label>небезпечний для інших тварин</SP_Animal_Sexual.label>
+</LanguageData>

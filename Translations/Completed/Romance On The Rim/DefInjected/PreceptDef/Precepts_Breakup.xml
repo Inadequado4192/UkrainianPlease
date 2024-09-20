@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<LanguageData>
+<RomanceOnTheRim_Breakup_Arranged.label>З дозволу суспільства</RomanceOnTheRim_Breakup_Arranged.label>
+<RomanceOnTheRim_Breakup_Arranged.description>Люди ніколи не повинні розлучатись зі своїми коханими без дозволу суспільства.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Ви можете контролювати розлучення напряму.</RomanceOnTheRim_Breakup_Arranged.description>
+<RomanceOnTheRim_Breakup_Forbidden.label>Заборонено</RomanceOnTheRim_Breakup_Forbidden.label>
+<RomanceOnTheRim_Breakup_Forbidden.description>Люди ніколи не повинні розлучатись со своїми коханими.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Штучний шанс розлучення</RomanceOnTheRim_Breakup_Forbidden.description>
+<RomanceOnTheRim_Breakup_Discouraged.label>Не рекомендується</RomanceOnTheRim_Breakup_Discouraged.label>
+<RomanceOnTheRim_Breakup_Discouraged.description>Люди не повинні розлучатись со своїми коханими у більшості випадків.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Штучний шанс розлучення -50%</RomanceOnTheRim_Breakup_Discouraged.description>
+<RomanceOnTheRim_Breakup_Encouraged.label>Дозволено</RomanceOnTheRim_Breakup_Encouraged.label>
+<RomanceOnTheRim_Breakup_Encouraged.description>Люди повинні мати право свободно розлучатись зі своїми коханими.\n\n&lt;color=#E5E54C&gt;Ефект:&lt;/color&gt;\n - Штучний шанс розлучення +50%</RomanceOnTheRim_Breakup_Encouraged.description>
+</LanguageData>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Defs/TraitDefs/RT_Traits_General_Traits_Rare.xml-->
+                          <!-- gifted -->
+<RT_Gifted.degreeDatas.0.label>одарований</RT_Gifted.degreeDatas.0.label>
+<!-- [PAWN_nameDef] має природний талант і випереджає всіх інших. -->
+<RT_Gifted.degreeDatas.0.description>{PAWN_nameDef} {PAWN_gender ? має талант : має талант} від природи, {PAWN_pronoun} має перевагу перед усіма іншими.</RT_Gifted.degreeDatas.0.description>
+<!-- gifted -->
+<RT_Gifted.degreeDatas.0.labelFemale>одарована</RT_Gifted.degreeDatas.0.labelFemale>
+<!-- incompetent -->
+<RT_Incompetent.degreeDatas.0.label>некомпетентний</RT_Incompetent.degreeDatas.0.label>
+<!-- [PAWN_nameDef] це той, кого всі люблять ненавидіти. -->
+<RT_Incompetent.degreeDatas.0.description>{PAWN_nameDef} — це {PAWN_gender ? той : та}, кого всі люблять ненавидіти.</RT_Incompetent.degreeDatas.0.description>
+<!-- incompetent -->
+<RT_Incompetent.degreeDatas.0.labelFemale>некомпетентна</RT_Incompetent.degreeDatas.0.labelFemale>
+<!-- patient cook -->
+<RT_PatientCook.degreeDatas.0.label>дбайливий кухар</RT_PatientCook.degreeDatas.0.label>
+<!-- [PAWN_nameDef] дуже турбується про приготування їжі, {PAWN_pronoun} ніколи не пропускає жодного кроку. -->
+<RT_PatientCook.degreeDatas.0.description>{PAWN_nameDef} дуже турбується про приготування їжі, {PAWN_pronoun} ніколи не пропускає жодного кроку.</RT_PatientCook.degreeDatas.0.description>
+<!-- patient cook -->
+<RT_PatientCook.degreeDatas.0.labelFemale>дбайлива кухарка</RT_PatientCook.degreeDatas.0.labelFemale>
+<!-- impatient cook -->
+<RT_ImpatientCook.degreeDatas.0.label>кулінар на око</RT_ImpatientCook.degreeDatas.0.label>
+<!-- [PAWN_nameDef] не занадто турбується про дотримання рецептів, поки він може швидко наїстися. -->
+<RT_ImpatientCook.degreeDatas.0.description>{PAWN_nameDef} не занадто турбується про дотримання рецептів, головне якомога швидше щось приготувати.</RT_ImpatientCook.degreeDatas.0.description>
+<!-- некерований кухар -->
+<RT_ImpatientCook.degreeDatas.0.labelFemale>кулінарка на око</RT_ImpatientCook.degreeDatas.0.labelFemale>
+<!-- здоровий -->
+<RT_Healthy.degreeDatas.0.label>здоровий</RT_Healthy.degreeDatas.0.label>
+<!-- [PAWN_nameDef] веде здоровий спосіб життя і прокидається енергійним та веселим. -->
+<RT_Healthy.degreeDatas.0.description>{PAWN_nameDef} веде здоровий спосіб життя і прокидається {PAWN_gender ? енергійним і жвавим : енергійною і жвавою}.</RT_Healthy.degreeDatas.0.description>
+<!-- здоровий -->
+<RT_Healthy.degreeDatas.0.labelFemale>здорова</RT_Healthy.degreeDatas.0.labelFemale>
+<!-- хронічно хворий -->
+<RT_ChronicallyIll.degreeDatas.0.label>хронічно хворий</RT_ChronicallyIll.degreeDatas.0.label>
+<!-- [PAWN_nameDef] досить часто хворіє і здається, що для нього потрібно більше зусиль, щоб піднятися з ліжка, ніж зазвичайній людині. -->
+<RT_ChronicallyIll.degreeDatas.0.description>{PAWN_nameDef} досить часто хворіє і здається, що для {PAWN_objective} потрібно більше зусиль, щоб піднятися з ліжка, ніж зазвичайній людині.</RT_ChronicallyIll.degreeDatas.0.description>
+<!-- хронічно хворий -->
+<RT_ChronicallyIll.degreeDatas.0.labelFemale>хронічно хвора</RT_ChronicallyIll.degreeDatas.0.labelFemale>                                       <!-- стійкий до температур -->
+<RT_TemperatureTolerant.degreeDatas.0.label>стійкий до температур</RT_TemperatureTolerant.degreeDatas.0.label>
+<!-- [PAWN_nameDef] комфортно почувається у будь-яку пору року. -->
+<RT_TemperatureTolerant.degreeDatas.0.description>{PAWN_nameDef} комфортно почувається у будь-яку пору року.</RT_TemperatureTolerant.degreeDatas.0.description>
+<!-- стійка до температур -->
+<RT_TemperatureTolerant.degreeDatas.0.labelFemale>стійка до температур</RT_TemperatureTolerant.degreeDatas.0.labelFemale>
+<!-- нестійкий до температур -->
+<RT_TemperatureIntolerant.degreeDatas.0.label>нестійкий до температур</RT_TemperatureIntolerant.degreeDatas.0.label>
+<!-- [PAWN_nameDef] вважає, що літо занадто спекотне, а зима занадто холодна. -->
+<RT_TemperatureIntolerant.degreeDatas.0.description>{PAWN_nameDef} вважає, що літо занадто спекотне, а зима занадто холодна.</RT_TemperatureIntolerant.degreeDatas.0.description>
+<!-- нестійка до температур -->
+<RT_TemperatureIntolerant.degreeDatas.0.labelFemale>нестійка до температур</RT_TemperatureIntolerant.degreeDatas.0.labelFemale>
+
+</LanguageData>

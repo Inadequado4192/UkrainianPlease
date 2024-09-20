@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<OilSpill.label>Розрив труби</OilSpill.label>
+<OilSpill.letterlabel>Розрив труби</OilSpill.letterlabel>
+<OilSpill.letterLabel>Розрив труби</OilSpill.letterLabel>
+<OilSpill.letterText>Одна з нафтових труб розірвалася, і нафта виливається на землю. Забруднену зону можна очистити за допомогою функції «Вимийте нафту».</OilSpill.letterText>
+
+<DrillQuake.label>Потрясіння</DrillQuake.label>
+<DrillQuake.description>Потрясіння</DrillQuake.description>
+<DrillQuake.letterLabel>Потрясіння</DrillQuake.letterLabel>
+<DrillQuake.letterText>Надмірне буріння свердловини спричинило поштовхи.</DrillQuake.letterText>
+    
+</LanguageData>

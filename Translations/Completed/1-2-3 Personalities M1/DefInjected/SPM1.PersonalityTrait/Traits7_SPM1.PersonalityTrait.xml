@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Traits/Traits7.xml-->
+<!-- fun-loving -->
+<SP_Fun-loving.label>любитель розваг</SP_Fun-loving.label>
+<!-- спонтанний -->
+<SP_Spontaneous.label>спонтанний</SP_Spontaneous.label>
+<!-- універсальний -->
+<SP_Versatile.label>універсальний</SP_Versatile.label>
+<!-- відволікаючий -->
+<SP_Distractible.label>відволікаючий</SP_Distractible.label>
+<!-- розсіяна -->
+<SP_Scattered.label>розсіяний</SP_Scattered.label>
+<!-- старанний -->
+<SP_Diligent.label>старанний</SP_Diligent.label>
+<!-- непередбачуваний -->
+<SP_Erratic.label>непередбачуваний</SP_Erratic.label>
+<!-- дитячий -->
+<SP_Childlike.label>дитячий</SP_Childlike.label>
+</LanguageData>

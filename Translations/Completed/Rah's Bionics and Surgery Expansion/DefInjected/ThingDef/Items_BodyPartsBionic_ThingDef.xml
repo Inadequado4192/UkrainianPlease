@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BionicEye.label>біонічне око</BionicEye.label>
+<BionicEye.description>Продуктивніше за біологічне око завдяки своєму нейроінтерфейсу, внутрішньому сигнальному передпроцесору та широкосмуговим сенсорам. Система з відновлювального матеріалу дозволяє відновлювати після пошкоджень.</BionicEye.description>
+<BionicEar.label>біонічне вухо</BionicEar.label>
+<BionicEar.description>Покращує соціальну взаємодію, здатність до переговорів та навчання тварин. Мікрофони, що вбудовані під шкіру, збирають звук і передають його до нейроінтерфейсу, який безпосередньо підключається до аудиторного нерва. Воно достатньо чутливе, щоб чути кота до того, як його побачити, й не може бути пошкоджене від шуму, автоматично налаштовується на розрізнення значущих звуків в шумному оточенні.</BionicEar.description>
+<BionicArm.label>біонічна рука</BionicArm.label>
+<BionicArm.description>Забезпечує велику силу і точність керування завдяки нейроінтерфейсу і міні-сервоприводам. Система з відновлювального матеріалу дозволяє відновлювати після пошкоджень. Продуктивніше за біологічну руку.</BionicArm.description>
+<BionicLeg.label>біонічна нога</BionicLeg.label>
+<BionicLeg.description>Забезпечує велику силу і точність керування завдяки нейроінтерфейсу, потужним міні-сервоприводам та системі з відновлювального матеріалу. Продуктивніше за біологічну ногу.</BionicLeg.description>
+<BionicSpine.label>Біонічний хребет </BionicSpine.label>
+<BionicSpine.description>Покращений штучний хребет. Нервовий пучок з біогелю проходить по артикульованому пластиковому ядрі, оточеному системою латис-пилкування. Перевершує біологічні хребці.</BionicSpine.description>
+<PowerArm.label>силова рука</PowerArm.label>
+<PowerArm.description>Покращена силова рука. Смертоносний та ефективний в бойових діях. \n\nНе встановлюйте на ненадійних суб'єктах, оскільки це може призвести до небажаної смерті та руйнування.</PowerArm.description>
+<BionicHand.label>біонічна рука</BionicHand.label>
+<BionicHand.description>Дозволяє користувачеві виконувати завдання навіть швидше, ніж звичайні руки.</BionicHand.description>
+<BionicFoot.label>біонічна нога</BionicFoot.label>
+<BionicFoot.description>Ця протеза дозволяє швидше ходити з мінімальним ризиком спотикання!</BionicFoot.description>
+<BionicJaw.label>біонічна щелепа</BionicJaw.label>
+<BionicJaw.description>Крім міцного набору зубів, це також має голосовий модулятор.</BionicJaw.description>
+<BionicTongue.label>біонічна язик</BionicTongue.label>
+<BionicTongue.description>Штучна заміна язика. Виготовлена з синтетичних гладеньких волокон і з'єднана через нейрогельний інтерфейс, вона може відтворювати функції природного язика в мовленні, їжі та смакуванні.</BionicTongue.description>
+
+
+<BionicHeart.label>n/a</BionicHeart.label>
+<BionicHeart.description>inactive</BionicHeart.description>
+<BionicStomach.label>n/a</BionicStomach.label>
+<BionicStomach.description>inactive</BionicStomach.description>
+<SimpleProstheticHeart.label>n/a</SimpleProstheticHeart.label>
+<SimpleProstheticHeart.description>inactive</SimpleProstheticHeart.description>
+</LanguageData>

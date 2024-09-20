@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<WoodenFoot.label>дерев'яна нога</WoodenFoot.label>
+<WoodenFoot.labelNoun>дерев'яна нога</WoodenFoot.labelNoun>
+<WoodenFoot.description>Встановлена дерев'яна нога.</WoodenFoot.description>
+<CochlearImplant.label>коклеарний імплант</CochlearImplant.label>
+<CochlearImplant.labelNoun>коклеарний імплант</CochlearImplant.labelNoun>
+<CochlearImplant.description>Встановлений коклеарний імплант.</CochlearImplant.description>
+<SimpleProstheticLeg.label>простий протез ноги</SimpleProstheticLeg.label>
+<SimpleProstheticLeg.labelNoun>простий протез ноги</SimpleProstheticLeg.labelNoun>
+<SimpleProstheticLeg.description>Встановлений простий протез ноги.</SimpleProstheticLeg.description>
+<SimpleProstheticArm.label>простий протез руки</SimpleProstheticArm.label>
+<SimpleProstheticArm.labelNoun>простий протез руки</SimpleProstheticArm.labelNoun>
+<SimpleProstheticArm.description>Встановлений простий протез руки.</SimpleProstheticArm.description>
+<SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.0.label>кулак</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.0.label>
+<SpinalFusion.label>сполучення хребта</SpinalFusion.label>
+<SpinalFusion.labelNoun>зрослий хребет</SpinalFusion.labelNoun>
+<SpinalFusion.description>Зрослий хребет</SpinalFusion.description>
+<SimpleProstheticHand.label>проста протезна рука</SimpleProstheticHand.label>
+<SimpleProstheticHand.labelNoun>простий протез руки</SimpleProstheticHand.labelNoun>
+<SimpleProstheticHand.description>Встановлена проста протезна рука</SimpleProstheticHand.description>
+<SimpleProstheticHand.comps.HediffComp_VerbGiver.tools.0.label>кулак</SimpleProstheticHand.comps.HediffComp_VerbGiver.tools.0.label>
+<SimpleProstheticFoot.label>проста протезна нога</SimpleProstheticFoot.label>
+<SimpleProstheticFoot.labelNoun>простий протез ноги</SimpleProstheticFoot.labelNoun>
+<SimpleProstheticFoot.description>Встановлена проста протезна нога</SimpleProstheticFoot.description>
+<ArtificialNose.label>штучний ніс</ArtificialNose.label>
+<ArtificialNose.labelNoun>штучний ніс</ArtificialNose.labelNoun>
+<ArtificialNose.description>Встановлений штучний ніс</ArtificialNose.description>
+<ArtificialHumerus.label>штучна кістка плеча</ArtificialHumerus.label>
+<ArtificialHumerus.labelNoun>штучна кістка плеча</ArtificialHumerus.labelNoun>
+<ArtificialHumerus.description>Встановлена штучна кістка плеча</ArtificialHumerus.description>
+<ArtificialRadius.label>штучна кістка ліктьової кістки</ArtificialRadius.label>
+<ArtificialRadius.labelNoun>штучна кістка ліктьової кістки</ArtificialRadius.labelNoun>
+<ArtificialRadius.description>Встановлена штучна кістка ліктьової кістки</ArtificialRadius.description>
+<ArtificialTibia.label>штучна кістка гомілки</ArtificialTibia.label>
+<ArtificialTibia.labelNoun>штучна кістка гомілки</ArtificialTibia.labelNoun>
+<ArtificialTibia.description>Встановлена штучна кістка гомілки</ArtificialTibia.description>
+<ArtificialFemur.label>штучна кістка стегна</ArtificialFemur.label>
+<ArtificialFemur.labelNoun>штучна кістка стегна</ArtificialFemur.labelNoun>
+<ArtificialFemur.description>Встановлена штучна кістка стегна</ArtificialFemur.description>
+</LanguageData>

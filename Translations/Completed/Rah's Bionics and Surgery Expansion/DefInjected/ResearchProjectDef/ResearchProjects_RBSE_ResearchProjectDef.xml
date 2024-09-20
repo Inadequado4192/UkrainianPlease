@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Prosthetics.label>анатомія та фізіологія</Prosthetics.label>
+<Prosthetics.description>Вивчення анатомії та біомеханіки, що дозволяє створювати прості протезні частини та штучні кістки на верстаті для обробки металу.</Prosthetics.description>
+<RegenerativeMedicine.label>регенеративна медицина</RegenerativeMedicine.label>
+<RegenerativeMedicine.description>Розробка передових методів відновлення тканин. Дозволяє вилікувати шрами та старі поранення за допомогою медичних препаратів "мандрівного світу".</RegenerativeMedicine.description>
+<OrganTransplantation.label>трансплантація органів</OrganTransplantation.label>
+<OrganTransplantation.description>Вивчення медицини трансплантації та управління відторгненням органів. Дозволяє трансплантувати донорські органи пацієнтам.</OrganTransplantation.description>
+<Bionics.label>біоніка</Bionics.label>
+<Bionics.description>Вивчення біоміметики та інженерії. Відкриває доступ до Робочого столу для виготовлення біонічних частин високої технології.</Bionics.description>
+<AdvancedBionics.label>продвинута біоніка</AdvancedBionics.label>
+<AdvancedBionics.description>Додаткове вивчення біоніки. Відкриває доступ до передової медичної станції та потужних біонічних покращень. Також дозволяє видаляти смертоносні кислотні включення.</AdvancedBionics.description>
+<SyntheticOrgans.label>синтетичні органи</SyntheticOrgans.label>
+<SyntheticOrgans.description>Поглиблене дослідження нанотехнологій та інженерії тканин. Відкриває доступ до високоефективних синтетичних органів без симптомів відторгнення при трансплантації.</SyntheticOrgans.description>
+<Neuroscience.label>нейронауки</Neuroscience.label>
+<Neuroscience.description>Дозволяє виконувати складні операції на головному мозку. Відкриває доступ до потужних імплантів мозку, які поліпшують здібності та виліковують хвороби головного мозку. Засновується на рідкісній технології штучного інтелекту з Глітерсвітів.</Neuroscience.description>
+<Nanomedicine.label>наномедицина</Nanomedicine.label>
+<Nanomedicine.description>Поглиблене дослідження молекулярної нанотехнології та маніпуляцій клітинами. Дозволяє вилікувати певні захворювання та хвороби всього організму, такі як хвороба Слабкості, Сонна хвороба, М'язові паразити, Механіти, Глистові інфекції та інші.</Nanomedicine.description>
+</LanguageData>

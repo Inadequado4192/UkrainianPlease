@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VSIE_Vent_Harmonious.label>випуск</VSIE_Vent_Harmonious.label>
+
+<VSIE_Vent_Harmonious.logRulesInitiator.rulesStrings>
+<li>r_logentry->[INITIATOR_nameDef] і [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+<li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] з [RECIPIENT_nameDef].</li>
+<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] до [RECIPIENT_nameDef].</li>
+<li>talkedabout(p=4)->балакали про</li>
+<li>talkedabout->поділилися словом про</li>
+<li>talkedabout->говорили про</li>
+<li>talkedabout->насипалися про</li>
+<li>talkedabout->розмовляли про</li>
+<li>talkedabout->жартували про</li>
+<li>talkedabout->закидувалися гумором про</li>
+<li>commentedabout->сказав щось про</li>
+<li>commentedabout->сказав слово про</li>
+<li>commentedabout->зробив коментар про</li>
+<li>commentedabout->прокоментував про</li>
+<li>commentedabout->розповів жарт про</li>
+</VSIE_Vent_Harmonious.logRulesInitiator.rulesStrings>
+
+</LanguageData>

@@ -1,0 +1,67 @@
+<LanguageData>
+	<SpaceportsModName>Космодроми</SpaceportsModName>
+	<!--Traffic Control Settings-->
+	<Spaceports_TCHeader><![CDATA[<i>Traffic Control Settings</i>]]></Spaceports_TCHeader>
+	<Spaceports_AirspaceLockdownToggle>Увімкнути блокування повітряного простору при появі ворогів на мапі?</Spaceports_AirspaceLockdownToggle>
+	<Spaceports_AirspaceLockdownTooltip>Якщо увімкнено, коли вороги потрапляють на мапу, ваша колонія автоматично переходить у режим блокування повітряного простору. Нові шатли будь-якого типу не прибуватимуть, але будь-які шатли, що приземлилися, можуть відлітати.\n\nНаполегливо рекомендується залишити цю опцію увімкненою, щоб уникнути дипломатичних наслідків, коли відвідувачі потрапляють під перехресний вогонь.</Spaceports_AirspaceLockdownTooltip>
+	<Spaceports_AutoLeaveToggle>Увімкнути автоматичну евакуацію відвідувачів і трейдерів, якщо вороги потрапляють на мапу?</Spaceports_AutoLeaveToggle>
+	<Spaceports_AutoLeaveTooltip>Якщо увімкнено, відвідувачі та торговці (але НЕ гості Гостинності) автоматично намагатимуться покинути шатлом, коли вороги потрапляють на мапу.\n\nНаполегливо рекомендується залишити цю опцію увімкненою, щоб уникнути дипломатичних наслідків через потрапляння відвідувачів під перехресний вогонь.</Spaceports_AutoLeaveTooltip>
+	<Spaceports_RandomFlow>Увімкнути випадковий вибір точки охолодження?</Spaceports_RandomFlow>
+	<Spaceports_RandomFlowTooltip>Якщо увімкнено, гості обиратимуть відкриту зону охолодження випадковим чином, а не використовуватимуть найближчу до їхнього майданчика.</Spaceports_RandomFlowTooltip>
+	<Spaceports_EnableShuttleLimitToggle>Увімкнути ліміт шатлів?</Spaceports_EnableShuttleLimitToggle>
+	<Spaceports_ShuttleLimitLabel>Скільки шатлів може бути приземлено у вашій колонії одночасно.</Spaceports_ShuttleLimitLabel>
+	<!--Visitor Settings-->
+	<Spaceports_VisitorHeader><![CDATA[<i>Visitor Shuttle Settings</i>]]></Spaceports_VisitorHeader>
+	<Spaceports_RegularVisitorsToggle>Увімкнути відвідувачів з фіксованим інтервалом?</Spaceports_RegularVisitorsToggle>
+	<Spaceports_RegularVisitorsTooltip>Якщо увімкнено, шатл відвідувачів намагатиметься приземлитися у вашій колонії з фіксованим інтервалом. За замовчуванням увімкнено.\n\nЯкщо увімкнено, шатли відвідувачів можуть стріляти як події.</Spaceports_RegularVisitorsTooltip>
+	<Spaceports_VisitorNotificationsToggle>Отримувати сповіщення щодо шатлів відвідувачів?</Spaceports_VisitorNotificationsToggle>
+	<Spaceports_VisitorNotificationsTooltip>Якщо увімкнено, надсилає сповіщення у ліву верхню стрічку щоразу, коли прибуває або відправляється шатл відвідувача (НЕ трейдера). За замовчуванням вимкнено.</Spaceports_VisitorNotificationsTooltip>
+	<Spaceports_VisitorFreqSlider>Як часто шатли відвідувачів намагатимуться приземлитися у вашій колонії, у днях.</Spaceports_VisitorFreqSlider>
+	<Spaceports_VisitorFreqSlider_Count> Наразі:</Spaceports_VisitorFreqSlider_Count>
+	<Spaceports_VisitorStaySlider>Максимальний час перебування шатлів відвідувачів у вашій колонії, у днях.</Spaceports_VisitorStaySlider>
+	<!--Trader Settings-->
+	<Spaceports_TraderHeader><![CDATA[<i>Trader Shuttle Settings</i>]]></Spaceports_TraderHeader>
+	<Spaceports_RegularTradersToggle>Увімкнути трейдерів з фіксованим інтервалом?</Spaceports_RegularTradersToggle>
+	<Spaceports_RegularTradersTooltip>Якщо увімкнено, шатл торговця намагатиметься приземлитися у вашій колонії з фіксованим інтервалом. За замовчуванням увімкнено.\n\nЯкщо вимкнено, шатли трейдерів можуть стріляти як події.</Spaceports_RegularTradersTooltip>
+	<Spaceports_TraderNotificationsToggle>Отримувати сповіщення щодо шатлів трейдерів?</Spaceports_TraderNotificationsToggle>
+	<Spaceports_TraderNotificationsTooltip>Якщо увімкнено, надсилає сповіщення у ліву верхню стрічку щоразу, коли прибуває або відправляється шатл трейдера. За замовчуванням вимкнено.</Spaceports_TraderNotificationsTooltip>
+	<Spaceports_TraderFreqSlider>Як часто шатли торговців намагатимуться приземлитися у вашій колонії, у днях.</Spaceports_TraderFreqSlider>
+	<Spaceports_TraderStaySlider>Максимальний час перебування шатлів трейдерів у вашій колонії, у днях.</Spaceports_TraderStaySlider>
+	<!--Hospitality Settings-->
+	<Spaceports_HospitalityHeader><![CDATA[<i>Hospitality Integration Settings</i>]]></Spaceports_HospitalityHeader>
+	<Spaceports_HospitalityModeToggle>Увімкнути шатли як метод прибуття для гостей Гостинності?</Spaceports_HospitalityModeToggle>
+	<Spaceports_HospitalityModeToggleTooltip>Якщо увімкнено, налаштований відсоток гостей Гостинності прибуватиме шатлом, а не пішки.\n\nЗверніть увагу, що цей відсоток не буде точним, оскільки гості племінних фракцій завжди прибуватимуть пішки.</Spaceports_HospitalityModeToggleTooltip>
+	<Spaceports_HospitalityModeFreqSlider>Який відсоток подій Гостинності прибуватиме шатлом.</Spaceports_HospitalityModeFreqSlider>
+	<!--DBH settings-->
+	<Spaceports_DBHHeader><![CDATA[<i>DBH Integration Settings</i>]]></Spaceports_DBHHeader>
+	<Spaceports_DBHReflection>Увімкнути інтеграцію DBH для паливних процесорів?</Spaceports_DBHReflection>
+	<Spaceports_DBHReflectionTooltip>Якщо увімкнено, термоядерні паливні процесори отримуватимуть воду, необхідну для мокрого режиму, з водопровідної мережі DBH.\n\nОскільки ця функція використовує рефлексію C# для безпечного виконання умовного доступу до коду DBH, вона може мати незначний вплив на продуктивність, який масштабується з кожним зібраним процесором.</Spaceports_DBHReflectionTooltip>
+	<!--Animation Settings-->
+	<Spaceports_AnimHeader><![CDATA[<i>Animation Settings</i>]]></Spaceports_AnimHeader>
+	<Spaceports_DBHReflection>Увімкнути інтеграцію DBH для паливних процесорів?</Spaceports_DBHReflection><Spaceports_GlobalAnimationToggle>Увімкнути анімацію посадкових майданчиків?</Spaceports_GlobalAnimationToggle>
+	<Spaceports_GlobalAnimationToggle_Label>Якщо увімкнено, посадкові майданчики шатлів показуватимуть динамічну анімацію. Вимкніть цю опцію, якщо вона вас дратує або якщо у вас є проблеми з продуктивністю чи епілепсія.\n\nНавіть якщо її вимкнено, посадочні майданчики все одно показуватимуть статичні візуальні зміни.</Spaceports_GlobalAnimationToggle_Label>
+	<Spaceports_RimLightsToggle>Увімкнути анімацію світлового підсвічування педалей?</Spaceports_RimLightsToggle>
+	<Spaceports_RimLightsToggleTooltip>Увімкнути анімацію підсвітки на посадкових майданчиках шатлів (чотири червоні ліхтарі по кутах)</Spaceports_RimLightsToggleTooltip>
+	<Spaceports_LandingPatternToggle>Увімкнути анімацію шаблону посадки?</Spaceports_LandingPatternToggle>
+	<Spaceports_LandingPatternToggleTooltip>Увімкнути анімацію схеми посадки на посадкових майданчиках шатлів (зелені крапки, що рухаються всередину, які активуються, коли прибуває шатл)</Spaceports_LandingPatternToggleTooltip>
+	<Spaceports_BeaconAnimationToggle>Увімкнути анімацію маяків?</Spaceports_BeaconAnimationToggle>
+	<Підказка_BeaconAnimationTooltip>Якщо увімкнено, маяки космопортів показуватимуть динамічну анімацію. Вимкніть цю опцію, якщо вона вас дратує або якщо у вас є побоювання щодо продуктивності чи епілепсії.</Spaceports_BeaconAnimationTooltip>
+	<Spaceports_BeaconDishToggle>Увімкнути анімацію радіолокаційної антени маяка?</Spaceports_BeaconDishToggle>
+	<Spaceports_BeaconDishTooltip>Увімкнути обертання антени радара на маяках космопорту.</Spaceports_BeaconDishTooltip>
+	<Spaceports_BeaconRimLightsToggle>Увімкнути анімацію світлового обідка маяка?</Spaceports_BeaconRimLightsToggle>
+	<Spaceports_BeaconRimLightsTooltip>Увімкнути анімацію світлового обідка на маяках космопорту (чотири червоні вогники по кутах)?</Spaceports_BeaconRimLightsTooltip>
+	<Spaceports_DBHReflectionTooltip>Якщо увімкнено, процесори термоядерного палива братимуть воду, необхідну для роботи у вологому режимі, з водопровідної мережі DBH.\n\nОскільки ця функція використовує рефлексію C# для безпечного виконання умовного доступу до коду DBH, вона може мати незначний вплив на продуктивність, який масштабується з кожним зібраним процесором.</Spaceports_DBHReflectionTooltip>
+
+	<!--Event Settings-->
+	<Spaceports_EventHeader><![CDATA[<i>Event Settings</i>]]></Spaceports_EventHeader>
+	<Spaceports_EventToggle>Увімкнути нові події?</Spaceports_EventToggle>
+	<Spaceports_EventToggleTooltip>Увімкнути нові події, додані Spaceports.</Spaceports_EventToggleTooltip>
+	<Spaceports_KesslerSyndromeToggle>Увімкнути подію Синдрому Кесслера?</Spaceports_KesslerSyndromeToggle>
+	<Spaceports_InterstellarDerelictToggle>Увімкнути подію Interstellar Derelict?</Spaceports_InterstellarDerelictToggle>
+	<Spaceports_MysteryCargoToggle>Увімкнути подію Таємничий вантаж?</Spaceports_MysteryCargoToggle>
+	<Spaceports_PrisonerTransferToggle>Увімкнути подію "Переміщення ув'язнених"?</Spaceports_PrisonerTransferToggle>
+	<Spaceports_ShuttleMedevacToggle>Увімкнути подію Shuttle Medevac?</Spaceports_ShuttleMedevacToggle>
+	<Spaceports_SpicyPawnLendingToggle>Увімкнути подію "Професійна допомога"?</Spaceports_SpicyPawnLendingToggle>
+	<!--Reset to Default-->
+	<Spaceports_ResetToDefault>Скинути все до заводських налаштувань</Spaceports_ResetToDefault>
+</LanguageData>

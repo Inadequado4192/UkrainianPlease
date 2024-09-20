@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Limbs -->
+
+<ProstheticTailAnimal.label>Простий протез хвоста тварини</ProstheticTailAnimal.label>
+<ProstheticTailAnimal.description>Простий протез хвоста тварини. Підходить для всіх видів тварин.</ProstheticTailAnimal.description>
+
+<SimpleProstheticLegAnimal.label>Простий протез ноги тварини</SimpleProstheticLegAnimal.label>
+<SimpleProstheticLegAnimal.description>Простий протез ноги тварини. Підходить для всіх видів тварин.</SimpleProstheticLegAnimal.description>
+
+<BionicLegAnimal.label>Біонічна нога тварини</BionicLegAnimal.label>
+<BionicLegAnimal.description>Покращена біонічна нога для тварин. Підходить для всіх видів тварин.</BionicLegAnimal.description>
+
+<SimpleProstheticArmAnimal.label>Простий протез руки тварини</SimpleProstheticArmAnimal.label>
+<SimpleProstheticArmAnimal.description>Протез руки тварини. Підходить для мавп та мегатеріїв.</SimpleProstheticArmAnimal.description>
+
+<BionicArmAnimal.label>Біонічна рука тварини</BionicArmAnimal.label>
+<BionicArmAnimal.description>Покращена біонічна рука для тварин. Підходить для мавп та мегатеріїв.</BionicArmAnimal.description>
+
+
+  <!-- Other Parts -->
+
+<NoseAnimalSimple.label>Простий ніс тварини</NoseAnimalSimple.label>
+<NoseAnimalSimple.description>Простий ніс для тварин. Підходить для всіх тварин, крім птахів та комах.</NoseAnimalSimple.description>
+
+<BionicEyeAnimal.label>Біонічне око тварини</BionicEyeAnimal.label>
+<BionicEyeAnimal.description>Удосконалене біонічне око для тварин. Підходить для всіх тварин.</BionicEyeAnimal.description>
+
+<EarAnimalSimple.label>Простий імплантат вуха тварини</EarAnimalSimple.label>
+<EarAnimalSimple.description>Простий імплантат вуха для тварин. Підходить для всіх тварин.</EarAnimalSimple.description>
+
+<EarAnimalBionic.label>Біонічний імплантат вуха тварини</EarAnimalBionic.label>
+<EarAnimalBionic.description>Удосконалений біонічний імплантат вуха для тварин. Підходить для всіх тварин.</EarAnimalBionic.description>
+
+<JawAnimalSimple.label>Простий імплантат щелепи тварини</JawAnimalSimple.label>
+<JawAnimalSimple.description>Функціональна щелепа для тварин. Підходить для всіх тварин.</JawAnimalSimple.description>
+
+<JawAnimalBionic.label>Біонічна щелепа тварини</JawAnimalBionic.label>
+<JawAnimalBionic.description>Удосконалена біонічна щелепа для тварин. Підходить для всіх тварин.</JawAnimalBionic.description>
+
+<SpineAnimalSimple.label>Простий хребет тварини</SpineAnimalSimple.label>
+<SpineAnimalSimple.description>Функціональний хребет для тварин. Підходить для всіх тварин.</SpineAnimalSimple.description>
+
+<SpineAnimalBionic.label>Біонічний хребет тварини</SpineAnimalBionic.label>
+<SpineAnimalBionic.description>Удосконалений біонічний хребет для тварин. Підходить для всіх тварин.</SpineAnimalBionic.description>
+
+
+  <!-- Organs -->
+
+<AnimalBrainStimulator.label>Стимулятор мозку тварини</AnimalBrainStimulator.label>
+<AnimalBrainStimulator.description>Стимулятор мозку для тварини. Підходить для всіх тварин.</AnimalBrainStimulator.description>
+
+<BionicAnimalHeart.label>Біонічне серце тварини</BionicAnimalHeart.label>
+<BionicAnimalHeart.description>Удосконалене біонічне серце для тварин. Підходить для всіх тварин.</BionicAnimalHeart.description>
+
+<BionicAnimalLung.label>Біонічне легене тварини</BionicAnimalLung.label>
+<BionicAnimalLung.description>Удосконалене біонічне легене для тварин. Підходить для всіх тварин.</BionicAnimalLung.description>
+
+<BionicAnimalLiver.label>Біонічна печінка тварини</BionicAnimalLiver.label>
+<BionicAnimalLiver.description>Удосконалена біонічна печінка для тварин. Підходить для всіх тварин.</BionicAnimalLiver.description>
+
+<BionicAnimalKidney.label>Біонічна нирка тварини</BionicAnimalKidney.label>
+<BionicAnimalKidney.description>Удосконалена біонічна нирка для тварин. Підходить для всіх тварин.</BionicAnimalKidney.description>
+
+<BionicAnimalStomach.label>Біонічний шлунок тварини</BionicAnimalStomach.label>
+<BionicAnimalStomach.description>Удосконалений біонічний шлунок для тварин. Підходить для всіх тварин.</BionicAnimalStomach.description>
+
+
+</LanguageData>

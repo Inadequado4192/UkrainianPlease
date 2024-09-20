@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Napalm.label>Напалм</Napalm.label>
+<Napalm.description>Дуже запальна та липка речовина, яка використовується для виготовлення запальних бомб. Складається з хімічного пального, змішаного з синтеленом.</Napalm.description>
+
+<Shell_Napalm.label>Снаряд з напалмом</Shell_Napalm.label>
+<Shell_Napalm.description>Снаряд, заповнений запальною сумішшю та невеликим зарядом вибухових матеріалів. Створює пожежу в зоні вибуху. Може використовуватись як снаряд у мінометах. Вибухає при пошкодженні.</Shell_Napalm.description>
+<Bullet_Shell_Napalm.label>Снаряд з напалмом</Bullet_Shell_Napalm.label>
+
+<OilBarrel.label>Бочка нафти</OilBarrel.label>
+<OilBarrel.description>Повна бочка нафти, яку можна розлити, спалити або продати.</OilBarrel.description>
+
+<UncuredPlasteel.label>Сировинна суперсталь</UncuredPlasteel.label>
+<UncuredPlasteel.description>Незавершена суперсталь, очікуюча на автоклавування.</UncuredPlasteel.description>
+
+<Synthamide.label>Синтамід</Synthamide.label>
+<Synthamide.description>Міцні і термостійкі синтетичні волокна, які можна використовувати для виготовлення міцного одягу.</Synthamide.description>
+<Synthamide.stuffProps.stuffAdjective>синтамід</Synthamide.stuffProps.stuffAdjective>
+
+<Synthylene.label>Синтелен</Synthylene.label>
+<Synthylene.description>Дешевий будівельний матеріал, виготовлений з пластмас.</Synthylene.description>
+<Synthylene.stuffProps.stuffAdjective>синтеленовий</Synthylene.stuffProps.stuffAdjective>
+
+<SynthyleneWhite.label>Білий синтелен</SynthyleneWhite.label>
+<SynthyleneWhite.description>Дешевий будівельний матеріал, виготовлений з пластмас.</SynthyleneWhite.description>
+<SynthyleneWhite.stuffProps.stuffAdjective>білий синтеленовий</SynthyleneWhite.stuffProps.stuffAdjective>
+
+<SynthyleneBlack.label>Чорний синтелен</SynthyleneBlack.label>
+<SynthyleneBlack.description>Недорогий будівельний матеріал зі штучних матеріалів.</SynthyleneBlack.description>
+<SynthyleneBlack.stuffProps.stuffAdjective>чорна сінтелена</SynthyleneBlack.stuffProps.stuffAdjective>
+
+<SynthyleneGreen.label>Зелений синтелен</SynthyleneGreen.label>
+<SynthyleneGreen.description>Недорогий будівельний матеріал зі штучних матеріалів.</SynthyleneGreen.description>
+<SynthyleneGreen.stuffProps.stuffAdjective>зелена сінтелена</SynthyleneGreen.stuffProps.stuffAdjective>
+
+<SynthyleneBlue.label>Синій синтелен</SynthyleneBlue.label>
+<SynthyleneBlue.description>Недорогий будівельний матеріал зі штучних матеріалів.</SynthyleneBlue.description>
+<SynthyleneBlue.stuffProps.stuffAdjective>синя сінтелена</SynthyleneBlue.stuffProps.stuffAdjective>
+
+<SynthyleneViolet.label>Фіолетовий синтелен</SynthyleneViolet.label>
+<SynthyleneViolet.description>Недорогий будівельний матеріал зі штучних матеріалів.</SynthyleneViolet.description>
+<SynthyleneViolet.stuffProps.stuffAdjective>фіолетова сінтелена</SynthyleneViolet.stuffProps.stuffAdjective>
+
+<SynthyleneOrange.label>Помаранчевий синтелен</SynthyleneOrange.label>
+<SynthyleneOrange.description>Недорогий будівельний матеріал зі штучних матеріалів.</SynthyleneOrange.description>
+<SynthyleneOrange.stuffProps.stuffAdjective>помаранчева сінтелена</SynthyleneOrange.stuffProps.stuffAdjective>
+
+<SynthyleneYellow.label>Жовтий синтелен</SynthyleneYellow.label>
+<SynthyleneYellow.description>Недорогий будівельний матеріал зі штучних матеріалів.</SynthyleneYellow.description>
+<SynthyleneYellow.stuffProps.stuffAdjective>жовта сінтелена</SynthyleneYellow.stuffProps.stuffAdjective>
+
+<SynthyleneRed.label>Червоний синтелен</SynthyleneRed.label>
+<SynthyleneRed.description>Недорогий будівельний матеріал зі штучних матеріалів.</SynthyleneRed.description>
+<SynthyleneRed.stuffProps.stuffAdjective>червона сінтелена</SynthyleneRed.stuffProps.stuffAdjective>
+
+<SynthyleneOlive.label>Оливковий синтелен</SynthyleneOlive.label>
+<SynthyleneOlive.description>Недорогий будівельний матеріал зі штучних матеріалів.</SynthyleneOlive.description>
+<SynthyleneOlive.stuffProps.stuffAdjective>оливкова синтелена</SynthyleneOlive.stuffProps.stuffAdjective>
+
+<SynthyleneSand.label>Синтелен</SynthyleneSand.label>
+<SynthyleneSand.description>Дешевий будівельний матеріал, виготовлений з синтетичних матеріалів.</SynthyleneSand.description>
+<SynthyleneSand.stuffProps.stuffAdjective>синтеленовий</SynthyleneSand.stuffProps.stuffAdjective>
+
+<UncuredComposite.label>Незрізаний синтамідовий полімер</UncuredComposite.label>
+<UncuredComposite.description>Незавершені аркуші полімеру з синтаміду, які очікують на автоклавування.</UncuredComposite.description>
+
+<FiberComposite.label>Полімерний матеріал зі синтетичного матеріалу</FiberComposite.label>
+<FiberComposite.description>Легкий, вогнетривкий та міцний космічний полімерний матеріал. Виготовлений за технологією в'язання матриці синтелену з вшитими в неї синтетичними волокнами синтетаміду.</FiberComposite.description>
+<FiberComposite.stuffProps.stuffAdjective>полімерний матеріал зі синтетичного матеріалу</FiberComposite.stuffProps.stuffAdjective>
+
+<FiberCompositeWhite.label>Білий полімерний матеріал зі синтетичного матеріалу</FiberCompositeWhite.label>
+<FiberCompositeWhite.description>Легкий, вогнетривкий та міцний космічний полімерний матеріал. Виготовлений за технологією в'язання матриці синтелену з вшитими в неї синтетичними волокнами синтетаміду.</FiberCompositeWhite.description>
+<FiberCompositeWhite.stuffProps.stuffAdjective>білий полімерний матеріал зі синтетичного матеріалу</FiberCompositeWhite.stuffProps.stuffAdjective>
+
+<FiberCompositeBlack.label>Чорний полімерний матеріал зі синтетичного матеріалу</FiberCompositeBlack.label>
+<FiberCompositeBlack.description>Легкий, вогнетривкий та міцний космічний полімерний матеріал. Виготовлений за технологією в'язання матриці синтелену з вшитими в неї синтетичними волокнами синтетаміду.</FiberCompositeBlack.description>
+<FiberCompositeBlack.stuffProps.stuffAdjective>чорний полімер синтамідний</FiberCompositeBlack.stuffProps.stuffAdjective>
+
+<FiberCompositeGreen.label>Зелений полімер синтамідний</FiberCompositeGreen.label>
+<FiberCompositeGreen.description>Легкий, вогнетривкий та міцний полімерний матеріал космічного класу. Виготовлений за технологією ткання матриці з вставленими синтетичними волокнами синтаміду.</FiberCompositeGreen.description>
+<FiberCompositeGreen.stuffProps.stuffAdjective>зелений полімер синтамідний</FiberCompositeGreen.stuffProps.stuffAdjective>
+
+<FiberCompositeBlue.label>Синій полімер синтамідний</FiberCompositeBlue.label>
+<FiberCompositeBlue.description>Легкий, вогнетривкий та міцний полімерний матеріал космічного класу. Виготовлений за технологією ткання матриці з вставленими синтетичними волокнами синтаміду.</FiberCompositeBlue.description>
+<FiberCompositeBlue.stuffProps.stuffAdjective>синій полімер синтамідний</FiberCompositeBlue.stuffProps.stuffAdjective>
+
+<FiberCompositeViolet.label>Фіолетовий полімер синтамідний</FiberCompositeViolet.label>
+<FiberCompositeViolet.description>Легкий, вогнетривкий та міцний полімерний матеріал космічного класу. Виготовлений за технологією ткання матриці з вставленими синтетичними волокнами синтаміду.</FiberCompositeViolet.description>
+<FiberCompositeViolet.stuffProps.stuffAdjective>фіолетовий полімер синтамідний</FiberCompositeViolet.stuffProps.stuffAdjective>
+
+<FiberCompositeOrange.label>Помаранчевий полімер синтамідний</FiberCompositeOrange.label>
+<FiberCompositeOrange.description>Легкий, вогнетривкий та міцний полімерний матеріал космічного класу. Виготовлений за технологією ткання матриці з вставленими синтетичними волокнами синтаміду.</FiberCompositeOrange.description>
+<FiberCompositeOrange.stuffProps.stuffAdjective>помаранчевий полімер синтамідний</FiberCompositeOrange.stuffProps.stuffAdjective>
+
+<FiberCompositeYellow.label>Жовтий полімер синтамідовий</FiberCompositeYellow.label>
+<FiberCompositeYellow.description>Легкий, вогнетривкий і міцний полімерний матеріал космічного класу. Виготовлений за технологією плетіння матриці синтеленових волокон з вшитими синтетичними волокнами синтаміду.</FiberCompositeYellow.description>
+<FiberCompositeYellow.stuffProps.stuffAdjective>жовтий полімер синтамідовий</FiberCompositeYellow.stuffProps.stuffAdjective>
+
+<FiberCompositeRed.label>Червоний полімер синтамідовий</FiberCompositeRed.label>
+<FiberCompositeRed.description>Легкий, вогнетривкий і міцний полімерний матеріал космічного класу. Виготовлений за технологією плетіння матриці синтеленових волокон з вшитими синтетичними волокнами синтаміду.</FiberCompositeRed.description>
+<FiberCompositeRed.stuffProps.stuffAdjective>червоний полімер синтамідовий</FiberCompositeRed.stuffProps.stuffAdjective>
+
+<FiberCompositeOlive.label>Полімер синтамідовий з оливками</FiberCompositeOlive.label>
+<FiberCompositeOlive.description>Легкий, вогнетривкий і міцний полімерний матеріал космічного класу. Виготовлений за технологією плетіння матриці синтеленових волокон з вшитими синтетичними волокнами синтаміду.</FiberCompositeOlive.description>
+<FiberCompositeOlive.stuffProps.stuffAdjective>оливковий полімер синтамідовий</FiberCompositeOlive.stuffProps.stuffAdjective>
+
+<FiberCompositeSand.label>Полімер синтамідовий</FiberCompositeSand.label>
+<FiberCompositeSand.description>Легкий, вогнетривкий і міцний полімерний матеріал космічного класу. Виготовлений за технологією плетіння матриці синтеленових волокон з вшитими синтетичними волокнами синтаміду.</FiberCompositeSand.description>
+<FiberCompositeSand.stuffProps.stuffAdjective>полімер синтамідовий</FiberCompositeSand.stuffProps.stuffAdjective>
+  
+</LanguageData>

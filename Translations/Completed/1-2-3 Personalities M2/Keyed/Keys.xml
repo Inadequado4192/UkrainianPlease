@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData> 
+
+<SP.CheckInteraction>Перевірити взаємодію між персонажами</SP.CheckInteraction>
+<SP.CheckInteractionGroup>Перевірити взаємодію особистостей (групи)</SP.CheckInteractionGroup>
+<SP.CheckInteractionDesc>Відображає повідомлення про те, як взаємодіють особистості цих пішаків.</SP.CheckInteractionDesc>
+
+<SP.InteractionMessage>{0} та {1} мають {2} взаємодій.</SP.InteractionMessage>
+<SP.InteractionMessageGroup>Ці пішаки {0} мають {1} взаємодію.</SP.InteractionMessageGroup>
+<SP.Int_Undefined>[UNDEFINED]</SP.Int_Undefined>
+<SP.Int_Harmonious>гармонійний</SP.Int_Harmonious>
+<SP.Int_Diversive>диверсифікований</SP.Int_Diversive>
+<SP.Int_Turmoil>неспокійний</SP.Int_Turmoil>
+<SP.FactionLeaderDescriptionNoName>очолює {0} людей, покладаючись на {1}</SP.FactionLeaderDescriptionNoName>
+<SP.TradeNegotiatorTooltip>{NEGOTIATOR_nameDef} розуміє, як поводитися з представниками цієї фракції. {NEGOTIATOR_pronoun} отримує такі бонуси:\n{1}.</SP.TradeNegotiatorTooltip>
+<SP.BetterPrices>{0}% кращі ціни</SP.BetterPrices>
+<SP.BetterReputations>+{0}% репутації, отриманої від подарунків</SP.BetterReputations>
+
+<SP.SPM2_Couples>Налаштування пар</SP.SPM2_Couples>
+<SP.SPM2_OneNightStand>Налаштування однієї тумбочки</SP.SPM2_OneNightStand>
+<SP.SPM2_Caravans> Налаштування караванів</SP.SPM2_Caravans>
+<SP.SPM2_ManyHandsMakeLightWork>Твік "Багато рук роблять легку роботу"</SP.SPM2_ManyHandsMakeLightWork>
+<SP.SPM2_Discord>Налаштування розбіжностей</SP.SPM2_Discord>
+<SP.SPM2_Venting>Налаштування вентиляції</SP.SPM2_Venting>
+<SP.SPM2_Leaders>Налаштування лідерів</SP.SPM2_Leaders>
+<SP.SPM2_Trading>Налаштування торгівлі</SP.SPM2_Trading>
+<SP.SPM2_FriendlyFire>Твік дружнього вогню</SP.SPM2_FriendlyFire>
+<SP.SPM2_ObtainingNewCharacterTraits>Отримання нових рис персонажа</SP.SPM2_ObtainingNewCharacterTraits>
+
+<SP.SPM2_CouplesDesc>Налаштування пар</SP.SPM2_CouplesDesc>
+<SP.SPM2_OneNightStandDesc>Налаштування однієї тумбочки</SP.SPM2_OneNightStandDesc>
+<SP.SPM2_CaravansDesc> Налаштування караванів</SP.SPM2_CaravansDesc>
+<SP.SPM2_ManyHandsMakeLightWorkDesc>Твік "Багато рук роблять легку роботу"</SP.SPM2_ManyHandsMakeLightWorkDesc>
+<SP.SPM2_DiscordDesc>Налаштування розбрату</SP.SPM2_DiscordDesc>
+<SP.SPM2_VentingDesc>Налаштування вентиляції</SP.SPM2_VentingDesc>
+<SP.SPM2_LeadersDesc>Налаштування лідерів</SP.SPM2_LeadersDesc>
+<SP.SPM2_TradingDesc>Налаштування торгівлі</SP.SPM2_TradingDesc>
+<SP.SPM2_FriendlyFireDesc>Твік для дружніх пожеж</SP.SPM2_FriendlyFireDesc>
+<SP.SPM2_ObtainingNewCharacterTraitsDesc>Набуття нових рис персонажа</SP.SPM2_ObtainingNewCharacterTraitsDesc>
+
+
+</LanguageData>

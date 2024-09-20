@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ArtificialBone.label>штучна кістка</ArtificialBone.label>
+<ArtificialBone.description>Замінює знищені кістки.</ArtificialBone.description>
+<ArtificialNose.label>штучний ніс</ArtificialNose.label>
+<ArtificialNose.description>Замінює відсутній ніс. Прикриває отвір у обличчі.</ArtificialNose.description>
+<SimpleProstheticLeg.label>проста протезна нога</SimpleProstheticLeg.label>
+<SimpleProstheticLeg.description>Протез ноги. Хоча він не має нейтрального інтерфейсу, його складна система внутрішніх суглобів дозволяє досить переконливо імітувати природний рух. Тим не менш, він не є рівноцінним реальній нозі.</SimpleProstheticLeg.description>
+<SimpleProstheticArm.label>проста протезна рука</SimpleProstheticArm.label>
+<SimpleProstheticArm.description>Протез руки. Хоча він не має нейроінтерфейсу, його складна система внутрішніх з'єднань дозволяє йому досить переконливо імітувати природний рух. Однак він є менш ефективним, ніж справжня рука.</SimpleProstheticArm.description>
+<CochlearImplant.label>імплант слухового апарату</CochlearImplant.label>
+<CochlearImplant.description>Імплант, що замінює природний слух. Зовнішній мікрофон передає звуковий сигнал на електроди, які обгортають нерви слухового сприймання внутрішнього вуха. Електроди стимулюють нерви в залежності від звуку, створюючи відчуття слуху. Це не так добре, як природне вухо, але набагато краще, ніж глухота.</CochlearImplant.description>
+<SimpleProstheticHand.label>простий протез кисті руки</SimpleProstheticHand.label>
+<SimpleProstheticHand.description>Замінює відсутність кисті рук. Набагато зручніший та менш страшний, ніж крючок.</SimpleProstheticHand.description>
+<SimpleProstheticFoot.label>простий протез стопи</SimpleProstheticFoot.label>
+<SimpleProstheticFoot.description>Замінює відсутність стопи.</SimpleProstheticFoot.description>
+</LanguageData>

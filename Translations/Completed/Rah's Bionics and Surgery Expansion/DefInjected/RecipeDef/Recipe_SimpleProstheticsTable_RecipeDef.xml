@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MakeArtificialBone.label>Створити штучну кістку</MakeArtificialBone.label>
+<MakeArtificialBone.description>Створює штучну кістку з пластіку та сталі.</MakeArtificialBone.description>
+<MakeArtificialBone.jobString>Виготовлення штучної кістки.</MakeArtificialBone.jobString>
+<MakeSimpleProstheticLeg.label>Створити просту протезну ногу</MakeSimpleProstheticLeg.label>
+<MakeSimpleProstheticLeg.description>Створює просту протезну ногу зі сталі та компонентів.</MakeSimpleProstheticLeg.description>
+<MakeSimpleProstheticLeg.jobString>Виготовлення протеза.</MakeSimpleProstheticLeg.jobString>
+<MakeSimpleProstheticArm.label>Створити просту протезну руку</MakeSimpleProstheticArm.label>
+<MakeSimpleProstheticArm.description>Створює просту протезну руку зі сталі та компонентів.</MakeSimpleProstheticArm.description>
+<MakeSimpleProstheticArm.jobString>Виготовлення протеза.</MakeSimpleProstheticArm.jobString>
+<MakeSimpleProstheticHand.label>Створити просту протезну кисть</MakeSimpleProstheticHand.label>
+<MakeSimpleProstheticHand.description>Виготовляє просту протезну кисть зі сталі та компонентів.</MakeSimpleProstheticHand.description>
+<MakeSimpleProstheticHand.jobString>Створення протезу.</MakeSimpleProstheticHand.jobString>
+<MakeSimpleProstheticFoot.label>Виготовити просту протезну ступню</MakeSimpleProstheticFoot.label>
+<MakeSimpleProstheticFoot.description>Виготовляє просту протезну ступню зі сталі та компонентів.</MakeSimpleProstheticFoot.description>
+<MakeSimpleProstheticFoot.jobString>Створення протезу.</MakeSimpleProstheticFoot.jobString>
+<MakeCochlearImplant.label>Виготовити коклеарний імплант</MakeCochlearImplant.label>
+<MakeCochlearImplant.description>Виготовляє коклеарний імплант зі сталі та компонентів.</MakeCochlearImplant.description>
+<MakeCochlearImplant.jobString>Створення протезу.</MakeCochlearImplant.jobString>
+<MakeArtificialNose.label>Виготовити штучний ніс</MakeArtificialNose.label>
+<MakeArtificialNose.description>Виготовляє штучний ніс з пласталю.</MakeArtificialNose.description>
+<MakeArtificialNose.jobString>Створення протезу.</MakeArtificialNose.jobString>
+</LanguageData>

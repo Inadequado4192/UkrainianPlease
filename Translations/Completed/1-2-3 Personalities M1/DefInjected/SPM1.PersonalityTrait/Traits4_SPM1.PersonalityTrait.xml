@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Traits/Traits4.xml-->
+<!-- sensitive -->
+<SP_Sensitive.label>чутливий</SP_Sensitive.label>
+<!-- відсторонений -->
+<SP_Withdrawn.label>відсторонений</SP_Withdrawn.label>
+<!-- експресивний -->
+<SP_Expressive.label>експресивний</SP_Expressive.label>
+<!-- драматичний -->
+<SP_Dramatic.label>драматичний</SP_Dramatic.label>
+<!-- самозаглиблений -->
+<SP_Self-Absorbed.label>самозаглиблений</SP_Self-Absorbed.label>
+<!-- темпераментний -->
+<SP_Temperamental.label>темпераментний</SP_Temperamental.label>
+<!-- пристрасний -->
+<SP_Passionate.label>пристрасний</SP_Passionate.label>
+<!-- інтроспективний -->
+<SP_Introspective.label>інтроспективний</SP_Introspective.label>
+</LanguageData>

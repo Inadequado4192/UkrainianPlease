@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<InstallSimpleProstheticLeg.label>встановити простий протез ноги</InstallSimpleProstheticLeg.label>
+<InstallSimpleProstheticLeg.description>Встановлює простий протез ноги.</InstallSimpleProstheticLeg.description>
+<InstallSimpleProstheticLeg.jobString>Встановлення простого протезу ноги.</InstallSimpleProstheticLeg.jobString>
+<InstallSimpleProstheticArm.label>встановити простий протез руки</InstallSimpleProstheticArm.label>
+<InstallSimpleProstheticArm.description>Встановлює простий протез руки.</InstallSimpleProstheticArm.description>
+<InstallSimpleProstheticArm.jobString>Встановлення простого протезу руки.</InstallSimpleProstheticArm.jobString>
+<InstallSimpleProstheticHand.label>встановити просту протезу кисті руки</InstallSimpleProstheticHand.label>
+<InstallSimpleProstheticHand.description>Встановлює просту протезну кисті руку.</InstallSimpleProstheticHand.description>
+<InstallSimpleProstheticHand.jobString>Встановлення простої протезної кисті руки.</InstallSimpleProstheticHand.jobString>
+<InstallSimpleProstheticFoot.label>встановити просту протезну ногу</InstallSimpleProstheticFoot.label>
+<InstallSimpleProstheticFoot.description>Встановлює просту протезну ногу.</InstallSimpleProstheticFoot.description>
+<InstallSimpleProstheticFoot.jobString>Встановлення простої протезної ноги.</InstallSimpleProstheticFoot.jobString>
+<InstallArtificialNose.label>встановити штучний ніс</InstallArtificialNose.label>
+<InstallArtificialNose.description>Встановлює штучний ніс.</InstallArtificialNose.description>
+<InstallArtificialNose.jobString>Встановлення штучного носа.</InstallArtificialNose.jobString>
+</LanguageData>

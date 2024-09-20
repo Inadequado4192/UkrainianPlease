@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Variants/Variants6.xml-->
+<!-- Лояліст -->
+<SP_Loyalist.label>Лояліст</SP_Loyalist.label>
+<!-- Вартовий -->
+<SP_Guardian.label>Охоронець</SP_Guardian.label>
+<!-- Довірена особа -->
+<SP_Confidant.label>Довірена особа</SP_Confidant.label>
+<!-- Iconoclast -->
+<SP_Iconoclast.label>Іконоборець</SP_Iconoclast.label>
+</LanguageData>

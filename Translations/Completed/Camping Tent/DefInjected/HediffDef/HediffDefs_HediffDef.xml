@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<TENT_ComfyBothbutlesser.label>у наметі</TENT_ComfyBothbutlesser.label>
+<TENT_ComfyBothbutlesser.description>принаймні, там зберігається комфортна температура.</TENT_ComfyBothbutlesser.description>
+
+<TENT_ComfyBoth.label>Затишний намет</TENT_ComfyBoth.label>
+<TENT_ComfyBoth.description>Технологія текстилю забезпечує комфортну температуру всередині.</TENT_ComfyBoth.description>
+
+<TENT_ComfyCold.label>Теплий намет</TENT_ComfyCold.label>
+<TENT_ComfyCold.description>В наметі є пухові ковдри, що забезпечують комфортну температуру.</TENT_ComfyCold.description>
+
+<TENT_ComfyHot.label>Прохолодний намет</TENT_ComfyHot.label>
+<TENT_ComfyHot.description>У наметі прохолодно.</TENT_ComfyHot.description>
+
+</LanguageData>

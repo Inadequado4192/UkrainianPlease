@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<CleanOil.reportString>Очищає нафту</CleanOil.reportString>
+<SuperviseDrilling.reportString>Керує процесом буріння</SuperviseDrilling.reportString>
+<EmptyAutoclave.reportString>Розгрузка автоклава</EmptyAutoclave.reportString>
+<FillAutoclave.reportString>Завантаження автоклава</FillAutoclave.reportString>
+<OperateResourceConsole.reportString>Оперує консоллю ресурсів</OperateResourceConsole.reportString>
+
+</LanguageData>

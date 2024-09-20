@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<SP_Hediff_AnimalKind.label>Особистість (Лагідна)</SP_Hediff_AnimalKind.label>
+<SP_Hediff_AnimalKind.description>Це тварина з лагідною особистістю. Вона частіше прилягає до колоністів.</SP_Hediff_AnimalKind.description>
+<SP_Hediff_AnimalIntense.label>Особистість (Інтенсивна)</SP_Hediff_AnimalIntense.label>
+<SP_Hediff_AnimalIntense.description>Це тварина з інтенсивною особистістю. Вона завдає більше шкоди при атаках.</SP_Hediff_AnimalIntense.description>
+<SP_Hediff_AnimalEnergetic.label>Особистість (Енергійна)</SP_Hediff_AnimalEnergetic.label>
+<SP_Hediff_AnimalEnergetic.description>Це тварина з енергійною особистістю. Вона рухається трохи швидше.</SP_Hediff_AnimalEnergetic.description>
+<SP_Hediff_AnimalCalm.label>Особистість (Спокійна)</SP_Hediff_AnimalCalm.label>
+<SP_Hediff_AnimalCalm.description>Це тварина зі спокійною особистістю. Її стійкий рух дозволяє переносити більше предметів та масу в караванах.</SP_Hediff_AnimalCalm.description>
+<SP_Hediff_AnimalKind.label>Особистість (Лагідна)</SP_Hediff_AnimalKind.label>
+<SP_Hediff_AnimalKind.description>Це тварина з лагідною особистістю. Вона частіше прилягає до колоністів.</SP_Hediff_AnimalKind.description>
+<SP_Hediff_AnimalIntense.label>Особистість (Інтенсивна)</SP_Hediff_AnimalIntense.label>
+<SP_Hediff_AnimalIntense.description>Це тварина з інтенсивною особистістю. Вона завдасть більше шкоди при атаках.</SP_Hediff_AnimalIntense.description>
+<SP_Hediff_AnimalEnergetic.label>Особистість (Енергійна)</SP_Hediff_AnimalEnergetic.label>
+<SP_Hediff_AnimalEnergetic.description>Ця тварина має енергійну особистість. Вона рухається трохи швидше.</SP_Hediff_AnimalEnergetic.description>
+<SP_Hediff_AnimalCalm.label>Особистість (Спокійна)</SP_Hediff_AnimalCalm.label>
+<SP_Hediff_AnimalCalm.description>Ця тварина має спокійну особистість. Її стійкий рух дозволяє перевозити більше предметів та маси в караванах.</SP_Hediff_AnimalCalm.description>
+<SP_Hediff_AnimalKind.label>Особистість (Лагідна)</SP_Hediff_AnimalKind.label>
+<SP_Hediff_AnimalKind.description>Ця тварина має лагідну особистість. Вона частіше цілує колоністів.</SP_Hediff_AnimalKind.description>
+<SP_Hediff_AnimalIntense.label>Особистість (Інтенсивна)</SP_Hediff_AnimalIntense.label>
+<SP_Hediff_AnimalIntense.description>Цей тварина має інтенсивну особистість. Вона завдає більше шкоди, коли атакує.</SP_Hediff_AnimalIntense.description>
+<SP_Hediff_AnimalEnergetic.label>Особистість (Енергійна)</SP_Hediff_AnimalEnergetic.label>
+<SP_Hediff_AnimalEnergetic.description>Ця тварина має енергійну особистість. Вона рухається трохи швидше.</SP_Hediff_AnimalEnergetic.description>
+<SP_Hediff_AnimalCalm.label>Особистість (Спокійна)</SP_Hediff_AnimalCalm.label>
+<SP_Hediff_AnimalCalm.description>Ця тварина має спокійну особистість. Її стабільний рух дозволяє тягти більше предметів та нести більше ваги в караванах.</SP_Hediff_AnimalCalm.description>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Variants/AnimalVariants_Energetic.xml-->
+<SP_Animal_WalkiesAddict.label>залежний до прогулянок</SP_Animal_WalkiesAddict.label>
+<SP_Animal_Runner.label>бігун</SP_Animal_Runner.label>
+<SP_Animal_Howler.label>ночний виїдець</SP_Animal_Howler.label>
+<SP_Animal_ShowOff.label>хвастун</SP_Animal_ShowOff.label>
+<SP_Animal_ClubMember.label>член клубу "Забув закопати свої какашки"</SP_Animal_ClubMember.label>
+<SP_Animal_MessyGobbler.label>брудний їдок</SP_Animal_MessyGobbler.label>
+<SP_Animal_Escapist.label>втікач</SP_Animal_Escapist.label>
+<SP_Animal_Sprinter.label>спринтер</SP_Animal_Sprinter.label>
+<SP_Animal_LegHumper.label>лапообійник</SP_Animal_LegHumper.label>
+<SP_Animal_Ambusher.label>засідка</SP_Animal_Ambusher.label>
+<SP_Animal_Smudge.label>брудяга</SP_Animal_Smudge.label>
+<SP_Animal_ZoomiesFanatic.label>фанат шалених перегонів</SP_Animal_ZoomiesFanatic.label>
+<SP_Animal_Mudmobile.label>гряземобіль</SP_Animal_Mudmobile.label>
+<SP_Animal_Quicksilver.label>неймовірно швидка</SP_Animal_Quicksilver.label>
+<SP_Animal_Flash.label>блискавка</SP_Animal_Flash.label>
+<SP_Animal_Fleabag.label>блохастий</SP_Animal_Fleabag.label>
+<SP_Animal_UnLeashable.label>без повідка</SP_Animal_UnLeashable.label>
+<SP_Animal_WaggingMachine.label>машинка-вижмак</SP_Animal_WaggingMachine.label>
+<SP_Animal_FartHopper.label>пердун-стрибунець</SP_Animal_FartHopper.label>
+<SP_Animal_EscapeArtist.label>майстер втікач</SP_Animal_EscapeArtist.label>
+<SP_Animal_KitchenRaider.label>кухарський налітчик</SP_Animal_KitchenRaider.label>
+<SP_Animal_WalkingDisaster.label>розхитувач грунту</SP_Animal_WalkingDisaster.label>
+</LanguageData>

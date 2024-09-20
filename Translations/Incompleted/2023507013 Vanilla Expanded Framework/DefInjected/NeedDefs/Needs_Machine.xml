@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-    <!-- EN: power -->
-    <VFE_Mechanoids_Power.label>живлення</VFE_Mechanoids_Power.label>
-    <!-- EN: Power represents the state of a machine's internal battery. If it gets too low, the machine will stop performing tasks and return to its station to recharge. -->
-    <VFE_Mechanoids_Power.description>Потужність відображає стан внутрішнього акумулятора машини. Якщо рівень заряду буде занадто низьким, машина припинить виконання завдань і повернеться на свою станцію для підзарядки.</VFE_Mechanoids_Power.description>
-</LanguageData>

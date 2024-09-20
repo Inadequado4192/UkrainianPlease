@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RomanceOnTheRim>Романтика на Рім</RomanceOnTheRim>
+<TryStartMarriageButtonLabel>Розпочати шлюб</TryStartMarriageButtonLabel>
+<TryStartMarriageButtonDesc>Виберіть пішака та відразу почніть церемонію весілля</TryStartMarriageButtonDesc>
+<AssignedFiances>Призначені:</AssignedFiances>
+<CeremonyFiancesUnassign>Скасувати призначення</CeremonyFiancesUnassign>
+<FiancesCandidates>Кандидати:</FiancesCandidates>
+<CeremonyFiancesReassign>Перепризначити</CeremonyFiancesReassign>
+<CeremonyFiancesAssign>Призначити</CeremonyFiancesAssign>
+<CancelButton>Закрити</CancelButton>
+<ConfirmButton>Підтвердити</ConfirmButton>
+<Setting_EnableNeedAndInteraction>Увімкнути романтичні потреби та взаємодії</Setting_EnableNeedAndInteraction>
+<Setting_EnableThoughts>Увімкнути думки</Setting_EnableThoughts>
+<Setting_InteractionSelectionWeight>Налаштувати вагу взаємодій:</Setting_InteractionSelectionWeight>
+<Setting_InteractionSelectionWeightToolTip>За замовчуванням 1, встановіть 0, щоб вимкнути такий вид взаємодій, або збільшіть його, щоб збільшити його шанс.</Setting_InteractionSelectionWeightToolTip>
+<Setting_KissSelectionWeight>Поцілунки</Setting_KissSelectionWeight>
+<Setting_GetJoyTogetherSelectionWeight>Радіти разом</Setting_GetJoyTogetherSelectionWeight>
+<Setting_PillowTalkSelectionWeight>Інтимні розмови</Setting_PillowTalkSelectionWeight>
+<Setting_MusicalPerformanceSelectionWeight>Музичний виступ</Setting_MusicalPerformanceSelectionWeight>
+<Setting_SkygazeTogetherSelectionWeight>Дивитися на зірки разом</Setting_SkygazeTogetherSelectionWeight>
+
+</LanguageData>

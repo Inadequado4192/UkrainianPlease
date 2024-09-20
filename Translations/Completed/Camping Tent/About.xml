@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Inadequado4192/UkrainianPlease/master/Translations/Scheme.xsd">
+    <originalMod>
+        <name>Camping Tent</name>
+        <id>2407128339</id>
+        <packageId>aoba.tent</packageId>
+    </originalMod>
+    <authors>
+        <li>
+            <nickname>AntiJaoi</nickname>
+            <steamId>76561198066973088</steamId>
+        </li>
+    </authors>
+    <sourceTranslationId>2954708812</sourceTranslationId>
+    <lastUpdate>2023-03-30T02:50:49.000Z</lastUpdate>
+</TranslationDetails>

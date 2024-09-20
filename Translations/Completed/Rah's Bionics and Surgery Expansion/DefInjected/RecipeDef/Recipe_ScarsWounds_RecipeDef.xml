@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<CureInjuryBurn.label>вилікувати опік</CureInjuryBurn.label>
+<CureInjuryBurn.description>Вилікувати опік.</CureInjuryBurn.description>
+<CureInjuryBurn.jobString>Лікую опік.</CureInjuryBurn.jobString>
+<CureInjuryCrush.label>вилікувати стиснення</CureInjuryCrush.label>
+<CureInjuryCrush.description>Вилікувати стиснення.</CureInjuryCrush.description>
+<CureInjuryCrush.jobString>Лікую стиснення.</CureInjuryCrush.jobString>
+<CureInjuryCrack.label>вилікувати тріщину</CureInjuryCrack.label>
+<CureInjuryCrack.description>Вилікувати тріщину.</CureInjuryCrack.description>
+<CureInjuryCrack.jobString>Лікую тріщину.</CureInjuryCrack.jobString>
+<CureInjuryCut.label>вилікувати поріз</CureInjuryCut.label>
+<CureInjuryCut.description>Вилікувати поріз.</CureInjuryCut.description>
+<CureInjuryCut.jobString>Лікую поріз.</CureInjuryCut.jobString>
+<CureInjurySurgicalCut.label>вилікувати хірургічний розтин</CureInjurySurgicalCut.label>
+<CureInjurySurgicalCut.description>Вилікувати хірургічний розтин.</CureInjurySurgicalCut.description>
+<CureInjurySurgicalCut.jobString>Лікую хірургічний розтин.</CureInjurySurgicalCut.jobString>
+<CureInjuryScratch.label>вилікувати подряпину</CureInjuryScratch.label>
+<CureInjuryScratch.description>Вилікувати подряпину.</CureInjuryScratch.description>
+<CureInjuryScratch.jobString>Вилікування подряпини.</CureInjuryScratch.jobString>
+<CureInjuryBite.label>Вилікувати укус.</CureInjuryBite.label>
+<CureInjuryBite.description>Вилікувати укус.</CureInjuryBite.description>
+<CureInjuryBite.jobString>Вилікування укусу.</CureInjuryBite.jobString>
+<CureInjuryStab.label>Вилікувати поріз.</CureInjuryStab.label>
+<CureInjuryStab.description>Вилікувати поріз.</CureInjuryStab.description>
+<CureInjuryStab.jobString>Вилікування порізу.</CureInjuryStab.jobString>
+<CureInjuryGunshot.label>Вилікувати поранення від кулі.</CureInjuryGunshot.label>
+<CureInjuryGunshot.description>Вилікувати поранення від кулі.</CureInjuryGunshot.description>
+<CureInjuryGunshot.jobString>Вилікування поранення від кулі.</CureInjuryGunshot.jobString>
+<CureInjuryShredded.label>Вилікувати різанину.</CureInjuryShredded.label>
+<CureInjuryShredded.description>Вилікувати різанину.</CureInjuryShredded.description>
+<CureInjuryShredded.jobString>Вилікування різанини.</CureInjuryShredded.jobString>
+<CureInjuryBruise.label>Вилікувати синець.</CureInjuryBruise.label>
+<CureInjuryBruise.description>Вилікувати синець.</CureInjuryBruise.description>
+<CureInjuryBruise.jobString>Вилікування синця.</CureInjuryBruise.jobString>
+<CureInjuryFrostbite.label>Вилікувати обмороження.</CureInjuryFrostbite.label>
+<CureInjuryFrostbite.description>Вилікувати обмороження.</CureInjuryFrostbite.description>
+<CureInjuryFrostbite.successfullyRemovedHediffMessage>{0} успішно вилікував обмороження у {1}.</CureInjuryFrostbite.successfullyRemovedHediffMessage>
+<CureInjuryFrostbite.jobString>Вилікування обмороження.</CureInjuryFrostbite.jobString>
+</LanguageData>
